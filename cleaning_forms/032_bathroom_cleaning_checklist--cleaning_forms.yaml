@@ -1,147 +1,136 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Bathroom Cleaning Checklist
     pages:
-      - id: 1
-        name: location_details
-        label: -- Location and Staff --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: room_identifier
-        label: Bathroom/Room ID
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: cleaner_name
-        label: Cleaner Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: cleaning_date
-        label: Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: task_checklist_header
-        label: -- Cleaning Tasks --
-        hint: Check all tasks as they are completed
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: mirrors_cleaned
-        label: Mirrors cleaned and polished
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 7
-        name: sinks_disinfected
-        label: Sinks and countertops disinfected
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: toilets_scrubbed
-        label: Toilets scrubbed and disinfected
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: showers_tubs_cleaned
-        label: Showers or tubs cleaned (if applicable)
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: false
-      - id: 10
-        name: floors_mopped
-        label: Floors swept and mopped
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: trash_emptied
-        label: Trash bins emptied and liners replaced
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 12
-        name: restock_header
-        label: -- Supplies Restocked --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: paper_towels_restocked
-        label: Paper towels replenished
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 14
-        name: soap_refilled
-        label: Soap dispensers refilled
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 15
-        name: maintenance_issues
-        label: Any maintenance issues reported?
-        hint: e.g. leaky faucet, broken light
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: completion_time
-        label: Time of Completion
-        hint: null
-        type: time
-        options: []
-        required: true
+    - id: 1
+      name: location_details
+      label: -- Location and Staff --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: room_identifier
+      label: Bathroom/Room ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: cleaner_name
+      label: Cleaner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: cleaning_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: task_checklist_header
+      label: -- Cleaning Tasks --
+      hint: Check all tasks as they are completed
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: mirrors_cleaned
+      label: Mirrors cleaned and polished
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 7
+      name: sinks_disinfected
+      label: Sinks and countertops disinfected
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: toilets_scrubbed
+      label: Toilets scrubbed and disinfected
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: showers_tubs_cleaned
+      label: Showers or tubs cleaned (if applicable)
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: false
+    - id: 10
+      name: floors_mopped
+      label: Floors swept and mopped
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: trash_emptied
+      label: Trash bins emptied and liners replaced
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: restock_header
+      label: -- Supplies Restocked --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: paper_towels_restocked
+      label: Paper towels replenished
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 14
+      name: soap_refilled
+      label: Soap dispensers refilled
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: maintenance_issues
+      label: Any maintenance issues reported?
+      hint: e.g. leaky faucet, broken light
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: completion_time
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: true

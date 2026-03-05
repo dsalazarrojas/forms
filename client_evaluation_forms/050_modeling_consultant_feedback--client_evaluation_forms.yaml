@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Satisfactory''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Not Satisfactory
       required: false
     - id: 2
       name: evaluation_date
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Very Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
-      - '{''id'': 5, ''label'': ''Very Poor''}'
+      - Excellent
+      - Very Good
+      - Fair
+      - Poor
+      - Very Poor
       required: false
     - id: 7
       name: communication_skills
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Highly Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Satisfactory''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Not Satisfactory
       required: false
     - id: 8
       name: work_style
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Satisfactory''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Not Satisfactory
       required: false
     - id: 9
       name: time_management
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Satisfactory''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Not Satisfactory
       required: false
     - id: 10
       name: project_manager_skills
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Satisfactory''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Not Satisfactory
       required: false
     - id: 11
       name: problem_solving
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Satisfactory''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Not Satisfactory
       required: false
     - id: 12
       name: team_collaboration
@@ -109,13 +109,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Satisfactory''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Not Satisfactory
       required: false
     - id: 13
       name: feedback_comment
-      label: Feedback
+      label: Feedback Comment
       hint: null
       type: text
       options: []
@@ -140,62 +140,62 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Highly Satisfactory''}'
-      - '{''id'': 2, ''label'': ''Satisfactory''}'
-      - '{''id'': 3, ''label'': ''Not Satisfactory''}'
+      - Highly Satisfactory
+      - Satisfactory
+      - Not Satisfactory
       required: false
     - id: 17
-      name: consultant_id
+      name: consultant_id_2
       label: Consultant ID
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: project_title
-      label: Project Title
+      name: project_title_2
+      label: Project Title 2
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: evaluation_date
-      label: Evaluation Date
+      name: evaluation_date_2
+      label: Evaluation Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 20
       name: submission_date
-      label: Submission Date
+      label: Submission Date (2)
       hint: null
       type: date
       options: []
       required: false
     - id: 21
-      name: submitted_by
-      label: Submitted By
+      name: submitted_by_2
+      label: Submitted By 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: overall_satisfaction
-      label: Overall Satisfaction
+      name: overall_satisfaction_2
+      label: Overall Satisfaction 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: consultant_name
-      label: Consultant Name
+      name: consultant_name_2
+      label: Consultant Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: submitted_date
-      label: Submission Date
+      name: submitted_date_2
+      label: Submitted Date 2
       hint: null
       type: date
       options: []

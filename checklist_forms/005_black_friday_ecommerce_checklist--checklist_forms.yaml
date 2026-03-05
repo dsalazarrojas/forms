@@ -34,8 +34,8 @@ inputSchema:
       hint: Is inventory synchronization complete
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 5
       name: payment_gateway_tested
@@ -43,8 +43,8 @@ inputSchema:
       hint: Test transactions completed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: site_speed_check
@@ -52,8 +52,8 @@ inputSchema:
       hint: Ensure pages load quickly under load
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: shipping_cutoff_date
@@ -75,8 +75,8 @@ inputSchema:
       hint: Banners social media and email templates
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: contingency_notes

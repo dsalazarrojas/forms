@@ -16,175 +16,75 @@ inputSchema:
     pages:
     - id: 1
       name: project_scope_checklist_1
-      label: Project Description
+      label: What is this project's objective?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: project_scope_checklist_2
-      label: Project Scope
+      label: Specific Deliverables
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: project_scope_checklist_3
-      label: Project Deliverables
+      label: Project Scope
       hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: project_scope_checklist_4
-      label: Project Scope Definition
+      label: Implementation Timeline
       hint: null
-      type: text
+      type: date
       options: []
       required: true
     - id: 5
       name: project_scope_checklist_5
-      label: Project Description
+      label: Responsible Parties
       hint: null
       type: text
       options: []
       required: true
     - id: 6
       name: project_scope_checklist_6
-      label: Project Deliverables
+      label: Budget Allocation
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 7
       name: project_scope_checklist_7
-      label: Project Scope
+      label: Regulatory Requirements
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: project_scope_checklist_8
-      label: Deliverables
+      label: Project Tools
       hint: null
-      type: text
-      options: []
-      required: true
+      type: select_multiple
+      options:
+      - Tool 1
+      - Tool 2
+      - Tool 3
+      required: false
     - id: 9
       name: project_scope_checklist_9
-      label: Project Definition
+      label: Project Outcome
       hint: null
       type: text
       options: []
       required: true
     - id: 10
       name: project_scope_checklist_10
-      label: Project Deliverables
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: project_scope_checklist_11
-      label: Project Scope
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: project_scope_checklist_12
-      label: Project Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: project_scope_checklist_13
-      label: Project Deliverables
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: project_scope_checklist_14
-      label: Project Scope
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: project_scope_checklist_15
-      label: Project Definition
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: project_scope_checklist_16
-      label: Deliverables
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: project_scope_checklist_17
-      label: Project Scope
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: project_scope_checklist_18
-      label: Project Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: project_scope_checklist_19
-      label: Project Deliverables
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: project_scope_checklist_20
-      label: Project Scope
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: project_scope_checklist_21
-      label: Project Definition
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: project_scope_checklist_22
-      label: Deliverables
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: project_scope_checklist_23
-      label: Project Scope
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: project_scope_checklist_24
-      label: Project Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: project_scope_checklist_25
-      label: Project Deliverables
+      label: Potential Roadblocks
       hint: null
       type: text
       options: []

@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CEO''}'
-      - '{''id'': 2, ''label'': ''CTO''}'
-      - '{''id'': 3, ''label'': ''Software Engineer''}'
-      - '{''id'': 4, ''label'': ''Project Manager''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - CEO
+      - CTO
+      - Software Engineer
+      - Project Manager
+      - Other
       required: false
     - id: 3
       name: question2
@@ -29,9 +29,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Yes, I have access''}'
-      - '{''id'': 2, ''label'': ''No, but I wish I had access''}'
-      - '{''id'': 3, ''label'': "No, and I don''t need access"}'
+      - Yes, I have access
+      - No, but I wish I had access
+      - No, and I don't need access
       required: false
     - id: 4
       name: question3
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Frequently''}'
-      - '{''id'': 2, ''label'': ''Occasionally''}'
-      - '{''id'': 3, ''label'': ''Rarely''}'
-      - '{''id'': 4, ''label'': ''Never''}'
+      - Frequently
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 5
       name: question4
@@ -52,10 +52,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very relevant''}'
-      - '{''id'': 2, ''label'': ''Somewhat relevant''}'
-      - '{''id'': 3, ''label'': ''Not very relevant''}'
-      - '{''id'': 4, ''label'': ''Not at all relevant''}'
+      - Very relevant
+      - Somewhat relevant
+      - Not very relevant
+      - Not at all relevant
       required: false
     - id: 6
       name: question5
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Practical application''}'
-      - '{''id'': 2, ''label'': ''Theoretical foundation''}'
-      - '{''id'': 3, ''label'': ''Career advancement''}'
-      - '{''id'': 4, ''label'': ''Networking opportunities''}'
+      - Practical application
+      - Theoretical foundation
+      - Career advancement
+      - Networking opportunities
       required: false
     - id: 10
       name: question9
@@ -99,10 +99,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very likely''}'
-      - '{''id'': 2, ''label'': ''Somewhat likely''}'
-      - '{''id'': 3, ''label'': ''Not very likely''}'
-      - '{''id'': 4, ''label'': ''Not at all likely''}'
+      - Very likely
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
       required: false
     - id: 11
       name: question10
@@ -110,8 +110,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: question11
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Add more practical training activities''}'
-      - '{''id'': 2, ''label'': ''Increase the frequency of training sessions''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Add more practical training activities
+      - Increase the frequency of training sessions
+      - Other
       required: false
     - id: 13
       name: question13
@@ -129,10 +129,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''In-person meetings''}'
-      - '{''id'': 4, ''label'': ''Online meetings''}'
+      - Email
+      - Phone
+      - In-person meetings
+      - Online meetings
       required: false
     - id: 14
       name: question14

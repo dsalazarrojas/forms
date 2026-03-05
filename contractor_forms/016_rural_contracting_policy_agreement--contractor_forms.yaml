@@ -5,28 +5,19 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: Form Title
+      label: What is the title of the form?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: form_category
       label: Category
       hint: null
-      type: select_one
-      options:
-      - Contractor Forms
-      - Other Forms
-      required: false
-    - id: 3
-      name: form_description
-      label: Description
-      hint: null
       type: text
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: contractor_details
       label: Contractor Details
       hint: null
@@ -35,15 +26,15 @@ inputSchema:
       - Client Details
       - Contract Details
       - Payment Details
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: scope_of_work
       label: Scope of Work
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: agreement_period
       label: Agreement Period
       hint: null
@@ -52,145 +43,65 @@ inputSchema:
       - 1 month
       - 3 months
       - 6 months
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: agreement_period_date
       label: Agreement Period Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: consent
-      label: Consent
+      label: Is there a consent from the client?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
       name: signatures
-      label: Signatures
+      label: Who will be signing the contract?
       hint: null
       type: select_multiple
       options:
       - Contractor
       - Client
       - Notary
-      required: false
-    - id: 10
-      name: contractor_name
-      label: Contractor Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: client_name
-      label: Client Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 9
       name: contract_start_date
-      label: Contract Start Date
+      label: What is the contract start date?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 10
       name: contract_end_date
-      label: Contract End Date
+      label: What is the contract end date?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 14
-      name: drag_and_drop
-      label: Drag and Drop
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: drag_and_drop
-      label: Drag and Drop
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: drag_and_drop
-      label: Drag and Drop
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
+      required: true
+    - id: 11
       name: email
-      label: Email
+      label: What is the email of the contractor?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 18
+      required: true
+    - id: 12
       name: phone
-      label: Phone
+      label: What is the phone number of the contractor?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: agreement
-      label: Agreement
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 20
-      name: submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - Submit
-      - Preview
-      - Cancel
-      required: false
-    - id: 21
+      required: true
+    - id: 13
       name: drag_and_drop
       label: Drag and Drop
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: drag_and_drop
-      label: Drag and Drop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: drag_and_drop
-      label: Drag and Drop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: drag_and_drop
-      label: Drag and Drop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: drag_and_drop
-      label: Drag and Drop
-      hint: null
-      type: text
+      type: note
       options: []
       required: false

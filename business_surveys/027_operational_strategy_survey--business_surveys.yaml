@@ -15,177 +15,109 @@ inputSchema:
     title: operational_strategy_survey
     pages:
     - id: 1
-      name: strategy_1
-      label: Operational Strategy
+      name: operational_strategy
+      label: What is the company's operational strategy?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: strategy_2
-      label: Operational Objectives
+      name: operational_objectives
+      label: What are the company's operational objectives?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: objectives_1
-      label: Objectives
+      name: performance_metrics
+      label: What are the performance metrics used to measure the company's performance?
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: objectives_2
-      label: Performance Metrics
+      name: operational_processes
+      label: What are the operational processes used in the company?
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: performance_metrics_1
-      label: Operational Processes
+      name: efficiency_and_effectiveness
+      label: How does the company measure its efficiency and effectiveness?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Highly effective
+      - Moderately effective
+      - Not effective
       required: true
     - id: 6
-      name: operational_processes_1
-      label: Efficiency and Effectiveness
+      name: stakeholders_feedback
+      label: What feedback do you have for the stakeholders?
       hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: efficiency_and_effectiveness_1
-      label: Stakeholders Feedback
+      name: recommendations_and_actions
+      label: What recommendations and actions would you suggest for the company?
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: stakeholders_feedback_1
-      label: Recommendations and Actions
+      name: review_and_followup
+      label: How does the company conduct review and follow-up?
       hint: null
       type: text
       options: []
       required: true
     - id: 9
-      name: recommendations_and_actions_1
-      label: Review and Follow-up
+      name: key_performance_indicators
+      label: What key performance indicators (KPIs) are used by the company?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Revenue growth
+      - Customer satisfaction
+      - Efficiency
+      - Effectiveness
+      - Quality
+      - Employee engagement
       required: true
     - id: 10
-      name: review_and_followup_1
-      label: Review and Follow-up
+      name: review_and_followup_frequency
+      label: How often does the company conduct review and follow-up meetings?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
       required: true
     - id: 11
-      name: followup_1
-      label: Review and Follow-up
+      name: leadership_role
+      label: What is the role of the company's leadership in the operational strategy?
       hint: null
       type: text
       options: []
       required: true
     - id: 12
-      name: review_1
-      label: Follow-up
+      name: main_challenges
+      label: What are the main challenges faced by the company in its operational
+        strategy?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: followup_2
-      label: Follow-up
+      name: future_plans
+      label: What are the future plans of the company for its operational strategy?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: followup_3
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: followup_4
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: followup_5
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: followup_6
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: followup_7
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: followup_8
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: followup_9
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: followup_10
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: followup_11
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: followup_12
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: followup_13
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: followup_14
-      label: Follow-up
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

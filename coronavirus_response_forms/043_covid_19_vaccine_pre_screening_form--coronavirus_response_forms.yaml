@@ -1,313 +1,302 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: COVID 19 Vaccine Pre Screening Form
     pages:
-      - id: 1
-        name: patient_name
-        label: Patient Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: patient_dob
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: patient_id
-        label: Patient ID or Medical Record Number
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: screening_date
-        label: Screening Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: screening_section
-        label: "-- Pre-Screening Questions --"
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: severe_allergies
-        label: History of severe allergic reactions
-        hint: Anaphylaxis to vaccines or medications
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: allergic_components
-        label: Known allergies to vaccine components
-        hint: Polyethylene glycol, polysorbate
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-        required: true
-      - id: 8
-        name: current_illness
-        label: Currently ill with fever or acute illness
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: myocarditis_history
-        label: History of myocarditis or pericarditis
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: seizure_disorder
-        label: Seizure disorder or neurological condition
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: immunocompromised_section
-        label: "-- Immune Status --"
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: immunocompromised
-        label: Severely immunocompromised
-        hint: HIV, cancer treatment, transplant
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-        required: true
-      - id: 13
-        name: immunosuppressive_therapy
-        label: Currently on immunosuppressive therapy
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 14
-        name: blood_disorder_section
-        label: "-- Blood and Coagulation --"
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: blood_clotting_disorder
-        label: History of blood clotting disorders
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 16
-        name: anticoagulant_therapy
-        label: Currently taking anticoagulants or blood thinners
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 17
-        name: thrombocytopenia
-        label: Thrombocytopenia or low platelet count
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-        required: true
-      - id: 18
-        name: pregnancy_section
-        label: "-- Pregnancy and Reproduction --"
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 19
-        name: pregnant
-        label: Currently pregnant
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-          - Not applicable
-        required: true
-      - id: 20
-        name: breastfeeding
-        label: Currently breastfeeding
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not applicable
-        required: true
-      - id: 21
-        name: recent_vaccine_section
-        label: "-- Recent Vaccinations --"
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 22
-        name: recent_live_vaccine
-        label: Recently received live vaccine
-        hint: Within past 4 weeks
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 23
-        name: recent_live_vaccine_date
-        label: If yes, date of live vaccine
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 24
-        name: prior_covid_vaccine_section
-        label: "-- Prior COVID Vaccination --"
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 25
-        name: prior_covid_vaccine
-        label: Previously received COVID-19 vaccine
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 26
-        name: prior_vaccine_type
-        label: If yes, vaccine type
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: prior_vaccine_date
-        label: Date of prior vaccine
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 28
-        name: prior_severe_reaction
-        label: Severe reaction to prior COVID vaccine
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 29
-        name: covid_history_section
-        label: "-- COVID-19 History --"
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 30
-        name: prior_covid
-        label: Prior COVID-19 diagnosis
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-        required: true
-      - id: 31
-        name: covid_diagnosis_date
-        label: If yes, date of diagnosis
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 32
-        name: current_covid_infection
-        label: Currently positive or have active COVID-19
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 33
-        name: screening_conclusion_section
-        label: "-- Screening Conclusion --"
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 34
-        name: screening_result
-        label: Pre-screening Result
-        hint: To be completed by healthcare provider
-        type: select_one
-        options:
-          - Approved - safe to vaccinate
-          - Defer - contact physician first
-          - Requires evaluation - see medical provider
-          - Not approved - contraindication
-        required: true
-      - id: 35
-        name: provider_name
-        label: Healthcare Provider Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 36
-        name: screening_notes
-        label: Screening Notes or Comments
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: screening_date
+      label: Screening Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: screening_section
+      label: -- Pre-Screening Questions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: severe_allergies
+      label: History of severe allergic reactions
+      hint: Anaphylaxis to vaccines or medications
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: allergic_components
+      label: Known allergies to vaccine components
+      hint: Polyethylene glycol, polysorbate
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 8
+      name: current_illness
+      label: Currently ill with fever or acute illness
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: myocarditis_history
+      label: History of myocarditis or pericarditis
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: seizure_disorder
+      label: Seizure disorder or neurological condition
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: immunocompromised_section
+      label: -- Immune Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: immunocompromised
+      label: Severely immunocompromised
+      hint: HIV, cancer treatment, transplant
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 13
+      name: immunosuppressive_therapy
+      label: Currently on immunosuppressive therapy
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: blood_disorder_section
+      label: -- Blood and Coagulation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: blood_clotting_disorder
+      label: History of blood clotting disorders
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: anticoagulant_therapy
+      label: Currently taking anticoagulants or blood thinners
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: thrombocytopenia
+      label: Thrombocytopenia or low platelet count
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 18
+      name: pregnancy_section
+      label: -- Pregnancy and Reproduction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: pregnant
+      label: Currently pregnant
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      - Not applicable
+      required: true
+    - id: 20
+      name: breastfeeding
+      label: Currently breastfeeding
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 21
+      name: recent_vaccine_section
+      label: -- Recent Vaccinations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: recent_live_vaccine
+      label: Recently received live vaccine
+      hint: Within past 4 weeks
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: recent_live_vaccine_date
+      label: If yes, date of live vaccine
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: prior_covid_vaccine_section
+      label: -- Prior COVID Vaccination --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: prior_covid_vaccine
+      label: Previously received COVID-19 vaccine
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 26
+      name: prior_vaccine_type
+      label: If yes, vaccine type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: prior_vaccine_date
+      label: Date of prior vaccine
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: prior_severe_reaction
+      label: Severe reaction to prior COVID vaccine
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 29
+      name: covid_history_section
+      label: -- COVID-19 History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: prior_covid
+      label: Prior COVID-19 diagnosis
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 31
+      name: covid_diagnosis_date
+      label: If yes, date of diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 32
+      name: current_covid_infection
+      label: Currently positive or have active COVID-19
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 33
+      name: screening_conclusion_section
+      label: -- Screening Conclusion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: screening_result
+      label: Pre-screening Result
+      hint: To be completed by healthcare provider
+      type: select_one
+      options:
+      - Approved - safe to vaccinate
+      - Defer - contact physician first
+      - Requires evaluation - see medical provider
+      - Not approved - contraindication
+      required: true
+    - id: 35
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: screening_notes
+      label: Screening Notes or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

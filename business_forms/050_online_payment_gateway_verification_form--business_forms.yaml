@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online Payment Gateway''}'
-      - '{''id'': 2, ''label'': ''Mobile Payment Gateway''}'
-      - '{''id'': 3, ''label'': ''Point of Sale''}'
+      - Online Payment Gateway
+      - Mobile Payment Gateway
+      - Point of Sale
       required: true
     - id: 3
       name: merchant_info
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Credit/Debit Card''}'
-      - '{''id'': 2, ''label'': ''Bank Transfer''}'
-      - '{''id'': 3, ''label'': ''Mobile Wallet''}'
+      - Credit/Debit Card
+      - Bank Transfer
+      - Mobile Wallet
       required: true
     - id: 8
       name: transaction_date
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''192.168.0.0''}'
-      - '{''id'': 2, ''label'': ''192.168.0.1''}'
-      - '{''id'': 3, ''label'': ''192.168.0.2''}'
+      - 192.168.0.0
+      - 192.168.0.1
+      - 192.168.0.2
       required: true
     - id: 11
       name: user_agent
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Mozilla/5.0''}'
-      - '{''id'': 2, ''label'': ''Chrome/83.0''}'
-      - '{''id'': 3, ''label'': ''Safari/12.0''}'
+      - Mozilla/5.0
+      - Chrome/83.0
+      - Safari/12.0
       required: true
     - id: 12
       name: notes
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Success''}'
-      - '{''id'': 2, ''label'': ''Failed''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Success
+      - Failed
+      - Pending
       required: true
     - id: 19
       name: merchant_status
@@ -150,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 20
       name: ip_status
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 21
       name: user_status
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 22
       name: user_browser
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Firefox''}'
-      - '{''id'': 2, ''label'': ''Chrome''}'
-      - '{''id'': 3, ''label'': ''Safari''}'
+      - Firefox
+      - Chrome
+      - Safari
       required: false
     - id: 23
       name: merchant_browser
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Firefox''}'
-      - '{''id'': 2, ''label'': ''Chrome''}'
-      - '{''id'': 3, ''label'': ''Safari''}'
+      - Firefox
+      - Chrome
+      - Safari
       required: false
     - id: 24
       name: ip_browser
@@ -197,9 +197,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Firefox''}'
-      - '{''id'': 2, ''label'': ''Chrome''}'
-      - '{''id'': 3, ''label'': ''Safari''}'
+      - Firefox
+      - Chrome
+      - Safari
       required: false
     - id: 25
       name: user_os
@@ -207,9 +207,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Windows''}'
-      - '{''id'': 2, ''label'': ''Linux''}'
-      - '{''id'': 3, ''label'': ''macOS''}'
+      - Windows
+      - Linux
+      - macOS
       required: false
     - id: 26
       name: ip_os
@@ -217,7 +217,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Windows''}'
-      - '{''id'': 2, ''label'': ''Linux''}'
-      - '{''id'': 3, ''label'': ''macOS''}'
+      - Windows
+      - Linux
+      - macOS
       required: false

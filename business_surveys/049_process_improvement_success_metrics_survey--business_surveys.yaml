@@ -9,9 +9,9 @@ inputSchema:
       hint: Select a role
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Leader'', ''label'': ''Leader''}'
-      - '{''id'': 2, ''name'': ''Team Member'', ''label'': ''Team Member''}'
-      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      - Leader
+      - Team Member
+      - Other
       required: false
     - id: 2
       name: first_field
@@ -40,8 +40,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Select One Option 1'', ''label'': ''Select One Option
-        1''}'
-      - '{''id'': 2, ''name'': ''Select One Option 2'', ''label'': ''Select One Option
-        2''}'
+      - Select One Option 1
+      - Select One Option 2
       required: false

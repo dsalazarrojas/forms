@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Logistics Team''}'
-      - '{''value'': ''Operations Team''}'
-      - '{''value'': ''Management Team''}'
-      - '{''value'': ''IT Team''}'
-      - '{''value'': ''Other''}'
+      - Logistics Team
+      - Operations Team
+      - Management Team
+      - IT Team
+      - Other
       required: false
     - id: 3
       name: recovery_planning_status
@@ -28,10 +28,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Started''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Not Applicable''}'
+      - Not Started
+      - In Progress
+      - Completed
+      - Not Applicable
       required: false
     - id: 4
       name: recovery_status_date
@@ -60,11 +60,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Logistics Team''}'
-      - '{''value'': ''Operations Team''}'
-      - '{''value'': ''Management Team''}'
-      - '{''value'': ''IT Team''}'
-      - '{''value'': ''Other''}'
+      - Logistics Team
+      - Operations Team
+      - Management Team
+      - IT Team
+      - Other
       required: false
     - id: 8
       name: contact_info
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Applicable''}'
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - Not Applicable
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: concerns_description

@@ -120,8 +120,8 @@ inputSchema:
       hint: Did others see this
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: witness_names
@@ -168,7 +168,7 @@ inputSchema:
       hint: Did anyone need medical care
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes First Aid Only
       - Yes Professional Medical Care
       - Yes Emergency Services Called
@@ -193,8 +193,8 @@ inputSchema:
       hint: Does this need further action
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 24
@@ -214,7 +214,7 @@ inputSchema:
       - Probably
       - Not Sure
       - Probably Not
-      - false
+      - 'False'
       required: false
     - id: 26
       name: prevention_suggestions
@@ -229,8 +229,8 @@ inputSchema:
       hint: Is this a pattern
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: false
     - id: 28
       name: report_date
@@ -246,7 +246,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Confirm
-      - false
+      - 'False'
       required: true
     - id: 30
       name: additional_comments

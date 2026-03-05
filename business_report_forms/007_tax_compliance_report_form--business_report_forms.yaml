@@ -5,194 +5,85 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: tax_compliance_report
-      hint: null
+      label: Taxpayer Information
+      hint: Please enter taxpayer information
       type: text
       options: []
       required: false
     - id: 2
-      name: tax_year
-      label: tax_year
+      name: page_2
+      label: Tax Return Status
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 3
-      name: taxpayer_name
-      label: taxpayer_name
+      name: page_3
+      label: Tax Compliance Report
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: taxpayer_address
-      label: taxpayer_address
+      name: page_4
+      label: Signed Tax Return
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: tax_return_status
-      label: tax_return_status
+      name: page_5
+      label: Tax Return Filing Status
       hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
+      type: text
+      options: []
       required: false
     - id: 6
-      name: tax_return_date
-      label: tax_return_date
+      name: page_6
+      label: Assigned Tool Information
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 7
-      name: tax_return_filing_status
-      label: tax_return_filing_status
+      name: page_7
+      label: Form Details
       hint: null
-      type: select_one
-      options:
-      - option_4
-      - option_5
-      - option_6
+      type: text
+      options: []
       required: false
     - id: 8
-      name: tax_compliance_report
-      label: tax_compliance_report
+      name: page_8
+      label: Tax Return Information
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: tax_compliance_notes
-      label: tax_compliance_notes
+      name: page_9
+      label: Additional Notes
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 10
-      name: tax_return_signed
-      label: tax_return_signed
+      name: page_10
+      label: Last Updated Information
       hint: null
-      type: select_one
-      options:
-      - option_7
-      - option_8
-      - option_9
+      type: text
+      options: []
       required: false
     - id: 11
-      name: tax_return_date_signed
-      label: tax_return_date_signed
+      name: page_11
+      label: Last Updated By
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 12
-      name: tax_return_filing_status_signed
-      label: tax_return_filing_status_signed
-      hint: null
-      type: select_one
-      options:
-      - option_10
-      - option_11
-      - option_12
-      required: false
-    - id: 13
-      name: tax_return_notes
-      label: tax_return_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: tax_return_filing_date
-      label: tax_return_filing_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: assigned_tool
-      label: assigned_tool
+      name: page_12
+      label: Page 12
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_id
-      label: form_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_version
-      label: form_version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: created_by
-      label: created_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: created_date
-      label: created_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: last_updated
-      label: last_updated
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: last_updated_by
-      label: last_updated_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: tax_return_status
-      label: tax_return_status
-      hint: null
-      type: select_one
-      options:
-      - option_13
-      - option_14
-      - option_15
-      required: false
-    - id: 23
-      name: tax_return_status_notes
-      label: tax_return_status_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: tax_return_filing_status
-      label: tax_return_filing_status
-      hint: null
-      type: select_one
-      options:
-      - option_16
-      - option_17
-      - option_18
-      required: false
-    - id: 25
-      name: tax_return_filing_date
-      label: tax_return_filing_date
-      hint: null
-      type: date
       options: []
       required: false

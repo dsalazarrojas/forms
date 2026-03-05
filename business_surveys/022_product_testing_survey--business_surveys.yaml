@@ -4,195 +4,98 @@ inputSchema:
     title: Product Testing Survey
     pages:
     - id: 1
-      name: product_testing_survey_page
-      label: Product Testing Survey
-      hint: null
-      type: note
+      name: overall_impressions
+      label: What are your overall impressions of the product?
+      hint: Please share your honest feedback.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: product_testing_survey_page_2
-      label: Product Testing
-      hint: null
-      type: text
+      name: product_quality
+      label: How would you rate the quality of the product?
+      hint: On a scale of 1-5, with 5 being excellent.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: product_testing_survey_page_3
-      label: Testing Survey
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      name: recommendation
+      label: How likely are you to recommend this product?
+      hint: On a scale of 1-5, with 5 being very likely.
+      type: number
+      options: []
+      required: true
     - id: 4
-      name: customer_feedback
-      label: Customer Feedback
-      hint: null
-      type: email
+      name: favorite_feature
+      label: What feature of the product do you like most?
+      hint: Be as specific as possible.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: product_rating
-      label: Product Rating
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      name: feedback
+      label: What do you like least about the product?
+      hint: Be as specific as possible.
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: product_testing_survey_page_6
-      label: Product Testing Survey
-      hint: null
+      name: usage_frequency
+      label: How often do you use the product?
+      hint: Daily, weekly, monthly, or never.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: true
     - id: 7
-      name: product_testing_survey_page_7
-      label: Product Testing
-      hint: null
+      name: new_features
+      label: Would you like to see any new features added to the product?
+      hint: Check all that apply.
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      required: false
+      - Yes, add more features like this
+      - Yes, add features that are similar to this
+      - Yes, add features that are totally different from this
+      - 'False'
+      required: true
     - id: 8
-      name: product_testing_survey_page_8
-      label: Testing Survey
-      hint: null
-      type: time
-      options: []
-      required: false
+      name: expectations_met
+      label: How does the product meet your expectations?
+      hint: Check all that apply.
+      type: select_multiple
+      options:
+      - Yes, it exceeded my expectations
+      - Yes, it met my expectations
+      - No, it was below my expectations
+      - No, I'm not sure
+      required: true
     - id: 9
-      name: product_testing_survey_page_9
-      label: Product Testing
-      hint: null
-      type: date
+      name: price
+      label: What do you think of the product's price?
+      hint: Be as specific as possible.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: product_testing_survey_page_10
-      label: Testing
-      hint: null
-      type: note
+      name: improvements
+      label: What would you suggest we improve in the product?
+      hint: Be as specific as possible.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: product_testing_survey_page_11
-      label: Product Testing
-      hint: null
-      type: number
+      name: comments
+      label: Do you have any other comments or suggestions for us?
+      hint: Please share them with us.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: product_testing_survey_page_12
-      label: Product Testing
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: product_testing_survey_page_13
-      label: Product Testing
-      hint: null
+      name: additional_comments
+      label: Additional comments or suggestions?
+      hint: Please share them with us.
       type: text
-      options: []
-      required: false
-    - id: 14
-      name: product_testing_survey_page_14
-      label: Product Testing
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: product_testing_survey_page_15
-      label: Product Testing
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: product_testing_survey_page_16
-      label: Testing
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: product_testing_survey_page_17
-      label: Testing
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: product_testing_survey_page_18
-      label: Testing
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: product_testing_survey_page_19
-      label: Testing
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: product_testing_survey_page_20
-      label: Testing
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: product_testing_survey_page_21
-      label: Product Testing
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: product_testing_survey_page_22
-      label: Product Testing
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: product_testing_survey_page_23
-      label: Testing
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: product_testing_survey_page_24
-      label: Product Testing
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: product_testing_survey_page_25
-      label: Product Testing
-      hint: null
-      type: number
       options: []
       required: false

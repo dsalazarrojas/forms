@@ -1,207 +1,196 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Business Planning Self Assessment
     pages:
-      - id: 1
-        name: section_intro
-        label: -- Self Assessment Overview --
-        type: note
-        required: false
-      - id: 2
-        name: respondent_name
-        label: Your Name
-        hint: For record keeping
-        type: text
-        required: true
-      - id: 3
-        name: business_name
-        label: Business Name
-        hint: Your company or organization
-        type: text
-        required: true
-      - id: 4
-        name: assessment_date
-        label: Assessment Date
-        hint: When you are completing this
-        type: date
-        required: true
-      - id: 5
-        name: section_objectives
-        label: -- Business Objectives --
-        type: note
-        required: false
-      - id: 6
-        name: objectives_clarity
-        label: How Clear Are Your Business Objectives
-        hint: Rate the clarity of your goals
-        type: select_one
-        options:
-          - Very Unclear
-          - Somewhat Unclear
-          - Neutral
-          - Somewhat Clear
-          - Very Clear
-        required: true
-      - id: 7
-        name: objectives_written
-        label: Are Your Objectives Documented in Writing
-        hint: Have you formalized your goals
-        type: select_one
-        options:
-          - Yes
-          - Partially
-          - No
-        required: true
-      - id: 8
-        name: objectives_timeline
-        label: Do You Have Timelines for Your Objectives
-        hint: Have you set deadlines
-        type: select_one
-        options:
-          - Yes, detailed timelines
-          - Yes, but vague timelines
-          - No timelines
-        required: true
-      - id: 9
-        name: section_market_analysis
-        label: -- Market Analysis --
-        type: note
-        required: false
-      - id: 10
-        name: market_understanding
-        label: Understanding of Your Market
-        hint: How well do you know your market
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Very Good
-          - Excellent
-        required: true
-      - id: 11
-        name: competitor_awareness
-        label: Awareness of Competitors
-        hint: Do you know who your competitors are
-        type: select_one
-        options:
-          - Not aware
-          - Somewhat aware
-          - Aware
-          - Very aware
-          - Expert level
-        required: true
-      - id: 12
-        name: market_trends
-        label: Understanding of Market Trends
-        hint: Are you tracking industry trends
-        type: select_one
-        options:
-          - No understanding
-          - Limited understanding
-          - Moderate understanding
-          - Good understanding
-          - Excellent understanding
-        required: true
-      - id: 13
-        name: section_financial
-        label: -- Financial Planning --
-        type: note
-        required: false
-      - id: 14
-        name: financial_projections_confidence
-        label: Confidence in Financial Projections
-        hint: How confident are you in your numbers
-        type: select_one
-        options:
-          - Very Low
-          - Low
-          - Moderate
-          - High
-          - Very High
-        required: true
-      - id: 15
-        name: cash_flow_management
-        label: Cash Flow Management Readiness
-        hint: Are you prepared for cash flow challenges
-        type: select_one
-        options:
-          - Not prepared
-          - Somewhat prepared
-          - Moderately prepared
-          - Well prepared
-          - Fully prepared
-        required: true
-      - id: 16
-        name: funding_strategy
-        label: Funding Strategy Clarity
-        hint: How clear is your funding approach
-        type: select_one
-        options:
-          - Not clear
-          - Somewhat clear
-          - Clear
-          - Very clear
-        required: true
-      - id: 17
-        name: section_risks
-        label: -- Risk Assessment --
-        type: note
-        required: false
-      - id: 18
-        name: risk_identification
-        label: Have You Identified Key Risks
-        hint: Do you know your main business risks
-        type: select_one
-        options:
-          - No risks identified
-          - Few risks identified
-          - Some risks identified
-          - Most risks identified
-          - All major risks identified
-        required: true
-      - id: 19
-        name: risk_mitigation
-        label: Risk Mitigation Plans in Place
-        hint: Do you have contingency plans
-        type: select_one
-        options:
-          - No plans
-          - Basic plans
-          - Adequate plans
-          - Comprehensive plans
-        required: true
-      - id: 20
-        name: section_support
-        label: -- Support and Resources --
-        type: note
-        required: false
-      - id: 21
-        name: advisor_support
-        label: Access to Business Advisors or Mentors
-        hint: Do you have expert guidance available
-        type: select_one
-        options:
-          - No access
-          - Limited access
-          - Good access
-          - Excellent access
-        required: true
-      - id: 22
-        name: improvement_areas
-        label: Top Areas Needing Improvement
-        hint: What do you need to work on
-        type: text
-        required: false
+    - id: 1
+      name: section_intro
+      label: -- Self Assessment Overview --
+      type: note
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: For record keeping
+      type: text
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: Your company or organization
+      type: text
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: When you are completing this
+      type: date
+      required: true
+    - id: 5
+      name: section_objectives
+      label: -- Business Objectives --
+      type: note
+      required: false
+    - id: 6
+      name: objectives_clarity
+      label: How Clear Are Your Business Objectives
+      hint: Rate the clarity of your goals
+      type: select_one
+      options:
+      - Very Unclear
+      - Somewhat Unclear
+      - Neutral
+      - Somewhat Clear
+      - Very Clear
+      required: true
+    - id: 7
+      name: objectives_written
+      label: Are Your Objectives Documented in Writing
+      hint: Have you formalized your goals
+      type: select_one
+      options:
+      - 'True'
+      - Partially
+      - 'False'
+      required: true
+    - id: 8
+      name: objectives_timeline
+      label: Do You Have Timelines for Your Objectives
+      hint: Have you set deadlines
+      type: select_one
+      options:
+      - Yes, detailed timelines
+      - Yes, but vague timelines
+      - No timelines
+      required: true
+    - id: 9
+      name: section_market_analysis
+      label: -- Market Analysis --
+      type: note
+      required: false
+    - id: 10
+      name: market_understanding
+      label: Understanding of Your Market
+      hint: How well do you know your market
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 11
+      name: competitor_awareness
+      label: Awareness of Competitors
+      hint: Do you know who your competitors are
+      type: select_one
+      options:
+      - Not aware
+      - Somewhat aware
+      - Aware
+      - Very aware
+      - Expert level
+      required: true
+    - id: 12
+      name: market_trends
+      label: Understanding of Market Trends
+      hint: Are you tracking industry trends
+      type: select_one
+      options:
+      - No understanding
+      - Limited understanding
+      - Moderate understanding
+      - Good understanding
+      - Excellent understanding
+      required: true
+    - id: 13
+      name: section_financial
+      label: -- Financial Planning --
+      type: note
+      required: false
+    - id: 14
+      name: financial_projections_confidence
+      label: Confidence in Financial Projections
+      hint: How confident are you in your numbers
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 15
+      name: cash_flow_management
+      label: Cash Flow Management Readiness
+      hint: Are you prepared for cash flow challenges
+      type: select_one
+      options:
+      - Not prepared
+      - Somewhat prepared
+      - Moderately prepared
+      - Well prepared
+      - Fully prepared
+      required: true
+    - id: 16
+      name: funding_strategy
+      label: Funding Strategy Clarity
+      hint: How clear is your funding approach
+      type: select_one
+      options:
+      - Not clear
+      - Somewhat clear
+      - Clear
+      - Very clear
+      required: true
+    - id: 17
+      name: section_risks
+      label: -- Risk Assessment --
+      type: note
+      required: false
+    - id: 18
+      name: risk_identification
+      label: Have You Identified Key Risks
+      hint: Do you know your main business risks
+      type: select_one
+      options:
+      - No risks identified
+      - Few risks identified
+      - Some risks identified
+      - Most risks identified
+      - All major risks identified
+      required: true
+    - id: 19
+      name: risk_mitigation
+      label: Risk Mitigation Plans in Place
+      hint: Do you have contingency plans
+      type: select_one
+      options:
+      - No plans
+      - Basic plans
+      - Adequate plans
+      - Comprehensive plans
+      required: true
+    - id: 20
+      name: section_support
+      label: -- Support and Resources --
+      type: note
+      required: false
+    - id: 21
+      name: advisor_support
+      label: Access to Business Advisors or Mentors
+      hint: Do you have expert guidance available
+      type: select_one
+      options:
+      - No access
+      - Limited access
+      - Good access
+      - Excellent access
+      required: true
+    - id: 22
+      name: improvement_areas
+      label: Top Areas Needing Improvement
+      hint: What do you need to work on
+      type: text
+      required: false

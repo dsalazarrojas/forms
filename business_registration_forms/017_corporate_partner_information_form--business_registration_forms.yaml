@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Limited''}'
-      - '{''id'': 2, ''label'': ''Unlimited''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Limited
+      - Unlimited
+      - Other
       required: false
     - id: 5
       name: industry
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Finance''}'
-      - '{''id'': 2, ''label'': ''Technology''}'
-      - '{''id'': 3, ''label'': ''Healthcare''}'
+      - Finance
+      - Technology
+      - Healthcare
       required: true
     - id: 6
       name: address
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CEO''}'
-      - '{''id'': 2, ''label'': ''COO''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - CEO
+      - COO
+      - Other
       required: false
     - id: 15
       name: fax
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - 'True'
+      - 'False'
+      - Pending
       required: true
     - id: 20
       name: terms_of_service
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Terms and Conditions''}'
-      - '{''id'': 2, ''label'': ''Acceptance of Terms''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Terms and Conditions
+      - Acceptance of Terms
+      - Both
       required: true
     - id: 21
       name: privacy_policy
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Privacy and Data Security''}'
-      - '{''id'': 2, ''label'': ''Acceptance of Privacy''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Privacy and Data Security
+      - Acceptance of Privacy
+      - Both
       required: true
     - id: 22
       name: agreement_date

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High-rise building''}'
-      - '{''value'': ''Low-rise building''}'
-      - '{''value'': ''Mixed-use building''}'
-      - '{''value'': ''Other''}'
+      - High-rise building
+      - Low-rise building
+      - Mixed-use building
+      - Other
       required: false
     - id: 3
       name: building_age
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Severe weather''}'
-      - '{''value'': ''Coastal flooding''}'
-      - '{''value'': ''Drought''}'
-      - '{''value'': ''Other''}'
+      - Severe weather
+      - Coastal flooding
+      - Drought
+      - Other
       required: true
     - id: 5
       name: resilience_measures
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Green infrastructure''}'
-      - '{''value'': ''Grey infrastructure''}'
-      - '{''value'': ''Other''}'
+      - Green infrastructure
+      - Grey infrastructure
+      - Other
       required: false
     - id: 7
       name: climate_impacts
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Storm surges''}'
-      - '{''value'': ''Sea level rise''}'
-      - '{''value'': ''Other''}'
+      - Storm surges
+      - Sea level rise
+      - Other
       required: true
     - id: 8
       name: property_owner
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Submit''}'
-      - '{''value'': ''Not Submit''}'
+      - Submit
+      - Not Submit
       required: true
     - id: 17
       name: notes
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: followup_date
@@ -181,8 +181,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: climate_mitigation
@@ -190,8 +190,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: climate_adaptation
@@ -199,6 +199,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

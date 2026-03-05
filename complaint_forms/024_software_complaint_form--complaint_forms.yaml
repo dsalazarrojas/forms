@@ -5,212 +5,87 @@ inputSchema:
     pages:
     - id: 1
       name: software_complaint_form_step_1
-      label: software_complaint
-      hint: null
+      label: Software Complaint
+      hint: Please describe the issue in detail.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: software_complaint_description
-      label: software_complaint_description
-      hint: null
+      name: software_version
+      label: Software Version
+      hint: The version of the software you are using.
       type: text
       options: []
       required: false
     - id: 3
-      name: software_version
-      label: software_version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: software_complaint_description
-      label: software_complaint_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: software_complaint_form_step_1
-      label: report_date
-      hint: null
+      name: report_date
+      label: Report Date
+      hint: The date of the issue.
       type: date
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 4
       name: report_time
-      label: report_time
-      hint: null
+      label: Report Time
+      hint: The time of the day when you encountered the issue.
       type: time
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: complaint_type
+      label: Complaint Type
+      hint: Type of complaint (bug, feature request, or other).
+      type: select_one
+      options:
+      - Bug
+      - Feature Request
+      - Other
+      required: true
+    - id: 6
+      name: problem_area
+      label: Problem Area
+      hint: Select all related areas where the issue occurred.
+      type: select_multiple
+      options:
+      - UI
+      - Functionality
+      - Performance
+      - Data
+      - Security
+      - Other
+      required: true
     - id: 7
-      name: report_date
-      label: report_date
-      hint: null
-      type: date
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Provide more details about the issue.
+      type: text
       options: []
       required: false
     - id: 8
-      name: report_time
-      label: report_time
-      hint: null
-      type: time
+      name: contact_name
+      label: Contact Name
+      hint: Please provide your name.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: software_complaint_form_step_10
-      label: complaint_type
-      hint: null
-      type: select_one
-      options:
-      - Bug
-      - Feature Request
-      - Complaint
-      - Other
-      required: false
-    - id: 10
-      name: software_complaint_form_step_11
-      label: software_complaint_form_step_11
-      hint: null
-      type: select_multiple
-      options:
-      - UI Issue
-      - Functionality
-      - Performance
-      - Other
-      required: false
-    - id: 11
-      name: software_complaint_form_step_12
-      label: software_complaint_form_step_12
-      hint: null
-      type: select_multiple
-      options:
-      - Login/Registration
-      - Data
-      - Security
-      - Other
-      required: false
-    - id: 12
-      name: software_complaint_form_step_13
-      label: software_complaint_form_step_13
-      hint: null
-      type: select_multiple
-      options:
-      - User Interface
-      - Data
-      - Performance
-      - Other
-      required: false
-    - id: 13
-      name: software_complaint_form_step_14
-      label: software_complaint_form_step_14
-      hint: null
-      type: select_multiple
-      options:
-      - UI
-      - Functionality
-      - Data
-      - Other
-      required: false
-    - id: 14
-      name: report_date_2
-      label: report_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: report_time_2
-      label: report_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: software_version_2
-      label: software_version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: software_complaint_form_step_3
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: software_complaint_form_step_4
-      label: contact_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: software_complaint_form_step_5
-      label: contact_email
-      hint: null
+      name: contact_email
+      label: Contact Email
+      hint: Your email address for follow-up.
       type: email
       options: []
-      required: false
-    - id: 20
-      name: software_complaint_form_step_6
-      label: contact_phone
-      hint: null
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Your phone number for immediate contact.
       type: text
       options: []
       required: false
-    - id: 21
-      name: software_complaint_form_step_7
-      label: software_complaint_form_step_7
-      hint: null
-      type: select_one
-      options:
-      - Bug
-      - Feature Request
-      - Complaint
-      - Other
-      required: false
-    - id: 22
-      name: software_complaint_form_step_8
-      label: software_complaint_form_step_8
-      hint: null
-      type: select_multiple
-      options:
-      - UI Issue
-      - Functionality
-      - Performance
-      - Other
-      required: false
-    - id: 23
-      name: software_complaint_form_step_9
-      label: software_complaint_form_step_9
-      hint: null
-      type: select_multiple
-      options:
-      - User Interface
-      - Data
-      - Security
-      - Other
-      required: false
-    - id: 24
-      name: software_complaint_form_step_10
-      label: software_complaint_form_step_10
-      hint: null
-      type: select_multiple
-      options:
-      - Functionality
-      - UI
-      - Data
-      - Other
-      required: false
-    - id: 25
+    - id: 11
       name: submit_form
-      label: submit_form
-      hint: null
+      label: Submit Form
+      hint: Submit the form.
       type: note
       options: []
-      required: false
+      required: true

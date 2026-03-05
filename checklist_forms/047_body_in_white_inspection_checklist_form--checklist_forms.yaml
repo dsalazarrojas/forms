@@ -1,279 +1,268 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Body In White Inspection Checklist Form
     pages:
-      - id: 1
-        name: inspection_date
-        label: Inspection Date
-        hint: Date of inspection
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: inspection_time
-        label: Inspection Time
-        hint: Time of inspection
-        type: time
-        options: []
-        required: false
-      - id: 3
-        name: inspector_name
-        label: Inspector Name
-        hint: Name of inspector
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: inspector_id
-        label: Inspector ID
-        hint: Employee ID
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: vehicle_vin
-        label: Vehicle VIN
-        hint: Vehicle identification number
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: vehicle_model
-        label: Vehicle Model
-        hint: Model name
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: production_line
-        label: Production Line
-        hint: Line number
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: station_number
-        label: Station Number
-        hint: Inspection station
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: inspection_type
-        label: Inspection Type
-        hint: Type of inspection
-        type: select_one
-        options:
-          - Routine Inspection
-          - First Article Inspection
-          - Random Sample
-          - Quality Audit
-          - Pre-Shipment
-        required: true
-      - id: 10
-        name: panel_gaps_consistent
-        label: Panel Gaps Consistent
-        hint: Check gap uniformity
-        type: select_one
-        options:
-          - Pass
-          - Minor Deviation
-          - Major Deviation
-          - Fail
-        required: true
-      - id: 11
-        name: panel_gaps_within_spec
-        label: Panel Gaps Within Specification
-        hint: Are gaps within tolerance?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 12
-        name: surface_quality
-        label: Surface Quality
-        hint: Check for dents, scratches
-        type: select_one
-        options:
-          - Pass - No Defects
-          - Minor Defects
-          - Major Defects
-          - Fail
-        required: true
-      - id: 13
-        name: weld_quality
-        label: Weld Quality
-        hint: Check weld points
-        type: select_one
-        options:
-          - Pass - All Good
-          - Minor Issues
-          - Major Issues
-          - Fail
-        required: true
-      - id: 14
-        name: weld_count_correct
-        label: Weld Count Correct
-        hint: Verify number of welds
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 15
-        name: flange_quality
-        label: Flange Quality
-        hint: Check flange condition
-        type: select_one
-        options:
-          - Pass
-          - Minor Issues
-          - Major Issues
-          - Fail
-        required: true
-      - id: 16
-        name: hem_quality
-        label: Hem Quality
-        hint: Check hem condition
-        type: select_one
-        options:
-          - Pass
-          - Minor Issues
-          - Major Issues
-          - Fail
-        required: true
-      - id: 17
-        name: edge_condition
-        label: Edge Condition
-        hint: Check for sharp edges
-        type: select_one
-        options:
-          - Pass - No Sharp Edges
-          - Minor Burrs
-          - Sharp Edges Present
-          - Fail
-        required: true
-      - id: 18
-        name: corrosion_protection
-        label: Corrosion Protection
-        hint: Check coating application
-        type: select_one
-        options:
-          - Pass - Complete Coverage
-          - Minor Gaps
-          - Major Gaps
-          - Fail - No Coverage
-        required: true
-      - id: 19
-        name: adhesive_application
-        label: Adhesive Application
-        hint: Check adhesive beads
-        type: select_one
-        options:
-          - Pass
-          - Minor Issues
-          - Major Issues
-          - Fail
-          - Not Applicable
-        required: false
-      - id: 20
-        name: mounting_points
-        label: Mounting Points
-        hint: Check alignment and condition
-        type: select_one
-        options:
-          - Pass
-          - Minor Issues
-          - Major Issues
-          - Fail
-        required: true
-      - id: 21
-        name: dimensional_accuracy
-        label: Dimensional Accuracy
-        hint: Check against specifications
-        type: select_one
-        options:
-          - Pass - Within Tolerance
-          - Minor Deviation
-          - Major Deviation
-          - Fail - Out of Spec
-        required: true
-      - id: 22
-        name: assembly_completeness
-        label: Assembly Completeness
-        hint: All parts installed?
-        type: select_one
-        options:
-          - Complete
-          - Missing Minor Parts
-          - Missing Major Parts
-          - Incomplete
-        required: true
-      - id: 23
-        name: defects_found
-        label: Defects Found
-        hint: List all defects
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: defect_photos
-        label: Defect Photos
-        hint: Photo file names
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: corrective_action_required
-        label: Corrective Action Required
-        hint: Is action needed?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 26
-        name: corrective_action_description
-        label: Corrective Action Description
-        hint: Describe required action
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: overall_result
-        label: Overall Inspection Result
-        hint: Final assessment
-        type: select_one
-        options:
-          - Pass
-          - Pass with Minor Deficiencies
-          - Fail - Rework Required
-          - Fail - Critical Issues
-        required: true
-      - id: 28
-        name: inspector_signature
-        label: Inspector Signature
-        hint: Type name as signature
-        type: text
-        options: []
-        required: true
-      - id: 29
-        name: supervisor_review
-        label: Supervisor Review
-        hint: Supervisor name if required
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspection_time
+      label: Inspection Time
+      hint: Time of inspection
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: inspector_id
+      label: Inspector ID
+      hint: Employee ID
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: Vehicle identification number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: production_line
+      label: Production Line
+      hint: Line number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: station_number
+      label: Station Number
+      hint: Inspection station
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inspection_type
+      label: Inspection Type
+      hint: Type of inspection
+      type: select_one
+      options:
+      - Routine Inspection
+      - First Article Inspection
+      - Random Sample
+      - Quality Audit
+      - Pre-Shipment
+      required: true
+    - id: 10
+      name: panel_gaps_consistent
+      label: Panel Gaps Consistent
+      hint: Check gap uniformity
+      type: select_one
+      options:
+      - Pass
+      - Minor Deviation
+      - Major Deviation
+      - Fail
+      required: true
+    - id: 11
+      name: panel_gaps_within_spec
+      label: Panel Gaps Within Specification
+      hint: Are gaps within tolerance?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: surface_quality
+      label: Surface Quality
+      hint: Check for dents, scratches
+      type: select_one
+      options:
+      - Pass - No Defects
+      - Minor Defects
+      - Major Defects
+      - Fail
+      required: true
+    - id: 13
+      name: weld_quality
+      label: Weld Quality
+      hint: Check weld points
+      type: select_one
+      options:
+      - Pass - All Good
+      - Minor Issues
+      - Major Issues
+      - Fail
+      required: true
+    - id: 14
+      name: weld_count_correct
+      label: Weld Count Correct
+      hint: Verify number of welds
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: flange_quality
+      label: Flange Quality
+      hint: Check flange condition
+      type: select_one
+      options:
+      - Pass
+      - Minor Issues
+      - Major Issues
+      - Fail
+      required: true
+    - id: 16
+      name: hem_quality
+      label: Hem Quality
+      hint: Check hem condition
+      type: select_one
+      options:
+      - Pass
+      - Minor Issues
+      - Major Issues
+      - Fail
+      required: true
+    - id: 17
+      name: edge_condition
+      label: Edge Condition
+      hint: Check for sharp edges
+      type: select_one
+      options:
+      - Pass - No Sharp Edges
+      - Minor Burrs
+      - Sharp Edges Present
+      - Fail
+      required: true
+    - id: 18
+      name: corrosion_protection
+      label: Corrosion Protection
+      hint: Check coating application
+      type: select_one
+      options:
+      - Pass - Complete Coverage
+      - Minor Gaps
+      - Major Gaps
+      - Fail - No Coverage
+      required: true
+    - id: 19
+      name: adhesive_application
+      label: Adhesive Application
+      hint: Check adhesive beads
+      type: select_one
+      options:
+      - Pass
+      - Minor Issues
+      - Major Issues
+      - Fail
+      - Not Applicable
+      required: false
+    - id: 20
+      name: mounting_points
+      label: Mounting Points
+      hint: Check alignment and condition
+      type: select_one
+      options:
+      - Pass
+      - Minor Issues
+      - Major Issues
+      - Fail
+      required: true
+    - id: 21
+      name: dimensional_accuracy
+      label: Dimensional Accuracy
+      hint: Check against specifications
+      type: select_one
+      options:
+      - Pass - Within Tolerance
+      - Minor Deviation
+      - Major Deviation
+      - Fail - Out of Spec
+      required: true
+    - id: 22
+      name: assembly_completeness
+      label: Assembly Completeness
+      hint: All parts installed?
+      type: select_one
+      options:
+      - Complete
+      - Missing Minor Parts
+      - Missing Major Parts
+      - Incomplete
+      required: true
+    - id: 23
+      name: defects_found
+      label: Defects Found
+      hint: List all defects
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: defect_photos
+      label: Defect Photos
+      hint: Photo file names
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: corrective_action_required
+      label: Corrective Action Required
+      hint: Is action needed?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 26
+      name: corrective_action_description
+      label: Corrective Action Description
+      hint: Describe required action
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: overall_result
+      label: Overall Inspection Result
+      hint: Final assessment
+      type: select_one
+      options:
+      - Pass
+      - Pass with Minor Deficiencies
+      - Fail - Rework Required
+      - Fail - Critical Issues
+      required: true
+    - id: 28
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: supervisor_review
+      label: Supervisor Review
+      hint: Supervisor name if required
+      type: text
+      options: []
+      required: false

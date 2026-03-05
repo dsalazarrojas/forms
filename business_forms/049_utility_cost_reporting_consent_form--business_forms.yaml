@@ -16,10 +16,10 @@ inputSchema:
       hint: select one
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Electric''}'
-      - '{''id'': 2, ''label'': ''Gas''}'
-      - '{''id'': 3, ''label'': ''Water''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Electric
+      - Gas
+      - Water
+      - Other
       required: false
     - id: 3
       name: collection_period
@@ -27,11 +27,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 4
       name: reporting_frequency
@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One Time''}'
-      - '{''id'': 2, ''label'': ''Every 3 months''}'
-      - '{''id'': 3, ''label'': ''Quarterly''}'
-      - '{''id'': 4, ''label'': ''Bi-Monthly''}'
+      - One Time
+      - Every 3 months
+      - Quarterly
+      - Bi-Monthly
       required: false
     - id: 5
       name: collection_date
@@ -54,7 +54,7 @@ inputSchema:
     - id: 6
       name: collection_time
       label: collection time
-      hint: "HH:mm"
+      hint: HH:mm
       type: time
       options: []
       required: false

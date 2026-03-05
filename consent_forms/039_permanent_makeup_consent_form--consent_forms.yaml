@@ -30,14 +30,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''Eyeliner''}'
-      - '{''id'': 11, ''name'': ''Eyebrow''}'
-      - '{''id'': 12, ''name'': ''Liner''}'
-      - '{''id'': 13, ''name'': ''Blush''}'
-      - '{''id'': 14, ''name'': ''Lip''}'
-      - '{''id'': 15, ''name'': ''Lip Liner''}'
-      - '{''id'': 16, ''name'': ''Microblading''}'
-      - '{''id'': 17, ''name'': ''Eyelid''}'
+      - Eyeliner
+      - Eyebrow
+      - Liner
+      - Blush
+      - Lip
+      - Lip Liner
+      - Microblading
+      - Eyelid
       required: true
     - id: 5
       name: service_date
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 22, ''name'': ''Cash''}'
-      - '{''id'': 23, ''name'': ''Bank Transfer''}'
-      - '{''id'': 24, ''name'': ''Credit Card''}'
+      - Cash
+      - Bank Transfer
+      - Credit Card
       required: true
     - id: 9
       name: payment_amount
@@ -90,6 +90,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 26, ''name'': True}'
-      - '{''id'': 27, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true

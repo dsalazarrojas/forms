@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Summer''}'
-      - '{''id'': 2, ''label'': ''Winter''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Summer
+      - Winter
+      - Both
       required: false
     - id: 12
       name: camp_duration
@@ -89,10 +89,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Week''}'
-      - '{''id'': 2, ''label'': ''Two Weeks''}'
-      - '{''id'': 3, ''label'': ''Three Weeks''}'
-      - '{''id'': 4, ''label'': ''Four Weeks''}'
+      - Week
+      - Two Weeks
+      - Three Weeks
+      - Four Weeks
       required: false
     - id: 13
       name: camp_start_date

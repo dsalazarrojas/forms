@@ -104,8 +104,8 @@ inputSchema:
       hint: Rash, infection, dermatitis, etc
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: pregnancy
@@ -115,7 +115,7 @@ inputSchema:
       options:
       - Yes, pregnant
       - Yes, nursing
-      - false
+      - 'False'
       required: true
     - id: 16
       name: risks_explained
@@ -142,7 +142,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I acknowledge
-      - false
+      - 'False'
       required: true
     - id: 19
       name: signature_date

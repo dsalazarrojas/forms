@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: submission_type
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''cover design''}'
-      - '{''id'': 2, ''value'': ''other''}'
+      - cover design
+      - other
       required: false
     - id: 10
       name: submission_status
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''submitted''}'
-      - '{''id'': 2, ''value'': ''not submitted''}'
+      - submitted
+      - not submitted
       required: false
     - id: 11
       name: comments
@@ -134,8 +134,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''uploaded''}'
-      - '{''id'': 2, ''value'': ''not uploaded''}'
+      - uploaded
+      - not uploaded
       required: false
     - id: 19
       name: file_url

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''Transformational'', ''label'': ''Transformational''}'
-      - '{''id'': 11, ''name'': ''Transactional'', ''label'': ''Transactional''}'
-      - '{''id'': 12, ''name'': ''None of the above'', ''label'': ''None of the above''}'
+      - Transformational
+      - Transactional
+      - None of the above
       required: false
     - id: 6
       name: marketing_leadership_role
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 20, ''name'': ''1-5 years'', ''label'': ''1-5 years''}'
-      - '{''id'': 21, ''name'': ''5-10 years'', ''label'': ''5-10 years''}'
-      - '{''id'': 22, ''name'': ''10+ years'', ''label'': ''10+ years''}'
-      - '{''id'': 23, ''name'': ''None of the above'', ''label'': ''None of the above''}'
+      - 1-5 years
+      - 5-10 years
+      - 10+ years
+      - None of the above
       required: false
     - id: 9
       name: marketing_leadership_survey_frequency
@@ -72,7 +72,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 24, ''name'': ''Always'', ''label'': ''Always''}'
-      - '{''id'': 25, ''name'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''id'': 26, ''name'': ''Sometimes'', ''label'': ''Sometimes''}'
+      - Always
+      - Rarely
+      - Sometimes
       required: false

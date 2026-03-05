@@ -4,744 +4,106 @@ inputSchema:
     title: National Security Expert Survey
     pages:
     - id: 1
-      name: survey_header
-      label: National Security Expert Survey
+      name: general_info
+      label: General Info
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 3
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: expert_name
-      label: Expert Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: location
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: role
-      label: Role
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: years_of_experience
-      label: Years of Experience
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: security_focus
       label: Security Focus
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: current_employer
-      label: Current Employer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: current_industry
-      label: Current Industry
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: previous_employers
-      label: Previous Employers
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: previous_industries
-      label: Previous Industries
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: education
-      label: Education
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: security_certification
-      label: Security Certification
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: certifications
-      label: Certifications
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: languages_spoken
-      label: Languages Spoken
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: languages_written
-      label: Languages Written
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
+    - id: 3
       name: publications
       label: Publications
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: awards
-      label: Awards
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+    - id: 4
       name: research_areas
       label: Research Areas
       hint: null
       type: text
       options: []
       required: false
-    - id: 21
-      name: current_projects
-      label: Current Projects
+    - id: 5
+      name: languages
+      label: Languages
       hint: null
       type: text
       options: []
       required: false
-    - id: 22
-      name: publications_link
-      label: Publications Link
+    - id: 6
+      name: awards
+      label: Awards
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
-      name: awards_link
-      label: Awards Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: research_areas_link
-      label: Research Areas Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: current_employer
-      label: Current Employer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: current_industry
-      label: Current Industry
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: security_focus_link
-      label: Security Focus Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: previous_employer
-      label: Previous Employer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: previous_industry
-      label: Previous Industries
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: previous_employers
-      label: Previous Employers
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: certifications_link
-      label: Certifications Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: languages_spoken_link
-      label: Languages Spoken Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: languages_written_link
-      label: Languages Written Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: research_areas_link
-      label: Research Areas Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: previous_industries_link
-      label: Previous Industries Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: years_of_experience_link
-      label: Years of Experience Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: security_focus_link_2
-      label: Security Focus Link 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: education_link
-      label: Education Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: previous_employers_link
-      label: Previous Employers Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: publications_link_2
-      label: Publications Link 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: awards_link_2
-      label: Awards Link 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: research_areas_2
-      label: Research Areas 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: current_projects_link
-      label: Current Projects Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
+    - id: 7
       name: education
       label: Education
       hint: null
       type: text
       options: []
       required: false
-    - id: 45
-      name: security_certification
-      label: Security Certification
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: current_industry_link
-      label: Current Industry Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: previous_industries_2
-      label: Previous Industries 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: security_focus_2
-      label: Security Focus 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
+    - id: 8
       name: previous_projects
       label: Previous Projects
       hint: null
       type: text
       options: []
       required: false
-    - id: 50
-      name: years_of_experience_link_2
-      label: Years of Experience Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 51
+    - id: 9
       name: previous_certifications
       label: Previous Certifications
       hint: null
       type: text
       options: []
       required: false
-    - id: 52
-      name: languages_spoken_link_2
-      label: Languages Spoken Link 2
+    - id: 10
+      name: research_areas_link
+      label: Research Areas Link
       hint: null
       type: text
       options: []
       required: false
-    - id: 53
-      name: languages_written_link_2
-      label: Languages Written Link 2
+    - id: 11
+      name: awards_link
+      label: Awards Link
       hint: null
       type: text
       options: []
       required: false
-    - id: 54
-      name: security_certifications
-      label: Security Certifications
+    - id: 12
+      name: education_link
+      label: Education Link
       hint: null
       type: text
       options: []
       required: false
-    - id: 55
+    - id: 13
       name: previous_projects_link
       label: Previous Projects Link
       hint: null
       type: text
       options: []
       required: false
-    - id: 56
+    - id: 14
       name: previous_certifications_link
       label: Previous Certifications Link
       hint: null
       type: text
       options: []
       required: false
-    - id: 57
-      name: languages_written_link_3
-      label: Languages Written Link 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 58
-      name: years_of_experience_2
-      label: Years of Experience 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 59
-      name: previous_certifications_2
-      label: Previous Certifications 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 60
-      name: languages_spoken_2
-      label: Languages Spoken 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 61
-      name: security_certification_link
-      label: Security Certification Link
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 62
-      name: publications_2
-      label: Publications 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 63
-      name: languages_written_2
-      label: Languages Written 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 64
-      name: previous_languages
-      label: Previous Languages
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 65
-      name: security_focus_3
-      label: Security Focus 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 66
-      name: previous_employer
-      label: Previous Employer 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 67
-      name: security_projects
-      label: Security Projects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 68
-      name: years_of_experience_3
-      label: Years of Experience 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 69
-      name: years_of_experience_4
-      label: Years of Experience 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 70
-      name: years_of_experience_5
-      label: Years of Experience 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 71
-      name: years_of_experience_6
-      label: Years of Experience 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 72
-      name: years_of_experience_7
-      label: Years of Experience 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 73
-      name: years_of_experience_8
-      label: Years of Experience 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 74
-      name: years_of_experience_9
-      label: Years of Experience 9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 75
-      name: years_of_experience_10
-      label: Years of Experience 10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 76
-      name: years_of_experience_11
-      label: Years of Experience 11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 77
-      name: years_of_experience_12
-      label: Years of Experience 12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 78
-      name: years_of_experience_13
-      label: Years of Experience 13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 79
-      name: years_of_experience_14
-      label: Years of Experience 14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 80
-      name: years_of_experience_15
-      label: Years of Experience 15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 81
-      name: years_of_experience_16
-      label: Years of Experience 16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 82
-      name: years_of_experience_17
-      label: Years of Experience 17
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 83
-      name: years_of_experience_18
-      label: Years of Experience 18
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 84
-      name: years_of_experience_19
-      label: Years of Experience 19
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 85
-      name: years_of_experience_20
-      label: Years of Experience 20
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 86
-      name: years_of_experience_21
-      label: Years of Experience 21
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 87
-      name: years_of_experience_22
-      label: Years of Experience 22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 88
-      name: years_of_experience_23
-      label: Years of Experience 23
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 89
-      name: years_of_experience_24
-      label: Years of Experience 24
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 90
-      name: years_of_experience_25
-      label: Years of Experience 25
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 91
-      name: years_of_experience_26
-      label: Years of Experience 26
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 92
-      name: years_of_experience_27
-      label: Years of Experience 27
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 93
-      name: years_of_experience_28
-      label: Years of Experience 28
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 94
-      name: years_of_experience_29
-      label: Years of Experience 29
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 95
-      name: years_of_experience_30
-      label: Years of Experience 30
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 96
-      name: years_of_experience_31
-      label: Years of Experience 31
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 97
-      name: years_of_experience_32
-      label: Years of Experience 32
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 98
-      name: years_of_experience_33
-      label: Years of Experience 33
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 99
-      name: years_of_experience_34
-      label: Years of Experience 34
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 100
-      name: years_of_experience_35
-      label: Years of Experience 35
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 101
-      name: years_of_experience_36
-      label: Years of Experience 36
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 102
-      name: years_of_experience_37
-      label: Years of Experience 37
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 103
-      name: years_of_experience_38
-      label: Years of Experience 38
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 104
-      name: years_of_experience_39
-      label: Years of Experience 39
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 105
-      name: years_of_experience_40
-      label: Years of Experience 40
+    - id: 15
+      name: research_areas_2
+      label: Research Areas 2
       hint: null
       type: text
       options: []

@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: parent_info
-      label: Parent Info
-      hint: Enter parent information
+      label: Parent Information
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: travel_info
-      label: Travel Info
+      label: Travel Information
       hint: null
       type: text
       options: []
@@ -20,7 +20,7 @@ inputSchema:
     - id: 3
       name: trip_details
       label: Trip Details
-      hint: Trip duration and destination
+      hint: null
       type: text
       options: []
       required: false
@@ -56,36 +56,8 @@ inputSchema:
       - United
       - Frontier Airlines
       - Southwest
-      required: false
+      required: true
     - id: 8
-      name: travel_agency_other
-      label: Other (if applicable)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: trip_duration
-      label: Trip Duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: trip_cost
-      label: Trip Cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: parent_signature
-      label: Parent Signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
       name: parent_contact
       label: Parent Contact
       hint: null
@@ -94,135 +66,32 @@ inputSchema:
       - Email
       - Phone
       - Address
-      required: false
-    - id: 13
-      name: travel_agency_contact
-      label: Travel Agency Contact
-      hint: null
-      type: select_multiple
-      options:
-      - Email
-      - Phone
-      - Address
-      required: false
-    - id: 14
+      required: true
+    - id: 9
       name: other_travel_agency
-      label: Other Contact Info
+      label: Other Travel Agency
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: travel_agency_2
-      label: Travel Agency 2
+    - id: 10
+      name: trip_duration
+      label: Trip Duration
       hint: null
-      type: select_one
-      options:
-      - American Airlines
-      - Delta Air
-      - United
-      - Frontier Airlines
-      - Southwest
-      required: false
-    - id: 16
-      name: travel_agency_2_other
-      label: Other (if applicable)
-      hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 17
-      name: travel_agency_3
-      label: Travel Agency 3
+      required: true
+    - id: 11
+      name: trip_cost
+      label: Trip Cost
       hint: null
-      type: select_one
-      options:
-      - American Airlines
-      - Delta Air
-      - United
-      - Frontier Airlines
-      - Southwest
-      required: false
-    - id: 18
-      name: travel_agency_3_other
-      label: Other (if applicable)
-      hint: null
-      type: text
+      type: number
       options: []
-      required: false
-    - id: 19
-      name: travel_agency_4
-      label: Travel Agency 4
+      required: true
+    - id: 12
+      name: parent_signature
+      label: Parent Signature
       hint: null
-      type: select_one
-      options:
-      - American Airlines
-      - Delta Air
-      - United
-      - Frontier Airlines
-      - Southwest
-      required: false
-    - id: 20
-      name: travel_agency_4_other
-      label: Other (if applicable)
-      hint: null
-      type: text
+      type: note
       options: []
-      required: false
-    - id: 21
-      name: travel_agency_5
-      label: Travel Agency 5
-      hint: null
-      type: select_one
-      options:
-      - American Airlines
-      - Delta Air
-      - United
-      - Frontier Airlines
-      - Southwest
-      required: false
-    - id: 22
-      name: travel_agency_5_other
-      label: Other (if applicable)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: travel_agency_6
-      label: Travel Agency 6
-      hint: null
-      type: select_one
-      options:
-      - American Airlines
-      - Delta Air
-      - United
-      - Frontier Airlines
-      - Southwest
-      required: false
-    - id: 24
-      name: travel_agency_6_other
-      label: Other (if applicable)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: travel_agency_7
-      label: Travel Agency 7
-      hint: null
-      type: select_one
-      options:
-      - American Airlines
-      - Delta Air
-      - United
-      - Frontier Airlines
-      - Southwest
-      required: false
-    - id: 26
-      name: travel_agency_7_other
-      label: Other (if applicable)
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

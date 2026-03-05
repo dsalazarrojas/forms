@@ -11,21 +11,21 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: introduction_question_1
+      name: collaboration_frequency
       label: How often do you collaborate with your team?
       hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: introduction_question_2
+      name: communication_frequency
       label: How often do you communicate with your team?
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: introduction_question_3
+      name: team_support
       label: Do you feel like you have the support you need from your team?
       hint: null
       type: select_one
@@ -33,11 +33,11 @@ inputSchema:
       - I feel fully supported
       - Somewhat supported
       - Neutral
-      - Somewhat unsupported
+      - Somewhat not supported
       - Not at all supported
       required: false
     - id: 5
-      name: introduction_question_4
+      name: collaboration_effectiveness
       label: How do you rate the effectiveness of team collaboration in your work?
       hint: null
       type: select_one
@@ -46,31 +46,10 @@ inputSchema:
       - Somewhat effective
       - Neutral
       - Somewhat not effective
-      - Not effective at all
+      - Not at all effective
       required: false
     - id: 6
-      name: section_2
-      label: Section 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: section_2_question_1
-      label: How important is it for you to have a team that supports you?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: section_2_question_2
-      label: How important is it for you to have a clear plan for your work?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: introduction_question_5
+      name: role_in_team
       label: What is your role in the team?
       hint: null
       type: select_multiple
@@ -80,85 +59,22 @@ inputSchema:
       - Other
       - None
       required: false
-    - id: 10
-      name: introduction_question_6
+    - id: 7
+      name: section_2
+      label: Section 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: meeting_frequency
       label: How often do you meet with your team?
       hint: null
       type: number
       options: []
       required: false
-    - id: 11
-      name: introduction_question_7
-      label: How often do you communicate with your team?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: introduction_question_8
-      label: How satisfied are you with the way your team works together?
-      hint: null
-      type: select_one
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 13
-      name: introduction_question_9
-      label: How satisfied are you with your role in the team?
-      hint: null
-      type: select_one
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 14
-      name: introduction_question_10
-      label: Do you feel like you can rely on your team to follow through on their
-        commitments?
-      hint: null
-      type: select_one
-      options:
-      - I can fully rely on them
-      - I can somewhat rely on them
-      - Neutral
-      - I can somewhat not rely on them
-      - I can not at all rely on them
-      required: false
-    - id: 15
-      name: introduction_question_11
-      label: How satisfied are you with the way the team works together?
-      hint: null
-      type: select_one
-      options:
-      - Very satisfied
-      - Somewhat satisfied
-      - Neutral
-      - Somewhat dissatisfied
-      - Very dissatisfied
-      required: false
-    - id: 16
-      name: introduction_question_12
-      label: How important is it for you to have a clear plan for your work?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: introduction_question_13
-      label: How often do you meet with your team?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: introduction_question_14
+    - id: 9
+      name: team_resources
       label: Do you feel like your team has the resources they need to do their work?
       hint: null
       type: select_one
@@ -169,8 +85,8 @@ inputSchema:
       - I feel somewhat not supported
       - I feel not at all supported
       required: false
-    - id: 19
-      name: introduction_question_15
+    - id: 10
+      name: decision_making_process
       label: How satisfied are you with the team's decision-making process?
       hint: null
       type: select_one
@@ -181,8 +97,8 @@ inputSchema:
       - Somewhat dissatisfied
       - Very dissatisfied
       required: false
-    - id: 20
-      name: introduction_question_16
+    - id: 11
+      name: communication_style
       label: Do you feel like the team's communication style is effective?
       hint: null
       type: select_one
@@ -193,22 +109,22 @@ inputSchema:
       - I feel it is somewhat not effective
       - I feel it is not at all effective
       required: false
-    - id: 21
-      name: introduction_question_17
+    - id: 12
+      name: trust_in_team
       label: How often do you feel like you can trust your team?
       hint: null
       type: number
       options: []
       required: false
-    - id: 22
-      name: introduction_question_18
-      label: How often do you collaborate with your team?
+    - id: 13
+      name: collaboration_frequency_2
+      label: Collaboration Frequency 2
       hint: null
       type: number
       options: []
       required: false
-    - id: 23
-      name: introduction_question_19
+    - id: 14
+      name: performance_satisfaction
       label: How satisfied are you with the team's performance?
       hint: null
       type: select_one
@@ -219,8 +135,8 @@ inputSchema:
       - Somewhat dissatisfied
       - Very dissatisfied
       required: false
-    - id: 24
-      name: introduction_question_20
+    - id: 15
+      name: feedback_openness
       label: Do you feel like your team is open to feedback?
       hint: null
       type: select_one
@@ -231,10 +147,17 @@ inputSchema:
       - I feel somewhat not open
       - I feel not at all open
       required: false
-    - id: 25
-      name: introduction_question_21
-      label: How often do you communicate with your team?
+    - id: 16
+      name: communication_frequency_2
+      label: Communication Frequency 2
       hint: null
       type: number
+      options: []
+      required: false
+    - id: 17
+      name: section_3
+      label: Section 3
+      hint: null
+      type: text
       options: []
       required: false

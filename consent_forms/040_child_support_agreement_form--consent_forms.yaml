@@ -72,12 +72,9 @@ inputSchema:
       hint: How often should payments occur?
       type: select_one
       options:
-      - label: Monthly
-        value: monthly
-      - label: Bi-weekly
-        value: biweekly
-      - label: Weekly
-        value: weekly
+      - Monthly
+      - Bi-weekly
+      - Weekly
       required: true
     - id: 11
       name: section_additional_expenses
@@ -92,14 +89,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Health and Dental Insurance
-        value: insurance
-      - label: School Tuition and Fees
-        value: education
-      - label: Extracurricular and Sports
-        value: sports
-      - label: Childcare and Daycare
-        value: childcare
+      - Health and Dental Insurance
+      - School Tuition and Fees
+      - Extracurricular and Sports
+      - Childcare and Daycare
       required: false
     - id: 13
       name: section_custody_visitation
@@ -114,12 +107,9 @@ inputSchema:
       hint: Physical custody status
       type: select_one
       options:
-      - label: Sole Custody Parent A
-        value: sole_a
-      - label: Sole Custody Parent B
-        value: sole_b
-      - label: Joint Physical Custody
-        value: joint
+      - Sole Custody Parent A
+      - Sole Custody Parent B
+      - Joint Physical Custody
       required: true
     - id: 15
       name: visitation_schedule_desc
@@ -141,10 +131,8 @@ inputSchema:
       hint: Mutual consent acknowledgement
       type: select_one
       options:
-      - label: Yes - We Agree
-        value: true
-      - label: No - Not yet agreed
-        value: false
+      - Yes - We Agree
+      - No - Not yet agreed
       required: true
     - id: 18
       name: agreement_signing_date

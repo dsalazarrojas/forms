@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''in_person'', ''label'': ''In Person''}'
-      - '{''value'': ''virtual'', ''label'': ''Virtual''}'
+      - In Person
+      - Virtual
       required: true
     - id: 6
       name: dietary_needs
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''vegetarian'', ''label'': ''Vegetarian''}'
-      - '{''value'': ''vegan'', ''label'': ''Vegan''}'
-      - '{''value'': ''gluten_free'', ''label'': ''Gluten Free''}'
+      - Vegetarian
+      - Vegan
+      - Gluten Free
       required: false
     - id: 7
       name: accessibility_needs
@@ -56,7 +56,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''wheelchair_accessible'', ''label'': ''Wheelchair Accessible''}'
-      - '{''value'': ''audio_desktop'', ''label'': ''Audio Descriptive Support''}'
-      - '{''value'': ''visual_alternate'', ''label'': ''Visual Alternative Support''}'
+      - Wheelchair Accessible
+      - Audio Descriptive Support
+      - Visual Alternative Support
       required: false

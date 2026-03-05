@@ -4,185 +4,117 @@ inputSchema:
     title: virtual_confidence_coaching_survey
     pages:
     - id: 1
-      name: intro
-      label: welcome_to_the_survey
+      name: introduction
+      label: Welcome to the Survey
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: coaching_level
-      label: how_would_you Describe_your_coaching_level
+      label: What is your current coaching level?
       hint: null
       type: select_multiple
       options:
       - High
       - Low
-      required: false
+      required: true
     - id: 3
       name: challenge_areas
-      label: what_areas_do_you_struggle_with
+      label: Which areas do you struggle with?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: confidence_levels
-      label: what_areas_do_you_feel_confident_with
+      name: confidence_areas
+      label: Where do you feel confident with?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
-      name: confidence_levels_1
-      label: self_confidence
+      name: self_efficacy
+      label: Do you feel confident in taking action?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: confidence_score_1
+      label: How would you rate your confidence score?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: confidence_level
+      label: What is your overall confidence level?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: self_confidence
+      label: How would you rate your self-confidence?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: confidence_score_2
+      label: Confidence Score 2
       hint: null
       type: number
       options: []
       required: false
-    - id: 6
-      name: confidence_levels_2
-      label: confidence_level
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: confidence_levels_3
-      label: areas_confidence
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: confidence_levels_4
-      label: self_confidence_level
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: self_efficacy
-      label: how_do_you Describe_your_self_efficacy
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 10
-      name: self_efficacy_1
-      label: self
+      name: confidence_level_2
+      label: What is your confidence level?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 11
-      name: self_efficacy_2
-      label: level
+      name: self_confidence_2
+      label: Self Confidence 2
       hint: null
       type: number
       options: []
       required: false
     - id: 12
-      name: self_efficacy_3
-      label: self_efficacy
+      name: confidence_area
+      label: What is your confidence area?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: self_confidence_score
-      label: what_is_your_confidence_score
+      name: efficacy
+      label: Do you feel confident in your abilities?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: self_confidence_score_1
-      label: score
+      name: self_efficacy_level
+      label: What is your level of self-efficacy?
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 15
-      name: self_confidence_score_2
-      label: confidence_score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: self_confidence_score_3
-      label: confidence_score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: confidence
-      label: confidence_level
+      name: confidence_self
+      label: How would you rate your confidence in yourself?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 18
-      name: self_confidence_level
-      label: self_confidence_level
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: confidence_level_1
-      label: confidence_level
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: self_confidence_levels
-      label: self_confidence_levels
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: self_confidence_level_2
-      label: confidence_level_1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: self_confidence_levels_2
-      label: confidence_level_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: confidence_levels_3
-      label: confidence_levels
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: confidence_levels_4
-      label: confidence_level_4
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: confidence_levels_5
-      label: confidence_levels_5
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true

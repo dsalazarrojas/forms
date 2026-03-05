@@ -23,12 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sustainability'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Building Efficiency'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Energy Management'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Water Management'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Green Building'', ''value'': 5}'
-      - '{''id'': 6, ''label'': ''Green Infrastructure'', ''value'': 6}'
+      - Sustainability
+      - Building Efficiency
+      - Energy Management
+      - Water Management
+      - Green Building
+      - Green Infrastructure
       required: true
     - id: 4
       name: partner_organisation_details
@@ -50,11 +50,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Google Docs'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Excel'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Jotform'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Dropbox'', ''value'': 5}'
+      - Google Docs
+      - Excel
+      - Other
+      - Jotform
+      - Dropbox
       required: false
     - id: 7
       name: partner_agree
@@ -70,7 +70,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit'', ''value'': 1}'
+      - Submit
       - Other
       required: false
     - id: 9

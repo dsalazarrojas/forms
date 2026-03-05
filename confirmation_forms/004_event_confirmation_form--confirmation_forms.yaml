@@ -58,11 +58,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pacific'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Mountain'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Central'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Eastern'', ''value'': 4}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': 5}'
+      - Pacific
+      - Mountain
+      - Central
+      - Eastern
+      - Other
       required: false
     - id: 9
       name: event_status
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Confirmed'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Cancelled'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': 3}'
+      - Confirmed
+      - Cancelled
+      - In Progress
       required: false
     - id: 10
       name: confirm_attendance

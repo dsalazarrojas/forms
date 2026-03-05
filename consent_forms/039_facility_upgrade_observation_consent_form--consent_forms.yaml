@@ -4,55 +4,92 @@ inputSchema:
     title: Facility Upgrade Observation Consent Form
     pages:
     - id: 1
-      name: facility_upgrade_observation_consent_form_1
-      label: Facility Upgrades
+      name: facility_upgrade_information
+      label: Facility Upgrade Information
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 2
-      name: facility_upgrade_observation_consent_form_2
-      label: Facility Upgrades
+      name: facility_upgrade_type
+      label: Facility Upgrade Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Option 1
+      - Option 2
       required: false
     - id: 3
-      name: facility_upgrade_observation_consent_form_3
-      label: Facility Upgrades
+      name: upgrade_reason
+      label: Upgrade Reason
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: facility_upgrade_observation_consent_form_4
-      label: Facility Upgrades
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 5
-      name: facility_upgrade_observation_consent_form_5
-      label: Facility Upgrades
+      name: expected_completion_date
+      label: Expected Completion Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 6
-      name: facility_upgrade_observation_consent_form_6
-      label: Facility Upgrades
+    - id: 5
+      name: preferred_upgrade_time
+      label: Preferred Time for Upgrade
       hint: null
-      type: number
+      type: time
       options: []
       required: false
-    - id: 7
-      name: facility_upgrade_observation_consent_form_7
-      label: Facility Upgrades
+    - id: 6
+      name: upgrade_location
+      label: Upgrade Location
       hint: null
-      type: number
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 7
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: facility_upgrade_observation_consent_form_8
+      label: Is There Anything Else You Would Like to Comment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_upgrade_observation_consent_form_9
+      label: Facility Upgrade Observation Consent Form 9
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facility_upgrade_observation_consent_form_10
+      label: Facility Upgrade Observation Consent Form 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_upgrade_observation_consent_form_11
+      label: Facility Upgrade Observation Consent Form 11
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_upgrade_observation_consent_form_12
+      label: Facility Upgrade Observation Consent Form 12
+      hint: null
+      type: text
       options: []
       required: false

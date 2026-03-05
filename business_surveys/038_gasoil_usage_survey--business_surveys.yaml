@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Diesel''}'
-      - '{''label'': ''Gasoline''}'
-      - '{''label'': ''Other''}'
+      - Diesel
+      - Gasoline
+      - Other
       required: false
     - id: 9
       name: vehicle_type
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Car''}'
-      - '{''label'': ''Truck''}'
-      - '{''label'': ''Other''}'
+      - Car
+      - Truck
+      - Other
       required: false
     - id: 10
       name: location
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Office''}'
-      - '{''label'': ''Home''}'
-      - '{''label'': ''Other''}'
+      - Office
+      - Home
+      - Other
       required: false
     - id: 11
       name: shift
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Afternoon''}'
-      - '{''label'': ''Night''}'
+      - Morning
+      - Afternoon
+      - Night
       required: false
     - id: 12
       name: equipment
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 14
       name: usage_time

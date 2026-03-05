@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''CEO/President'', ''label'': ''CEO/President''}'
-      - '{''id'': 2, ''name'': ''CFO'', ''label'': ''CFO''}'
-      - '{''id'': 3, ''name'': ''COO'', ''label'': ''COO''}'
+      - CEO/President
+      - CFO
+      - COO
       required: false
     - id: 8
       name: date_founded
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: whistleblower_policy
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: data_privacy_policy
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: page_3
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Regular'', ''label'': ''Regular''}'
-      - '{''id'': 2, ''name'': ''Periodic'', ''label'': ''Periodic''}'
-      - '{''id'': 3, ''name'': ''Event-Driven'', ''label'': ''Event-Driven''}'
+      - Regular
+      - Periodic
+      - Event-Driven
       required: false
     - id: 19
       name: audit_committee
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: compliance_committee
@@ -156,8 +156,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: compliance_program
@@ -165,8 +165,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: ethics_committee
@@ -174,8 +174,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: page_4

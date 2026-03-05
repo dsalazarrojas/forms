@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Private''}'
-      - '{''name'': ''Public''}'
+      - Private
+      - Public
       required: false
     - id: 4
       name: registration_type
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Sole-Proprietor''}'
-      - '{''name'': ''Partnership''}'
-      - '{''name'': ''Company''}'
+      - Sole-Proprietor
+      - Partnership
+      - Company
       required: false
     - id: 5
       name: email
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Phone''}'
-      - '{''name'': ''Email''}'
-      - '{''name'': ''In-person''}'
+      - Phone
+      - Email
+      - In-person
       required: false
     - id: 13
       name: follow_up_time
@@ -108,7 +108,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Email''}'
-      - '{''name'': ''Phone''}'
-      - '{''name'': ''In-person''}'
+      - Email
+      - Phone
+      - In-person
       required: false

@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Excellent'', ''label'': ''Excellent''}'
-      - '{''value'': ''Good'', ''label'': ''Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 2
       name: recommendation
@@ -20,8 +20,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: quality_rating

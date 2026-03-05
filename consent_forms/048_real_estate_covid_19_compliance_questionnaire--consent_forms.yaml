@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''No Symptoms'', ''value'': ''No Symptoms''}'
-      - '{''label'': ''Fever'', ''value'': ''Fever''}'
-      - '{''label'': ''Cough'', ''value'': ''Cough''}'
-      - '{''label'': ''Shortness Of Breath'', ''value'': ''Shortness Of Breath''}'
+      - No Symptoms
+      - Fever
+      - Cough
+      - Shortness Of Breath
       required: false
     - id: 7
       name: contact_info
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''Yes''}'
-      - '{''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: travel_status
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''Yes''}'
-      - '{''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: exposure_status
@@ -75,6 +75,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': ''Yes''}'
-      - '{''label'': False, ''value'': ''No''}'
+      - 'True'
+      - 'False'
       required: false

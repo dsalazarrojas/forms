@@ -140,7 +140,7 @@ inputSchema:
       options:
       - Yes All Coaches
       - Yes Some Coaches
-      - false
+      - 'False'
       required: true
     - id: 17
       name: facility_type
@@ -175,7 +175,7 @@ inputSchema:
       options:
       - Yes Current Policy
       - Yes Pending
-      - false
+      - 'False'
       required: true
     - id: 20
       name: insurance_provider
@@ -203,7 +203,7 @@ inputSchema:
       options:
       - Yes Comprehensive
       - Yes Basic
-      - false
+      - 'False'
       required: true
     - id: 23
       name: emergency_procedures
@@ -211,8 +211,8 @@ inputSchema:
       hint: Do you have emergency procedures
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: years_in_operation
@@ -234,7 +234,7 @@ inputSchema:
       options:
       - Yes Current
       - Yes Expired
-      - false
+      - 'False'
       required: true
     - id: 26
       name: license_violations
@@ -242,7 +242,7 @@ inputSchema:
       hint: Any past violations or sanctions
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes Please Explain
       required: true
     - id: 27
@@ -258,8 +258,8 @@ inputSchema:
       hint: Do you provide training for coaches
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 29
       name: application_fee_paid
@@ -267,8 +267,8 @@ inputSchema:
       hint: Have you paid the application fee
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 30
       name: terms_and_conditions
@@ -277,7 +277,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Accept
-      - false
+      - 'False'
       required: true
     - id: 31
       name: signature_date

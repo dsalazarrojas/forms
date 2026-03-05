@@ -1,159 +1,148 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Client Call Log 5
     pages:
-      - id: 1
-        name: staff_info_header
-        label: -- Employee Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: employee_name
-        label: Employee Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: department
-        label: Department
-        hint: null
-        type: select_one
-        options:
-          - Sales
-          - Customer Support
-          - Technical Support
-          - Billing
-          - Administration
-        required: true
-      - id: 4
-        name: call_details_header
-        label: -- Call Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: client_company
-        label: Client or Company Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: person_called
-        label: Person Spoken To
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: call_date
-        label: Date of Call
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 8
-        name: call_start_time
-        label: Start Time
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 9
-        name: call_end_time
-        label: End Time
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 10
-        name: call_direction
-        label: Call Direction
-        hint: null
-        type: select_one
-        options:
-          - Inbound
-          - Outbound
-        required: true
-      - id: 11
-        name: subject_matter
-        label: Subject Matter
-        hint: Briefly describe the reason for the call
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: summary_of_call
-        label: Detailed Conversation Summary
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: call_outcome
-        label: Call Outcome
-        hint: null
-        type: select_one
-        options:
-          - Resolved
-          - Pending Action
-          - Escalated
-          - Information Provided
-          - Follow-up Scheduled
-          - No Answer / Left Message
-        required: true
-      - id: 14
-        name: action_items
-        label: Action Items and Next Steps
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: internal_notes
-        label: Internal Employee Notes
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: manager_review_requested
-        label: Request Manager Review?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 17
-        name: sync_confirmation
-        label: Data synced to CRM?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 18
-        name: log_footer
-        label: -- Call log entry completed --
-        hint: null
-        type: note
-        options: []
-        required: false
+    - id: 1
+      name: staff_info_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Customer Support
+      - Technical Support
+      - Billing
+      - Administration
+      required: true
+    - id: 4
+      name: call_details_header
+      label: -- Call Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: client_company
+      label: Client or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: person_called
+      label: Person Spoken To
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: call_date
+      label: Date of Call
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: call_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: call_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: call_direction
+      label: Call Direction
+      hint: null
+      type: select_one
+      options:
+      - Inbound
+      - Outbound
+      required: true
+    - id: 11
+      name: subject_matter
+      label: Subject Matter
+      hint: Briefly describe the reason for the call
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: summary_of_call
+      label: Detailed Conversation Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: call_outcome
+      label: Call Outcome
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - Pending Action
+      - Escalated
+      - Information Provided
+      - Follow-up Scheduled
+      - No Answer / Left Message
+      required: true
+    - id: 14
+      name: action_items
+      label: Action Items and Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: internal_notes
+      label: Internal Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_review_requested
+      label: Request Manager Review?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: sync_confirmation
+      label: Data synced to CRM?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: log_footer
+      label: -- Call log entry completed --
+      hint: null
+      type: note
+      options: []
+      required: false

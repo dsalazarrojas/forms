@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Manager''}'
-      - '{''value'': ''Director''}'
-      - '{''value'': ''Department Head''}'
+      - Manager
+      - Director
+      - Department Head
       required: false
     - id: 4
       name: expense_type
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Travel''}'
-      - '{''value'': ''Meal''}'
-      - '{''value'': ''Hotel''}'
+      - Travel
+      - Meal
+      - Hotel
       required: false
     - id: 5
       name: receipt_attachment

@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strongly Agree'', ''value'': 1}'
-      - '{''label'': ''Somewhat Agree'', ''value'': 2}'
-      - '{''label'': ''Neutral'', ''value'': 3}'
-      - '{''label'': ''Somewhat Disagree'', ''value'': 4}'
-      - '{''label'': ''Strongly Disagree'', ''value'': 5}'
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
       required: false
     - id: 4
       name: business_model
@@ -49,10 +49,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent'', ''value'': 1}'
-      - '{''label'': ''Good'', ''value'': 2}'
-      - '{''label'': ''Fair'', ''value'': 3}'
-      - '{''label'': ''Poor'', ''value'': 4}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 7
       name: employee_skills
@@ -60,10 +60,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''IT'', ''value'': 1}'
-      - '{''label'': ''Finance'', ''value'': 2}'
-      - '{''label'': ''Operations'', ''value'': 3}'
-      - '{''label'': ''Other'', ''value'': 4}'
+      - IT
+      - Finance
+      - Operations
+      - Other
       required: false
     - id: 8
       name: company_performance
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': 1}'
-      - '{''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: digitalization_barometer_score

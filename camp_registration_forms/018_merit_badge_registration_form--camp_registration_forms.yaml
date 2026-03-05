@@ -4,185 +4,105 @@ inputSchema:
     title: Merit Badge Registration Form
     pages:
     - id: 1
-      name: form_1
-      label: Camp
+      name: camp_details
+      label: Camp Details
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: event_1
+      name: event_details
       label: Event
       hint: null
       type: select_one
       options:
-      - '{}'
-      - Other
+      - Day Camp
+      - Residential Camp
+      - Backpack Camp
       required: false
     - id: 3
-      name: event_2
+      name: event_date
       label: Event Date
       hint: null
       type: date
       options: []
       required: false
     - id: 4
-      name: event_3
+      name: event_time
       label: Event Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: person_1
+      name: person_name
       label: Person
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: person_2
-      label: Person
+      name: person_selection
+      label: Select Multiple Persons
       hint: null
       type: select_multiple
       options:
-      - '{}'
-      - Other
+      - Scout
+      - Leader
+      - Staff
       required: false
     - id: 7
-      name: person_3
-      label: Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: person_4
-      label: Person
+      name: person_email
+      label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 9
-      name: badge_1
+    - id: 8
+      name: badge_selection
       label: Badge
       hint: null
       type: select_one
       options:
-      - '{}'
+      - Tent
+      - Backpack
       - Other
       required: false
-    - id: 10
-      name: badge_2
-      label: Badge
+    - id: 9
+      name: badge_multi_selection
+      label: Select Multiple Badges
       hint: null
       type: select_multiple
       options:
-      - '{}'
+      - Tent
+      - Backpack
       - Other
       required: false
-    - id: 11
-      name: badge_3
-      label: Badge
+    - id: 10
+      name: submit_button
+      label: Submit
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: person_description
+      label: Person Description
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 12
-      name: notes_1
-      label: Notes
+      name: event_description
+      label: Event Description
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: notes_2
-      label: Notes
+      name: event_location
+      label: Event Location
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 14
-      name: notes_3
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: notes_4
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: notes_5
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: notes_6
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: notes_7
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: notes_8
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: notes_9
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: notes_10
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: notes_11
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: notes_12
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: notes_13
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: notes_14
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true

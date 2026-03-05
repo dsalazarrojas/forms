@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Dentist''}'
-      - '{''id'': 2, ''name'': ''Orthodontist''}'
-      - '{''id'': 3, ''name'': ''Pediatrician''}'
+      - Dentist
+      - Orthodontist
+      - Pediatrician
       required: false
     - id: 3
       name: claimant
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''Approved''}'
-      - '{''id'': 3, ''name'': ''Rejected''}'
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 6
       name: claim_date

@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Cash''}'
-      - '{''id'': 2, ''name'': ''Check''}'
-      - '{''id'': 3, ''name'': ''Credit Card''}'
-      - '{''id'': 4, ''name'': ''Bank Transfer''}'
+      - Cash
+      - Check
+      - Credit Card
+      - Bank Transfer
       required: false
     - id: 6
       name: vendor_address
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Paid''}'
-      - '{''id'': 2, ''name'': ''Unpaid''}'
-      - '{''id'': 3, ''name'': ''Partially Paid''}'
+      - Paid
+      - Unpaid
+      - Partially Paid
       required: false
     - id: 11
       name: event_vendor_confirmation
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Confirmed''}'
-      - '{''id'': 2, ''name'': ''Unconfirmed''}'
-      - '{''id'': 3, ''name'': ''Pending''}'
+      - Confirmed
+      - Unconfirmed
+      - Pending
       required: false
     - id: 12
       name: assigned_user
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''admin''}'
+      - chatjimmy
+      - admin
       required: false
     - id: 13
       name: assigned_at
@@ -133,7 +133,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 18
@@ -142,7 +142,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 19
@@ -151,7 +151,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 20
@@ -160,7 +160,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 21

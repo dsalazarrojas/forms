@@ -5,184 +5,119 @@ inputSchema:
     pages:
     - id: 1
       name: participant_info
-      label: participant_info
+      label: Participant Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: participant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: participant_email
-      label: participant_email
+      label: Email Address
       hint: null
       type: email
       options: []
-      required: false
-    - id: 4
+      required: true
+    - id: 3
       name: participant_phone
-      label: participant_phone
+      label: Phone Number
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 4
       name: participant_notes
-      label: participant_notes
+      label: Additional Notes
       hint: null
       type: note
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: participant_time
-      label: participant_time
+      label: Participant Start Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: participant_date
-      label: participant_date
+      label: Participant Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 8
-      name: participant_radio
-      label: participant_radio
+      required: true
+    - id: 7
+      name: event_radio
+      label: Event Status
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
+    - id: 8
+      name: participant_radio
+      label: Participant Status
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 9
-      name: event_radio
-      label: event_radio
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: event_end_time
+      label: Event End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: participant_radio_2
+      label: Participant Radio
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 10
-      name: participant_time
-      label: participant_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: participant_date
-      label: participant_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: participant_notes
-      label: participant_notes
-      hint: null
-      type: note
-      options: []
-      required: false
+      required: true
     - id: 13
-      name: event_start_time
-      label: event_start_time
+      name: participant_info_2
+      label: Participant Info 2
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: event_end_time
-      label: event_end_time
+      name: participant_phone_2
+      label: Participant Phone
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: participant_radio
-      label: participant_radio
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: participant_name
-      label: participant_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: participant_email
-      label: participant_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: participant_phone
-      label: participant_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: participant_notes
-      label: participant_notes
+      name: participant_notes_2
+      label: Participant Notes
       hint: null
       type: note
       options: []
-      required: false
-    - id: 20
-      name: participant_time
-      label: participant_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: participant_date
-      label: participant_date
+      required: true
+    - id: 16
+      name: participant_date_2
+      label: Participant Date 2
       hint: null
       type: date
       options: []
-      required: false
-    - id: 22
-      name: participant_radio
-      label: participant_radio
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: event_start_time
-      label: event_start_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: event_end_time
-      label: event_end_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: participant_name
-      label: participant_name
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

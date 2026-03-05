@@ -1,202 +1,191 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Book Cover Design Approval Form
     pages:
-      - id: 1
-        name: book_title
-        label: Book Title
-        hint: Full title of the book
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: book_author
-        label: Book Author
-        hint: Author of the book
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: submitter_name
-        label: Submitter Full Name
-        hint: Name of person submitting for approval
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: submitter_email
-        label: Submitter Email
-        hint: Contact email
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: submitter_role
-        label: Your Role
-        hint: Your role in the project
-        type: select_one
-        options:
-          - Author
-          - Publisher
-          - Designer
-          - Editor
-          - Marketing Team
-          - Other
-        required: true
-      - id: 6
-        name: design_version
-        label: Design Version Number
-        hint: Version number of this design
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: design_concept
-        label: Design Concept Description
-        hint: Describe the design concept and inspiration
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: cover_file_upload
-        label: Cover Design File
-        hint: Upload the cover design file
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: spine_file_upload
-        label: Spine Design File
-        hint: Upload the spine design file if applicable
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: back_cover_file_upload
-        label: Back Cover Design File
-        hint: Upload the back cover design file if applicable
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: color_scheme
-        label: Color Scheme
-        hint: Describe the color palette used
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: typography_details
-        label: Typography Details
-        hint: Describe fonts and typography choices
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: target_audience
-        label: Target Audience
-        hint: Who is this cover designed to attract
-        type: select_one
-        options:
-          - Young Adults
-          - Adults 18-35
-          - Adults 35-50
-          - Adults 50 Plus
-          - Children
-          - Academic Readers
-          - General Fiction Readers
-        required: true
-      - id: 14
-        name: genre_alignment
-        label: Does the Cover Match the Genre
-        hint: Select if cover aligns with genre expectations
-        type: select_one
-        options:
-          - Yes Perfectly
-          - Mostly Yes
-          - Somewhat
-          - Not Really
-          - No
-        required: true
-      - id: 15
-        name: approval_decision
-        label: Approval Decision
-        hint: Select your decision
-        type: select_one
-        options:
-          - Approved as Is
-          - Approved with Minor Revisions
-          - Needs Major Revisions
-          - Rejected New Design Needed
-        required: true
-      - id: 16
-        name: revision_notes
-        label: Revision Notes or Feedback
-        hint: Describe any changes needed
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: specific_changes
-        label: Specific Changes Required
-        hint: List specific changes if any
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: deadline_for_revisions
-        label: Deadline for Revisions
-        hint: When should revisions be completed
-        type: date
-        options: []
-        required: false
-      - id: 19
-        name: budget_approval
-        label: Budget Approved
-        hint: Is the design within budget
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: false
-      - id: 20
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other feedback or notes
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: reviewer_name
-        label: Reviewer Full Name
-        hint: Name of person reviewing
-        type: text
-        options: []
-        required: true
-      - id: 22
-        name: reviewer_signature
-        label: Reviewer Signature
-        hint: Type your full name as signature
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: review_date
-        label: Review Date
-        hint: Date of review
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: book_title
+      label: Book Title
+      hint: Full title of the book
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: book_author
+      label: Book Author
+      hint: Author of the book
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_name
+      label: Submitter Full Name
+      hint: Name of person submitting for approval
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submitter_email
+      label: Submitter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: submitter_role
+      label: Your Role
+      hint: Your role in the project
+      type: select_one
+      options:
+      - Author
+      - Publisher
+      - Designer
+      - Editor
+      - Marketing Team
+      - Other
+      required: true
+    - id: 6
+      name: design_version
+      label: Design Version Number
+      hint: Version number of this design
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: design_concept
+      label: Design Concept Description
+      hint: Describe the design concept and inspiration
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cover_file_upload
+      label: Cover Design File
+      hint: Upload the cover design file
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: spine_file_upload
+      label: Spine Design File
+      hint: Upload the spine design file if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: back_cover_file_upload
+      label: Back Cover Design File
+      hint: Upload the back cover design file if applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: color_scheme
+      label: Color Scheme
+      hint: Describe the color palette used
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: typography_details
+      label: Typography Details
+      hint: Describe fonts and typography choices
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: target_audience
+      label: Target Audience
+      hint: Who is this cover designed to attract
+      type: select_one
+      options:
+      - Young Adults
+      - Adults 18-35
+      - Adults 35-50
+      - Adults 50 Plus
+      - Children
+      - Academic Readers
+      - General Fiction Readers
+      required: true
+    - id: 14
+      name: genre_alignment
+      label: Does the Cover Match the Genre
+      hint: Select if cover aligns with genre expectations
+      type: select_one
+      options:
+      - Yes Perfectly
+      - Mostly Yes
+      - Somewhat
+      - Not Really
+      - 'False'
+      required: true
+    - id: 15
+      name: approval_decision
+      label: Approval Decision
+      hint: Select your decision
+      type: select_one
+      options:
+      - Approved as Is
+      - Approved with Minor Revisions
+      - Needs Major Revisions
+      - Rejected New Design Needed
+      required: true
+    - id: 16
+      name: revision_notes
+      label: Revision Notes or Feedback
+      hint: Describe any changes needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: specific_changes
+      label: Specific Changes Required
+      hint: List specific changes if any
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: deadline_for_revisions
+      label: Deadline for Revisions
+      hint: When should revisions be completed
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: budget_approval
+      label: Budget Approved
+      hint: Is the design within budget
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or notes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_name
+      label: Reviewer Full Name
+      hint: Name of person reviewing
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: review_date
+      label: Review Date
+      hint: Date of review
+      type: date
+      options: []
+      required: true

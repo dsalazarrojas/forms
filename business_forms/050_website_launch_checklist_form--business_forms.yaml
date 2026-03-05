@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Business Forms'', ''value'': ''business_forms''}'
-      - '{''id'': 2, ''label'': ''Other Forms'', ''value'': ''other_forms''}'
+      - Business Forms
+      - Other Forms
       required: false
     - id: 3
       name: form_description
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''Another Tool'', ''value'': ''another_tool''}'
+      - Chatjimmy
+      - Another Tool
       required: false
     - id: 5
       name: form_ids
@@ -48,13 +48,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''050_website_launch_checklist_form--business_forms'',
-        ''value'': ''050_website_launch_checklist_form--business_forms''}'
-      - '{''id'': 2, ''label'': ''Other File'', ''value'': ''other_file''}'
+      - 050 website launch checklist form--business forms
+      - Other File
       required: false
     - id: 7
       name: description
-      label: Description
+      label: Description (2)
       hint: null
       type: text
       options: []
@@ -68,16 +67,16 @@ inputSchema:
       required: false
     - id: 9
       name: category
-      label: Category
+      label: Category (2)
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Business Forms'', ''value'': ''business_forms''}'
-      - '{''id'': 2, ''label'': ''Other'', ''value'': ''other''}'
+      - Business Forms
+      - Other
       required: false
     - id: 10
-      name: description
-      label: Description
+      name: description_2
+      label: Description (3)
       hint: null
       type: text
       options: []

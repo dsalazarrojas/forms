@@ -15,77 +15,49 @@ inputSchema:
     title: Project Change Order Form
     pages:
     - id: 1
-      name: project_change_order_form
-      label: Project Change Order Form
-      hint: null
+      name: project_details
+      label: Project Details
+      hint: Provide project information
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: project_change_order_form_uploaded_documents
-      label: Uploaded Documents
-      hint: null
+      name: change_details
+      label: Change Details
+      hint: Describe the project change
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: project_change_order_form_change_details
-      label: Change Details
-      hint: null
+      name: documents
+      label: Documents
+      hint: Upload supporting documents
       type: text
       options: []
       required: false
     - id: 4
-      name: project_change_order_form_collect_e_signature
-      label: Collect E-Signature
-      hint: null
+      name: collect_e_signature
+      label: E-Signature Collection
+      hint: Collect electronic signatures
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: project_change_order_form_contractor_forms
+      name: contractor_forms
       label: Contractor Forms
-      hint: null
+      hint: Select contractor forms
       type: select_one
       options:
       - Form 1
       - Form 2
       - Form 3
-      required: false
+      required: true
     - id: 6
-      name: project_change_order_form_uploaded_documents
-      label: Uploaded Documents
-      hint: null
+      name: review_and_submit
+      label: Review and Submit
+      hint: Confirm submission
       type: text
       options: []
-      required: false
-    - id: 7
-      name: project_change_order_form_change_details
-      label: Change Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: project_change_order_form_collect_e_signature
-      label: Collect E-Signature
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 9
-      name: project_change_order_form_contractor_forms
-      label: Contractor Forms
-      hint: null
-      type: select_one
-      options:
-      - Form 1
-      - Form 2
-      - Form 3
-      required: false
+      required: true

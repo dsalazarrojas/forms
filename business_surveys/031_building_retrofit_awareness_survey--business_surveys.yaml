@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,12 +37,12 @@ inputSchema:
       hint: Employee, tenant, manager, etc
       type: select_one
       options:
-        - Building Occupant
-        - Tenant
-        - Manager
-        - Facility Staff
-        - Owner
-        - Other
+      - Building Occupant
+      - Tenant
+      - Manager
+      - Facility Staff
+      - Owner
+      - Other
       required: true
     - id: 6
       name: retrofit_awareness
@@ -61,10 +50,10 @@ inputSchema:
       hint: Do you know about planned retrofits
       type: select_one
       options:
-        - Very Aware
-        - Somewhat Aware
-        - Minimally Aware
-        - Not Aware
+      - Very Aware
+      - Somewhat Aware
+      - Minimally Aware
+      - Not Aware
       required: true
     - id: 7
       name: retrofit_definition
@@ -72,10 +61,10 @@ inputSchema:
       hint: Do you know what retrofitting is
       type: select_one
       options:
-        - Fully Understand
-        - Mostly Understand
-        - Partially Understand
-        - Do Not Understand
+      - Fully Understand
+      - Mostly Understand
+      - Partially Understand
+      - Do Not Understand
       required: true
     - id: 8
       name: retrofit_benefits
@@ -83,13 +72,13 @@ inputSchema:
       hint: What benefits do you know about
       type: select_multiple
       options:
-        - Energy Savings
-        - Lower Utility Costs
-        - Environmental Benefits
-        - Improved Comfort
-        - Increased Property Value
-        - Health Improvements
-        - Unsure
+      - Energy Savings
+      - Lower Utility Costs
+      - Environmental Benefits
+      - Improved Comfort
+      - Increased Property Value
+      - Health Improvements
+      - Unsure
       required: true
     - id: 9
       name: most_interested_benefit
@@ -97,12 +86,12 @@ inputSchema:
       hint: Which benefit matters most
       type: select_one
       options:
-        - Cost Savings
-        - Environmental Impact
-        - Comfort Improvements
-        - Health Benefits
-        - Increased Efficiency
-        - All Equally Important
+      - Cost Savings
+      - Environmental Impact
+      - Comfort Improvements
+      - Health Benefits
+      - Increased Efficiency
+      - All Equally Important
       required: false
     - id: 10
       name: retrofit_concerns
@@ -110,12 +99,12 @@ inputSchema:
       hint: Any worries or concerns
       type: select_multiple
       options:
-        - Disruption During Work
-        - Cost or Affordability
-        - Effectiveness
-        - Environmental Impact
-        - Safety Concerns
-        - No Concerns
+      - Disruption During Work
+      - Cost or Affordability
+      - Effectiveness
+      - Environmental Impact
+      - Safety Concerns
+      - No Concerns
       required: false
     - id: 11
       name: primary_concern
@@ -130,14 +119,14 @@ inputSchema:
       hint: Which retrofits interest you
       type: select_multiple
       options:
-        - HVAC System Upgrades
-        - Insulation Improvements
-        - Window Replacement
-        - LED Lighting
-        - Water Efficiency
-        - Renewable Energy
-        - Smart Building Systems
-        - All Types
+      - HVAC System Upgrades
+      - Insulation Improvements
+      - Window Replacement
+      - LED Lighting
+      - Water Efficiency
+      - Renewable Energy
+      - Smart Building Systems
+      - All Types
       required: false
     - id: 13
       name: information_sources
@@ -145,13 +134,13 @@ inputSchema:
       hint: How do you learn about retrofits
       type: select_multiple
       options:
-        - Building Management
-        - Email Communications
-        - Newsletters
-        - Building Portal
-        - Conversations with Others
-        - News or Media
-        - Have Not Received Info
+      - Building Management
+      - Email Communications
+      - Newsletters
+      - Building Portal
+      - Conversations with Others
+      - News or Media
+      - Have Not Received Info
       required: false
     - id: 14
       name: communication_quality
@@ -159,11 +148,11 @@ inputSchema:
       hint: How well informed do you feel
       type: select_one
       options:
-        - Very Well Informed
-        - Well Informed
-        - Somewhat Informed
-        - Poorly Informed
-        - Not Informed
+      - Very Well Informed
+      - Well Informed
+      - Somewhat Informed
+      - Poorly Informed
+      - Not Informed
       required: true
     - id: 15
       name: more_information_needed
@@ -178,11 +167,11 @@ inputSchema:
       hint: Would you be in favor
       type: select_one
       options:
-        - Strongly Support
-        - Support
-        - Neutral
-        - Oppose
-        - Strongly Oppose
+      - Strongly Support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly Oppose
       required: true
     - id: 17
       name: willingness_to_participate
@@ -190,10 +179,10 @@ inputSchema:
       hint: Would you volunteer
       type: select_one
       options:
-        - Yes, Definitely
-        - Maybe
-        - Probably Not
-        - No
+      - Yes, Definitely
+      - Maybe
+      - Probably Not
+      - 'False'
       required: false
     - id: 18
       name: behavioral_changes
@@ -201,8 +190,8 @@ inputSchema:
       hint: Are you already conserving
       type: select_one
       options:
-        - Already Making Changes
-        - Willing to Make Changes
-        - Not Interested
-        - Unsure
+      - Already Making Changes
+      - Willing to Make Changes
+      - Not Interested
+      - Unsure
       required: false

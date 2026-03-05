@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Shipper''}'
-      - '{''label'': ''Consignee''}'
+      - Shipper
+      - Consignee
       required: true
     - id: 4
       name: shipper_details
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: date_shipper_signed
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Shipper''}'
-      - '{''label'': ''Consignee''}'
+      - Shipper
+      - Consignee
       required: true
     - id: 13
       name: shipper_signature

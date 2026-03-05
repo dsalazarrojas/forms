@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 9
       name: onboarding_details
@@ -91,8 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: onboarding_location
@@ -130,34 +131,35 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: onboarding_time
-      label: Onboarding Time
+      name: onboarding_time_2
+      label: Onboarding Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 19
-      name: onboarding_date
-      label: Onboarding Date
+      name: onboarding_date_2
+      label: Onboarding Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 20
-      name: emergency_contact
-      label: Emergency Contact
+      name: emergency_contact_2
+      label: Emergency Contact 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: onboarding_method
-      label: Onboarding Method
+      name: onboarding_method_2
+      label: Onboarding Method 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 22
       name: onboarding_status
@@ -167,8 +169,8 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: onboarding_location
-      label: Onboarding Location
+      name: onboarding_location_2
+      label: Onboarding Location 2
       hint: null
       type: text
       options: []
@@ -179,12 +181,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - I agree
+      - I do not agree
       required: false
     - id: 25
-      name: consent_date
-      label: Consent Date
+      name: consent_date_2
+      label: Consent Date 2
       hint: null
       type: date
       options: []

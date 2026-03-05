@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Gasoline'', ''value'': ''Gasoline''}'
-      - '{''id'': 2, ''label'': ''Electric'', ''value'': ''Electric''}'
-      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''Hybrid''}'
+      - Gasoline
+      - Electric
+      - Hybrid
       required: true
     - id: 6
       name: fuel_level
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Full'', ''value'': ''Full''}'
-      - '{''id'': 2, ''label'': ''Quarter'', ''value'': ''Quarter''}'
-      - '{''id'': 3, ''label'': ''Empty'', ''value'': ''Empty''}'
+      - Full
+      - Quarter
+      - Empty
       required: true
     - id: 7
       name: exterior_condition
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Clean'', ''value'': ''Clean''}'
-      - '{''id'': 2, ''label'': ''Stains'', ''value'': ''Stains''}'
-      - '{''id'': 3, ''label'': ''Dents'', ''value'': ''Dents''}'
+      - Clean
+      - Stains
+      - Dents
       required: true
     - id: 8
       name: interior_condition
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Clean'', ''value'': ''Clean''}'
-      - '{''id'': 2, ''label'': ''Stains'', ''value'': ''Stains''}'
-      - '{''id'': 3, ''label'': ''Odor'', ''value'': ''Odor''}'
+      - Clean
+      - Stains
+      - Odor
       required: true
     - id: 9
       name: mileage
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Automatic'', ''value'': ''Automatic''}'
-      - '{''id'': 2, ''label'': ''Manual'', ''value'': ''Manual''}'
+      - Automatic
+      - Manual
       required: true
     - id: 13
       name: color

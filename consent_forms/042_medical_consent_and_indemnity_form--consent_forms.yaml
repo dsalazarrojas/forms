@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: treatment_details
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''date'', ''label'': ''today''}'
-      - '{''value'': ''later'', ''label'': ''other''}'
+      - today
+      - other
       required: false
     - id: 12
       name: signature_time
@@ -101,9 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''notary'', ''label'': ''notarized''}'
-      - '{''value'': ''non_notarized'', ''label'': ''non-notarized''}'
-      - '{''value'': ''notarized'', ''label'': ''notarized''}'
+      - notarized
+      - non-notarized
       required: false
     - id: 14
       name: notarized_date

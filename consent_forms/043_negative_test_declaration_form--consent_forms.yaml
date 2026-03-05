@@ -5,325 +5,71 @@ inputSchema:
     pages:
     - id: 1
       name: passenger_info
-      label: Passenger Info
-      hint: null
+      label: Passenger Information
+      hint: Enter the passenger's name, age, and contact information.
       type: text
       options: []
       required: false
     - id: 2
-      name: test_result
-      label: Test Result
-      hint: Results of the test (negative)
-      type: select_one
-      options:
-      - Negative
-      - Positive
-      - Inconclusive
+      name: travel_info
+      label: Travel Information
+      hint: Enter the travel date and flight number.
+      type: text
+      options: []
       required: false
     - id: 3
-      name: travel_date
-      label: Travel Date
-      hint: null
-      type: date
+      name: test_result
+      label: Test Result
+      hint: Select the test result.
+      type: text
       options: []
       required: false
     - id: 4
-      name: flight_number
-      label: Flight Number
-      hint: null
-      type: number
+      name: contact_info2
+      label: Contact Information 2
+      hint: Enter the contact information for the person submitting the form.
+      type: text
       options: []
       required: false
     - id: 5
-      name: passenger_name
-      label: Passenger Name
-      hint: null
+      name: medical_info
+      label: Medical Information
+      hint: Enter any medical information related to the test.
       type: text
       options: []
       required: false
     - id: 6
-      name: flight_info
-      label: Flight Info
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: ship_name
-      label: Ship Name
-      hint: null
+      name: ship_info
+      label: Ship Information
+      hint: Enter the ship's name and count.
       type: text
       options: []
       required: false
     - id: 8
-      name: ship_id
-      label: Ship ID
-      hint: null
+      name: travel_count
+      label: Travel Count
+      hint: Enter the number of times the passenger has traveled.
       type: number
       options: []
       required: false
     - id: 9
-      name: travel_details
-      label: Travel Details
+      name: test_info
+      label: Test Information
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: passenger_info2
-      label: Passenger Info 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: passenger_info3
-      label: Passenger Info 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: passenger_info4
-      label: Passenger Info 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: travel_type
-      label: Travel Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: ship_type
-      label: Ship Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: flight_type
-      label: Flight Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: passenger_count
-      label: Passenger Count
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: ship_count
-      label: Ship Count
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
       name: test_date
       label: Test Date
-      hint: null
+      hint: Enter the test date.
       type: date
-      options: []
-      required: false
-    - id: 19
-      name: test_type
-      label: Test Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: medical_care
-      label: Medical Care
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: medical_care2
-      label: Medical Care 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: travel_date2
-      label: Travel Date 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: flight_date
-      label: Flight Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: flight_info
-      label: Flight Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: ship_info
-      label: Ship Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: test_info
-      label: Test Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: contact_person
-      label: Contact Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: medical_person
-      label: Medical Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: test_person
-      label: Test Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: test_person2
-      label: Test Person 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: ship_person
-      label: Ship Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: flight_person
-      label: Flight Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: contact_person2
-      label: Contact Person 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: medical_person2
-      label: Medical Person 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: test_person2
-      label: Test Person 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: travel_date2
-      label: Travel Date 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 38
-      name: ship_count2
-      label: Ship Count 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 39
-      name: flight_count
-      label: Flight Count 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 40
-      name: test_count
-      label: Test Count 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 41
-      name: test_result2
-      label: Test Result 2
-      hint: null
-      type: select_one
-      options:
-      - Negative
-      - Positive
-      - Inconclusive
-      required: false
-    - id: 42
-      name: test_result3
-      label: Test Result 3
-      hint: null
-      type: select_one
-      options:
-      - Negative
-      - Positive
-      - Inconclusive
-      required: false
-    - id: 43
-      name: travel_date3
-      label: Travel Date 3
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 44
-      name: flight_date2
-      label: Flight Date 2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 45
-      name: contact_name
-      label: Contact Name
-      hint: null
-      type: text
       options: []
       required: false

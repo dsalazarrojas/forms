@@ -4,207 +4,161 @@ inputSchema:
     title: Sector Icons Feedback Survey
     pages:
     - id: 1
-      name: sector_icons_feedback_survey
-      label: sector_icons_feedback_survey
-      hint: null
-      type: note
-      options: []
+      name: sector_icon_effectiveness
+      label: Which of the sector icons is the most effective in communicating the
+        organization's identity?
+      hint: Please select the most effective sector icon.
+      type: select_one
+      options:
+      - Sector 1
+      - Sector 2
+      - Sector 3
       required: true
     - id: 2
-      name: organization
-      label: organization
-      hint: null
+      name: overall_design_effectiveness
+      label: How would you rate the overall design effectiveness of the sector icons?
+      hint: Please rate on a scale of 1-5.
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: icon_design_improvement
+      label: What specific improvements could be made to the icon design itself?
+      hint: Please provide detailed feedback.
       type: text
       options: []
       required: false
-    - id: 3
-      name: icon_design_effectiveness
-      label: icon_design_effectiveness
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Not at all''}'
-      - '{''value'': ''Somewhat''}'
-      - '{''value'': ''Very''}'
-      - '{''value'': ''Extremely''}'
-      required: true
     - id: 4
       name: user_insights
-      label: user_insights
-      hint: null
-      type: time
+      label: What kind of insights do you get when looking at the sector icons?
+      hint: Please provide detailed feedback.
+      type: text
       options: []
-      required: true
+      required: false
     - id: 5
-      name: branding_and_user_interface
-      label: branding_and_user_interface
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Not at all''}'
-      - '{''value'': ''Somewhat''}'
-      - '{''value'': ''Very''}'
-      - '{''value'': ''Extremely''}'
+      name: overall_user_experience
+      label: How does the sector icon contribute to the overall user experience?
+      hint: Please rate on a scale of 1-5.
+      type: number
+      options: []
       required: true
     - id: 6
-      name: icon_improvement
-      label: icon_improvement
-      hint: null
-      type: text
+      name: icon_quality
+      label: What would you rate the quality of the sector icon design?
+      hint: Please rate on a scale of 1-5.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
+      name: organization
+      label: Which organization is using sector icons?
+      hint: Please select the organization.
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Other
       required: true
     - id: 8
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
+      name: icon_style
+      label: What is the design style of the sector icon?
+      hint: Please select from Modern, Classic, or Minimalist.
+      type: select_one
+      options:
+      - Modern
+      - Classic
+      - Minimalist
       required: true
     - id: 9
-      name: organization
-      label: organization
-      hint: null
-      type: select_multiple
+      name: icon_color_scheme
+      label: What is the color scheme of the sector icon?
+      hint: Please select from Monochromatic, Multicolored, or Grayscale.
+      type: select_one
       options:
-      - '{''value'': ''Company A''}'
-      - '{''value'': ''Company B''}'
-      - '{''value'': ''Other''}'
+      - Monochromatic
+      - Multicolored
+      - Grayscale
       required: true
     - id: 10
-      name: icon_design_style
-      label: icon_design_style
-      hint: null
+      name: icon_scale
+      label: What is the size of the sector icon?
+      hint: Please select from Small, Medium, or Large.
       type: select_one
       options:
-      - '{''value'': ''Modern''}'
-      - '{''value'': ''Classic''}'
-      - '{''value'': ''Minimalist''}'
+      - Small
+      - Medium
+      - Large
       required: true
     - id: 11
-      name: icon_color_scheme
-      label: icon_color_scheme
-      hint: null
-      type: select_one
+      name: icon_feeling
+      label: How does the sector icon make you feel?
+      hint: Please select from Not at all, Somewhat, Very, or Extremely.
+      type: select_multiple
       options:
-      - '{''value'': ''Monochromatic''}'
-      - '{''value'': ''Multicolored''}'
-      - '{''value'': ''Grayscale''}'
+      - Not at all
+      - Somewhat
+      - Very
+      - Extremely
       required: true
     - id: 12
-      name: icon_scale
-      label: icon_scale
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Small''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Large''}'
-      required: true
-    - id: 13
-      name: icon_feeling
-      label: icon_feeling
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Not at all''}'
-      - '{''value'': ''Somewhat''}'
-      - '{''value'': ''Very''}'
-      - '{''value'': ''Extremely''}'
-      required: true
-    - id: 14
-      name: organization_surveyed
-      label: organization_surveyed
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Sector 1''}'
-      - '{''value'': ''Sector 2''}'
-      - '{''value'': ''Sector 3''}'
-      required: true
-    - id: 15
-      name: icon_design_improvement
-      label: icon_design_improvement
-      hint: null
+      name: feedback
+      label: What specific feedback have you received about the sector icon?
+      hint: Please provide detailed feedback.
       type: text
       options: []
+      required: true
+    - id: 13
+      name: organization_surveyed
+      label: Which organization is being surveyed in this sector icon feedback?
+      hint: Please select the organization.
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Other
+      required: true
+    - id: 14
+      name: sector_improvement
+      label: Is there an improvement that could be made to the color scheme of the
+        sector icon?
+      hint: Please select from Yes or No.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
+    - id: 15
+      name: overall_improvement
+      label: Are there any overall improvements that could be made to the sector icon
+        design?
+      hint: Please select from Yes or No.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 16
-      name: icon_color_scheme_improvement
-      label: icon_color_scheme_improvement
-      hint: null
+      name: user_interface_improvement
+      label: What specific improvement could be made to the overall user interface?
+      hint: Please provide detailed feedback.
       type: text
       options: []
       required: false
     - id: 17
-      name: sector
-      label: sector
-      hint: null
+      name: icon_feeling_improvement
+      label: What specific improvement could be made to the sector icon design itself?
+      hint: Please provide detailed feedback.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: user_experience_improvement
+      label: User Experience Improvement
+      hint: Please select from Not at all, Somewhat, Very, or Extremely.
       type: select_multiple
       options:
-      - '{''value'': ''Sector 1''}'
-      - '{''value'': ''Sector 2''}'
-      - '{''value'': ''Sector 3''}'
-      required: true
-    - id: 18
-      name: user_interface_improvement
-      label: user_interface_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: icon_feeling_improvement
-      label: icon_feeling_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: overall_improvement
-      label: overall_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: icon_improvement
-      label: icon_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: organization
-      label: organization
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: icon_scale_improvement
-      label: icon_scale_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: feedback_improvement
-      label: feedback_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: user
-      label: user
-      hint: null
-      type: text
-      options: []
+      - Not at all
+      - Somewhat
+      - Very
+      - Extremely
       required: false

@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: review_status
@@ -61,13 +61,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: edit_status
-      label: What status should be assigned for this step?
+      label: Edit Status
       hint: null
       type: select_one
       options:
@@ -95,13 +95,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: approval_status
-      label: What status should be assigned for this step?
+      label: Approval Status
       hint: null
       type: select_one
       options:
@@ -129,13 +129,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
       name: finalize_status
-      label: What status should be assigned for this step?
+      label: Finalize Status
       hint: null
       type: select_one
       options:
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 19
       name: review_notes

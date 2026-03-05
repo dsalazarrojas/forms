@@ -68,7 +68,7 @@ inputSchema:
       hint: for medical or chemical storage
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - Removed
       - Not Applicable
       required: true
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Partially
       required: true
     - id: 10
@@ -88,8 +88,8 @@ inputSchema:
       hint: for hazardous materials
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Applicable
       required: false
     - id: 11

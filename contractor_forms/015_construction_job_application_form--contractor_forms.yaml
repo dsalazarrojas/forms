@@ -99,7 +99,7 @@ inputSchema:
       - Yes, Citizen
       - Yes, Permanent Resident
       - Yes, Work Visa Holder
-      - false
+      - 'False'
       required: true
     - id: 13
       name: drivers_license
@@ -107,8 +107,8 @@ inputSchema:
       hint: Required for some positions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: license_class
@@ -202,7 +202,7 @@ inputSchema:
       options:
       - Yes, Without Limitations
       - Yes, With Some Limitations
-      - false
+      - 'False'
       required: true
     - id: 24
       name: drug_test_consent
@@ -210,8 +210,8 @@ inputSchema:
       hint: Do you agree to pre-employment drug screening
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: background_check_consent
@@ -219,8 +219,8 @@ inputSchema:
       hint: Do you authorize background verification
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: additional_information

@@ -5,87 +5,80 @@ inputSchema:
     pages:
     - id: 1
       name: staff_innovation_story_consent_form_1
-      label: Staff Innovation Story
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: staff_innovation_story_consent_form_2
       label: Staff Title
+      hint: null
+      type: select_one
+      options:
+      - Manager/Director
+      - Clinical Specialist
+      - Nurse
+      - Doctor
+      - Other (please specify)
+      required: true
+    - id: 2
+      name: innovation_story_title
+      label: Innovation Story Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: staff_innovation_story_consent_form_3
-      label: Permission To Share
+      name: consent_to_share
+      label: Consent to Share
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 4
-      name: staff_innovation_story_consent_form_4
+      name: innovation_story_description
       label: Innovation Story
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: staff_innovation_story_consent_form_5
-      label: Innovation Story
-      hint: A brief description of your innovation story
+      name: more_about_story
+      label: More about the Story
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: staff_innovation_story_consent_form_6
-      label: Innovation Story
-      hint: More details about your innovation story
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: staff_innovation_story_consent_form_7
-      label: Innovation Story
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: staff_innovation_story_consent_form_8
-      label: Innovation Story
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: staff_innovation_story_consent_form_9
-      label: Innovation Story
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: staff_innovation_story_consent_form_10
+      name: staff_contact_info
       label: Staff Contact Information
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: staff_innovation_story_consent_form_11
-      label: Staff Email Address
-      hint: Email address of the staff
-      type: email
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: null
+      type: text
       options: []
-      required: false
-    - id: 12
-      name: staff_innovation_story_consent_form_12
-      label: Staff Phone Number
-      hint: Phone number of the staff
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: innovation_story_consent_notes
+      label: Consented Notes
+      hint: null
+      type: checkbox
+      options:
+      - I consent to share my story with the hospital management
+      - I do not consent to share my story
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
       type: text
       options: []
       required: false

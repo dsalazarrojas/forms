@@ -4,8 +4,8 @@ inputSchema:
     title: Payment Network Compliance Integration Evaluation Checklist
     pages:
     - id: 1
-      name: payment_network_compliance_integration_evaluation_checklist_1
-      label: Is the payment network integrated
+      name: payment_network_compliance_integration
+      label: Is the payment network integrated?
       hint: null
       type: select_one
       options:
@@ -13,8 +13,8 @@ inputSchema:
       - Fair
       required: false
     - id: 2
-      name: payment_network_compliance_integration_evaluation_checklist_2
-      label: Is the payment network fully compliant
+      name: payment_network_compliance_compliance
+      label: Is the payment network fully compliant?
       hint: null
       type: select_multiple
       options:
@@ -22,15 +22,17 @@ inputSchema:
       - 'No'
       required: false
     - id: 3
-      name: payment_network_compliance_integration_evaluation_checklist_3
-      label: Is the payment network fully integrated
+      name: payment_network_security
+      label: Is the payment network secure?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 4
-      name: payment_network_compliance_integration_evaluation_checklist_4
-      label: Is the payment network compliant
+      name: payment_network_update_protocol
+      label: Is the payment network up-to-date with the latest security protocols?
       hint: null
       type: select_multiple
       options:
@@ -38,17 +40,17 @@ inputSchema:
       - 'No'
       required: false
     - id: 5
-      name: payment_network_compliance_integration_evaluation_checklist_5
-      label: Is the payment network integrated
+      name: payment_network_compliance_standards
+      label: Does the payment network meet the required compliance standards?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Good
-      - Fair
+      - 'Yes'
+      - 'No'
       required: false
     - id: 6
-      name: payment_network_compliance_integration_evaluation_checklist_6
-      label: Is the payment network secure
+      name: payment_network_activity_monitoring
+      label: Is there a clear process for monitoring payment network activity?
       hint: null
       type: select_multiple
       options:
@@ -56,24 +58,26 @@ inputSchema:
       - 'No'
       required: false
     - id: 7
-      name: payment_network_compliance_integration_evaluation_checklist_7
-      label: Is the payment network integrated
+      name: payment_network_testing_and_validation
+      label: Is the payment network properly tested and validated?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Good
-      - Fair
+      - 'Yes'
+      - 'No'
       required: false
     - id: 8
-      name: payment_network_compliance_integration_evaluation_checklist_8
-      label: Is the payment network compliant
+      name: payment_network_error_handling
+      label: Is there a process for handling payment network errors and failures?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
-      name: payment_network_compliance_integration_evaluation_checklist_9
-      label: Is the payment network secure
+      name: payment_network_integration_main_system
+      label: Is the payment network integrated with the main system?
       hint: null
       type: select_multiple
       options:
@@ -81,17 +85,17 @@ inputSchema:
       - 'No'
       required: false
     - id: 10
-      name: payment_network_compliance_integration_evaluation_checklist_10
-      label: Is the payment network integrated
+      name: payment_network_reporting
+      label: Is there a process for reporting and addressing payment network issues?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Good
-      - Fair
+      - 'Yes'
+      - 'No'
       required: false
     - id: 11
-      name: payment_network_compliance_integration_evaluation_checklist_11
-      label: Is the payment network compliant
+      name: payment_network_documentation
+      label: Is the payment network properly documented and maintained?
       hint: null
       type: select_multiple
       options:
@@ -99,8 +103,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 12
-      name: payment_network_compliance_integration_evaluation_checklist_12
-      label: Is the payment network secure
+      name: payment_network_update_software_hardware
+      label: Is there a clear process for updating payment network software and hardware?
       hint: null
       type: select_multiple
       options:
@@ -108,115 +112,56 @@ inputSchema:
       - 'No'
       required: false
     - id: 13
-      name: payment_network_compliance_integration_evaluation_checklist_13
-      label: Is the payment network integrated
+      name: payment_network_update_protocol_implementation
+      label: Payment Network Update Protocol Implementation
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Good
-      - Fair
+      - Implemented
+      - Not Implemented
       required: false
     - id: 14
-      name: payment_network_compliance_integration_evaluation_checklist_14
-      label: Is the payment network compliant
+      name: payment_network_compliance_reporting
+      label: Payment Network Compliance Reporting
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 15
-      name: payment_network_compliance_integration_evaluation_checklist_15
-      label: Is the payment network secure
+      name: payment_network_main_system_interface
+      label: How does the payment network interface with the main system?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - API
+      - Websocket
+      - Other
       required: false
     - id: 16
-      name: payment_network_compliance_integration_evaluation_checklist_16
-      label: Is the payment network integrated
+      name: payment_network_main_system_interface_type
+      label: Payment Network Main System Interface Type
       hint: null
       type: select_one
       options:
-      - Good
-      - Fair
+      - API
+      - Websocket
+      - Other
       required: false
     - id: 17
-      name: payment_network_compliance_integration_evaluation_checklist_17
-      label: Is the payment network compliant
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: payment_network_compliance_integration_evaluation_checklist_18
-      label: Is the payment network secure
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: payment_network_compliance_integration_evaluation_checklist_19
-      label: Is the payment network integrated
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 20
-      name: payment_network_compliance_integration_evaluation_checklist_20
-      label: Is the payment network compliant
+      name: payment_network_update_protocol_2
+      label: Payment Network Update Protocol
       hint: null
       type: number
       options: []
       required: false
-    - id: 21
-      name: payment_network_compliance_integration_evaluation_checklist_21
-      label: Is the payment network secure
+    - id: 18
+      name: payment_network_compliance
+      label: Payment Network Compliance
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 22
-      name: payment_network_compliance_integration_evaluation_checklist_22
-      label: Is the payment network integrated
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: false
-    - id: 23
-      name: payment_network_compliance_integration_evaluation_checklist_23
-      label: Is the payment network compliant
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: payment_network_compliance_integration_evaluation_checklist_24
-      label: Is the payment network secure
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: payment_network_compliance_integration_evaluation_checklist_25
-      label: Is the payment network integrated
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
       required: false

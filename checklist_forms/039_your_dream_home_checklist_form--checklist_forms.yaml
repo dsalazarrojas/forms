@@ -9,11 +9,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Single Family''}'
-      - '{''value'': ''Townhouse''}'
-      - '{''value'': ''Condo''}'
-      - '{''value'': ''Duplex''}'
-      - '{''value'': ''Other''}'
+      - Single Family
+      - Townhouse
+      - Condo
+      - Duplex
+      - Other
       required: false
     - id: 2
       name: location
@@ -21,9 +21,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''City''}'
-      - '{''value'': ''Suburbs''}'
-      - '{''value'': ''Rural''}'
+      - City
+      - Suburbs
+      - Rural
       required: false
     - id: 3
       name: price_range
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Residential''}'
-      - '{''value'': ''Commercial''}'
+      - Residential
+      - Commercial
       required: false
     - id: 10
       name: property_type
@@ -82,11 +82,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Single Family''}'
-      - '{''value'': ''Townhouse''}'
-      - '{''value'': ''Condo''}'
-      - '{''value'': ''Duplex''}'
-      - '{''value'': ''Other''}'
+      - Single Family
+      - Townhouse
+      - Condo
+      - Duplex
+      - Other
       required: false
     - id: 11
       name: lot_orientation
@@ -94,10 +94,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''North''}'
-      - '{''value'': ''South''}'
-      - '{''value'': ''East''}'
-      - '{''value'': ''West''}'
+      - North
+      - South
+      - East
+      - West
       required: false
     - id: 12
       name: has_porch
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: has_yard
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: has_pool
@@ -123,8 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: has_garage
@@ -132,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: has_basement
@@ -141,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: has_attic
@@ -150,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: has_fireplace
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: has_garden
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: has_play_area
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: has_security_system
@@ -186,8 +186,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: has_elevator
@@ -195,8 +195,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: has_fire_suppression_system
@@ -204,8 +204,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: has_water_source
@@ -213,9 +213,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''City''}'
-      - '{''value'': ''Well''}'
-      - '{''value'': ''Other''}'
+      - City
+      - Well
+      - Other
       required: false
     - id: 25
       name: has_sewage_disposal
@@ -223,8 +223,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Septic''}'
-      - '{''value'': ''Sewage Disposal''}'
+      - Septic
+      - Sewage Disposal
       required: false
     - id: 26
       name: lot_frontage

@@ -11,82 +11,104 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: category
-      label: category
+      name: marital_status
+      label: What is your current marital status?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      required: true
     - id: 3
       name: description
-      label: description
+      label: Describe your relationship
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: category
-      label: category
+      label: Is this form assigned to you?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
+    - id: 5
+      name: form_id
+      label: What is your ID number?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: relationship_category
+      label: How do you categorize your marriage?
+      hint: null
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Online
+      - Other (please specify)
+      required: true
     - id: 7
       name: title
-      label: title
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: description
-      label: description
+      name: description_2
+      label: Please describe yourself
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: category
-      label: category
+      name: marital_category
+      label: Marital Category
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Traditional
+      - Modern
+      - Online
+      - Other (please specify)
+      required: true
     - id: 10
-      name: description
-      label: description
+      name: assigned_tool_2
+      label: Assigned Tool 2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: self_description
+      label: Self Description
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: assigned_tool
-      label: assigned_tool
+    - id: 12
+      name: are_in_relationship
+      label: Are you in a relationship?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: other_description
+      label: Other Description
+      hint: null
+      type: text
+      options: []
       required: false

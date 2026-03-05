@@ -70,9 +70,9 @@ inputSchema:
       type: select_one
       options:
       - 1 - Not Efficient
-      - 2
+      - '2'
       - 3 - Neutral
-      - 4
+      - '4'
       - 5 - Very Efficient
       required: true
     - id: 9
@@ -113,8 +113,8 @@ inputSchema:
       hint: Would you be willing to test a new workflow?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: false
     - id: 14

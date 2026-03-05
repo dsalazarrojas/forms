@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Design''}'
-      - '{''id'': 2, ''name'': ''Development''}'
-      - '{''id'': 3, ''name'': ''Maintenance''}'
-      - '{''id'': 4, ''name'': ''Consulting''}'
+      - Design
+      - Development
+      - Maintenance
+      - Consulting
       required: false
     - id: 5
       name: project_description
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''In Progress''}'
-      - '{''id'': 2, ''name'': ''In Maintenance''}'
-      - '{''id'': 3, ''name'': ''Completed''}'
-      - '{''id'': 4, ''name'': ''On Hold''}'
-      - '{''id'': 5, ''name'': ''Canceled''}'
+      - In Progress
+      - In Maintenance
+      - Completed
+      - On Hold
+      - Canceled
       required: false
     - id: 7
       name: date
@@ -81,11 +81,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Website''}'
-      - '{''id'': 2, ''name'': ''Mobile App''}'
-      - '{''id'': 3, ''name'': ''E-commerce''}'
-      - '{''id'': 4, ''name'': ''Landing Page''}'
-      - '{''id'': 5, ''name'': ''Blog''}'
+      - Website
+      - Mobile App
+      - E-commerce
+      - Landing Page
+      - Blog
       required: false
     - id: 11
       name: project_location
@@ -93,11 +93,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''USA''}'
-      - '{''id'': 2, ''name'': ''Europe''}'
-      - '{''id'': 3, ''name'': ''Asia''}'
-      - '{''id'': 4, ''name'': ''Africa''}'
-      - '{''id'': 5, ''name'': ''South America''}'
+      - USA
+      - Europe
+      - Asia
+      - Africa
+      - South America
       required: false
     - id: 12
       name: project_budget
@@ -119,10 +119,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Free''}'
-      - '{''id'': 2, ''name'': ''Hourly''}'
-      - '{''id'': 3, ''name'': ''Project''}'
-      - '{''id'': 4, ''name'': ''Package''}'
+      - Free
+      - Hourly
+      - Project
+      - Package
       required: false
     - id: 15
       name: service_price_details
@@ -137,10 +137,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Paid''}'
-      - '{''id'': 2, ''name'': ''Unpaid''}'
-      - '{''id'': 3, ''name'': ''Partially Paid''}'
-      - '{''id'': 4, ''name'': ''On Hold''}'
+      - Paid
+      - Unpaid
+      - Partially Paid
+      - On Hold
       required: false
     - id: 17
       name: notes

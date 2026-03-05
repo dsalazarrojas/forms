@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Technology Surveys'', ''value'': 1}'
-      - '{''name'': ''Business Surveys'', ''value'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 3
       name: form_type
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Compliance Survey'', ''value'': 1}'
-      - '{''name'': ''Access Survey'', ''value'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 4
       name: description
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''A11y'', ''value'': 1}'
-      - '{''name'': ''WCAG 2.1'', ''value'': 2}'
-      - '{''name'': ''PDF'', ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 6
       name: accessibility_practice
@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Automated'', ''value'': 1}'
-      - '{''name'': ''Manual'', ''value'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 7
       name: accessibility_standards
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''WAI-WCAG 2.1 Checklist of the Web Content'', ''value'': 1}'
-      - '{''name'': ''PDF/UA'', ''value'': 2}'
-      - '{''name'': ''EN 301 319 4 V 1'', ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 8
       name: date_of_last_review
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Published'', ''value'': 1}'
-      - '{''name'': ''Unpublished'', ''value'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 14
       name: submitter

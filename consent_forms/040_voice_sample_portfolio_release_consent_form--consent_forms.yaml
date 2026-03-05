@@ -16,11 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Category'', ''label'': ''Category''}'
-      - '{''id'': 2, ''name'': ''Category'', ''label'': ''Category''}'
-      - '{''id'': 3, ''name'': ''Category'', ''label'': ''Category''}'
-      - '{''id'': 4, ''name'': ''Category'', ''label'': ''Category''}'
-      - '{''id'': 5, ''name'': ''Category'', ''label'': ''Category''}'
+      - Category
+      - Other
       required: false
     - id: 3
       name: description
@@ -93,7 +90,7 @@ inputSchema:
       options: []
       required: false
     - id: 13
-      name: title
+      name: title_2
       label: Title
       hint: null
       type: text
@@ -119,14 +116,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
-      - '{''id'': 3, ''name'': True, ''label'': True}'
-      - '{''id'': 4, ''name'': False, ''label'': False}'
-      - '{''id'': 5, ''name'': True, ''label'': True}'
-      - '{''id'': 6, ''name'': False, ''label'': False}'
-      - '{''id'': 7, ''name'': True, ''label'': True}'
-      - '{''id'': 8, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: consent_signed
@@ -134,61 +125,61 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: date_signed_consent
-      label: Date Signed
+      label: Date Signed Consent
       hint: null
       type: date
       options: []
       required: false
     - id: 19
       name: name_signed_con
-      label: Signed By
+      label: Name Signed Con
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: signature_signed
-      label: Signature
+      label: Signature Signed
       hint: null
       type: note
       options: []
       required: false
     - id: 21
       name: email_signed_con
-      label: Email
+      label: Email Signed Con
       hint: null
       type: email
       options: []
       required: false
     - id: 22
       name: contact_phone_signed
-      label: Contact Phone
+      label: Contact Phone Signed
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: address_signed
-      label: Address
+      label: Address Signed
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: company_signed
-      label: Company
+      label: Company Signed
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: title_signed
-      label: Title
+      label: Title Signed
       hint: null
       type: text
       options: []

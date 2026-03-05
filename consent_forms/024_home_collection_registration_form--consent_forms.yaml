@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''Text''}'
+      - Phone
+      - Email
+      - Text
       required: false
     - id: 2
       name: schedule_request
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Date''}'
-      - '{''id'': 2, ''label'': ''Time''}'
-      - '{''id'': 3, ''label'': ''Service''}'
+      - Date
+      - Time
+      - Service
       required: false
     - id: 4
       name: notes
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - John Doe
+      - Jane Doe
+      - Both
       required: false
     - id: 7
       name: service_details
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Blood Test''}'
-      - '{''id'': 2, ''label'': ''Lab Test''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Blood Test
+      - Lab Test
+      - Other
       required: false
     - id: 8
       name: schedule_date

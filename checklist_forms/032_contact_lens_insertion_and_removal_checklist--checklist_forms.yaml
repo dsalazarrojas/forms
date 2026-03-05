@@ -1,115 +1,105 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contact Lens Insertion And Removal Checklist
     pages:
-      - id: 1
-        name: header
-        label: -- Insertion And Removal Checklist --
-        hint: Use this checklist to document training on insertion and removal of contact lenses
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: trainee_name
-        label: Trainee name
-        hint: Name of the person being trained
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: trainer_name
-        label: Trainer name
-        hint: Person supervising the training
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: date
-        label: Training date
-        hint: Date of the training session
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: hand_hygiene
-        label: Hand hygiene completed
-        hint: Confirm trainee washed and dried hands
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: lens_inspection
-        label: Lens inspection performed
-        hint: Trainee checked lens for damage or debris
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: insertion_technique
-        label: Insertion technique demonstrated
-        hint: Trainee demonstrated correct insertion steps
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: removal_technique
-        label: Removal technique demonstrated
-        hint: Trainee demonstrated safe lens removal
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: comfort_assessment
-        label: Comfort after insertion
-        hint: Assess immediate comfort after placing lenses
-        type: select_one
-        options:
-          - Comfortable
-          - Minor discomfort
-          - Significant discomfort
-        required: true
-      - id: 10
-        name: follow_up_advice
-        label: Follow up advice provided
-        hint: Was aftercare and handling advice given
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: competency_confirmed
-        label: Competency confirmed by trainer
-        hint: Trainer confirms trainee can safely handle lenses
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 12
-        name: trainer_signature_note
-        label: Trainer signature collected offline
-        hint: Record signature on paper or digital system
-        type: note
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Insertion And Removal Checklist --
+      hint: Use this checklist to document training on insertion and removal of contact
+        lenses
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainee_name
+      label: Trainee name
+      hint: Name of the person being trained
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainer_name
+      label: Trainer name
+      hint: Person supervising the training
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Training date
+      hint: Date of the training session
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: hand_hygiene
+      label: Hand hygiene completed
+      hint: Confirm trainee washed and dried hands
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: lens_inspection
+      label: Lens inspection performed
+      hint: Trainee checked lens for damage or debris
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: insertion_technique
+      label: Insertion technique demonstrated
+      hint: Trainee demonstrated correct insertion steps
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: removal_technique
+      label: Removal technique demonstrated
+      hint: Trainee demonstrated safe lens removal
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: comfort_assessment
+      label: Comfort after insertion
+      hint: Assess immediate comfort after placing lenses
+      type: select_one
+      options:
+      - Comfortable
+      - Minor discomfort
+      - Significant discomfort
+      required: true
+    - id: 10
+      name: follow_up_advice
+      label: Follow up advice provided
+      hint: Was aftercare and handling advice given
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: competency_confirmed
+      label: Competency confirmed by trainer
+      hint: Trainer confirms trainee can safely handle lenses
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: trainer_signature_note
+      label: Trainer signature collected offline
+      hint: Record signature on paper or digital system
+      type: note
+      options: []
+      required: false

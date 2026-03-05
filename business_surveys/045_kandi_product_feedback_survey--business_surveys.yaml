@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very satisfied''}'
-      - '{''id'': 2, ''label'': ''Satisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very dissatisfied''}'
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
       required: false
     - id: 3
       name: product_improvement_ideas
@@ -35,8 +35,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: email

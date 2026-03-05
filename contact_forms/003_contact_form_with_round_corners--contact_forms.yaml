@@ -1,79 +1,80 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contact Form With Round Corners
     pages:
-      - id: 1
-        name: introduction
-        label: Get in Touch
-        hint: Fill out the form below to reach our team
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: first_name
-        label: First Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: last_name
-        label: Last Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: user_email
-        label: Electronic Mail Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 5
-        name: department
-        label: Department to Contact
-        hint: null
-        type: select_one
-        options: [Sales, Customer Service, Billing, Management]
-        required: true
-      - id: 6
-        name: urgency_level
-        label: Urgency of Request
-        hint: null
-        type: select_one
-        options: [Low, Medium, High, Critical]
-        required: true
-      - id: 7
-        name: message_body
-        label: Write your message here
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: best_time_to_call
-        label: Preferred Time for Callback
-        hint: If applicable
-        type: time
-        options: []
-        required: false
-      - id: 9
-        name: newsletter_opt_in
-        label: Subscribe to our newsletter
-        hint: Monthly updates and news
-        type: select_one
-        options: [Yes, please, No, thank you]
-        required: false
+    - id: 1
+      name: introduction
+      label: Get in Touch
+      hint: Fill out the form below to reach our team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: user_email
+      label: Electronic Mail Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department to Contact
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Customer Service
+      - Billing
+      - Management
+      required: true
+    - id: 6
+      name: urgency_level
+      label: Urgency of Request
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 7
+      name: message_body
+      label: Write your message here
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: best_time_to_call
+      label: Preferred Time for Callback
+      hint: If applicable
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: newsletter_opt_in
+      label: Subscribe to our newsletter
+      hint: Monthly updates and news
+      type: select_one
+      options:
+      - 'True'
+      - please
+      - 'False'
+      - thank you
+      required: false

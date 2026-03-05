@@ -5,23 +5,23 @@ inputSchema:
     pages:
     - id: 1
       name: maintenance_request_details
-      label: maintenance_request_details
+      label: Maintenance Request Details
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
       name: request_type
-      label: request_type
+      label: Is this a new request?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: request_status
-      label: request_status
+      label: Request Status
       hint: null
       type: select_one
       options:
@@ -30,163 +30,106 @@ inputSchema:
       required: true
     - id: 4
       name: requester
-      label: requester
+      label: Requester Information
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: property_id
-      label: property_id
+      label: Property ID
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: requester_email
-      label: requester_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: requester_phone
-      label: requester_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: requested_date
-      label: requested_date
+      label: Requested Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 9
-      name: maintenance_type
-      label: maintenance_type
+    - id: 7
+      name: requester_email
+      label: Requester Email
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: email
+      options: []
       required: false
-    - id: 10
-      name: maintenance_status
-      label: maintenance_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 11
-      name: requester_message
-      label: requester_message
+    - id: 8
+      name: requester_phone
+      label: Requester Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 9
+      name: maintenance_type
+      label: Maintenance Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
       name: requestor
-      label: requestor
+      label: Requestor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: requestor_phone
+      label: Requestor Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: requestor_email
-      label: requestor_email
+      name: status
+      label: Status
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 14
-      name: requestor_phone
-      label: requestor_phone
+      name: status_note
+      label: Status Note
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: requested_date_range
-      label: requested_date_range
+      name: requested_by
+      label: Requested By
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 16
-      name: request_status_date
-      label: request_status_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: request_type
-      label: request_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: status
-      label: status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: status_note
-      label: status_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: requested_by
-      label: requested_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
       name: requested_by_email
-      label: requested_by_email
+      label: Requested By Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 22
+    - id: 17
       name: requested_by_phone
-      label: requested_by_phone
+      label: Requested By Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 23
+    - id: 18
       name: status_date
-      label: status_date
+      label: Status Date
       hint: null
       type: date
-      options: []
-      required: false
-    - id: 24
-      name: request_type
-      label: request_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: maintenance_type
-      label: maintenance_type
-      hint: null
-      type: text
       options: []
       required: false

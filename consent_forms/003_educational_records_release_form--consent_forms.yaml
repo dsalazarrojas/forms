@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Value 1
-      - Value 2
-      - Value 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: department
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: date_of_birth
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Value 1
-      - Value 2
-      - Value 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
       name: student_signature
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Value 1
-      - Value 2
-      - Value 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: release_date
@@ -140,13 +140,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Value 1
-      - Value 2
-      - Value 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 19
-      name: release_date
-      label: Release Date
+      name: release_date_2
+      label: Release Date 2
       hint: null
       type: date
       options: []
@@ -159,15 +159,15 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: institution_name
-      label: Institution Name
+      name: institution_name_2
+      label: Institution Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: department_name
-      label: Department Name
+      name: department_name_2
+      label: Department Name 2
       hint: null
       type: text
       options: []
@@ -187,12 +187,12 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: institution_signature
-      label: Institution Signature
+      name: institution_signature_2
+      label: Institution Signature 2
       hint: null
       type: select_one
       options:
-      - Value 1
-      - Value 2
-      - Value 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

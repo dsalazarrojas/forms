@@ -16,167 +16,35 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: stunt_participant_info
       label: Stunt Participant Information
       hint: null
       type: select_multiple
       options:
-      - Stunt Participant
-      - Participant
+      - Participant Experience
+      - Stunt Level
+      - Interests
       required: true
     - id: 4
-      name: stunt_participant_info
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: stunt_participant_info_2
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: stunt_participant_info_3
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: stunt_participant_info_4
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: stunt_participant_info_5
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: stunt_participant_info_6
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: stunt_participant_info_7
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: stunt_participant_info_8
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: stunt_participant_info_9
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: stunt_participant_info_10
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: stunt_participant_info_11
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: stunt_participant_info_12
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: stunt_participant_info_13
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: stunt_participant_info_14
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: stunt_participant_info_15
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: stunt_participant_info_16
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: stunt_participant_info_17
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: stunt_participant_info_18
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: stunt_participant_info_19
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: stunt_participant_info_20
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: stunt_participant_info_21
-      label: Stunt Participant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: submission
       label: Submission
       hint: null
       type: number
       options: []
       required: true
+    - id: 5
+      name: agreement
+      label: Agreement
+      hint: Please read and agree to the terms and conditions.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_info
+      label: Additional Information
+      hint: Any additional comments or questions about the participant.
+      type: text
+      options: []
+      required: false

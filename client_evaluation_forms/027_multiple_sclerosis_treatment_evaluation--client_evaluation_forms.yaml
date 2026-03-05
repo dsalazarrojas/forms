@@ -9,14 +9,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''Fatigue''}'
-      - '{''option2'': ''Spasticity''}'
-      - '{''option3'': ''Vision Problems''}'
-      - '{''option4'': ''Cognitive Impairment''}'
-      - '{''option5'': ''Mood Changes''}'
-      - '{''option6'': ''Coordination''}'
-      - '{''option7'': ''Bladder Problems''}'
-      - '{''option8'': ''Sexual Dysfunction''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
       required: true
     - id: 2
       name: ms_experience
@@ -31,9 +31,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': True}'
-      - '{''option2'': False}'
-      - '{''option3'': ''Unknown''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 4
       name: ms_treatment_outcomes
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''Improved''}'
-      - '{''option2'': ''No Change''}'
-      - '{''option3'': ''Worse''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 5
       name: ms_satisfaction

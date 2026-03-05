@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''New''}'
-      - '{''id'': 2, ''value'': ''Old''}'
+      - New
+      - Old
       required: false
     - id: 4
       name: specimen_type
@@ -43,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Swab''}'
-      - '{''id'': 2, ''value'': ''Tissue''}'
-      - '{''id'': 3, ''value'': ''Blood''}'
+      - Swab
+      - Tissue
+      - Blood
       required: false
     - id: 5
       name: specimen_collected
@@ -67,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: specimen_arrival_time
@@ -97,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: specimen_result_date
@@ -134,8 +123,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Centre''}'
-      - '{''id'': 2, ''value'': ''Laboratory''}'
+      - Centre
+      - Laboratory
       required: false
     - id: 17
       name: laboratory_name
@@ -164,8 +153,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: transport_method
@@ -173,8 +162,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Car''}'
-      - '{''id'': 2, ''value'': ''Bike''}'
+      - Car
+      - Bike
       required: false
     - id: 22
       name: specimen_transported_to
@@ -182,8 +171,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Laboratory''}'
-      - '{''id'': 2, ''value'': ''Centre''}'
+      - Laboratory
+      - Centre
       required: false
     - id: 23
       name: transport_date
@@ -205,6 +194,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Car''}'
-      - '{''id'': 2, ''value'': ''Bike''}'
+      - Car
+      - Bike
       required: false

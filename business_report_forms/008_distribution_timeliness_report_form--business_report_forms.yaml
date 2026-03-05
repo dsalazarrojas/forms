@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''On-time''}'
-      - '{''id'': 2, ''name'': ''Delayed''}'
-      - '{''id'': 3, ''name'': ''Undeliverable''}'
+      - On-time
+      - Delayed
+      - Undeliverable
       required: true
     - id: 4
       name: delay_reason
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Site_Instance''}'
-      - '{''id'': 2, ''name'': ''Site2_Instance''}'
+      - Site Instance
+      - Site2 Instance
       required: true
     - id: 6
       name: time
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Central''}'
-      - '{''id'': 2, ''name'': ''Eastern''}'
-      - '{''id'': 3, ''name'': ''Pacific''}'
+      - Central
+      - Eastern
+      - Pacific
       required: true
     - id: 8
       name: notes

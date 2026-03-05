@@ -1,77 +1,66 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Art Show People's Choice Ballot
     pages:
-      - id: 1
-        name: ballot_intro
-        label: -- Peoples Choice Vote --
-        hint: Vote for your favorite artwork in the exhibition
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: voter_full_name
-        label: Voter Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: voter_email
-        label: Voter Email Address
-        hint: For verification purposes
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: artwork_choice
-        label: Select Your Favorite Artwork
-        hint: Choose one from the list
-        type: select_one
-        options:
-          - Artwork 101 - Sunset Dreams
-          - Artwork 102 - Urban Jungle
-          - Artwork 103 - Morning Dew
-          - Artwork 104 - Silent Echoes
-          - Artwork 105 - Vibrant Life
-        required: true
-      - id: 5
-        name: reason_for_vote
-        label: Why did you choose this piece
-        hint: Share what you loved about it
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: discovery_source
-        label: How did you hear about this show
-        hint: null
-        type: select_one
-        options:
-          - Social Media
-          - Word of Mouth
-          - Local Advertisement
-          - Email Invitation
-          - Gallery Website
-        required: false
-      - id: 7
-        name: newsletter_opt_in
-        label: Sign me up for the art gallery newsletter
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: ballot_intro
+      label: -- Peoples Choice Vote --
+      hint: Vote for your favorite artwork in the exhibition
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: voter_full_name
+      label: Voter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: voter_email
+      label: Voter Email Address
+      hint: For verification purposes
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artwork_choice
+      label: Select Your Favorite Artwork
+      hint: Choose one from the list
+      type: select_one
+      options:
+      - Artwork 101 - Sunset Dreams
+      - Artwork 102 - Urban Jungle
+      - Artwork 103 - Morning Dew
+      - Artwork 104 - Silent Echoes
+      - Artwork 105 - Vibrant Life
+      required: true
+    - id: 5
+      name: reason_for_vote
+      label: Why did you choose this piece
+      hint: Share what you loved about it
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: discovery_source
+      label: How did you hear about this show
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Word of Mouth
+      - Local Advertisement
+      - Email Invitation
+      - Gallery Website
+      required: false
+    - id: 7
+      name: newsletter_opt_in
+      label: Sign me up for the art gallery newsletter
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

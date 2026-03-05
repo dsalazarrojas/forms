@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Micro Loop''}'
-      - '{''id'': 2, ''label'': ''Tape in''}'
-      - '{''id'': 3, ''label'': ''Hair Bond''}'
+      - Micro Loop
+      - Tape in
+      - Hair Bond
       required: false
     - id: 3
       name: hair_length
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Short''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Long''}'
+      - Short
+      - Medium
+      - Long
       required: false
     - id: 4
       name: hair_thickness
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Hand-tied''}'
-      - '{''id'': 2, ''label'': ''Root''}'
-      - '{''id'': 3, ''label'': ''Micro''}'
-      - '{''id'': 4, ''label'': ''Stick-Tie''}'
+      - Hand-tied
+      - Root
+      - Micro
+      - Stick-Tie
       required: false
     - id: 6
       name: sectioned
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: hair_section
@@ -63,10 +63,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Back''}'
-      - '{''id'': 2, ''label'': ''Sides''}'
-      - '{''id'': 3, ''label'': ''Top''}'
-      - '{''id'': 4, ''label'': ''Front''}'
+      - Back
+      - Sides
+      - Top
+      - Front
       required: false
     - id: 8
       name: hair_length_section

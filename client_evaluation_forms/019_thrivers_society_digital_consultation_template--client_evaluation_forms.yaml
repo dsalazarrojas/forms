@@ -16,9 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''salons_visited_1'', ''label'': True, ''value'': ''Yes''}'
-      - '{''id'': 2, ''name'': ''salons_visited_2'', ''label'': False, ''value'':
-        ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: salons_name
@@ -75,10 +74,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''salons_recommendation_1'', ''label'': True, ''value'':
-        ''Yes''}'
-      - '{''id'': 2, ''name'': ''salons_recommendation_2'', ''label'': False, ''value'':
-        ''No''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: salons_image

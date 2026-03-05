@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Employee''}'
-      - '{''label'': ''Guest''}'
+      - Manager
+      - Employee
+      - Guest
       required: false
     - id: 4
       name: attendance_date
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Zoom''}'
-      - '{''label'': ''Skype''}'
-      - '{''label'': ''Google Meet''}'
-      - '{''label'': ''None''}'
+      - Zoom
+      - Skype
+      - Google Meet
+      - None
       required: false
     - id: 10
       name: meeting_notes
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Attendance''}'
-      - '{''label'': ''Not In Attendance''}'
-      - '{''label'': ''Not Available''}'
+      - In Attendance
+      - Not In Attendance
+      - Not Available
       required: false
     - id: 16
       name: attendance_type
@@ -124,7 +124,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Person''}'
-      - '{''label'': ''Virtual''}'
-      - '{''label'': ''Both''}'
+      - In Person
+      - Virtual
+      - Both
       required: false

@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''reading''}'
-      - '{''value'': ''hiking''}'
-      - '{''value'': ''music''}'
-      - '{''value'': ''sports''}'
+      - reading
+      - hiking
+      - music
+      - sports
       required: false
     - id: 5
       name: what_do_you_think_is_my_favourite_food
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pizza''}'
-      - '{''value'': ''sushi''}'
-      - '{''value'': ''steak''}'
+      - pizza
+      - sushi
+      - steak
       required: true
     - id: 6
       name: how_much_money

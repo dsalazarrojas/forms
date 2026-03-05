@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''audio'', ''label'': ''Audio''}'
-      - '{''value'': ''video'', ''label'': ''Video''}'
-      - '{''value'': ''both'', ''label'': ''Both''}'
+      - Audio
+      - Video
+      - Both
       required: false
     - id: 3
       name: recording_method
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''live'', ''label'': ''Live''}'
-      - '{''value'': ''pre Recorded'', ''label'': ''Pre-Recorded''}'
-      - '{''value'': ''Both'', ''label'': ''Both''}'
+      - Live
+      - Pre-Recorded
+      - Both
       required: false
     - id: 4
       name: recording_location
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''on Site'', ''label'': ''On-site''}'
-      - '{''value'': ''off Site'', ''label'': ''Off-site''}'
-      - '{''value'': ''Both'', ''label'': ''Both''}'
+      - On-site
+      - Off-site
+      - Both
       required: false
     - id: 5
       name: consent_date
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''approval'', ''label'': ''Approval''}'
-      - '{''value'': ''no Approval'', ''label'': ''No Approval''}'
+      - Approval
+      - No Approval
       required: false
     - id: 8
       name: recording_consent
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''consent'', ''label'': ''Consent''}'
-      - '{''value'': ''no Consent'', ''label'': ''No Consent''}'
+      - Consent
+      - No Consent
       required: false
     - id: 9
       name: manager_note
@@ -190,7 +190,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Live'', ''label'': ''Live''}'
-      - '{''value'': ''pre Recorded'', ''label'': ''Pre Recorded''}'
-      - '{''value'': ''Both'', ''label'': ''Both''}'
+      - Live
+      - Pre Recorded
+      - Both
       required: false

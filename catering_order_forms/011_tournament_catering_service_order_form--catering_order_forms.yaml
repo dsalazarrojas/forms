@@ -4,125 +4,130 @@ inputSchema:
     title: Tournament Catering Service Order Form
     pages:
     - id: 1
-      name: tournament_details
-      label: tournament_details
-      hint: null
+      name: name
+      label: Name
+      hint: Full name of the client
       type: text
       options: []
       required: false
     - id: 2
-      name: contact_details
-      label: contact_details
-      hint: null
+      name: email
+      label: Email
+      hint: Email of the client
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: contact_details
-      label: contact_details
-      hint: null
-      type: email
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: contact_details
-      label: contact_details
-      hint: null
-      type: text
+      name: event_time
+      label: Event Time
+      hint: Time of the event
+      type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: event_details
-      label: event_details
-      hint: null
+      name: event_duration
+      label: Event Duration
+      hint: Duration of the event
       type: text
       options: []
       required: false
     - id: 6
-      name: event_details
-      label: event_details
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: event_details
-      label: event_details
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: event_details
-      label: event_details
-      hint: null
+      name: event_location
+      label: Event Location
+      hint: Location of the event
       type: text
       options: []
-      required: false
-    - id: 9
-      name: event_details
-      label: event_details
-      hint: null
+      required: true
+    - id: 7
+      name: catering_preferences
+      label: Catering Preferences
+      hint: Do you need catering services?
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 10
-      name: event_details
-      label: event_details
-      hint: null
+      required: true
+    - id: 8
+      name: catering_choices
+      label: Catering Choices
+      hint: Select your catering preferences
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Menu 1
+      - Menu 2
+      - Menu 3
+      - Menu 4
+      - Menu 5
+      required: false
+    - id: 9
+      name: num_guests
+      label: Number of Guests
+      hint: Number of guests
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: special_requests
+      label: Special Requests
+      hint: Any special requests?
+      type: text
+      options: []
       required: false
     - id: 11
-      name: catering_details
-      label: catering_details
-      hint: null
+      name: contact_name
+      label: Contact Name
+      hint: Name of the contact person
       type: text
       options: []
       required: false
     - id: 12
-      name: catering_details
-      label: catering_details
-      hint: null
-      type: text
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number of the contact person
+      type: number
       options: []
       required: false
     - id: 13
-      name: catering_details
-      label: catering_details
-      hint: null
+      name: contact_email
+      label: Contact Email
+      hint: Email of the contact person
       type: text
       options: []
       required: false
     - id: 14
-      name: catering_details
-      label: catering_details
-      hint: null
+      name: contact_message
+      label: Contact Message
+      hint: Any message to the contact person
       type: text
       options: []
       required: false
     - id: 15
-      name: catering_details
-      label: catering_details
-      hint: null
+      name: event_type
+      label: Event Type
+      hint: Type of event
       type: text
       options: []
       required: false
     - id: 16
-      name: catering_details
-      label: catering_details
-      hint: null
+      name: special_requests_2
+      label: Special Requests 2
+      hint: Any other special requests
       type: text
       options: []
       required: false
     - id: 17
-      name: catering_details
-      label: catering_details
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: confirm
+      label: Confirm
+      hint: Please confirm your event details
+      type: radio
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

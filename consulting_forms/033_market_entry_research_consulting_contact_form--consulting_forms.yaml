@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''John Doe''}'
-      - '{''id'': 2, ''value'': ''Jane Doe''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - John Doe
+      - Jane Doe
+      - Other
       required: true
     - id: 3
       name: email
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''In Progress''}'
-      - '{''id'': 2, ''value'': ''Completed''}'
-      - '{''id'': 3, ''value'': ''Not Started''}'
+      - In Progress
+      - Completed
+      - Not Started
       required: true
     - id: 11
       name: file_type
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Image''}'
-      - '{''id'': 2, ''value'': ''Document''}'
-      - '{''id'': 3, ''value'': ''Video''}'
+      - Image
+      - Document
+      - Video
       required: false
     - id: 12
       name: file_size
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Small''}'
-      - '{''id'': 2, ''value'': ''Medium''}'
-      - '{''id'': 3, ''value'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 13
       name: file_format
@@ -105,7 +105,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''PDF''}'
-      - '{''id'': 2, ''value'': ''DOCX''}'
-      - '{''id'': 3, ''value'': ''CSV''}'
+      - PDF
+      - DOCX
+      - CSV
       required: false

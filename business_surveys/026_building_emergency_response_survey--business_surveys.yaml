@@ -1,334 +1,323 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Building Emergency Response Survey
     pages:
-      - id: 1
-        name: respondent_info
-        label: -- Respondent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_name
-        label: Your name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: department_floor
-        label: Your department or floor
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: time_in_building
-        label: How long have you worked in this building?
-        hint: null
-        type: select_one
-        options:
-          - Less than 3 months
-          - 3-6 months
-          - 6-12 months
-          - 1-2 years
-          - 2-5 years
-          - More than 5 years
-        required: true
-      - id: 5
-        name: familiarity_section
-        label: -- Emergency Procedure Familiarity --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: evacuation_awareness
-        label: Awareness of evacuation procedures
-        hint: null
-        type: select_one
-        options:
-          - Very aware - Know procedures well
-          - Aware - Familiar with basics
-          - Somewhat aware - Limited knowledge
-          - Not aware - No knowledge
-        required: true
-      - id: 7
-        name: evacuation_route
-        label: Do you know your evacuation route?
-        hint: null
-        type: select_one
-        options:
-          - Yes, can describe it
-          - Yes, general idea
-          - No, unsure
-          - Multiple routes
-        required: true
-      - id: 8
-        name: emergency_exit_location
-        label: Know location of nearest emergency exit
-        hint: null
-        type: select_one
-        options:
-          - Yes, clearly marked
-          - Yes, somewhat familiar
-          - No, unclear
-          - Multiple exits known
-        required: true
-      - id: 9
-        name: assembly_point
-        label: Know designated assembly point
-        hint: null
-        type: select_one
-        options:
-          - Yes, clearly marked
-          - Yes, somewhat familiar
-          - No, unsure
-          - Unknown
-        required: true
-      - id: 10
-        name: emergency_contacts
-        label: Know building emergency contacts
-        hint: null
-        type: select_one
-        options:
-          - Yes, can recite
-          - Yes, know where to find
-          - No
-          - Unsure
-        required: true
-      - id: 11
-        name: equipment_awareness
-        label: -- Safety Equipment Awareness --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: fire_extinguisher_location
-        label: Know location of fire extinguishers
-        hint: null
-        type: select_one
-        options:
-          - Yes, several locations
-          - Yes, at least one location
-          - No
-          - Unsure
-        required: true
-      - id: 13
-        name: first_aid_kit_location
-        label: Know location of first aid kit
-        hint: null
-        type: select_one
-        options:
-          - Yes, clearly marked
-          - Yes, general area
-          - No
-          - Unsure
-        required: true
-      - id: 14
-        name: aed_location
-        label: Know location of AED (Automated External Defibrillator)
-        hint: null
-        type: select_one
-        options:
-          - Yes, exact location
-          - Yes, general area
-          - No
-          - Unsure/Not present
-        required: true
-      - id: 15
-        name: emergency_alarm
-        label: Understand emergency alarm sound
-        hint: null
-        type: select_one
-        options:
-          - Yes, very familiar
-          - Yes, somewhat familiar
-          - No, unsure
-          - Never heard it
-        required: true
-      - id: 16
-        name: drill_experience
-        label: -- Evacuation Drill Experience --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: participated_drill
-        label: Participated in evacuation drill
-        hint: null
-        type: select_one
-        options:
-          - Yes, recently
-          - Yes, some time ago
-          - No
-          - Don't remember
-        required: true
-      - id: 18
-        name: drill_frequency
-        label: How often are drills conducted?
-        hint: null
-        type: select_one
-        options:
-          - Monthly
-          - Quarterly
-          - Annually
-          - Never
-          - Unsure
-        required: false
-      - id: 19
-        name: drill_effectiveness
-        label: Effectiveness of last evacuation drill
-        hint: null
-        type: select_one
-        options:
-          - Very effective - Felt prepared
-          - Effective - Learned procedures
-          - Somewhat effective - Some learning
-          - Not very effective
-          - No drill experienced
-        required: false
-      - id: 20
-        name: evacuation_time
-        label: Estimated time to evacuate your area
-        hint: null
-        type: select_one
-        options:
-          - Under 2 minutes
-          - 2-5 minutes
-          - 5-10 minutes
-          - More than 10 minutes
-          - Unsure
-        required: false
-      - id: 21
-        name: training_section
-        label: -- Training and Education --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 22
-        name: safety_training
-        label: Completed emergency response training
-        hint: null
-        type: select_one
-        options:
-          - Yes, recently
-          - Yes, some time ago
-          - No
-          - Unsure
-        required: true
-      - id: 23
-        name: training_topics
-        label: Training topics covered
-        hint: null
-        type: select_multiple
-        options:
-          - Evacuation procedures
-          - Fire safety
-          - First aid/CPR
-          - Shelter-in-place
-          - Communication during emergency
-          - Caring for persons with disabilities
-          - None
-        required: false
-      - id: 24
-        name: training_effectiveness
-        label: Training effectiveness
-        hint: null
-        type: select_one
-        options:
-          - Very effective
-          - Effective
-          - Somewhat effective
-          - Not very effective
-          - Have not attended training
-        required: false
-      - id: 25
-        name: readiness_confidence
-        label: -- Emergency Preparedness --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 26
-        name: confidence_level
-        label: Confidence in your ability to respond to emergency
-        hint: null
-        type: select_one
-        options:
-          - Very confident
-          - Confident
-          - Somewhat confident
-          - Not very confident
-          - Not confident
-        required: true
-      - id: 27
-        name: response_readiness
-        label: Readiness to respond if others need help
-        hint: null
-        type: select_one
-        options:
-          - Yes, ready to help
-          - Somewhat ready
-          - Unsure
-          - No, need training
-        required: false
-      - id: 28
-        name: special_needs
-        label: Special considerations for emergency response
-        hint: Mobility, hearing, etc.
-        type: text
-        options: []
-        required: false
-      - id: 29
-        name: accessibility_concerns
-        label: Concerns about emergency accessibility
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 30
-        name: improvement_suggestions
-        label: -- Improvement Suggestions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 31
-        name: needed_improvements
-        label: Improvements needed for emergency readiness
-        hint: null
-        type: select_multiple
-        options:
-          - Better signage
-          - More training
-          - Regular drills
-          - Clearer procedures
-          - Equipment/supplies
-          - Communication systems
-          - Accessibility improvements
-          - Other
-        required: true
-      - id: 32
-        name: additional_feedback
-        label: Additional feedback or suggestions
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_floor
+      label: Your department or floor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: time_in_building
+      label: How long have you worked in this building?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 5
+      name: familiarity_section
+      label: -- Emergency Procedure Familiarity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: evacuation_awareness
+      label: Awareness of evacuation procedures
+      hint: null
+      type: select_one
+      options:
+      - Very aware - Know procedures well
+      - Aware - Familiar with basics
+      - Somewhat aware - Limited knowledge
+      - Not aware - No knowledge
+      required: true
+    - id: 7
+      name: evacuation_route
+      label: Do you know your evacuation route?
+      hint: null
+      type: select_one
+      options:
+      - Yes, can describe it
+      - Yes, general idea
+      - No, unsure
+      - Multiple routes
+      required: true
+    - id: 8
+      name: emergency_exit_location
+      label: Know location of nearest emergency exit
+      hint: null
+      type: select_one
+      options:
+      - Yes, clearly marked
+      - Yes, somewhat familiar
+      - No, unclear
+      - Multiple exits known
+      required: true
+    - id: 9
+      name: assembly_point
+      label: Know designated assembly point
+      hint: null
+      type: select_one
+      options:
+      - Yes, clearly marked
+      - Yes, somewhat familiar
+      - No, unsure
+      - Unknown
+      required: true
+    - id: 10
+      name: emergency_contacts
+      label: Know building emergency contacts
+      hint: null
+      type: select_one
+      options:
+      - Yes, can recite
+      - Yes, know where to find
+      - 'False'
+      - Unsure
+      required: true
+    - id: 11
+      name: equipment_awareness
+      label: -- Safety Equipment Awareness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: fire_extinguisher_location
+      label: Know location of fire extinguishers
+      hint: null
+      type: select_one
+      options:
+      - Yes, several locations
+      - Yes, at least one location
+      - 'False'
+      - Unsure
+      required: true
+    - id: 13
+      name: first_aid_kit_location
+      label: Know location of first aid kit
+      hint: null
+      type: select_one
+      options:
+      - Yes, clearly marked
+      - Yes, general area
+      - 'False'
+      - Unsure
+      required: true
+    - id: 14
+      name: aed_location
+      label: Know location of AED (Automated External Defibrillator)
+      hint: null
+      type: select_one
+      options:
+      - Yes, exact location
+      - Yes, general area
+      - 'False'
+      - Unsure/Not present
+      required: true
+    - id: 15
+      name: emergency_alarm
+      label: Understand emergency alarm sound
+      hint: null
+      type: select_one
+      options:
+      - Yes, very familiar
+      - Yes, somewhat familiar
+      - No, unsure
+      - Never heard it
+      required: true
+    - id: 16
+      name: drill_experience
+      label: -- Evacuation Drill Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: participated_drill
+      label: Participated in evacuation drill
+      hint: null
+      type: select_one
+      options:
+      - Yes, recently
+      - Yes, some time ago
+      - 'False'
+      - Don't remember
+      required: true
+    - id: 18
+      name: drill_frequency
+      label: How often are drills conducted?
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      - Never
+      - Unsure
+      required: false
+    - id: 19
+      name: drill_effectiveness
+      label: Effectiveness of last evacuation drill
+      hint: null
+      type: select_one
+      options:
+      - Very effective - Felt prepared
+      - Effective - Learned procedures
+      - Somewhat effective - Some learning
+      - Not very effective
+      - No drill experienced
+      required: false
+    - id: 20
+      name: evacuation_time
+      label: Estimated time to evacuate your area
+      hint: null
+      type: select_one
+      options:
+      - Under 2 minutes
+      - 2-5 minutes
+      - 5-10 minutes
+      - More than 10 minutes
+      - Unsure
+      required: false
+    - id: 21
+      name: training_section
+      label: -- Training and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: safety_training
+      label: Completed emergency response training
+      hint: null
+      type: select_one
+      options:
+      - Yes, recently
+      - Yes, some time ago
+      - 'False'
+      - Unsure
+      required: true
+    - id: 23
+      name: training_topics
+      label: Training topics covered
+      hint: null
+      type: select_multiple
+      options:
+      - Evacuation procedures
+      - Fire safety
+      - First aid/CPR
+      - Shelter-in-place
+      - Communication during emergency
+      - Caring for persons with disabilities
+      - None
+      required: false
+    - id: 24
+      name: training_effectiveness
+      label: Training effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Effective
+      - Somewhat effective
+      - Not very effective
+      - Have not attended training
+      required: false
+    - id: 25
+      name: readiness_confidence
+      label: -- Emergency Preparedness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: confidence_level
+      label: Confidence in your ability to respond to emergency
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Confident
+      - Somewhat confident
+      - Not very confident
+      - Not confident
+      required: true
+    - id: 27
+      name: response_readiness
+      label: Readiness to respond if others need help
+      hint: null
+      type: select_one
+      options:
+      - Yes, ready to help
+      - Somewhat ready
+      - Unsure
+      - No, need training
+      required: false
+    - id: 28
+      name: special_needs
+      label: Special considerations for emergency response
+      hint: Mobility, hearing, etc.
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: accessibility_concerns
+      label: Concerns about emergency accessibility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: improvement_suggestions
+      label: -- Improvement Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: needed_improvements
+      label: Improvements needed for emergency readiness
+      hint: null
+      type: select_multiple
+      options:
+      - Better signage
+      - More training
+      - Regular drills
+      - Clearer procedures
+      - Equipment/supplies
+      - Communication systems
+      - Accessibility improvements
+      - Other
+      required: true
+    - id: 32
+      name: additional_feedback
+      label: Additional feedback or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

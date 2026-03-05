@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Partially''}'
+      - 'True'
+      - 'False'
+      - Partially
       required: false
     - id: 3
       name: incident_response_plan
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Vulnerable''}'
-      - '{''label'': ''Not vulnerable''}'
-      - '{''label'': ''Unknown''}'
+      - Vulnerable
+      - Not vulnerable
+      - Unknown
       required: false
     - id: 5
       name: data_backup_recovery
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 6
       name: access_control
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Least privilege''}'
-      - '{''label'': ''Default''}'
-      - '{''label'': ''Broad''}'
+      - Least privilege
+      - Default
+      - Broad
       required: false
     - id: 7
       name: network_security
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Partially''}'
+      - 'True'
+      - 'False'
+      - Partially
       required: false
     - id: 9
       name: security_policy
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Documented''}'
-      - '{''label'': ''Incomplete''}'
-      - '{''label'': ''Not documented''}'
+      - Documented
+      - Incomplete
+      - Not documented
       required: true
     - id: 10
       name: monitoring_and_review
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 11
       name: security_testing
@@ -100,9 +100,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Manual''}'
-      - '{''label'': ''Automated''}'
-      - '{''label'': ''Quarterly''}'
+      - Manual
+      - Automated
+      - Quarterly
       required: true
     - id: 12
       name: patch_management
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not applicable''}'
+      - 'True'
+      - 'False'
+      - Not applicable
       required: false
     - id: 13
       name: security_incident
@@ -120,8 +120,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Reported''}'
-      - '{''label'': ''Not reported''}'
+      - Reported
+      - Not reported
       required: false
     - id: 14
       name: security_audit
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Annual''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Semi-annually''}'
+      - Annual
+      - Quarterly
+      - Semi-annually
       required: true
     - id: 15
       name: security_training
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Not Started''}'
+      - Completed
+      - In Progress
+      - Not Started
       required: true
     - id: 16
       name: security_compliance
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''PCI''}'
-      - '{''label'': ''HIPAA''}'
-      - '{''label'': ''Other''}'
+      - PCI
+      - HIPAA
+      - Other
       required: true
     - id: 17
       name: security_incident_response
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not applicable''}'
+      - 'True'
+      - 'False'
+      - Not applicable
       required: false
     - id: 20
       name: security_compliance_audit
@@ -183,9 +183,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Annual''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Semi-annually''}'
+      - Annual
+      - Quarterly
+      - Semi-annually
       required: true
     - id: 21
       name: incident_response_plan_status
@@ -193,9 +193,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Not Implemented''}'
+      - In Progress
+      - Completed
+      - Not Implemented
       required: true
     - id: 22
       name: incident_response_plan_status
@@ -203,9 +203,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 23
       name: incident_response_plan_review_status
@@ -213,9 +213,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Not reviewed''}'
+      - In Progress
+      - Completed
+      - Not reviewed
       required: true
     - id: 24
       name: incident_response_plan_update_status
@@ -223,9 +223,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
-      - '{''label'': ''Not updated''}'
+      - In Progress
+      - Completed
+      - Not updated
       required: true
     - id: 25
       name: incident_response_plan_review_frequency
@@ -233,7 +233,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true

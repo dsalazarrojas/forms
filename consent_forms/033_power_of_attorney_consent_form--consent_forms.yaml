@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Self''}'
-      - '{''id'': 2, ''label'': ''Spouse''}'
-      - '{''id'': 3, ''label'': ''Family Member''}'
-      - '{''id'': 4, ''label'': ''Friend''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Self
+      - Spouse
+      - Family Member
+      - Friend
+      - Other
       required: false
     - id: 3
       name: grantee
@@ -46,11 +35,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Parent/Child''}'
-      - '{''id'': 2, ''label'': ''Spouse''}'
-      - '{''id'': 3, ''label'': ''Sibling''}'
-      - '{''id'': 4, ''label'': ''Family Friend''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Parent/Child
+      - Spouse
+      - Sibling
+      - Family Friend
+      - Other
       required: false
     - id: 5
       name: purpose
@@ -58,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Financial''}'
-      - '{''id'': 2, ''label'': ''Real Estate''}'
-      - '{''id'': 3, ''label'': ''Health Care''}'
-      - '{''id'': 4, ''label'': ''Business''}'
+      - Financial
+      - Real Estate
+      - Health Care
+      - Business
       required: false
     - id: 6
       name: date_effective
@@ -76,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: signature
@@ -92,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: notary_public
@@ -101,6 +90,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

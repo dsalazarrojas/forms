@@ -9,42 +9,42 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
       label: Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: phone
+      name: phone_number
       label: Phone
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
       name: address
       label: Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: city
       label: City
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: state
       label: State
@@ -73,7 +73,6 @@ inputSchema:
       - MA
       - MD
       - ME
-      - MI
       - MI
       - MN
       - MO
@@ -116,22 +115,7 @@ inputSchema:
       - YK
       - NS
       - NB
-      - NL
-      - MB
-      - 'True'
-      - QC
-      - BC
-      - AB
-      - SK
-      - YK
-      - NT
-      - PE
-      - NS
-      - NT
-      - NL
-      - AB
-      - QC
-      required: false
+      required: true
     - id: 8
       name: field_8
       label: Field 8
@@ -202,39 +186,26 @@ inputSchema:
       - YK
       - NS
       - NB
-      - MB
-      - 'True'
-      - QC
       required: false
     - id: 9
-      name: field_9
-      label: Field 9
+      name: candy_1
+      label: Candy 1
       hint: null
       type: select_multiple
       options:
-      - candy1
-      - candy2
-      - candy3
-      - candy4
-      - candy5
-      - candy6
-      - candy7
-      - candy8
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
-      name: field_10
-      label: Field 10
+      name: candy_2
+      label: Candy 2
       hint: null
       type: select_multiple
       options:
-      - candy1
-      - candy2
-      - candy3
-      - candy4
-      - candy5
-      - candy6
-      - candy7
-      - candy8
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: date
@@ -254,112 +225,10 @@ inputSchema:
       name: note
       label: Note
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: candy1
-      label: Candy 1
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      - item4
-      required: false
-    - id: 15
-      name: candy2
-      label: Candy 2
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      - item4
-      required: false
-    - id: 16
-      name: candy3
-      label: Candy 3
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      - item4
-      required: false
-    - id: 17
-      name: candy4
-      label: Candy 4
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      - item4
-      required: false
-    - id: 18
-      name: candy5
-      label: Candy 5
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      - item4
-      required: false
-    - id: 19
-      name: candy6
-      label: Candy 6
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      - item4
-      required: false
-    - id: 20
-      name: candy7
-      label: Candy 7
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      - item4
-      required: false
-    - id: 21
-      name: candy8
-      label: Candy 8
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      - item4
-      required: false
-    - id: 22
-      name: total_items
-      label: Total Items
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: special_instructions
-      label: Special Instructions
-      hint: null
       type: text
       options: []
       required: false
-    - id: 24
+    - id: 14
       name: payment_type
       label: Payment Type
       hint: null
@@ -368,25 +237,4 @@ inputSchema:
       - cash
       - credit
       - bank
-      required: false
-    - id: 25
-      name: special_instructions
-      label: Special Instructions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: first_name
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

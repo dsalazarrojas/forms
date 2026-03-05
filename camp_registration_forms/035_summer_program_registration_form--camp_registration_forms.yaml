@@ -1,72 +1,111 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
-    title: summer-program-registration-form
+    title: Summer Program Registration Form
     pages:
     - id: 1
-      name: participant_form
-      label: Participant Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: participant_form
-      label: Participant Form
+      name: participant_info
+      label: Participant Information
       hint: null
       type: text
       options: []
       required: true
+    - id: 2
+      name: program_picking
+      label: Program Preference
+      hint: null
+      type: select_multiple
+      options:
+      - Program 1
+      - Program 2
+      - Program 3
+      required: true
     - id: 3
-      name: program_form
-      label: Program Form
+      name: availability
+      label: Availability
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: enrollment_form
-      label: Enrollment Form
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: participant_form
-      label: Participant Form
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: contact_form
-      label: Contact Form
+      name: program_interest
+      label: Program Interest
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: participant_form
-      label: Participant Form
+      name: preferred_format
+      label: Preferred Format
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Online
+      - In-person
+      - Hybrid
+      required: true
     - id: 8
-      name: program_form
-      label: Program Form
+      name: dietary_restrictions
+      label: Dietary Restriction
       hint: null
-      type: text
+      type: select_one
+      options:
+      - No restriction
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - No emergency contact
+      - Yes, with the below information
+      - Parent/Guardian
+      - Family member
+      required: false
+    - id: 10
+      name: program_commitment
+      label: Program Commitment
+      hint: null
+      type: number
       options: []
+      required: true
+    - id: 11
+      name: preferred_schedule
+      label: Preferred Schedule
+      hint: null
+      type: select_one
+      options:
+      - Weekdays
+      - Weekends
+      - Flexibility
+      required: true
+    - id: 12
+      name: special_accommodations
+      label: Special Accommodations
+      hint: null
+      type: select_one
+      options:
+      - No special accommodations needed
+      - Hearing assistance
+      - Visual assistance
+      - Physical assistance
+      - Other (please specify)
       required: false

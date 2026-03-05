@@ -100,8 +100,8 @@ inputSchema:
       hint: Is insurance being used for this
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not Sure
       required: false
     - id: 13
@@ -124,8 +124,8 @@ inputSchema:
       hint: Do you need payment assistance
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: payment_plan_request
@@ -133,8 +133,8 @@ inputSchema:
       hint: Would you like to set up installments
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: payment_method

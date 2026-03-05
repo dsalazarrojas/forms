@@ -4,192 +4,116 @@ inputSchema:
     title: Cross Border Tax Declaration Form
     pages:
     - id: 1
-      name: cross_border_tax_declaration_form
-      label: cross_border_tax_declaration_form
+      name: business_entity_name
+      label: Business Entity Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: cross_border_tax_declaration_form_business
-      label: cross_border_tax_declaration_form_business
+      name: business_entity_address
+      label: Business Entity Address
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: cross_border_tax_declaration_form_business_taxable_entity
-      label: cross_border_taxable_entity
+      name: business_entity_city
+      label: Business Entity City
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: cross_border_tax_declaration_form_business_taxable_entity_address
-      label: business_taxable_entity_address
+      name: business_entity_postal_code
+      label: Business Entity Postal Code
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: cross_border_tax_declaration_form_business_taxable_entity_city
-      label: business_taxable_entity_city
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: cross_border_tax_declaration_form_business_taxable_entity_postal_code
-      label: business_taxable_entity_postal_code
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: cross_border_tax_declaration_form_business_taxable_entity_country
-      label: business_taxable_entity_country
+      name: business_entity_country
+      label: Business Entity Country
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - United States
+      - Canada
+      - Mexico
+      required: true
+    - id: 6
+      name: business_entity_phone
+      label: Business Entity Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_entity_email
+      label: Business Entity Email
+      hint: null
+      type: email
+      options: []
+      required: true
     - id: 8
-      name: cross_border_tax_declaration_form_business_taxable_entity_phone
-      label: business_taxable_entity_phone
+      name: business_entity_fax
+      label: Business Entity Fax
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: cross_border_tax_declaration_form_business_taxable_entity_email
-      label: business_taxable_entity_email
+      name: business_entity_web
+      label: Business Entity Website
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: cross_border_tax_declaration_form_business_taxable_entity_fax
-      label: business_taxable_entity_fax
+      name: business_entity_registrations_type
+      label: Business Entity Registrations Type
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 11
-      name: cross_border_tax_declaration_form_business_taxable_entity_web
-      label: business_taxable_entity_web
+      name: business_entity_registrations_value
+      label: Business Entity Registrations Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: business_entity_registrations_frequency
+      label: Business Entity Registrations Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 13
+      name: business_entity_registrations_note
+      label: Business Entity Registrations Note
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 12
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations
-      label: business_taxable_entity_registrations
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_count
-      label: business_taxable_entity_registrations_count
-      hint: null
-      type: number
       options: []
       required: false
     - id: 14
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_value
-      label: business_taxable_entity_registrations_value
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_currency
-      label: business_taxable_entity_registrations_currency
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 16
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_frequency
-      label: business_taxable_entity_registrations_frequency
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_type
-      label: business_taxable_entity_registrations_type
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_note
-      label: business_taxable_entity_registrations_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_date
-      label: business_taxable_entity_registrations_date
+      name: business_entity_registrations_date
+      label: Business Entity Registrations Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 20
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_time
-      label: business_taxable_entity_registrations_time
+      required: true
+    - id: 15
+      name: business_entity_registrations_time
+      label: Business Entity Registrations Time
       hint: null
       type: time
-      options: []
-      required: false
-    - id: 21
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_note
-      label: business_taxable_entity_registrations_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_note
-      label: business_taxable_entity_registrations_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_note
-      label: business_taxable_entity_registrations_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_note
-      label: business_taxable_entity_registrations_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: cross_border_tax_declaration_form_business_taxable_entity_registrations_note
-      label: business_taxable_entity_registrations_note
-      hint: null
-      type: text
       options: []
       required: false

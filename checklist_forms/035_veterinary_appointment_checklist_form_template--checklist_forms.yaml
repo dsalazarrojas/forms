@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''John Doe'', ''value'': ''john_doe''}'
-      - '{''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 3
       name: appointment_date
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Credit Card'', ''value'': ''credit_card''}'
-      - '{''label'': ''Bank Draft'', ''value'': ''bank_draft''}'
-      - '{''label'': ''Check'', ''value'': ''check''}'
+      - Credit Card
+      - Bank Draft
+      - Check
       required: false
     - id: 8
       name: veterinary_notes
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ChatJimmy'', ''value'': ''chatjimmy''}'
-      - '{''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
-      - '{''label'': ''John Doe'', ''value'': ''john_doe''}'
+      - ChatJimmy
+      - Jane Doe
+      - John Doe
       required: false
     - id: 11
       name: confirm
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: submit

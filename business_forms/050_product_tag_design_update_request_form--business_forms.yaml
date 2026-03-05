@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''high''}'
-      - '{''id'': 2, ''value'': ''low''}'
-      - '{''id'': 3, ''value'': ''medium''}'
+      - high
+      - low
+      - medium
       required: false
     - id: 5
       name: file
@@ -54,15 +54,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''color''}'
-      - '{''id'': 2, ''value'': ''color''}'
-      - '{''id'': 3, ''value'': ''image''}'
-      - '{''id'': 4, ''value'': ''image''}'
-      - '{''id'': 5, ''value'': ''text''}'
-      - '{''id'': 6, ''value'': ''text''}'
-      - '{''id'': 7, ''value'': ''background''}'
-      - '{''id'': 8, ''value'': ''background''}'
-      - '{''id'': 9, ''value'': ''icon''}'
+      - color
+      - image
+      - text
+      - background
+      - icon
       required: false
     - id: 8
       name: file_upload

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''consent_1''}'
-      - '{''value'': ''consent_2''}'
-      - '{''value'': ''consent_3''}'
+      - consent 1
+      - consent 2
+      - consent 3
       required: false
     - id: 3
       name: authorization
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''authorization_1''}'
-      - '{''value'': ''authorization_2''}'
-      - '{''value'': ''authorization_3''}'
+      - authorization 1
+      - authorization 2
+      - authorization 3
       required: false
     - id: 4
       name: payment_terms
@@ -36,8 +36,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
+      - option 1
+      - option 2
       required: false
     - id: 5
       name: telehealth_privacy
@@ -45,8 +45,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
+      - option 1
+      - option 2
       required: false
     - id: 6
       name: medical_emergencies
@@ -75,6 +75,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
+      - option 1
+      - option 2
       required: false

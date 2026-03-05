@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active Student''}'
-      - '{''value'': ''Inactive Student''}'
-      - '{''value'': ''Allocated Student''}'
-      - '{''value'': ''Suspended Student''}'
-      - '{''value'': ''Graduating Student''}'
+      - Active Student
+      - Inactive Student
+      - Allocated Student
+      - Suspended Student
+      - Graduating Student
       required: false
     - id: 4
       name: leave_type
@@ -46,10 +35,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Indefinite Leave to Remain''}'
-      - '{''value'': ''Leave of Absence''}'
-      - '{''value'': ''Leave of Absence with a fixed date''}'
-      - '{''value'': ''Other''}'
+      - Indefinite Leave to Remain
+      - Leave of Absence
+      - Leave of Absence with a fixed date
+      - Other
       required: false
     - id: 5
       name: leave_date
@@ -85,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''No further action required''}'
-      - '{''value'': ''Review by Admissions''}'
-      - '{''value'': ''Review by Student Support''}'
-      - '{''value'': ''Review by other''}'
+      - No further action required
+      - Review by Admissions
+      - Review by Student Support
+      - Review by other
       required: false
     - id: 10
       name: notes
@@ -138,10 +127,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Done''}'
-      - '{''value'': ''Not Applicable''}'
+      - New
+      - In Progress
+      - Done
+      - Not Applicable
       required: false
     - id: 17
       name: follow_up_date
@@ -163,10 +152,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Required''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Due Soon''}'
+      - Not Required
+      - Completed
+      - In Progress
+      - Due Soon
       required: false
     - id: 20
       name: follow_up_comments

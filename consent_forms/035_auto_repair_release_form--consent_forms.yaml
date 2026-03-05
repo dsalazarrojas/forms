@@ -1,124 +1,114 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Auto Repair Release Form
     pages:
-      - id: 1
-        name: repair_auth_header
-        label: -- Repair Authorization --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: owner_full_name
-        label: Owner Full Name
-        hint: Legal owner of the vehicle
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: vehicle_vin
-        label: Vehicle VIN
-        hint: 17-digit ID
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: vehicle_desc
-        label: Vehicle Description
-        hint: Year, Make, and Model
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: release_liability_header
-        label: -- Release of Liability --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: accept_used_parts
-        label: Authorize Used or Aftermarket Parts
-        hint: I authorize the use of recycled or aftermarket parts as discussed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: authorize_test_drive
-        label: Authorize Test Drive
-        hint: I authorize technicians to operate the vehicle for testing purposes
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 8
-        name: liability_waiver
-        label: Liability Waiver for Loss or Damage
-        hint: I release the shop from liability for loss or damage to vehicle or contents
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 9
-        name: storage_lien_header
-        label: -- Storage and Lien --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: acknowledge_lien
-        label: Acknowledge Mechanic's Lien
-        hint: I acknowledge a mechanic's lien on the vehicle for repairs
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: storage_fees
-        label: Agree to Storage Fees
-        hint: I agree to pay storage fees if the vehicle is not picked up within 48 hours
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 12
-        name: confirmation_header
-        label: -- Confirmation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: signature_name
-        label: Signature (Printed Name)
-        hint: Typing your name acts as a legal signature
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: signing_date
-        label: Signing Date
-        hint: Date this release is signed
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: repair_auth_header
+      label: -- Repair Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: owner_full_name
+      label: Owner Full Name
+      hint: Legal owner of the vehicle
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: vehicle_vin
+      label: Vehicle VIN
+      hint: 17-digit ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: vehicle_desc
+      label: Vehicle Description
+      hint: Year, Make, and Model
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: release_liability_header
+      label: -- Release of Liability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: accept_used_parts
+      label: Authorize Used or Aftermarket Parts
+      hint: I authorize the use of recycled or aftermarket parts as discussed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: authorize_test_drive
+      label: Authorize Test Drive
+      hint: I authorize technicians to operate the vehicle for testing purposes
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: liability_waiver
+      label: Liability Waiver for Loss or Damage
+      hint: I release the shop from liability for loss or damage to vehicle or contents
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: storage_lien_header
+      label: -- Storage and Lien --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: acknowledge_lien
+      label: Acknowledge Mechanic's Lien
+      hint: I acknowledge a mechanic's lien on the vehicle for repairs
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: storage_fees
+      label: Agree to Storage Fees
+      hint: I agree to pay storage fees if the vehicle is not picked up within 48
+        hours
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: confirmation_header
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_name
+      label: Signature (Printed Name)
+      hint: Typing your name acts as a legal signature
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signing_date
+      label: Signing Date
+      hint: Date this release is signed
+      type: date
+      options: []
+      required: true

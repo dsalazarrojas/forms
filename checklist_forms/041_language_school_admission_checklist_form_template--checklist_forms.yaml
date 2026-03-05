@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Online'', ''value'': ''Online''}'
-      - '{''label'': ''Offline'', ''value'': ''Offline''}'
+      - Online
+      - Offline
       required: false
     - id: 4
       name: student_age
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male'', ''value'': ''Male''}'
-      - '{''label'': ''Female'', ''value'': ''Female''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 6
       name: student_language
@@ -98,6 +98,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

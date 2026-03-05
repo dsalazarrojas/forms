@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''morning''}'
-      - '{''id'': 2, ''label'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''evening''}'
+      - morning
+      - afternoon
+      - evening
       required: false
     - id: 8
       name: latest_departure_time_preference
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''morning''}'
-      - '{''id'': 2, ''label'': ''afternoon''}'
-      - '{''id'': 3, ''label'': ''evening''}'
+      - morning
+      - afternoon
+      - evening
       required: false
     - id: 9
       name: preferred_arrival_day
@@ -71,13 +71,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
-      - '{''id'': 6, ''label'': ''Saturday''}'
-      - '{''id'': 7, ''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 10
       name: preferred_length_of_stay
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''15 feet''}'
-      - '{''id'': 2, ''label'': ''20 feet''}'
-      - '{''id'': 3, ''label'': ''25 feet''}'
+      - 15 feet
+      - 20 feet
+      - 25 feet
       required: false
     - id: 14
       name: contact_method
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''email''}'
-      - '{''id'': 2, ''label'': ''phone''}'
-      - '{''id'': 3, ''label'': ''text''}'
+      - email
+      - phone
+      - text
       required: false
     - id: 15
       name: contact_preference
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''call''}'
-      - '{''id'': 2, ''label'': ''email''}'
-      - '{''id'': 3, ''label'': ''text''}'
+      - call
+      - email
+      - text
       required: false
     - id: 16
       name: note
@@ -150,9 +150,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''sailboat''}'
-      - '{''id'': 2, ''label'': ''powerboat''}'
-      - '{''id'': 3, ''label'': ''other''}'
+      - sailboat
+      - powerboat
+      - other
       required: false
     - id: 19
       name: boat_size
@@ -167,7 +167,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''location1''}'
-      - '{''id'': 2, ''label'': ''location2''}'
-      - '{''id'': 3, ''label'': ''location3''}'
+      - location1
+      - location2
+      - location3
       required: false

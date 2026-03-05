@@ -5,16 +5,17 @@ inputSchema:
     pages:
     - id: 1
       name: statement_1
-      label: What is your favorite food
+      label: Select your favorite food
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Pizza
+      - Burger
+      - Salad
       required: false
     - id: 2
       name: statement_2
-      label: Your favorite color
+      label: Select your favorite color
       hint: null
       type: select_one
       options:
@@ -23,15 +24,29 @@ inputSchema:
       - Green
       required: false
     - id: 3
-      name: statement_4
-      label: How old are you
-      hint: Please enter your age
+      name: statement_3
+      label: Age
+      hint: null
       type: number
       options: []
       required: false
     - id: 4
       name: statement_5
-      label: Please select all that apply
+      label: Select your job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: statement_4
+      label: Select your height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: statement_6
+      label: Select your contact information
       hint: null
       type: select_multiple
       options:
@@ -39,152 +54,76 @@ inputSchema:
       - Option B
       - Option C
       required: false
-    - id: 5
-      name: statement_6
-      label: What is your job
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: statement_7
-      label: How tall are you
-      hint: Please enter your height
-      type: number
-      options: []
-      required: false
     - id: 7
-      name: statement_8
-      label: Please select all that apply
+      name: statement_9
+      label: Select your work time
       hint: null
-      type: select_multiple
-      options:
-      - Option D
-      - Option E
-      - Option F
+      type: time
+      options: []
       required: false
     - id: 8
-      name: statement_9
-      label: Your contact info
+      name: statement_10
+      label: Hours slept
       hint: null
-      type: email
+      type: number
       options: []
       required: false
     - id: 9
-      name: statement_10
-      label: What time do you work
+      name: statement_11
+      label: Select your phone number
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 10
-      name: statement_11
-      label: How many hours do you sleep
-      hint: Please enter your sleep hours
-      type: number
+      name: statement_12
+      label: Select your address
+      hint: null
+      type: text
       options: []
       required: false
     - id: 11
-      name: statement_12
-      label: What is your phone number
-      hint: Please enter your phone number
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: statement_13
-      label: Your statement
-      hint: Please enter your statement
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: statement_14
-      label: What time do you work
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: statement_15
-      label: How many hours do you work
-      hint: Please enter the number of hours
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: statement_16
-      label: What is your address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: statement_17
-      label: Your email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: statement_18
-      label: What is your birthday
+      label: Birthday
       hint: null
       type: date
       options: []
       required: false
-    - id: 18
-      name: statement_19
-      label: What is your favorite food
-      hint: null
-      type: select_one
-      options:
-      - Pizza
-      - Burger
-      - Salad
-      required: false
-    - id: 19
-      name: statement_20
-      label: What is your job
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: statement_21
-      label: How many hours do you take for lunch
-      hint: Please enter your lunch hours
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: statement_22
-      label: How many hours do you take for breaks
-      hint: Please enter your break hours
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: statement_23
-      label: What is your address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: statement_24
-      label: What time do you go to work
-      hint: Please enter your work time
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: statement_25
-      label: Your contact information
+    - id: 12
+      name: statement_15
+      label: Statement 15
       hint: null
       type: select_multiple
       options:
-      - Option G
-      - Option H
-      - Option I
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 13
+      name: statement_16
+      label: Statement 16
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: statement_17
+      label: Select your lunch time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: statement_18
+      label: Select your break time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: statement_20
+      label: Select your finish work time
+      hint: null
+      type: time
+      options: []
       required: false

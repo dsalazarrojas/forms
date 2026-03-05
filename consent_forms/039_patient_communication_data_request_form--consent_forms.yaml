@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
+      - Email
+      - Phone
       required: false
     - id: 3
       name: communication_frequency
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 4
       name: contact_number
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Other''}'
+      - Email
+      - Phone
+      - Other
       required: false
     - id: 12
       name: follow_up_comments
@@ -101,7 +101,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not Started''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
+      - Not Started
+      - In Progress
+      - Completed
       required: false

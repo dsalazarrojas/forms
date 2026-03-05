@@ -23,9 +23,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 7, ''name'': ''Participant E-Signature'', ''label'': ''E-Signature''}'
-      - '{''id'': 8, ''name'': ''Participant E-Signature 2'', ''label'': ''E-Signature
-        2''}'
+      - E-Signature
+      - E-Signature 2
       required: true
     - id: 4
       name: e_signature_date
@@ -96,8 +95,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''participant_consent'', ''label'': ''I give permission''}'
-      - '{''name'': ''participant_consent_2'', ''label'': ''Participant Consent 2''}'
+      - I give permission
+      - Participant Consent 2
       required: true
     - id: 14
       name: signature_type
@@ -105,9 +104,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''signature_1'', ''label'': ''Signature 1''}'
-      - '{''name'': ''signature_2'', ''label'': ''Signature 2''}'
-      - '{''name'': ''signature_3'', ''label'': ''Signature 3''}'
+      - Signature 1
+      - Signature 2
+      - Signature 3
       required: true
     - id: 15
       name: terms_and_conditions
@@ -129,8 +128,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''participant_consent_form_1'', ''label'': ''Consent Form 1''}'
-      - '{''name'': ''participant_consent_form_2'', ''label'': ''Consent Form 2''}'
+      - Consent Form 1
+      - Consent Form 2
       required: true
     - id: 18
       name: participant_declaration_date

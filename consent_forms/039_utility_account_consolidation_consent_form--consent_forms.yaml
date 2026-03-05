@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Electricity''}'
-      - '{''id'': 2, ''label'': ''Gas''}'
-      - '{''id'': 3, ''label'': ''Water''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Electricity
+      - Gas
+      - Water
+      - Other
       required: false
     - id: 5
       name: account_info
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Account 1''}'
-      - '{''id'': 2, ''label'': ''Account 2''}'
-      - '{''id'': 3, ''label'': ''Account 3''}'
-      - '{''id'': 4, ''label'': ''Account 4''}'
+      - Account 1
+      - Account 2
+      - Account 3
+      - Account 4
       required: false
     - id: 7
       name: merge_accounts

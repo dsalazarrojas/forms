@@ -4,62 +4,34 @@ inputSchema:
     title: Restaurant Operating Expense Control
     pages:
     - id: 1
-      name: restaurant_operating_expense_control_fields_1
-      label: Operating Expense
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 2
-      name: restaurant_operating_expense_control_fields_2
+      name: restaurant_operating_expense_control_food_cost
       label: Food Cost
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 3
-      name: restaurant_operating_expense_control_fields_3
-      label: Food Cost %
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: restaurant_operating_expense_control_fields_4
+    - id: 2
+      name: restaurant_operating_expense_control_labor_cost
       label: Labor Cost
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 5
-      name: restaurant_operating_expense_control_fields_5
-      label: Labor Cost %
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: restaurant_operating_expense_control_fields_6
+    - id: 3
+      name: restaurant_operating_expense_control_occupancy
       label: Occupancy
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 7
-      name: restaurant_operating_expense_control_fields_7
-      label: Occupancy %
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: restaurant_operating_expense_control_fields_8
+    - id: 4
+      name: restaurant_operating_expense_control_other_operating_expense
       label: Other Operating Expense
       hint: null
       type: select_multiple
@@ -67,121 +39,146 @@ inputSchema:
       - Good
       - Fair
       required: false
-    - id: 9
-      name: restaurant_operating_expense_control_fields_9
-      label: Other Operating Expense %
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: restaurant_operating_expense_control_fields_10
+    - id: 5
+      name: restaurant_operating_expense_control_other_income
       label: Other Income
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 11
-      name: restaurant_operating_expense_control_fields_11
-      label: Other Income %
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: restaurant_operating_expense_control_fields_12
+    - id: 6
+      name: restaurant_operating_expense_control_other_expense
       label: Other Expense
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: restaurant_operating_expense_control_depreciation
+      label: Depreciation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: restaurant_operating_expense_control_amortization
+      label: Amortization
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: restaurant_operating_expense_control_interest
+      label: Interest
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: restaurant_operating_expense_control_taxes
+      label: Taxes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: restaurant_operating_expense_control_other
+      label: Other
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: restaurant_operating_expense_control_food_cost_percentage
+      label: Food Cost Percentage
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 13
-      name: restaurant_operating_expense_control_fields_13
-      label: Other Expense %
+      name: restaurant_operating_expense_control_labor_cost_percentage
+      label: Labor Cost Percentage
       hint: null
       type: number
       options: []
       required: false
     - id: 14
-      name: restaurant_operating_expense_control_fields_14
-      label: Depreciation
+      name: restaurant_operating_expense_control_occupancy_percentage
+      label: Occupancy Percentage
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 15
-      name: restaurant_operating_expense_control_fields_15
-      label: Depreciation %
+      name: restaurant_operating_expense_control_other_operating_expense_percentage
+      label: Other Operating Expense Percentage
       hint: null
       type: number
       options: []
       required: false
     - id: 16
-      name: restaurant_operating_expense_control_fields_16
-      label: Amortization
+      name: restaurant_operating_expense_control_other_income_2
+      label: Restaurant Operating Expense Control Other Income 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option A
+      - Option B
       required: false
     - id: 17
-      name: restaurant_operating_expense_control_fields_17
-      label: Amortization %
+      name: restaurant_operating_expense_control_other_expense_percentage
+      label: Other Expense Percentage
       hint: null
       type: number
       options: []
       required: false
     - id: 18
-      name: restaurant_operating_expense_control_fields_18
-      label: Interest
+      name: restaurant_operating_expense_control_depreciation_percentage
+      label: Depreciation Percentage
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: number
+      options: []
       required: false
     - id: 19
-      name: restaurant_operating_expense_control_fields_19
-      label: Interest %
+      name: restaurant_operating_expense_control_amortization_percentage
+      label: Amortization Percentage
       hint: null
       type: number
       options: []
       required: false
     - id: 20
-      name: restaurant_operating_expense_control_fields_20
-      label: Taxes
+      name: restaurant_operating_expense_control_interest_2
+      label: Restaurant Operating Expense Control Interest 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option A
+      - Option B
       required: false
     - id: 21
-      name: restaurant_operating_expense_control_fields_21
-      label: Taxes %
+      name: restaurant_operating_expense_control_taxes_percentage
+      label: Taxes Percentage
       hint: null
       type: number
       options: []
       required: false
     - id: 22
-      name: restaurant_operating_expense_control_fields_22
-      label: Other
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: restaurant_operating_expense_control_fields_23
-      label: Other %
+      name: restaurant_operating_expense_control_other_percentage
+      label: Restaurant Operating Expense Control Other Percentage
       hint: null
       type: number
       options: []

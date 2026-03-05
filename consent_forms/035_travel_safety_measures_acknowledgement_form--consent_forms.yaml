@@ -4,197 +4,185 @@ inputSchema:
     title: Travel_Safety_Measures_Acknowledgement_Form
     pages:
     - id: 1
-      name: travel_safety_measures_1
-      label: travel_safety_measures
-      hint: null
+      name: i_acknowledge_that_i_have_completed_a_pre_trip_travel_risk_assessment
+      label: I Acknowledge That I Have Completed A Pre Trip Travel Risk Assessment
+      hint: Please confirm that you have completed a pre-trip travel risk assessment.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: travel_safety_measures_1
-      label: i_acknowledge_that_i_have_completed_a_pre_trip_travel_risk_assessment
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      name: have_i_familiarized_myself_with_all_emergency_procedure_documents
+      label: Have I Familiarized Myself With All Emergency Procedure Documents?
+      hint: Please confirm that you have read and understood all emergency procedure
+        documents.
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: travel_safety_measures_2
-      label: have_i_fully_understood_the_emergency_response_and_emergency_evacuation_plans
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: will_i_conduct_a_risk_assessment_on_return
+      label: Will I Conduct A Risk Assessment On Return?
+      hint: Please confirm that you will conduct a risk assessment on return.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 4
-      name: travel_safety_measures_3
-      label: will_i_adhere_to_all_emergency_response_and_evacuation_procedures
-      hint: null
+      name: will_i_adhere_to_all_emergency_response_and_emergency_evacuation_procedures
+      label: Will I Adhere To All Emergency Response And Emergency Evacuation Procedures?
+      hint: Please confirm that you will adhere to all emergency response and emergency
+        evacuation procedures.
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 5
-      name: travel_safety_measures_4
-      label: have_i_read_and_familiarized_myself_with_all_emergency_procedure_documents
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: will_i_report_any_emergency_situations_to_my_manager
+      label: Will I Report Any Emergency Situations To My Manager?
+      hint: Please confirm that you will report any emergency situations to your manager.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 6
-      name: travel_safety_measures_5
-      label: i_understand_that_i_am_responsible_for_my_own_safety_and_well_being_while_traveling
-      hint: null
+      name: will_i_ask_my_manager_to_review_the_emergency_response_and_emergency_evacuation_plans
+      label: Will I Ask My Manager To Review The Emergency Response And Emergency
+        Evacuation Plans?
+      hint: Please confirm that you will ask your manager to review the emergency
+        response and emergency evacuation plans.
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: travel_safety_measures_6
-      label: i_will_conduct_a_pre_trip_risk_assessment
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      required: false
+      name: have_i_asked_my_manager_to_review_the_emergency_response_and_emergency_evacuation_plans
+      label: Have I Asked My Manager To Review The Emergency Response And Emergency
+        Evacuation Plans?
+      hint: Please confirm that you have asked your manager to review the emergency
+        response and emergency evacuation plans.
+      type: text
+      options: []
+      required: true
     - id: 8
-      name: travel_safety_measures_7
-      label: will_i_report_any_emergency_situations_to_my_manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: travel_safety_measures_8
-      label: travel_safety_measures
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 10
-      name: travel_safety_measures_9
-      label: travel_safety_measures
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 11
-      name: travel_safety_measures_10
-      label: travel_safety_measures
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 12
-      name: travel_safety_measures_11
-      label: will_i_conduct_a_risk_assessment_on_return
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: travel_safety_measures_12
-      label: will_i_report_any_emergency_situations_to_my_manager
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 14
-      name: travel_safety_measures_13
-      label: travel_safety_measures
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: travel_safety_measures_14
-      label: travel_safety_measures
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: travel_safety_measures_15
-      label: have_i_read_all_the_emergency_procedure_documents
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: travel_safety_measures_16
-      label: have_i_familiarized_myself_with_all_emergency_procedure_documents
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: travel_safety_measures_17
-      label: have_i_asked_my_manager_to_review_the_emergency_response_and_emergency_evacuation_plans
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: have_i_completed_all_emergency_response_and_emergency_evacuation_plans
-      label: Have I Completed All Emergency Response And Emergency Evacuation Plans
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: have_i_completed_a_pre_trip_travel_risk_assessment
-      label: Have I Completed A Pre Trip Travel Risk Assessment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
       name: travel_safety_measures_1
-      label: emergency_safety_measures_taken
-      hint: null
+      label: Emergency Safety Measures Taken
+      hint: Please describe the emergency safety measures taken.
       type: text
       options: []
-      required: false
-    - id: 22
-      name: travel_safety_measures_2
-      label: pre_travel_risk_assessment
-      hint: null
+      required: true
+    - id: 9
+      name: pre_travel_risk_assessment
+      label: Pre-Travel Risk Assessment
+      hint: Please enter date of pre-trip risk assessment.
       type: date
       options: []
-      required: false
-    - id: 23
-      name: travel_safety_measures_3
-      label: emergency_contact
-      hint: null
+      required: true
+    - id: 10
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Please enter your emergency contact person name and phone number.
       type: text
       options: []
-      required: false
-    - id: 24
-      name: travel_safety_measures_4
-      label: travel_safety_measures
-      hint: null
-      type: time
+      required: true
+    - id: 11
+      name: travel_safety_measures
+      label: Travel Safety Measures
+      hint: Please choose one of the emergency response options.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 12
+      name: will_i_report_any_emergency_situations_to_my_manager_2
+      label: Will I Report Any Emergency Situations To My Manager 2
+      hint: Please choose one of the emergency response options.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 13
+      name: have_i_completed_a_pre_trip_travel_risk_assessment
+      label: Have I Completed A Pre Trip Travel Risk Assessment
+      hint: Please confirm that you have completed a pre-trip travel risk assessment.
+      type: text
       options: []
-      required: false
-    - id: 25
-      name: travel_safety_measures_5
-      label: travel_safety_measures
-      hint: null
-      type: number
+      required: true
+    - id: 14
+      name: will_i_read_all_emergency_procedure_documents
+      label: Will I Read All Emergency Procedure Documents?
+      hint: Please confirm that you will read all emergency procedure documents.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 15
+      name: travel_safety_measures_1_2
+      label: Travel Safety Measures 1 2
+      hint: Please choose one of the travel safety options.
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 16
+      name: will_i_ask_my_manager_to_review_the_emergency_response_and_emergency_evacuation_plans_2
+      label: Will I Ask My Manager To Review The Emergency Response And Emergency
+        Evacuation Plans 2
+      hint: Please confirm that you will ask your manager to review the emergency
+        response and emergency evacuation plans.
+      type: text
       options: []
-      required: false
+      required: true
+    - id: 17
+      name: have_i_conducted_a_pre_trip_risk_assessment
+      label: Have I Conducted A Pre Trip Risk Assessment?
+      hint: Please confirm that you have conducted a pre-trip risk assessment.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: have_i_reviewed_all_emergency_response_and_emergency_evacuation_plans
+      label: Have I Reviewed All Emergency Response And Emergency Evacuation Plans?
+      hint: Please confirm that you have reviewed all emergency response and emergency
+        evacuation plans.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: will_i_conduct_a_risk_assessment_on_return_2
+      label: Will I Conduct A Risk Assessment On Return 2
+      hint: Please confirm that you will conduct a risk assessment on return.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 20
+      name: will_i_review_all_emergency_response_and_emergency_evacuation_plans
+      label: Will I Review All Emergency Response And Emergency Evacuation Plans?
+      hint: Please confirm that you will review all emergency response and emergency
+        evacuation plans.
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: have_i_fully_understood_the_emergency_response_and_emergency_evacuation_plans
+      label: Have I Fully Understood The Emergency Response And Emergency Evacuation
+        Plans?
+      hint: Please confirm that you have fully understood the emergency response and
+        emergency evacuation plans.
+      type: text
+      options: []
+      required: true

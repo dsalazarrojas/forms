@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: participant_permission
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''filming''}'
-      - '{''value'': ''photo_video_audio''}'
-      - '{''value'': ''audio_recordings''}'
-      - '{''value'': ''medical_device_usage''}'
+      - filming
+      - photo video audio
+      - audio recordings
+      - medical device usage
       required: true
     - id: 5
       name: additional_comments

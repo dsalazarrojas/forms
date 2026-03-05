@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: teacher_name
@@ -61,16 +61,9 @@ inputSchema:
       hint: Select student grade
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: teacher_email
@@ -140,49 +133,49 @@ inputSchema:
       required: false
     - id: 18
       name: teacher_name_2
-      label: Teacher Name
+      label: Teacher Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: teacher_phone_2
-      label: Teacher Phone
+      label: Teacher Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: comments_2
-      label: Comments
+      label: Comments 2
       hint: null
       type: note
       options: []
       required: false
     - id: 21
       name: student_signature_2
-      label: Student Signature
+      label: Student Signature 2
       hint: Student signature (optional)
       type: note
       options: []
       required: false
     - id: 22
       name: teacher_signature_2
-      label: Teacher Signature
+      label: Teacher Signature 2
       hint: Teacher signature (optional)
       type: note
       options: []
       required: false
     - id: 23
       name: bus_signature_2
-      label: Bus Signature
+      label: Bus Signature 2
       hint: Bus signature (optional)
       type: note
       options: []
       required: false
     - id: 24
       name: form_submitted_by_2
-      label: Form Submitted By
+      label: Form Submitted By 2
       hint: null
       type: select_one
       options:
@@ -192,7 +185,7 @@ inputSchema:
       required: false
     - id: 25
       name: comments_3
-      label: Comments
+      label: Comments 3
       hint: Optional comments
       type: note
       options: []

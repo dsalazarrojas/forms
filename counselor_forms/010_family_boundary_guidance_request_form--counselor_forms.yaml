@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''In-home visits''}'
-      - '{''name'': ''Telehealth''}'
-      - '{''name'': ''Community resources''}'
+      - In-home visits
+      - Telehealth
+      - Community resources
       required: false
     - id: 4
       name: family_member
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Family conflict''}'
-      - '{''name'': ''Financial crisis''}'
-      - '{''name'': ''Mental health''}'
-      - '{''name'': ''Safety concerns''}'
-      - '{''name'': ''Other''}'
+      - Family conflict
+      - Financial crisis
+      - Mental health
+      - Safety concerns
+      - Other
       required: false
     - id: 7
       name: boundary_severity
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Low''}'
-      - '{''name'': ''Moderate''}'
-      - '{''name'': ''High''}'
+      - Low
+      - Moderate
+      - High
       required: false
     - id: 8
       name: boundary_frequency
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Active''}'
-      - '{''name'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 10
       name: follow_up_request

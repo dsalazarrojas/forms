@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Somewhat''}'
-      - '{''id'': 2, ''label'': ''Very''}'
-      - '{''id'': 3, ''label'': ''Not At All''}'
+      - Somewhat
+      - Very
+      - Not At All
       required: true
     - id: 5
       name: meeting_frequency
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: true
     - id: 6
       name: effectiveness_scale_comment
@@ -59,9 +59,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: true
     - id: 8
       name: meeting_notes

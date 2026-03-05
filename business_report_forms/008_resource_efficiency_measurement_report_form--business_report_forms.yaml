@@ -5,76 +5,96 @@ inputSchema:
     pages:
     - id: 1
       name: resource_efficiency_measurement_report_form_page_1
-      label: Resource Efficiency Measurement Report Form
+      label: Resource Efficiency Measurement
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: resource_efficiency_measurement_report_form_page_2
-      label: Resource Efficiency Measurement Report
+      label: Resource Types
       hint: null
       type: select_one
-      options:
-      - Efficiency
-      - Measurement
-      - Report
-      required: false
-    - id: 3
-      name: resource_efficiency_measurement_report_form_page_3
-      label: Resource Efficiency Measurement Report
-      hint: null
-      type: select_multiple
       options:
       - Resource 1
       - Resource 2
       - Resource 3
       required: false
+    - id: 3
+      name: resource_efficiency_measurement_report_form_page_3
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
     - id: 4
       name: resource_efficiency_measurement_report_form_page_4
-      label: Resource Efficiency Measurement
+      label: Number of Resources
       hint: null
       type: number
       options: []
       required: false
     - id: 5
       name: resource_efficiency_measurement_report_form_page_5
-      label: Resource Measurement Report
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: resource_efficiency_measurement_report_form_page_6
-      label: Resource Measurement
+      label: Measurement Method
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: resource_efficiency_measurement_report_form_page_7
-      label: Resource Use Measurement
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: resource_efficiency_measurement_report_form_page_8
-      label: Resource Measurement Report
+    - id: 6
+      name: resource_efficiency_measurement_report_form_page_6
+      label: Measurement Frequency
       hint: null
       type: time
       options: []
       required: false
+    - id: 7
+      name: resource_efficiency_measurement_report_form_page_7
+      label: Efficiency of Resource Use
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: resource_efficiency_measurement_report_form_page_8
+      label: Resources Used
+      hint: null
+      type: select_multiple
+      options:
+      - Resource 1
+      - Resource 2
+      - Resource 3
+      required: false
     - id: 9
       name: resource_efficiency_measurement_report_form_page_9
-      label: Resource Efficiency Measurement
+      label: Measurement Report Format
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - PDF
+      - Excel
+      - CSV
       required: false
     - id: 10
       name: resource_efficiency_measurement_report_form_page_10
-      label: Resource Use Efficiency
+      label: Resources Measured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: resource_efficiency_measurement_report_form_page_11
+      label: Efficiency of Measurement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: resource_efficiency_measurement_report_form_page_12
+      label: Resource Being Measured
       hint: null
       type: select_one
       options:
@@ -82,111 +102,94 @@ inputSchema:
       - Resource 2
       - Resource 3
       required: false
-    - id: 11
-      name: resource_efficiency_measurement_report_form_page_11
-      label: Resource Measurement
-      hint: null
-      type: select_multiple
-      options:
-      - Efficiency
-      - Measurement
-      - Report
-      required: false
-    - id: 12
-      name: resource_efficiency_measurement_report_form_page_12
-      label: Resource Use
-      hint: null
-      type: number
-      options: []
-      required: false
     - id: 13
       name: resource_efficiency_measurement_report_form_page_13
-      label: Efficiency Measurement Report
+      label: Resource Use
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: resource_efficiency_measurement_report_form_page_14
-      label: Use Efficiency
+      label: Resource Measurement
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 15
       name: resource_efficiency_measurement_report_form_page_15
-      label: Resource Use
+      label: Efficiency Report
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: resource_efficiency_measurement_report_form_page_16
-      label: Efficiency Measurement
+      label: Resource Use Efficiency
       hint: null
-      type: date
+      type: number
       options: []
       required: false
     - id: 17
       name: resource_efficiency_measurement_report_form_page_17
-      label: Resource Use Report
+      label: Use Report
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 18
       name: resource_efficiency_measurement_report_form_page_18
-      label: Measurement Efficiency
+      label: Efficiency Measurement
       hint: null
       type: time
       options: []
       required: false
     - id: 19
       name: resource_efficiency_measurement_report_form_page_19
-      label: Report Efficiency
+      label: Resource Efficiency
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: resource_efficiency_measurement_report_form_page_20
-      label: Use Efficiency
+      label: Measurement Report
       hint: null
       type: text
       options: []
       required: false
     - id: 21
       name: resource_efficiency_measurement_report_form_page_21
-      label: Use Report
+      label: Efficiency
       hint: null
       type: text
       options: []
       required: false
     - id: 22
       name: resource_efficiency_measurement_report_form_page_22
-      label: Measurement Use
+      label: Use Efficiency
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 23
       name: resource_efficiency_measurement_report_form_page_23
-      label: Resource Measurement
+      label: Report Efficiency
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 24
       name: resource_efficiency_measurement_report_form_page_24
-      label: Use Measurement
+      label: Resource Efficiency Measurement Report Form Page 24
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 25
       name: resource_efficiency_measurement_report_form_page_25
-      label: Resources
+      label: Measurement
       hint: null
-      type: note
+      type: text
       options: []
       required: false

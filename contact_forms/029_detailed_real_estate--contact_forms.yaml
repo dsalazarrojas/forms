@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''CA'', ''value'': ''CA''}'
-      - '{''id'': 2, ''name'': ''NY'', ''value'': ''NY''}'
-      - '{''id'': 3, ''name'': ''TX'', ''value'': ''TX''}'
+      - CA
+      - NY
+      - TX
       required: true
     - id: 11
       name: zip
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: followup_note

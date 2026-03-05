@@ -16,27 +16,26 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Service issue''}'
-      - '{''label'': ''Consultation''}'
-      - '{''label'': ''Other''}'
-      required: false
+      - Service issue
+      - Consultation
+      - Other
+      required: true
     - id: 3
       name: service_advisor_follow_up_form_page_3
       label: What was the issue with your service today?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: service_advisor_follow_up_form_page_4
       label: Did you find our service helpful?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not sure''}'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
       name: service_advisor_follow_up_form_page_5
       label: How can we improve?
@@ -57,148 +56,74 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: service_advisor_follow_up_form_page_8
-      label: Would you like to book a service advisor follow up call?
+      label: Would you like to book a service advisor follow-up call?
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: service_advisor_follow_up_form_page_9
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: service_advisor_follow_up_form_page_10
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: service_advisor_follow_up_form_page_11
-      label: Would you like to be contacted via Email?
+      label: What is your preferred contact method?
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - Phone
+      - Email
+      - Other
+      required: true
+    - id: 10
+      name: service_advisor_follow_up_form_page_10
+      label: What is your contact information?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Number
+      - Email Address
+      required: true
+    - id: 11
+      name: service_advisor_follow_up_form_page_11
+      label: Would you like to be contacted via Phone/Email?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Phone
+      - Yes - Email
+      - 'False'
       required: false
     - id: 12
       name: service_advisor_follow_up_form_page_12
-      label: Would you like to be contacted via Text/SMS?
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 13
-      name: service_advisor_follow_up_form_page_13
-      label: What is your contact phone number?
+      label: Additional comments?
       hint: null
       type: text
       options: []
       required: false
+    - id: 13
+      name: service_advisor_follow_up_form_page_13
+      label: Contact Information?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone Number
+      - Email Address
+      required: false
     - id: 14
       name: service_advisor_follow_up_form_page_14
-      label: What is your contact email address?
+      label: Service Advisor Follow Up Form Page 14
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 15
       name: service_advisor_follow_up_form_page_15
-      label: Would you like to be contacted via Phone?
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 16
-      name: service_advisor_follow_up_form_page_16
-      label: What is your contact email address?
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 17
-      name: service_advisor_follow_up_form_page_17
-      label: Would you like to be contacted via Email?
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 18
-      name: service_advisor_follow_up_form_page_18
-      label: What is your contact phone number?
+      label: Phone
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 19
-      name: service_advisor_follow_up_form_page_19
-      label: Would you like to be contacted via Phone?
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 20
-      name: service_advisor_follow_up_form_page_20
-      label: Would you like to be contacted via Text/SMS?
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 21
-      name: service_advisor_follow_up_form_page_21
-      label: What is your contact phone number?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: service_advisor_follow_up_form_page_22
-      label: What is your contact email address?
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: service_advisor_follow_up_form_page_23
-      label: Would you like to be contacted via Email?
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 24
-      name: service_advisor_follow_up_form_page_24
-      label: What is your contact phone number?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: service_advisor_follow_up_form_page_25
-      label: What is your contact email address?
-      hint: null
-      type: email
       options: []
       required: false

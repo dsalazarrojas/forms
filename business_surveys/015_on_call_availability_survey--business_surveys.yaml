@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Chat''}'
+      - Phone
+      - Email
+      - Chat
       required: true
     - id: 3
       name: on_call_availability
@@ -33,13 +33,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monday''}'
-      - '{''label'': ''Tuesday''}'
-      - '{''label'': ''Wednesday''}'
-      - '{''label'': ''Thursday''}'
-      - '{''label'': ''Friday''}'
-      - '{''label'': ''Saturday''}'
-      - '{''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: true
     - id: 5
       name: start_time
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''English''}'
-      - '{''label'': ''Spanish''}'
-      - '{''label'': ''French''}'
+      - English
+      - Spanish
+      - French
       required: true
     - id: 8
       name: comments
@@ -78,6 +78,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: true

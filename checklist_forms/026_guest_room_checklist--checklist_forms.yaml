@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Poor''}'
-      - '{''label'': ''Unsatisfactory''}'
+      - Excellent
+      - Good
+      - Poor
+      - Unsatisfactory
       required: false
     - id: 3
       name: cleanliness
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Free Wi-Fi''}'
-      - '{''label'': ''Free Parking''}'
-      - '{''label'': ''Free Breakfast''}'
-      - '{''label'': ''In-room Mini-bar''}'
+      - Free Wi-Fi
+      - Free Parking
+      - Free Breakfast
+      - In-room Mini-bar
       required: false
     - id: 5
       name: amenities_1
@@ -45,8 +45,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: amenities_2
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: amenities_3
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: room_type
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''Double''}'
-      - '{''label'': ''Suite''}'
+      - Single
+      - Double
+      - Suite
       required: false
     - id: 9
       name: bed_type
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Single''}'
-      - '{''label'': ''Double''}'
-      - '{''label'': ''King''}'
+      - Single
+      - Double
+      - King
       required: false
     - id: 10
       name: bathroom
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Private''}'
-      - '{''label'': ''Public''}'
-      - '{''label'': ''Shared''}'
+      - Private
+      - Public
+      - Shared
       required: false
     - id: 11
       name: bathroom_1
@@ -102,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''En-suite''}'
-      - '{''label'': ''Shared''}'
+      - En-suite
+      - Shared
       required: false
     - id: 12
       name: bathroom_2
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: amenities_4
@@ -120,8 +120,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: bed_size
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Queen''}'
-      - '{''label'': ''King''}'
-      - '{''label'': ''Single''}'
+      - Queen
+      - King
+      - Single
       required: false
     - id: 15
       name: smoking
@@ -139,8 +139,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: room_layout
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''L-shape''}'
-      - '{''label'': ''U-shape''}'
-      - '{''label'': ''Straight''}'
+      - L-shape
+      - U-shape
+      - Straight
       required: false
     - id: 17
       name: room_view
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''City View''}'
-      - '{''label'': ''Garden View''}'
-      - '{''label'': ''None''}'
+      - City View
+      - Garden View
+      - None
       required: false
     - id: 18
       name: amenities_5
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: room_condition
@@ -177,10 +177,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''New''}'
-      - '{''label'': ''Clean''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Needs Improvement''}'
+      - New
+      - Clean
+      - Average
+      - Needs Improvement
       required: false
     - id: 20
       name: bed_frame
@@ -188,9 +188,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Wooden''}'
-      - '{''label'': ''Metal''}'
-      - '{''label'': ''Plastic''}'
+      - Wooden
+      - Metal
+      - Plastic
       required: false
     - id: 21
       name: toilet_type
@@ -198,9 +198,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Modern''}'
-      - '{''label'': ''Old''}'
-      - '{''label'': ''Shared''}'
+      - Modern
+      - Old
+      - Shared
       required: false
     - id: 22
       name: shower_type
@@ -208,9 +208,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Modern''}'
-      - '{''label'': ''Old''}'
-      - '{''label'': ''Shared''}'
+      - Modern
+      - Old
+      - Shared
       required: false
     - id: 23
       name: amenities_6
@@ -218,8 +218,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: toilet_frame
@@ -227,9 +227,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Wooden''}'
-      - '{''label'': ''Plastic''}'
-      - '{''label'': ''Metal''}'
+      - Wooden
+      - Plastic
+      - Metal
       required: false
     - id: 25
       name: amenities_7
@@ -237,6 +237,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

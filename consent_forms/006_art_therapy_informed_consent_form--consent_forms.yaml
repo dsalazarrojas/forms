@@ -1,92 +1,81 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Art Therapy Informed Consent Form
     pages:
-      - id: 1
-        name: clinic_intro
-        label: -- Art Therapy Clinic Informed Consent --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: client_full_name
-        label: Client Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date_of_birth
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: therapist_assigned
-        label: Assigned Therapist Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: therapy_description
-        label: Understanding of Art Therapy
-        hint: Briefly describe your understanding of the process
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: confidentiality_agreement
-        label: I understand the confidentiality policy
-        hint: Information shared is private except where required by law
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: artwork_storage_consent
-        label: Consent to Store Artwork
-        hint: May the therapist keep your artwork securely in the clinic
-        type: select_one
-        options:
-          - Yes, for the duration of therapy
-          - No, I will take it home
-        required: true
-      - id: 8
-        name: photography_consent
-        label: Permission to photograph artwork for clinical records
-        hint: No personal identifiers will be included
-        type: select_one
-        options:
-          - Granted
-          - Denied
-        required: true
-      - id: 9
-        name: emergency_contact_info
-        label: Emergency Contact Name and Phone
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: consent_signature_date
-        label: Signature Date
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: clinic_intro
+      label: -- Art Therapy Clinic Informed Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: therapist_assigned
+      label: Assigned Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: therapy_description
+      label: Understanding of Art Therapy
+      hint: Briefly describe your understanding of the process
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: confidentiality_agreement
+      label: I understand the confidentiality policy
+      hint: Information shared is private except where required by law
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: artwork_storage_consent
+      label: Consent to Store Artwork
+      hint: May the therapist keep your artwork securely in the clinic
+      type: select_one
+      options:
+      - Yes, for the duration of therapy
+      - No, I will take it home
+      required: true
+    - id: 8
+      name: photography_consent
+      label: Permission to photograph artwork for clinical records
+      hint: No personal identifiers will be included
+      type: select_one
+      options:
+      - Granted
+      - Denied
+      required: true
+    - id: 9
+      name: emergency_contact_info
+      label: Emergency Contact Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: consent_signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true

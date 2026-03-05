@@ -23,9 +23,9 @@ inputSchema:
       hint: Select the file type
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Invoice'', ''value'': ''invoice''}'
-      - '{''id'': 2, ''label'': ''Estimate'', ''value'': ''estimate''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''other''}'
+      - Invoice
+      - Estimate
+      - Other
       required: false
     - id: 4
       name: upload_date
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John Doe'', ''value'': ''john_doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''jane_doe''}'
+      - John Doe
+      - Jane Doe
       required: false
     - id: 9
       name: upload_user
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
-      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      - John
+      - Jane
       required: false
     - id: 10
       name: upload_email
@@ -95,22 +95,22 @@ inputSchema:
       options: []
       required: false
     - id: 13
-      name: upload_date
-      label: Date
+      name: upload_date_2
+      label: Upload Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 14
-      name: upload_time
-      label: Time
+      name: upload_time_2
+      label: Upload Time 2
       hint: null
       type: time
       options: []
       required: false
     - id: 15
-      name: upload_comments
-      label: Comments
+      name: upload_comments_2
+      label: Upload Comments 2
       hint: null
       type: text
       options: []
@@ -121,20 +121,20 @@ inputSchema:
       hint: Select the file size
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''1 MB'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''5 MB'', ''value'': 5}'
-      - '{''id'': 3, ''label'': ''10 MB'', ''value'': 10}'
-      - '{''id'': 4, ''label'': ''50 MB'', ''value'': 50}'
+      - 1 MB
+      - 5 MB
+      - 10 MB
+      - 50 MB
       required: false
     - id: 17
-      name: upload_file_type
-      label: File Type
+      name: upload_file_type_2
+      label: Upload File Type 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''PDF'', ''value'': ''pdf''}'
-      - '{''id'': 2, ''label'': ''CSV'', ''value'': ''csv''}'
-      - '{''id'': 3, ''label'': ''Image'', ''value'': ''image''}'
+      - PDF
+      - CSV
+      - Image
       required: false
     - id: 18
       name: uploaded_by_name
@@ -149,8 +149,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
-      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      - John
+      - Jane
       required: false
     - id: 20
       name: uploaded_user_email
@@ -188,11 +188,11 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: uploaded_user
-      label: Upload User
+      name: uploaded_user_2
+      label: Uploaded User 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
-      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      - John
+      - Jane
       required: false

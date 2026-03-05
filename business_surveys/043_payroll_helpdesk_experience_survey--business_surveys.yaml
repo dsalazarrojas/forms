@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Good''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Bad''}'
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
       required: false
     - id: 6
       name: email_support
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: phone_support
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: issue_description

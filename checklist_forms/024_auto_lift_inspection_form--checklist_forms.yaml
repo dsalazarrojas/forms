@@ -1,142 +1,131 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Auto Lift Inspection Form
     pages:
-      - id: 1
-        name: lift_id_header
-        label: -- Lift Identification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: lift_id_number
-        label: Lift ID Number
-        hint: Internal tracking or serial number
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: lift_manufacturer
-        label: Lift Manufacturer
-        hint: e.g. Rotary, BendPak
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: lift_model
-        label: Lift Model
-        hint: e.g. 2-Post, 4-Post
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: safety_checklist_header
-        label: -- Safety Checklist --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: controls_functioning
-        label: Controls Functioning
-        hint: Are up, down, and stop buttons working?
-        type: select_one
-        options:
-          - Pass
-          - Fail
-        required: true
-      - id: 7
-        name: synchronization_working
-        label: Synchronization Working
-        hint: Are the posts rising and falling evenly?
-        type: select_one
-        options:
-          - Pass
-          - Fail
-        required: true
-      - id: 8
-        name: structural_integrity
-        label: Structural Integrity Visual
-        hint: Any visible cracks, bends, or damage?
-        type: select_one
-        options:
-          - Pass
-          - Fail
-        required: true
-      - id: 9
-        name: lift_arms_locks
-        label: Lift Arms and Locks Secure
-        hint: Do the locks engage properly?
-        type: select_one
-        options:
-          - Pass
-          - Fail
-        required: true
-      - id: 10
-        name: hydraulic_leaks
-        label: Hydraulic Leaks Present
-        hint: Check cylinders and lines
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 11
-        name: electrical_wiring
-        label: Electrical Wiring Condition
-        hint: Check for frays or exposed wires
-        type: select_one
-        options:
-          - Good
-          - Frayed or Damaged
-        required: true
-      - id: 12
-        name: final_approval_header
-        label: -- Final Approval --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: inspector_name
-        label: Inspector Name
-        hint: Full name of the inspecting mechanic
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: inspection_date
-        label: Inspection Date
-        hint: Date of this safety check
-        type: date
-        options: []
-        required: true
-      - id: 15
-        name: safe_to_operate
-        label: Safe to Operate
-        hint: Overall safety determination
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 16
-        name: maintenance_notes
-        label: Maintenance Notes
-        hint: Record any issues or required repairs
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: lift_id_header
+      label: -- Lift Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lift_id_number
+      label: Lift ID Number
+      hint: Internal tracking or serial number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lift_manufacturer
+      label: Lift Manufacturer
+      hint: e.g. Rotary, BendPak
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lift_model
+      label: Lift Model
+      hint: e.g. 2-Post, 4-Post
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: safety_checklist_header
+      label: -- Safety Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: controls_functioning
+      label: Controls Functioning
+      hint: Are up, down, and stop buttons working?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 7
+      name: synchronization_working
+      label: Synchronization Working
+      hint: Are the posts rising and falling evenly?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 8
+      name: structural_integrity
+      label: Structural Integrity Visual
+      hint: Any visible cracks, bends, or damage?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 9
+      name: lift_arms_locks
+      label: Lift Arms and Locks Secure
+      hint: Do the locks engage properly?
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: true
+    - id: 10
+      name: hydraulic_leaks
+      label: Hydraulic Leaks Present
+      hint: Check cylinders and lines
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: electrical_wiring
+      label: Electrical Wiring Condition
+      hint: Check for frays or exposed wires
+      type: select_one
+      options:
+      - Good
+      - Frayed or Damaged
+      required: true
+    - id: 12
+      name: final_approval_header
+      label: -- Final Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of the inspecting mechanic
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of this safety check
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: safe_to_operate
+      label: Safe to Operate
+      hint: Overall safety determination
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: maintenance_notes
+      label: Maintenance Notes
+      hint: Record any issues or required repairs
+      type: text
+      options: []
+      required: false

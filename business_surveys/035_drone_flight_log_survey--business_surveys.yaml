@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 8, ''label'': ''clear_sky''}'
-      - '{''id'': 9, ''label'': ''partly_cloudy''}'
-      - '{''id'': 10, ''label'': ''cloudy''}'
-      - '{''id'': 11, ''label'': ''windy''}'
-      - '{''id'': 12, ''label'': ''raining''}'
+      - clear sky
+      - partly cloudy
+      - cloudy
+      - windy
+      - raining
       required: true
     - id: 7
       name: incident_report
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 15, ''label'': False}'
-      - '{''id'': 16, ''label'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 9
       name: pilot_notes

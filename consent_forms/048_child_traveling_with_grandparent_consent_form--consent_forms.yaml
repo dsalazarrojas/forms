@@ -1,118 +1,105 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Traveling With Grandparent Consent Form
     pages:
-      - id: 1
-        name: section_child_info
-        label: -- Child Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: child_name
-        label: Child Full Name
-        hint: Student traveling
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: child_dob
-        label: Date of Birth
-        hint: Select child birthday
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: section_grandparent_info
-        label: -- Grandparent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: grandparent_name
-        label: Grandparent Full Name or Names
-        hint: Accompanying adults
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: grandparent_contact
-        label: Grandparent Address and Phone
-        hint: Contact info during travel
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: section_travel_period
-        label: -- Travel Period --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: start_date
-        label: Start Date of Travel
-        hint: Beginning of trip
-        type: date
-        options: []
-        required: true
-      - id: 9
-        name: end_date
-        label: End Date of Travel
-        hint: Conclusion of trip
-        type: date
-        options: []
-        required: true
-      - id: 10
-        name: destination_text
-        label: General Destinations
-        hint: List major cities or regions
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: section_auth_statement
-        label: -- Authorization Statement --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: grandparent_travel_auth
-        label: I authorize my child to travel with their grandparents
-        hint: Direct legal authorization
-        type: select_one
-        options:
-          - label: Yes - Authorization Granted
-            value: yes
-          - label: No - Stay Home
-            value: no
-        required: true
-      - id: 13
-        name: signature_type
-        label: Electronic Signature - Type Full Name
-        hint: Parent or legal guardian signature
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: signature_date
-        label: Date of Signing
-        hint: Today date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_child_info
+      label: -- Child Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: child_name
+      label: Child Full Name
+      hint: Student traveling
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_dob
+      label: Date of Birth
+      hint: Select child birthday
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_grandparent_info
+      label: -- Grandparent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: grandparent_name
+      label: Grandparent Full Name or Names
+      hint: Accompanying adults
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: grandparent_contact
+      label: Grandparent Address and Phone
+      hint: Contact info during travel
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_travel_period
+      label: -- Travel Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Start Date of Travel
+      hint: Beginning of trip
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date of Travel
+      hint: Conclusion of trip
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: destination_text
+      label: General Destinations
+      hint: List major cities or regions
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_auth_statement
+      label: -- Authorization Statement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: grandparent_travel_auth
+      label: I authorize my child to travel with their grandparents
+      hint: Direct legal authorization
+      type: select_one
+      options:
+      - Yes - Authorization Granted
+      - No - Stay Home
+      required: true
+    - id: 13
+      name: signature_type
+      label: Electronic Signature - Type Full Name
+      hint: Parent or legal guardian signature
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signature_date
+      label: Date of Signing
+      hint: Today date
+      type: date
+      options: []
+      required: true

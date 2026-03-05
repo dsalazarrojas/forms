@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -23,172 +12,47 @@ inputSchema:
       required: false
     - id: 2
       name: rent_affordability_questions
-      label: Rent Affordability Questions
+      label: Rent Affordability
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - Highly Affordable
+      - Somewhat Affordable
+      - Not Very Affordable
       required: true
     - id: 3
-      name: rent_affordability_questions_2
-      label: Additional Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: financial_comfort_questions
-      label: Financial Comfort Questions
+      name: financial_comfort
+      label: Financial Comfort
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
-    - id: 5
-      name: tenant_satisfaction_questions
-      label: Tenant Satisfaction Questions
+    - id: 4
+      name: tenant_satisfaction
+      label: Tenant Satisfaction
       hint: null
       type: date
       options: []
       required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 6
-      name: comments_questions_1
-      label: Comments
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: financial_comfort_question_2
-      label: Additional Financial Comfort Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: comments_questions_2
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: comments_questions_3
-      label: Other Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: comments_questions_4
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: comments_questions_5
-      label: Other Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: comments_questions_6
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: comments_questions_7
-      label: Other Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: comments_questions_8
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: tenant_contact_info
-      label: Tenant Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: landlord_contact_info
+      name: landlord_contact
       label: Landlord Contact Info
       hint: null
       type: text
       options: []
       required: false
-    - id: 17
+    - id: 7
       name: property_info
       label: Property Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: comments_questions_9
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: comments_questions_10
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments_questions_11
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: comments_questions_12
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: comments_questions_13
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: comments_questions_14
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: comments_questions_15
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: comments_questions_16
-      label: Comments
       hint: null
       type: text
       options: []

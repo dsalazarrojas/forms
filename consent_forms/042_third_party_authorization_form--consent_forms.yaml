@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 8
       name: entity_name
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Individual''}'
-      - '{''id'': 2, ''name'': ''Organization''}'
+      - Individual
+      - Organization
       required: false
     - id: 10
       name: relationship
@@ -105,8 +105,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''First Signer''}'
-      - '{''id'': 2, ''name'': ''Second Signer''}'
+      - First Signer
+      - Second Signer
       required: false
     - id: 15
       name: signed_by_title
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Individual''}'
-      - '{''id'': 2, ''name'': ''Organization''}'
+      - Individual
+      - Organization
       required: false
     - id: 25
       name: signers_entity_address

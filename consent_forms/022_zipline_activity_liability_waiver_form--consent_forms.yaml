@@ -37,8 +37,8 @@ inputSchema:
       hint: Check if participant has read and accepted the waiver
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: activity_type
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Activity'', ''value'': ''activity''}'
-      - '{''label'': ''Tour'', ''value'': ''tour''}'
+      - Activity
+      - Tour
       required: false
     - id: 7
       name: waiver_version
@@ -55,6 +55,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''V1'', ''value'': ''v1''}'
-      - '{''label'': ''V2'', ''value'': ''v2''}'
+      - V1
+      - V2
       required: false

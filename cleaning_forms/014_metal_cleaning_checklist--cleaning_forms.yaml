@@ -86,8 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 13
       name: metal_area_without_paint
@@ -95,9 +96,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 14
       name: metal_area_with_coating
@@ -105,8 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 15
       name: metal_area_without_coating
@@ -114,26 +116,27 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 16
-      name: notes
-      label: Notes
+      name: notes_2
+      label: Notes 2
       hint: null
       type: note
       options: []
       required: false
     - id: 17
-      name: metal_surface_condition
-      label: Metal Surface Condition
+      name: metal_surface_condition_2
+      label: Metal Surface Condition 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: metal_surface_area
-      label: Metal Surface Area
+      name: metal_surface_area_2
+      label: Metal Surface Area 2
       hint: null
       type: text
       options: []
@@ -144,8 +147,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 20
       name: metal_area_without_clearing
@@ -153,8 +157,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 21
       name: metal_condition
@@ -171,22 +176,22 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: metal_condition_before_service
-      label: Metal Condition Before Service
+      name: metal_condition_before_service_2
+      label: Metal Condition Before Service 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: metal_condition_after_service
-      label: Metal Condition After Service
+      name: metal_condition_after_service_2
+      label: Metal Condition After Service 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: metal_cleaning_checklist
-      label: Metal Cleaning Checklist
+      name: metal_cleaning_checklist_2
+      label: Metal Cleaning Checklist 2
       hint: null
       type: text
       options: []

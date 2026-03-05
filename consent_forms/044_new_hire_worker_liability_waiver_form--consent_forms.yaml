@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''I have read and agree to the terms and conditions''}'
-      - '{''value'': ''I have not read and do not agree to the terms and conditions''}'
+      - I have read and agree to the terms and conditions
+      - I have not read and do not agree to the terms and conditions
       required: false
     - id: 3
       name: employer_liability
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Self-Inflicted''}'
-      - '{''value'': ''Others''}'
+      - Self-Inflicted
+      - Others
       required: false
     - id: 5
       name: waiver
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Signature''}'
-      - '{''value'': ''No Signature''}'
+      - Signature
+      - No Signature
       required: false
     - id: 11
       name: acknowledgement
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''I understand the terms and conditions''}'
-      - '{''value'': ''I do not understand the terms and conditions''}'
+      - I understand the terms and conditions
+      - I do not understand the terms and conditions
       required: false
     - id: 12
       name: employee_name

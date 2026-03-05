@@ -44,10 +44,10 @@ inputSchema:
       hint: Which year is this for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 7
       name: inspection_type
@@ -332,8 +332,8 @@ inputSchema:
       hint: Is follow-up needed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Pending Review
       required: true
     - id: 38

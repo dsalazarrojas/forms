@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Strongly Disagree'', ''value'': ''strongly_disagree''}'
-      - '{''id'': 5, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      - Unsure
+      - Not Applicable
       required: false
     - id: 3
       name: leadership_potential
@@ -36,11 +36,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Leadership'', ''value'': ''leadership''}'
-      - '{''id'': 2, ''label'': ''Communication'', ''value'': ''communication''}'
-      - '{''id'': 3, ''label'': ''Collaboration'', ''value'': ''collaboration''}'
-      - '{''id'': 4, ''label'': ''Problem Solving'', ''value'': ''problem_solving''}'
-      - '{''id'': 5, ''label'': ''Adaptability'', ''value'': ''adaptability''}'
+      - Leadership
+      - Communication
+      - Collaboration
+      - Problem Solving
+      - Adaptability
       required: false
     - id: 5
       name: feedback
@@ -55,12 +55,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Strongly Disagree'', ''value'': ''strongly_disagree''}'
-      - '{''id'': 5, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      - Unsure
+      - Not Applicable
       required: false
     - id: 7
       name: coaching
@@ -89,12 +89,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Unsure
+      - Neutral
+      - Not Applicable
       required: false
     - id: 11
       name: weaknesses
@@ -102,12 +102,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Unsure
+      - Neutral
+      - Not Applicable
       required: false
     - id: 12
       name: development_needs_2
@@ -115,12 +115,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Unsure
+      - Neutral
+      - Not Applicable
       required: false
     - id: 13
       name: strengths_2
@@ -128,12 +128,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Unsure
+      - Neutral
+      - Not Applicable
       required: false
     - id: 14
       name: coaching_2
@@ -155,12 +155,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Strongly Disagree'', ''value'': ''strongly_disagree''}'
-      - '{''id'': 5, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      - Unsure
+      - Not Applicable
       required: false
     - id: 17
       name: coaching_3
@@ -182,12 +182,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Unsure
+      - Neutral
+      - Not Applicable
       required: false
     - id: 20
       name: weaknesses_2
@@ -195,12 +195,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Unsure
+      - Neutral
+      - Not Applicable
       required: false
     - id: 21
       name: development_needs_4
@@ -208,12 +208,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 5, ''label'': ''Neutral'', ''value'': ''neutral''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Unsure
+      - Neutral
+      - Not Applicable
       required: false
     - id: 22
       name: coaching_4
@@ -235,12 +235,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strongly Agree'', ''value'': ''strongly_agree''}'
-      - '{''id'': 2, ''label'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 3, ''label'': ''Disagree'', ''value'': ''disagree''}'
-      - '{''id'': 4, ''label'': ''Strongly Disagree'', ''value'': ''strongly_disagree''}'
-      - '{''id'': 5, ''label'': ''Unsure'', ''value'': ''unsure''}'
-      - '{''id'': 6, ''label'': ''Not Applicable'', ''value'': ''not_applicable''}'
+      - Strongly Agree
+      - Agree
+      - Disagree
+      - Strongly Disagree
+      - Unsure
+      - Not Applicable
       required: false
     - id: 25
       name: coaching_5

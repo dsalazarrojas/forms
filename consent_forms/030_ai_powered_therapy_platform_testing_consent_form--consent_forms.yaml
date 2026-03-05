@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: participant_info_header
-      label: --- Participant and Testing Information ---
+      label: '--- Participant and Testing Information ---'
       hint: Basic identification for the clinical testing program.
       type: note
       options: []
@@ -51,30 +40,34 @@ inputSchema:
       required: true
     - id: 6
       name: platform_disclosure_note
-      label: "--- Disclosure: Nature of the AI Therapy Platform ---"
+      label: '--- Disclosure: Nature of the AI Therapy Platform ---'
       hint: null
       type: note
       options: []
       required: false
     - id: 7
       name: crisis_disclaimer
-      label: "MANDATORY: Crisis Intervention Disclaimer"
+      label: 'MANDATORY: Crisis Intervention Disclaimer'
       hint: null
       type: select_one
       options:
-      - label: I understand that this AI platform is for research/testing purposes only and is NOT a crisis intervention or emergency medical service. If I am in immediate danger, I will call emergency services (e.g., 911).
-        value: acknowledged
+      - I understand that this AI platform is for research/testing purposes only and
+        is NOT a crisis intervention or emergency medical service. If I am in immediate
+        danger, I will call emergency services (e.g., 911).
+      - Other
       required: true
     - id: 8
       name: ai_limitations_note
       label: Understanding AI Limitations
-      hint: I understand that the platform utilizes Large Language Models which may occasionally generate incorrect, biased, or inappropriate responses. This is an experimental tool and not a substitute for human professional judgment.
+      hint: I understand that the platform utilizes Large Language Models which may
+        occasionally generate incorrect, biased, or inappropriate responses. This
+        is an experimental tool and not a substitute for human professional judgment.
       type: note
       options: []
       required: false
     - id: 9
       name: data_collection_consent_header
-      label: --- Data Collection and Privacy ---
+      label: '--- Data Collection and Privacy ---'
       hint: null
       type: note
       options: []
@@ -82,24 +75,22 @@ inputSchema:
     - id: 10
       name: recording_consent
       label: Consent to Session Recording
-      hint: Do you consent to the recording and storage of your interactions (text/audio) with the AI platform for analysis?
+      hint: Do you consent to the recording and storage of your interactions (text/audio)
+        with the AI platform for analysis?
       type: select_one
       options:
-      - label: Yes, I consent to recording
-        value: yes
-      - label: No, I do not consent (Will exclude you from the study)
-        value: no
+      - Yes, I consent to recording
+      - No, I do not consent (Will exclude you from the study)
       required: true
     - id: 11
       name: training_data_usage
       label: Usage of Data for Model Improvement
-      hint: Do you consent to your anonymized data being used to train and improve future versions of the AI model?
+      hint: Do you consent to your anonymized data being used to train and improve
+        future versions of the AI model?
       type: select_one
       options:
-      - label: Yes, I consent to anonymized training usage
-        value: yes
-      - label: No, only use my data for this specific study
-        value: no
+      - Yes, I consent to anonymized training usage
+      - No, only use my data for this specific study
       required: true
     - id: 12
       name: emergency_contact_info
@@ -111,11 +102,12 @@ inputSchema:
     - id: 13
       name: right_to_withdraw
       label: Right to Withdraw
-      hint: I understand that I can stop using the platform and withdraw my consent at any time without penalty.
+      hint: I understand that I can stop using the platform and withdraw my consent
+        at any time without penalty.
       type: select_one
       options:
-      - label: I understand
-        value: understood
+      - I understand
+      - Other
       required: true
     - id: 14
       name: signature_acknowledgment
@@ -123,8 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I have read this form and voluntarily agree to participate in the platform testing.
-        value: signed
+      - I have read this form and voluntarily agree to participate in the platform
+        testing.
+      - Other
       required: true
     - id: 15
       name: date_of_consent
@@ -139,16 +132,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Mobile Smartphone App
-        value: mobile_app
-      - label: Web Browser (Desktop/Laptop)
-        value: web_browser
-      - label: VR / AR Headset
-        value: vr_headset
+      - Mobile Smartphone App
+      - Web Browser (Desktop/Laptop)
+      - VR / AR Headset
       required: true
     - id: 17
       name: researcher_notes_internal
-      label: "Internal Use: Participant ID / Group"
+      label: 'Internal Use: Participant ID / Group'
       hint: null
       type: text
       options: []

@@ -1,128 +1,133 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Trial Consent Form
     pages:
-      - id: 1
-        name: participant_name
-        label: Participant Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: study_title
-        label: Clinical Study Title
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: lead_researcher
-        label: Lead Researcher Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: section_acknowledgements
-        label: -- Consent Acknowledgements --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: read_understand_ack
-        label: I have read and understood the study information sheet
-        hint: null
-        type: select_one
-        options: [Yes, I confirm]
-        required: true
-      - id: 6
-        name: opportunity_to_ask_questions
-        label: I have had the opportunity to ask questions about the study
-        hint: null
-        type: select_one
-        options: [Yes, I confirm]
-        required: true
-      - id: 7
-        name: voluntary_participation_ack
-        label: I understand that my participation is voluntary
-        hint: null
-        type: select_one
-        options: [Yes, I confirm]
-        required: true
-      - id: 8
-        name: data_confidentiality_ack
-        label: I understand that my data will be kept confidential and anonymized
-        hint: null
-        type: select_one
-        options: [Yes, I confirm]
-        required: true
-      - id: 9
-        name: risks_benefits_ack
-        label: I understand the potential risks and benefits of the study
-        hint: null
-        type: select_one
-        options: [Yes, I confirm]
-        required: true
-      - id: 10
-        name: section_samples
-        label: -- Biological Samples --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: sample_collection_consent
-        label: I consent to the collection of blood samples as described
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 12
-        name: sample_storage_consent
-        label: I consent to the storage of my samples for future research
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 13
-        name: section_communication
-        label: -- Communication --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: result_summary_request
-        label: I wish to receive a summary of the study results when completed
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 15
-        name: consent_date
-        label: Date of Consent
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 16
-        name: participant_signature
-        label: Participant Digital Signature
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: study_title
+      label: Clinical Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lead_researcher
+      label: Lead Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_acknowledgements
+      label: -- Consent Acknowledgements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: read_understand_ack
+      label: I have read and understood the study information sheet
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I confirm
+      required: true
+    - id: 6
+      name: opportunity_to_ask_questions
+      label: I have had the opportunity to ask questions about the study
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I confirm
+      required: true
+    - id: 7
+      name: voluntary_participation_ack
+      label: I understand that my participation is voluntary
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I confirm
+      required: true
+    - id: 8
+      name: data_confidentiality_ack
+      label: I understand that my data will be kept confidential and anonymized
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I confirm
+      required: true
+    - id: 9
+      name: risks_benefits_ack
+      label: I understand the potential risks and benefits of the study
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I confirm
+      required: true
+    - id: 10
+      name: section_samples
+      label: -- Biological Samples --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: sample_collection_consent
+      label: I consent to the collection of blood samples as described
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: sample_storage_consent
+      label: I consent to the storage of my samples for future research
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: section_communication
+      label: -- Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: result_summary_request
+      label: I wish to receive a summary of the study results when completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: consent_date
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: participant_signature
+      label: Participant Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

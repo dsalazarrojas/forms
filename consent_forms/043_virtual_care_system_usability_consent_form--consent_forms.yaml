@@ -16,425 +16,177 @@ inputSchema:
     pages:
     - id: 1
       name: user_info
-      label: user_info
+      label: User Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: user_consent
-      label: user_consent
-      hint: I have reviewed and understand this Virtual Care System Usability Consent
+      label: User Consent
+      hint: null
+      type: checkbox
+      options:
+      - I have reviewed and understand this Virtual Care System Usability Consent
         Form
-      type: text
-      options: []
+      - I have not reviewed and do not understand this Virtual Care System Usability
+        Consent Form
       required: false
     - id: 3
       name: patient_info
-      label: patient_info
+      label: Patient Information
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: patient_consent
-      label: patient_consent
-      hint: I have reviewed and understand this Virtual Care System Usability Consent
+      label: Patient Consent
+      hint: null
+      type: checkbox
+      options:
+      - I have reviewed and understand this Virtual Care System Usability Consent
         Form for my patient
-      type: text
-      options: []
+      - I have not reviewed and do not understand this Virtual Care System Usability
+        Consent Form for my patient
       required: false
     - id: 5
       name: provider_info
-      label: provider_info
+      label: Provider Information
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: provider_consent
-      label: provider_consent
-      hint: I have reviewed and understand this Virtual Care System Usability Consent
+      label: Provider Consent
+      hint: null
+      type: checkbox
+      options:
+      - I have reviewed and understand this Virtual Care System Usability Consent
         Form for this patient
-      type: text
-      options: []
+      - I have not reviewed and do not understand this Virtual Care System Usability
+        Consent Form for this patient
       required: false
     - id: 7
       name: telehealth_services
-      label: telehealth_services
-      hint: I have reviewed and understand this Virtual Care System Usability Consent
-        Form for telehealth services
-      type: text
-      options: []
+      label: Telehealth Services
+      hint: null
+      type: select_one
+      options:
+      - Telehealth services (e.g., phone, video, messaging)
+      - No telehealth services
       required: false
     - id: 8
-      name: patient_data
-      label: patient_data
+      name: telehealth_consent
+      label: Telehealth Consent
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - I consent to telehealth services
+      - I do not consent to telehealth services
       required: false
     - id: 9
       name: electronic_health_records
-      label: electronic_health_records
+      label: Electronic Health Records
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Electronic health records (e.g., EHRs, PHRs)
+      - No electronic health records
       required: false
     - id: 10
-      name: payment_info
-      label: payment_info
+      name: electronic_health_records_consent
+      label: Electronic Health Records Consent
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - I consent to electronic health records
+      - I do not consent to electronic health records
       required: false
     - id: 11
-      name: payment_terms
-      label: payment_terms
+      name: payment_info
+      label: Payment Information
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: provider_info
-      label: provider_info
+      name: payment_consent
+      label: Payment Consent
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - I have reviewed and understand this Virtual Care System Usability Consent
+        Form for payment
+      - I have not reviewed and do not understand this Virtual Care System Usability
+        Consent Form for payment
       required: false
     - id: 13
-      name: provider_consent_terms
-      label: provider_consent_terms
-      hint: Please review the provider consent terms carefully
-      type: text
-      options: []
+      name: data_sharing
+      label: Data Sharing
+      hint: null
+      type: select_multiple
+      options:
+      - Insurance companies
+      - Researchers
+      - Other (Please specify)
       required: false
     - id: 14
-      name: patient_data_terms
-      label: patient_data_terms
-      hint: Please review the patient data terms carefully
-      type: text
-      options: []
+      name: data_sharing_consent
+      label: Data Sharing Consent
+      hint: null
+      type: checkbox
+      options:
+      - I consent to data sharing
+      - I do not consent to data sharing
       required: false
     - id: 15
-      name: payment_terms
-      label: payment_terms
-      hint: Please review the payment terms carefully
+      name: data_retention
+      label: Data Retention
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: user_agreement
-      label: user_agreement
-      hint: I have reviewed and agree to the user agreement
-      type: text
-      options: []
+      name: security_and_privacy
+      label: Security and Privacy
+      hint: null
+      type: checkbox
+      options:
+      - I have reviewed and understand the security and privacy policies
+      - I have not reviewed and do not understand the security and privacy policies
       required: false
     - id: 17
-      name: payment_agreement
-      label: payment_agreement
-      hint: I have reviewed and agree to the payment agreement
-      type: text
-      options: []
+      name: data_access
+      label: Data Access
+      hint: null
+      type: select_multiple
+      options:
+      - Patient data access rights
+      - Provider data access rights
+      - System updates
       required: false
     - id: 18
-      name: data_sharing_agreement
-      label: data_sharing_agreement
-      hint: I have reviewed and agree to the data sharing agreement
-      type: text
-      options: []
+      name: data_access_consent
+      label: Data Access Consent
+      hint: null
+      type: checkbox
+      options:
+      - I have reviewed and understand data access
+      - I have not reviewed and do not understand data access
       required: false
     - id: 19
-      name: security_and_privacy
-      label: security_and_privacy
-      hint: I understand the security and privacy policies
+      name: technical_issues
+      label: Technical Issues
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 20
-      name: data_retention
-      label: data_retention
-      hint: I understand the data retention policy
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: patient_access
-      label: patient_access
-      hint: I have reviewed and understand patient access rights
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: data_access
-      label: data_access
-      hint: I have reviewed and understand data access
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: provider_access
-      label: provider_access
-      hint: I have reviewed and understand provider access
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: system_update
-      label: system_update
-      hint: I have reviewed and understand system updates
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: technical_issues
-      label: technical_issues
+      name: technical_issues_2
+      label: Technical Issues 2
       hint: null
       type: text
       options: []
-      required: false
-    - id: 27
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: review
-      label: review
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: technical_issues
-      label: technical_issues
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: technical_issues
-      label: technical_issues
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: technical_issues
-      label: technical_issues
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter any technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact support
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support
-      type: text
-      options: []
-      required: false
-    - id: 51
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support
-      type: text
-      options: []
-      required: false
-    - id: 52
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
-    - id: 53
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
-    - id: 54
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
-    - id: 55
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
-    - id: 56
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
-    - id: 57
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
-    - id: 58
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
-    - id: 59
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
-    - id: 60
-      name: technical_issues
-      label: technical_issues
-      hint: If you encounter technical issues, please contact our support team
-      type: text
-      options: []
-      required: false
+      required: true

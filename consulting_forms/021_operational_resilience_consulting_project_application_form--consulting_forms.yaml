@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Project Management Office''}'
-      - '{''id'': 2, ''label'': ''Business Development''}'
-      - '{''id'': 3, ''label'': ''Consulting''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Project Management Office
+      - Business Development
+      - Consulting
+      - Other
       required: false
     - id: 3
       name: client_type
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Individual''}'
-      - '{''id'': 2, ''label'': ''Business''}'
-      - '{''id'': 3, ''label'': ''Organization''}'
+      - Individual
+      - Business
+      - Organization
       required: false
     - id: 4
       name: name

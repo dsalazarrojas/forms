@@ -118,7 +118,7 @@ inputSchema:
       hint: Are you pregnant or nursing?
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, Pregnant
       - Yes, Nursing
       required: true
@@ -128,8 +128,8 @@ inputSchema:
       hint: Do you have any blood disorders?
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 17
       name: skin_conditions
@@ -137,8 +137,8 @@ inputSchema:
       hint: Any skin conditions in treatment area?
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 18
       name: recent_surgeries
@@ -146,8 +146,8 @@ inputSchema:
       hint: Any surgeries in last 6 months?
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 19
       name: procedure_explained
@@ -158,7 +158,7 @@ inputSchema:
       - Yes, Completely
       - Mostly
       - Somewhat
-      - false
+      - 'False'
       required: true
     - id: 20
       name: risks_understood
@@ -166,8 +166,8 @@ inputSchema:
       hint: Do you understand the risks?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: potential_side_effects
@@ -188,8 +188,8 @@ inputSchema:
       hint: Have alternatives been discussed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: questions_answered
@@ -197,8 +197,8 @@ inputSchema:
       hint: Have all your questions been answered?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: voluntary_consent
@@ -207,7 +207,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Understand
-      - false
+      - 'False'
       required: true
     - id: 25
       name: client_signature

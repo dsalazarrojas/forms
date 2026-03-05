@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Mild''}'
-      - '{''value'': ''Moderate''}'
-      - '{''value'': ''Severe''}'
+      - Mild
+      - Moderate
+      - Severe
       required: true
     - id: 3
       name: runny_nose
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''Slight''}'
-      - '{''value'': ''Moderate''}'
-      - '{''value'': ''Severe''}'
+      - None
+      - Slight
+      - Moderate
+      - Severe
       required: true
     - id: 4
       name: sore_throat
@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 5
       name: shortness_of_breath
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 6
       name: fatigue
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 7
       name: headache
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 8
       name: muscle_pain
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 9
       name: diarrohea
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 10
       name: abdominal_pain
@@ -91,8 +91,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 11
       name: confusion
@@ -100,8 +100,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 12
       name: other_symptoms
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 18
       name: vaccination_status
@@ -153,9 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Not vaccinated''}'
-      - '{''value'': ''Partially vaccinated''}'
-      - '{''value'': ''Fully vaccinated''}'
+      - Not vaccinated
+      - Partially vaccinated
+      - Fully vaccinated
       required: false
     - id: 19
       name: test_result
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Negative''}'
-      - '{''value'': ''Positive''}'
-      - '{''value'': ''Inconclusive''}'
+      - Negative
+      - Positive
+      - Inconclusive
       required: false
     - id: 20
       name: test_result_date

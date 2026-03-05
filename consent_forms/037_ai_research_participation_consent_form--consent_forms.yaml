@@ -92,8 +92,7 @@ inputSchema:
         progress.
       type: select_one
       options:
-      - label: I understand and acknowledge
-        value: acknowledged
+      - I understand and acknowledge
       - Other
       required: true
     - id: 13
@@ -102,10 +101,8 @@ inputSchema:
       hint: Do you voluntarily agree to participate in this study?
       type: select_one
       options:
-      - label: Yes, I consent to participate
-        value: true
-      - label: No, I do not consent
-        value: false
+      - Yes, I consent to participate
+      - No, I do not consent
       required: true
     - id: 14
       name: data_sharing_consent
@@ -114,10 +111,8 @@ inputSchema:
         and shared in open research repositories?
       type: select_one
       options:
-      - label: Yes, I consent to anonymized data sharing
-        value: true
-      - label: No, only use my data for this specific study
-        value: false
+      - Yes, I consent to anonymized data sharing
+      - No, only use my data for this specific study
       required: true
     - id: 15
       name: recording_consent
@@ -125,12 +120,9 @@ inputSchema:
       hint: Does the study have permission to record your session for later analysis?
       type: select_one
       options:
-      - label: Yes, I consent to being recorded
-        value: true
-      - label: No, I do not consent to recording
-        value: false
-      - label: Not applicable for this study
-        value: na
+      - Yes, I consent to being recorded
+      - No, I do not consent to recording
+      - Not applicable for this study
       required: true
     - id: 16
       name: withdrawal_rights_ack
@@ -138,9 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I understand I can stop participating at any time without penalty or
-          loss of compensation.
-        value: understood
+      - I understand I can stop participating at any time without penalty or loss
+        of compensation.
       - Other
       required: true
     - id: 17
@@ -149,8 +140,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: I sign and confirm my agreement to the terms above.
-        value: signed
+      - I sign and confirm my agreement to the terms above.
       - Other
       required: true
     - id: 18

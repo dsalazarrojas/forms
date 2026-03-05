@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 3
       name: cleaning_schedule
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Afternoon''}'
-      - '{''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 4
       name: cleaned_by
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employee1''}'
-      - '{''label'': ''Employee2''}'
-      - '{''label'': ''Employee3''}'
+      - Employee1
+      - Employee2
+      - Employee3
       required: false
     - id: 5
       name: cleaning_verification_details
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Verified''}'
-      - '{''label'': ''Not Verified''}'
+      - Verified
+      - Not Verified
       required: false
     - id: 10
       name: comments

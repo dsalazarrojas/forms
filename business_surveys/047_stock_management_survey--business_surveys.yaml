@@ -4,29 +4,28 @@ inputSchema:
     title: stock_management_survey
     pages:
     - id: 1
-      name: stock_management_survey_page
-      label: stock_management_survey_page
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: inventory_practices
-      label: inventory_practices
+      name: page_1
+      label: What is the current stock level of our inventory?
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: stock_handling_efficiency
-      label: stock_handling_efficiency
+    - id: 2
+      name: page_2
+      label: How often do we order stock from suppliers?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
       required: false
-    - id: 4
-      name: stock_levels
-      label: stock_levels
+    - id: 3
+      name: page_3
+      label: What is your level of satisfaction with our current stock management
+        practices?
       hint: null
       type: select_one
       options:
@@ -34,167 +33,76 @@ inputSchema:
       - Medium
       - Low
       required: false
+    - id: 4
+      name: page_4
+      label: How often do we rotate stock to ensure freshness?
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 5
-      name: inventory_turnover
-      label: inventory_turnover
+      name: page_5
+      label: What is your level of control over stock purchases?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: page_6
+      label: How often do we need to return stock to suppliers?
       hint: null
       type: time
       options: []
       required: false
-    - id: 6
-      name: stock_ordering
-      label: stock_ordering
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 7
-      name: stock_purchasing
-      label: stock_purchasing
-      hint: null
-      type: select_multiple
-      options:
-      - Regular
-      - Irregular
-      - As Needed
-      required: false
-    - id: 8
-      name: stock_inventory_management
-      label: stock_inventory_management
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: stock_management_system
-      label: stock_management_system
+      name: page_7
+      label: What methods do we use to purchase stock?
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
+      - Regular
+      - Irregular
       required: false
-    - id: 10
-      name: business_practices
-      label: business_practices
+    - id: 8
+      name: page_8
+      label: What is the current stock return policy?
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: stock_control
-      label: stock_control
+    - id: 9
+      name: page_9
+      label: How often do we purchase stock?
       hint: null
-      type: select_multiple
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: page_10
+      label: How often do we need to purchase stock?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: What is your level of satisfaction with our current stock inventory management?
+      hint: null
+      type: select_one
       options:
       - High
       - Medium
       - Low
       required: false
     - id: 12
-      name: stock_rotation
-      label: stock_rotation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: stock_parity
-      label: stock_parity
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 14
-      name: stock_turnover
-      label: stock_turnover
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: stock_purchasing_frequency
-      label: stock_purchasing_frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: stock_purchasing_method
-      label: stock_purchasing_method
+      name: page_12
+      label: How do we currently purchase stock, through regular or irregular methods?
       hint: null
       type: select_one
       options:
       - Regular
       - Irregular
-      required: false
-    - id: 17
-      name: stock_management
-      label: stock_management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: stock_control_system
-      label: stock_control_system
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 19
-      name: stock_return_policy
-      label: stock_return_policy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: stock_purchasing_cost
-      label: stock_purchasing_cost
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: stock_purchasing_frequency
-      label: stock_purchasing_frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: stock_return_frequency
-      label: stock_return_frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: stock_purchasing_method
-      label: stock_purchasing_method
-      hint: null
-      type: select_one
-      options:
-      - Regular
-      - Irregular
-      required: false
-    - id: 24
-      name: stock_return_policy
-      label: stock_return_policy
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: stock_purchasing_cost
-      label: stock_purchasing_cost
-      hint: null
-      type: number
-      options: []
       required: false

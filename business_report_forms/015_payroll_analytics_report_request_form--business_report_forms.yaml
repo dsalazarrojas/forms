@@ -23,18 +23,18 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''January''}'
-      - '{''value'': ''February''}'
-      - '{''value'': ''March''}'
-      - '{''value'': ''April''}'
-      - '{''value'': ''May''}'
-      - '{''value'': ''June''}'
-      - '{''value'': ''July''}'
-      - '{''value'': ''August''}'
-      - '{''value'': ''September''}'
-      - '{''value'': ''October''}'
-      - '{''value'': ''November''}'
-      - '{''value'': ''December''}'
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
       required: false
     - id: 4
       name: report_type
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Yearly''}'
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 5
       name: report_frequency
@@ -52,11 +52,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Quarterly''}'
-      - '{''value'': ''Yearly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 6
       name: start_date
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Employee 1''}'
-      - '{''value'': ''Employee 2''}'
-      - '{''value'': ''Employee 3''}'
+      - Employee 1
+      - Employee 2
+      - Employee 3
       required: false
     - id: 9
       name: manager_info
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''A''}'
-      - '{''value'': ''B''}'
-      - '{''value'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 15
       name: job_function

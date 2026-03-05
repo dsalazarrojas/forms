@@ -15,95 +15,83 @@ inputSchema:
     title: Regulatory Record Archival Checklist
     pages:
     - id: 1
-      name: form_header
-      label: form_header
+      name: regulatory_record_type
+      label: What type of regulatory record is being archived?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Record 1
+      - Record 2
+      - Record 3
+      required: true
     - id: 2
-      name: regulatory_body
-      label: regulatory_body
+      name: department
+      label: Which department is responsible for the record?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      required: true
     - id: 3
       name: date_of_archival
-      label: date_of_archival
+      label: What is the date of archival?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: department
-      label: department
+      name: current_location
+      label: What is the current location of the record?
       hint: null
-      type: select_one
-      options:
-      - Department 1
-      - Department 2
-      - Department 3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 5
-      name: file_upload
-      label: file_upload
+      name: reviewed_and_approved
+      label: Has the record been properly reviewed and approved?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: regulatory_body
-      label: regulatory_body
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: date_of_archival
-      label: date_of_archival
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: department
-      label: department
-      hint: null
-      type: select_one
+      type: checkbox
       options:
-      - Department 1
-      - Department 2
-      - Department 3
-      required: false
+      - Option A
+      - Option B
+      required: true
+    - id: 6
+      name: up_to_date
+      label: Is the record up-to-date and current?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 7
+      name: reason_for_archival
+      label: What is the reason for archival?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: associated_documents
+      label: Are there any associated documents or files that need to be stored with
+        the record?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 9
       name: file_upload
-      label: file_upload
+      label: File Upload
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: regulatory_body
-      label: regulatory_body
+      name: file_upload_details
+      label: File Upload Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: date_of_archival
-      label: date_of_archival
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: department
-      label: department
-      hint: null
-      type: select_one
-      options:
-      - Department 1
-      - Department 2
-      - Department 3
       required: false

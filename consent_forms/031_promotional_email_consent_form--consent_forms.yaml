@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: send_newsletter
@@ -25,8 +25,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: send_newsletter_frequency
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 5
       name: send_newsletter_list
@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''id'': 2, ''name'': ''quarterly'', ''label'': ''Quarterly''}'
+      - Monthly
+      - Quarterly
       required: true
     - id: 6
       name: send_newsletter_email
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''daily'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''monthly'', ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 19
       name: send_newsletter_frequency_value
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: send_newsletter_bcc_list
@@ -177,6 +177,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true

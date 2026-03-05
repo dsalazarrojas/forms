@@ -5,194 +5,56 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first-name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: last_name
-      label: last-name
+      name: email
+      label: What is your email address?
       hint: null
-      type: text
+      type: email
       options: []
       required: false
     - id: 3
-      name: email
-      label: email
+      name: category
+      label: What is your favorite category?
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
     - id: 4
-      name: title
-      label: title
+      name: tags
+      label: What are your favorite tags?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
       required: false
     - id: 5
-      name: description
-      label: description
+      name: date
+      label: What is your preferred date?
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 6
-      name: tags
-      label: tags
+      name: time
+      label: What time do you prefer?
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 7
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - '{''option-1'': ''Category 1''}'
-      - '{''option-2'': ''Category 2''}'
-      - '{''option-3'': ''Category 3''}'
-      required: false
-    - id: 8
-      name: tags
-      label: tags
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option-1'': ''Tag 1''}'
-      - '{''option-2'': ''Tag 2''}'
-      - '{''option-3'': ''Tag 3''}'
-      required: false
-    - id: 9
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
       name: note
-      label: note
+      label: Do you have any additional notes?
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 12
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - '{''option-1'': ''Category 1''}'
-      - '{''option-2'': ''Category 2''}'
-      - '{''option-3'': ''Category 3''}'
-      required: true
-    - id: 15
-      name: tags
-      label: tags
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option-1'': ''Tag 1''}'
-      - '{''option-2'': ''Tag 2''}'
-      - '{''option-3'': ''Tag 3''}'
-      required: false
-    - id: 16
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - '{''option-1'': ''Category 1''}'
-      - '{''option-2'': ''Category 2''}'
-      - '{''option-3'': ''Category 3''}'
-      required: true
-    - id: 21
-      name: tags
-      label: tags
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option-1'': ''Tag 1''}'
-      - '{''option-2'': ''Tag 2''}'
-      - '{''option-3'': ''Tag 3''}'
-      required: false
-    - id: 22
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: email
-      label: email
-      hint: null
-      type: email
       options: []
       required: false

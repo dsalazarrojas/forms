@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Address''}'
+      - Email
+      - Phone
+      - Address
       required: true
     - id: 3
       name: data_collection
@@ -28,9 +28,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Data Sharing'', ''hint'': ''Please select the type
-        of data you want to share''}'
-      - '{''id'': 2, ''name'': ''No Sharing''}'
+      - Data Sharing
+      - No Sharing
       required: true
     - id: 4
       name: additional_comments
@@ -66,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: confirm_signature
@@ -75,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: submit

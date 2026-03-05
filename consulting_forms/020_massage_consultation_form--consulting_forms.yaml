@@ -5,42 +5,35 @@ inputSchema:
     pages:
     - id: 1
       name: patient_name
-      label: Patient Name
+      label: 1. Patient Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contact_number
-      label: Contact Number
+      label: 2. Contact Number
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email_address
-      label: Email Address
+      label: 3. Email Address
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: consultation_date
-      label: Consultation Date
+      label: 4. Consultation Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
-      name: consultation_time
-      label: Consultation Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
       name: massage_services
-      label: Massage Services
+      label: 5. Massage Services
       hint: null
       type: select_one
       options:
@@ -48,144 +41,57 @@ inputSchema:
       - Aromatherapy
       - Swedish
       - Deep Tissue
-      - Sports
-      - Hot Stone
-      - Trigger Point
-      - Craniosacral
-      - Cupping
-      - Myofascial
-      - Ortho
-      - Polarity
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: benefits_of_massage
-      label: Benefits of Massage
+      label: 6. Benefits of Massage
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: medical_history
-      label: Medical History
+      label: 7. Medical History
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 8
+      name: massage_therapist
+      label: 8. Massage Therapist
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 9
       name: massage_frequency
-      label: Massage Frequency
+      label: 9. Massage Frequency
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 1 time
+      - 2 times a week
+      - 3 times a week
+      - 4 times a week
+      - daily
+      required: true
     - id: 10
-      name: pain_level
-      label: Pain Level
+      name: massage_therapist_2
+      label: 10. Massage Therapist
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: pain_type
-      label: Pain Type
+      name: pain_level
+      label: 11. Pain Level
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: massage_therapist
-      label: Massage Therapist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: massage_duration
-      label: Massage Duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: massage_frequency_2
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: massage_frequency_3
-      label: How often do you plan on getting massage
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: massage_frequency_4
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: massage_frequency_5
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: massage_frequency_6
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: massage_frequency_7
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: massage_frequency_8
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: massage_frequency_9
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: massage_frequency_10
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: massage_frequency_11
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: massage_frequency_12
-      label: Massage Frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: massage_frequency_13
-      label: Massage Frequency
+      name: pain_type
+      label: 12. Pain Type
       hint: null
       type: text
       options: []

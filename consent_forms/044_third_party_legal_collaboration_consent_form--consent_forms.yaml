@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Client''}'
-      - '{''value'': ''Attorney''}'
-      - '{''value'': ''Other''}'
+      - Client
+      - Attorney
+      - Other
       required: false
     - id: 3
       name: information_sharing_purpose
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''To obtain legal opinion''}'
-      - '{''value'': ''To obtain legal advice''}'
-      - '{''value'': ''To obtain information''}'
-      - '{''value'': ''Other''}'
+      - To obtain legal opinion
+      - To obtain legal advice
+      - To obtain information
+      - Other
       required: false
     - id: 4
       name: information_sharing_method
@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Mail''}'
-      - '{''value'': ''Other''}'
+      - Email
+      - Phone
+      - Mail
+      - Other
       required: false
     - id: 5
       name: information_sharing_frequency
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
-      - '{''value'': ''Other''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Other
       required: false
     - id: 6
       name: information_sharing_method_details
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Yes''}'
-      - '{''value'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 11
       name: consent_to_disclose_third_party
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Yes''}'
-      - '{''value'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 12
       name: signature

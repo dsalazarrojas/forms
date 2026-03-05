@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Trade Reporter'', ''value'': ''Trade Reporter''}'
-      - '{''id'': 2, ''name'': ''Trade Photographer'', ''value'': ''Trade Photographer''}'
-      - '{''id'': 3, ''name'': ''Guest'', ''value'': ''Guest''}'
+      - Trade Reporter
+      - Trade Photographer
+      - Guest
       required: false
     - id: 5
       name: guest_attendance
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
-      - '{''id'': 3, ''name'': ''Maybe'', ''value'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 6
       name: dietary_needs
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Breakfast'', ''value'': ''Breakfast''}'
-      - '{''id'': 2, ''name'': ''Lunch'', ''value'': ''Lunch''}'
-      - '{''id'': 3, ''name'': ''Dinner'', ''value'': ''Dinner''}'
-      - '{''id'': 4, ''name'': ''None'', ''value'': ''None''}'
+      - Breakfast
+      - Lunch
+      - Dinner
+      - None
       required: false
     - id: 7
       name: media_attendance
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: contact_info

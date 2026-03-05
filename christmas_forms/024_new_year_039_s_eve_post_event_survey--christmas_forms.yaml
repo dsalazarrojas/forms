@@ -51,9 +51,9 @@ inputSchema:
       hint: tell_us_if_you_were_attended_the_evening
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''maybe''}'
+      - 'True'
+      - 'False'
+      - maybe
       required: true
     - id: 8
       name: date_of_birth
@@ -103,12 +103,12 @@ inputSchema:
       hint: select_one_of_the_below
       type: select_one
       options:
-      - '{''label'': ''18-24''}'
-      - '{''label'': ''25-34''}'
-      - '{''label'': ''35-44''}'
-      - '{''label'': ''45-54''}'
-      - '{''label'': ''55-64''}'
-      - '{''label'': ''65+''}'
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
       required: true
     - id: 15
       name: have_children
@@ -116,8 +116,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: children_count
@@ -132,8 +132,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: partner_name
@@ -148,8 +148,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: pet_name
@@ -164,8 +164,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: attended_with_partners
@@ -173,8 +173,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: have_ticket
@@ -182,8 +182,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: ticket_price
@@ -198,8 +198,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: attended_last_year
@@ -207,6 +207,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true

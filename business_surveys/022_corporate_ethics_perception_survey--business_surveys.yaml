@@ -4,114 +4,101 @@ inputSchema:
     title: Corporate Ethics Perception Survey
     pages:
     - id: 1
-      name: general_concept
-      label: General Concept
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: reporting_incidents
-      label: reporting incidents
+      name: overall_ethics_concept
+      label: Overall ethics concept
       hint: null
       type: number
       options: []
       required: false
-    - id: 3
-      name: ethics_training
-      label: ethics training
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Unsure''}'
-      required: false
-    - id: 4
-      name: reporting_channels
-      label: reporting channels
+    - id: 2
+      name: reporting_channel
+      label: Reporting channel
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''In-person''}'
+      - Email
+      - Phone
+      - In-person
       required: false
-    - id: 5
+    - id: 3
       name: reporting_frequency
-      label: reporting frequency
+      label: Reporting frequency
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 4
+      name: behavior_when_faced_with_incident
+      label: Reporting behavior when faced with an incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reporting_via_email
+      label: Reporting via email
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 6
-      name: behavior_reporting
-      label: reporting behavior
+      name: reporting_via_phone
+      label: Reporting via phone
       hint: null
       type: number
       options: []
       required: false
     - id: 7
-      name: reporting_reporting
-      label: reporting reporting
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: reporting_reporting_channels_1
-      label: reporting channels
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''In-person''}'
-      required: false
-    - id: 9
-      name: reporting_frequency_1
-      label: reporting frequency
+      name: reporting_frequency_via_email
+      label: Reporting frequency via email
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 8
+      name: reporting_frequency_via_phone
+      label: Reporting frequency via phone
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 9
+      name: reporting_behavior
+      label: Overall reporting behavior
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 10
-      name: reporting_behavior_reporting_1
-      label: reporting behavior
+      name: behavior_faced_with_incident
+      label: Behavior Faced With Incident
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 11
-      name: reporting_reporting_1
-      label: reporting reporting
+      name: overall_reporting
+      label: Overall reporting
       hint: null
       type: note
       options: []
       required: false
     - id: 12
-      name: reporting_channels_1
-      label: reporting channels
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''In-person''}'
-      required: false
-    - id: 13
-      name: reporting_frequency_1
-      label: reporting frequency
+      name: reporting_frequency_2
+      label: Reporting Frequency 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false

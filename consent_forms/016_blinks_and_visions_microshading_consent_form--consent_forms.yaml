@@ -1,83 +1,72 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Blinks And Visions Microshading Consent Form
     pages:
-      - id: 1
-        name: consent_header
-        label: -- Consent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: client_name
-        label: Client name
-        hint: Full legal name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date_of_birth
-        label: Date of birth
-        hint: For record keeping
-        type: date
-        options: []
-        required: false
-      - id: 4
-        name: procedure_description
-        label: Procedure description
-        hint: Brief overview of microshading procedure
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: risks_and_complications_acknowledged
-        label: Risks and complications acknowledged
-        hint: Confirm client understands potential risks
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: photos_permission
-        label: Permission to take before and after photos
-        hint: For medical records and portfolio use
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 7
-        name: allergies
-        label: Known allergies
-        hint: List any allergies to topical agents
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: emergency_contact
-        label: Emergency contact
-        hint: Name and phone number
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: consent_signature_name
-        label: Consent signature name
-        hint: Type full name to provide consent
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: consent_header
+      label: -- Consent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: For record keeping
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: procedure_description
+      label: Procedure description
+      hint: Brief overview of microshading procedure
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: risks_and_complications_acknowledged
+      label: Risks and complications acknowledged
+      hint: Confirm client understands potential risks
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: photos_permission
+      label: Permission to take before and after photos
+      hint: For medical records and portfolio use
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: allergies
+      label: Known allergies
+      hint: List any allergies to topical agents
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact
+      label: Emergency contact
+      hint: Name and phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_signature_name
+      label: Consent signature name
+      hint: Type full name to provide consent
+      type: text
+      options: []
+      required: true

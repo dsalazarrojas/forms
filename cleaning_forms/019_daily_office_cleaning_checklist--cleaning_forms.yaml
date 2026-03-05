@@ -4,89 +4,8 @@ inputSchema:
     title: Daily Office Cleaning Checklist
     pages:
     - id: 1
-      name: office_cleaning_checklist
-      label: Office Cleaning Checklist
-      hint: null
-      type: select_multiple
-      options:
-      - Dust the office
-      - Vacuum the office
-      - Disinfect high-touch areas
-      required: false
-    - id: 2
       name: office_cleaning_frequency
-      label: How often do you clean the office
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 3
-      name: office_cleaning_time
-      label: How much time do you spend on office cleaning
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 4
-      name: office_cleaning_note
-      label: Additional comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: contact_office_cleaner
-      label: Contact Office Cleaner
-      hint: Enter the name and contact information of the person responsible for office
-        cleaning
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: office_cleaner_email
-      label: Office Cleaner Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: office_cleaner_phone
-      label: Office Cleaner Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: office_cleaner_name
-      label: Office Cleaner Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: office_cleaner_title
-      label: Office Cleaner Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: office_cleaner_department
-      label: Office Cleaner Department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: office_cleaner_ext
-      label: Office Cleaner Extension
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: office_cleaning_frequency_2
-      label: How often do you clean the office
+      label: How often do you clean the office?
       hint: null
       type: select_one
       options:
@@ -95,9 +14,62 @@ inputSchema:
       - Every 2 weeks
       - Monthly
       required: false
-    - id: 13
-      name: office_cleaning_frequency_2_2
-      label: How often do you clean the office
+    - id: 2
+      name: office_cleaning_tasks
+      label: Office Cleaning Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Dust the floors
+      - Vacuum the floors
+      - Disinfect the bathrooms
+      - Disinfect the kitchen
+      required: false
+    - id: 3
+      name: office_cleaner
+      label: Contact Office Cleaner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: office_cleaner_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: office_cleaner_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: office_cleaner_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: office_cleaner_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: office_cleaner_ext
+      label: Extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: office_cleaning_frequency_2
+      label: How often do you perform the office cleaning tasks?
       hint: null
       type: select_one
       options:
@@ -106,9 +78,45 @@ inputSchema:
       - Sometimes
       - Often
       required: false
+    - id: 10
+      name: assigned_tool
+      label: Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: office_cleaning_checklist
+      label: Office Cleaning Checklist
+      hint: null
+      type: select_multiple
+      options:
+      - Clean the office
+      - Clean the break room
+      - Clean the office equipment
+      - Disinfect the office
+      required: false
+    - id: 12
+      name: office_cleaning_frequency_3
+      label: Office Cleaning Frequency 3
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: false
+    - id: 13
+      name: assigned_tool_2
+      label: Assigned Tool 2
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 14
-      name: office_cleaning_frequency_2_3
-      label: How often do you clean the office
+      name: office_cleaning_frequency_4
+      label: Office Cleaning Frequency 4
       hint: null
       type: select_one
       options:
@@ -118,41 +126,12 @@ inputSchema:
       - Quarterly
       required: false
     - id: 15
-      name: office_cleaning_frequency_2_4
-      label: How often do you clean the office
+      name: office_cleaning_frequency_5
+      label: Office Cleaning Frequency 5
       hint: null
       type: select_one
       options:
       - Yearly
       - Rarely
       - Never
-      required: false
-    - id: 16
-      name: assigned_tool
-      label: Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: office_cleaning_checklist_2
-      label: Office Cleaning Checklist
-      hint: null
-      type: select_multiple
-      options:
-      - Dust the floors
-      - Vacuum the floors
-      - Disinfect the bathrooms
-      - Disinfect the kitchen
-      required: false
-    - id: 18
-      name: office_cleaning_checklist_3
-      label: Office Cleaning Checklist
-      hint: null
-      type: select_multiple
-      options:
-      - Clean the office
-      - Clean the break room
-      - Clean the office equipment
-      - Disinfect the office
       required: false

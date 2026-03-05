@@ -4,152 +4,51 @@ inputSchema:
     title: HR Consulting Quotation Form
     pages:
     - id: 1
-      name: client_name
-      label: Client Name
-      hint: null
+      name: client_info
+      label: Client Information
+      hint: Please fill in the client's details
       type: text
       options: []
       required: false
     - id: 2
-      name: email
-      label: Email
-      hint: null
-      type: email
+      name: contact
+      label: Contact
+      hint: Please fill in the client's email and phone number
+      type: text
       options: []
       required: false
     - id: 3
-      name: phone
-      label: Phone
-      hint: null
+      name: project_details
+      label: Project Details
+      hint: Please fill in the project's start and end dates
       type: text
       options: []
       required: false
     - id: 4
       name: services
       label: Services
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: service_1
-      label: Recruitment Services
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: service_2
-      label: Performance Management
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: service_3
-      label: Payroll Management
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: service_4
-      label: Employee Relations
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: client_company
-      label: Company
-      hint: null
+      hint: Please select the required services
       type: text
       options: []
       required: false
-    - id: 10
-      name: project_start_date
-      label: Project Start Date
-      hint: null
-      type: date
+    - id: 5
+      name: quotations
+      label: Quotations
+      hint: Please select the quotations required
+      type: text
       options: []
       required: false
-    - id: 11
-      name: project_end_date
-      label: Project End Date
-      hint: null
-      type: date
+    - id: 6
+      name: company_info
+      label: Company Information
+      hint: Please fill in the company's name
+      type: text
       options: []
       required: false
-    - id: 12
-      name: quotation
-      label: Quotation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: quotation_2
-      label: Quotation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: quotation_3
-      label: Quotation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: quotation_4
-      label: Quotation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: quotation_5
-      label: Quotation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: quotation_6
-      label: Quotation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: quotation_7
-      label: Quotation
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+    - id: 7
+      name: new_client
+      label: New Client
+      hint: Is this a new client?
+      type: text
+      options: []
       required: false

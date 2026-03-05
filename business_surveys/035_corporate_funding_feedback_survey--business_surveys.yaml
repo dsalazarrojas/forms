@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Direct Grant''}'
-      - '{''id'': 2, ''name'': ''Indirect Grant''}'
-      - '{''id'': 3, ''name'': ''Loan''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Direct Grant
+      - Indirect Grant
+      - Loan
+      - Other
       required: false
     - id: 2
       name: satisfaction
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Increased Revenue''}'
-      - '{''id'': 2, ''name'': ''Job Creation''}'
-      - '{''id'': 3, ''name'': ''Increased Efficiency''}'
+      - Increased Revenue
+      - Job Creation
+      - Increased Efficiency
       required: false
     - id: 4
       name: improvement_ideas

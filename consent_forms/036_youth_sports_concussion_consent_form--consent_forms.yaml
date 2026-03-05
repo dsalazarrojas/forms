@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mother''}'
-      - '{''value'': ''Father''}'
-      - '{''value'': ''Other''}'
+      - Mother
+      - Father
+      - Other
       required: false
     - id: 3
       name: medical_info
@@ -26,8 +26,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: concussion_history
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: concussion_acknowledge
@@ -99,14 +99,14 @@ inputSchema:
       required: false
     - id: 12
       name: concussion_concussion_info
-      label: Concussion Information
+      label: Concussion Concussion Info
       hint: null
       type: note
       options: []
       required: false
     - id: 13
       name: concussion_concussion_form
-      label: Concussion Form
+      label: Concussion Concussion Form
       hint: null
       type: select_multiple
       options:
@@ -139,8 +139,8 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: concussion_concussion_symptoms_info
-      label: Symptoms Info
+      name: concussion_concussion_symptoms_info_2
+      label: Concussion Concussion Symptoms Info 2
       hint: null
       type: select_multiple
       options:
@@ -149,7 +149,7 @@ inputSchema:
       required: false
     - id: 18
       name: concussion_concussion_form_submitted
-      label: Form Submitted
+      label: Concussion Concussion Form Submitted
       hint: null
       type: select_one
       options:
@@ -202,8 +202,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 24
-      name: concussion_safety_plan
-      label: Safety Plan
+      name: concussion_safety_plan_3
+      label: Concussion Safety Plan 3
       hint: null
       type: select_one
       options:

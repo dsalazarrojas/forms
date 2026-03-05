@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sole Trader''}'
-      - '{''id'': 2, ''name'': ''Limited Company''}'
-      - '{''id'': 3, ''name'': ''Partnership''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Sole Trader
+      - Limited Company
+      - Partnership
+      - Other
       required: false
     - id: 5
       name: business_phone
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''Pending''}'
+      - Active
+      - Inactive
+      - Pending
       required: false
     - id: 9
       name: notes

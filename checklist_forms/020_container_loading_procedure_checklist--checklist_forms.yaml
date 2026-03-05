@@ -1,156 +1,163 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Container Loading Procedure Checklist
     pages:
-      - id: 1
-        name: section_loading_info
-        label: -- Loading Details --
-        hint: Please complete this checklist for each container loading.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: container_id
-        label: Container Identification Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: loading_date
-        label: Loading Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: loading_time
-        label: Loading Time
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 5
-        name: section_loading_stages
-        label: -- Loading Stages and Checks --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: stage_1_complete
-        label: Stage 1 - Initial Inspection Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 7
-        name: stage_2_complete
-        label: Stage 2 - Pre-loading Checks Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 8
-        name: stage_3_complete
-        label: Stage 3 - Loading Process Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: stage_4_complete
-        label: Stage 4 - Final Verification Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 10
-        name: section_safety_checks
-        label: -- Safety and Security Checks --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: security_seal_integrity
-        label: Security Seal Integrity?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 12
-        name: loading_plan_adherence
-        label: Adherence to Loading Plan?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 13
-        name: safety_equipment_used
-        label: Safety Equipment Used?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 14
-        name: section_supervisor_sign_off
-        label: -- Supervisor Sign-off --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: supervisor_name
-        label: Supervisor Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: supervisor_id
-        label: Supervisor Identification Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: loading_completed
-        label: Loading Completed?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 18
-        name: additional_comments
-        label: Any additional details or comments?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: signature_confirmation
-        label: I confirm that the information provided is accurate
-        hint: null
-        type: select_one
-        options: [I Agree, I Disagree]
-        required: true
-      - id: 20
-        name: date_of_sign_off
-        label: Date of Sign-off
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_loading_info
+      label: -- Loading Details --
+      hint: Please complete this checklist for each container loading.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: container_id
+      label: Container Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: loading_date
+      label: Loading Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: loading_time
+      label: Loading Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: section_loading_stages
+      label: -- Loading Stages and Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: stage_1_complete
+      label: Stage 1 - Initial Inspection Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: stage_2_complete
+      label: Stage 2 - Pre-loading Checks Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: stage_3_complete
+      label: Stage 3 - Loading Process Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: stage_4_complete
+      label: Stage 4 - Final Verification Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: section_safety_checks
+      label: -- Safety and Security Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: security_seal_integrity
+      label: Security Seal Integrity?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: loading_plan_adherence
+      label: Adherence to Loading Plan?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: safety_equipment_used
+      label: Safety Equipment Used?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: section_supervisor_sign_off
+      label: -- Supervisor Sign-off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_name
+      label: Supervisor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supervisor_id
+      label: Supervisor Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: loading_completed
+      label: Loading Completed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Any additional details or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 20
+      name: date_of_sign_off
+      label: Date of Sign-off
+      hint: null
+      type: date
+      options: []
+      required: true

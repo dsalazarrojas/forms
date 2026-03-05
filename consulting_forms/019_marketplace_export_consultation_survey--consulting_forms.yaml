@@ -28,27 +28,30 @@ inputSchema:
       name: export_readiness
       label: Export Readiness
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
       name: target_markets
       label: Target Markets
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - USA
+      - EU
+      - Asia
+      required: true
     - id: 6
       name: export_channels
       label: Export Channels
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
       name: export_planning
       label: Export Planning
@@ -57,144 +60,16 @@ inputSchema:
       options: []
       required: false
     - id: 8
-      name: export_management
-      label: Export Management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: feedback_management
-      label: Feedback Management
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: next_steps
-      label: Next Steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
       name: export_goals
       label: Export Goals
       hint: null
       type: number
       options: []
-      required: false
-    - id: 12
-      name: export_objects
-      label: Export Objects
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: export_partners
-      label: Export Partners
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: export_barriers
-      label: Export Barriers
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: export_planning
-      label: Export Planning
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: export_management
-      label: Export Management
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: export_readiness
-      label: Export Readiness
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: export_goals
-      label: Export Goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: export_channels
-      label: Export Channels
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: export_planning
-      label: Export Planning
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: export_management_2
-      label: Export Management 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
+      required: true
+    - id: 9
       name: feedback
       label: Feedback
       hint: null
       type: email
       options: []
-      required: false
-    - id: 23
-      name: next_steps
-      label: Next Steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: export_readiness_2
-      label: Export Readiness 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: export_management_3
-      label: Export Management 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

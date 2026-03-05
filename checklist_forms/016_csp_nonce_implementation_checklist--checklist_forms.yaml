@@ -1,135 +1,149 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CSP Nonce Implementation Checklist
     pages:
-      - id: 1
-        name: project_info_header
-        label: -- Project and Environment Details --
-        hint: Content Security Policy Nonce Implementation
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: project_name
-        label: Project Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: environment
-        label: Environment
-        hint: null
-        type: select_one
-        options: [Development, Staging, QA, Production]
-        required: true
-      - id: 4
-        name: lead_engineer
-        label: Lead Engineer
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: security_reviewer
-        label: Security Reviewer
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: implementation_checklist_header
-        label: -- CSP Nonce Checklist --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: nonce_generation_method
-        label: Nonce Generation Method
-        hint: Must be a cryptographically strong random value
-        type: select_one
-        options: [CSPRNG, Framework Built-in, Third-Party Library, Custom Implementation]
-        required: true
-      - id: 8
-        name: base64_encoding
-        label: Nonce is Base64 Encoded
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: script_src_policy
-        label: script-src Policy Updated
-        hint: include 'nonce-...' in the header
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 10
-        name: style_src_policy
-        label: style-src Policy Updated
-        hint: if nonces are used for styles
-        type: select_one
-        options: [Yes, No, Not Applicable]
-        required: true
-      - id: 11
-        name: inline_scripts_tagged
-        label: All Inline Scripts Tagged with Nonce
-        hint: null
-        type: select_one
-        options: [Confirmed, Needs Audit]
-        required: true
-      - id: 12
-        name: script_loader_compatible
-        label: Compatibility with Script Loaders
-        hint: e.g. Webpack, RequireJS
-        type: select_one
-        options: [Verified, Issues Found, Not Applicable]
-        required: true
-      - id: 13
-        name: review_readiness_header
-        label: -- Review Readiness --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: test_coverage
-        label: Test Coverage for CSP Headers
-        hint: automated tests verifying presence of nonces
-        type: select_one
-        options: [Complete, Partial, None]
-        required: true
-      - id: 15
-        name: known_limitations
-        label: Known Implementation Limitations
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: target_deployment_date
-        label: Targeted Deployment Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 17
-        name: final_approval
-        label: Ready for Security Sign-off
-        hint: null
-        type: select_one
-        options: [Yes, No - Action required]
-        required: true
+    - id: 1
+      name: project_info_header
+      label: -- Project and Environment Details --
+      hint: Content Security Policy Nonce Implementation
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: environment
+      label: Environment
+      hint: null
+      type: select_one
+      options:
+      - Development
+      - Staging
+      - QA
+      - Production
+      required: true
+    - id: 4
+      name: lead_engineer
+      label: Lead Engineer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: security_reviewer
+      label: Security Reviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: implementation_checklist_header
+      label: -- CSP Nonce Checklist --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: nonce_generation_method
+      label: Nonce Generation Method
+      hint: Must be a cryptographically strong random value
+      type: select_one
+      options:
+      - CSPRNG
+      - Framework Built-in
+      - Third-Party Library
+      - Custom Implementation
+      required: true
+    - id: 8
+      name: base64_encoding
+      label: Nonce is Base64 Encoded
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: script_src_policy
+      label: script-src Policy Updated
+      hint: include 'nonce-...' in the header
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: style_src_policy
+      label: style-src Policy Updated
+      hint: if nonces are used for styles
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 11
+      name: inline_scripts_tagged
+      label: All Inline Scripts Tagged with Nonce
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Needs Audit
+      required: true
+    - id: 12
+      name: script_loader_compatible
+      label: Compatibility with Script Loaders
+      hint: e.g. Webpack, RequireJS
+      type: select_one
+      options:
+      - Verified
+      - Issues Found
+      - Not Applicable
+      required: true
+    - id: 13
+      name: review_readiness_header
+      label: -- Review Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: test_coverage
+      label: Test Coverage for CSP Headers
+      hint: automated tests verifying presence of nonces
+      type: select_one
+      options:
+      - Complete
+      - Partial
+      - None
+      required: true
+    - id: 15
+      name: known_limitations
+      label: Known Implementation Limitations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: target_deployment_date
+      label: Targeted Deployment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: final_approval
+      label: Ready for Security Sign-off
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - No - Action required
+      required: true

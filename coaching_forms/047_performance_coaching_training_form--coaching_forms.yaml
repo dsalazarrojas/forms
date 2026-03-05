@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: participant_agreement
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I agree''}'
-      - '{''label'': ''I do not agree''}'
+      - I agree
+      - I do not agree
       required: false
     - id: 12
       name: coach_agreement
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I agree''}'
-      - '{''label'': ''I do not agree''}'
+      - I agree
+      - I do not agree
       required: false
     - id: 13
       name: participant_additional_comments

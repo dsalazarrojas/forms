@@ -4,110 +4,142 @@ inputSchema:
     title: Receiving Management Survey
     pages:
     - id: 1
-      name: receiving_management_survey_page_1
-      label: Receiving Management Survey
+      name: general_management_practices_page_1
+      label: General Management Practices
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: receiving_management_survey_page_2
-      label: Receiving Management Survey
+      name: general_management_practices_page_2
+      label: What are the current management procedures used?
       hint: null
-      type: note
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: general_management_practices_page_3
+      label: What are the management goals and objectives for the next quarter?
+      hint: null
+      type: text
       options: []
       required: false
-    - id: 3
-      name: receiving_management_survey_page_3
-      label: Receiving Management Survey
+    - id: 4
+      name: receiving_page_1
+      label: How often is receiving done at the department/section?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: receiving_management_survey_page_4
-      label: Receiving Management Survey
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Often
+      - Occasionally
+      - Rarely
+      required: true
     - id: 5
-      name: receiving_management_survey_page_5
-      label: Receiving Management Survey
+      name: receiving_page_2
+      label: Are there any specific actions taken during receiving?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: receiving_management_survey_page_6
-      label: Receiving Management Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: receiving_management_survey_page_7
-      label: Receiving Management Survey
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: receiving_management_survey_page_8
-      label: Receiving Management Survey
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: receiving_management_survey_page_9
-      label: Receiving Management Survey
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: receiving_management_survey_page_10
-      label: Receiving Management Survey
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
-      name: receiving_management_survey_page_11
-      label: Receiving Management Survey
+      name: receiving_page_3
+      label: Are there any issues that have arisen during receiving?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 12
-      name: receiving_management_survey_page_12
-      label: Receiving Management Survey
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: receiving_management_survey_page_13
-      label: Receiving Management Survey
+      - 'True'
+      - 'False'
+      - Other (please describe)
+      required: true
+    - id: 7
+      name: receiving_page_4
+      label: Can you provide more information about receiving management?
       hint: null
       type: text
       options: []
       required: false
+    - id: 8
+      name: receiving_page_5
+      label: What are your suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date_page_1
+      label: What date is the last time receiving was done?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_page_1
+      label: What time is receiving usually done?
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: receiving_page_6
+      label: What is the average number of items received?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: receiving_page_7
+      label: What is the average weight of items received?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: receiving_page_8
+      label: Are there any specific receiving locations?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Other (please describe)
+      required: false
     - id: 14
-      name: receiving_management_survey_page_14
-      label: Receiving Management Survey
+      name: receiving_page_9
+      label: What is the average time spent on receiving?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: receiving_page_10
+      label: What is the average number of items received per week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: receiving_page_11
+      label: What time of day is receiving usually done?
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 17
+      name: receiving_page_12
+      label: What type of receiving is usually done?
+      hint: null
+      type: select_multiple
+      options:
+      - Physical
+      - Virtual
+      - Other (please describe)
+      required: true
+    - id: 18
+      name: receiving_page_13
+      label: Additional comments
       hint: null
       type: text
       options: []

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''likes''}'
-      - '{''value'': ''shares''}'
-      - '{''value'': ''comments''}'
+      - likes
+      - shares
+      - comments
       required: false
     - id: 3
       name: audience_demographics
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male''}'
-      - '{''value'': ''female''}'
-      - '{''value'': ''unknown''}'
+      - male
+      - female
+      - unknown
       required: false
     - id: 4
       name: email_address

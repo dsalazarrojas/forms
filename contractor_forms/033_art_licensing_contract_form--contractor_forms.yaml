@@ -195,7 +195,7 @@ inputSchema:
       options:
       - Yes - All Products
       - Yes - Key Products Only
-      - false
+      - 'False'
       required: true
     - id: 24
       name: credit_line
@@ -210,8 +210,8 @@ inputSchema:
       hint: Are product samples required before sale
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: termination_clause
@@ -233,8 +233,8 @@ inputSchema:
       hint: Can licensee sublicense rights
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: quality_control

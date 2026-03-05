@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Fire''}'
-      - '{''id'': 2, ''name'': ''Theft''}'
-      - '{''id'': 3, ''name'': ''Environmental''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Fire
+      - Theft
+      - Environmental
+      - Other
       required: true
     - id: 4
       name: incident_description
@@ -73,8 +62,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Open''}'
-      - '{''id'': 2, ''name'': ''Closed''}'
+      - Open
+      - Closed
       required: true
     - id: 9
       name: incident_reporter
@@ -82,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Facility Manager''}'
-      - '{''id'': 2, ''name'': ''Maintenance''}'
-      - '{''id'': 3, ''name'': ''Employee''}'
+      - Facility Manager
+      - Maintenance
+      - Employee
       required: true
     - id: 10
       name: reporter_notes
@@ -127,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''No Action Needed''}'
-      - '{''id'': 2, ''name'': ''Review and Investigate''}'
-      - '{''id'': 3, ''name'': ''Escalate''}'
+      - No Action Needed
+      - Review and Investigate
+      - Escalate
       required: true
     - id: 16
       name: incident_number

@@ -1,192 +1,104 @@
 inputSchema:
   type: object
   properties:
-    title: shift_preference_form
+    title: Shift Preference Form
     pages:
     - id: 1
       name: user_input
-      label: user_input
-      hint: null
+      label: User Name
+      hint: Please enter your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: department
-      label: department
+      label: Department
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: manager_input
-      label: manager
+      label: Manager
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: shift
-      label: shift
+      name: shift_input
+      label: Shift
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
       name: notes_input
-      label: notes
+      label: Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: employee_input
-      label: employee
+      label: Employee
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
       name: employee_id
-      label: employee_id
+      label: Employee ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
       name: form_id
-      label: form_id
+      label: Form ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 9
-      name: submitted_by
-      label: submitted_by
+      name: submitted_by_input
+      label: Submitted By
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 10
-      name: submitted_by_id
-      label: submitted_by_id
+      name: submission_date
+      label: Submission Date
       hint: null
-      type: number
+      type: date
       options: []
-      required: false
+      required: true
     - id: 11
-      name: submission_date
-      label: submission_date
+      name: submission_time
+      label: Submission Time
       hint: null
-      type: date
+      type: time
       options: []
-      required: false
+      required: true
     - id: 12
-      name: submission_time
-      label: submission_time
+      name: submission_status
+      label: Submission Status
       hint: null
-      type: time
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
     - id: 13
-      name: submission_date_time
-      label: submission_date_time
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: submission_time
-      label: submission_time
+      name: submission_time_2
+      label: Submission Time 2
       hint: null
       type: time
       options: []
-      required: false
-    - id: 15
-      name: submission_status
-      label: submission_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 16
-      name: submission_status
-      label: submission_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: submission_status_id
-      label: submission_status_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: submission_status
-      label: submission_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 21
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: submission_status
-      label: submission_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: submission_status
-      label: submission_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 25
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
+      required: true

@@ -46,18 +46,18 @@ inputSchema:
       options: []
       required: true
     - id: 7
-      name: ranking
-      label: Rank
+      name: ranking_2
+      label: Ranking 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 8
-      name: judges_name
-      label: Judge Name
+      name: judges_name_2
+      label: Judges Name 2
       hint: null
       type: text
       options: []
@@ -77,8 +77,8 @@ inputSchema:
       options: []
       required: true
     - id: 11
-      name: judge_score
-      label: Score
+      name: judge_score_2
+      label: Judge Score 2
       hint: null
       type: number
       options: []
@@ -98,14 +98,14 @@ inputSchema:
       options: []
       required: true
     - id: 14
-      name: song_name
-      label: Song Name
+      name: song_name_2
+      label: Song Name 2
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: artist_name
+      name: artist_name_2
       label: Artist
       hint: null
       type: text
@@ -113,7 +113,7 @@ inputSchema:
       required: true
     - id: 16
       name: judge_name
-      label: Judge Name
+      label: Judge Name (3)
       hint: null
       type: text
       options: []
@@ -138,30 +138,30 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
       name: song_relay_competition_results_score
-      label: Score
+      label: Song Relay Competition Results Score
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
       name: submission_notes
-      label: Submission Notes
+      label: Submission Notes (2)
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: submission_date
-      label: Submission Date
+      name: submission_date_2
+      label: Submission Date 2
       hint: null
       type: date
       options: []
@@ -174,8 +174,8 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: judge_name
-      label: Judge Name
+      name: judge_name_2
+      label: Judge Name 2
       hint: null
       type: text
       options: []

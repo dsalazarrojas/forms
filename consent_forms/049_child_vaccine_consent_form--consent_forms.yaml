@@ -30,12 +30,9 @@ inputSchema:
       hint: Demographic record
       type: select_one
       options:
-      - label: Male
-        value: male
-      - label: Female
-        value: female
-      - label: Other
-        value: other
+      - Male
+      - Female
+      - Other
       required: false
     - id: 5
       name: section_vaccine_selection
@@ -50,18 +47,12 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: MMR - Measles, Mumps, Rubella
-        value: mmr
-      - label: DTaP - Diphtheria, Tetanus, Pertussis
-        value: dtap
-      - label: Inactivated Polio Vaccine
-        value: polio
-      - label: Hepatitis B
-        value: hepb
-      - label: Seasonal Influenza
-        value: flu
-      - label: Varicella - Chickenpox
-        value: varicella
+      - MMR - Measles, Mumps, Rubella
+      - DTaP - Diphtheria, Tetanus, Pertussis
+      - Inactivated Polio Vaccine
+      - Hepatitis B
+      - Seasonal Influenza
+      - Varicella - Chickenpox
       required: true
     - id: 7
       name: section_health_screening
@@ -76,10 +67,8 @@ inputSchema:
       hint: Contraindication check
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: previous_reaction_status
@@ -87,10 +76,8 @@ inputSchema:
       hint: Safety assessment
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: known_allergies_text
@@ -112,10 +99,8 @@ inputSchema:
       hint: Informed consent prerequisite
       type: select_one
       options:
-      - label: Yes - Received and Read
-        value: true
-      - label: No - Need VIS first
-        value: false
+      - Yes - Received and Read
+      - No - Need VIS first
       required: true
     - id: 13
       name: vaccine_final_consent
@@ -123,10 +108,8 @@ inputSchema:
       hint: Final legal authorization
       type: select_one
       options:
-      - label: I Give Consent
-        value: true
-      - label: I Withhold Consent
-        value: false
+      - I Give Consent
+      - I Withhold Consent
       required: true
     - id: 14
       name: guardian_signature_name

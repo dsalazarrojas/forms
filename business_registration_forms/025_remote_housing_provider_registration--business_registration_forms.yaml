@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''University''}'
-      - '{''value'': ''Agency''}'
-      - '{''value'': ''Housing Coordinator''}'
+      - University
+      - Agency
+      - Housing Coordinator
       required: false
     - id: 3
       name: name
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''I confirm that I have read and agree to the terms and conditions.''}'
-      - '{''value'': None}'
+      - I confirm that I have read and agree to the terms and conditions.
+      - Option 2
       required: false
     - id: 14
       name: submit_button
@@ -123,8 +123,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''I am aware that I must provide accurate and truthful information
-        for all fields.''}'
-      - '{''value'': ''I am aware that I must provide accurate and truthful information
-        for all fields.''}'
+      - I am aware that I must provide accurate and truthful information for all fields.
+      - Other
       required: false

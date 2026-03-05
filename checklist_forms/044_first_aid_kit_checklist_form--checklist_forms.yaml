@@ -4,65 +4,78 @@ inputSchema:
     title: First Aid Kit Checklist Form
     pages:
     - id: 1
-      name: first_aid_kit_checklist_form_page_1
-      label: Emergency Kit Contents
+      name: first_aid_kit_contents
+      label: What are the contents of the first aid kit?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: first_aid_kit_checklist_form_page_2
-      label: Bandages
-      hint: null
+      name: first_aid_kit_item_status
+      label: Are the following items available in the first aid kit?
+      hint: Select all that apply
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Bandages
+      - Wound Cleaning Supplies
+      - Antiseptic Ointment
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
+      required: true
     - id: 3
-      name: first_aid_kit_checklist_form_page_3
-      label: Wound Cleaning
+      name: pain_relief_medication
+      label: Is there pain relief medication in the first aid kit?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 4
-      name: first_aid_kit_checklist_form_page_4
-      label: Bleeding Control
+      name: first_aid_kit_availability
+      label: Do you have a first aid kit?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 5
-      name: first_aid_kit_checklist_form_page_5
-      label: Pain Relief
+      name: medical_supplies
+      label: Are the following items in the first aid kit? (Select all that apply)
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
       required: true
     - id: 6
-      name: first_aid_kit_checklist_form_page_6
-      label: Blister
+      name: first_aid_kit_location
+      label: Is the first aid kit located in an easy-to-access area?
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: first_aid_kit_checklist_form_page_7
-      label: Antihistamines
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
+    - id: 7
+      name: essential_items_status
+      label: Are all essential medical items in the first aid kit?
+      hint: null
+      type: select_multiple
+      options:
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
+      required: true
     - id: 8
-      name: first_aid_kit_checklist_form_page_8
-      label: First Aid Kit
+      name: first_aid_kit_stock_status
+      label: Is the first aid kit well-stocked?
       hint: null
       type: select_one
       options:
@@ -70,44 +83,47 @@ inputSchema:
       - 'No'
       required: false
     - id: 9
-      name: first_aid_kit_checklist_form_page_9
-      label: Medical Gloves
+      name: first_aid_kit_location_2
+      label: What is the location of the first aid kit?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 10
-      name: first_aid_kit_checklist_form_page_10
-      label: First Aid Kit Contents
+      name: medical_supplies_stock
+      label: Are all medical supplies in the first aid kit?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
+      - Bandages
+      - Wound Cleaning Supplies
+      - Antiseptic Ointment
       required: false
     - id: 11
-      name: first_aid_kit_checklist_form_page_11
-      label: Medical Tape
+      name: pain_relief_status
+      label: Is pain relief medication available?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 12
-      name: first_aid_kit_checklist_form_page_12
-      label: Scissors
+      name: first_aid_kit_status
+      label: First Aid Kit Status
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 13
-      name: first_aid_kit_checklist_form_page_13
-      label: Thermometer
+      name: medical_gloves_status
+      label: Are medical gloves available?
       hint: null
       type: select_multiple
       options:
@@ -115,32 +131,114 @@ inputSchema:
       - 'No'
       required: false
     - id: 14
-      name: first_aid_kit_checklist_form_page_14
-      label: First Aid Kit Location
+      name: first_aid_kit_location_3
+      label: First Aid Kit Location 3
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 15
-      name: first_aid_kit_checklist_form_page_15
-      label: First Aid Kit Contents
+      name: first_aid_kit_item_status_2
+      label: First Aid Kit Item Status 2
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
+      - Bandages
+      - Wound Cleaning Supplies
+      - Antiseptic Ointment
+      - Medical Gloves
       required: false
     - id: 16
-      name: first_aid_kit_checklist_form_page_16
-      label: First Aid Kit Location
+      name: first_aid_kit_contents_status
+      label: Are the following contents in the first aid kit? (Select all that apply)
       hint: null
       type: select_multiple
+      options:
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
+      - Bandages
+      - Wound Cleaning Supplies
+      - Antiseptic Ointment
+      required: false
+    - id: 17
+      name: first_aid_kit_contents_2
+      label: First Aid Kit Contents 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: first_aid_kit_item_status_3
+      label: First Aid Kit Item Status 3
+      hint: null
+      type: select_multiple
+      options:
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
+      - Bandages
+      - Wound Cleaning Supplies
+      - Antiseptic Ointment
+      required: false
+    - id: 19
+      name: first_aid_kit_stock_status_2
+      label: First Aid Kit Stock Status 2
+      hint: null
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 17
-      name: first_aid_kit_checklist_form_page_17
+    - id: 20
+      name: medical_supplies_2
+      label: Are the following supplies available?
+      hint: null
+      type: select_multiple
+      options:
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
+      required: false
+    - id: 21
+      name: first_aid_kit_status_2
+      label: Is the first aid kit available?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: first_aid_kit_contents_status_2
+      label: First Aid Kit Contents Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - Antihistamines
+      - Medical Tape
+      - Scissors
+      - Thermometer
+      - Bandages
+      - Wound Cleaning Supplies
+      - Antiseptic Ointment
+      required: false
+    - id: 23
+      name: first_aid_kit_location_4
+      label: First Aid Kit Location 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_gloves
       label: Medical Gloves
       hint: null
       type: select_multiple
@@ -148,71 +246,12 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 18
-      name: first_aid_kit_checklist_form_page_18
-      label: First Aid Kit Contents
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: first_aid_kit_checklist_form_page_19
-      label: Antihistamines
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: first_aid_kit_checklist_form_page_20
-      label: Medical Tape
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: first_aid_kit_checklist_form_page_21
-      label: Scissors
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: first_aid_kit_checklist_form_page_22
-      label: Thermometer
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: first_aid_kit_checklist_form_page_23
-      label: First Aid Kit
+    - id: 25
+      name: first_aid_kit_stock
+      label: First Aid Kit Stock
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 24
-      name: first_aid_kit_checklist_form_page_24
-      label: First Aid Kit Location
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: first_aid_kit_checklist_form_page_25
-      label: Medical Supplies
-      hint: null
-      type: text
-      options: []
-      required: true

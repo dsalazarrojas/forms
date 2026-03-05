@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Clean'', ''label'': ''Clean''}'
-      - '{''id'': 2, ''value'': ''Not Clean'', ''label'': ''Not Clean''}'
-      - '{''id'': 3, ''value'': ''Partially Clean'', ''label'': ''Partially Clean''}'
+      - Clean
+      - Not Clean
+      - Partially Clean
       required: false
     - id: 3
       name: cleanliness
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: room_condition
@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: maintenance
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Required'', ''label'': ''Required''}'
-      - '{''id'': 2, ''value'': ''Not Required'', ''label'': ''Not Required''}'
+      - Required
+      - Not Required
       required: false
     - id: 6
       name: housekeeping
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 2, ''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 3, ''value'': ''Poor'', ''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 7
       name: safety
@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 8
       name: electrical_systems
@@ -78,10 +78,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 9
       name: furniture_and_fixtures
@@ -89,10 +89,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 3, ''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 10
       name: cleanliness_rating

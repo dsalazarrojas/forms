@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''chatjimmy''}'
-      - '{''name'': ''johndoe''}'
-      - '{''name'': ''janedoe''}'
+      - chatjimmy
+      - johndoe
+      - janedoe
       required: false
     - id: 13
       name: assigned_tool
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''google_forms''}'
-      - '{''name'': ''google_sheets''}'
-      - '{''name'': ''jupyter''}'
+      - google forms
+      - google sheets
+      - jupyter
       required: false
     - id: 14
       name: check_in_status
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''checked in''}'
-      - '{''name'': ''checked out''}'
-      - '{''name'': ''unknown''}'
+      - checked in
+      - checked out
+      - unknown
       required: false
     - id: 15
       name: form_submitted_by
@@ -116,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''user1''}'
-      - '{''name'': ''user2''}'
-      - '{''name'': ''user3''}'
+      - user1
+      - user2
+      - user3
       required: false
     - id: 16
       name: form_submitted_from
@@ -126,8 +126,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''desktop''}'
-      - '{''name'': ''mobile''}'
+      - desktop
+      - mobile
       required: false
     - id: 17
       name: check_in_time_duration
@@ -142,9 +142,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''once''}'
-      - '{''name'': ''multiple''}'
-      - '{''name'': ''daily''}'
+      - once
+      - multiple
+      - daily
       required: false
     - id: 19
       name: check_in_type
@@ -152,8 +152,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''checkin''}'
-      - '{''name'': ''visit''}'
+      - checkin
+      - visit
       required: false
     - id: 20
       name: comments
@@ -196,8 +196,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''active''}'
-      - '{''name'': ''inactive''}'
+      - active
+      - inactive
       required: false
     - id: 26
       name: form_id

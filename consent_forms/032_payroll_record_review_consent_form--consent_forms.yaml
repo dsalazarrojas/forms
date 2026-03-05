@@ -5,110 +5,114 @@ inputSchema:
     pages:
     - id: 1
       name: payroll_record_review_consent_form_page_1
-      label: Payroll Record Review
-      hint: null
-      type: note
+      label: What is your name?
+      hint: Please fill in your name
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: payroll_record_review_consent_form_page_2
-      label: Review and Consent
+      label: Have you reviewed your payroll records?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 3
       name: payroll_record_review_consent_form_page_3
-      label: Review and Consent
-      hint: null
-      type: text
+      label: How often do you review your payroll records?
+      hint: How many times in a month
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: payroll_record_review_consent_form_page_4
-      label: Review and Consent
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: payroll_record_review_consent_form_page_5
-      label: Review and Consent
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: payroll_record_review_consent_form_page_6
-      label: Review and Consent
+      label: What is your date of birth?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 7
-      name: payroll_record_review_consent_form_page_7
-      label: Review and Consent
-      hint: null
-      type: number
+      required: true
+    - id: 5
+      name: payroll_record_review_consent_form_page_5
+      label: What time do you work?
+      hint: HH -MM 24h format
+      type: time
       options: []
-      required: false
-    - id: 8
-      name: payroll_record_review_consent_form_page_8
-      label: Review and Consent
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: payroll_record_review_consent_form_page_9
-      label: Review and Consent
-      hint: null
+      required: true
+    - id: 6
+      name: payroll_record_review_consent_form_page_6
+      label: What is your email address?
+      hint: your@email.com
       type: email
       options: []
+      required: true
+    - id: 7
+      name: payroll_record_review_consent_form_page_7
+      label: Total hours worked last week?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: payroll_record_review_consent_form_page_8
+      label: Hours worked last week by department?
+      hint: Select department name for each hour worked
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payroll_record_review_consent_form_page_9
+      label: Do you want to receive updates on your time-off balance?
+      hint: Select one or more options
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: payroll_record_review_consent_form_page_10
-      label: Review and Consent
+      label: What is your job title?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
       name: payroll_record_review_consent_form_page_11
-      label: Review and Consent
-      hint: null
+      label: What is your department?
+      hint: Select department name
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
       name: payroll_record_review_consent_form_page_12
-      label: Review and Consent
-      hint: null
+      label: What is your reporting manager?
+      hint: Select manager name
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
       name: payroll_record_review_consent_form_page_13
-      label: Review and Consent
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Do you consent to share your pay stub information with your manager?
+      hint: Select one or more options
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 14
       name: payroll_record_review_consent_form_page_14
-      label: Review and Consent
-      hint: null
-      type: text
+      label: What date was the last payday?
+      hint: Date format - 2024-09-01, 2024-09-15
+      type: date
       options: []
-      required: false
+      required: true
     - id: 15
       name: payroll_record_review_consent_form_page_15
-      label: Review and Consent
-      hint: null
-      type: text
-      options: []
-      required: false
+      label: Do you consent to share your payroll records with the HR department?
+      hint: Select one or more options
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true

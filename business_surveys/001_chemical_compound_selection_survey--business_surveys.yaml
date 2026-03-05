@@ -30,14 +30,10 @@ inputSchema:
       hint: Select the primary chemical classification
       type: select_one
       options:
-      - label: Organic
-        value: organic
-      - label: Inorganic
-        value: inorganic
-      - label: Organometallic
-        value: organometallic
-      - label: Polymer
-        value: polymer
+      - Organic
+      - Inorganic
+      - Organometallic
+      - Polymer
       required: true
     - id: 5
       name: chemical_formula
@@ -66,14 +62,10 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: High Solubility
-        value: solubility
-      - label: Thermal Stability
-        value: stability
-      - label: Low Reactivity
-        value: reactivity
-      - label: Optical Clarity
-        value: clarity
+      - High Solubility
+      - Thermal Stability
+      - Low Reactivity
+      - Optical Clarity
       required: false
     - id: 9
       name: required_date

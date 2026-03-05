@@ -73,7 +73,7 @@ inputSchema:
       - Yes, Written and Verbal
       - Yes, Verbal Only
       - Yes, Written Only
-      - false
+      - 'False'
       required: true
     - id: 10
       name: instructions_understood
@@ -158,8 +158,8 @@ inputSchema:
       hint: Do you have contact info?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: warning_signs_understood
@@ -167,8 +167,8 @@ inputSchema:
       hint: Do you know signs of infection?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: infection_signs
@@ -198,7 +198,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Acknowledge
-      - false
+      - 'False'
       required: true
     - id: 22
       name: client_signature

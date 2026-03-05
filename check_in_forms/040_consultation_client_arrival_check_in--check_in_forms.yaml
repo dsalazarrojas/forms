@@ -1,67 +1,56 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Consultation Client Arrival Check In
     pages:
-      - id: 1
-        name: section_client_check_in
-        label: -- Client Check In --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: client_name
-        label: Client name
-        hint: Full name of client arriving
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: appointment_time
-        label: Appointment time
-        hint: Scheduled time for consultation
-        type: time
-        options: []
-        required: true
-      - id: 4
-        name: arrival_time
-        label: Arrival time
-        hint: Actual time client arrived
-        type: time
-        options: []
-        required: false
-      - id: 5
-        name: service_requested
-        label: Service requested
-        hint: Brief description of the consultation service
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: check_in_staff
-        label: Check in staff name
-        hint: Staff member handling the check in
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: waivers_signed
-        label: Waivers signed
-        hint: Confirm if any consent forms were signed at check in
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
+    - id: 1
+      name: section_client_check_in
+      label: -- Client Check In --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name of client arriving
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appointment_time
+      label: Appointment time
+      hint: Scheduled time for consultation
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: arrival_time
+      label: Arrival time
+      hint: Actual time client arrived
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: service_requested
+      label: Service requested
+      hint: Brief description of the consultation service
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: check_in_staff
+      label: Check in staff name
+      hint: Staff member handling the check in
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: waivers_signed
+      label: Waivers signed
+      hint: Confirm if any consent forms were signed at check in
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

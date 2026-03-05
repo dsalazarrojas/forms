@@ -12,180 +12,203 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Guest Consent Form
     pages:
     - id: 1
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: guest_name
+      label: Guest Name
+      hint: Please enter your name
       type: text
       options: []
       required: false
     - id: 2
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: guest_phone
+      label: Phone Number
+      hint: Please enter your phone number
       type: text
       options: []
       required: false
     - id: 3
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: email_address
+      label: Email Address
+      hint: Please enter your email address
       type: text
       options: []
       required: false
     - id: 4
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: address
+      label: Address
+      hint: Please enter your address
       type: text
       options: []
       required: false
     - id: 5
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Please enter the name of an emergency contact
       type: text
       options: []
       required: false
     - id: 6
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Please enter the phone number of an emergency contact
       type: text
       options: []
       required: false
     - id: 7
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: doctor_name
+      label: Doctor Name
+      hint: Please enter your doctor's name
       type: text
       options: []
       required: false
     - id: 8
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: doctor_phone
+      label: Doctor Phone
+      hint: Please enter your doctor's phone number
       type: text
       options: []
       required: false
     - id: 9
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: medical_condition
+      label: Medical Condition
+      hint: Please enter your medical condition
       type: text
       options: []
       required: false
     - id: 10
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
-      options: []
+      name: treatment_options
+      label: Treatment Options
+      hint: Please select your treatment options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: insurance_info
+      label: Insurance Info
+      hint: Please enter your insurance information
       type: text
       options: []
       required: false
     - id: 12
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: medical_record_number
+      label: Medical Record Number
+      hint: Please enter your medical record number
       type: text
       options: []
       required: false
     - id: 13
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
+      name: doctor_visit_date
+      label: Doctor Visit Date
+      hint: Please enter the date of your doctor visit
+      type: date
       options: []
       required: false
     - id: 14
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
+      name: doctor_visit_time
+      label: Doctor Visit Time
+      hint: Please enter the time of your doctor visit
+      type: time
       options: []
       required: false
     - id: 15
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
-      options: []
+      name: doctor_visit_location
+      label: Doctor Visit Location
+      hint: Please select the location of your doctor visit
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: medication_allergies
+      label: Medication Allergies
+      hint: Please enter any medication allergies
       type: text
       options: []
       required: false
     - id: 17
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: medical_history
+      label: Medical History
+      hint: Please enter any medical history
       type: text
       options: []
       required: false
     - id: 18
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
-      options: []
+      name: doctor_specialties
+      label: Doctor Specialties
+      hint: Please select the doctor's specialties
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 19
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
-      options: []
+      name: doctor_office_hours
+      label: Doctor's Office Hours
+      hint: Please select the doctor's office hours
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 20
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
-      options: []
+      name: payment_options
+      label: Payment Options
+      hint: Please select the payment options
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: additional_comments
+      label: Additional Comments
+      hint: Please enter any additional comments
       type: text
       options: []
       required: false
     - id: 22
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
+      name: date_of_birth
+      label: Date of Birth
+      hint: Please enter your date of birth
+      type: date
       options: []
       required: false
     - id: 23
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
-      options: []
+      name: marital_status
+      label: Marital Status
+      hint: Please select your marital status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
       required: false
     - id: 24
-      name: string
-      label: <string>
-      hint: <string or null>
-      type: text
-      options: []
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: Please select your relationship to emergency contact
+      type: select_one
+      options:
+      - Parent
+      - Spouse
+      - Child
+      - Other
       required: false
     - id: 25
-      name: string
-      label: <string>
-      hint: <string or null>
+      name: signature
+      label: Signature
+      hint: Please sign below
       type: text
       options: []
       required: false

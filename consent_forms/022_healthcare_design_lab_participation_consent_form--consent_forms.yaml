@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: participant_id
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Phone''}'
-      - '{''id'': 2, ''name'': ''Email''}'
-      - '{''id'': 3, ''name'': ''Mail''}'
-      - '{''id'': 4, ''name'': ''In-person''}'
+      - Phone
+      - Email
+      - Mail
+      - In-person
       required: false
     - id: 5
       name: study_details

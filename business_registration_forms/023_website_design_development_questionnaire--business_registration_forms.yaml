@@ -4,189 +4,130 @@ inputSchema:
     title: Website Design & Development Questionnaire
     pages:
     - id: 1
-      name: home_page
+      name: business_name
       label: What is the name of your business?
-      hint: null
+      hint: Provide your business name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: business_category
       label: What category does your business fit into?
-      hint: null
+      hint: Select a category that best describes your business
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Business
+      - Service
+      - Product
+      - Other
+      required: true
     - id: 3
       name: business_description
-      label: Describe your business briefly?
-      hint: null
+      label: Describe your business briefly
+      hint: Provide a short description of your business
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: contact_email
       label: What is your email address?
-      hint: null
+      hint: Please enter your email address
       type: email
       options: []
-      required: false
+      required: true
     - id: 5
       name: contact_phone
       label: What is your phone number?
-      hint: null
+      hint: Please enter your phone number
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: company_website
       label: What is the URL of your website?
-      hint: null
+      hint: Please enter your website URL
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
       name: business_address
       label: What is the address of your business?
-      hint: null
+      hint: Please enter your business address
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
       name: business_hours
       label: What hours does your business operate?
-      hint: null
+      hint: Please enter your business hours
       type: time
       options: []
-      required: false
+      required: true
     - id: 9
       name: social_media_profile
       label: Do you have a social media profile?
-      hint: null
+      hint: Select a social media profile
       type: select_one
       options:
       - Facebook
       - Instagram
       - Twitter
-      required: false
+      - LinkedIn
+      required: true
     - id: 10
       name: social_media_profile_link
       label: What is the link to your social media profile?
-      hint: null
+      hint: Please enter the link to your social media profile
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
       name: company_profile_picture
       label: Do you have a profile picture for your business?
-      hint: null
+      hint: Select an answer
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 12
-      name: company_profile_picture_link
-      label: What is the link to your company profile picture?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: other_info
       label: Is there any other information you'd like to share about your business?
-      hint: null
+      hint: Please provide additional information
       type: text
       options: []
+      required: true
+    - id: 13
+      name: social_media_profile_2
+      label: Social Media Profile 2
+      hint: Select a social media profile
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - LinkedIn
       required: false
     - id: 14
-      name: business_name
-      label: What is the name of your business?
-      hint: null
+      name: social_media_profile_link_2
+      label: Social Media Profile Link 2
+      hint: Please enter the link to your social media profile
       type: text
       options: []
       required: false
     - id: 15
-      name: business_url
-      label: What is the URL of your business?
-      hint: null
-      type: text
-      options: []
+      name: company_profile_picture_2
+      label: Company Profile Picture 2
+      hint: Select an answer
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 16
-      name: business_category_2
-      label: What category does your business fit into?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: business_description_2
-      label: Describe your business briefly?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: business_hours_2
-      label: What hours does your business operate?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: social_media_profile_2
-      label: Do you have a social media profile?
-      hint: null
-      type: select_one
-      options:
-      - Facebook
-      - Instagram
-      - Twitter
-      required: false
-    - id: 20
-      name: social_media_profile_link_2
-      label: What is the link to your social media profile?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: company_profile_picture_2
-      label: Do you have a profile picture for your business?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: company_profile_picture_link_2
-      label: What is the link to your company profile picture?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
       name: other_info_2
-      label: Is there any other information you'd like to share about your business?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: business_name_2
-      label: What is the name of your business?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: business_url_2
-      label: What is the URL of your business?
-      hint: null
+      label: Other Info 2
+      hint: Please provide additional information
       type: text
       options: []
       required: false

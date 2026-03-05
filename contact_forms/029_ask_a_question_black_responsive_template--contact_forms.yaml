@@ -1,94 +1,83 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Ask A Question Black Responsive Template
     pages:
-      - id: 1
-        name: contact_header_black
-        label: -- Contact Us --
-        hint: We typically respond within 24 hours
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: full_name_black
-        label: Your Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: email_addr_black
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: subject_inquiry_black
-        label: Subject of Inquiry
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: message_text_black
-        label: Your Question or Message
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: priority_level_black
-        label: Inquiry Priority
-        hint: null
-        type: select_one
-        options:
-          - Low - General Inquiry
-          - Medium - Account Support
-          - High - Urgent Technical Issue
-        required: true
-      - id: 7
-        name: preferred_contact_method_black
-        label: Preferred Contact Method
-        hint: null
-        type: select_one
-        options:
-          - Email
-          - Phone Call
-          - Text Message
-        required: true
-      - id: 8
-        name: best_time_to_call_black
-        label: Best Time to Call
-        hint: e.g. Weekday mornings
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: newsletter_opt_in_black
-        label: Sign up for our monthly updates
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: captcha_note_black
-        label: Please complete the security check below
-        hint: null
-        type: note
-        options: []
-        required: false
+    - id: 1
+      name: contact_header_black
+      label: -- Contact Us --
+      hint: We typically respond within 24 hours
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name_black
+      label: Your Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_addr_black
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: subject_inquiry_black
+      label: Subject of Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message_text_black
+      label: Your Question or Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: priority_level_black
+      label: Inquiry Priority
+      hint: null
+      type: select_one
+      options:
+      - Low - General Inquiry
+      - Medium - Account Support
+      - High - Urgent Technical Issue
+      required: true
+    - id: 7
+      name: preferred_contact_method_black
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 8
+      name: best_time_to_call_black
+      label: Best Time to Call
+      hint: e.g. Weekday mornings
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: newsletter_opt_in_black
+      label: Sign up for our monthly updates
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: captcha_note_black
+      label: Please complete the security check below
+      hint: null
+      type: note
+      options: []
+      required: false

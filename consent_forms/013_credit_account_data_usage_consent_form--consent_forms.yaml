@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': 1}'
-      - '{''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
       name: data_usage_details
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 month'', ''value'': 1}'
-      - '{''label'': ''6 months'', ''value'': 2}'
-      - '{''label'': ''1 year'', ''value'': 3}'
+      - 1 month
+      - 6 months
+      - 1 year
       required: false
     - id: 4
       name: data_sharing
@@ -144,39 +144,39 @@ inputSchema:
       options: []
       required: false
     - id: 20
-      name: company_address
-      label: Company Address
+      name: company_address_2
+      label: Company Address 2
       hint: Enter the address of your company.
       type: text
       options: []
       required: false
     - id: 21
-      name: company_website
-      label: Company Website
+      name: company_website_2
+      label: Company Website 2
       hint: Enter the website of your company.
       type: text
       options: []
       required: false
     - id: 22
-      name: data_usage_description
-      label: Data Usage Description
+      name: data_usage_description_2
+      label: Data Usage Description 2
       hint: Please describe how you will use this data.
       type: text
       options: []
       required: false
     - id: 23
-      name: data_retention_period
-      label: Data Retention Period
+      name: data_retention_period_2
+      label: Data Retention Period 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 month'', ''value'': 1}'
-      - '{''label'': ''6 months'', ''value'': 2}'
-      - '{''label'': ''1 year'', ''value'': 3}'
+      - 1 month
+      - 6 months
+      - 1 year
       required: false
     - id: 24
-      name: data_sharing
-      label: Data Sharing
+      name: data_sharing_2
+      label: Data Sharing 2
       hint: null
       type: select_multiple
       options:
@@ -184,8 +184,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 25
-      name: contact_person
-      label: Contact Person
+      name: contact_person_2
+      label: Contact Person 2
       hint: Enter the name of the contact person.
       type: text
       options: []

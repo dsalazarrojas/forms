@@ -21,7 +21,7 @@ inputSchema:
       required: true
     - id: 3
       name: customer_segment_options
-      label: Customer Segment
+      label: Customer Segment Options
       hint: null
       type: select_multiple
       options:
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 1 month''}'
-      - '{''id'': 2, ''label'': ''1-3 months''}'
-      - '{''id'': 3, ''label'': ''3-6 months''}'
-      - '{''id'': 4, ''label'': ''More than 6 months''}'
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - More than 6 months
       required: true
     - id: 7
       name: retention_period_details
@@ -71,7 +71,7 @@ inputSchema:
       required: true
     - id: 9
       name: reasons_for_churn_options
-      label: Reasons for Churn
+      label: Reasons For Churn Options
       hint: null
       type: select_multiple
       options:
@@ -89,7 +89,7 @@ inputSchema:
       required: true
     - id: 11
       name: retention_strategy_options
-      label: Retention Strategy
+      label: Retention Strategy Options
       hint: null
       type: select_multiple
       options:
@@ -102,13 +102,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''In-person''}'
+      - Phone
+      - Email
+      - In-person
       required: true
     - id: 13
       name: customer_interaction_details
-      label: Customer Interaction
+      label: Customer Interaction Details
       hint: null
       type: text
       options: []

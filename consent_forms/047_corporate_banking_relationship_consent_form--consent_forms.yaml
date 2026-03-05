@@ -37,10 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Individual'', ''label'': ''Individual''}'
-      - '{''id'': 2, ''name'': ''Business'', ''label'': ''Business''}'
-      - '{''id'': 3, ''name'': ''Government Institution'', ''label'': ''Government
-        Institution''}'
+      - Individual
+      - Business
+      - Government Institution
       required: false
     - id: 6
       name: date_of_birth
@@ -111,8 +110,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Given'', ''label'': ''Given''}'
-      - '{''id'': 2, ''name'': ''Not Given'', ''label'': ''Not Given''}'
+      - Given
+      - Not Given
       required: false
     - id: 16
       name: consent_date
@@ -134,7 +133,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Signature 1'', ''label'': ''Signature 1''}'
-      - '{''id'': 2, ''name'': ''Signature 2'', ''label'': ''Signature 2''}'
-      - '{''id'': 3, ''name'': ''Signature 3'', ''label'': ''Signature 3''}'
+      - Signature 1
+      - Signature 2
+      - Signature 3
       required: false

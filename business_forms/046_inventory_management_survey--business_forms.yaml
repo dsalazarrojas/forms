@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Physical Inventory''}'
-      - '{''id'': 2, ''label'': ''Digital Inventory''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Physical Inventory
+      - Digital Inventory
+      - Both
       required: false
     - id: 4
       name: inventory_size
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''FIFO (First In First Out)''}'
-      - '{''id'': 2, ''label'': ''FEFO (First Expiry First Out)''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - FIFO (First In First Out)
+      - FEFO (First Expiry First Out)
+      - Other
       required: false
     - id: 7
       name: stock_management_frequency
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 8
       name: stock_management_team
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Warehouse''}'
-      - '{''id'': 2, ''label'': ''Store''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Warehouse
+      - Store
+      - Other
       required: false
     - id: 10
       name: stock_tracking_method
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manual''}'
-      - '{''id'': 2, ''label'': ''Automated''}'
+      - Manual
+      - Automated
       required: false
     - id: 11
       name: stock_loss_rate
@@ -114,9 +114,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Obsolescence''}'
-      - '{''id'': 2, ''label'': ''Obstruction''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Obsolescence
+      - Obstruction
+      - Other
       required: false
     - id: 15
       name: stock_obsoletion_method
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Automated''}'
-      - '{''id'': 2, ''label'': ''Manual''}'
+      - Automated
+      - Manual
       required: false
     - id: 16
       name: stock_purchasing_process
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Bulk''}'
-      - '{''id'': 2, ''label'': ''Just-In-Time (JIT)''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Bulk
+      - Just-In-Time (JIT)
+      - Other
       required: false
     - id: 17
       name: stock_return_policy
@@ -143,9 +143,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Always''}'
-      - '{''id'': 2, ''label'': ''Never''}'
-      - '{''id'': 3, ''label'': ''Sometimes''}'
+      - Always
+      - Never
+      - Sometimes
       required: false
     - id: 18
       name: stock_selling_strategy
@@ -153,9 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Just-in-time''}'
-      - '{''id'': 2, ''label'': ''Just-in-time and stockout''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Just-in-time
+      - Just-in-time and stockout
+      - Other
       required: false
     - id: 19
       name: stock_sourcing_method
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Local suppliers''}'
-      - '{''id'': 2, ''label'': ''International suppliers''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Local suppliers
+      - International suppliers
+      - Other
       required: false
     - id: 20
       name: stock_purchasing_frequency
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 21
       name: stock_purchasing_method
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Online''}'
-      - '{''id'': 2, ''label'': ''Offline''}'
+      - Online
+      - Offline
       required: false
     - id: 22
       name: stock_return_rate

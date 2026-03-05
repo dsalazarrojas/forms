@@ -12,58 +12,83 @@ inputSchema:
       required: false
     - id: 2
       name: practice_launch_pre_consult_questionnaire_page_2
-      label: Do you have any existing relationships with clients?
+      label: What is your current role or job function?
       hint: null
-      type: select_one
-      options:
-      - Consultant
-      - None
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 3
       name: practice_launch_pre_consult_questionnaire_page_3
-      label: What is the client's budget?
+      label: How many years of experience do you have in your field?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: practice_launch_pre_consult_questionnaire_page_4
-      label: What is the client's budget?
+      label: What is your current work location or industry?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: practice_launch_pre_consult_questionnaire_page_5
-      label: What is the client's budget?
-      hint: null
-      type: select_multiple
-      options:
-      - Low
-      - Medium
-      - High
-      required: false
-    - id: 6
-      name: practice_launch_pre_consult_questionnaire_page_6
-      label: What are the client's goals?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: practice_launch_pre_consult_questionnaire_page_7
       label: Do you have any existing relationships with clients?
       hint: null
       type: select_one
       options:
-      - Client A
-      - Client B
-      - Client C
+      - 'False'
+      - 'True'
+      required: true
+    - id: 6
+      name: practice_launch_pre_consult_questionnaire_page_6
+      label: What is the client's preferred consulting style?
+      hint: null
+      type: select_multiple
+      options:
+      - Low-key
+      - Medium-key
+      - High-key
+      required: true
+    - id: 7
+      name: practice_launch_pre_consult_questionnaire_page_7
+      label: What are the client's top goals for our consultation?
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 8
       name: practice_launch_pre_consult_questionnaire_page_8
-      label: What is the client's budget?
+      label: Additional notes or any other information?
       hint: null
-      type: number
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: practice_launch_pre_consult_questionnaire_page_9
+      label: Do you have any additional comments or questions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: practice_launch_pre_consult_questionnaire_page_10
+      label: Do you have any other information that would be helpful for our consultation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: practice_launch_pre_consult_questionnaire_page_11
+      label: Practice Launch Pre Consult Questionnaire Page 11
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: practice_launch_pre_consult_questionnaire_page_12
+      label: Practice Launch Pre Consult Questionnaire Page 12
+      hint: null
+      type: text
       options: []
       required: false

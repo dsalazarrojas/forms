@@ -9,86 +9,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 2
-      name: report_files
-      label: Files
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: report_priority
-      label: Priority
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: report_comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: report_priority_rating
-      label: Priority Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: report_submit_date
-      label: Submit Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: report_submit_time
-      label: Submit Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: report_submit_time_zone
-      label: Submit Time Zone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: report_submitter
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: report_category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 11
-      name: report_category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - High
+      - Medium
+      - Low
       required: true
-    - id: 12
+    - id: 2
       name: report_files
       label: Files
       hint: null
@@ -98,106 +23,65 @@ inputSchema:
       - File 2
       - File 3
       required: true
-    - id: 13
-      name: report_comments
-      label: Comments
-      hint: null
-      type: select_multiple
-      options:
-      - Comment 1
-      - Comment 2
-      - Comment 3
-      required: true
-    - id: 14
-      name: report_comments
-      label: Comments
-      hint: null
-      type: select_multiple
-      options:
-      - Comment 1
-      - Comment 2
-      - Comment 3
-      required: true
-    - id: 15
+    - id: 3
       name: report_priority
       label: Priority
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Urgent
+      - High
+      - Low
       required: true
-    - id: 16
+    - id: 4
+      name: report_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: report_submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: report_submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: report_submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: report_submitter_2
+      label: Report Submitter 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: report_submit_time_zone
+      label: Submit Time Zone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
       name: report_priority_rating
       label: Priority Rating
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: true
-    - id: 17
-      name: report_submit_date
-      label: Submit Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: report_submit_time
-      label: Submit Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: report_submit_time_zone
-      label: Submit Time Zone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: report_submitter
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: report_submitter
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: report_submitter
-      label: Submitter
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: report_submit_date
-      label: Submit Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: report_submit_time
-      label: Submit Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: report_submit_time_zone
-      label: Submit Time Zone
-      hint: null
-      type: text
-      options: []
-      required: false

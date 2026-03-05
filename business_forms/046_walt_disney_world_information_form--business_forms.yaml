@@ -5,181 +5,91 @@ inputSchema:
     pages:
     - id: 1
       name: form_name
-      label: form_name
+      label: Enter Your Name
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: first_name
-      label: first_name
+      name: last_name
+      label: Last Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: last_name
-      label: last_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: email
-      label: email
-      hint: null
+      label: Email Address
+      hint: Your email address will be used to provide you with updates and information
+        about your visit.
       type: email
       options: []
       required: false
-    - id: 5
+    - id: 4
       name: phone
-      label: phone
+      label: Phone Number
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: date
-      label: date
-      hint: null
+      label: Date
+      hint: The date of your visit, in the format dd-mm-yyyy
       type: date
       options: []
       required: false
-    - id: 7
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
+    - id: 6
       name: assigned_tool
-      label: assigned_tool
+      label: Assigned Tool
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'A: Tool A'
+      - 'B: Tool B'
+      - 'C: Tool C'
       required: false
-    - id: 10
+    - id: 7
       name: category
-      label: category
+      label: Category
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'A: Category A'
+      - 'B: Category B'
+      - 'C: Category C'
+      required: false
+    - id: 8
+      name: page_number
+      label: Page Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 11
-      name: page_number
-      label: page_number
+      name: form_id
+      label: Form ID
       hint: null
       type: number
       options: []
       required: false
     - id: 12
-      name: form_description
-      label: form_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_category
-      label: form_category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_id
-      label: form_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
       name: form_output_file
-      label: form_output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_assigned_tool
-      label: form_assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_category
-      label: form_category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_description
-      label: form_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_title
-      label: form_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_form_ids
-      label: form_form_ids
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: form_output_file
-      label: form_output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_assigned_tool
-      label: form_assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_category
-      label: form_category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_description
-      label: form_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_title
-      label: form_title
+      label: Form Output File
       hint: null
       type: text
       options: []

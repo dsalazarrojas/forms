@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Rod''}'
-      - '{''id'': 2, ''label'': ''Sheet''}'
-      - '{''id'': 3, ''label'': ''Coil''}'
+      - Rod
+      - Sheet
+      - Coil
       required: false
     - id: 3
       name: product_width
@@ -26,14 +26,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''1/2 inch''}'
-      - '{''id'': 2, ''label'': ''1/4 inch''}'
-      - '{''id'': 3, ''label'': ''1/8 inch''}'
-      - '{''id'': 4, ''label'': ''3/8 inch''}'
-      - '{''id'': 5, ''label'': ''1/4 inch''}'
-      - '{''id'': 6, ''label'': ''3/16 inch''}'
-      - '{''id'': 7, ''label'': ''1/2 inch''}'
-      - '{''id'': 8, ''label'': ''5/8 inch''}'
+      - 1/2 inch
+      - 1/4 inch
+      - 1/8 inch
+      - 3/8 inch
+      - 3/16 inch
+      - 5/8 inch
       required: false
     - id: 4
       name: product_length
@@ -41,14 +39,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''10 ft''}'
-      - '{''id'': 2, ''label'': ''25 ft''}'
-      - '{''id'': 3, ''label'': ''50 ft''}'
-      - '{''id'': 4, ''label'': ''100 ft''}'
-      - '{''id'': 5, ''label'': ''150 ft''}'
-      - '{''id'': 6, ''label'': ''200 ft''}'
-      - '{''id'': 7, ''label'': ''250 ft''}'
-      - '{''id'': 8, ''label'': ''500 ft''}'
+      - 10 ft
+      - 25 ft
+      - 50 ft
+      - 100 ft
+      - 150 ft
+      - 200 ft
+      - 250 ft
+      - 500 ft
       required: false
     - id: 5
       name: material
@@ -56,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Aluminum''}'
-      - '{''id'': 2, ''label'': ''Steel''}'
-      - '{''id'': 3, ''label'': ''Galvanized Steel''}'
+      - Aluminum
+      - Steel
+      - Galvanized Steel
       required: false
     - id: 6
       name: quantity
@@ -122,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Joe''}'
+      - John
+      - Jane
+      - Joe
       required: false
     - id: 15
       name: quote_price

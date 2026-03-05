@@ -5,66 +5,69 @@ inputSchema:
     pages:
     - id: 1
       name: storage_practices
-      label: Storage Practices
+      label: Current Storage Method
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Storage 1
+      - Storage 2
+      - Storage 3
+      required: true
     - id: 2
       name: storage_capacity
       label: Storage Capacity
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: storage_challenges
       label: Storage Challenges
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: storage_facility
       label: Storage Facility
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facility 1'', ''value'': ''Facility 1''}'
-      - '{''id'': 2, ''name'': ''Facility 2'', ''value'': ''Facility 2''}'
-      - '{''id'': 3, ''name'': ''Facility 3'', ''value'': ''Facility 3''}'
-      required: false
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      required: true
     - id: 5
       name: storage_practices_1
       label: Storage Practices
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Practice 1'', ''value'': ''Practice 1''}'
-      - '{''id'': 2, ''name'': ''Practice 2'', ''value'': ''Practice 2''}'
-      - '{''id'': 3, ''name'': ''Practice 3'', ''value'': ''Practice 3''}'
-      required: false
+      - Practice 1
+      - Practice 2
+      - Practice 3
+      required: true
     - id: 6
-      name: storage_capacity_1
-      label: Storage Capacity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
       name: storage_challenges_1
-      label: Storage Challenges
+      label: Storage Challenges 1
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: storage_facility_1
-      label: Storage Facility
+      label: Storage Facility 1
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facility 1'', ''value'': ''Facility 1''}'
-      - '{''id'': 2, ''name'': ''Facility 2'', ''value'': ''Facility 2''}'
-      - '{''id'': 3, ''name'': ''Facility 3'', ''value'': ''Facility 3''}'
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      required: true
+    - id: 8
+      name: other_challenges
+      label: Other Challenges
+      hint: null
+      type: text
+      options: []
       required: false

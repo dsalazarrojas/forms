@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''active''}'
-      - '{''label'': ''inactive''}'
-      - '{''label'': ''cancelled''}'
+      - active
+      - inactive
+      - cancelled
       required: false
     - id: 5
       name: subscription_start_date
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''monthly''}'
-      - '{''label'': ''yearly''}'
-      - '{''label'': ''quarterly''}'
+      - monthly
+      - yearly
+      - quarterly
       required: false
     - id: 11
       name: billing_status
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''paid''}'
-      - '{''label'': ''unpaid''}'
-      - '{''label'': ''pending''}'
+      - paid
+      - unpaid
+      - pending
       required: false
     - id: 12
       name: payment_method
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''credit_card''}'
-      - '{''label'': ''bank_transfer''}'
-      - '{''label'': ''paypal''}'
+      - credit card
+      - bank transfer
+      - paypal
       required: false
     - id: 13
       name: subscription_plan
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''active''}'
-      - '{''label'': ''inactive''}'
-      - '{''label'': ''cancelled''}'
+      - active
+      - inactive
+      - cancelled
       required: false
     - id: 17
       name: subscription_start_date_range

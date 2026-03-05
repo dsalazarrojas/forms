@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Ready'', ''value'': ''Ready''}'
-      - '{''label'': ''Not Ready'', ''value'': ''Not Ready''}'
+      - Ready
+      - Not Ready
       required: false
     - id: 5
       name: onboarding_details
@@ -39,11 +39,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Team Lead Introduction'', ''value'': ''Team Lead Introduction''}'
-      - '{''label'': ''Project Overview'', ''value'': ''Project Overview''}'
-      - '{''label'': ''Team Members Introduction'', ''value'': ''Team Members Introduction''}'
-      - '{''label'': ''First Week Tasks'', ''value'': ''First Week Tasks''}'
-      - '{''label'': ''Access and Setup'', ''value'': ''Access and Setup''}'
+      - Team Lead Introduction
+      - Project Overview
+      - Team Members Introduction
+      - First Week Tasks
+      - Access and Setup
       required: false
     - id: 6
       name: setup_details
@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Company Email'', ''value'': ''Company Email''}'
-      - '{''label'': ''Company Phone'', ''value'': ''Company Phone''}'
-      - '{''label'': ''Team Lead'', ''value'': ''Team Lead''}'
-      - '{''label'': ''Project Manager'', ''value'': ''Project Manager''}'
+      - Company Email
+      - Company Phone
+      - Team Lead
+      - Project Manager
       required: false
     - id: 7
       name: chat_details
@@ -62,11 +62,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Slack'', ''value'': ''Slack''}'
-      - '{''label'': ''Skype'', ''value'': ''Skype''}'
-      - '{''label'': ''Zoom'', ''value'': ''Zoom''}'
-      - '{''label'': ''Other'', ''value'': ''Other''}'
-      - '{''label'': ''Team Lead'', ''value'': ''Team Lead''}'
+      - Slack
+      - Skype
+      - Zoom
+      - Other
+      - Team Lead
       required: false
     - id: 8
       name: project_info
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Project Description'', ''value'': ''Project Description''}'
-      - '{''label'': ''Project Goals'', ''value'': ''Project Goals''}'
-      - '{''label'': ''Team Project'', ''value'': ''Team Project''}'
-      - '{''label'': ''Project Status'', ''value'': ''Project Status''}'
+      - Project Description
+      - Project Goals
+      - Team Project
+      - Project Status
       required: false
     - id: 9
       name: team_info
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Team Lead'', ''value'': ''Team Lead''}'
-      - '{''label'': ''Team Members'', ''value'': ''Team Members''}'
-      - '{''label'': ''Team Project Leads'', ''value'': ''Team Project Leads''}'
-      - '{''label'': ''Project Manager'', ''value'': ''Project Manager''}'
+      - Team Lead
+      - Team Members
+      - Team Project Leads
+      - Project Manager
       required: false
     - id: 10
       name: first_week_tasks
@@ -96,16 +96,16 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Task 1'', ''value'': ''Task 1''}'
-      - '{''label'': ''Task 2'', ''value'': ''Task 2''}'
-      - '{''label'': ''Task 3'', ''value'': ''Task 3''}'
-      - '{''label'': ''Task 4'', ''value'': ''Task 4''}'
-      - '{''label'': ''Task 5'', ''value'': ''Task 5''}'
-      - '{''label'': ''Task 6'', ''value'': ''Task 6''}'
-      - '{''label'': ''Task 7'', ''value'': ''Task 7''}'
-      - '{''label'': ''Task 8'', ''value'': ''Task 8''}'
-      - '{''label'': ''Task 9'', ''value'': ''Task 9''}'
-      - '{''label'': ''Task 10'', ''value'': ''Task 10''}'
+      - Task 1
+      - Task 2
+      - Task 3
+      - Task 4
+      - Task 5
+      - Task 6
+      - Task 7
+      - Task 8
+      - Task 9
+      - Task 10
       required: false
     - id: 11
       name: onboarding_completed
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Onboarding Completed'', ''value'': ''Onboarding Completed''}'
-      - '{''label'': ''Not Completed'', ''value'': ''Not Completed''}'
+      - Onboarding Completed
+      - Not Completed
       required: false
     - id: 12
       name: first_week_readiness_notes

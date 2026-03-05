@@ -1,152 +1,141 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Consulting Partnership Value Survey
     pages:
-      - id: 1
-        name: organization_name
-        label: Organization Name
-        hint: Enter your organization's name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: respondent_role
-        label: Your Role in the Partnership
-        hint: Position within the organization
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: duration_of_partnership
-        label: Duration of Partnership
-        hint: How long have we worked together?
-        type: select_one
-        options:
-          - Less than 6 months
-          - 6 to 12 months
-          - 1 to 3 years
-          - More than 3 years
-        required: true
-      - id: 4
-        name: section_partnership_performance
-        label: -- Partnership Performance --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: rating_alignment
-        label: Alignment with Organizational Goals
-        hint: How well do we understand your mission?
-        type: select_one
-        options:
-          - 1 - Not Aligned
-          - 2
-          - 3 - Neutral
-          - 4
-          - 5 - Highly Aligned
-        required: true
-      - id: 6
-        name: rating_collaboration
-        label: Level of Collaboration
-        hint: How effectively do we work with your team?
-        type: select_one
-        options:
-          - 1 - Poor
-          - 2
-          - 3 - Average
-          - 4
-          - 5 - Excellent
-        required: true
-      - id: 7
-        name: rating_trust
-        label: Level of Trust and Transparency
-        hint: How would you rate the trust between us?
-        type: select_one
-        options:
-          - 1 - Low
-          - 2
-          - 3 - Moderate
-          - 4
-          - 5 - High
-        required: true
-      - id: 8
-        name: section_value_assessment
-        label: -- Value Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: perceived_value_for_money
-        label: Perceived Value for Investment
-        hint: Are you getting a good return on your spend?
-        type: select_one
-        options:
-          - Poor Value
-          - Below Average
-          - Good Value
-          - Excellent Value
-        required: true
-      - id: 10
-        name: specific_value_example
-        label: Specific Example of Partnership Value
-        hint: Describe a key success or win
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: rating_overall_satisfaction
-        label: Overall Satisfaction Rating
-        hint: General satisfaction with the partnership
-        type: select_one
-        options:
-          - 1 - Very Dissatisfied
-          - 2
-          - 3 - Neutral
-          - 4
-          - 5 - Very Satisfied
-        required: true
-      - id: 12
-        name: section_improvements
-        label: -- Looking Forward --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: primary_improvement_area
-        label: Primary Area for Improvement
-        hint: What is the single biggest thing we can improve?
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: future_collaboration_interest
-        label: Interest in Future Collaborative Projects
-        hint: Are you interested in working with us again?
-        type: select_one
-        options:
-          - Very Interested
-          - Interested
-          - Not Interested at this time
-        required: false
-      - id: 15
-        name: additional_feedback
-        label: Any Additional Feedback or Comments
-        hint: Anything else we should know?
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Enter your organization's name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_role
+      label: Your Role in the Partnership
+      hint: Position within the organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: duration_of_partnership
+      label: Duration of Partnership
+      hint: How long have we worked together?
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 to 12 months
+      - 1 to 3 years
+      - More than 3 years
+      required: true
+    - id: 4
+      name: section_partnership_performance
+      label: -- Partnership Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: rating_alignment
+      label: Alignment with Organizational Goals
+      hint: How well do we understand your mission?
+      type: select_one
+      options:
+      - 1 - Not Aligned
+      - '2'
+      - 3 - Neutral
+      - '4'
+      - 5 - Highly Aligned
+      required: true
+    - id: 6
+      name: rating_collaboration
+      label: Level of Collaboration
+      hint: How effectively do we work with your team?
+      type: select_one
+      options:
+      - 1 - Poor
+      - '2'
+      - 3 - Average
+      - '4'
+      - 5 - Excellent
+      required: true
+    - id: 7
+      name: rating_trust
+      label: Level of Trust and Transparency
+      hint: How would you rate the trust between us?
+      type: select_one
+      options:
+      - 1 - Low
+      - '2'
+      - 3 - Moderate
+      - '4'
+      - 5 - High
+      required: true
+    - id: 8
+      name: section_value_assessment
+      label: -- Value Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: perceived_value_for_money
+      label: Perceived Value for Investment
+      hint: Are you getting a good return on your spend?
+      type: select_one
+      options:
+      - Poor Value
+      - Below Average
+      - Good Value
+      - Excellent Value
+      required: true
+    - id: 10
+      name: specific_value_example
+      label: Specific Example of Partnership Value
+      hint: Describe a key success or win
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating_overall_satisfaction
+      label: Overall Satisfaction Rating
+      hint: General satisfaction with the partnership
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - '2'
+      - 3 - Neutral
+      - '4'
+      - 5 - Very Satisfied
+      required: true
+    - id: 12
+      name: section_improvements
+      label: -- Looking Forward --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_improvement_area
+      label: Primary Area for Improvement
+      hint: What is the single biggest thing we can improve?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: future_collaboration_interest
+      label: Interest in Future Collaborative Projects
+      hint: Are you interested in working with us again?
+      type: select_one
+      options:
+      - Very Interested
+      - Interested
+      - Not Interested at this time
+      required: false
+    - id: 15
+      name: additional_feedback
+      label: Any Additional Feedback or Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

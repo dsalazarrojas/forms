@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''title'': ''Released''}'
-      - '{''title'': ''Unreleased''}'
-      - '{''title'': ''Removed''}'
+      - Released
+      - Unreleased
+      - Removed
       required: true
     - id: 3
       name: release_date
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''title'': ''Facebook''}'
-      - '{''title'': ''Vimeo''}'
-      - '{''title'': ''YouTube''}'
-      - '{''title'': ''Instagram''}'
+      - Facebook
+      - Vimeo
+      - YouTube
+      - Instagram
       required: false
     - id: 6
       name: contact_email

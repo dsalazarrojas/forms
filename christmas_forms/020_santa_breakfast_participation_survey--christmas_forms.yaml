@@ -5,78 +5,38 @@ inputSchema:
     pages:
     - id: 1
       name: participant_info
-      label: participant_info
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: school_name
-      label: school_name
+      name: school_details
+      label: Which school did you attend?
       hint: null
       type: select_one
       options:
-      - School of Santa
-      - Nonprofit
-      - Community Organizers
+      - Santa School
+      - Community School
+      - Other
       required: true
     - id: 3
       name: event_date
-      label: event_date
+      label: When was the event held?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: event_time
-      label: event_time
+      label: What time did you attend the event?
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: feedback
-      label: feedback
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: event_attended
-      label: attended_event
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: true
-    - id: 9
-      name: attended_with
-      label: attended_with
-      hint: null
-      type: select_multiple
-      options:
-      - Family
-      - Friends
-      - Alone
-      required: true
-    - id: 10
       name: event_satisfaction
-      label: event_satisfaction
+      label: How satisfied were you with the event?
       hint: null
       type: select_one
       options:
@@ -86,51 +46,37 @@ inputSchema:
       - Dissatisfied
       - Very Dissatisfied
       required: true
-    - id: 11
-      name: event_improvement
-      label: event_improvement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
+    - id: 6
       name: additional_comments
-      label: additional_comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 13
-      name: assigned_tool
-      label: assigned_tool
+      label: Do you have any additional comments or suggestions?
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
+    - id: 7
+      name: tool_assignment
+      label: What tools were assigned to you during the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
       name: output_file_name
-      label: output_file_name
+      label: What is the name of the output file?
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
+    - id: 9
       name: form_id
-      label: form_id
+      label: What is the form ID?
       hint: null
       type: number
       options: []
       required: false
-    - id: 16
-      name: form_title
-      label: form_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
+    - id: 10
       name: form_category
-      label: form_category
+      label: What is the category of this form?
       hint: null
       type: select_one
       options:
@@ -138,59 +84,66 @@ inputSchema:
       - Nonprofit Forms
       - Holiday Forms
       required: true
-    - id: 18
+    - id: 11
       name: form_description
-      label: form_description
+      label: What is the description of this form?
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: description
-      label: description
+    - id: 12
+      name: form_creator
+      label: Who created this form?
       hint: null
       type: text
       options: []
       required: false
-    - id: 20
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: created_by
-      label: created_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: output_file_name
-      label: output_file_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
+    - id: 13
       name: output_file
-      label: output_file
+      label: What is the output file?
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
+    - id: 14
       name: input_schema
-      label: input_schema
+      label: What is the input schema for this form?
       hint: null
       type: text
       options: []
       required: false
-    - id: 25
-      name: form_id
-      label: form_id
+    - id: 15
+      name: form_id_number
+      label: Form Id Number
       hint: null
       type: number
+      options: []
+      required: false
+    - id: 16
+      name: attended_with
+      label: Were you attending the event with someone else?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: event_rating
+      label: How would you rate the event?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Terrible
+      required: true
+    - id: 18
+      name: event_comments
+      label: Do you have any additional comments about the event?
+      hint: null
+      type: text
       options: []
       required: false

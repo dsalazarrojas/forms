@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''label'': ''One''}'
-      - '{''id'': 11, ''label'': ''Two or more''}'
+      - One
+      - Two or more
       required: true
     - id: 4
       name: birthdate
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 20, ''label'': ''One on one coaching''}'
-      - '{''id'': 21, ''label'': ''Group coaching''}'
-      - '{''id'': 22, ''label'': ''Other (please specify)''}'
+      - One on one coaching
+      - Group coaching
+      - Other (please specify)
       required: true
     - id: 6
       name: session_frequency
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 30, ''label'': ''Parent and Counselor''}'
-      - '{''id'': 31, ''label'': ''Parent and Parent''}'
-      - '{''id'': 32, ''label'': ''Other''}'
+      - Parent and Counselor
+      - Parent and Parent
+      - Other
       required: true
     - id: 16
       name: session_length_notes
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 40, ''label'': ''Goal One''}'
-      - '{''id'': 41, ''label'': ''Goal Two''}'
-      - '{''id'': 42, ''label'': ''Goal Three''}'
+      - Goal One
+      - Goal Two
+      - Goal Three
       required: true
     - id: 18
       name: coaching_type_notes
@@ -167,8 +167,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 50, ''label'': ''Parent Expectations''}'
-      - '{''id'': 51, ''label'': ''Parent Goals''}'
+      - Parent Expectations
+      - Parent Goals
       required: true
     - id: 23
       name: emergency_contact_relationship
@@ -176,8 +176,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 60, ''label'': ''Emergency Contact''}'
-      - '{''id'': 61, ''label'': ''Family Member''}'
+      - Emergency Contact
+      - Family Member
       required: true
     - id: 24
       name: session_notes2

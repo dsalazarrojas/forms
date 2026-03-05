@@ -4,143 +4,133 @@ inputSchema:
     title: PAR Q Fitness Form GBPT
     pages:
     - id: 1
-      name: first_question
-      label: Has the patient ever had any of the following?
+      name: medical_conditions
+      label: Do you have any medical conditions that may impact your physical activity?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Option A
+      - Option B
       required: false
     - id: 2
-      name: second_question
-      label: second_question
+      name: age
+      label: What is your current age?
       hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: patient_weight
-      label: weight
+      name: height
+      label: What is your height (in meters)?
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: height
-      label: height
+      name: weight
+      label: What is your weight (in kg)?
       hint: null
       type: number
       options: []
       required: false
     - id: 5
       name: bmi
-      label: bmi
+      label: What is your body mass index (BMI)?
       hint: null
       type: number
       options: []
       required: false
     - id: 6
       name: blood_pressure
-      label: blood pressure
+      label: What is your blood pressure?
       hint: null
       type: number
       options: []
       required: false
     - id: 7
       name: resting_heart_rate
-      label: resting_heart_rate
+      label: What is your resting heart rate?
       hint: null
       type: number
       options: []
       required: false
     - id: 8
-      name: resting_heart_rate
-      label: resting_heart_rate
+      name: previous_injuries
+      label: Have you ever had any previous injuries or illnesses that may impact
+        your exercise routine?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 9
-      name: blood_pressure
-      label: blood pressure
+      name: exercise_frequency
+      label: What is your exercise frequency (days per week)?
       hint: null
       type: number
       options: []
       required: false
     - id: 10
-      name: resting_heart_rate
-      label: resting_heart_rate
+      name: exercise_type
+      label: How often do you exercise?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 11
-      name: resting_heart_rate
-      label: resting_heart_rate
+      name: exercise_session_duration
+      label: How long do you exercise each session?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: resting_heart_rate
-      label: resting_heart_rate
+      name: exercise_location
+      label: Do you exercise at home or in a gym?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 13
-      name: exercise_frequency
-      label: exercise_frequency
+      name: exercise_buddy
+      label: Who is your exercise buddy?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 14
-      name: exercise
-      label: exercise
+      name: medical_equipment
+      label: Do you have any medical equipment for exercise?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Option A
+      - Option B
       required: false
     - id: 15
-      name: exercise_frequency
-      label: exercise_frequency
+      name: future_exercise_plans
+      label: Do you have any plans for future exercise plans?
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 16
-      name: exercise
-      label: exercise
+      name: exercise_type_2
+      label: How do you usually exercise?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 17
-      name: exercise
-      label: exercise
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 18
-      name: exercise
-      label: exercise
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Option A
+      - Option B
       required: false

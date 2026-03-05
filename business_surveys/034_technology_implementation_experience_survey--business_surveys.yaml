@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Positive Experience''}'
-      - '{''value'': ''Negative Experience''}'
-      - '{''value'': ''Neutral''}'
+      - Positive Experience
+      - Negative Experience
+      - Neutral
       required: false
     - id: 2
       name: new_systems_description
@@ -26,12 +26,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Financial''}'
-      - '{''value'': ''Increased Efficiency''}'
-      - '{''value'': ''Reduced Costs''}'
-      - '{''value'': ''Other (please specify)''}'
-      - '{''value'': ''Improved Productivity''}'
-      - '{''value'': ''Enhanced User Experience''}'
+      - Financial
+      - Increased Efficiency
+      - Reduced Costs
+      - Other (please specify)
+      - Improved Productivity
+      - Enhanced User Experience
       required: false
     - id: 4
       name: challenges
@@ -39,10 +39,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Technical issues''}'
-      - '{''value'': ''User acceptance''}'
-      - '{''value'': ''Communication challenges''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Technical issues
+      - User acceptance
+      - Communication challenges
+      - Other (please specify)
       required: false
     - id: 5
       name: technology_used
@@ -50,14 +50,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Cloud Computing''}'
-      - '{''value'': ''Artificial Intelligence''}'
-      - '{''value'': ''Internet of Things (IoT)''}'
-      - '{''value'': ''Blockchain''}'
-      - '{''value'': ''Database Management''}'
-      - '{''value'': ''Cyber Security''}'
-      - '{''value'': ''Data Analytics''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Cloud Computing
+      - Artificial Intelligence
+      - Internet of Things (IoT)
+      - Blockchain
+      - Database Management
+      - Cyber Security
+      - Data Analytics
+      - Other (please specify)
       required: false
     - id: 6
       name: project_leader
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''IT Director''}'
-      - '{''value'': ''Project Manager''}'
-      - '{''value'': ''Team Lead''}'
-      - '{''value'': ''Other (please specify)''}'
-      - '{''value'': ''Other''}'
+      - IT Director
+      - Project Manager
+      - Team Lead
+      - Other (please specify)
+      - Other
       required: false
     - id: 7
       name: team_size
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 10
       name: other_comments

@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''consent''}'
-      - '{''label'': False}'
+      - consent
+      - 'False'
       required: true
     - id: 4
       name: procedure_details
@@ -144,9 +144,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Home''}'
-      - '{''label'': ''Mobile''}'
-      - '{''label'': ''Work''}'
+      - Home
+      - Mobile
+      - Work
       required: true
     - id: 21
       name: aftercare_instructions
@@ -161,7 +161,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Home''}'
-      - '{''label'': ''Mobile''}'
-      - '{''label'': ''Work''}'
+      - Home
+      - Mobile
+      - Work
       required: false

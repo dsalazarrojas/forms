@@ -120,7 +120,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 15
       name: safety_rules
@@ -129,7 +129,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 16
       name: capacity_limitations
@@ -138,7 +138,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 17
       name: liability_release
@@ -156,7 +156,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Assume
-      - false
+      - 'False'
       required: true
     - id: 19
       name: policy_changes
@@ -165,7 +165,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 20
       name: compliance_agreement
@@ -174,7 +174,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 21
       name: symptom_reporting
@@ -183,7 +183,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 22
       name: minor_guest
@@ -191,8 +191,8 @@ inputSchema:
       hint: Under 18 years
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: parent_guardian_name

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Mr'', ''value'': ''Mr''}'
-      - '{''id'': 2, ''name'': ''Ms'', ''value'': ''Ms''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - Mr
+      - Ms
+      - Other
       required: true
     - id: 3
       name: contact_address
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Commercial'', ''value'': ''Commercial''}'
-      - '{''id'': 2, ''name'': ''Residential'', ''value'': ''Residential''}'
-      - '{''id'': 3, ''name'': ''Both'', ''value'': ''Both''}'
+      - Commercial
+      - Residential
+      - Both
       required: true
     - id: 10
       name: date_of_birth
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active'', ''value'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive'', ''value'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''Suspended'', ''value'': ''Suspended''}'
+      - Active
+      - Inactive
+      - Suspended
       required: true
     - id: 14
       name: additional_licenses
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Series 3'', ''value'': ''Series 3''}'
-      - '{''id'': 2, ''name'': ''Series 4'', ''value'': ''Series 4''}'
-      - '{''id'': 3, ''name'': ''Series 6'', ''value'': ''Series 6''}'
+      - Series 3
+      - Series 4
+      - Series 6
       required: false
     - id: 15
       name: broker_agency
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active'', ''value'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive'', ''value'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''New'', ''value'': ''New''}'
+      - Active
+      - Inactive
+      - New
       required: true
     - id: 17
       name: broker_agency_type
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Individual'', ''value'': ''Individual''}'
-      - '{''id'': 2, ''name'': ''Partnership'', ''value'': ''Partnership''}'
-      - '{''id'': 3, ''name'': ''Corporation'', ''value'': ''Corporation''}'
+      - Individual
+      - Partnership
+      - Corporation
       required: true
     - id: 18
       name: broker_termination_date

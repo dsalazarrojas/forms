@@ -20,7 +20,7 @@ inputSchema:
     - id: 3
       name: consent_time
       label: Consent Time
-      hint: "HH:MM AM/PM"
+      hint: HH:MM AM/PM
       type: time
       options: []
       required: false
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Book''}'
-      - '{''option'': ''Article''}'
-      - '{''option'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 6
       name: fan_submitter_info
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Yes''}'
-      - '{''option'': ''No''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 8
       name: other_publication_type_other

@@ -5,30 +5,31 @@ inputSchema:
     pages:
     - id: 1
       name: event_waiver_form_part_1
-      label: Event Waiver Form Part 1
+      label: Brief Description of the Event
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: participant_part_1
-      label: Participant
+      label: Select the Participant
       hint: null
       type: select_one
       options:
       - Participant 1
       - Participant 2
+      - Participant 3
       required: false
     - id: 3
       name: event_waiver_form_part_2
-      label: Event Waiver Form Part 2
+      label: Understanding and Agreement
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: participant_part_2
-      label: Participant
+      label: Select All Participants
       hint: null
       type: select_multiple
       options:
@@ -38,42 +39,42 @@ inputSchema:
       required: false
     - id: 5
       name: risk_description_part_1
-      label: Risk Description
+      label: Describe the Potential Risks
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: risk_description_part_2
-      label: Risk Description
+      label: Describe Additional Risks
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: signature_part_1
-      label: Signature
+      label: Reviewed and Agreed
       hint: null
       type: select_one
       options:
-      - Participant 1
-      - Participant 2
-      required: false
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 8
       name: signature_part_2
-      label: Signature
+      label: Signed and Agreed
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 9
       name: signature_part_3
-      label: Signature
+      label: Acknowledged and Agreed
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true

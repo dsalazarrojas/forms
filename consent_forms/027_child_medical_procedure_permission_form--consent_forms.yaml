@@ -1,137 +1,118 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Child Medical Procedure Permission Form
     pages:
-      - id: 1
-        name: section_procedure_details
-        label: -- Procedure Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: procedure_name
-        label: Name of Medical Procedure
-        hint: e.g., Tonsillectomy, Dental Filling
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: scheduled_date
-        label: Scheduled Procedure Date
-        hint: Date of appointment
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: section_patient_info
-        label: -- Patient Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: minor_name
-        label: Minor Full Name
-        hint: Patient name
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: minor_dob
-        label: Date of Birth
-        hint: To verify patient identity
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: section_guardian_permission
-        label: -- Guardian Permission --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: guardian_name
-        label: Parent or Guardian Name
-        hint: Person granting permission
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: relationship_to_minor
-        label: Relationship to Minor
-        hint: Select legal status
-        type: select_one
-        options:
-          - label: Parent
-            value: parent
-          - label: Legal Guardian
-            value: guardian
-          - label: Other Authorized Representative
-            value: other
-        required: true
-      - id: 10
-        name: section_medical_history
-        label: -- Medical History --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: recent_illness
-        label: Any recent illnesses or fever?
-        hint: Within the last 48 hours
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: fasting_status
-        label: Has the child fasted as required?
-        hint: No food or water if applicable
-        type: select_one
-        options:
-          - label: Yes - Followed Fasting Instructions
-            value: yes
-          - label: No - Has Eaten
-            value: no
-          - label: Not Applicable to this procedure
-            value: na
-        required: true
-      - id: 13
-        name: section_risk_ack
-        label: -- Acknowledgment of Risks --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: risk_informed
-        label: I have been informed of the risks and benefits
-        hint: Informed consent acknowledgment
-        type: select_one
-        options:
-          - label: Yes - I Understand
-            value: yes
-          - label: No - I Need More Information
-            value: no
-        required: true
-      - id: 15
-        name: today_date
-        label: Today Date
-        hint: Date of form submission
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: section_procedure_details
+      label: -- Procedure Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: procedure_name
+      label: Name of Medical Procedure
+      hint: e.g., Tonsillectomy, Dental Filling
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: scheduled_date
+      label: Scheduled Procedure Date
+      hint: Date of appointment
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_patient_info
+      label: -- Patient Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: minor_name
+      label: Minor Full Name
+      hint: Patient name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: minor_dob
+      label: Date of Birth
+      hint: To verify patient identity
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_guardian_permission
+      label: -- Guardian Permission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: Person granting permission
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: relationship_to_minor
+      label: Relationship to Minor
+      hint: Select legal status
+      type: select_one
+      options:
+      - Parent
+      - Legal Guardian
+      - Other Authorized Representative
+      required: true
+    - id: 10
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: recent_illness
+      label: Any recent illnesses or fever?
+      hint: Within the last 48 hours
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fasting_status
+      label: Has the child fasted as required?
+      hint: No food or water if applicable
+      type: select_one
+      options:
+      - Yes - Followed Fasting Instructions
+      - No - Has Eaten
+      - Not Applicable to this procedure
+      required: true
+    - id: 13
+      name: section_risk_ack
+      label: -- Acknowledgment of Risks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: risk_informed
+      label: I have been informed of the risks and benefits
+      hint: Informed consent acknowledgment
+      type: select_one
+      options:
+      - Yes - I Understand
+      - No - I Need More Information
+      required: true
+    - id: 15
+      name: today_date
+      label: Today Date
+      hint: Date of form submission
+      type: date
+      options: []
+      required: true

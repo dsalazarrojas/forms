@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Manufacturing''}'
-      - '{''value'': ''Warehouse''}'
-      - '{''value'': ''Office''}'
+      - Manufacturing
+      - Warehouse
+      - Office
       required: false
     - id: 5
       name: control_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mechanical''}'
-      - '{''value'': ''Electrical''}'
-      - '{''value'': ''Pneumatic''}'
+      - Mechanical
+      - Electrical
+      - Pneumatic
       required: false
     - id: 6
       name: control_status
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Unknown''}'
+      - Active
+      - Inactive
+      - Unknown
       required: false
     - id: 7
       name: follow_up_date

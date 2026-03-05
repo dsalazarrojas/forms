@@ -100,7 +100,7 @@ inputSchema:
       hint: Do you have any?
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - Pacemaker
       - Yes - Metal Implants
       - Yes - Both
@@ -111,7 +111,7 @@ inputSchema:
       hint: Are you pregnant or nursing?
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, Pregnant
       - Yes, Nursing
       - Not Applicable
@@ -122,8 +122,8 @@ inputSchema:
       hint: Have you eaten in last 4 hours?
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 15
       name: recent_exercise
@@ -131,8 +131,8 @@ inputSchema:
       hint: Have you exercised in last 12 hours?
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 16
       name: hydration_status
@@ -140,8 +140,8 @@ inputSchema:
       hint: Are you properly hydrated?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 17
       name: scan_procedure_explained
@@ -152,7 +152,7 @@ inputSchema:
       - Yes, Completely
       - Mostly
       - Somewhat
-      - false
+      - 'False'
       required: true
     - id: 18
       name: risks_understood
@@ -160,8 +160,8 @@ inputSchema:
       hint: Do you understand any risks?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: data_usage_consent
@@ -198,8 +198,8 @@ inputSchema:
       hint: Would you like a consultation?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: voluntary_participation
@@ -208,7 +208,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Understand
-      - false
+      - 'False'
       required: true
     - id: 24
       name: right_to_withdraw
@@ -217,7 +217,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Understand
-      - false
+      - 'False'
       required: true
     - id: 25
       name: client_signature

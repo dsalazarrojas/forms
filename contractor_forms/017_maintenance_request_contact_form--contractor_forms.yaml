@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''service'', ''description'': ''Service''}'
-      - '{''id'': 11, ''name'': ''product'', ''description'': ''Product''}'
-      - '{''id'': 12, ''name'': ''other'', ''description'': ''Other''}'
+      - service
+      - product
+      - other
       required: false
     - id: 7
       name: service_type
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13, ''name'': ''installation'', ''description'': ''Installation''}'
-      - '{''id'': 14, ''name'': ''repair'', ''description'': ''Repair''}'
-      - '{''id'': 15, ''name'': ''maintenance'', ''description'': ''Maintenance''}'
+      - installation
+      - repair
+      - maintenance
       required: false
     - id: 8
       name: service_date

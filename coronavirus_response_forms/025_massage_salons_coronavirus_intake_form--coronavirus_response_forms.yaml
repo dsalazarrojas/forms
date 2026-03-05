@@ -30,18 +30,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Healthy'', ''value'': ''Healthy''}'
-      - '{''name'': ''Not Healthy'', ''value'': ''Not Healthy''}'
-      - '{''name'': ''Underlying Condition'', ''value'': ''Underlying Condition''}'
-      - '{''name'': ''Underlying Condition with a Fever'', ''value'': ''Underlying
-        Condition with a Fever''}'
-      - '{''name'': ''Underlying Condition with Fever and Shortness of Breath'', ''value'':
-        ''Underlying Condition with Fever and Shortness of Breath''}'
-      - '{''name'': ''Underlying Condition with Fever, Shortness of Breath, and Chest
-        Pain'', ''value'': ''Underlying Condition with Fever, Shortness of Breath,
-        and Chest Pain''}'
-      - '{''name'': ''Hospitalized with COVID-19'', ''value'': ''Hospitalized with
-        COVID-19''}'
+      - Healthy
+      - Not Healthy
+      - Underlying Condition
+      - Underlying Condition with a Fever
+      - Underlying Condition with Fever and Shortness of Breath
+      - Underlying Condition with Fever, Shortness of Breath, and Chest Pain
+      - Hospitalized with COVID-19
       required: false
     - id: 5
       name: symptoms
@@ -84,10 +79,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Not Vaccinated'', ''value'': ''Not Vaccinated''}'
-      - '{''name'': ''Partially Vaccinated'', ''value'': ''Partially Vaccinated''}'
-      - '{''name'': ''Fully Vaccinated'', ''value'': ''Fully Vaccinated''}'
-      - '{''name'': ''Vaccinated and Boosted'', ''value'': ''Vaccinated and Boosted''}'
+      - Not Vaccinated
+      - Partially Vaccinated
+      - Fully Vaccinated
+      - Vaccinated and Boosted
       required: false
     - id: 11
       name: covid19_test_results
@@ -95,9 +90,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Positive'', ''value'': ''Positive''}'
-      - '{''name'': ''Negative'', ''value'': ''Negative''}'
-      - '{''name'': ''Unknown'', ''value'': ''Unknown''}'
+      - Positive
+      - Negative
+      - Unknown
       required: false
     - id: 12
       name: symptoms_2
@@ -126,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': False, ''value'': False}'
-      - '{''name'': True, ''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 16
       name: medical_attention_provided
@@ -135,8 +130,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': False, ''value'': False}'
-      - '{''name'': True, ''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 17
       name: follow_up_visit
@@ -144,9 +139,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Not Scheduled'', ''value'': ''Not Scheduled''}'
-      - '{''name'': ''Scheduled'', ''value'': ''Scheduled''}'
-      - '{''name'': ''Completed'', ''value'': ''Completed''}'
+      - Not Scheduled
+      - Scheduled
+      - Completed
       required: false
     - id: 18
       name: follow_up_date

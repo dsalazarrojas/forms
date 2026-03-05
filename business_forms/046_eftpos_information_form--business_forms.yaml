@@ -66,14 +66,9 @@ inputSchema:
       type: select_one
       options:
       - Account Management
-      - Account Management
-      - Account Opening
       - Account Opening
       - Savings
-      - Savings
       - Loan
-      - Loan
-      - Other
       - Other
       required: true
     - id: 10
@@ -90,8 +85,6 @@ inputSchema:
       type: select_one
       options:
       - EFTPOS
-      - EFTPOS
-      - Other
       - Other
       required: true
     - id: 12
@@ -101,12 +94,8 @@ inputSchema:
       type: select_one
       options:
       - Active
-      - Active
-      - Inactive
       - Inactive
       - Offline
-      - Offline
-      - Online
       - Online
       required: true
     - id: 13
@@ -176,8 +165,6 @@ inputSchema:
       type: select_one
       options:
       - Onboarding
-      - Onboarding
-      - Not Onboarding
       - Not Onboarding
       required: false
     - id: 22
@@ -208,7 +195,5 @@ inputSchema:
       type: select_one
       options:
       - Update
-      - Update
-      - Not Update
       - Not Update
       required: false

@@ -4,130 +4,98 @@ inputSchema:
     title: Dealership Inventory Registration Form
     pages:
     - id: 1
-      name: make
-      label: make
+      name: vehicle_make
+      label: Vehicle Make
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: model
-      label: model
+      name: vehicle_model
+      label: Vehicle Model
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: year
-      label: year
+      name: vehicle_year
+      label: Vehicle Year
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: price
-      label: price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: select_one_make
-      label: make
+      name: is_available_for_purchase
+      label: Is Vehicle Available for Purchase?
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''label'': ''Toyota''}'
-      - '{''id'': 12, ''label'': ''Honda''}'
-      - '{''id'': 13, ''label'': ''Ford''}'
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: register_multiple_models
+      label: Register Multiple Models?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 6
-      name: select_multiple_models
-      label: models
+      name: is_available_forimmediate_delivery
+      label: Is Vehicle Available for Immediate Delivery?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 14, ''label'': ''Corolla''}'
-      - '{''id'': 15, ''label'': ''Accord''}'
-      - '{''id'': 16, ''label'': ''Mustang''}'
-      - '{''id'': 17, ''label'': ''Explorer''}'
+      - 'Yes'
+      - 'No'
       required: true
     - id: 7
-      name: select_one_year
-      label: year
+      name: vehicle_note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: register_immediately
+      label: Register Vehicle Immediately?
       hint: null
       type: select_one
       options:
-      - '{''id'': 18, ''label'': 2015}'
-      - '{''id'': 19, ''label'': 2016}'
-      - '{''id'': 20, ''label'': 2017}'
+      - 'Yes'
+      - 'No'
       required: true
-    - id: 8
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 9
-      name: time
-      label: time
+      name: is_vehicle_available_for_trade_in
+      label: Is Vehicle Available for Trade-in?
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
-      name: note
-      label: note
+      name: is_vehicle_in_good_condition
+      label: Is Vehicle in Good Condition?
       hint: null
-      type: note
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 11
-      name: select_one_make
-      label: make
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: select_multiple_models
-      label: models
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: select_one_year
-      label: year
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: date
-      label: date
+      name: vehicle_delivery_date
+      label: Vehicle Delivery Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 15
-      name: time
-      label: time
+      required: true
+    - id: 12
+      name: vehicle_delivery_time
+      label: Vehicle Delivery Time
       hint: null
       type: time
-      options: []
-      required: false
-    - id: 16
-      name: note
-      label: note
-      hint: null
-      type: note
       options: []
       required: false

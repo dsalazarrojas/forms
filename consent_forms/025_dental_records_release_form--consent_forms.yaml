@@ -5,184 +5,134 @@ inputSchema:
     pages:
     - id: 1
       name: patient_name
-      label: patient_name
-      hint: null
+      label: Name
+      hint: Patient's name
       type: text
       options: []
       required: true
     - id: 2
       name: healthcare_provider_name
-      label: healthcare_provider
-      hint: null
+      label: Healthcare Provider
+      hint: Name of the healthcare provider
       type: text
       options: []
       required: false
     - id: 3
-      name: healthcare_provider_name
-      label: healthcare_provider
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: reason_for_requesting_records
-      label: reason_for_requesting_records
-      hint: null
+      label: Reason for Requesting Records
+      hint: Reason for requesting the patient's dental records
       type: text
       options: []
       required: true
-    - id: 5
+    - id: 4
       name: patient_signature
-      label: patient_signature
-      hint: null
+      label: Patient Signature
+      hint: Sign here to confirm
       type: note
       options: []
       required: true
-    - id: 6
+    - id: 5
       name: date_of_request
-      label: date_of_request
-      hint: null
+      label: Date of Request
+      hint: Date when requesting the patient's dental records
       type: date
       options: []
       required: false
-    - id: 7
-      name: date_received
-      label: date_received
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: date_of_birth
-      label: date_of_birth
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 9
+    - id: 6
       name: address
-      label: address
-      hint: null
+      label: Address
+      hint: Address to send the records to
       type: text
       options: []
       required: true
-    - id: 10
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 11
+    - id: 7
       name: phone
-      label: phone
-      hint: null
+      label: Phone
+      hint: Contact number
       type: text
       options: []
       required: true
-    - id: 12
+    - id: 8
       name: medical_group
-      label: medical_group
-      hint: null
+      label: Medical Group
+      hint: Are you a part of a medical group?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 13
-      name: medical_group_label
-      label: medical_group
-      hint: null
+    - id: 9
+      name: doctor_name
+      label: Doctor's Name
+      hint: Name of the doctor providing care
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_specialty
+      label: Doctor's Specialty
+      hint: Specialty of the doctor providing care
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_age
+      label: Patient Age
+      hint: Age of the patient
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: patient_sex
+      label: Patient Sex
+      hint: Sex of the patient
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Male
+      - Female
+      required: true
+    - id: 13
+      name: medical_record_id
+      label: Medical Record ID
+      hint: ID of the patient's medical record
+      type: text
+      options: []
+      required: true
     - id: 14
-      name: doctor_name
-      label: doctor_name
-      hint: null
+      name: patient_medical_record
+      label: Patient Medical Record
+      hint: Medical record number
       type: text
       options: []
       required: false
     - id: 15
-      name: doctor_specialty
-      label: doctor_specialty
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: patient_race
+      label: Patient Race
+      hint: Race of the patient
+      type: select_one
+      options:
+      - White
+      - Black
+      - Asian
+      required: true
     - id: 16
-      name: doctor_id
-      label: doctor_id
-      hint: null
+      name: doctor_medical_record
+      label: Doctor Medical Record
+      hint: Medical record number
       type: text
       options: []
       required: false
     - id: 17
-      name: patient_age
-      label: patient_age
-      hint: null
-      type: number
+      name: patient_medical_record_2
+      label: Patient Medical Record 2
+      hint: Medical record number
+      type: text
       options: []
       required: false
     - id: 18
-      name: patient_sex
-      label: patient_sex
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: patient_race
-      label: patient_race
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: medical_record_id
-      label: medical_record_id
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: patient_medical_record
-      label: patient_medical_record
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: medical_provider_medical_record
-      label: medical_provider_medical_record
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: patient_medical_record
-      label: patient_medical_record
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: doctor_medical_record
-      label: doctor_medical_record
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: patient_medical_record_2
-      label: patient_medical_record_2
-      hint: null
+      name: doctor_specialty_2
+      label: Doctor Specialty 2
+      hint: Specialty of the doctor providing care
       type: text
       options: []
       required: false

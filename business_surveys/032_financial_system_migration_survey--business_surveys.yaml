@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''SAP''}'
-      - '{''id'': 2, ''name'': ''Oracle''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - SAP
+      - Oracle
+      - Other
       required: false
     - id: 3
       name: migrated_system
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''SAP''}'
-      - '{''id'': 2, ''name'': ''Oracle''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - SAP
+      - Oracle
+      - Other
       required: false
     - id: 4
       name: migrated_to
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Cloud''}'
-      - '{''id'': 2, ''name'': ''On Premise''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Cloud
+      - On Premise
+      - Other
       required: false
     - id: 5
       name: migration_date

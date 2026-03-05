@@ -4,159 +4,339 @@ inputSchema:
     title: Van Safety Checklist
     pages:
     - id: 1
-      name: van_safety_checklist_form_1
-      label: Van Safety Checklist Form 1
+      name: van_safety_checklist_1_form
+      label: What type of van do you have?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: van_safety_checklist_1_checklist_item_1
-      label: Van Safety Checklist Item 1
+      name: van_safety_checklist_1_frequency_of_use
+      label: How often is the van driven?
       hint: null
       type: select_one
       options:
-      - Van Safety Checklist Item 1
-      - Van Safety Checklist Item 2
-      - Van Safety Checklist Item 3
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 3
-      name: van_safety_checklist_1_checklist_item_2
-      label: Van Safety Checklist Item 2
+      name: van_safety_checklist_1_usage
+      label: What is the van used for?
       hint: null
       type: select_multiple
       options:
-      - Van Safety Checklist Item 4
-      - Van Safety Checklist Item 5
-      - Van Safety Checklist Item 6
+      - Commuting to work
+      - Family transportation
+      - Cargo transport
       required: false
     - id: 4
-      name: van_safety_checklist_1_checklist_item_3
-      label: Van Safety Checklist Item 3
+      name: van_safety_checklist_1_seatbelts
+      label: Are all passengers wearing seatbelts while traveling in the van?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
-      name: van_safety_checklist_1_checklist_item_4
-      label: Van Safety Checklist Item 4
+      name: van_safety_checklist_1_maintenance
+      label: Has the van undergone regular maintenance (oil changes, tire rotations,
+        etc.)?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: van_safety_checklist_2_form_1
-      label: Van Safety Checklist Form 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: van_safety_checklist_2_checklist_item_1
-      label: Van Safety Checklist Item 1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: van_safety_checklist_2_checklist_item_2
-      label: Van Safety Checklist Item 2
+      name: van_safety_checklist_1_driving_experience
+      label: What is your driving experience with vans?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Less than 1 year
+      - 1-5 years
+      - More than 5 years
+      required: false
+    - id: 7
+      name: van_safety_checklist_1_passengers
+      label: How many passengers can fit in the van comfortably?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 5
+      - 5-10
+      - More than 10
+      required: false
+    - id: 8
+      name: van_safety_checklist_1_first_aid_kit
+      label: Is the van equipped with a first aid kit?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: van_safety_checklist_2_checklist_item_3
-      label: Van Safety Checklist Item 3
+      name: van_safety_checklist_1_training
+      label: Have you received training on van safety and usage?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: van_safety_checklist_2_checklist_item_4
-      label: Van Safety Checklist Item 4
+      name: van_safety_checklist_1_mileage
+      label: What is your estimated annual mileage?
       hint: null
-      type: date
-      options: []
+      type: select_multiple
+      options:
+      - Less than 10,000 miles
+      - 10,000-20,000 miles
+      - More than 20,000 miles
       required: false
     - id: 11
-      name: van_safety_checklist_3_form_2
+      name: van_safety_checklist_1_emergency_exit
+      label: Does the van have a functioning emergency exit?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: van_safety_checklist_1_maintenance_schedule
+      label: Do you follow recommended van maintenance schedules?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: van_safety_checklist_2_form
       label: Van Safety Checklist Form 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: van_safety_checklist_3_checklist_item_1
-      label: Van Safety Checklist Item 1
+    - id: 14
+      name: van_safety_checklist_2_frequency_of_use
+      label: How often is the van used for commuting?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 15
+      name: van_safety_checklist_2_usage_type
+      label: What is the van used for during commuting?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - To drive to work
+      - To drive to school
+      - To drive to store
       required: false
-    - id: 13
-      name: van_safety_checklist_3_checklist_item_2
-      label: Van Safety Checklist Item 2
+    - id: 16
+      name: van_safety_checklist_2_seatbelts_commute
+      label: Are all passengers wearing seatbelts during commute?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: van_safety_checklist_3_checklist_item_3
-      label: Van Safety Checklist Item 3
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: van_safety_checklist_2_maintenance_commute
+      label: Has the van undergone regular maintenance (oil changes, tire rotations,
+        etc.) during commute?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
-    - id: 15
-      name: van_safety_checklist_4_form_3
+    - id: 18
+      name: van_safety_checklist_2_emergency_exit_commute
+      label: Does the van have a functioning emergency exit during commute?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: van_safety_checklist_2_driving_experience_commute
+      label: What is your driving experience with vans during commute?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - More than 5 years
+      required: false
+    - id: 20
+      name: van_safety_checklist_2_mileage_commute
+      label: What is your estimated annual mileage during commute?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 10,000 miles
+      - 10,000-20,000 miles
+      - More than 20,000 miles
+      required: false
+    - id: 21
+      name: van_safety_checklist_3_form
       label: Van Safety Checklist Form 3
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: van_safety_checklist_4_checklist_item_1
-      label: Van Safety Checklist Item 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: van_safety_checklist_4_checklist_item_2
-      label: Van Safety Checklist Item 2
+    - id: 22
+      name: van_safety_checklist_3_frequency_of_use
+      label: How often is the van used for family transportation?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Often
+      - Rarely
+      - Never
       required: false
-    - id: 18
-      name: van_safety_checklist_4_checklist_item_3
-      label: Van Safety Checklist Item 3
+    - id: 23
+      name: van_safety_checklist_3_usage_type
+      label: What is the van used for during family transportation?
+      hint: null
+      type: select_multiple
+      options:
+      - To drive to school
+      - To drive to store
+      - To drive to other places
+      required: false
+    - id: 24
+      name: van_safety_checklist_3_seatbelts_family
+      label: Are all passengers wearing seatbelts during family transportation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: van_safety_checklist_3_maintenance_family
+      label: Has the van undergone regular maintenance (oil changes, tire rotations,
+        etc.) during family transportation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 26
+      name: van_safety_checklist_3_emergency_exit_family
+      label: Does the van have a functioning emergency exit during family transportation?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 27
+      name: van_safety_checklist_3_driving_experience_family
+      label: What is your driving experience with vans during family transportation?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - More than 5 years
+      required: false
+    - id: 28
+      name: van_safety_checklist_3_mileage_family
+      label: What is your estimated annual mileage during family transportation?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 10,000 miles
+      - 10,000-20,000 miles
+      - More than 20,000 miles
+      required: false
+    - id: 29
+      name: van_safety_checklist_4_form
+      label: Van Safety Checklist Form 4
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: van_safety_checklist_4_checklist_item_4
-      label: Van Safety Checklist Item 4
+    - id: 30
+      name: van_safety_checklist_4_frequency_of_use
+      label: How often is the van used for cargo transport?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Often
+      - Rarely
+      - Never
+      required: false
+    - id: 31
+      name: van_safety_checklist_4_usage_type
+      label: What is the van used for during cargo transport?
+      hint: null
+      type: select_multiple
+      options:
+      - To transport goods
+      - To transport people
+      - To transport both
+      required: false
+    - id: 32
+      name: van_safety_checklist_4_seatbelts_cargo
+      label: Are all passengers wearing seatbelts during cargo transport?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 33
+      name: van_safety_checklist_4_maintenance_cargo
+      label: Has the van undergone regular maintenance (oil changes, tire rotations,
+        etc.) during cargo transport?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 34
+      name: van_safety_checklist_4_emergency_exit_cargo
+      label: Does the van have a functioning emergency exit during cargo transport?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 35
+      name: van_safety_checklist_4_driving_experience_cargo
+      label: What is your driving experience with vans during cargo transport?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1 year
+      - 1-5 years
+      - More than 5 years
+      required: false
+    - id: 36
+      name: van_safety_checklist_4_mileage_cargo
+      label: What is your estimated annual mileage during cargo transport?
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 10,000 miles
+      - 10,000-20,000 miles
+      - More than 20,000 miles
       required: false

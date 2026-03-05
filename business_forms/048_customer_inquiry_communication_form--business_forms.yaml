@@ -5,52 +5,72 @@ inputSchema:
     pages:
     - id: 1
       name: customer_inquiry_communication_form_1
-      label: customer_inquiry_communication_form
-      hint: null
+      label: Customer Name
+      hint: Please enter your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: customer_inquiry_communication_form_2
-      label: customer_inquiry_details
-      hint: null
-      type: note
-      options: []
-      required: false
+      label: Contact Method
+      hint: How can we contact you?
+      type: select_one
+      options:
+      - email
+      - phone
+      - mail
+      required: true
     - id: 3
       name: customer_inquiry_communication_form_3
-      label: customer_inquiry_communication_form
-      hint: null
-      type: select_multiple
+      label: Inquiry or Complaint
+      hint: Describe your problem
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: satisfactory_service
+      label: Satisfactory Service
+      hint: Did we provide satisfactory service?
+      type: radio
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 4
-      name: customer_inquiry_communication_form_4
-      label: customer_inquiry_communication_form
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 5
-      name: customer_inquiry_communication_form_5
-      label: customer_inquiry_communication_form
-      hint: null
+      name: date_of_inquiry_or_complaint
+      label: Date of Incident
+      hint: (mm/dd/yyyy)
       type: date
       options: []
-      required: false
+      required: true
     - id: 6
-      name: customer_inquiry_communication_form_6
-      label: customer_inquiry_communication_form
-      hint: null
+      name: time_of_contact
+      label: Time of Contact
+      hint: (HH -MM am/pm)
       type: time
       options: []
-      required: false
+      required: true
     - id: 7
       name: customer_inquiry_communication_form_7
-      label: customer_inquiry_communication_form
-      hint: null
-      type: number
+      label: Contact Information
+      hint: Please enter your email address or phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: customer_inquiry_communication_form_8
+      label: Preferred Method of Communication
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - email
+      - phone
+      - mail
+      required: true
+    - id: 9
+      name: customer_inquiry_communication_form_9
+      label: Additional Comments
+      hint: Is there anything else you'd like to add?
+      type: note
       options: []
       required: false

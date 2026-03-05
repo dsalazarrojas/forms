@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Customer''}'
-      - '{''value'': ''Merchant''}'
-      - '{''value'': ''Bank''}'
+      - Customer
+      - Merchant
+      - Bank
       required: false
     - id: 5
       name: suspicious_location
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''New York''}'
-      - '{''value'': ''Los Angeles''}'
-      - '{''value'': ''Chicago''}'
+      - New York
+      - Los Angeles
+      - Chicago
       required: false
     - id: 6
       name: description

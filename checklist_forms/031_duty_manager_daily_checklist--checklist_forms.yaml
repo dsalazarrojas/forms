@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
-      - '{''id'': 4, ''label'': ''Not Prioritized''}'
+      - High
+      - Medium
+      - Low
+      - Not Prioritized
       required: false
     - id: 3
       name: task_status
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Assigned''}'
-      - '{''id'': 2, ''label'': ''Due Today''}'
-      - '{''id'': 3, ''label'': ''Overdue''}'
-      - '{''id'': 4, ''label'': ''Not Started''}'
+      - Assigned
+      - Due Today
+      - Overdue
+      - Not Started
       required: false
     - id: 4
       name: notes

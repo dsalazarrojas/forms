@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Under 100.4°F (Under 38°C)''}'
-      - '{''label'': ''100.4°F or higher (38°C or higher)''}'
+      - Under 100.4°F (Under 38°C)
+      - 100.4°F or higher (38°C or higher)
       required: false
     - id: 5
       name: face_mask_worn
@@ -39,8 +39,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: physical_distancing
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Maintaining 6 feet distance''}'
-      - '{''label'': ''Not maintaining 6 feet distance''}'
+      - Maintaining 6 feet distance
+      - Not maintaining 6 feet distance
       required: false
     - id: 7
       name: hand_hygiene
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Wearing hand sanitizer''}'
-      - '{''label'': ''Not wearing hand sanitizer''}'
+      - Wearing hand sanitizer
+      - Not wearing hand sanitizer
       required: false
     - id: 8
       name: symptoms
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Fever''}'
-      - '{''label'': ''Cough''}'
-      - '{''label'': ''Sore throat''}'
+      - None
+      - Fever
+      - Cough
+      - Sore throat
       required: false
     - id: 9
       name: exposure_contact
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''No contact''}'
-      - '{''label'': ''Exposed to someone with COVID-19''}'
-      - '{''label'': ''Exposed to someone with a high risk behavior''}'
+      - No contact
+      - Exposed to someone with COVID-19
+      - Exposed to someone with a high risk behavior
       required: false
     - id: 10
       name: vaccination_status
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fully vaccinated''}'
-      - '{''label'': ''Partly vaccinated''}'
-      - '{''label'': ''Not vaccinated''}'
+      - Fully vaccinated
+      - Partly vaccinated
+      - Not vaccinated
       required: false
     - id: 11
       name: shift_end_time

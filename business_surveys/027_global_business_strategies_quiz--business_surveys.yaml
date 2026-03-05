@@ -4,112 +4,14 @@ inputSchema:
     title: Global Business Strategies Quiz
     pages:
     - id: 1
-      name: global_business_strategies_quiz_form
-      label: Global Business Strategies Quiz
+      name: role_in_company
+      label: What is your role in the company?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: page_2
-      label: What is your role in the company?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: what_is_your_role
-      label: What is your role in the company?
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
-      name: page_4
-      label: Page 4
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: company_size
-      label: Company size
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: company_size_option1
-      label: Option 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: company_size_option2
-      label: Option 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: company_size_option3
-      label: Option 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: question_1
-      label: Which of the following statements is true?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: question_1_option1
-      label: Option 1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: question_1_option2
-      label: Option 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: question_1_option3
-      label: Option 3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: question_2
+      name: current_state_of_industry
       label: What is the current state of your industry?
       hint: null
       type: select_one
@@ -117,71 +19,27 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 14
-      name: question_2_option1
-      label: Option 1
+    - id: 3
+      name: company_strategy_question1
+      label: Which statement about your company is true?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Fair
       required: false
-    - id: 15
-      name: question_2_option2
-      label: Option 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: question_2_option3
-      label: Option 3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: question_3
-      label: Which of the following best describes your company's business strategy?
+    - id: 4
+      name: company_strategy_question2
+      label: Which of the following best describes your company's global business
+        strategy?
       hint: null
       type: select_multiple
       options:
       - Good
       - Fair
       required: false
-    - id: 18
-      name: question_3_option1
-      label: Option 1
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: question_3_option2
-      label: Option 2
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: question_3_option3
-      label: Option 3
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: question_4
+    - id: 5
+      name: company_strategy_question3
       label: What is the current state of your business strategy?
       hint: null
       type: select_one
@@ -189,58 +47,38 @@ inputSchema:
       - Good
       - Fair
       required: false
-    - id: 22
-      name: question_4_option1
-      label: Option 1
+    - id: 6
+      name: company_strategy_question4
+      label: Company Strategy Question4
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Good
+      - Fair
       required: false
-    - id: 23
-      name: question_4_option2
-      label: Option 2
+    - id: 7
+      name: company_strategy_question5
+      label: Which statement is true about your company's strategy?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - This company is growing rapidly
+      - This company is struggling financially
+      - This company has a high market share
       required: false
-    - id: 24
-      name: question_4_option3
-      label: Option 3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: question_5
-      label: Which of the following best describes your company's global business
-        strategy?
+    - id: 8
+      name: company_strategy_question6
+      label: What is your company's global business strategy?
       hint: null
       type: select_one
       options:
       - Good
       - Fair
       required: false
-    - id: 26
-      name: question_5_option1
-      label: Option 1
+    - id: 9
+      name: role_in_company_text
+      label: Role In Company Text
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 27
-      name: question_5_option2
-      label: Option 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false

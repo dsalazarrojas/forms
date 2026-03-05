@@ -4,8 +4,8 @@ inputSchema:
     title: Return To Training Waiver
     pages:
     - id: 1
-      name: form_title
-      label: Return To Training Waiver
+      name: form_purpose
+      label: Purpose of this form
       hint: null
       type: text
       options: []
@@ -16,24 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Coronavirus Response Forms
+      - Training
+      - Assessment
+      - Certification
       - Other
       required: true
     - id: 3
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 4
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
       name: assigned_tool
       label: Assigned Tool
       hint: null
@@ -42,72 +30,72 @@ inputSchema:
       - chatjimmy
       - Other
       required: false
-    - id: 6
+    - id: 4
       name: output_file
       label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description_brief
+      label: Brief Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: description_long
+      label: Long Description
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: description_long
-      label: Description (Long)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: assigned_tool
-      label: Assigned Tool
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: select_one
       options:
       - chatjimmy
       - Other
       required: false
+    - id: 8
+      name: output_file_2
+      label: Output File 2
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 9
-      name: description_long
-      label: Description (Long)
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
       name: form_title
       label: Form Title
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: category
-      label: Category
+    - id: 10
+      name: category_2
+      label: Category 2
       hint: null
       type: select_one
       options:
-      - Coronavirus Response Forms
+      - Training
+      - Assessment
+      - Certification
       - Other
       required: false
-    - id: 14
-      name: assigned_tool
-      label: Assigned Tool
+    - id: 11
+      name: form_id
+      label: Form ID
       hint: null
-      type: select_one
-      options:
-      - chatjimmy
-      - Other
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: form_id_2
+      label: Form Id 2
+      hint: null
+      type: number
+      options: []
       required: false

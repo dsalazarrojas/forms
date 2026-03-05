@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: Check for worn-out or broken equipment.
       type: select_one
       options:
-      - '{''value'': ''Regularly''}'
-      - '{''value'': ''Occasionally''}'
-      - '{''value'': ''Rarely''}'
-      - '{''value'': ''Never''}'
+      - Regularly
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 3
       name: electrical_hazards
@@ -38,9 +27,9 @@ inputSchema:
       hint: Check for exposed wiring, frayed cords, etc.
       type: select_multiple
       options:
-      - '{''value'': ''Check for frayed cords''}'
-      - '{''value'': ''Check for loose connections''}'
-      - '{''value'': ''Check for exposed wiring''}'
+      - Check for frayed cords
+      - Check for loose connections
+      - Check for exposed wiring
       required: false
     - id: 4
       name: chemical_hazards
@@ -48,8 +37,8 @@ inputSchema:
       hint: Check for spills, leaks, and proper storage of chemicals.
       type: select_one
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false
     - id: 5
       name: fire_hazards
@@ -57,8 +46,8 @@ inputSchema:
       hint: Check for fire extinguishers, fire alarms, etc.
       type: select_multiple
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false
     - id: 6
       name: chemical_stores
@@ -66,8 +55,8 @@ inputSchema:
       hint: Check for proper storage and labeling.
       type: select_multiple
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false
     - id: 7
       name: chemical_labels
@@ -75,8 +64,8 @@ inputSchema:
       hint: Check for proper labeling of chemical bottles.
       type: select_multiple
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false
     - id: 8
       name: fire_supervision
@@ -84,10 +73,10 @@ inputSchema:
       hint: Check for fire alarm and fire drills.
       type: select_one
       options:
-      - '{''value'': ''Regularly''}'
-      - '{''value'': ''Occasionally''}'
-      - '{''value'': ''Rarely''}'
-      - '{''value'': ''Never''}'
+      - Regularly
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 9
       name: emergency_exit_routes
@@ -95,8 +84,8 @@ inputSchema:
       hint: Check for clear exit signs and emergency exits.
       type: select_one
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false
     - id: 10
       name: emergency_exit_lights
@@ -104,8 +93,8 @@ inputSchema:
       hint: Check for working exit lights.
       type: select_one
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false
     - id: 11
       name: safety_shoes
@@ -113,9 +102,9 @@ inputSchema:
       hint: Check for proper use of safety shoes.
       type: select_one
       options:
-      - '{''value'': ''Required''}'
-      - '{''value'': ''Recommended''}'
-      - '{''value'': ''Not Required''}'
+      - Required
+      - Recommended
+      - Not Required
       required: false
     - id: 12
       name: lab_insurance
@@ -123,8 +112,8 @@ inputSchema:
       hint: Check for lab insurance and coverage.
       type: select_one
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false
     - id: 13
       name: lab_equipment
@@ -132,8 +121,8 @@ inputSchema:
       hint: Check for proper maintenance and functioning of lab equipment.
       type: select_multiple
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false
     - id: 14
       name: lab_safety_signs
@@ -141,6 +130,6 @@ inputSchema:
       hint: Check for proper lab signs and postings.
       type: select_multiple
       options:
-      - '{''value'': ''Present''}'
-      - '{''value'': ''Absent''}'
+      - Present
+      - Absent
       required: false

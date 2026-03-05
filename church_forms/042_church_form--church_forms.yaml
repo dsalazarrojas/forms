@@ -1,142 +1,162 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Church Form
     pages:
-      - id: 1
-        name: header_visit_info
-        label: -- Your Visit --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: date_of_visit_feedback
-        label: Date of your visit
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: service_attended
-        label: Which service did you attend?
-        hint: null
-        type: select_one
-        options: [Sunday Morning (Traditional), Sunday Morning (Contemporary), Midweek Prayer, Youth Service, Special Event]
-        required: true
-      - id: 4
-        name: visitor_type_feedback
-        label: Is this your first visit?
-        hint: null
-        type: select_one
-        options: [Yes - First Time, No - Returning Guest, No - Regular/Member]
-        required: true
-      - id: 5
-        name: header_feedback_ratings
-        label: -- Your Experience --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: friendliness_rating
-        label: How friendly and welcoming was the congregation?
-        hint: null
-        type: select_one
-        options: [Very Friendly, Friendly, Neutral, Unwelcoming]
-        required: true
-      - id: 7
-        name: service_quality_rating
-        label: Rate the quality of the service
-        hint: Message, music, flow
-        type: select_one
-        options: [Excellent, Good, Average, Below Average]
-        required: true
-      - id: 8
-        name: message_relevance_rating
-        label: How relevant was the message to your life?
-        hint: null
-        type: select_one
-        options: [Highly Relevant, Relevant, Not very relevant]
-        required: true
-      - id: 9
-        name: facilities_cleanliness_rating
-        label: How clean and comfortable were the facilities?
-        hint: null
-        type: select_one
-        options: [Excellent, Good, Needs Work]
-        required: true
-      - id: 10
-        name: header_comments_visit
-        label: -- Additional Thoughts --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: best_part_of_visit
-        label: What did you enjoy most about your visit?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: least_part_of_visit
-        label: What was the least enjoyable part?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: hear_about_church
-        label: How did you hear about us?
-        hint: null
-        type: select_one
-        options: [Social Media, Website, Friend/Family, Local Advertisement, Just passing by]
-        required: false
-      - id: 14
-        name: future_visit_intent
-        label: Do you plan to visit us again?
-        hint: null
-        type: select_one
-        options: [Definitely, Probably, Not sure, No]
-        required: true
-      - id: 15
-        name: header_contact_visit
-        label: -- Stay Connected (Optional) --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 16
-        name: contact_name_visit
-        label: Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: contact_email_visit
-        label: Email Address
-        hint: null
-        type: email
-        options: []
-        required: false
-      - id: 18
-        name: prayer_request_visit
-        label: Do you have a prayer request you'd like to share?
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header_visit_info
+      label: -- Your Visit --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit_feedback
+      label: Date of your visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: service_attended
+      label: Which service did you attend?
+      hint: null
+      type: select_one
+      options:
+      - Sunday Morning (Traditional)
+      - Sunday Morning (Contemporary)
+      - Midweek Prayer
+      - Youth Service
+      - Special Event
+      required: true
+    - id: 4
+      name: visitor_type_feedback
+      label: Is this your first visit?
+      hint: null
+      type: select_one
+      options:
+      - Yes - First Time
+      - No - Returning Guest
+      - No - Regular/Member
+      required: true
+    - id: 5
+      name: header_feedback_ratings
+      label: -- Your Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: friendliness_rating
+      label: How friendly and welcoming was the congregation?
+      hint: null
+      type: select_one
+      options:
+      - Very Friendly
+      - Friendly
+      - Neutral
+      - Unwelcoming
+      required: true
+    - id: 7
+      name: service_quality_rating
+      label: Rate the quality of the service
+      hint: Message, music, flow
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      required: true
+    - id: 8
+      name: message_relevance_rating
+      label: How relevant was the message to your life?
+      hint: null
+      type: select_one
+      options:
+      - Highly Relevant
+      - Relevant
+      - Not very relevant
+      required: true
+    - id: 9
+      name: facilities_cleanliness_rating
+      label: How clean and comfortable were the facilities?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Work
+      required: true
+    - id: 10
+      name: header_comments_visit
+      label: -- Additional Thoughts --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: best_part_of_visit
+      label: What did you enjoy most about your visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: least_part_of_visit
+      label: What was the least enjoyable part?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hear_about_church
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend/Family
+      - Local Advertisement
+      - Just passing by
+      required: false
+    - id: 14
+      name: future_visit_intent
+      label: Do you plan to visit us again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - 'False'
+      required: true
+    - id: 15
+      name: header_contact_visit
+      label: -- Stay Connected (Optional) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_name_visit
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_email_visit
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: prayer_request_visit
+      label: Do you have a prayer request you'd like to share?
+      hint: null
+      type: text
+      options: []
+      required: false

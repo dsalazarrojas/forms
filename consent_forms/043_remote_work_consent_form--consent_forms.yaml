@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full-time Remote'', ''value'': ''full-time-remote''}'
-      - '{''id'': 2, ''name'': ''Part-time Remote'', ''value'': ''part-time-remote''}'
-      - '{''id'': 3, ''name'': ''Remote Work with Regular Hours'', ''value'': ''remote-work-with-regular-hours''}'
-      - '{''id'': 4, ''name'': ''Remote Work with Flexible Hours'', ''value'': ''remote-work-with-flexible-hours''}'
+      - full-time-remote
+      - part-time-remote
+      - remote-work-with-regular-hours
+      - remote-work-with-flexible-hours
       required: true
     - id: 3
       name: work_location
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Home'', ''value'': ''home''}'
-      - '{''id'': 2, ''name'': ''Office'', ''value'': ''office''}'
-      - '{''id'': 3, ''name'': ''Co-working Space'', ''value'': ''co-working-space''}'
-      - '{''id'': 4, ''name'': ''Other'', ''value'': ''other''}'
+      - home
+      - office
+      - co-working-space
+      - other
       required: true
     - id: 4
       name: manager
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Manager'', ''value'': ''manager''}'
-      - '{''id'': 2, ''name'': ''Assistant Manager'', ''value'': ''assistant-manager''}'
-      - '{''id'': 3, ''name'': ''Team Lead'', ''value'': ''team-lead''}'
+      - manager
+      - assistant-manager
+      - team-lead
       required: true
     - id: 5
       name: remote_work_start_date
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Personal Computer'', ''value'': ''personal-computer''}'
-      - '{''id'': 2, ''name'': ''Internet Connection'', ''value'': ''internet-connection''}'
-      - '{''id'': 3, ''name'': ''Headset'', ''value'': ''headset''}'
-      - '{''id'': 4, ''name'': ''Other'', ''value'': ''other''}'
+      - personal-computer
+      - internet-connection
+      - headset
+      - other
       required: false
     - id: 11
       name: remote_work_commute
@@ -122,8 +122,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Agree'', ''value'': ''agree''}'
-      - '{''id'': 2, ''name'': ''Disagree'', ''value'': ''disagree''}'
+      - agree
+      - disagree
       required: true
     - id: 16
       name: remote_work_disagree_reason
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: remote_work_termination
@@ -154,8 +154,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: remote_work_conduct

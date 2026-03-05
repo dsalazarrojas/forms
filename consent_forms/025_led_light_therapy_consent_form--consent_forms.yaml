@@ -16,9 +16,9 @@ inputSchema:
       hint: Please provide your medical history
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - None
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: allergies
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
+      - Male
+      - Female
       required: false
     - id: 6
       name: medical_history_details
@@ -56,8 +56,8 @@ inputSchema:
       hint: What type of light treatment do you wish to receive?
       type: select_multiple
       options:
-      - '{''label'': ''LED Light Therapy''}'
-      - '{''label'': ''Other''}'
+      - LED Light Therapy
+      - Other
       required: false
     - id: 8
       name: signature
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: signature_date

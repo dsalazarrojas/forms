@@ -197,7 +197,7 @@ inputSchema:
       hint: Medication check
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes aspirin
       - Yes warfarin
       - Yes other blood thinner
@@ -208,8 +208,8 @@ inputSchema:
       hint: Health screening
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 23
       name: recent_illness
@@ -217,8 +217,8 @@ inputSchema:
       hint: Recent illness
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 24
       name: risk_acknowledgment

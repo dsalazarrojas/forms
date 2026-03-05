@@ -5,35 +5,35 @@ inputSchema:
     pages:
     - id: 1
       name: city_title
-      label: City Title
+      label: What is the city's name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: city_description
-      label: City Description
+      label: Describe the city's atmosphere?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: contact_name
-      label: Contact Name
+      label: What is your contact name?
       hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: email
-      label: Email
+      label: Email address
       hint: null
       type: email
       options: []
       required: true
     - id: 5
       name: phone
-      label: Phone
+      label: Phone number
       hint: null
       type: text
       options: []
@@ -42,30 +42,29 @@ inputSchema:
       name: select_one
       label: Select One
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
-      name: date_field
-      label: Date
+      name: visit_date
+      label: Preferred date of visit?
       hint: null
       type: date
       options: []
       required: true
     - id: 8
-      name: time_field
-      label: Time
+      name: visit_time
+      label: Preferred time of visit
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 9
-      name: note_field
-      label: Note
+      name: note
+      label: Comments or notes
       hint: null
       type: note
       options: []
@@ -76,153 +75,21 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: email_2
-      label: Email
+      label: Email address 2
       hint: null
       type: email
       options: []
-      required: true
+      required: false
     - id: 12
       name: phone_2
-      label: Phone 2
+      label: Phone number 2
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: date_2
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 14
-      name: time_2
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: select_one_2
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 16
-      name: note_2
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: select_multiple_2
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 18
-      name: select_one_3
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 19
-      name: select_one_4
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 20
-      name: select_one_5
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 21
-      name: select_one_6
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 22
-      name: select_one_7
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 23
-      name: select_one_8
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 24
-      name: select_one_9
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 25
-      name: select_one_10
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
       required: false

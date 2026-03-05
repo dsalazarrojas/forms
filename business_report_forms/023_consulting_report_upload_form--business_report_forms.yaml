@@ -1,219 +1,208 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Consulting Report Upload Form
     pages:
-      - id: 1
-        name: consultant_name
-        label: Consultant Name
-        hint: Full name of the consultant
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: consultant_email
-        label: Consultant Email
-        hint: Email address
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: submission_date
-        label: Submission Date
-        hint: Date of report submission
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: client_name
-        label: Client Name
-        hint: Name of the client organization
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: project_name
-        label: Project Name
-        hint: Name of the project
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: project_code
-        label: Project Code
-        hint: Internal project reference
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: report_title
-        label: Report Title
-        hint: Title of the report
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: report_type
-        label: Report Type
-        hint: Select the type of report
-        type: select_one
-        options:
-          - Initial Assessment
-          - Progress Report
-          - Interim Findings
-          - Final Report
-          - Executive Summary
-          - Technical Report
-          - Financial Analysis
-          - Recommendations Report
-          - Other
-        required: true
-      - id: 9
-        name: report_period_start
-        label: Reporting Period Start
-        hint: Start date of reporting period
-        type: date
-        options: []
-        required: false
-      - id: 10
-        name: report_period_end
-        label: Reporting Period End
-        hint: End date of reporting period
-        type: date
-        options: []
-        required: false
-      - id: 11
-        name: report_version
-        label: Report Version
-        hint: Version number if applicable
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: report_summary
-        label: Report Summary
-        hint: Brief executive summary
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: key_findings
-        label: Key Findings
-        hint: Summary of main findings
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: recommendations
-        label: Key Recommendations
-        hint: Summary of recommendations
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: confidentiality_level
-        label: Confidentiality Level
-        hint: Select classification
-        type: select_one
-        options:
-          - Public
-          - Internal Use Only
-          - Confidential
-          - Highly Confidential
-        required: true
-      - id: 16
-        name: report_file_upload
-        label: Upload Report File
-        hint: Attach the main report document
-        type: text
-        options: []
-        required: true
-      - id: 17
-        name: file_format
-        label: File Format
-        hint: Format of uploaded file
-        type: select_one
-        options:
-          - PDF
-          - Word Document
-          - PowerPoint
-          - Excel
-          - Other
-        required: true
-      - id: 18
-        name: additional_files
-        label: Additional Files
-        hint: List any supplementary files
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: appendices_included
-        label: Are Appendices Included
-        hint: Select if appendices are attached
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 20
-        name: executive_summary_separate
-        label: Is Executive Summary Separate
-        hint: Select if executive summary is a separate file
-        type: select_one
-        options:
-          - Yes
-          - No, Included in Report
-        required: false
-      - id: 21
-        name: presentation_required
-        label: Is Presentation Required
-        hint: Will you present this report
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 22
-        name: presentation_date
-        label: Presentation Date
-        hint: Scheduled presentation date
-        type: date
-        options: []
-        required: false
-      - id: 23
-        name: review_status
-        label: Review Status
-        hint: Current review status
-        type: select_one
-        options:
-          - Draft
-          - Internal Review Complete
-          - Client Review
-          - Final
-        required: true
-      - id: 24
-        name: approver_name
-        label: Approver Name
-        hint: Name of person who approved
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: additional_notes
-        label: Additional Notes
-        hint: Any notes for the client or team
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: consultant_name
+      label: Consultant Name
+      hint: Full name of the consultant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultant_email
+      label: Consultant Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: Date of report submission
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: client_name
+      label: Client Name
+      hint: Name of the client organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: Name of the project
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_code
+      label: Project Code
+      hint: Internal project reference
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_title
+      label: Report Title
+      hint: Title of the report
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: report_type
+      label: Report Type
+      hint: Select the type of report
+      type: select_one
+      options:
+      - Initial Assessment
+      - Progress Report
+      - Interim Findings
+      - Final Report
+      - Executive Summary
+      - Technical Report
+      - Financial Analysis
+      - Recommendations Report
+      - Other
+      required: true
+    - id: 9
+      name: report_period_start
+      label: Reporting Period Start
+      hint: Start date of reporting period
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: report_period_end
+      label: Reporting Period End
+      hint: End date of reporting period
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: report_version
+      label: Report Version
+      hint: Version number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: report_summary
+      label: Report Summary
+      hint: Brief executive summary
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: key_findings
+      label: Key Findings
+      hint: Summary of main findings
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: recommendations
+      label: Key Recommendations
+      hint: Summary of recommendations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confidentiality_level
+      label: Confidentiality Level
+      hint: Select classification
+      type: select_one
+      options:
+      - Public
+      - Internal Use Only
+      - Confidential
+      - Highly Confidential
+      required: true
+    - id: 16
+      name: report_file_upload
+      label: Upload Report File
+      hint: Attach the main report document
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: file_format
+      label: File Format
+      hint: Format of uploaded file
+      type: select_one
+      options:
+      - PDF
+      - Word Document
+      - PowerPoint
+      - Excel
+      - Other
+      required: true
+    - id: 18
+      name: additional_files
+      label: Additional Files
+      hint: List any supplementary files
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: appendices_included
+      label: Are Appendices Included
+      hint: Select if appendices are attached
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: executive_summary_separate
+      label: Is Executive Summary Separate
+      hint: Select if executive summary is a separate file
+      type: select_one
+      options:
+      - 'True'
+      - No, Included in Report
+      required: false
+    - id: 21
+      name: presentation_required
+      label: Is Presentation Required
+      hint: Will you present this report
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: presentation_date
+      label: Presentation Date
+      hint: Scheduled presentation date
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: review_status
+      label: Review Status
+      hint: Current review status
+      type: select_one
+      options:
+      - Draft
+      - Internal Review Complete
+      - Client Review
+      - Final
+      required: true
+    - id: 24
+      name: approver_name
+      label: Approver Name
+      hint: Name of person who approved
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any notes for the client or team
+      type: text
+      options: []
+      required: false

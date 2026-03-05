@@ -1,107 +1,106 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: COVID 19 Rapid Test Appointment And Consent Form CPESN
     pages:
-      - id: 1
-        name: cpesn_facility_name
-        label: CPESN Facility Name
-        hint: Select the facility where you will be tested
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: patient_name_full
-        label: Patient Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: wa_id_license
-        label: Washington State ID or Driver License Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: dob_val
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: gender_cat
-        label: Gender
-        hint: null
-        type: select_one
-        options: [Male, Female, Other, Prefer not to say]
-        required: true
-      - id: 6
-        name: patient_address_text
-        label: Residential Address
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: city_val
-        label: City
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: zip_code_val
-        label: Zip Code
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: test_location_cat
-        label: Testing Location Type
-        hint: null
-        type: select_one
-        options: [In-Pharmacy, Drive-Through, Off-site Event]
-        required: true
-      - id: 10
-        name: wa_reporting_consent
-        label: I consent to my results being reported to the Washington State Department of Health
-        hint: null
-        type: select_one
-        options: [Yes, I consent]
-        required: true
-      - id: 11
-        name: practitioner_name_val
-        label: Name of Professional Practitioner Administering Test
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: electronic_signature
-        label: Patient Signature (Type Full Name)
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 13
-        name: date_of_consent
-        label: Date of Consent
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: cpesn_facility_name
+      label: CPESN Facility Name
+      hint: Select the facility where you will be tested
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name_full
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wa_id_license
+      label: Washington State ID or Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: dob_val
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender_cat
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 6
+      name: patient_address_text
+      label: Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city_val
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code_val
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: test_location_cat
+      label: Testing Location Type
+      hint: null
+      type: select_one
+      options:
+      - In-Pharmacy
+      - Drive-Through
+      - Off-site Event
+      required: true
+    - id: 10
+      name: wa_reporting_consent
+      label: I consent to my results being reported to the Washington State Department
+        of Health
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I consent
+      required: true
+    - id: 11
+      name: practitioner_name_val
+      label: Name of Professional Practitioner Administering Test
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: electronic_signature
+      label: Patient Signature (Type Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_of_consent
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

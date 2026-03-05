@@ -157,7 +157,7 @@ inputSchema:
       options:
       - Yes - Within 14 days
       - Yes - More than 14 days ago
-      - false
+      - 'False'
       - Unsure
       required: true
     - id: 19
@@ -185,8 +185,8 @@ inputSchema:
       hint: Increases COVID-19 risk
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Prefer not to say
       required: true
     - id: 22
@@ -195,8 +195,8 @@ inputSchema:
       hint: Essential worker status
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: preferred_appointment_date

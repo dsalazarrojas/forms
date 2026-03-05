@@ -9,184 +9,88 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: last_name
       label: Last name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: participation_type
-      label: Participation type
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 5
-      name: preferences
-      label: Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 6
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: company
-      label: Company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: job_title
       label: Job title
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 5
       name: department
       label: Department
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 6
       name: role
       label: Role
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 7
       name: location
       label: Location
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: job_function
-      label: Job function
+      required: true
+    - id: 8
+      name: participation_type
+      label: Participation type
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Remote
+      required: true
+    - id: 9
+      name: preferences
+      label: Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - All day
+      required: true
+    - id: 10
       name: comments
       label: Comments
       hint: null
       type: note
       options: []
-      required: false
-    - id: 16
-      name: company
-      label: Company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: job_function
-      label: Job Function
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: job_title
-      label: Job title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: department
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: role
-      label: Role
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: location
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 11
       name: time
       label: Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 23
+      required: true
+    - id: 12
       name: date
       label: Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 24
-      name: participation_type
-      label: Participation type
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 25
-      name: preferences
-      label: Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
+      required: true

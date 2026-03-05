@@ -9,173 +9,87 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 3
-      name: physician_name
-      label: Physician
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: medical_record_number
-      label: Medical Record Number
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: date_of_birth
       label: Date Of Birth
       hint: null
       type: date
       options: []
-      required: false
-    - id: 6
-      name: physician_signature
-      label: Physician
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: patient_signature
-      label: Patient Signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: medical_group
+      required: true
+    - id: 3
+      name: medical_group_status
       label: Medical Group
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
       name: address
       label: Address
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 5
       name: city
       label: City
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: state
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 6
       name: postal_code
       label: Postal Code
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: medical_group
-      label: Medical Group
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: patient_name
-      label: Patient Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: date_of_birth
-      label: Date Of Birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
+      required: true
+    - id: 7
       name: physician
       label: Physician
       hint: null
       type: text
       options: []
-      required: false
-    - id: 21
-      name: date
-      label: Date
+      required: true
+    - id: 8
+      name: signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_last_release_form_signing
+      label: Date Of Last Release Form Signing
       hint: null
       type: date
       options: []
-      required: false
-    - id: 22
-      name: address
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: physician
-      label: Physician
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
+      required: true
+    - id: 10
       name: medical_group
-      label: Medical Group
+      label: Medical Group (2)
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
-    - id: 25
+    - id: 11
+      name: physician_name
+      label: Physician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: physician_signature
+      label: Physician Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
       name: date
       label: Date
       hint: null

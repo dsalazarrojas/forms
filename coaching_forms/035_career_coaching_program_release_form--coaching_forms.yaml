@@ -1,90 +1,79 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Career Coaching Program Release Form
     pages:
-      - id: 1
-        name: release_header
-        label: -- Release and Consent --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Participant name
-        hint: Full legal name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: email
-        label: Email
-        hint: Contact email
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: program_name
-        label: Program name
-        hint: Name of coaching program
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: consent_to_participate
-        label: Consent to participate and release
-        hint: Participant agreement to terms
-        type: select_one
-        options:
-          - I consent
-          - I do not consent
-        required: true
-      - id: 6
-        name: photo_release
-        label: Photo and testimonial release
-        hint: Allow use of images and quotes
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 7
-        name: emergency_contact
-        label: Emergency contact name and phone
-        hint: For program safety
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: start_date
-        label: Program start date
-        hint: Anticipated start
-        type: date
-        options: []
-        required: false
-      - id: 9
-        name: signature_name
-        label: Signature printed name
-        hint: Name of signee
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: date_signed
-        label: Date signed
-        hint: Date participant signed
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: release_header
+      label: -- Release and Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: program_name
+      label: Program name
+      hint: Name of coaching program
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: consent_to_participate
+      label: Consent to participate and release
+      hint: Participant agreement to terms
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 6
+      name: photo_release
+      label: Photo and testimonial release
+      hint: Allow use of images and quotes
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency contact name and phone
+      hint: For program safety
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: Program start date
+      hint: Anticipated start
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signature_name
+      label: Signature printed name
+      hint: Name of signee
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date signed
+      hint: Date participant signed
+      type: date
+      options: []
+      required: true

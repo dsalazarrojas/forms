@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: email
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Jim''}'
-      - '{''label'': ''John''}'
-      - '{''label'': ''Jane''}'
+      - Jim
+      - John
+      - Jane
       required: false
     - id: 7
       name: contact_department
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Administration''}'
-      - '{''label'': ''Medical''}'
-      - '{''label'': ''Billing''}'
+      - Administration
+      - Medical
+      - Billing
       required: true
     - id: 8
       name: contact_email

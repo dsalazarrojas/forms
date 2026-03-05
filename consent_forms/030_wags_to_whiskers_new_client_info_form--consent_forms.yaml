@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Individual'', ''value'': ''individual''}'
-      - '{''label'': ''Business'', ''value'': ''business''}'
+      - Individual
+      - Business
       required: false
     - id: 7
       name: company
@@ -67,11 +67,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1-10'', ''value'': ''1-10''}'
-      - '{''label'': ''11-50'', ''value'': ''11-50''}'
-      - '{''label'': ''51-100'', ''value'': ''51-100''}'
-      - '{''label'': ''101-200'', ''value'': ''101-200''}'
-      - '{''label'': ''200+'', ''value'': ''200+''}'
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-200
+      - 200+
       required: false
     - id: 10
       name: date_of_visit

@@ -16,52 +16,39 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: Dream Job Survey
-      hint: null
+      label: Introduction
+      hint: Please take a few minutes to answer these questions about your dream job.
       type: note
       options: []
       required: false
     - id: 2
-      name: job_preferences
-      label: What would you do
+      name: motivators
+      label: What motivates you
       hint: null
-      type: select_multiple
-      options:
-      - Accounting
-      - Marketing
-      - Sales
+      type: text
+      options: []
       required: false
     - id: 3
-      name: career_values
-      label: Career values
-      hint: What matters most in your career
-      type: select_one
-      options:
-      - Personal growth
-      - Job security
-      - Financial gain
-      required: false
-    - id: 4
       name: work_environment
       label: Work environment
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Office
       - Remote
       - Hybrid
-      required: false
-    - id: 5
-      name: job_satisfaction
-      label: Job satisfaction
+      required: true
+    - id: 4
+      name: career_values
+      label: Career values
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Highly satisfied
-      - Somewhat satisfied
-      - Not at all satisfied
-      required: false
-    - id: 6
+      - Personal growth
+      - Job security
+      - Financial gain
+      required: true
+    - id: 5
       name: career_stage
       label: Current career stage
       hint: null
@@ -70,68 +57,128 @@ inputSchema:
       - Career starter
       - Mid-career
       - Late career
-      required: false
-    - id: 7
-      name: ideal_job
-      label: Ideal job description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: job_preferences_2
-      label: What would you do
-      hint: null
-      type: select_multiple
-      options:
-      - Marketing
-      - Sales
-      - Accounting
-      required: false
-    - id: 9
-      name: career_values_2
-      label: Career values
-      hint: null
-      type: select_one
-      options:
-      - Personal growth
-      - Job security
-      - Financial gain
-      required: false
-    - id: 10
-      name: work_environment_2
-      label: Work environment
-      hint: null
-      type: select_multiple
-      options:
-      - Office
-      - Remote
-      - Hybrid
-      required: false
-    - id: 11
-      name: job_satisfaction_2
+      required: true
+    - id: 6
+      name: job_satisfaction
       label: Job satisfaction
       hint: null
       type: select_one
       options:
       - Highly satisfied
       - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
       - Not at all satisfied
-      required: false
-    - id: 12
+      required: true
+    - id: 7
+      name: ideal_job_description
+      label: Ideal job description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_preferences
+      label: Ideal job preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - Accounting
+      required: true
+    - id: 9
+      name: job_satisfaction_2
+      label: Job satisfaction 2
+      hint: null
+      type: select_one
+      options:
+      - Highly satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Not at all satisfied
+      required: true
+    - id: 10
       name: career_stage_2
-      label: Current career stage
+      label: Ideal career stage
       hint: null
       type: select_multiple
       options:
       - Career starter
       - Mid-career
       - Late career
-      required: false
+      required: true
+    - id: 11
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_multiple
+      options:
+      - Creative
+      - Analytical
+      - Technical
+      required: true
+    - id: 12
+      name: job_location
+      label: Job location
+      hint: null
+      type: select_multiple
+      options:
+      - City
+      - Remote
+      - Hybrid
+      required: true
     - id: 13
-      name: ideal_job_description
-      label: Ideal job description
+      name: job_industry
+      label: Job industry
+      hint: null
+      type: select_multiple
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      required: true
+    - id: 14
+      name: job_satisfaction_3
+      label: Job satisfaction 3
+      hint: null
+      type: select_one
+      options:
+      - Highly satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Not at all satisfied
+      required: true
+    - id: 15
+      name: dream_job_title
+      label: Dream job title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 16
+      name: ideal_company
+      label: Ideal company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: ideal_workplace
+      label: Ideal workplace
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: ideal_culture
+      label: Ideal company culture
+      hint: null
+      type: select_multiple
+      options:
+      - Collaborative
+      - Competitive
+      - Flexible
+      required: true

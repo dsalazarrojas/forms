@@ -1,164 +1,153 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Appliance Security Inspection Checklist
     pages:
-      - id: 1
-        name: inspection_details_header
-        label: -- Inspection Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: inspection_date
-        label: Date of Inspection
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: inspector_name
-        label: Inspector Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: location_site
-        label: Location - Site Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: appliance_type
-        label: Appliance Type
-        hint: null
-        type: select_one
-        options:
-          - Refrigerator
-          - Oven - Range
-          - Microwave
-          - Dishwasher
-          - Washing Machine
-          - Dryer
-          - Water Heater
-          - HVAC Unit
-        required: true
-      - id: 6
-        name: safety_checks_header
-        label: -- Safety and Security Checks --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: electrical_cord_condition
-        label: Electrical Cord and Plug Condition
-        hint: Check for fraying, burns, or loose connections
-        type: select_one
-        options:
-          - Satisfactory
-          - Requires Attention
-          - Dangerous - Unplugged
-        required: true
-      - id: 8
-        name: grounding_verified
-        label: Proper Grounding Verified
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unknown
-        required: true
-      - id: 9
-        name: clearance_from_combustibles
-        label: Adequate Clearance from Combustibles
-        hint: Minimum 3 feet recommended for heating appliances
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: ventilation_status
-        label: Ventilation Paths Clear
-        hint: Check vents and filters for obstructions
-        type: select_one
-        options:
-          - Clear
-          - Partially Blocked
-          - Obstructed
-        required: true
-      - id: 11
-        name: control_knobs_functional
-        label: Control Knobs and Buttons Functional
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 12
-        name: leak_inspection
-        label: Gas or Water Leak Inspection
-        hint: Check connections for signs of moisture or gas odor
-        type: select_one
-        options:
-          - No Leaks Detected
-          - Minor Leak Found
-          - Major Leak - Immediate Action Taken
-        required: true
-      - id: 13
-        name: follow_up_header
-        label: -- Follow-up Actions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: overall_safety_rating
-        label: Overall Security Rating
-        hint: null
-        type: select_one
-        options:
-          - 5 - Very Safe
-          - 4 - Safe
-          - 3 - Average
-          - 2 - Poor
-          - 1 - Unsafe
-        required: true
-      - id: 15
-        name: repairs_needed
-        label: Repairs or Maintenance Required
-        hint: Describe any issues found
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: maintenance_ticket_number
-        label: Maintenance Ticket Number
-        hint: If a ticket was opened
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: next_inspection_date
-        label: Recommended Next Inspection Date
-        hint: null
-        type: date
-        options: []
-        required: false
+    - id: 1
+      name: inspection_details_header
+      label: -- Inspection Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location_site
+      label: Location - Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: appliance_type
+      label: Appliance Type
+      hint: null
+      type: select_one
+      options:
+      - Refrigerator
+      - Oven - Range
+      - Microwave
+      - Dishwasher
+      - Washing Machine
+      - Dryer
+      - Water Heater
+      - HVAC Unit
+      required: true
+    - id: 6
+      name: safety_checks_header
+      label: -- Safety and Security Checks --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: electrical_cord_condition
+      label: Electrical Cord and Plug Condition
+      hint: Check for fraying, burns, or loose connections
+      type: select_one
+      options:
+      - Satisfactory
+      - Requires Attention
+      - Dangerous - Unplugged
+      required: true
+    - id: 8
+      name: grounding_verified
+      label: Proper Grounding Verified
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: true
+    - id: 9
+      name: clearance_from_combustibles
+      label: Adequate Clearance from Combustibles
+      hint: Minimum 3 feet recommended for heating appliances
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: ventilation_status
+      label: Ventilation Paths Clear
+      hint: Check vents and filters for obstructions
+      type: select_one
+      options:
+      - Clear
+      - Partially Blocked
+      - Obstructed
+      required: true
+    - id: 11
+      name: control_knobs_functional
+      label: Control Knobs and Buttons Functional
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: leak_inspection
+      label: Gas or Water Leak Inspection
+      hint: Check connections for signs of moisture or gas odor
+      type: select_one
+      options:
+      - No Leaks Detected
+      - Minor Leak Found
+      - Major Leak - Immediate Action Taken
+      required: true
+    - id: 13
+      name: follow_up_header
+      label: -- Follow-up Actions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: overall_safety_rating
+      label: Overall Security Rating
+      hint: null
+      type: select_one
+      options:
+      - 5 - Very Safe
+      - 4 - Safe
+      - 3 - Average
+      - 2 - Poor
+      - 1 - Unsafe
+      required: true
+    - id: 15
+      name: repairs_needed
+      label: Repairs or Maintenance Required
+      hint: Describe any issues found
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: maintenance_ticket_number
+      label: Maintenance Ticket Number
+      hint: If a ticket was opened
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_inspection_date
+      label: Recommended Next Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
-      - '{''value'': ''Check'', ''label'': ''Check''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Bank Transfer
+      - Check
+      - Other
       required: true
     - id: 6
       name: contact_method
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone'', ''label'': ''Phone''}'
-      - '{''value'': ''Email'', ''label'': ''Email''}'
-      - '{''value'': ''In Person'', ''label'': ''In Person''}'
+      - Phone
+      - Email
+      - In Person
       required: true
     - id: 7
       name: comments
@@ -78,12 +78,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''Quarterly'', ''label'': ''Quarterly''}'
-      - '{''value'': ''Annually'', ''label'': ''Annually''}'
-      - '{''value'': ''On Demand'', ''label'': ''On Demand''}'
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - On Demand
       required: true
     - id: 11
       name: payment_amount
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Once'', ''label'': ''Once''}'
-      - '{''value'': ''Reoccurring'', ''label'': ''Reoccurring''}'
-      - '{''value'': ''On Demand'', ''label'': ''On Demand''}'
+      - Once
+      - Reoccurring
+      - On Demand
       required: true
     - id: 13
       name: payment_type
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Bank Transfer'', ''label'': ''Bank Transfer''}'
-      - '{''value'': ''Check'', ''label'': ''Check''}'
-      - '{''value'': ''Online Transfer'', ''label'': ''Online Transfer''}'
+      - Bank Transfer
+      - Check
+      - Online Transfer
       required: true
     - id: 14
       name: payment_status
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paid'', ''label'': ''Paid''}'
-      - '{''value'': ''Unpaid'', ''label'': ''Unpaid''}'
-      - '{''value'': ''Partially Paid'', ''label'': ''Partially Paid''}'
+      - Paid
+      - Unpaid
+      - Partially Paid
       required: true
     - id: 15
       name: payment_notes

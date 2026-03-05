@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
       name: section_2
@@ -29,13 +29,13 @@ inputSchema:
       required: false
     - id: 4
       name: section_3
-      label: What did you learn from our services?
+      label: Section 3
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
       name: section_4
@@ -70,7 +70,7 @@ inputSchema:
       required: false
     - id: 9
       name: section_9
-      label: Overall, how would you rate this agency?
+      label: Section 9
       hint: null
       type: number
       options: []
@@ -117,7 +117,7 @@ inputSchema:
       required: false
     - id: 15
       name: section_15
-      label: Overall, how would you rate this agency?
+      label: Section 15
       hint: null
       type: number
       options: []

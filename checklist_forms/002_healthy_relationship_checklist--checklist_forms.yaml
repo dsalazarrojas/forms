@@ -7,84 +7,57 @@ inputSchema:
       name: relationship_survey
       label: Relationship Survey
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Partnership
+      - Friendship
+      - Family Members
+      required: true
     - id: 2
       name: communication
-      label: communication
-      hint: null
+      label: How do you communicate with your partner?
+      hint: Please describe your communication style
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: conflict_resolution
-      label: Conflict Resolution
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
       name: intimacy_level
-      label: Intimacy Level
+      label: What is your level of physical intimacy?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: conflict_resolution
+      label: How do you resolve conflicts?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
     - id: 5
       name: emotional_maturity
-      label: Emotional Maturity
+      label: What is your partner's emotional maturity level?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: conflict_resolution
-      label: Conflict Resolution
+      name: conflict_resolution_options
+      label: What are some strategies you use to resolve conflicts?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 7
-      name: conflict_resolution_options
-      label: Conflict Resolution Options
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: emotional_maturity
-      label: Emotional Maturity
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: intimacy_level
-      label: Intimacy Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: conflict_resolution
-      label: Conflict Resolution
+      name: relationship_strength
+      label: What is the strength of your relationship?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: communication
-      label: Communication
-      hint: null
-      type: text
-      options: []
-      required: false
+      - Strong
+      - Medium
+      - Weak
+      required: true

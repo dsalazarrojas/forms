@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active'', ''value'': ''Active''}'
-      - '{''label'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''label'': ''Completed'', ''value'': ''Completed''}'
+      - Active
+      - In Progress
+      - Completed
       required: true
     - id: 8
       name: business_case_for_change
@@ -166,9 +166,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
-      - '{''label'': ''Unknown'', ''value'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 24
       name: post_implementation_review
@@ -183,9 +183,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Satisfied'', ''value'': ''Very Satisfied''}'
-      - '{''label'': ''Satisfied'', ''value'': ''Satisfied''}'
-      - '{''label'': ''Neutral'', ''value'': ''Neutral''}'
-      - '{''label'': ''Dissatisfied'', ''value'': ''Dissatisfied''}'
-      - '{''label'': ''Very Dissatisfied'', ''value'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
       required: true

@@ -4,8 +4,8 @@ inputSchema:
     title: Renewable Energy Policy Survey
     pages:
     - id: 1
-      name: renewable_energy_policy_survey
-      label: Renewable Energy Policy
+      name: policy_name
+      label: Policy Name
       hint: null
       type: text
       options: []
@@ -16,182 +16,124 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Business Surveys
+      - Other
       required: true
     - id: 3
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 4
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: assigned_tool
       label: Assigned Tool
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
+    - id: 4
       name: output_file
       label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: category_label
+      label: Category Label
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: category_label
-      label: Category
+      name: description_label
+      label: Description Label
       hint: null
-      type: select_one
-      options:
-      - Business Surveys
-      - Other
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 8
-      name: title
-      label: Title
+      name: output_file_label
+      label: Output File Label
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: description_label
-      label: Description
+      name: assigned_tool_label
+      label: Assigned Tool Label
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: output_file_label
-      label: Output File
+      name: form_id_label
+      label: Form ID Label
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: category_value
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - Category 1
-      - Category 2
-      - Category 3
-      required: false
-    - id: 12
-      name: assigned_tool_label
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_id_label
-      label: Form ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_id
-      label: Form ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Category 1
-      - Category 2
-      - Category 3
-      required: true
-    - id: 17
       name: form_title
       label: Form Title
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: category
-      label: Category
+    - id: 12
+      name: category_value
+      label: Category Value
       hint: null
       type: select_multiple
       options:
       - Category 1
       - Category 2
       - Category 3
-      required: false
-    - id: 21
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
       required: true
-    - id: 24
-      name: output_file
-      label: Output File
+    - id: 13
+      name: title
+      label: Title
       hint: null
       type: text
       options: []
       required: false
-    - id: 25
-      name: category
-      label: Category
+    - id: 14
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: category_2
+      label: Category 2
       hint: null
       type: select_one
       options:
       - Category 1
       - Category 2
       - Category 3
+      required: false
+    - id: 17
+      name: form_id_2
+      label: Form ID 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: form_description_2
+      label: Form Description 2
+      hint: null
+      type: text
+      options: []
       required: false

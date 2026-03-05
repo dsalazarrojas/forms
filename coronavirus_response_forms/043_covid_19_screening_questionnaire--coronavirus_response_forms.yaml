@@ -1,100 +1,111 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: COVID 19 Screening Questionnaire
     pages:
-      - id: 1
-        name: person_name_full
-        label: Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: screening_purpose_cat
-        label: Purpose of Screening
-        hint: null
-        type: select_one
-        options: [Work Entry, Visitor Entry, Scheduled Appointment, Travel Clearance]
-        required: true
-      - id: 3
-        name: feeling_well_yn
-        label: Are you feeling well today?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 4
-        name: symptom_cough_yn
-        label: Do you have a new or worsening cough?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 5
-        name: symptom_breath_yn
-        label: Do you have difficulty breathing or shortness of breath?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 6
-        name: symptom_taste_yn
-        label: Have you experienced a loss of taste or smell?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 7
-        name: symptom_fatigue_yn
-        label: Do you have unusual fatigue or muscle aches?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 8
-        name: symptom_congest_yn
-        label: Do you have nasal congestion or a runny nose?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 9
-        name: symptom_nausea_yn
-        label: Do you have nausea, vomiting, or diarrhea?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 10
-        name: exposure_risk_yn
-        label: Have you been in close contact with a positive COVID-19 case in 14 days?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 11
-        name: screening_verif_ack
-        label: I verify that my answers are true and accurate
-        hint: null
-        type: select_one
-        options: [Yes, I verify]
-        required: true
-      - id: 12
-        name: screening_timestamp
-        label: Screening Time and Date
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: person_name_full
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: screening_purpose_cat
+      label: Purpose of Screening
+      hint: null
+      type: select_one
+      options:
+      - Work Entry
+      - Visitor Entry
+      - Scheduled Appointment
+      - Travel Clearance
+      required: true
+    - id: 3
+      name: feeling_well_yn
+      label: Are you feeling well today?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: symptom_cough_yn
+      label: Do you have a new or worsening cough?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: symptom_breath_yn
+      label: Do you have difficulty breathing or shortness of breath?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: symptom_taste_yn
+      label: Have you experienced a loss of taste or smell?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: symptom_fatigue_yn
+      label: Do you have unusual fatigue or muscle aches?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: symptom_congest_yn
+      label: Do you have nasal congestion or a runny nose?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: symptom_nausea_yn
+      label: Do you have nausea, vomiting, or diarrhea?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: exposure_risk_yn
+      label: Have you been in close contact with a positive COVID-19 case in 14 days?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: screening_verif_ack
+      label: I verify that my answers are true and accurate
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I verify
+      required: true
+    - id: 12
+      name: screening_timestamp
+      label: Screening Time and Date
+      hint: null
+      type: text
+      options: []
+      required: true

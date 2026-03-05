@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 3
       name: design_skills
@@ -26,11 +26,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Architecture''}'
-      - '{''id'': 2, ''label'': ''Analysis''}'
-      - '{''id'': 3, ''label'': ''Requirements''}'
-      - '{''id'': 4, ''label'': ''Prototyping''}'
-      - '{''id'': 5, ''label'': ''Documentation''}'
+      - Architecture
+      - Analysis
+      - Requirements
+      - Prototyping
+      - Documentation
       required: false
     - id: 4
       name: experience_years
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Agile''}'
-      - '{''id'': 2, ''label'': ''Waterfall''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
+      - Agile
+      - Waterfall
+      - Hybrid
       required: false
     - id: 7
       name: collaboration
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Individual''}'
-      - '{''id'': 2, ''label'': ''Team''}'
-      - '{''id'': 3, ''label'': ''Remote''}'
-      - '{''id'': 4, ''label'': ''Distributed''}'
+      - Individual
+      - Team
+      - Remote
+      - Distributed
       required: false
     - id: 8
       name: design_technology
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Low-fidelity''}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': True}'
+      - Low-fidelity
+      - 'False'
+      - 'True'
       required: false
     - id: 9
       name: communication
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Regular''}'
-      - '{''id'': 2, ''label'': ''Ad-hoc''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Regular
+      - Ad-hoc
+      - None
       required: false
     - id: 10
       name: training_programs
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: training_resources
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Human-Centered''}'
-      - '{''id'': 2, ''label'': ''Lean''}'
-      - '{''id'': 3, ''label'': ''Agile''}'
+      - Human-Centered
+      - Lean
+      - Agile
       required: false
     - id: 13
       name: feedback
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Regular''}'
-      - '{''id'': 2, ''label'': ''Ad-hoc''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Regular
+      - Ad-hoc
+      - None
       required: false
     - id: 14
       name: review_process
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Formal''}'
-      - '{''id'': 2, ''label'': ''Informal''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Formal
+      - Informal
+      - None
       required: false
     - id: 15
       name: system_design_tools
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''UML''}'
-      - '{''id'': 2, ''label'': ''BPMN''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - UML
+      - BPMN
+      - Other
       required: false
     - id: 16
       name: design_documentation
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''UML''}'
-      - '{''id'': 2, ''label'': ''Text''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - UML
+      - Text
+      - Other
       required: false
     - id: 17
       name: design_collaboration_tools
@@ -159,9 +159,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Trello''}'
-      - '{''id'': 2, ''label'': ''Asana''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Trello
+      - Asana
+      - Other
       required: false
     - id: 18
       name: design_communication_tools
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Slack''}'
-      - '{''id'': 2, ''label'': ''MS Teams''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Slack
+      - MS Teams
+      - Other
       required: false
     - id: 19
       name: design_development_process
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Agile''}'
-      - '{''id'': 2, ''label'': ''Waterfall''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
+      - Agile
+      - Waterfall
+      - Hybrid
       required: false
     - id: 20
       name: design_deployment_process
@@ -189,9 +189,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CI/CD''}'
-      - '{''id'': 2, ''label'': ''Iterative''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
+      - CI/CD
+      - Iterative
+      - Hybrid
       required: false
     - id: 21
       name: design_environment
@@ -199,9 +199,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cloud''}'
-      - '{''id'': 2, ''label'': ''On-prem''}'
-      - '{''id'': 3, ''label'': ''Hybrid''}'
+      - Cloud
+      - On-prem
+      - Hybrid
       required: false
     - id: 22
       name: design_security
@@ -209,9 +209,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 23
       name: design_reusability
@@ -219,9 +219,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 24
       name: design_maintainability
@@ -229,9 +229,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 25
       name: design_testability
@@ -239,7 +239,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false

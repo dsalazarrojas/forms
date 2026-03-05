@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Emergency''}'
-      - '{''label'': ''Non-Emergency''}'
-      - '{''label'': ''Both''}'
+      - Emergency
+      - Non-Emergency
+      - Both
       required: false
     - id: 4
       name: emergency_medication
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Allergist''}'
-      - '{''label'': ''ER''}'
-      - '{''label'': ''Both''}'
+      - Allergist
+      - ER
+      - Both
       required: false
     - id: 8
       name: school_camp_name
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Guardian''}'
-      - '{''label'': ''Other''}'
+      - Parent
+      - Guardian
+      - Other
       required: false
     - id: 17
       name: contact_info
@@ -151,15 +151,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Milk''}'
-      - '{''label'': ''Eggs''}'
-      - '{''label'': ''Peanuts''}'
-      - '{''label'': ''Wheat''}'
-      - '{''label'': ''Fish''}'
-      - '{''label'': ''Soy''}'
-      - '{''label'': ''Tree Nuts''}'
-      - '{''label'': ''Shellfish''}'
-      - '{''label'': ''Sesame''}'
+      - Milk
+      - Eggs
+      - Peanuts
+      - Wheat
+      - Fish
+      - Soy
+      - Tree Nuts
+      - Shellfish
+      - Sesame
       required: false
     - id: 21
       name: food_intolerances
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''By a healthcare professional''}'
-      - '{''label'': ''By a non-healthcare professional''}'
-      - '{''label'': ''Not at all''}'
+      - By a healthcare professional
+      - By a non-healthcare professional
+      - Not at all
       required: false
     - id: 23
       name: medical_conditions
@@ -198,7 +198,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Partially Signed''}'
+      - 'True'
+      - 'False'
+      - Partially Signed
       required: false

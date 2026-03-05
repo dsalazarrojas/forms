@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Consultant''}'
-      - '{''id'': 2, ''value'': ''Contractor''}'
-      - '{''id'': 3, ''value'': ''Both''}'
+      - Consultant
+      - Contractor
+      - Both
       required: true
     - id: 5
       name: job_type
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Full Time''}'
-      - '{''id'': 2, ''value'': ''Part Time''}'
-      - '{''id'': 3, ''value'': ''Project Based''}'
-      - '{''id'': 4, ''value'': ''Both''}'
+      - Full Time
+      - Part Time
+      - Project Based
+      - Both
       required: true
     - id: 6
       name: years_of_experience
@@ -142,9 +142,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Fixed''}'
-      - '{''id'': 2, ''value'': ''Hourly''}'
-      - '{''id'': 3, ''value'': ''Project Based''}'
+      - Fixed
+      - Hourly
+      - Project Based
       required: true
     - id: 20
       name: contract_start_date

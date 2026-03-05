@@ -65,19 +65,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Customer Loyalty Data'', ''label'': ''Customer Loyalty Data''}'
-      - '{''value'': ''Customer Contact Information'', ''label'': ''Customer Contact
-        Information''}'
-      - '{''value'': ''Customer Purchase History'', ''label'': ''Customer Purchase
-        History''}'
-      - '{''value'': ''Customer Loyalty Program Data'', ''label'': ''Customer Loyalty
-        Program Data''}'
-      - '{''value'': ''Customer Marketing Data'', ''label'': ''Customer Marketing
-        Data''}'
-      - '{''value'': ''Customer Financial Data'', ''label'': ''Customer Financial
-        Data''}'
-      - '{''value'': ''Customer Support Data'', ''label'': ''Customer Support Data''}'
-      - '{''value'': ''Customer Other Data'', ''label'': ''Customer Other Data''}'
+      - Customer Loyalty Data
+      - Customer Contact Information
+      - Customer Purchase History
+      - Customer Loyalty Program Data
+      - Customer Marketing Data
+      - Customer Financial Data
+      - Customer Support Data
+      - Customer Other Data
       required: false
     - id: 10
       name: data_access_request_frequency
@@ -85,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''One time'', ''label'': ''One time''}'
-      - '{''value'': ''Recurring'', ''label'': ''Recurring''}'
+      - One time
+      - Recurring
       required: false
     - id: 11
       name: consent
@@ -94,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: notes
@@ -119,9 +114,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Admin'', ''label'': ''Admin''}'
-      - '{''value'': ''Supervisor'', ''label'': ''Supervisor''}'
-      - '{''value'': ''Support'', ''label'': ''Support''}'
+      - Admin
+      - Supervisor
+      - Support
       required: false
     - id: 15
       name: submitted_by

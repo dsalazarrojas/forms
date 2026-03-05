@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''2-1'', ''name'': ''Small''}'
-      - '{''id'': ''2-2'', ''name'': ''Medium''}'
-      - '{''id'': ''2-3'', ''name'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 3
       name: communication_practices
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''3-1'', ''name'': ''Frequently''}'
-      - '{''id'': ''3-2'', ''name'': ''Occasionally''}'
-      - '{''id'': ''3-3'', ''name'': ''Rarely''}'
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 4
       name: communication_channels
@@ -36,10 +36,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''4-1'', ''name'': ''Email''}'
-      - '{''id'': ''4-2'', ''name'': ''Phone''}'
-      - '{''id'': ''4-3'', ''name'': ''Video calls''}'
-      - '{''id'': ''4-4'', ''name'': ''Text messages''}'
+      - Email
+      - Phone
+      - Video calls
+      - Text messages
       required: false
     - id: 5
       name: information_sharing
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''5-1'', ''name'': ''Colleagues''}'
-      - '{''id'': ''5-2'', ''name'': ''Management''}'
-      - '{''id'': ''5-3'', ''name'': ''Clients''}'
-      - '{''id'': ''5-4'', ''name'': ''Suppliers''}'
+      - Colleagues
+      - Management
+      - Clients
+      - Suppliers
       required: false
     - id: 6
       name: information_sharing_frequency
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''6-1'', ''name'': ''Frequently''}'
-      - '{''id'': ''6-2'', ''name'': ''Occasionally''}'
-      - '{''id'': ''6-3'', ''name'': ''Rarely''}'
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 7
       name: data_sharing
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''7-1'', ''name'': ''Financial information''}'
-      - '{''id'': ''7-2'', ''name'': ''Performance information''}'
-      - '{''id'': ''7-3'', ''name'': ''Other data''}'
+      - Financial information
+      - Performance information
+      - Other data
       required: false
     - id: 8
       name: data_sharing_reason
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''8-1'', ''name'': ''To help others make decisions''}'
-      - '{''id'': ''8-2'', ''name'': ''For reporting or auditing''}'
-      - '{''id'': ''8-3'', ''name'': ''For research''}'
+      - To help others make decisions
+      - For reporting or auditing
+      - For research
       required: false
     - id: 9
       name: feedback
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''9-1'', ''name'': True}'
-      - '{''id'': ''9-2'', ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: feedback_sources
@@ -97,10 +97,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''10-1'', ''name'': ''Colleagues''}'
-      - '{''id'': ''10-2'', ''name'': ''Management''}'
-      - '{''id'': ''10-3'', ''name'': ''Clients''}'
-      - '{''id'': ''10-4'', ''name'': ''Suppliers''}'
+      - Colleagues
+      - Management
+      - Clients
+      - Suppliers
       required: false
     - id: 11
       name: communication_style
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''14-1'', ''name'': ''Good''}'
-      - '{''id'': ''14-2'', ''name'': ''Fair''}'
-      - '{''id'': ''14-3'', ''name'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 15
       name: overall_satisfaction

@@ -4,181 +4,181 @@ inputSchema:
     title: Summer School Agreement Form
     pages:
     - id: 1
-      name: summer_school_agreement_form
-      label: terms_and_conditions
+      name: page1
+      label: Terms and Conditions
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: name
-      label: name
+      name: page2
+      label: Name (Student)
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: email
-      label: email
+      name: page3
+      label: Email (Student)
       hint: null
       type: email
       options: []
       required: true
     - id: 4
-      name: phone
-      label: phone
+      name: page4
+      label: Phone (Student)
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: date
-      label: start_date
+      name: page5
+      label: Start Date
       hint: null
       type: date
       options: []
       required: true
     - id: 6
-      name: time
-      label: start_time
+      name: page6
+      label: Start Time
       hint: null
       type: time
       options: []
       required: true
     - id: 7
-      name: school_terms
-      label: terms_and_conditions
+      name: page7
+      label: Authorized Person
       hint: null
-      type: note
+      type: text
       options: []
-      required: true
+      required: false
     - id: 8
-      name: submission_date
-      label: submission_date
+      name: page8
+      label: Authorized Person Signature
       hint: null
-      type: date
+      type: text
       options: []
       required: true
     - id: 9
-      name: submission_time
-      label: submission_time
+      name: page9
+      label: Submitter Signature
       hint: null
-      type: time
+      type: text
       options: []
       required: true
     - id: 10
-      name: name_authorized_rep
-      label: name_of_authorized_person
+      name: page10
+      label: Name (Submitter)
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 11
-      name: authorized_title
-      label: title_of_authorized_person
+      name: page11
+      label: Title (Submitter)
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: authorized_phone
-      label: phone_of_authorized_person
+      name: page12
+      label: Phone (Submitter)
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: authorized_email
-      label: email_of_authorized_person
+      name: page13
+      label: Email (Submitter)
       hint: null
       type: email
       options: []
       required: false
     - id: 14
-      name: authorized_date
-      label: date_of_authorized_person
+      name: page14
+      label: Date (Submitter)
       hint: null
       type: date
       options: []
       required: false
     - id: 15
-      name: authorized_time
-      label: time_of_authorized_person
+      name: page15
+      label: Time (Submitter)
       hint: null
       type: time
       options: []
       required: false
     - id: 16
-      name: submitter_signature
-      label: submitter_signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: authorized_signature
-      label: authorized_person_signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: submitter_name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submitter_title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submitter_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: submitter_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: submitter_date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: submitter_time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: submitter_notes
-      label: notes
+      name: page16
+      label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 25
-      name: submitter_agreed
-      label: agree_to_terms
+    - id: 17
+      name: page17
+      label: Agree to Terms and Conditions
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: true
+    - id: 18
+      name: page18
+      label: Authorized Person Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: page19
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: page20
+      label: Page20
+      hint: null
+      type: select_one
+      options:
+      - Authorized Person
+      - Submitter
+      required: true
+    - id: 21
+      name: page21
+      label: Page21
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: page22
+      label: Page22
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: page23
+      label: Page23
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: page24
+      label: Page24
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: page25
+      label: Page25
+      hint: null
+      type: text
+      options: []
+      required: false

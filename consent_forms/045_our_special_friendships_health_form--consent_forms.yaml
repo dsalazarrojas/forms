@@ -4,165 +4,138 @@ inputSchema:
     title: Our Special Friendships Health Form
     pages:
     - id: 1
-      name: main_page
-      label: Main Page
+      name: medical_conditions_page
+      label: Medical Conditions
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: family_member_form
-      label: family member
+      name: allergies_page
+      label: Allergies
       hint: null
-      type: select_one
+      type: checkbox
       options:
-      - '{''name'': ''mother''}'
-      - father
-      - mother-in-law
-      - father-in-law
-      - son
-      - daughter
-      - son-in-law
-      - daughter-in-law
+      - 'True'
+      - 'False'
       required: false
     - id: 3
-      name: medical_conditions_form
-      label: medical conditions
+      name: special_needs_page
+      label: Special Needs
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: special_needs_form
-      label: special needs
+      name: doctor_page
+      label: Doctor
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''name'': ''wheelchair''}'
-      - '{''name'': ''guide dog''}'
-      - '{''name'': ''hearing aids''}'
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Brown
       required: false
     - id: 5
-      name: allergies_form
-      label: allergies
+      name: medical_record_page
+      label: Medical Record
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 6
-      name: doctor_form
-      label: doctor's name
+      name: doctor_specialties_page
+      label: Doctor's Specialty
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: medical_record_form
-      label: medical record
+      name: medical_equipment_page
+      label: Medical Equipment
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: medical_condition_form
-      label: medical condition
+      name: medical_insurance_page
+      label: Medical Insurance
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: doctor_form
-      label: doctor
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''Dr. Smith''}'
-      - '{''name'': ''Dr. Johnson''}'
-      - '{''name'': ''Dr. Brown''}'
-      required: false
-    - id: 10
-      name: doctor_form
-      label: doctor
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''Dr. Smith''}'
-      - '{''name'': ''Dr. Johnson''}'
-      - '{''name'': ''Dr. Brown''}'
-      required: false
-    - id: 11
-      name: doctor_form
-      label: doctor
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''Dr. Smith''}'
-      - '{''name'': ''Dr. Johnson''}'
-      - '{''name'': ''Dr. Brown''}'
-      required: false
-    - id: 12
-      name: doctor_form
-      label: doctor
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''Dr. Smith''}'
-      - '{''name'': ''Dr. Johnson''}'
-      required: false
-    - id: 13
-      name: doctor_form
-      label: doctor
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': ''Dr. Smith''}'
-      - Other
-      required: false
-    - id: 14
-      name: doctor_form
-      label: doctor
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: doctor_form
-      label: doctor
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: special_needs_form
-      label: special needs
+      name: medical_history_page
+      label: Medical History
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 10
+      name: doctor_visit_frequency_page
+      label: Doctor Visit Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: doctor_relationship_page
+      label: Doctor Relationship
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      required: false
+    - id: 12
+      name: medical_record_provider_page
+      label: Medical Record Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_equipment_page_2
+      label: Medical Equipment Page 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_insurance_provider_page
+      label: Medical Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_history_page_2
+      label: Medical History Page 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: doctor_visit_time_page
+      label: Doctor Visit Time
+      hint: null
+      type: time
       options: []
       required: false
     - id: 17
-      name: medical_record_form
-      label: medical record
+      name: doctor_known_time_page
+      label: Doctor Known Time
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 18
-      name: allergies_form
-      label: allergies
+      name: medical_prescription_medication_page
+      label: Medical Prescription Medication
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: doctor_form
-      label: doctor
-      hint: null
-      type: select_one
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

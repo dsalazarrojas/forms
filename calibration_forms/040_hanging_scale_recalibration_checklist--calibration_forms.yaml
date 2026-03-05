@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''analog'', ''label'': ''Analog''}'
-      - '{''id'': 2, ''name'': ''digital'', ''label'': ''Digital''}'
-      - '{''id'': 3, ''name'': ''mechanical'', ''label'': ''Mechanical''}'
-      - '{''id'': 4, ''name'': ''other'', ''label'': ''Other''}'
+      - Analog
+      - Digital
+      - Mechanical
+      - Other
       required: false
     - id: 4
       name: scale_model
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''months'', ''label'': ''Months''}'
-      - '{''id'': 2, ''name'': ''years'', ''label'': ''Years''}'
+      - Months
+      - Years
       required: false
     - id: 7
       name: last_calibration_date
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''good'', ''label'': ''Good''}'
-      - '{''id'': 2, ''name'': ''fair'', ''label'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''poor'', ''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 12
       name: notes

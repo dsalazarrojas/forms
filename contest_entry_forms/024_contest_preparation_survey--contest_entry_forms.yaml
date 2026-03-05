@@ -1,132 +1,121 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contest Preparation Survey
     pages:
-      - id: 1
-        name: participant_check_in_header
-        label: -- Participant Check-in --
-        hint: Help us finalize the logistics for the event
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: participant_name
-        label: Participant Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: contest_identifier
-        label: Which contest are you preparing for
-        hint: e.g., Regional Science Fair, Annual Hackathon
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: prep_status_header
-        label: -- Preparation Status --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: project_readiness_rating
-        label: Current Readiness Level
-        hint: 1 = Just started, 5 = Fully prepared
-        type: select_one
-        options:
-          - 1 - Not Prepared
-          - 2 - Early Stages
-          - 3 - Making Progress
-          - 4 - Almost Ready
-          - 5 - Ready to Compete
-        required: true
-      - id: 6
-        name: equipment_needs
-        label: Specific Equipment Needed on Site
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Power Outlet/Extension Cord
-          - Presentation Screen/Monitor
-          - Table Space (Extra Large)
-          - Internet Connection (Ethernet)
-          - No special equipment needed
-        required: true
-      - id: 7
-        name: travel_lodging_header
-        label: -- Logistics --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: arrival_date
-        label: Planned Arrival Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 9
-        name: dietary_restrictions
-        label: Dietary Restrictions (for catering)
-        hint: null
-        type: select_multiple
-        options:
-          - None
-          - Vegetarian
-          - Vegan
-          - Gluten-Free
-          - Nut Allergy
-          - Dairy-Free
-        required: true
-      - id: 10
-        name: support_questions_header
-        label: -- Questions and Support --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: biggest_preparation_challenge
-        label: What is your biggest challenge in preparing
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 12
-        name: mentor_support_needed
-        label: Would you like a 15-minute session with a mentor
-        hint: To review your progress before the event
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: additional_preparation_needs
-        label: Any other needs or concerns
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: submission_timestamp
-        label: Date Survey Completed
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: participant_check_in_header
+      label: -- Participant Check-in --
+      hint: Help us finalize the logistics for the event
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contest_identifier
+      label: Which contest are you preparing for
+      hint: e.g., Regional Science Fair, Annual Hackathon
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: prep_status_header
+      label: -- Preparation Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: project_readiness_rating
+      label: Current Readiness Level
+      hint: 1 = Just started, 5 = Fully prepared
+      type: select_one
+      options:
+      - 1 - Not Prepared
+      - 2 - Early Stages
+      - 3 - Making Progress
+      - 4 - Almost Ready
+      - 5 - Ready to Compete
+      required: true
+    - id: 6
+      name: equipment_needs
+      label: Specific Equipment Needed on Site
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Power Outlet/Extension Cord
+      - Presentation Screen/Monitor
+      - Table Space (Extra Large)
+      - Internet Connection (Ethernet)
+      - No special equipment needed
+      required: true
+    - id: 7
+      name: travel_lodging_header
+      label: -- Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: arrival_date
+      label: Planned Arrival Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: dietary_restrictions
+      label: Dietary Restrictions (for catering)
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten-Free
+      - Nut Allergy
+      - Dairy-Free
+      required: true
+    - id: 10
+      name: support_questions_header
+      label: -- Questions and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: biggest_preparation_challenge
+      label: What is your biggest challenge in preparing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mentor_support_needed
+      label: Would you like a 15-minute session with a mentor
+      hint: To review your progress before the event
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: additional_preparation_needs
+      label: Any other needs or concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_timestamp
+      label: Date Survey Completed
+      hint: null
+      type: date
+      options: []
+      required: true

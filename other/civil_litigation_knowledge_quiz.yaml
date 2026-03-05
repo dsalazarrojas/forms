@@ -23,6 +23,7 @@ inputSchema:
       - What is the purpose of a civil litigation quiz? - To assess knowledge of civil
         litigation concepts - To evaluate staff knowledge of civil litigation - Other
         (please specify)
+      - Other
       required: true
     - id: 3
       name: civil_litigation_knowledge_quiz
@@ -43,7 +44,9 @@ inputSchema:
       label: important_civ_litigation_question
       hint: null
       type: select_one
-      options: []
+      options:
+      - Very Important
+      - Not Important
       required: true
     - id: 6
       name: civil_litigation_important_question_answer
@@ -59,7 +62,9 @@ inputSchema:
       label: important_civ_litigation_result
       hint: null
       type: select_one
-      options: []
+      options:
+      - Very Important
+      - Not Important
       required: true
     - id: 8
       name: civil_litigation_knowledge_result
@@ -77,6 +82,7 @@ inputSchema:
       type: select_one
       options:
       - Passed - Failed
+      - Other
       required: true
     - id: 10
       name: civil_litigation_score

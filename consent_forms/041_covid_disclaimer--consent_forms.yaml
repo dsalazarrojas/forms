@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -90,9 +79,9 @@ inputSchema:
       hint: You understand transmission and risk
       type: select_one
       options:
-        - Yes, I understand the risks
-        - I have questions
-        - No
+      - Yes, I understand the risks
+      - I have questions
+      - 'False'
       required: true
     - id: 12
       name: disclaimer_acknowledge_virus_exposure
@@ -100,9 +89,9 @@ inputSchema:
       hint: I understand I may be exposed
       type: select_one
       options:
-        - I acknowledge the risk
-        - I have reservations
-        - I do not acknowledge
+      - I acknowledge the risk
+      - I have reservations
+      - I do not acknowledge
       required: true
     - id: 13
       name: disclaimer_assume_responsibility
@@ -110,9 +99,9 @@ inputSchema:
       hint: I accept responsibility for my choices
       type: select_one
       options:
-        - I assume responsibility
-        - I have concerns
-        - I do not assume responsibility
+      - I assume responsibility
+      - I have concerns
+      - I do not assume responsibility
       required: true
     - id: 14
       name: disclaimer_not_liable_header
@@ -127,9 +116,9 @@ inputSchema:
       hint: I will not hold org liable for COVID
       type: select_one
       options:
-        - I agree, no liability
-        - I have concerns
-        - I disagree
+      - I agree, no liability
+      - I have concerns
+      - I disagree
       required: true
     - id: 16
       name: disclaimer_health_status_header
@@ -144,9 +133,9 @@ inputSchema:
       hint: No fever, cough, or symptoms
       type: select_one
       options:
-        - No symptoms
-        - Have symptoms
-        - Unsure
+      - No symptoms
+      - Have symptoms
+      - Unsure
       required: true
     - id: 18
       name: disclaimer_not_exposed
@@ -154,9 +143,9 @@ inputSchema:
       hint: No contact with positive cases
       type: select_one
       options:
-        - Not exposed
-        - Possibly exposed
-        - Confirmed exposure
+      - Not exposed
+      - Possibly exposed
+      - Confirmed exposure
       required: true
     - id: 19
       name: disclaimer_not_quarantined
@@ -164,9 +153,9 @@ inputSchema:
       hint: No public health quarantine order
       type: select_one
       options:
-        - Not quarantined
-        - Under quarantine
-        - Unsure
+      - Not quarantined
+      - Under quarantine
+      - Unsure
       required: true
     - id: 20
       name: disclaimer_vaccination_status
@@ -174,11 +163,11 @@ inputSchema:
       hint: Your vaccination status
       type: select_one
       options:
-        - Fully vaccinated and boosted
-        - Fully vaccinated, not boosted
-        - Partially vaccinated
-        - Not vaccinated
-        - Prefer not to disclose
+      - Fully vaccinated and boosted
+      - Fully vaccinated, not boosted
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
       required: false
     - id: 21
       name: disclaimer_agreement_header
@@ -193,9 +182,9 @@ inputSchema:
       hint: Agreement to follow org guidelines
       type: select_one
       options:
-        - I will follow protocols
-        - I may not follow all protocols
-        - I will not follow protocols
+      - I will follow protocols
+      - I may not follow all protocols
+      - I will not follow protocols
       required: true
     - id: 23
       name: disclaimer_truthful_information
@@ -203,9 +192,9 @@ inputSchema:
       hint: I certify all info is accurate
       type: select_one
       options:
-        - Information is truthful
-        - Some information may be inaccurate
-        - I am unsure
+      - Information is truthful
+      - Some information may be inaccurate
+      - I am unsure
       required: true
     - id: 24
       name: disclaimer_read_understand
@@ -213,9 +202,9 @@ inputSchema:
       hint: Full understanding of all terms
       type: select_one
       options:
-        - I have read and understand
-        - I partially understand
-        - I do not understand
+      - I have read and understand
+      - I partially understand
+      - I do not understand
       required: true
     - id: 25
       name: disclaimer_date

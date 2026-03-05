@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''event_1'', ''label'': ''Event 1''}'
-      - '{''id'': 2, ''value'': ''event_2'', ''label'': ''Event 2''}'
-      - '{''id'': 3, ''value'': ''event_3'', ''label'': ''Event 3''}'
+      - Event 1
+      - Event 2
+      - Event 3
       required: true
     - id: 3
       name: entry_form_payout
@@ -75,12 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Additional Info 1'', ''label'': ''Additional Info
-        1''}'
-      - '{''id'': 2, ''value'': ''Additional Info 2'', ''label'': ''Additional Info
-        2''}'
-      - '{''id'': 3, ''value'': ''Additional Info 3'', ''label'': ''Additional Info
-        3''}'
+      - Additional Info 1
+      - Additional Info 2
+      - Additional Info 3
       required: false
     - id: 11
       name: entry_form_submit

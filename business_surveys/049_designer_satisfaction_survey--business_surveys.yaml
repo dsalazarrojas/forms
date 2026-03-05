@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Designer 1''}'
-      - '{''id'': 2, ''label'': ''Designer 2''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Designer 1
+      - Designer 2
+      - Other
       required: true
     - id: 3
       name: work_hours
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Company A''}'
-      - '{''id'': 2, ''label'': ''Company B''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Company A
+      - Company B
+      - Other
       required: true
     - id: 8
       name: date_completed
@@ -85,11 +85,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very dissatisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat dissatisfied''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Somewhat satisfied''}'
-      - '{''id'': 5, ''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
       required: true
     - id: 12
       name: submission_type
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New submission''}'
-      - '{''id'': 2, ''label'': ''Update submission''}'
-      - '{''id'': 3, ''label'': ''Re-submission''}'
+      - New submission
+      - Update submission
+      - Re-submission
       required: false
     - id: 13
       name: submitter
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - John
+      - Jane
+      - Other
       required: true
     - id: 14
       name: submitted_by
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jim''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Jim
+      - Jane
+      - Other
       required: true
     - id: 15
       name: comments_sub
@@ -127,9 +127,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Option 1''}'
-      - '{''id'': 2, ''label'': ''Option 2''}'
-      - '{''id'': 3, ''label'': ''Option 3''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 16
       name: design_satisfaction_survey_16
@@ -179,8 +179,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Incomplete''}'
-      - '{''id'': 2, ''label'': ''Complete''}'
+      - Incomplete
+      - Complete
       required: true
     - id: 23
       name: submission_date
@@ -202,7 +202,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John''}'
-      - '{''id'': 2, ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - John
+      - Jane
+      - Other
       required: false

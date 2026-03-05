@@ -1,146 +1,135 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cancellation Or Postponement Voting Form
     pages:
-      - id: 1
-        name: participant_name
-        label: Participant Name
-        hint: As registered for the event
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: participant_email
-        label: Email Address
-        hint: For confirmation of your vote
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: event_name
-        label: Event Name
-        hint: Full title of the event in question
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: ticket_number
-        label: Ticket or Registration Number
-        hint: Found in your original confirmation email
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: voting_options_section
-        label: -- Voting Options --
-        hint: Your voice matters in this decision
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: preferred_action
-        label: Preferred Action
-        hint: What should we do with the event
-        type: select_one
-        options:
-          - Postpone to a later date
-          - Cancel the event entirely
-          - Keep current date (if possible)
-        required: true
-      - id: 7
-        name: postponement_timeframe
-        label: Preferred Postponement Timeframe
-        hint: If we postpone, when should we reschedule
-        type: select_one
-        options:
-          - 1-3 months later
-          - 4-6 months later
-          - Next Year
-          - Not interested in postponement
-        required: false
-      - id: 8
-        name: vote_reason
-        label: Reason for your choice
-        hint: Briefly explain your preference
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: refund_preferences_section
-        label: -- Refund Preferences --
-        hint: If the event cannot proceed as planned
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: future_attendance_interest
-        label: If postponed, will you still attend
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Undecided
-        required: true
-      - id: 11
-        name: cancelled_refund_preference
-        label: If cancelled, preferred refund or credit
-        hint: How should we handle your registration fee
-        type: select_one
-        options:
-          - Full Refund
-          - Credit for Future Event
-          - Donation to Organization
-        required: true
-      - id: 12
-        name: attendance_impact
-        label: Impact of the situation on your ability to attend
-        hint: Describe any barriers you face for the current date
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: communication_section
-        label: -- Communication --
-        hint: How should we stay in touch
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: update_method
-        label: How would you like to receive updates
-        hint: null
-        type: select_one
-        options:
-          - Email
-          - SMS
-          - Phone Call
-        required: true
-      - id: 15
-        name: final_decision_agreement
-        label: I agree to the final decision made by the committee
-        hint: null
-        type: select_one
-        options:
-          - I agree
-          - I do not agree
-        required: true
-      - id: 16
-        name: submission_date
-        label: Submission Date
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: As registered for the event
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: For confirmation of your vote
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: Full title of the event in question
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: ticket_number
+      label: Ticket or Registration Number
+      hint: Found in your original confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: voting_options_section
+      label: -- Voting Options --
+      hint: Your voice matters in this decision
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_action
+      label: Preferred Action
+      hint: What should we do with the event
+      type: select_one
+      options:
+      - Postpone to a later date
+      - Cancel the event entirely
+      - Keep current date (if possible)
+      required: true
+    - id: 7
+      name: postponement_timeframe
+      label: Preferred Postponement Timeframe
+      hint: If we postpone, when should we reschedule
+      type: select_one
+      options:
+      - 1-3 months later
+      - 4-6 months later
+      - Next Year
+      - Not interested in postponement
+      required: false
+    - id: 8
+      name: vote_reason
+      label: Reason for your choice
+      hint: Briefly explain your preference
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: refund_preferences_section
+      label: -- Refund Preferences --
+      hint: If the event cannot proceed as planned
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: future_attendance_interest
+      label: If postponed, will you still attend
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: true
+    - id: 11
+      name: cancelled_refund_preference
+      label: If cancelled, preferred refund or credit
+      hint: How should we handle your registration fee
+      type: select_one
+      options:
+      - Full Refund
+      - Credit for Future Event
+      - Donation to Organization
+      required: true
+    - id: 12
+      name: attendance_impact
+      label: Impact of the situation on your ability to attend
+      hint: Describe any barriers you face for the current date
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: communication_section
+      label: -- Communication --
+      hint: How should we stay in touch
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: update_method
+      label: How would you like to receive updates
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - SMS
+      - Phone Call
+      required: true
+    - id: 15
+      name: final_decision_agreement
+      label: I agree to the final decision made by the committee
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 16
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

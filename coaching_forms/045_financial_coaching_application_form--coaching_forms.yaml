@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''single''}'
-      - '{''value'': ''married''}'
-      - '{''value'': ''other''}'
+      - single
+      - married
+      - other
       required: false
     - id: 8
       name: financial_education
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''high_school''}'
-      - '{''value'': ''bachelor''}'
-      - '{''value'': ''masters''}'
-      - '{''value'': ''doctoral''}'
+      - high school
+      - bachelor
+      - masters
+      - doctoral
       required: false
     - id: 9
       name: employment_status
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''employed''}'
-      - '{''value'': ''unemployed''}'
-      - '{''value'': ''student''}'
-      - '{''value'': ''other''}'
+      - employed
+      - unemployed
+      - student
+      - other
       required: false
     - id: 10
       name: employment_investments
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''stocks''}'
-      - '{''value'': ''bonds''}'
-      - '{''value'': ''mutual_funds''}'
-      - '{''value'': ''other''}'
+      - stocks
+      - bonds
+      - mutual funds
+      - other
       required: false
     - id: 11
       name: date_of_birth

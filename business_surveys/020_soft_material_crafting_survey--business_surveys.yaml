@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Yarn''}'
-      - '{''id'': 2, ''name'': ''Fiber''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Yarn
+      - Fiber
+      - Other
       required: true
     - id: 3
       name: project_type_other
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Yarn''}'
-      - '{''id'': 2, ''name'': ''Fiber''}'
-      - '{''id'': 3, ''name'': ''Felt''}'
-      - '{''id'': 4, ''name'': ''Thread''}'
+      - Yarn
+      - Fiber
+      - Felt
+      - Thread
       required: true
     - id: 5
       name: material_color
@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Red''}'
-      - '{''id'': 2, ''name'': ''Blue''}'
-      - '{''id'': 3, ''name'': ''Yellow''}'
-      - '{''id'': 4, ''name'': ''Green''}'
+      - Red
+      - Blue
+      - Yellow
+      - Green
       required: true
     - id: 6
       name: pattern
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Stripe''}'
-      - '{''id'': 2, ''name'': ''Dot''}'
-      - '{''id'': 3, ''name'': ''Zigzag''}'
-      - '{''id'': 4, ''name'': ''Solid''}'
+      - Stripe
+      - Dot
+      - Zigzag
+      - Solid
       required: false
     - id: 7
       name: pattern_other
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Basic''}'
-      - '{''id'': 2, ''name'': ''Intermediate''}'
-      - '{''id'': 3, ''name'': ''Advanced''}'
+      - Basic
+      - Intermediate
+      - Advanced
       required: false
     - id: 9
       name: craft_experience
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Less than 1 year''}'
-      - '{''id'': 2, ''name'': ''1-2 years''}'
-      - '{''id'': 3, ''name'': ''2-5 years''}'
-      - '{''id'': 4, ''name'': ''More than 5 years''}'
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
       required: true
     - id: 10
       name: project_name
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: true
     - id: 13
       name: contact_name
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Below $10''}'
-      - '{''id'': 2, ''name'': ''$10-50''}'
-      - '{''id'': 3, ''name'': ''Above 50''}'
+      - Below $10
+      - $10-50
+      - Above 50
       required: true
     - id: 22
       name: price_range_other

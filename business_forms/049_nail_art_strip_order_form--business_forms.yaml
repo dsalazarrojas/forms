@@ -4,193 +4,44 @@ inputSchema:
     title: Nail Art Strip Order Form
     pages:
     - id: 1
-      name: form_1
-      label: Nail Strip Order
-      hint: null
+      name: customer_info
+      label: Customer Information
+      hint: Please fill out this section to get started
       type: text
       options: []
       required: false
     - id: 2
-      name: customer_name
-      label: Customer Name
-      hint: null
+      name: order_details
+      label: Order Details
+      hint: Select the design, size, and color options for your nail strip order
       type: text
       options: []
       required: false
     - id: 3
-      name: order_quantity
-      label: Order Quantity
-      hint: null
-      type: number
+      name: color_options
+      label: Color Options
+      hint: Select the color you prefer
+      type: text
       options: []
       required: false
     - id: 4
-      name: nail_strip_designs
-      label: Nail Strip Designs
-      hint: Select the nail strip designs that you want to order
-      type: select_multiple
-      options:
-      - Red
-      - Pink
-      - Purple
-      - Blue
-      - Yellow
-      required: true
+      name: size_options
+      label: Size Options
+      hint: Select the nail strip size
+      type: text
+      options: []
+      required: false
     - id: 5
-      name: options_color
-      label: Options Color
-      hint: Select one options color
-      type: select_one
-      options:
-      - Red
-      - Pink
-      required: true
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 6
-      name: nail_strip_size
-      label: Nail Strip Size
-      hint: null
-      type: select_one
-      options:
-      - Small
-      - Medium
-      - Large
-      required: true
-    - id: 7
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: phone
-      label: Phone
-      hint: null
+      name: order_confirmation
+      label: Order Confirmation
+      hint: Please confirm your order details
       type: text
-      options: []
-      required: false
-    - id: 9
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: form_10
-      label: Nail Strip Designs
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: options_color_2
-      label: Options Color
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: nail_strip_size_2
-      label: Nail Strip Size
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: submit_2
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: date_2
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: time_2
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: note_2
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: date_3
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: time_3
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: note_3
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: email_2
-      label: Email
-      hint: null
-      type: email
       options: []
       required: false

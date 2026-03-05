@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Passenger''}'
-      - '{''id'': 2, ''name'': ''Freight''}'
-      - '{''id'': 3, ''name'': ''Goods''}'
+      - Passenger
+      - Freight
+      - Goods
       required: false
     - id: 6
       name: inspection_status
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Complete''}'
-      - '{''id'': 2, ''name'': ''Not Complete''}'
+      - Complete
+      - Not Complete
       required: false
     - id: 7
       name: notes
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Complete''}'
-      - '{''id'': 2, ''name'': ''Not Complete''}'
+      - Complete
+      - Not Complete
       required: false
     - id: 11
       name: maintenance_description

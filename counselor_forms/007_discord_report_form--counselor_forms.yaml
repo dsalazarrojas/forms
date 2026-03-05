@@ -72,12 +72,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 101, ''label'': ''Spamming'', ''name'': ''spamming''}'
-      - '{''id'': 102, ''label'': ''Trolling'', ''name'': ''trolling''}'
-      - '{''id'': 103, ''label'': ''Harassment'', ''name'': ''harassment''}'
-      - '{''id'': 104, ''label'': ''Inappropriate Content'', ''name'': ''in_appropriate_content''}'
-      - '{''id'': 105, ''label'': ''Self Promotion'', ''name'': ''self_promotion''}'
-      - '{''id'': 106, ''label'': ''None of the above'', ''name'': ''none_of_the_above''}'
+      - Spamming
+      - Trolling
+      - Harassment
+      - Inappropriate Content
+      - Self Promotion
+      - None of the above
       required: false
     - id: 11
       name: moderator_notes
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 201, ''label'': ''Accept'', ''name'': ''accept''}'
-      - '{''id'': 202, ''label'': ''Reject'', ''name'': ''reject''}'
-      - '{''id'': 203, ''label'': ''Hold'', ''name'': ''hold''}'
+      - Accept
+      - Reject
+      - Hold
       required: true
     - id: 16
       name: reason_for_rejection

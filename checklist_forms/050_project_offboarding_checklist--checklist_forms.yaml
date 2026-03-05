@@ -5,24 +5,24 @@ inputSchema:
     pages:
     - id: 1
       name: project_offboarding_checklist_page_1
-      label: Page 1
+      label: Project Goals
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: project_offboarding_checklist_section_1
-      label: Project Offboarding Check List 1
+      label: Project Offboarding Checklist Section 1
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Project Goal 1
+      - Project Goal 2
       required: false
     - id: 3
       name: project_offboarding_checklist_field_1
-      label: What was the primary goal of the project?
-      hint: What was the primary goal of the project?
+      label: What was the primary project goal?
+      hint: null
       type: text
       options: []
       required: false
@@ -34,114 +34,115 @@ inputSchema:
       options: []
       required: false
     - id: 5
-      name: project_offboarding_checklist_page_2
-      label: Project Offboarding Checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: project_offboarding_checklist_section_2
-      label: Project Offboarding Checklist
-      hint: null
-      type: select_multiple
-      options:
-      - Project Offboarding Checklist 1
-      - Project Offboarding Checklist 2
-      - Project Offboarding Checklist 3
-      required: false
-    - id: 7
       name: project_offboarding_checklist_field_3
-      label: What was the project deliverable?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: project_offboarding_checklist_field_4
-      label: What were the project stakeholders?
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: project_offboarding_checklist_page_3
-      label: Project Offboarding Check List
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: project_offboarding_checklist_section_3
-      label: Project Offboarding Check List
-      hint: null
-      type: select_one
-      options:
-      - Project Offboarding Check List 1
-      - Project Offboarding Check List 2
-      required: false
-    - id: 11
-      name: project_offboarding_checklist_field_5
       label: What was the project budget?
-      hint: What was the project budget?
+      hint: null
       type: number
       options: []
       required: false
-    - id: 12
-      name: project_offboarding_checklist_field_6
-      label: What was the project timeline?
-      hint: What was the project timeline?
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: project_offboarding_checklist_page_4
-      label: Project Offboarding Checklist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: project_offboarding_checklist_section_4
-      label: Project Offboarding Checklist
+    - id: 6
+      name: project_offboarding_checklist_field_4
+      label: What were the project deliverables?
       hint: null
       type: select_multiple
       options:
-      - Project Offboarding Checklist 1
-      - Project Offboarding Checklist 2
+      - Project Deliverable 1
+      - Project Deliverable 2
       required: false
-    - id: 15
-      name: project_offboarding_checklist_field_7
+    - id: 7
+      name: project_offboarding_checklist_field_5
       label: What were the project risks?
-      hint: What were the project risks?
+      hint: null
       type: select_one
       options:
       - Project Risk 1
       - Project Risk 2
       - Project Risk 3
       required: false
-    - id: 16
-      name: project_offboarding_checklist_field_8
-      label: What were the project deliverables?
-      hint: What were the project deliverables?
-      type: select_multiple
-      options:
-      - Project Deliverable 1
-      - Project Deliverable 2
+    - id: 8
+      name: project_offboarding_checklist_field_6
+      label: What were the project stakeholders?
+      hint: null
+      type: email
+      options: []
       required: false
-    - id: 17
-      name: project_offboarding_checklist_page_5
-      label: Project Offboarding Check List
+    - id: 9
+      name: project_offboarding_checklist_page_2
+      label: Project Team
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: project_offboarding_checklist_section_5
-      label: Project Offboarding Check List
+    - id: 10
+      name: project_offboarding_checklist_section_2
+      label: Project Offboarding Checklist Section 2
+      hint: null
+      type: select_multiple
+      options:
+      - Project Team 1
+      - Project Team 2
+      required: false
+    - id: 11
+      name: project_offboarding_checklist_field_7
+      label: Who was the project manager?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_offboarding_checklist_field_8
+      label: What was the project start date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: project_offboarding_checklist_field_9
+      label: What was the project end date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: project_offboarding_checklist_page_3
+      label: Project Offboarding Checklist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_offboarding_checklist_section_3
+      label: Project Offboarding Checklist Section 3
       hint: null
       type: select_one
       options:
-      - Project Offboarding Check List 1
-      - Project Offboarding Check List 2
+      - Project Offboarding Checklist 1
+      - Project Offboarding Checklist 2
+      required: false
+    - id: 16
+      name: project_offboarding_checklist_field_10
+      label: What were the project team members?
+      hint: null
+      type: select_multiple
+      options:
+      - Project Team Member 1
+      - Project Team Member 2
+      required: false
+    - id: 17
+      name: project_offboarding_checklist_field_11
+      label: What were the project dependencies?
+      hint: null
+      type: select_multiple
+      options:
+      - Project Dependency 1
+      - Project Dependency 2
+      required: false
+    - id: 18
+      name: project_offboarding_checklist_field_12
+      label: What were the project outcomes?
+      hint: null
+      type: select_multiple
+      options:
+      - Project Outcome 1
+      - Project Outcome 2
       required: false

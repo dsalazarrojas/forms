@@ -4,264 +4,209 @@ inputSchema:
     title: Social Media Post Sharing Consent Form
     pages:
     - id: 1
-      name: consent_form
-      label: consent_form
+      name: share_on_facebook
+      label: Share on Facebook
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 2
-      name: name
-      label: name
+      name: share_on_twitter
+      label: Share on Twitter
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 3
-      name: email
-      label: email
+      name: share_on_instagram
+      label: Share on Instagram
       hint: null
-      type: email
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: phone_number
-      label: phone_number
+      name: share_on_linkedin
+      label: Share on LinkedIn
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 5
-      name: share_on_facebook
-      label: share_on_facebook
+      name: share_on_youtube
+      label: Share on YouTube
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
-      name: share_on_twitter
-      label: share_on_twitter
+      name: share_on_tiktok
+      label: Share on TikTok
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
-      name: share_on_instagram
-      label: share_on_instagram
+      name: share_on_snapchat
+      label: Share on Snapchat
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: share_on_linkedin
-      label: share_on_linkedin
+      name: share_on_whatsapp
+      label: Share on WhatsApp
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: share_on_youtube
-      label: share_on_youtube
+      name: share_on_twitch
+      label: Share on Twitch
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: share_on_pinterest
-      label: share_on_pinterest
+      name: share_on_discord
+      label: Share on Discord
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: share_on_tiktok
-      label: share_on_tiktok
+      name: share_on_telegram
+      label: Share on Telegram
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: share_on_snapchat
-      label: share_on_snapchat
+      name: share_on_twitch_live
+      label: Share on Twitch Live
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
-      name: share_on_whatsapp
-      label: share_on_whatsapp
+      name: share_on_vimeo
+      label: Share on Vimeo
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
-      name: share_on_twitch
-      label: share_on_twitch
+      name: share_on_reddit
+      label: Share on Reddit
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
-      name: share_on_twitter_thread
-      label: share_on_twitter_thread
+      name: share_on_pinterest
+      label: Share on Pinterest
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 16
-      name: share_on_vimeo
-      label: share_on_vimeo
+      name: share_on_twitch_channel
+      label: Share on Twitch Channel
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: share_on_discord
-      label: share_on_discord
+      name: share_on_discord_server
+      label: Share on Discord Server
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
-      name: share_on_telegram
-      label: share_on_telegram
+      name: share_on_facebook_live
+      label: Share on Facebook Live
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
-      name: share_on_roblox
-      label: share_on_roblox
+      name: share_on_youtube_tour
+      label: Share on YouTube Tour
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
-      name: share_on_tiktok
-      label: share_on_tiktok
+      name: share_on_twitch_tour
+      label: Share on Twitch Tour
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: share_on_roblox
-      label: share_on_roblox
+      label: Share on Roblox
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
-      name: share_on_discord_server
-      label: share_on_discord_server
+      name: share_on_whatsapp_business
+      label: Share on WhatsApp Business
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
-      name: share_on_youtube_tour
-      label: share_on_youtube_tour
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      required: false
-    - id: 24
-      name: share_on_twitch_live
-      label: share_on_twitch_live
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      required: false
-    - id: 25
-      name: share_on_vimeo
-      label: share_on_vimeo
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      required: false
-    - id: 26
-      name: share_on_whatsapp
-      label: share_on_whatsapp
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      required: false
-    - id: 27
-      name: share_on_twitch_channel
-      label: share_on_twitch_channel
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      required: false
-    - id: 28
-      name: share_on_tiktok_live
-      label: share_on_tiktok_live
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      required: false
-    - id: 29
-      name: share_on_facebook
-      label: share_on_facebook
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
-      required: false
-    - id: 30
       name: share_on_youtube_live
-      label: share_on_youtube_live
+      label: Share on YouTube Live
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

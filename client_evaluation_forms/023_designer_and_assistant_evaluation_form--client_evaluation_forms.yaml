@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''average'', ''label'': ''Average''}'
-      - '{''id'': 3, ''value'': ''below average'', ''label'': ''Below Average''}'
+      - Excellent
+      - Average
+      - Below Average
       required: true
     - id: 6
       name: communication_skills
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''average'', ''label'': ''Average''}'
-      - '{''id'': 3, ''value'': ''below average'', ''label'': ''Below Average''}'
-      - '{''id'': 4, ''value'': ''not at all'', ''label'': ''Not at all''}'
-      - '{''id'': 5, ''value'': ''somewhat'', ''label'': ''Somewhat''}'
+      - Excellent
+      - Average
+      - Below Average
+      - Not at all
+      - Somewhat
       required: true
     - id: 7
       name: time_management
@@ -59,11 +59,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''average'', ''label'': ''Average''}'
-      - '{''id'': 3, ''value'': ''below average'', ''label'': ''Below Average''}'
-      - '{''id'': 4, ''value'': ''not at all'', ''label'': ''Not at all''}'
-      - '{''id'': 5, ''value'': ''somewhat'', ''label'': ''Somewhat''}'
+      - Excellent
+      - Average
+      - Below Average
+      - Not at all
+      - Somewhat
       required: true
     - id: 8
       name: meeting_commitments
@@ -71,10 +71,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''almost always'', ''label'': ''Almost Always''}'
-      - '{''id'': 2, ''value'': ''most of the time'', ''label'': ''Most of the time''}'
-      - '{''id'': 3, ''value'': ''some of the time'', ''label'': ''Some of the time''}'
-      - '{''id'': 4, ''value'': ''rarely'', ''label'': ''Rarely''}'
+      - Almost Always
+      - Most of the time
+      - Some of the time
+      - Rarely
       required: true
     - id: 9
       name: overall_rating
@@ -82,10 +82,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''average'', ''label'': ''Average''}'
-      - '{''id'': 3, ''value'': ''below average'', ''label'': ''Below Average''}'
-      - '{''id'': 4, ''value'': ''poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Average
+      - Below Average
+      - Poor
       required: true
     - id: 10
       name: comments
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''collaborative'', ''label'': ''Collaborative''}'
-      - '{''id'': 2, ''value'': ''independent'', ''label'': ''Independent''}'
-      - '{''id'': 3, ''value'': ''autonomous'', ''label'': ''Autonomous''}'
+      - Collaborative
+      - Independent
+      - Autonomous
       required: false
     - id: 19
       name: feedback
@@ -180,9 +180,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''active'', ''label'': ''Active''}'
-      - '{''id'': 2, ''value'': ''completed'', ''label'': ''Completed''}'
-      - '{''id'': 3, ''value'': ''paused'', ''label'': ''Paused''}'
+      - Active
+      - Completed
+      - Paused
       required: false
     - id: 23
       name: design_phase
@@ -190,12 +190,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''concept'', ''label'': ''Concept''}'
-      - '{''id'': 2, ''value'': ''design'', ''label'': ''Design''}'
-      - '{''id'': 3, ''value'': ''testing'', ''label'': ''Testing''}'
-      - '{''id'': 4, ''value'': ''launch'', ''label'': ''Launch''}'
-      - '{''id'': 5, ''value'': ''maintenance'', ''label'': ''Maintenance''}'
-      - '{''id'': 6, ''value'': ''finished'', ''label'': ''Finished''}'
+      - Concept
+      - Design
+      - Testing
+      - Launch
+      - Maintenance
+      - Finished
       required: false
     - id: 24
       name: designer_assistant_email

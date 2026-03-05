@@ -4,7 +4,7 @@ inputSchema:
     title: halloween_costume_contest_entry_form
     pages:
     - id: 1
-      name: file_upload
+      name: halloween_costume_picture
       label: Halloween Costume Picture
       hint: null
       type: text
@@ -39,22 +39,24 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: select_one
+      name: category
       label: Category
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Fantasy
+      - Horror
+      - Superhero
+      required: true
     - id: 7
-      name: select_one
+      name: sub_category
       label: Sub Category
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Zombie
+      - Vampire
+      - Werewolf
       required: false
     - id: 8
       name: select_multiple
@@ -64,23 +66,24 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: false
     - id: 9
-      name: date
+      name: date_of_birth
       label: Date of Birth
       hint: null
       type: date
       options: []
       required: false
     - id: 10
-      name: time
+      name: time_of_birth
       label: Time of Birth
       hint: null
       type: time
       options: []
       required: false
     - id: 11
-      name: note
+      name: additional_comments
       label: Additional Comments
       hint: null
       type: note
@@ -94,121 +97,35 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: false
     - id: 13
-      name: select_multiple
-      label: Select Multiple
+      name: select_multiple_2
+      label: Select Multiple 2
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: false
     - id: 14
-      name: select_one
-      label: Select One
+      name: select_one_2
+      label: Select One 2
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
+      - Other
       required: false
     - id: 15
-      name: select_multiple
-      label: Select Multiple
+      name: select_multiple_3
+      label: Select Multiple 3
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 16
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: select_one
-      label: Select One
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Other
       required: false

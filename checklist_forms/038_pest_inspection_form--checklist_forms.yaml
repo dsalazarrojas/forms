@@ -4,28 +4,30 @@ inputSchema:
     title: Pest Inspection Form
     pages:
     - id: 1
-      name: pest_inspection_form_page_1
+      name: pest_inspection_page_1
       label: Pest Inspections
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: pest_inspection_form_page_2
+      name: pest_inspection_page_2
       label: Treatment Details
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: pest_inspection_form_page_3
+      name: pest_inspection_page_3
       label: Pest Activity
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: true
     - id: 4
-      name: pest_inspection_form_page_4
+      name: pest_inspection_page_4
       label: Inspections
       hint: null
       type: select_multiple
@@ -34,155 +36,70 @@ inputSchema:
       - 'No'
       required: true
     - id: 5
-      name: pest_inspection_form_page_5
+      name: pest_inspection_page_5
       label: Treatment Results
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: pest_inspection_form_page_6
-      label: Pest Activity
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: pest_inspection_form_page_7
+      name: pest_inspection_page_6
       label: Pest Control Activity
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Spraying
+      - Trapping
       required: true
-    - id: 8
-      name: pest_inspection_form_page_8
+    - id: 7
+      name: pest_inspection_page_7
       label: Treatment Activity
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: true
-    - id: 9
-      name: pest_inspection_form_page_9
+    - id: 8
+      name: pest_inspection_page_8
       label: Notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: pest_inspection_form_page_10
+    - id: 9
+      name: pest_inspection_page_9
       label: Inspected
       hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
-      name: pest_inspection_form_page_11
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: pest_inspection_page_10
       label: Inspection Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 12
-      name: pest_inspection_form_page_12
+    - id: 11
+      name: pest_inspection_page_11
       label: Inspected By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: pest_inspection_page_12
+      label: Inspection Method
       hint: null
       type: text
       options: []
       required: true
     - id: 13
-      name: pest_inspection_form_page_13
-      label: Inspected
-      hint: null
-      type: select_one
-      options:
-      - Inspected
-      - Not Inspected
-      required: true
-    - id: 14
-      name: pest_inspection_form_page_14
-      label: Inspected At
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 15
-      name: pest_inspection_form_page_15
-      label: Inspected By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: pest_inspection_form_page_16
-      label: Inspected
-      hint: null
-      type: select_multiple
-      options:
-      - Inspected
-      - Inspected
-      - Inspected
-      required: false
-    - id: 17
-      name: pest_inspection_form_page_17
-      label: Inspected By
-      hint: null
-      type: select_one
-      options:
-      - Inspected
-      - Not Inspected
-      required: false
-    - id: 18
-      name: pest_inspection_form_page_18
-      label: Inspected
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: pest_inspection_form_page_19
-      label: Inspected
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: pest_inspection_form_page_20
-      label: Inspected
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: pest_inspection_form_page_21
-      label: Inspected
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: pest_inspection_form_page_22
-      label: Inspected
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: pest_inspection_form_page_23
-      label: Inspected
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: pest_inspection_form_page_24
-      label: Inspected
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: pest_inspection_form_page_25
-      label: Inspected
+      name: pest_inspection_page_13
+      label: Additional Comments
       hint: null
       type: text
       options: []

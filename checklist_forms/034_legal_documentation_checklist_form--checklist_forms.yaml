@@ -4,189 +4,111 @@ inputSchema:
     title: Legal Documentation Checklist Form
     pages:
     - id: 1
-      name: user_input
-      label: user_input
+      name: company_name
+      label: Company Name
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: document_name
-      label: document_name
+      name: document_name_and_version
+      label: Document Name and Version
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: document_type
-      label: document_type
+      name: document_type_and_status
+      label: Document Type and Status
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Active
+      - Inactive
+      - 'True'
+      - 'False'
       required: true
     - id: 4
-      name: document_date
-      label: document_date
+      name: document_date_created
+      label: Date Created
       hint: null
       type: date
       options: []
       required: true
     - id: 5
-      name: document_number
-      label: document_number
+      name: document_date_due
+      label: Date Due
       hint: null
-      type: number
+      type: date
       options: []
       required: true
     - id: 6
-      name: document_status
-      label: document_status
+      name: document_date_review
+      label: Date Review
       hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
+      type: date
+      options: []
       required: true
     - id: 7
-      name: legal_entity
-      label: legal_entity
+      name: document_date_signed
+      label: Date Signed
       hint: null
-      type: text
+      type: date
       options: []
-      required: true
+      required: false
     - id: 8
-      name: entity_location
-      label: entity_location
+      name: document_date_issued
+      label: Date Issued
       hint: null
-      type: text
+      type: date
       options: []
-      required: true
+      required: false
     - id: 9
-      name: document_location
-      label: document_location
+      name: document_date_received
+      label: Date Received
       hint: null
-      type: text
+      type: date
       options: []
-      required: true
+      required: false
     - id: 10
-      name: document_version
-      label: document_version
+      name: document_date_verified
+      label: Date Verified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: document_location
+      label: Document Location
       hint: null
       type: text
       options: []
       required: true
-    - id: 11
-      name: document_notes
-      label: document_notes
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 12
-      name: document_url
-      label: document_url
+      name: legal_entity
+      label: Legal Entity
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: document_date_created
-      label: document_date_created
+      name: entity_location
+      label: Entity Location
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: document_date_updated
-      label: document_date_updated
+      name: document_url
+      label: Document URL
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 15
-      name: document_date_due
-      label: document_date_due
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: document_date_review
-      label: document_date_review
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: document_date_signed
-      label: document_date_signed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: document_date_issued
-      label: document_date_issued
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: document_date_received
-      label: document_date_received
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: document_date_verified
-      label: document_date_verified
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: document_type_options
-      label: document_type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: document_type_options
-      label: document_type
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: document_status_options
-      label: document_status
-      hint: null
-      type: select_multiple
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 24
-      name: document_status_options
-      label: document_status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: true
-    - id: 25
       name: document_notes
-      label: document_notes
+      label: Document Notes
       hint: null
       type: text
       options: []
-      required: true
+      required: false

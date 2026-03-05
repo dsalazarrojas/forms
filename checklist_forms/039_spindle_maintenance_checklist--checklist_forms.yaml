@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Mill''}'
-      - '{''id'': 2, ''label'': ''Lathe''}'
-      - '{''id'': 3, ''label'': ''Grinder''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Mill
+      - Lathe
+      - Grinder
+      - Other
       required: false
     - id: 2
       name: spindle_location
@@ -20,10 +20,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Machine Shop''}'
-      - '{''id'': 2, ''label'': ''Manufacturing Area''}'
-      - '{''id'': 3, ''label'': ''Warehouse''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Machine Shop
+      - Manufacturing Area
+      - Warehouse
+      - Other
       required: false
     - id: 3
       name: maintenance_date
@@ -38,10 +38,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
       required: false
     - id: 5
       name: last_maintenance

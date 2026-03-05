@@ -58,16 +58,11 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - label: Peanuts and Tree Nuts
-        value: nuts
-      - label: Dairy and Lactose
-        value: dairy
-      - label: Gluten or Wheat
-        value: gluten
-      - label: Latex Sensitivity
-        value: latex
-      - label: Bee Stings
-        value: bees
+      - Peanuts and Tree Nuts
+      - Dairy and Lactose
+      - Gluten or Wheat
+      - Latex Sensitivity
+      - Bee Stings
       required: false
     - id: 9
       name: medication_info
@@ -89,10 +84,8 @@ inputSchema:
       hint: Includes playground and field activities
       type: select_one
       options:
-      - label: Yes - Permission Granted
-        value: true
-      - label: No - Stay Indoors
-        value: false
+      - Yes - Permission Granted
+      - No - Stay Indoors
       required: true
     - id: 12
       name: today_date

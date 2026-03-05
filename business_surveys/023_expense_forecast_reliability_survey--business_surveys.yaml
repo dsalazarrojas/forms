@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 41, ''value'': ''Male''}'
-      - '{''id'': 42, ''value'': ''Female''}'
-      - '{''id'': 43, ''value'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 5
       name: demographic_income_range
@@ -42,7 +42,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 53, ''value'': ''$100,000-$200,000''}'
+      - $100,000-$200,000
       - Other
       required: false
     - id: 6
@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 61, ''value'': ''Employee''}'
-      - '{''id'': 62, ''value'': ''Self-Employed''}'
-      - '{''id'': 63, ''value'': ''Consultant''}'
-      - '{''id'': 64, ''value'': ''Retiree''}'
+      - Employee
+      - Self-Employed
+      - Consultant
+      - Retiree
       required: false
     - id: 7
       name: demographic_job_industry
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 71, ''value'': ''Finance''}'
-      - '{''id'': 72, ''value'': ''Healthcare''}'
-      - '{''id'': 73, ''value'': ''Technology''}'
-      - '{''id'': 74, ''value'': ''Creative''}'
+      - Finance
+      - Healthcare
+      - Technology
+      - Creative
       required: false
     - id: 8
       name: section_budgeting_accuracy
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 91, ''value'': ''Always accurate''}'
-      - '{''id'': 92, ''value'': ''Sometimes accurate''}'
-      - '{''id'': 93, ''value'': ''Rarely accurate''}'
-      - '{''id'': 94, ''value'': ''Never accurate''}'
+      - Always accurate
+      - Sometimes accurate
+      - Rarely accurate
+      - Never accurate
       required: false
     - id: 10
       name: budgeting_accuracy_2
@@ -91,10 +91,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 101, ''value'': ''Always accurate''}'
-      - '{''id'': 102, ''value'': ''Sometimes accurate''}'
-      - '{''id'': 102, ''value'': ''Rarely accurate''}'
-      - '{''id'': 103, ''value'': ''Never accurate''}'
+      - Always accurate
+      - Sometimes accurate
+      - Rarely accurate
+      - Never accurate
       required: false
     - id: 11
       name: budgeting_accuracy_3
@@ -102,10 +102,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 111, ''value'': ''Always accurate''}'
-      - '{''id'': 112, ''value'': ''Sometimes accurate''}'
-      - '{''id'': 112, ''value'': ''Rarely accurate''}'
-      - '{''id'': 113, ''value'': ''Never accurate''}'
+      - Always accurate
+      - Sometimes accurate
+      - Rarely accurate
+      - Never accurate
       required: false
     - id: 12
       name: section_streamline_submission
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 131, ''value'': ''Never''}'
-      - '{''id'': 132, ''value'': ''Less than 3 times a month''}'
-      - '{''id'': 133, ''value'': ''More than 3 times a month''}'
+      - Never
+      - Less than 3 times a month
+      - More than 3 times a month
       required: false
     - id: 14
       name: submission_time
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 171, ''value'': ''Highly accurate''}'
-      - '{''id'': 172, ''value'': ''Somewhat accurate''}'
-      - '{''id'': 173, ''value'': ''Not very accurate''}'
+      - Highly accurate
+      - Somewhat accurate
+      - Not very accurate
       required: false
     - id: 18
       name: forecast_accuracy_2
@@ -161,10 +161,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 181, ''value'': ''Highly accurate''}'
-      - '{''id'': 182, ''value'': ''Somewhat accurate''}'
-      - '{''id'': 182, ''value'': ''Not very accurate''}'
-      - '{''id'': 183, ''value'': ''Not at all accurate''}'
+      - Highly accurate
+      - Somewhat accurate
+      - Not very accurate
+      - Not at all accurate
       required: false
     - id: 19
       name: forecast_accuracy_3
@@ -172,10 +172,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 191, ''value'': ''Highly accurate''}'
-      - '{''id'': 192, ''value'': ''Somewhat accurate''}'
-      - '{''id'': 192, ''value'': ''Not very accurate''}'
-      - '{''id'': 193, ''value'': ''Not at all accurate''}'
+      - Highly accurate
+      - Somewhat accurate
+      - Not very accurate
+      - Not at all accurate
       required: false
     - id: 20
       name: comments

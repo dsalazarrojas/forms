@@ -1,108 +1,97 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Academic Freedom Perception Survey
     pages:
-      - id: 1
-        name: section_intro
-        label: -- Survey Intro --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_role
-        label: Respondent role
-        hint: Select your primary role
-        type: select_one
-        options:
-          - Faculty
-          - Graduate student
-          - Undergraduate student
-          - Staff
-          - Administrator
-        required: true
-      - id: 3
-        name: campus
-        label: Campus or unit
-        hint: Main campus or organizational unit
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: perception_of_academic_freedom
-        label: Perception of academic freedom on campus
-        hint: Rate overall perception
-        type: select_one
-        options:
-          - Very positive
-          - Somewhat positive
-          - Neutral
-          - Somewhat negative
-          - Very negative
-        required: true
-      - id: 5
-        name: concerns_about_restrictions
-        label: Concerns about restrictions
-        hint: Select concerns that apply
-        type: select_multiple
-        options:
-          - Administrative constraints
-          - Funding or donor influence
-          - Legal or policy restrictions
-          - Self censorship
-          - Other
-        required: false
-      - id: 6
-        name: experience_with_censorship
-        label: Experience with censorship or pressure
-        hint: Describe any incidents
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: institutional_support_rating
-        label: Institutional support for academic freedom
-        hint: Rate level of institutional support
-        type: select_one
-        options:
-          - Strong
-          - Moderate
-          - Weak
-          - None
-        required: false
-      - id: 8
-        name: training_and_resources_needed
-        label: Training and resources needed
-        hint: What would improve academic freedom climate
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: anonymity_preference
-        label: Preference for anonymity
-        hint: Would you prefer your response to be anonymous
-        type: select_one
-        options:
-          - Yes
-          - No
-          - No preference
-        required: false
-      - id: 10
-        name: additional_comments
-        label: Additional comments
-        hint: Any final thoughts or examples
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: section_intro
+      label: -- Survey Intro --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Respondent role
+      hint: Select your primary role
+      type: select_one
+      options:
+      - Faculty
+      - Graduate student
+      - Undergraduate student
+      - Staff
+      - Administrator
+      required: true
+    - id: 3
+      name: campus
+      label: Campus or unit
+      hint: Main campus or organizational unit
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: perception_of_academic_freedom
+      label: Perception of academic freedom on campus
+      hint: Rate overall perception
+      type: select_one
+      options:
+      - Very positive
+      - Somewhat positive
+      - Neutral
+      - Somewhat negative
+      - Very negative
+      required: true
+    - id: 5
+      name: concerns_about_restrictions
+      label: Concerns about restrictions
+      hint: Select concerns that apply
+      type: select_multiple
+      options:
+      - Administrative constraints
+      - Funding or donor influence
+      - Legal or policy restrictions
+      - Self censorship
+      - Other
+      required: false
+    - id: 6
+      name: experience_with_censorship
+      label: Experience with censorship or pressure
+      hint: Describe any incidents
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: institutional_support_rating
+      label: Institutional support for academic freedom
+      hint: Rate level of institutional support
+      type: select_one
+      options:
+      - Strong
+      - Moderate
+      - Weak
+      - None
+      required: false
+    - id: 8
+      name: training_and_resources_needed
+      label: Training and resources needed
+      hint: What would improve academic freedom climate
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: anonymity_preference
+      label: Preference for anonymity
+      hint: Would you prefer your response to be anonymous
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - No preference
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any final thoughts or examples
+      type: text
+      options: []
+      required: false

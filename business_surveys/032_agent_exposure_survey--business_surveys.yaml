@@ -55,8 +55,8 @@ inputSchema:
       hint: Confirm if supervisor was notified
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: follow_up_required
@@ -64,8 +64,8 @@ inputSchema:
       hint: Does the incident need further investigation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: follow_up_notes

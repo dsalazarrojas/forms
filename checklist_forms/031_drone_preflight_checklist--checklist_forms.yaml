@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Drone''}'
-      - '{''value'': ''Quadcopter''}'
+      - Drone
+      - Quadcopter
       required: false
     - id: 3
       name: system_status
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Ready''}'
-      - '{''value'': ''Not Ready''}'
-      - '{''value'': ''Partially Ready''}'
+      - Ready
+      - Not Ready
+      - Partially Ready
       required: false
     - id: 4
       name: battery_status
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Full''}'
-      - '{''value'': ''Low''}'
-      - '{''value'': ''Empty''}'
+      - Full
+      - Low
+      - Empty
       required: false
     - id: 5
       name: motor_status
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Functional''}'
-      - '{''value'': ''Not Functional''}'
-      - '{''value'': ''Partially Functional''}'
+      - Functional
+      - Not Functional
+      - Partially Functional
       required: false
     - id: 6
       name: propeller_status
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Secure''}'
-      - '{''value'': ''Loose''}'
-      - '{''value'': ''Missing''}'
+      - Secure
+      - Loose
+      - Missing
       required: false
     - id: 7
       name: propeller_count
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Forward''}'
-      - '{''value'': ''Backward''}'
-      - '{''value'': ''None''}'
+      - Forward
+      - Backward
+      - None
       required: false
     - id: 9
       name: propeller_pitch_degrees
@@ -96,9 +96,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Manual''}'
-      - '{''value'': ''Autonomous''}'
-      - '{''value'': ''None''}'
+      - Manual
+      - Autonomous
+      - None
       required: false
     - id: 12
       name: flight_controller_version
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Drone''}'
-      - '{''value'': ''Quadcopter''}'
-      - '{''value'': ''Rotorcraft''}'
+      - Drone
+      - Quadcopter
+      - Rotorcraft
       required: false
     - id: 14
       name: propeller_type
@@ -123,9 +123,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Fixed''}'
-      - '{''value'': ''Adjustable''}'
-      - '{''value'': ''None''}'
+      - Fixed
+      - Adjustable
+      - None
       required: false
     - id: 15
       name: flight_planner
@@ -133,9 +133,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Online''}'
-      - '{''value'': ''Offline''}'
-      - '{''value'': ''None''}'
+      - Online
+      - Offline
+      - None
       required: false
     - id: 16
       name: flight_planner_version
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 12}'
-      - '{''value'': 15}'
-      - '{''value'': 20}'
+      - '12'
+      - '15'
+      - '20'
       required: false
     - id: 20
       name: motor_size
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 12}'
-      - '{''value'': 15}'
-      - '{''value'': 20}'
+      - '12'
+      - '15'
+      - '20'
       required: false
     - id: 21
       name: motor_size2
@@ -184,9 +184,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 12}'
-      - '{''value'': 15}'
-      - '{''value'': 20}'
+      - '12'
+      - '15'
+      - '20'
       required: false
     - id: 22
       name: motor_size3
@@ -194,9 +194,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 12}'
-      - '{''value'': 15}'
-      - '{''value'': 20}'
+      - '12'
+      - '15'
+      - '20'
       required: false
     - id: 23
       name: motor_size4
@@ -204,9 +204,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 12}'
-      - '{''value'': 15}'
-      - '{''value'': 20}'
+      - '12'
+      - '15'
+      - '20'
       required: false
     - id: 24
       name: propeller_pitch_size
@@ -214,9 +214,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 20}'
-      - '{''value'': 30}'
-      - '{''value'': 40}'
+      - '20'
+      - '30'
+      - '40'
       required: false
     - id: 25
       name: drone_serial_number2

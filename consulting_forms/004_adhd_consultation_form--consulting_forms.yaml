@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: client_basic_info
-      label: --- Client Basic Information ---
+      label: '--- Client Basic Information ---'
       hint: null
       type: note
       options: []
@@ -51,7 +40,7 @@ inputSchema:
       required: true
     - id: 6
       name: primary_symptoms_header
-      label: --- Primary Symptom Assessment ---
+      label: '--- Primary Symptom Assessment ---'
       hint: Please indicate the frequency of the following behaviors.
       type: note
       options: []
@@ -62,16 +51,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Never
-        value: never
-      - label: Rarely
-        value: rarely
-      - label: Sometimes
-        value: sometimes
-      - label: Often
-        value: often
-      - label: Very Often
-        value: very_often
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very Often
       required: true
     - id: 8
       name: symptom_disorganization
@@ -79,16 +63,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Never
-        value: never
-      - label: Rarely
-        value: rarely
-      - label: Sometimes
-        value: sometimes
-      - label: Often
-        value: often
-      - label: Very Often
-        value: very_often
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very Often
       required: true
     - id: 9
       name: symptom_hyperactivity
@@ -96,20 +75,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Never
-        value: never
-      - label: Rarely
-        value: rarely
-      - label: Sometimes
-        value: sometimes
-      - label: Often
-        value: often
-      - label: Very Often
-        value: very_often
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very Often
       required: true
     - id: 10
       name: impact_areas_header
-      label: --- Impact on Daily Life ---
+      label: '--- Impact on Daily Life ---'
       hint: null
       type: note
       options: []
@@ -120,14 +94,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Not at all
-        value: none
-      - label: Mildly
-        value: mild
-      - label: Moderately
-        value: moderate
-      - label: Severely
-        value: severe
+      - Not at all
+      - Mildly
+      - Moderately
+      - Severely
       required: true
     - id: 12
       name: impact_social_relationships
@@ -135,18 +105,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Not at all
-        value: none
-      - label: Mildly
-        value: mild
-      - label: Moderately
-        value: moderate
-      - label: Severely
-        value: severe
+      - Not at all
+      - Mildly
+      - Moderately
+      - Severely
       required: true
     - id: 13
       name: clinical_history_header
-      label: --- Clinical and Developmental History ---
+      label: '--- Clinical and Developmental History ---'
       hint: null
       type: note
       options: []
@@ -157,10 +123,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes
-        value: yes
-      - label: No
-        value: no
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: previous_diagnosis_details
@@ -189,12 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes
-        value: yes
-      - label: No
-        value: no
-      - label: Unsure
-        value: unsure
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 19
       name: consultation_goals
@@ -209,10 +170,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Phone
-        value: phone
-      - label: Email
-        value: email
+      - Phone
+      - Email
       required: true
     - id: 21
       name: therapist_assignment

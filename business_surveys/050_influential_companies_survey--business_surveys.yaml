@@ -16,9 +16,9 @@ inputSchema:
       hint: Select one or multiple categories
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Retail''}'
-      - '{''id'': 2, ''label'': ''Financial''}'
-      - '{''id'': 3, ''label'': ''Technology''}'
+      - Retail
+      - Financial
+      - Technology
       required: false
     - id: 3
       name: location
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 9
       name: leadership
@@ -71,10 +71,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Strong''}'
-      - '{''id'': 2, ''label'': ''Somewhat strong''}'
-      - '{''id'': 3, ''label'': ''Weak''}'
-      - '{''id'': 4, ''label'': ''Very weak''}'
+      - Strong
+      - Somewhat strong
+      - Weak
+      - Very weak
       required: false
     - id: 10
       name: company_website

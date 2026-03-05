@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Twitter''}'
-      - '{''id'': 2, ''label'': ''Facebook''}'
-      - '{''id'': 3, ''label'': ''Instagram''}'
-      - '{''id'': 4, ''label'': ''LinkedIn''}'
+      - Twitter
+      - Facebook
+      - Instagram
+      - LinkedIn
       required: false
     - id: 5
       name: post_type_id
@@ -41,13 +41,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Video''}'
-      - '{''id'': 2, ''label'': ''Image''}'
-      - '{''id'': 3, ''label'': ''Link''}'
-      - '{''id'': 4, ''label'': ''Article''}'
-      - '{''id'': 5, ''label'': ''Story''}'
-      - '{''id'': 6, ''label'': ''Story with Video''}'
-      - '{''id'': 7, ''label'': ''Other''}'
+      - Video
+      - Image
+      - Link
+      - Article
+      - Story
+      - Story with Video
+      - Other
       required: false
     - id: 6
       name: engagement_metric
@@ -55,11 +55,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Likes''}'
-      - '{''id'': 2, ''label'': ''Comments''}'
-      - '{''id'': 3, ''label'': ''Shares''}'
-      - '{''id'': 4, ''label'': ''Saves''}'
-      - '{''id'': 5, ''label'': ''Posts''}'
+      - Likes
+      - Comments
+      - Shares
+      - Saves
+      - Posts
       required: false
     - id: 7
       name: engagement_metric_value
@@ -74,11 +74,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Impression''}'
-      - '{''id'': 2, ''label'': ''Engagement''}'
-      - '{''id'': 3, ''label'': ''Conversions''}'
-      - '{''id'': 4, ''label'': ''Clicks''}'
-      - '{''id'': 5, ''label'': ''Views''}'
+      - Impression
+      - Engagement
+      - Conversions
+      - Clicks
+      - Views
       required: false
     - id: 9
       name: reach_metric_value

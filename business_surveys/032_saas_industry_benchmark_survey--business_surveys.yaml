@@ -30,12 +30,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 10'', ''value'': ''less_than_10''}'
-      - '{''id'': 2, ''label'': ''10-49'', ''value'': 1049}'
-      - '{''id'': 3, ''label'': ''50-99'', ''value'': 5099}'
-      - '{''id'': 4, ''label'': ''100-499'', ''value'': 100499}'
-      - '{''id'': 5, ''label'': ''500-999'', ''value'': 500999}'
-      - '{''id'': 6, ''label'': ''1000+'', ''value'': ''1000_plus''}'
+      - Less than 10
+      - 10-49
+      - 50-99
+      - 100-499
+      - 500-999
+      - 1000+
       required: false
     - id: 5
       name: priorities
@@ -43,11 +43,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cost'', ''value'': ''cost''}'
-      - '{''id'': 2, ''label'': ''Revenue'', ''value'': ''revenue''}'
-      - '{''id'': 3, ''label'': ''Market Share'', ''value'': ''marketshare''}'
-      - '{''id'': 4, ''label'': ''Customer Engagement'', ''value'': ''engagement''}'
-      - '{''id'': 6, ''label'': ''Competitive Differentiation'', ''value'': ''differentiation''}'
+      - Cost
+      - Revenue
+      - Market Share
+      - Customer Engagement
+      - Competitive Differentiation
       required: false
     - id: 6
       name: company_name

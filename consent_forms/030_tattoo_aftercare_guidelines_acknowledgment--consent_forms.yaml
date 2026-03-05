@@ -4,54 +4,56 @@ inputSchema:
     title: Tattoo Aftercare Guidelines Acknowledgment
     pages:
     - id: 1
-      name: tattoo_aftercare_guidelines_acknowledgment
-      label: i_accept_to_follow_tattoo_aftercare_guidelines
-      hint: null
-      type: select_one
+      name: accept_tattoo_aftercare_guidelines
+      label: Do you accept to follow tattoo aftercare guidelines?
+      hint: Please check this box if you understand and agree to follow the aftercare
+        guidelines.
+      type: checkbox
       options:
-      - Client
-      - Artist
-      - Parent/ Guardian
+      - Option A
+      - Option B
       required: true
     - id: 2
-      name: i_understand_tattoo_aftercare_guidelines
-      label: do_you_understand_tattoo_aftercare_guidelines
-      hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: true
-    - id: 3
-      name: i_agree_to_follow_tattoo_aftercare_guidelines
-      label: i_agree_to_follow_tattoo_aftercare_guidelines
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 4
-      name: i_agree_to_be_responsible_for_tattoo_care
-      label: i_agree_to_be_responsible_for_tattoo_care
-      hint: null
+      name: understand_aftercare_guidelines
+      label: Do you understand tattoo aftercare guidelines?
+      hint: Please read the aftercare guidelines provided to you before answering.
       type: select_one
       options:
-      - 'True'
-      - 'False'
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: follow_aftercare_guidelines
+      label: Do you agree to follow tattoo aftercare guidelines?
+      hint: Please check this box to confirm you agree to follow the aftercare guidelines.
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 4
+      name: responsible_for_tattoo_care
+      label: Do you agree to be responsible for tattoo care?
+      hint: Please check this box to confirm you agree to be responsible for tattoo
+        care.
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
       required: true
     - id: 5
-      name: tattoo_care_info_source
-      label: how_did_you_receieve_tattoo_care_info
-      hint: If not from an artist, please let us know how you received this information
-      type: select_multiple
+      name: receive_tattoo_care_info
+      label: How did you receive tattoo care information?
+      hint: Select one of the options below.
+      type: select_one
       options:
-      - Artist
+      - From an artist
       - Online
-      - Parent
-      - Other
+      - From a parent
       required: false
     - id: 6
       name: tattoo_type
-      label: tattoo_type
+      label: What type of tattoo is this?
       hint: null
       type: select_multiple
       options:
@@ -60,50 +62,50 @@ inputSchema:
       - Combination
       required: false
     - id: 7
-      name: tattoo_session_id
-      label: session_number
+      name: session_number
+      label: Session Number
       hint: null
       type: number
       options: []
       required: false
     - id: 8
-      name: tattoo_session_date
-      label: session_date
+      name: session_date
+      label: Session Date
       hint: null
       type: date
       options: []
       required: false
     - id: 9
-      name: tattoo_session_time
-      label: session_time
+      name: session_time
+      label: Session Time
       hint: null
       type: time
       options: []
       required: false
     - id: 10
       name: client_id
-      label: client_id
+      label: Client ID
       hint: null
       type: number
       options: []
       required: true
     - id: 11
       name: artist_id
-      label: artist_id
+      label: Artist ID
       hint: null
       type: number
       options: []
       required: true
     - id: 12
       name: parent_id
-      label: parent_id
+      label: Parent ID
       hint: null
       type: number
       options: []
       required: false
     - id: 13
       name: tattoo_location
-      label: tattoo_location
+      label: Tattoo Location
       hint: null
       type: select_multiple
       options:
@@ -115,7 +117,7 @@ inputSchema:
       required: true
     - id: 14
       name: tattoo_size
-      label: tattoo_size
+      label: Tattoo Size
       hint: null
       type: select_multiple
       options:
@@ -125,7 +127,7 @@ inputSchema:
       required: true
     - id: 15
       name: tattoo_orientation
-      label: tattoo_orientation
+      label: Tattoo Orientation
       hint: null
       type: select_multiple
       options:
@@ -135,7 +137,7 @@ inputSchema:
       required: false
     - id: 16
       name: tattoo_color
-      label: tattoo_color
+      label: Tattoo Color
       hint: null
       type: select_multiple
       options:
@@ -145,7 +147,7 @@ inputSchema:
       required: false
     - id: 17
       name: tattoo_design
-      label: tattoo_design
+      label: Tattoo Design
       hint: null
       type: select_multiple
       options:
@@ -155,7 +157,7 @@ inputSchema:
       required: false
     - id: 18
       name: tattoo_theme
-      label: tattoo_theme
+      label: Tattoo Theme
       hint: null
       type: select_multiple
       options:
@@ -165,7 +167,7 @@ inputSchema:
       required: false
     - id: 19
       name: tattoo_style
-      label: tattoo_style
+      label: Tattoo Style
       hint: null
       type: select_multiple
       options:
@@ -174,43 +176,43 @@ inputSchema:
       - Color Fill
       required: false
     - id: 20
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
       name: tattoo_session_number
-      label: session_number
+      label: Tattoo Session Number
       hint: null
       type: number
       options: []
       required: false
-    - id: 21
+    - id: 22
       name: tattoo_session_date
-      label: session_date
+      label: Tattoo Session Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 22
-      name: tattoo_session_time
-      label: session_time
-      hint: null
-      type: time
-      options: []
-      required: false
     - id: 23
-      name: tattoo_session_duration
-      label: session_duration
+      name: tattoo_session_time
+      label: Tattoo Session Time
       hint: null
       type: time
       options: []
       required: false
     - id: 24
-      name: tattoo_session_notes
-      label: session_notes
+      name: tattoo_session_duration
+      label: Session Duration
       hint: null
-      type: note
+      type: time
       options: []
       required: false
     - id: 25
       name: tattoo_aftercare_instructions
-      label: aftercare_instructions
+      label: Aftercare Instructions
       hint: null
       type: note
       options: []

@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''mass'', ''value'': ''mass''}'
-      - '{''id'': 2, ''label'': ''acceleration'', ''value'': ''acceleration''}'
-      - '{''id'': 3, ''label'': ''gravity'', ''value'': ''gravity''}'
+      - mass
+      - acceleration
+      - gravity
       required: false
     - id: 2
       name: calculate_speed
@@ -19,8 +19,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''distance'', ''value'': ''distance''}'
-      - '{''id'': 2, ''label'': ''time'', ''value'': ''time''}'
+      - distance
+      - time
       required: false
     - id: 3
       name: calculate_energy
@@ -77,9 +77,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''mass constant'', ''value'': ''mass constant''}'
-      - '{''id'': 2, ''label'': ''acceleration constant'', ''value'': ''acceleration
-        constant''}'
+      - mass constant
+      - acceleration constant
       required: false
     - id: 11
       name: calculate_force
@@ -94,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 1, ''value'': 1}'
-      - '{''id'': 2, ''label'': 2, ''value'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 13
       name: calculate_speed_constant
@@ -103,8 +102,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''constant speed'', ''value'': ''constant speed''}'
-      - '{''id'': 2, ''label'': ''constant acceleration'', ''value'': ''constant acceleration''}'
+      - constant speed
+      - constant acceleration
       required: false
     - id: 14
       name: calculate_energy_constant
@@ -112,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': 1, ''value'': 1}'
-      - '{''id'': 2, ''label'': 2, ''value'': 2}'
+      - '1'
+      - '2'
       required: false
     - id: 15
       name: calculate_potential_energy

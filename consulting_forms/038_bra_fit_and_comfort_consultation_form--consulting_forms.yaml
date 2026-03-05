@@ -188,7 +188,7 @@ inputSchema:
       hint: Have you had breast surgery
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, augmentation
       - Yes, reduction
       - Yes, mastectomy
@@ -200,7 +200,7 @@ inputSchema:
       hint: Are you pregnant or nursing
       type: select_one
       options:
-      - false
+      - 'False'
       - Currently pregnant
       - Currently nursing
       - Planning pregnancy
@@ -211,7 +211,7 @@ inputSchema:
       hint: Have you had recent size changes
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, weight loss
       - Yes, weight gain
       - Yes, hormonal changes
@@ -261,6 +261,6 @@ inputSchema:
       hint: Is follow-up recommended
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true

@@ -27,10 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
-      - option_4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: vaccine_info_1
@@ -45,19 +44,20 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: patient_info_2
-      label: Patient Information
+      label: Patient Info 2
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: medical_history_2
-      label: Medical History
+      label: Medical History 2
       hint: null
       type: text
       options: []
@@ -68,12 +68,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
+      - I agree
+      - I do not agree
       required: false
     - id: 8
       name: vaccine_info_2
-      label: Vaccine Information
+      label: Vaccine Info 2
       hint: null
       type: text
       options: []
@@ -84,8 +84,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: additional_comments

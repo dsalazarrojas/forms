@@ -44,13 +44,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Less than a month''}'
-      - '{''option'': ''1-6 months''}'
-      - '{''option'': ''6-12 months''}'
-      - '{''option'': ''1-2 years''}'
-      - '{''option'': ''2-5 years''}'
-      - '{''option'': ''5-10 years''}'
-      - '{''option'': ''10+ years''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
       required: false
     - id: 7
       name: relationship_status
@@ -58,15 +58,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Single''}'
-      - '{''option'': ''Married''}'
-      - '{''option'': ''In a relationship but not living together''}'
-      - '{''option'': ''Living together''}'
-      - '{''option'': ''Engaged''}'
-      - '{''option'': ''In a domestic partnership''}'
-      - '{''option'': ''In a civil union''}'
-      - '{''option'': ''Separated''}'
-      - '{''option'': ''Divorced''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 8
       name: relationship_satisfaction
@@ -74,11 +74,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Very dissatisfied''}'
-      - '{''option'': ''Somewhat dissatisfied''}'
-      - '{''option'': ''Neutral''}'
-      - '{''option'': ''Somewhat satisfied''}'
-      - '{''option'': ''Very satisfied''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 9
       name: reasons_for_relationship_satisfaction
@@ -86,15 +86,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Communication''}'
-      - '{''option'': ''Trust''}'
-      - '{''option'': ''Conflict resolution''}'
-      - '{''option'': ''Emotional intimacy''}'
-      - '{''option'': ''Financial stability''}'
-      - '{''option'': ''Personal growth''}'
-      - '{''option'': ''Shared goals''}'
-      - '{''option'': ''Shared leisure activities''}'
-      - '{''option'': ''Physical intimacy''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 10
       name: relationship_problems
@@ -102,13 +102,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Communication''}'
-      - '{''option'': ''Conflict''}'
-      - '{''option'': ''Finances''}'
-      - '{''option'': ''Intimacy''}'
-      - '{''option'': ''Trust''}'
-      - '{''option'': ''Personal growth''}'
-      - '{''option'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
       required: false
     - id: 11
       name: how_to_improve
@@ -137,15 +137,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Single''}'
-      - '{''option'': ''Married''}'
-      - '{''option'': ''In a relationship but not living together''}'
-      - '{''option'': ''Living together''}'
-      - '{''option'': ''Engaged''}'
-      - '{''option'': ''In a domestic partnership''}'
-      - '{''option'': ''In a civil union''}'
-      - '{''option'': ''Separated''}'
-      - '{''option'': ''Divorced''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 15
       name: partner_1_relationship_satisfaction
@@ -153,11 +153,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Very dissatisfied''}'
-      - '{''option'': ''Somewhat dissatisfied''}'
-      - '{''option'': ''Neutral''}'
-      - '{''option'': ''Somewhat satisfied''}'
-      - '{''option'': ''Very satisfied''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 16
       name: partner_2_relationship_satisfaction
@@ -165,11 +165,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Very dissatisfied''}'
-      - '{''option'': ''Somewhat dissatisfied''}'
-      - '{''option'': ''Neutral''}'
-      - '{''option'': ''Somewhat satisfied''}'
-      - '{''option'': ''Very satisfied''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 17
       name: reasons_for_partner_1_relationship_satisfaction
@@ -177,15 +177,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Communication''}'
-      - '{''option'': ''Trust''}'
-      - '{''option'': ''Conflict resolution''}'
-      - '{''option'': ''Emotional intimacy''}'
-      - '{''option'': ''Financial stability''}'
-      - '{''option'': ''Personal growth''}'
-      - '{''option'': ''Shared goals''}'
-      - '{''option'': ''Shared leisure activities''}'
-      - '{''option'': ''Physical intimacy''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 18
       name: reasons_for_partner_2_relationship_satisfaction
@@ -193,15 +193,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Communication''}'
-      - '{''option'': ''Trust''}'
-      - '{''option'': ''Conflict resolution''}'
-      - '{''option'': ''Emotional intimacy''}'
-      - '{''option'': ''Financial stability''}'
-      - '{''option'': ''Personal growth''}'
-      - '{''option'': ''Shared goals''}'
-      - '{''option'': ''Shared leisure activities''}'
-      - '{''option'': ''Physical intimacy''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 19
       name: partner_1_relationship_problems
@@ -209,13 +209,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Communication''}'
-      - '{''option'': ''Conflict''}'
-      - '{''option'': ''Finances''}'
-      - '{''option'': ''Intimacy''}'
-      - '{''option'': ''Trust''}'
-      - '{''option'': ''Personal growth''}'
-      - '{''option'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
       required: false
     - id: 20
       name: partner_2_relationship_problems
@@ -223,13 +223,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Communication''}'
-      - '{''option'': ''Conflict''}'
-      - '{''option'': ''Finances''}'
-      - '{''option'': ''Intimacy''}'
-      - '{''option'': ''Trust''}'
-      - '{''option'': ''Personal growth''}'
-      - '{''option'': ''Other''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
       required: false
     - id: 21
       name: comments_2
@@ -251,15 +251,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Single''}'
-      - '{''option'': ''Married''}'
-      - '{''option'': ''In a relationship but not living together''}'
-      - '{''option'': ''Living together''}'
-      - '{''option'': ''Engaged''}'
-      - '{''option'': ''In a domestic partnership''}'
-      - '{''option'': ''In a civil union''}'
-      - '{''option'': ''Separated''}'
-      - '{''option'': ''Divorced''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
       required: false
     - id: 24
       name: partner_1_relationship_satisfaction_3
@@ -267,11 +267,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Very dissatisfied''}'
-      - '{''option'': ''Somewhat dissatisfied''}'
-      - '{''option'': ''Neutral''}'
-      - '{''option'': ''Somewhat satisfied''}'
-      - '{''option'': ''Very satisfied''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 25
       name: partner_2_relationship_satisfaction_3
@@ -279,9 +279,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': ''Very dissatisfied''}'
-      - '{''option'': ''Somewhat dissatisfied''}'
-      - '{''option'': ''Neutral''}'
-      - '{''option'': ''Somewhat satisfied''}'
-      - '{''option'': ''Very satisfied''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false

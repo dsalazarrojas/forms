@@ -100,10 +100,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Child''}'
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Other''}'
+      - Spouse
+      - Child
+      - Parent
+      - Other
       required: false
     - id: 15
       name: will_become_attendant
@@ -111,6 +111,6 @@ inputSchema:
       hint: Will the registrant become an attendant in the future?
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

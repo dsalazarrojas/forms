@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sales''}'
-      - '{''id'': 2, ''name'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''Support''}'
+      - Sales
+      - Marketing
+      - Support
       required: true
     - id: 3
       name: job_title
@@ -33,11 +33,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Neutral''}'
-      - '{''id'': 4, ''name'': ''Bad''}'
-      - '{''id'': 5, ''name'': ''Very Bad''}'
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
       required: false
     - id: 5
       name: question2
@@ -45,11 +45,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Very Good''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Neutral''}'
-      - '{''id'': 4, ''name'': ''Bad''}'
-      - '{''id'': 5, ''name'': ''Very Bad''}'
+      - Very Good
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
       required: false
     - id: 6
       name: question3

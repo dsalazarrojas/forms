@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Bi-Monthly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Bi-Monthly
+      - Monthly
+      - Annually
       required: false
     - id: 7
       name: payment_method
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Wire Transfer''}'
-      - '{''label'': ''Check''}'
-      - '{''label'': ''ACH''}'
+      - Wire Transfer
+      - Check
+      - ACH
       required: false
     - id: 8
       name: agreement_duration
@@ -73,12 +73,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1/1/2024''}'
-      - '{''label'': ''1/15/2024''}'
-      - '{''label'': ''1/30/2024''}'
-      - '{''label'': ''2/1/2024''}'
-      - '{''label'': ''2/15/2024''}'
-      - '{''label'': ''2/29/2024''}'
+      - 1/1/2024
+      - 1/15/2024
+      - 1/30/2024
+      - 2/1/2024
+      - 2/15/2024
+      - 2/29/2024
       required: false
     - id: 10
       name: contract_end

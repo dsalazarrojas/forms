@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''New York''}'
-      - '{''name'': ''Los Angeles''}'
-      - '{''name'': ''Chicago''}'
-      - '{''name'': ''Dallas''}'
+      - New York
+      - Los Angeles
+      - Chicago
+      - Dallas
       required: false
     - id: 5
       name: house_state
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''CA''}'
-      - '{''name'': ''TX''}'
-      - '{''name'': ''IL''}'
-      - '{''name'': ''NY''}'
+      - CA
+      - TX
+      - IL
+      - NY
       required: false
     - id: 6
       name: house_zip
@@ -73,11 +73,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''yard''}'
-      - '{''name'': ''front_door''}'
-      - '{''name'': ''front_porch''}'
-      - '{''name'': ''back_door''}'
-      - '{''name'': ''back_porch''}'
+      - yard
+      - front door
+      - front porch
+      - back door
+      - back porch
       required: false
     - id: 10
       name: house_decorating_type
@@ -85,12 +85,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''spider_web''}'
-      - '{''name'': ''jack_o_lantern''}'
-      - '{''name'': ''ghost''}'
-      - '{''name'': ''skeleton''}'
-      - '{''name'': ''grave_yard''}'
-      - '{''name'': ''other''}'
+      - spider web
+      - jack o lantern
+      - ghost
+      - skeleton
+      - grave yard
+      - other
       required: false
     - id: 11
       name: house_description
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''daytime''}'
-      - '{''name'': ''nighttime''}'
-      - '{''name'': ''daytime_and_nighttime''}'
+      - daytime
+      - nighttime
+      - daytime and nighttime
       required: false
     - id: 13
       name: entry_rules
@@ -143,10 +143,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''owner''}'
-      - '{''name'': ''resident''}'
-      - '{''name'': ''friend''}'
-      - '{''name'': ''family''}'
+      - owner
+      - resident
+      - friend
+      - family
       required: false
     - id: 18
       name: entry_submitter_role
@@ -154,9 +154,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''homeowner''}'
-      - '{''name'': ''resident''}'
-      - '{''name'': ''family_member''}'
+      - homeowner
+      - resident
+      - family member
       required: false
     - id: 19
       name: entry_submitter_phone

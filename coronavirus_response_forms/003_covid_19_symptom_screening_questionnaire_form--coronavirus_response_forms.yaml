@@ -35,8 +35,8 @@ inputSchema:
       hint: Travel history relevant to exposure
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 5
       name: exposure_to_confirmed_case
@@ -44,8 +44,8 @@ inputSchema:
       hint: Close contact within 14 days
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: temperature_celsius
@@ -60,8 +60,8 @@ inputSchema:
       hint: Useful for follow up
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: comments

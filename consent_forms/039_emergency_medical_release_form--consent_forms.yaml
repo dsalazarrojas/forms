@@ -16,8 +16,8 @@ inputSchema:
       hint: This form is for emergency use only.
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: medical_info
@@ -81,8 +81,8 @@ inputSchema:
       hint: This contact is for immediate response only.
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: signature

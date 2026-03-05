@@ -412,7 +412,7 @@ inputSchema:
       - Yes, specialist
       - Yes, physical therapist
       - Yes, other
-      - false
+      - 'False'
       required: true
     - id: 46
       name: other_provider_name
@@ -427,8 +427,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 48
       name: consent_agreement
@@ -444,7 +444,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I certify
-      - false
+      - 'False'
       required: true
     - id: 50
       name: consent_treatment

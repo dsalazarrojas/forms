@@ -257,8 +257,8 @@ inputSchema:
       hint: Smoking policy
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Outside only
       required: true
     - id: 34
@@ -269,7 +269,7 @@ inputSchema:
       options:
       - Yes, with permission
       - Yes, without permission
-      - false
+      - 'False'
       required: true
     - id: 35
       name: maintenance_section
@@ -342,7 +342,7 @@ inputSchema:
       options:
       - Yes, with penalty
       - Yes, without penalty
-      - false
+      - 'False'
       - Case by case
       required: true
     - id: 45

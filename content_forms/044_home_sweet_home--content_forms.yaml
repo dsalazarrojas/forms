@@ -23,169 +23,92 @@ inputSchema:
       required: false
     - id: 2
       name: name
-      label: name
+      label: Full Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: description
-      label: description
+      name: home_details
+      label: Address
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: start_date
-      label: start_date
+      label: Start Date
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: end_date
-      label: end_date
+      label: End Date
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: nomination_basket_program
-      label: Nomination Basket Program
+      name: description
+      label: Program Description
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: home_name
-      label: home_name
+      name: program_duration
+      label: Program Duration
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 8
-      name: home_street
-      label: home_street
+      name: program_type
+      label: Program Type
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Home Improvement
+      - Home Renovation
+      - Home Maintenance
+      - Home Repair
+      - Other
       required: false
     - id: 9
-      name: nomination_basket_program
-      label: Nomination Basket Program
+      name: program_category
+      label: Program Category
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Type A
+      - Type B
+      - Type C
+      - Type D
+      - Type E
       required: false
     - id: 10
-      name: name
-      label: name
+      name: program_status
+      label: Program Status
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Cancelled
       required: false
     - id: 11
-      name: nomination_basket_program
-      label: Nomination Basket Program
+      name: program_notes
+      label: Program Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: home_street
-      label: home_street
+      name: program_duration_2
+      label: Program Duration 2
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: home_street
-      label: home_street
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: start_date
-      label: start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: end_date
-      label: end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: home_name
-      label: home_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: home_street
-      label: home_street
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: home_street
-      label: home_street
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: start_date
-      label: start_date
-      hint: null
-      type: date
+      type: number
       options: []
       required: false

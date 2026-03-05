@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Complete''}'
+      - Pending
+      - In Progress
+      - Complete
       required: true
     - id: 5
       name: recall_category
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Food''}'
-      - '{''label'': ''Toy''}'
-      - '{''label'': ''Other''}'
+      - Food
+      - Toy
+      - Other
       required: true
     - id: 6
       name: recall_description
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 0, ''value'': 0}'
-      - '{''label'': 1, ''value'': 1}'
-      - '{''label'': 2, ''value'': 2}'
+      - '0'
+      - '1'
+      - '2'
       required: true
     - id: 11
       name: veterinary_clinic_info
@@ -88,9 +88,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pet Hospital''}'
-      - '{''label'': ''Animal Center''}'
-      - '{''label'': ''Other''}'
+      - Pet Hospital
+      - Animal Center
+      - Other
       required: false
     - id: 12
       name: pet_type
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cat''}'
-      - '{''label'': ''Dog''}'
-      - '{''label'': ''Other''}'
+      - Cat
+      - Dog
+      - Other
       required: true
     - id: 13
       name: recall_case_number
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''USA''}'
-      - '{''label'': ''Canada''}'
-      - '{''label'': ''Other''}'
+      - USA
+      - Canada
+      - Other
       required: true
     - id: 25
       name: contact_note

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Consent Forms''}'
-      - '{''label'': ''Other''}'
+      - Consent Forms
+      - Other
       required: false
     - id: 3
       name: form_description
@@ -32,8 +32,8 @@ inputSchema:
       hint: Optional anonymous release
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: form_optional
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 6
       name: form_email

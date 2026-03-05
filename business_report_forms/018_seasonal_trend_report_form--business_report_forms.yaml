@@ -4,55 +4,36 @@ inputSchema:
     title: Seasonal Trend Report Form
     pages:
     - id: 1
-      name: seasonal_trend_report_form_1
-      label: What is your role?
+      name: seasonal_trend_form_1
+      label: Which Season?
+      hint: null
+      type: select_one
+      options:
+      - Winter
+      - Spring
+      - Summer
+      - Autumn
+      required: true
+    - id: 2
+      name: seasonal_trend_form_2
+      label: What is Your Role?
       hint: null
       type: select_one
       options:
       - Analyst
       - Marketer
       - Product Team
-      required: false
-    - id: 2
-      name: seasonal_trend_report_form_2
-      label: Season
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true
     - id: 3
-      name: seasonal_trend_report_form_3
-      label: What data are you looking to collect?
-      hint: Please provide a short description of what you're trying to achieve
+      name: seasonal_trend_form_3
+      label: What Data Are You Looking to Collect?
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: seasonal_trend_report_form_4
-      label: Select season
-      hint: null
-      type: select_multiple
-      options:
-      - Winter
-      - Spring
-      - Summer
-      - Autumn
-      required: false
-    - id: 5
-      name: seasonal_trend_report_form_5
-      label: Select year
-      hint: null
-      type: select_multiple
-      options:
-      - '2019'
-      - '2020'
-      - '2021'
-      - '2022'
-      - '2023'
-      required: false
-    - id: 6
-      name: seasonal_trend_report_form_6
-      label: Seasonal data collection frequency
+      name: seasonal_trend_form_4
+      label: Seasonal Data Collection Frequency?
       hint: null
       type: select_one
       options:
@@ -60,137 +41,64 @@ inputSchema:
       - Quarterly
       - Annually
       - On Demand
-      required: false
-    - id: 7
-      name: seasonal_trend_report_form_7
-      label: Data Collection Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: seasonal_trend_report_form_8
-      label: Email Address
+      required: true
+    - id: 5
+      name: seasonal_trend_form_5
+      label: Contact Email Address?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 9
-      name: seasonal_trend_report_form_9
-      label: Phone Number
+      required: true
+    - id: 6
+      name: do_you_need_a_phone_number
+      label: Do You Need A Phone Number?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: seasonal_trend_report_form_10
-      label: Seasonal Trend Report Form Description
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 7
+      name: preferred_contact_method
+      label: Preferred Contact Method?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: seasonal_trend_report_form_11
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: seasonal_trend_report_form_12
-      label: Date
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 8
+      name: report_delivery_date
+      label: When Do You Want to Receive the Report?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 13
-      name: time
-      label: Time
+      required: true
+    - id: 9
+      name: report_delivery_time
+      label: What Time Do You Want to Receive the Report?
       hint: null
       type: time
       options: []
-      required: false
-    - id: 14
-      name: seasonal_trend_report_form_14
-      label: Seasonal Trend Report Form Description
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 15
-      name: seasonal_trend_report_form_15
-      label: Seasonal Trend Report Form Description
+      required: true
+    - id: 11
+      name: seasonal_trend_form_11
+      label: Other Information?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: seasonal_trend_report_form_16
-      label: Seasonal Trend Report Form Description
+      required: true
+    - id: 12
+      name: seasonal_trend_form_12
+      label: Additional Details?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: seasonal_trend_report_form_17
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: seasonal_trend_report_form_18
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: seasonal_trend_report_form_19
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: seasonal_trend_report_form_20
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: seasonal_trend_report_form_21
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: seasonal_trend_report_form_22
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: seasonal_trend_report_form_23
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: seasonal_trend_report_form_24
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: seasonal_trend_report_form_25
-      label: Seasonal Trend Report Form Description
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

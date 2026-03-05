@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -44,7 +33,8 @@ inputSchema:
       required: false
     - id: 5
       name: privacy_notice
-      label: We collect data to improve our services and understand user behavior. Your privacy is important to us.
+      label: We collect data to improve our services and understand user behavior.
+        Your privacy is important to us.
       hint: null
       type: note
       options: []
@@ -84,12 +74,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Yes
-      - No
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: allow_personal_data_collection
-      label: I consent to the collection and processing of my personal data for the purposes stated above.
+      label: I consent to the collection and processing of my personal data for the
+        purposes stated above.
       hint: null
       type: select_one
       options:
@@ -102,8 +93,8 @@ inputSchema:
       hint: You will still receive general service analytics tracking
       type: select_one
       options:
-      - Yes
-      - No
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: consent_given_on

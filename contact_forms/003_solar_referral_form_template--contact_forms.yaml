@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other'', ''label'': ''Other''}'
+      - chatjimmy
+      - Other
       required: false
     - id: 7
       name: additional_comments
@@ -60,6 +60,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''user'', ''label'': ''User''}'
-      - '{''id'': 2, ''name'': ''system'', ''label'': ''System''}'
+      - User
+      - System
       required: false

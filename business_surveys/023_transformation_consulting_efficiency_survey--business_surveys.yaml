@@ -4,104 +4,122 @@ inputSchema:
     title: Transformation Consulting Efficiency Survey
     pages:
     - id: 1
-      name: transformation_consulting_efficiency_survey_form_business_surveys
-      label: introduction
+      name: introduction
+      label: Transformation Consulting Efficiency Survey Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: business_surveys_form_business_surveys
-      label: business_surveys
+      name: participate_in_decision_making
+      label: Do you participate in the decision-making process for business surveys?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 3
-      name: feedback_business_surveys
-      label: feedback
+      name: communication_methods
+      label: How do you currently communicate with your team regarding business surveys?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - In-person meeting
+      - Other
+      required: true
     - id: 4
-      name: communication_form_business_surveys
-      label: communication
+      name: communication_areas
+      label: Which areas of communication do you participate in during business surveys?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Email
+      - Phone call
+      - In-person meeting
+      - Other
+      required: true
     - id: 5
-      name: communication_form_business_surveys_form_1
-      label: communication
+      name: impact_on_business
+      label: Do these surveys positively impact your business?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
-      name: impact_form_business_surveys
-      label: impact
+      name: areas_of_impact
+      label: What areas of business do these surveys have a positive impact on?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Finance
+      - Operations
+      - Marketing
+      - Other
+      required: true
     - id: 7
-      name: impact_form_business_surveys_form_1
-      label: impact
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: value_form_business_surveys
-      label: value
+      name: efficiency_value
+      label: How valuable is the information from business surveys for your business
+        operations?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: value_form_business_surveys_form_1
-      label: value
+      - Very valuable
+      - Somewhat valuable
+      - Not very valuable
+      - Not at all valuable
+      required: true
+    - id: 8
+      name: operations_efficiency
+      label: In which business operations do you find the information from business
+        surveys valuable?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Finance
+      - Operations
+      - Marketing
+      - Other
+      required: true
+    - id: 9
+      name: transformation_projects_benefit
+      label: Do you believe business surveys help transform your business?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: transformation_projects_form_business_surveys
-      label: transformation_projects
+      name: transformation_projects_benefiting
+      label: Which business transformation projects benefit from business surveys?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: overall_efficiency_form_business_surveys
-      label: overall_efficiency
+      name: overall_efficiency
+      label: What is your overall efficiency in business surveys?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Very efficient
+      - Somewhat efficient
+      - Not very efficient
+      - Not at all efficient
+      required: true
     - id: 12
-      name: overall_efficiency_form_business_surveys_form_1
-      label: overall_efficiency
+      name: areas_for_improvement
+      label: In which areas do you see room for improvement in business surveys?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Communication
+      - Data analysis
+      - Feedback mechanisms
+      - Other
+      required: true

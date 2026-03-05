@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,10 +23,10 @@ inputSchema:
       hint: Which year are these goals for?
       type: select_one
       options:
-        - 2026
-        - 2027
-        - 2028
-        - Multi-Year
+      - '2026'
+      - '2027'
+      - '2028'
+      - Multi-Year
       required: true
     - id: 4
       name: goal_category
@@ -45,16 +34,16 @@ inputSchema:
       hint: What area of life?
       type: select_one
       options:
-        - Personal Development
-        - Career
-        - Health and Fitness
-        - Financial
-        - Relationships
-        - Education
-        - Business
-        - Creative
-        - Spiritual
-        - Other
+      - Personal Development
+      - Career
+      - Health and Fitness
+      - Financial
+      - Relationships
+      - Education
+      - Business
+      - Creative
+      - Spiritual
+      - Other
       required: true
     - id: 5
       name: primary_goal
@@ -90,10 +79,10 @@ inputSchema:
       hint: Is this goal realistic?
       type: select_one
       options:
-        - Yes, Very Achievable
-        - Yes, With Effort
-        - Challenging But Possible
-        - May Need Adjustment
+      - Yes, Very Achievable
+      - Yes, With Effort
+      - Challenging But Possible
+      - May Need Adjustment
       required: true
     - id: 10
       name: smart_relevant
@@ -157,15 +146,15 @@ inputSchema:
       hint: What do you need to succeed?
       type: select_multiple
       options:
-        - Time
-        - Money
-        - Training
-        - Equipment
-        - Support from Others
-        - Mentorship
-        - Technology
-        - Space
-        - Other
+      - Time
+      - Money
+      - Training
+      - Equipment
+      - Support from Others
+      - Mentorship
+      - Technology
+      - Space
+      - Other
       required: true
     - id: 19
       name: potential_obstacles
@@ -194,11 +183,11 @@ inputSchema:
       hint: How often will you review progress?
       type: select_one
       options:
-        - Daily
-        - Weekly
-        - Bi-Weekly
-        - Monthly
-        - Quarterly
+      - Daily
+      - Weekly
+      - Bi-Weekly
+      - Monthly
+      - Quarterly
       required: true
     - id: 23
       name: progress_tracking_method
@@ -206,12 +195,12 @@ inputSchema:
       hint: How will you track progress?
       type: select_one
       options:
-        - Journal
-        - App or Software
-        - Spreadsheet
-        - Calendar
-        - Visual Chart
-        - Other
+      - Journal
+      - App or Software
+      - Spreadsheet
+      - Calendar
+      - Visual Chart
+      - Other
       required: false
     - id: 24
       name: reward_system

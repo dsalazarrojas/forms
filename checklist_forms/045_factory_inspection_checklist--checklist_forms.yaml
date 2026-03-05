@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: factory_inspection_checklist_1
-      label: Checklist
+      label: Equipment and Environment
       hint: null
       type: select_multiple
       options:
@@ -14,15 +14,20 @@ inputSchema:
       required: false
     - id: 2
       name: factory_inspection_checklist_2
-      label: Inspection
+      label: Inspection Details
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 3
       name: factory_inspection_checklist_3
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: factory_inspection_checklist_4
       label: Location
       hint: null
       type: select_one
@@ -30,156 +35,17 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 4
-      name: factory_inspection_checklist_4
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 5
       name: factory_inspection_checklist_5
-      label: Time
+      label: Location Details
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 6
       name: factory_inspection_checklist_6
-      label: Temperature
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: factory_inspection_checklist_7
-      label: Pressure
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: factory_inspection_checklist_8
-      label: Humidity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: factory_inspection_checklist_9
-      label: Equipment
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: factory_inspection_checklist_10
-      label: Observations
+      label: Other Comments
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 11
-      name: factory_inspection_checklist_11
-      label: Signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: factory_inspection_checklist_12
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: factory_inspection_checklist_14
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: factory_inspection_checklist_15
-      label: Location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: factory_inspection_checklist_16
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: factory_inspection_checklist_17
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: factory_inspection_checklist_18
-      label: Temperature
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: factory_inspection_checklist_19
-      label: Pressure
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: factory_inspection_checklist_20
-      label: Humidity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: factory_inspection_checklist_21
-      label: Equipment
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: factory_inspection_checklist_22
-      label: Observations
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: factory_inspection_checklist_23
-      label: Signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: factory_inspection_checklist_24
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 24
-      name: factory_inspection_checklist_25
-      label: Phone
-      hint: null
-      type: text
       options: []
       required: false

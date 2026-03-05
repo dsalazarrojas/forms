@@ -16,15 +16,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''HR''}'
-      - '{''id'': 2, ''name'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''IT''}'
-      - '{''id'': 4, ''name'': ''Operations''}'
-      - '{''id'': 5, ''name'': ''Finance''}'
-      - '{''id'': 6, ''name'': ''Sales''}'
-      - '{''id'': 7, ''name'': ''Customer Service''}'
-      - '{''id'': 8, ''name'': ''Management''}'
-      - '{''id'': 9, ''name'': ''Other''}'
+      - HR
+      - Marketing
+      - IT
+      - Operations
+      - Finance
+      - Sales
+      - Customer Service
+      - Management
+      - Other
       required: false
     - id: 3
       name: employee_trust
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Highly''}'
-      - '{''id'': 2, ''name'': ''Moderately''}'
-      - '{''id'': 3, ''name'': ''Not at all''}'
+      - Highly
+      - Moderately
+      - Not at all
       required: false
     - id: 6
       name: years_with_company
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Highly''}'
-      - '{''id'': 2, ''name'': ''Moderately''}'
-      - '{''id'': 3, ''name'': ''Not at all''}'
+      - Highly
+      - Moderately
+      - Not at all
       required: false
     - id: 9
       name: employee_perks
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Highly''}'
-      - '{''id'': 2, ''name'': ''Moderately''}'
-      - '{''id'': 3, ''name'': ''Not at all''}'
+      - Highly
+      - Moderately
+      - Not at all
       required: false
     - id: 11
       name: team_trust

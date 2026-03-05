@@ -4,191 +4,51 @@ inputSchema:
     title: Treasury Forecasting Seminar Registration
     pages:
     - id: 1
-      name: first_name
-      label: First Name
+      name: attendee_info
+      label: Attendee Information
       hint: null
       type: text
-      options: []
-      required: true
-    - id: 2
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: email
-      label: Email
-      hint: Please enter prophets@domain.com
-      type: email
-      options: []
-      required: true
-    - id: 4
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: session_preferences
-      label: Session Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 6
-      name: session_choice_1
-      label: Session Choice 1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 7
-      name: session_choice_2
-      label: Session Choice 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 8
-      name: consent
-      label: Consent
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: agreement
-      label: Agreement
-      hint: null
-      type: note
       options: []
       required: false
-    - id: 10
-      name: company
-      label: Company
+    - id: 2
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
-      required: true
-    - id: 11
-      name: position
-      label: Position
+      required: false
+    - id: 3
+      name: company_details
+      label: Company Details
       hint: null
       type: text
       options: []
-      required: true
-    - id: 12
-      name: department
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: job_title
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: session_preferences_options
+      required: false
+    - id: 4
+      name: session_prefs
       label: Session Preferences
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
+      type: text
+      options: []
+      required: false
+    - id: 5
       name: attendee_details
       label: Attendee Details
       hint: null
-      type: note
+      type: text
       options: []
       required: false
-    - id: 16
-      name: company_name
-      label: Company Name
+    - id: 6
+      name: additional_info
+      label: Additional Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 17
-      name: attendee_interest
-      label: Attendee Interest
+    - id: 7
+      name: submit
+      label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
-      name: job_title
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: company
-      label: Company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: position
-      label: Position
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: department
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: session_preferences
-      label: Session Preferences
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: consent
-      label: Consent
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

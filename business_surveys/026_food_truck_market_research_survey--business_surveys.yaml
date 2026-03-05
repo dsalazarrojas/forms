@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Tacos''}'
-      - '{''id'': 2, ''label'': ''Burgers''}'
-      - '{''id'': 3, ''label'': ''Sushi''}'
-      - '{''id'': 4, ''label'': ''Salad''}'
+      - Tacos
+      - Burgers
+      - Sushi
+      - Salad
       required: true
     - id: 3
       name: favorite_topping
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Sour cream''}'
-      - '{''id'': 2, ''label'': ''Chives''}'
-      - '{''id'': 3, ''label'': ''Jalapenos''}'
-      - '{''id'': 4, ''label'': ''Olives''}'
+      - Sour cream
+      - Chives
+      - Jalapenos
+      - Olives
       required: true
     - id: 4
       name: email
@@ -52,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Taco Trek''}'
-      - '{''id'': 2, ''label'': ''Burger Bistro''}'
-      - '{''id'': 3, ''label'': ''Sushi Supreme''}'
+      - Taco Trek
+      - Burger Bistro
+      - Sushi Supreme
       required: true
     - id: 7
       name: note

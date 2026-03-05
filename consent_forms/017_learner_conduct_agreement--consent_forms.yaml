@@ -5,203 +5,111 @@ inputSchema:
     pages:
     - id: 1
       name: learner_conduct_agreement_1
-      label: Learner Conduct Agreement
+      label: What is the definition of Learner Conduct?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: acknowledgement_1
-      label: Acknowledgement
+      label: Have you read and understood the Learner Conduct Guidelines?
+      hint: null
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 3
+      name: committed_to_guidelines_1
+      label: Are you committed to following the Learner Conduct Guidelines?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: consequences_1
+      label: What are the consequences of failing to follow the Learner Conduct Guidelines?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 3
-      name: acknowledgement_2
-      label: Acknowledgement
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 4
-      name: acknowledgement_3
-      label: Acknowledgement
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      required: true
     - id: 5
-      name: learner_1
-      label: Learner
+      name: monitored_participation_1
+      label: Do you understand that you will be monitored while participating in the
+        program?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 6
-      name: role_1
-      label: Role
+      name: questions_guidelines_1
+      label: Do you have any questions about the Learner Conduct Guidelines?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: department_1
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: agreement_1
-      label: Agreement
+      name: reviewed_conduct_1
+      label: Do you understand that your conduct will be reviewed and evaluated periodically?
       hint: null
       type: select_one
       options:
-      - option4
-      - option5
-      - option6
-      required: false
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: meeting_expectations_1
+      label: Are you aware of the consequences of not meeting expectations?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
-      name: signature
+      name: positive_role_model_1
+      label: What are your plans to promote a safe and respectful learning environment?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: treat_others_with_respect_1
+      label: Are you committed to treating others with respect and kindness?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: no_bullying_1
+      label: Do you understand that bullying or harassing behavior will not be tolerated?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: positive_role_model_2
+      label: Do you understand the importance of being a positive role model?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: signature_1
       label: Signature
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: acknowledgement_4
-      label: Acknowledgement
-      hint: null
-      type: select_multiple
-      options:
-      - option7
-      - option8
-      - option9
-      required: false
-    - id: 11
-      name: signed_at
-      label: Signed
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: learner_conduct_agreement_2
-      label: Learner Conduct Agreement
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: acknowledgement_5
-      label: Acknowledgement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: role_2
-      label: Role
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: acknowledgement_6
-      label: Acknowledgement
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: acknowledgement_7
-      label: Acknowledgement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: learner_2
-      label: Learner
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: learner_3
-      label: Learner
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: agreement_2
-      label: Agreement
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: learner_4
-      label: Learner
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: learner_5
-      label: Learner
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: acknowledgement_8
-      label: Acknowledgement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: department_2
-      label: Department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: acknowledgement_9
-      label: Acknowledgement
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: acknowledgement_10
-      label: Acknowledgement
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

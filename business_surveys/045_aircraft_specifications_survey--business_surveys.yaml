@@ -229,8 +229,8 @@ inputSchema:
       hint: Is radar installed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: tcas
@@ -240,7 +240,7 @@ inputSchema:
       options:
       - Yes, TCAS I
       - Yes, TCAS II
-      - false
+      - 'False'
       required: true
     - id: 32
       name: egpws
@@ -248,8 +248,8 @@ inputSchema:
       hint: Is system installed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 33
       name: ads_b_out
@@ -257,8 +257,8 @@ inputSchema:
       hint: Is equipped
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 34
       name: wifi_installed
@@ -266,8 +266,8 @@ inputSchema:
       hint: Is cabin WiFi available
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 35
       name: cabin_type

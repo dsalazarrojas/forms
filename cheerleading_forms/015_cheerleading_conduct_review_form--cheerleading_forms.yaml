@@ -1,296 +1,285 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cheerleading Conduct Review Form
     pages:
-      - id: 1
-        name: cheerleader_name
-        label: Cheerleader Name
-        hint: Full name of the cheerleader being reviewed
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: team_name
-        label: Team Name
-        hint: Name of the cheer team
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: review_date
-        label: Review Date
-        hint: Date of this conduct review
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: reviewer_name
-        label: Reviewer Name
-        hint: Name of the person conducting the review
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: reviewer_role
-        label: Reviewer Role
-        hint: Your role in the organization
-        type: select_one
-        options:
-          - Head Coach
-          - Assistant Coach
-          - Program Director
-          - School Administrator
-          - Team Captain
-          - Other
-        required: true
-      - id: 6
-        name: review_type
-        label: Review Type
-        hint: Type of conduct review
-        type: select_one
-        options:
-          - Routine evaluation
-          - Incident response
-          - Performance concern
-          - Behavioral issue
-          - Recognition of excellence
-        required: true
-      - id: 7
-        name: attendance_punctuality
-        label: Attendance and Punctuality
-        hint: Rate attendance and punctuality
-        type: select_one
-        options:
-          - Excellent - Always on time
-          - Good - Rarely late
-          - Average - Occasionally late
-          - Poor - Frequently late or absent
-          - Very Poor - Chronic issues
-        required: true
-      - id: 8
-        name: attitude_behavior
-        label: Attitude and Behavior
-        hint: Rate overall attitude and behavior
-        type: select_one
-        options:
-          - Excellent - Always positive
-          - Good - Generally positive
-          - Average - Mixed
-          - Poor - Often negative
-          - Very Poor - Consistently negative
-        required: true
-      - id: 9
-        name: teamwork_cooperation
-        label: Teamwork and Cooperation
-        hint: How well do they work with teammates
-        type: select_one
-        options:
-          - Excellent team player
-          - Good team player
-          - Average team player
-          - Poor team player
-          - Very poor team player
-        required: true
-      - id: 10
-        name: respect_for_coaches
-        label: Respect for Coaches
-        hint: Level of respect shown to coaches
-        type: select_one
-        options:
-          - Excellent - Always respectful
-          - Good - Generally respectful
-          - Average - Sometimes disrespectful
-          - Poor - Often disrespectful
-          - Very Poor - Consistently disrespectful
-        required: true
-      - id: 11
-        name: respect_for_teammates
-        label: Respect for Teammates
-        hint: Level of respect shown to teammates
-        type: select_one
-        options:
-          - Excellent - Always respectful
-          - Good - Generally respectful
-          - Average - Sometimes disrespectful
-          - Poor - Often disrespectful
-          - Very Poor - Consistently disrespectful
-        required: true
-      - id: 12
-        name: adherence_to_rules
-        label: Adherence to Rules
-        hint: Following team rules and policies
-        type: select_one
-        options:
-          - Excellent - Always follows rules
-          - Good - Usually follows rules
-          - Average - Sometimes breaks rules
-          - Poor - Often breaks rules
-          - Very Poor - Consistently breaks rules
-        required: true
-      - id: 13
-        name: sportsmanship
-        label: Sportsmanship
-        hint: Display of good sportsmanship
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Poor
-          - Very Poor
-        required: true
-      - id: 14
-        name: academic_performance
-        label: Academic Performance
-        hint: If applicable, academic standing
-        type: select_one
-        options:
-          - Excellent - Honor roll
-          - Good - Above average
-          - Average - Passing
-          - Poor - At risk
-          - Not applicable
-        required: false
-      - id: 15
-        name: social_media_conduct
-        label: Social Media Conduct
-        hint: Appropriate social media behavior
-        type: select_one
-        options:
-          - Excellent - Always appropriate
-          - Good - Generally appropriate
-          - Average - Some concerns
-          - Poor - Frequent concerns
-          - Not aware
-        required: true
-      - id: 16
-        name: uniform_appearance
-        label: Uniform and Appearance
-        hint: Adherence to uniform and appearance standards
-        type: select_one
-        options:
-          - Excellent - Always compliant
-          - Good - Usually compliant
-          - Average - Sometimes non-compliant
-          - Poor - Often non-compliant
-          - Very Poor - Consistently non-compliant
-        required: true
-      - id: 17
-        name: effort_level
-        label: Effort Level
-        hint: Level of effort shown in practices and performances
-        type: select_one
-        options:
-          - Excellent - Maximum effort always
-          - Good - Strong effort
-          - Average - Moderate effort
-          - Poor - Minimal effort
-          - Very Poor - No effort
-        required: true
-      - id: 18
-        name: leadership_qualities
-        label: Leadership Qualities
-        hint: Demonstration of leadership
-        type: select_one
-        options:
-          - Excellent leader
-          - Good leadership potential
-          - Average leadership
-          - Developing leadership
-          - No leadership shown
-        required: true
-      - id: 19
-        name: incidents_reported
-        label: Incidents Reported
-        hint: List any conduct incidents if applicable
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: incident_details
-        label: Incident Details
-        hint: Provide details of any incidents
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: corrective_actions
-        label: Corrective Actions Taken
-        hint: Any actions taken to address concerns
-        type: text
-        options: []
-        required: false
-      - id: 22
-        name: improvement_plan
-        label: Improvement Plan
-        hint: Plan for conduct improvement
-        type: text
-        options: []
-        required: false
-      - id: 23
-        name: follow_up_required
-        label: Follow-up Required
-        hint: Is follow-up needed
-        type: select_one
-        options:
-          - Yes, scheduled
-          - Yes, pending
-          - No follow-up needed
-        required: true
-      - id: 24
-        name: follow_up_date
-        label: Follow-up Date
-        hint: Date for follow-up review
-        type: date
-        options: []
-        required: false
-      - id: 25
-        name: overall_conduct_rating
-        label: Overall Conduct Rating
-        hint: Overall assessment of conduct
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Satisfactory
-          - Needs Improvement
-          - Unsatisfactory
-        required: true
-      - id: 26
-        name: cheerleader_response
-        label: Cheerleader Response
-        hint: Cheerleader's response to this review
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: reviewer_signature
-        label: Reviewer Confirmation
-        hint: I confirm this review is accurate
-        type: select_one
-        options:
-          - Yes, I confirm
-          - No
-        required: true
-      - id: 28
-        name: cheerleader_signature
-        label: Cheerleader Acknowledgment
-        hint: I acknowledge I have reviewed this conduct review
-        type: select_one
-        options:
-          - Yes, I acknowledge
-          - No
-          - Not available
-        required: true
+    - id: 1
+      name: cheerleader_name
+      label: Cheerleader Name
+      hint: Full name of the cheerleader being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: Name of the cheer team
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_date
+      label: Review Date
+      hint: Date of this conduct review
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of the person conducting the review
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reviewer_role
+      label: Reviewer Role
+      hint: Your role in the organization
+      type: select_one
+      options:
+      - Head Coach
+      - Assistant Coach
+      - Program Director
+      - School Administrator
+      - Team Captain
+      - Other
+      required: true
+    - id: 6
+      name: review_type
+      label: Review Type
+      hint: Type of conduct review
+      type: select_one
+      options:
+      - Routine evaluation
+      - Incident response
+      - Performance concern
+      - Behavioral issue
+      - Recognition of excellence
+      required: true
+    - id: 7
+      name: attendance_punctuality
+      label: Attendance and Punctuality
+      hint: Rate attendance and punctuality
+      type: select_one
+      options:
+      - Excellent - Always on time
+      - Good - Rarely late
+      - Average - Occasionally late
+      - Poor - Frequently late or absent
+      - Very Poor - Chronic issues
+      required: true
+    - id: 8
+      name: attitude_behavior
+      label: Attitude and Behavior
+      hint: Rate overall attitude and behavior
+      type: select_one
+      options:
+      - Excellent - Always positive
+      - Good - Generally positive
+      - Average - Mixed
+      - Poor - Often negative
+      - Very Poor - Consistently negative
+      required: true
+    - id: 9
+      name: teamwork_cooperation
+      label: Teamwork and Cooperation
+      hint: How well do they work with teammates
+      type: select_one
+      options:
+      - Excellent team player
+      - Good team player
+      - Average team player
+      - Poor team player
+      - Very poor team player
+      required: true
+    - id: 10
+      name: respect_for_coaches
+      label: Respect for Coaches
+      hint: Level of respect shown to coaches
+      type: select_one
+      options:
+      - Excellent - Always respectful
+      - Good - Generally respectful
+      - Average - Sometimes disrespectful
+      - Poor - Often disrespectful
+      - Very Poor - Consistently disrespectful
+      required: true
+    - id: 11
+      name: respect_for_teammates
+      label: Respect for Teammates
+      hint: Level of respect shown to teammates
+      type: select_one
+      options:
+      - Excellent - Always respectful
+      - Good - Generally respectful
+      - Average - Sometimes disrespectful
+      - Poor - Often disrespectful
+      - Very Poor - Consistently disrespectful
+      required: true
+    - id: 12
+      name: adherence_to_rules
+      label: Adherence to Rules
+      hint: Following team rules and policies
+      type: select_one
+      options:
+      - Excellent - Always follows rules
+      - Good - Usually follows rules
+      - Average - Sometimes breaks rules
+      - Poor - Often breaks rules
+      - Very Poor - Consistently breaks rules
+      required: true
+    - id: 13
+      name: sportsmanship
+      label: Sportsmanship
+      hint: Display of good sportsmanship
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: academic_performance
+      label: Academic Performance
+      hint: If applicable, academic standing
+      type: select_one
+      options:
+      - Excellent - Honor roll
+      - Good - Above average
+      - Average - Passing
+      - Poor - At risk
+      - Not applicable
+      required: false
+    - id: 15
+      name: social_media_conduct
+      label: Social Media Conduct
+      hint: Appropriate social media behavior
+      type: select_one
+      options:
+      - Excellent - Always appropriate
+      - Good - Generally appropriate
+      - Average - Some concerns
+      - Poor - Frequent concerns
+      - Not aware
+      required: true
+    - id: 16
+      name: uniform_appearance
+      label: Uniform and Appearance
+      hint: Adherence to uniform and appearance standards
+      type: select_one
+      options:
+      - Excellent - Always compliant
+      - Good - Usually compliant
+      - Average - Sometimes non-compliant
+      - Poor - Often non-compliant
+      - Very Poor - Consistently non-compliant
+      required: true
+    - id: 17
+      name: effort_level
+      label: Effort Level
+      hint: Level of effort shown in practices and performances
+      type: select_one
+      options:
+      - Excellent - Maximum effort always
+      - Good - Strong effort
+      - Average - Moderate effort
+      - Poor - Minimal effort
+      - Very Poor - No effort
+      required: true
+    - id: 18
+      name: leadership_qualities
+      label: Leadership Qualities
+      hint: Demonstration of leadership
+      type: select_one
+      options:
+      - Excellent leader
+      - Good leadership potential
+      - Average leadership
+      - Developing leadership
+      - No leadership shown
+      required: true
+    - id: 19
+      name: incidents_reported
+      label: Incidents Reported
+      hint: List any conduct incidents if applicable
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_details
+      label: Incident Details
+      hint: Provide details of any incidents
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: corrective_actions
+      label: Corrective Actions Taken
+      hint: Any actions taken to address concerns
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: improvement_plan
+      label: Improvement Plan
+      hint: Plan for conduct improvement
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is follow-up needed
+      type: select_one
+      options:
+      - Yes, scheduled
+      - Yes, pending
+      - No follow-up needed
+      required: true
+    - id: 24
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Date for follow-up review
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: overall_conduct_rating
+      label: Overall Conduct Rating
+      hint: Overall assessment of conduct
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 26
+      name: cheerleader_response
+      label: Cheerleader Response
+      hint: Cheerleader's response to this review
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: reviewer_signature
+      label: Reviewer Confirmation
+      hint: I confirm this review is accurate
+      type: select_one
+      options:
+      - Yes, I confirm
+      - 'False'
+      required: true
+    - id: 28
+      name: cheerleader_signature
+      label: Cheerleader Acknowledgment
+      hint: I acknowledge I have reviewed this conduct review
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'False'
+      - Not available
+      required: true

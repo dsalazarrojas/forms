@@ -53,8 +53,8 @@ inputSchema:
       hint: Select all services that apply
       type: select_multiple
       options:
-      - '{''option'': ''Tree Trimming''}'
-      - '{''option'': ''Tree Pruning''}'
+      - Option 1
+      - Option 2
       required: true
     - id: 8
       name: service_2
@@ -62,8 +62,8 @@ inputSchema:
       hint: Select all services that apply
       type: select_multiple
       options:
-      - '{''option'': ''Tree Removal''}'
-      - '{''option'': ''Tree Cutting''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 9
       name: service_3
@@ -71,8 +71,8 @@ inputSchema:
       hint: Select all services that apply
       type: select_multiple
       options:
-      - '{''option'': ''Tree Shaping''}'
-      - '{''option'': ''Tree Pruning''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 10
       name: service_4
@@ -80,8 +80,8 @@ inputSchema:
       hint: Select all services that apply
       type: select_multiple
       options:
-      - '{''option'': ''Tree Chopping''}'
-      - '{''option'': ''Tree Cutting''}'
+      - Option 1
+      - Option 2
       required: false
     - id: 11
       name: request_date
@@ -112,9 +112,9 @@ inputSchema:
       hint: Select tree size
       type: select_one
       options:
-      - '{''option'': ''Small''}'
-      - '{''option'': ''Medium''}'
-      - '{''option'': ''Large''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 15
       name: tree_height
@@ -173,7 +173,7 @@ inputSchema:
       hint: Select tree height range
       type: select_multiple
       options:
-      - '{''option'': ''10-20 ft''}'
-      - '{''option'': ''20-50 ft''}'
-      - '{''option'': ''50-100 ft''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false

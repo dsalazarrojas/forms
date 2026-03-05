@@ -4,36 +4,36 @@ inputSchema:
     title: Nail Technician Client Consultation Form
     pages:
     - id: 1
-      name: nail_technician_client_consultation_form_1
-      label: first_name
+      name: nail_technician_client_consultation_form_page_1
+      label: First Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: nail_technician_client_consultation_form_2
-      label: last_name
+      name: nail_technician_client_consultation_form_page_2
+      label: Last Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: nail_technician_client_consultation_form_3
-      label: email
+      name: nail_technician_client_consultation_form_page_3
+      label: Email
       hint: null
       type: email
       options: []
       required: true
     - id: 4
-      name: nail_technician_client_consultation_form_4
-      label: phone
+      name: nail_technician_client_consultation_form_page_4
+      label: Phone
       hint: null
       type: text
       options: []
       required: true
     - id: 5
-      name: nail_technician_client_consultation_form_5
-      label: preferred_service
+      name: nail_technician_client_consultation_form_page_5
+      label: Nail Care Preferences
       hint: null
       type: select_one
       options:
@@ -41,142 +41,106 @@ inputSchema:
       - 'No'
       required: true
     - id: 6
-      name: nail_technician_client_consultation_form_6
-      label: nail_care_preference
+      name: nail_technician_client_consultation_form_page_6
+      label: Brief Note about Your Nail Care Preferences
       hint: null
-      type: text
+      type: note
       options: []
-      required: true
+      required: false
     - id: 7
-      name: nail_technician_client_consultation_form_7
-      label: special_instructions
+      name: nail_technician_client_consultation_form_page_7
+      label: First Visit
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 8
-      name: nail_technician_client_consultation_form_8
-      label: note
+      name: nail_technician_client_consultation_form_page_8
+      label: Next Visit
       hint: null
-      type: note
+      type: date
       options: []
       required: false
     - id: 9
-      name: nail_technician_client_consultation_form_9
-      label: first_visit
+      name: nail_technician_client_consultation_form_page_9
+      label: First Visit Time
       hint: null
-      type: date
+      type: time
       options: []
       required: false
     - id: 10
-      name: nail_technician_client_consultation_form_10
-      label: next_visit
+      name: nail_technician_client_consultation_form_page_10
+      label: Next Visit Time
       hint: null
-      type: date
+      type: time
       options: []
       required: false
     - id: 11
-      name: nail_technician_client_consultation_form_11
-      label: first_visit_time
+      name: nail_technician_client_consultation_form_page_11
+      label: Special Instructions
       hint: null
-      type: time
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: nail_technician_client_consultation_form_12
-      label: next_visit
+      name: nail_technician_client_consultation_form_page_12
+      label: Brief Note about Your Visit
       hint: null
-      type: time
+      type: note
       options: []
       required: false
     - id: 13
-      name: nail_technician_client_consultation_form_13
-      label: note_2
+      name: nail_technician_client_consultation_form_page_13
+      label: First Visit Status
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: nail_technician_client_consultation_form_page_14
+      label: Visit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 15
+      name: nail_technician_client_consultation_form_page_15
+      label: Brief Details about Your Visit History
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 14
-      name: nail_technician_client_consultation_form_14
-      label: first_visit_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: nail_technician_client_consultation_form_15
-      label: first_visit_time
-      hint: null
-      type: time
       options: []
       required: false
     - id: 16
-      name: nail_technician_client_consultation_form_16
-      label: next_visit_time
+      name: nail_technician_client_consultation_form_page_16
+      label: Nail Issues
       hint: null
-      type: time
-      options: []
+      type: select_multiple
+      options:
+      - Fungal infections
+      - Ingrown toenails
+      - Brittle nails
+      - Other
       required: false
     - id: 17
-      name: nail_technician_client_consultation_form_17
-      label: note_3
+      name: nail_technician_client_consultation_form_page_17
+      label: Medical Conditions
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 18
-      name: nail_technician_client_consultation_form_18
-      label: first_visit_date
+      name: nail_technician_client_consultation_form_page_18
+      label: Nail Allergies/Sensitivities
       hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: nail_technician_client_consultation_form_19
-      label: first_visit_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: nail_technician_client_consultation_form_20
-      label: note_4
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: nail_technician_client_consultation_form_21
-      label: next_visit_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: nail_technician_client_consultation_form_22
-      label: note_5
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: nail_technician_client_consultation_form_23
-      label: next_visit_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: nail_technician_client_consultation_form_24
-      label: note_6
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: nail_technician_client_consultation_form_25
-      label: note_7
-      hint: null
-      type: note
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

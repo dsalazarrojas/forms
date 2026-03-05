@@ -12,90 +12,24 @@ inputSchema:
       required: false
     - id: 2
       name: participant_name
-      label: participant_name
+      label: Participant Name
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: participant_grade
-      label: participant_grade
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: participant_age
-      label: participant_age
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
       name: participant_grade_level
-      label: participant_grade_level
+      label: Participant Grade Level
       hint: null
       type: select_one
       options:
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
-      - '11'
-      - '12'
-      - '13'
-      - '14'
-      - '15'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 6
-      name: participant_school_grade_level
-      label: participant_school_grade_level
-      hint: null
-      type: select_multiple
-      options:
-      - '6'
-      - '7'
-      - '8'
-      - '9'
-      - '10'
-      - '11'
-      - '12'
-      - '13'
-      - '14'
-      - '15'
-      required: false
-    - id: 7
-      name: teacher_name
-      label: teacher_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: teacher_email
-      label: teacher_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 9
-      name: teacher_phone
-      label: teacher_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: participant_school
-      label: participant_school
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
+    - id: 4
       name: participant_tshirt_size
-      label: participant_tshirt_size
+      label: Participant Shirt Size
       hint: null
       type: select_one
       options:
@@ -105,9 +39,9 @@ inputSchema:
       - X-Large
       - XX-Large
       required: false
-    - id: 12
+    - id: 5
       name: participant_tshirt_color
-      label: participant_tshirt_color
+      label: Participant Shirt Color
       hint: null
       type: select_multiple
       options:
@@ -117,51 +51,30 @@ inputSchema:
       - Yellow
       - Black
       required: false
-    - id: 13
-      name: participant_special_requests
-      label: participant_special_requests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: participant_additional_info
-      label: participant_additional_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: participant_language
-      label: participant_language
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
+    - id: 6
       name: participant_parent_name
-      label: participant_parent_name
+      label: Participant Parent Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 17
+    - id: 7
       name: participant_parent_email
-      label: participant_parent_email
+      label: Participant Parent Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 18
+    - id: 8
       name: participant_parent_phone
-      label: participant_parent_phone
+      label: Participant Parent Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
+    - id: 9
       name: participant_parent_relationship
-      label: participant_parent_relationship
+      label: Participant Parent Relationship
       hint: null
       type: select_multiple
       options:
@@ -169,54 +82,9 @@ inputSchema:
       - Guardian
       - Other
       required: false
-    - id: 20
+    - id: 10
       name: participant_parent_school
-      label: participant_parent_school
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_tshirt_size
-      label: participant_tshirt_size
-      hint: null
-      type: select_one
-      options:
-      - Small
-      - Medium
-      - Large
-      - X-Large
-      - XX-Large
-      required: false
-    - id: 22
-      name: participant_tshirt_color
-      label: participant_tshirt_color
-      hint: null
-      type: select_multiple
-      options:
-      - Red
-      - Blue
-      - Green
-      - Yellow
-      - Black
-      required: false
-    - id: 23
-      name: participant_special_requests
-      label: participant_special_requests
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: participant_language
-      label: participant_language
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: participant_parent_language
-      label: participant_parent_language
+      label: Participant Parent School
       hint: null
       type: text
       options: []

@@ -30,18 +30,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Engineering / IT
-        value: eng_it
-      - label: Legal & Compliance
-        value: legal
-      - label: Human Resources
-        value: hr
-      - label: Sales & Marketing
-        value: sales_marketing
-      - label: Operations
-        value: operations
-      - label: Customer Support
-        value: support
+      - Engineering / IT
+      - Legal & Compliance
+      - Human Resources
+      - Sales & Marketing
+      - Operations
+      - Customer Support
       required: true
     - id: 5
       name: knowledge_sources_header
@@ -56,18 +50,12 @@ inputSchema:
       hint: Select all that apply.
       type: select_multiple
       options:
-      - label: Internal Wiki (Notion, Confluence, SharePoint)
-        value: wiki
-      - label: Unstructured Documents (PDFs, Word, PPT)
-        value: docs
-      - label: Email Communications
-        value: email
-      - label: Chat History (Slack, Teams)
-        value: chat
-      - label: Databases (SQL, NoSQL)
-        value: databases
-      - label: Tacit Knowledge (Subject Matter Experts)
-        value: experts
+      - Internal Wiki (Notion, Confluence, SharePoint)
+      - Unstructured Documents (PDFs, Word, PPT)
+      - Email Communications
+      - Chat History (Slack, Teams)
+      - Databases (SQL, NoSQL)
+      - Tacit Knowledge (Subject Matter Experts)
       required: true
     - id: 7
       name: info_retrieval_challenges
@@ -75,16 +63,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Too many different platforms
-        value: too_many_platforms
-      - label: Search results are irrelevant
-        value: irrelevant_results
-      - label: Information is outdated
-        value: outdated_info
-      - label: Information is siloed (no access)
-        value: siloed
-      - label: Lack of a centralized index
-        value: no_index
+      - Too many different platforms
+      - Search results are irrelevant
+      - Information is outdated
+      - Information is siloed (no access)
+      - Lack of a centralized index
       required: true
     - id: 8
       name: time_spent_searching
@@ -113,16 +96,11 @@ inputSchema:
       hint: Select all that apply.
       type: select_multiple
       options:
-      - label: Automatic Summarization of long documents
-        value: summarization
-      - label: Natural Language Q&A (Chat with your data)
-        value: qa
-      - label: Automatic Citation of source documents
-        value: citation
-      - label: Anomaly/Conflict Detection in info
-        value: anomaly_detection
-      - label: Sentiment Analysis across knowledge base
-        value: sentiment
+      - Automatic Summarization of long documents
+      - Natural Language Q&A (Chat with your data)
+      - Automatic Citation of source documents
+      - Anomaly/Conflict Detection in info
+      - Sentiment Analysis across knowledge base
       required: true
     - id: 12
       name: data_sensitivity_level
@@ -130,14 +108,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Public / Low Sensitivity
-        value: low
-      - label: Internal / Proprietary
-        value: internal
-      - label: Confidential / PII Included
-        value: confidential
-      - label: Highly Restricted / Regulated (e.g., HIPAA/GDPR)
-        value: restricted
+      - Public / Low Sensitivity
+      - Internal / Proprietary
+      - Confidential / PII Included
+      - Highly Restricted / Regulated (e.g., HIPAA/GDPR)
       required: true
     - id: 13
       name: potential_risks_concerns
@@ -145,14 +119,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Accuracy / 'Hallucinations'
-        value: accuracy
-      - label: Data Security / Leaks
-        value: security
-      - label: Loss of Context
-        value: context_loss
-      - label: Complexity of setup
-        value: complexity
+      - Accuracy / 'Hallucinations'
+      - Data Security / Leaks
+      - Loss of Context
+      - Complexity of setup
       required: false
     - id: 14
       name: use_case_description
@@ -167,12 +137,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: true
-        value: true
-      - label: false
-        value: false
-      - label: Maybe (Send more info)
-        value: maybe
+      - 'True'
+      - 'False'
+      - Maybe (Send more info)
       required: true
     - id: 16
       name: contact_email

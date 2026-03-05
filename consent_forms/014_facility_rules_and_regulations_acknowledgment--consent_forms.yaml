@@ -5,80 +5,111 @@ inputSchema:
     pages:
     - id: 1
       name: facility_rules_and_regulations_acknowledgment
-      label: Facility Rules And Regulations
+      label: What is your name?
+      hint: Please provide your name as it appears on your ID.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_information
+      label: What is your contact information?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 2
-      name: facility_rules_and_regulations_acknowledgment
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
+      required: true
     - id: 3
-      name: facility_rules_and_regulations_acknowledgment
-      label: description
+      name: questions_and_concerns
+      label: Do you have any questions or concerns about the facility's rules and
+        regulations?
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: facility_rules_and_regulations_acknowledgment
-      label: Description
+      name: rules_understood
+      label: Have you read and understood the facility's rules and regulations?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
-      name: facility_rules_and_regulations_acknowledgment
-      label: Facility Rules And Regulations
+      name: role
+      label: What is your role at the facility?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: facility_rules_and_regulations_acknowledgment
-      label: Rules
+      name: allergies_restrictions
+      label: Do you have any dietary restrictions or allergies that the facility should
+        be aware of?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: facility_rules_and_regulations_acknowledgment
-      label: Category
+      name: emergency_exits
+      label: Are you aware of the emergency exits and emergency procedures in the
+        facility?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 8
-      name: facility_rules_and_regulations_acknowledgment
-      label: Description
+      name: facility_resources
+      label: How will you be using the facility's resources and facilities?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: facility_rules_and_regulations_acknowledgment
-      label: Facility Rules And Regulations
+      name: equipment_training
+      label: Have you received training on the use of the facility's equipment and
+        resources?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: consequences
+      label: Do you understand the consequences of not following the facility's rules
+        and regulations?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: incident_reporting
+      label: Are you aware of the facility's policies on reporting incidents or near
+        misses?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: consent
+      label: Do you agree to abide by the facility's rules and regulations?
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 13
+      name: additional_comments
+      label: Is there anything else you'd like to add or discuss about the facility's
+        rules and regulations?
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 10
-      name: facility_rules_and_regulations_acknowledgment
-      label: facility_rules_and_regulations
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: facility_rules_and_regulations
-      label: facility_rules_and_regulations
-      hint: null
-      type: number
       options: []
       required: false

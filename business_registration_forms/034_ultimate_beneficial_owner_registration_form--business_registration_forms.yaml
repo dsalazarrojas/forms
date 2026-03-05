@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''US''}'
-      - '{''id'': 2, ''label'': ''Canada''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - US
+      - Canada
+      - Other
       required: true
     - id: 5
       name: address
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''US''}'
-      - '{''id'': 2, ''label'': ''Canada''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - US
+      - Canada
+      - Other
       required: true
     - id: 7
       name: phone_number
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Individual''}'
-      - '{''id'': 2, ''label'': ''Organization''}'
+      - Individual
+      - Organization
       required: true
     - id: 10
       name: beneficial_owner_status
@@ -80,7 +80,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Dormant''}'
-      - '{''id'': 3, ''label'': ''Inactive''}'
+      - Active
+      - Dormant
+      - Inactive
       required: true

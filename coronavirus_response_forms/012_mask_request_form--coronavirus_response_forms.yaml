@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: healthcare_organizations
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Physicians'', ''label'': ''Physicians''}'
-      - '{''id'': 2, ''name'': ''Nurses'', ''label'': ''Nurses''}'
-      - '{''id'': 3, ''name'': ''Hospitals'', ''label'': ''Hospitals''}'
-      - '{''id'': 4, ''name'': ''First Responders'', ''label'': ''First Responders''}'
+      - Physicians
+      - Nurses
+      - Hospitals
+      - First Responders
       required: false
     - id: 4
       name: mask_type
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''N95'', ''label'': ''N95''}'
-      - '{''id'': 2, ''name'': ''N99'', ''label'': ''N99''}'
-      - '{''id'': 3, ''name'': ''N100'', ''label'': ''N100''}'
+      - N95
+      - N99
+      - N100
       required: false
     - id: 5
       name: quantity

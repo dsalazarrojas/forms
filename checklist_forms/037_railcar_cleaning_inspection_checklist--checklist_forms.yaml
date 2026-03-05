@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -55,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''side_of_railcar''}'
-      - '{''label'': ''underneath_railcar''}'
-      - '{''label'': ''other''}'
+      - side of railcar
+      - underneath railcar
+      - other
       required: false
     - id: 7
       name: cleanliness_status
@@ -65,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''clean''}'
-      - '{''label'': ''dirty''}'
-      - '{''label'': ''pending''}'
+      - clean
+      - dirty
+      - pending
       required: false
     - id: 8
       name: comments
@@ -82,9 +71,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''maintenance_team''}'
-      - '{''label'': ''supervisor''}'
-      - '{''label'': ''manager''}'
+      - maintenance team
+      - supervisor
+      - manager
       required: false
     - id: 10
       name: follow_up_action
@@ -92,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''schedule_next_check''}'
-      - '{''label'': ''schedule_recurring_checks''}'
-      - '{''label'': ''other''}'
+      - schedule next check
+      - schedule recurring checks
+      - other
       required: false
     - id: 11
       name: additional_comments
@@ -109,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''maintenance_person''}'
-      - '{''label'': ''supervisor''}'
-      - '{''label'': ''manager''}'
+      - maintenance person
+      - supervisor
+      - manager
       required: false
     - id: 13
       name: submit_date

@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Closed''}'
+      - Active
+      - Inactive
+      - Pending
+      - Closed
       required: true
     - id: 6
       name: agreement_type
@@ -48,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: comments
@@ -134,13 +134,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Yes, I have checked and understand the agreement''}'
-      - '{''label'': ''I, as the authorized representative of , have checked and signed
-        this agreement on their behalf and they have read and signed this agreement''}'
-      - '{''label'': ''I, as the authorized representative of , have checked and signed
-        this agreement on their behalf and they have read and signed this agreement''}'
-      - '{''label'': ''I have checked and signed this agreement''}'
-      - '{''label'': ''None of the above''}'
+      - Yes, I have checked and understand the agreement
+      - I, as the authorized representative of , have checked and signed this agreement
+        on their behalf and they have read and signed this agreement
+      - I have checked and signed this agreement
+      - None of the above
       required: true
     - id: 19
       name: signatory_name

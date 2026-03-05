@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
       required: true
     - id: 5
       name: food_challenge
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''No challenge''}'
-      - '{''label'': ''Food insecurity''}'
-      - '{''label'': ''Lack of money''}'
-      - '{''label'': ''Limited access''}'
-      - '{''label'': ''Other''}'
+      - No challenge
+      - Food insecurity
+      - Lack of money
+      - Limited access
+      - Other
       required: true
     - id: 6
       name: food_coping
@@ -53,11 +53,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''No coping''}'
-      - '{''label'': ''Food bank''}'
-      - '{''label'': ''Government help''}'
-      - '{''label'': ''Other help''}'
-      - '{''label'': ''Self help''}'
+      - No coping
+      - Food bank
+      - Government help
+      - Other help
+      - Self help
       required: true
     - id: 7
       name: food_source
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Store''}'
-      - '{''label'': ''Supermarket''}'
-      - '{''label'': ''Farm''}'
-      - '{''label'': ''Other''}'
+      - Store
+      - Supermarket
+      - Farm
+      - Other
       required: true
     - id: 8
       name: household_location
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Urban''}'
-      - '{''label'': ''Rural''}'
-      - '{''label'': ''Both''}'
+      - Urban
+      - Rural
+      - Both
       required: true
     - id: 9
       name: household_income_source
@@ -86,12 +86,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Employment''}'
-      - '{''label'': ''Government aid''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Self employed''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Other''}'
+      - Employment
+      - Government aid
+      - Other
+      - Self employed
       required: true
     - id: 10
       name: household_income_frequency
@@ -99,12 +97,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Bi weekly''}'
-      - '{''label'': ''Fortnightly''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Other''}'
+      - Monthly
+      - Weekly
+      - Bi weekly
+      - Fortnightly
+      - Other
       required: true
     - id: 11
       name: survey_response
@@ -119,10 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Fixed income''}'
-      - '{''label'': ''Variable income''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Other''}'
+      - Fixed income
+      - Variable income
+      - Other
       required: true
     - id: 13
       name: survey_date

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Truck''}'
-      - '{''id'': 3, ''label'': ''Van''}'
+      - Car
+      - Truck
+      - Van
       required: false
     - id: 4
       name: vehicle_number
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''In Exchange''}'
-      - '{''id'': 3, ''label'': ''Allocated''}'
+      - Available
+      - In Exchange
+      - Allocated
       required: false
     - id: 6
       name: allocation_date
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: vehicle_returned_date

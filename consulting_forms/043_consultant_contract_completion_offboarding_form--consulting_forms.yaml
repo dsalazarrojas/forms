@@ -60,7 +60,7 @@ inputSchema:
       options:
       - Yes - Complete
       - Partially Complete - Pending Review
-      - false
+      - 'False'
       required: true
     - id: 9
       name: doc_transfer_confirmed
@@ -68,7 +68,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - No - In Progress
       required: true
     - id: 10
@@ -79,7 +79,7 @@ inputSchema:
       options:
       - Yes - Revoked
       - Yes - Returned to Sponsor
-      - false
+      - 'False'
       required: true
     - id: 11
       name: hardware_returned_checklist
@@ -104,7 +104,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
+      - 'True'
       - No - Final calculations pending
       required: true
     - id: 14
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - N/A
       required: true
     - id: 15
@@ -139,7 +139,7 @@ inputSchema:
       options:
       - Yes - High Priority
       - Yes - Conditional
-      - false
+      - 'False'
       required: true
     - id: 18
       name: primary_success_factor_desc

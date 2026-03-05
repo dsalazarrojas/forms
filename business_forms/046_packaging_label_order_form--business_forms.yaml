@@ -9,13 +9,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''2x3'', ''value'': ''2x3''}'
-      - '{''label'': ''2x4'', ''value'': ''2x4''}'
-      - '{''label'': ''3x3'', ''value'': ''3x3''}'
-      - '{''label'': ''3x4'', ''value'': ''3x4''}'
-      - '{''label'': ''3x6'', ''value'': ''3x6''}'
-      - '{''label'': ''4x6'', ''value'': ''4x6''}'
-      - '{''label'': ''6x4'', ''value'': ''6x4''}'
+      - 2x3
+      - 2x4
+      - 3x3
+      - 3x4
+      - 3x6
+      - 4x6
+      - 6x4
       required: true
     - id: 2
       name: material
@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paper Label'', ''value'': ''Paper Label''}'
-      - '{''label'': ''Plastic Label'', ''value'': ''Plastic Label''}'
-      - '{''label'': ''Sticker Label'', ''value'': ''Sticker Label''}'
+      - Paper Label
+      - Plastic Label
+      - Sticker Label
       required: true
     - id: 3
       name: quantity
@@ -40,12 +40,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 1.5, ''value'': 1.5}'
-      - '{''label'': 2.2, ''value'': 2.2}'
-      - '{''label'': 2.5, ''value'': 2.2}'
-      - '{''label'': 3.5, ''value'': 3.5}'
-      - '{''label'': 4.5, ''value'': 4.5}'
-      - '{''label'': 5.5, ''value'': 5.5}'
+      - '1.5'
+      - '2.2'
+      - '2.5'
+      - '3.5'
+      - '4.5'
+      - '5.5'
       required: true
     - id: 5
       name: size_2
@@ -53,13 +53,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''2x3'', ''value'': ''2x3''}'
-      - '{''label'': ''2x4'', ''value'': ''2x4''}'
-      - '{''label'': ''3x3'', ''value'': ''3x3''}'
-      - '{''label'': ''3x4'', ''value'': ''3x4''}'
-      - '{''label'': ''3x6'', ''value'': ''3x6''}'
-      - '{''label'': ''4x6'', ''value'': ''4x6''}'
-      - '{''label'': ''6x4'', ''value'': ''6x4''}'
+      - 2x3
+      - 2x4
+      - 3x3
+      - 3x4
+      - 3x6
+      - 4x6
+      - 6x4
       required: true
     - id: 6
       name: material_1
@@ -67,10 +67,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''100-500'', ''value'': ''100-500''}'
-      - '{''label'': ''501-1000'', ''value'': ''501-1000''}'
-      - '{''label'': ''1001-2000'', ''value'': ''1001-2000''}'
-      - '{''label'': ''2001-5000'', ''value'': ''2001-5000''}'
+      - 100-500
+      - 501-1000
+      - 1001-2000
+      - 2001-5000
       required: true
     - id: 7
       name: quantity_2
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''New'', ''value'': ''New''}'
-      - '{''label'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''label'': ''Completed'', ''value'': ''Completed''}'
+      - New
+      - In Progress
+      - Completed
       required: true
     - id: 21
       name: order_status_2
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Open'', ''value'': ''Open''}'
-      - '{''label'': ''Closed'', ''value'': ''Closed''}'
-      - '{''label'': ''On Hold'', ''value'': ''On Hold''}'
+      - Open
+      - Closed
+      - On Hold
       required: true
     - id: 22
       name: order_notes

@@ -15,14 +15,14 @@ inputSchema:
     title: Investment Statement Communication Consent
     pages:
     - id: 1
-      name: investment_statement_communication_consent_page_1
+      name: client_information
       label: Client Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: investment_statement_communication_consent_page_2
+      name: client_signature
       label: Client Signature
       hint: null
       type: select_one
@@ -31,14 +31,14 @@ inputSchema:
       - Signature
       required: true
     - id: 3
-      name: investment_statement_communication_consent_page_3
+      name: advisor_information
       label: Advisor Information
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: investment_statement_communication_consent_page_4
+      name: communication_preferences
       label: Communication Preferences
       hint: null
       type: select_multiple
@@ -48,7 +48,7 @@ inputSchema:
       - SMS
       required: true
     - id: 5
-      name: investment_statement_communication_consent_page_5
+      name: frequency_of_contact
       label: Frequency of Contact
       hint: null
       type: select_one
@@ -58,142 +58,16 @@ inputSchema:
       - Monthly
       required: false
     - id: 6
-      name: investment_statement_communication_communication_preferences_5
-      label: Frequency of Contact
+      name: time_of_day
+      label: Time of Day
       hint: null
       type: time
       options: []
       required: false
     - id: 7
-      name: investment_statement_communication_communication_preferences_2
-      label: Time of Day
+      name: note
+      label: Note
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: investment_statement_communication_communication_preferences_1
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: investment_statement_communication_communication_preferences_4
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: investment_statement_communication_communication_preferences_3
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: investment_statement_communication_communication_preferences_6
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: investment_statement_communication_communication_preferences_7
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 13
-      name: investment_statement_communication_communication_preferences_8
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: investment_statement_communication_communication_preferences_9
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: investment_statement_communication_communication_preferences_10
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: investment_statement_communication_communication_preferences_11
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: investment_statement_communication_communication_preferences_12
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: investment_statement_communication_communication_preferences_13
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 19
-      name: investment_statement_communication_communication_preferences_14
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: investment_statement_communication_communication_preferences_15
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: investment_statement_communication_communication_preferences_16
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: investment_statement_communication_communication_preferences_17
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: investment_statement_communication_communication_preferences_18
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: investment_statement_communication_communication_preferences_19
-      label: Time of Day
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: investment_statement_communication_communication_preferences_20
-      label: Time of Day
-      hint: null
-      type: time
+      type: note
       options: []
       required: false

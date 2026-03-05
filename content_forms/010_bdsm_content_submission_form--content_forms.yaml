@@ -1,154 +1,143 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: BDSM Content Submission Form
     pages:
-      - id: 1
-        name: creator_name
-        label: Creator Name or Pen Name
-        hint: How should you be credited?
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: creator_email
-        label: Email Address
-        hint: For submission confirmation and communication
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: creator_bio
-        label: Creator Bio or Background
-        hint: Tell us about yourself
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: content_title
-        label: Content Title
-        hint: What is the title of your submission?
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: content_type
-        label: Content Type
-        hint: What type of content are you submitting?
-        type: select_one
-        options:
-          - Written Story
-          - Poetry
-          - Educational Article
-          - Guide or Tutorial
-          - Artwork or Photography
-          - Video
-          - Podcast
-          - Other
-        required: true
-      - id: 6
-        name: content_description
-        label: Content Description
-        hint: Provide a brief description of your content
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: content_length
-        label: Content Length
-        hint: For written content - word count or duration
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: themes_covered
-        label: Themes and Topics Covered
-        hint: Describe the main topics or themes
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: audience_level
-        label: Content Audience Level
-        hint: Who is this content intended for?
-        type: select_one
-        options:
-          - Beginners
-          - Intermediate
-          - Advanced
-          - All Levels
-        required: false
-      - id: 10
-        name: content_rating
-        label: Content Rating or Intensity Level
-        hint: Describe the intensity or explicit content level
-        type: select_one
-        options:
-          - Mild
-          - Moderate
-          - Explicit
-          - Extreme
-        required: true
-      - id: 11
-        name: consent_and_safety
-        label: Does content emphasize consent and safety?
-        hint: null
-        type: select_one
-        options:
-          - Yes, extensively
-          - Yes, somewhat
-          - No
-        required: true
-      - id: 12
-        name: previous_publication
-        label: Has this been previously published?
-        hint: null
-        type: select_one
-        options:
-          - No, this is original
-          - Yes, but with permission to republish
-          - Yes, previously published elsewhere
-        required: true
-      - id: 13
-        name: submission_date
-        label: Submission Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 14
-        name: rights_grant
-        label: I grant rights for this content to be published
-        hint: By submitting, you agree to publication terms
-        type: select_one
-        options:
-          - Yes, I agree
-          - No, I do not agree
-        required: true
-      - id: 15
-        name: copyright_claim
-        label: I have the right to submit this content
-        hint: Confirm you own or have rights to this work
-        type: select_one
-        options:
-          - Yes, I confirm
-          - No, I do not confirm
-        required: true
-      - id: 16
-        name: additional_notes
-        label: Additional Notes or Special Requests
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: creator_name
+      label: Creator Name or Pen Name
+      hint: How should you be credited?
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: creator_email
+      label: Email Address
+      hint: For submission confirmation and communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: creator_bio
+      label: Creator Bio or Background
+      hint: Tell us about yourself
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: content_title
+      label: Content Title
+      hint: What is the title of your submission?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: content_type
+      label: Content Type
+      hint: What type of content are you submitting?
+      type: select_one
+      options:
+      - Written Story
+      - Poetry
+      - Educational Article
+      - Guide or Tutorial
+      - Artwork or Photography
+      - Video
+      - Podcast
+      - Other
+      required: true
+    - id: 6
+      name: content_description
+      label: Content Description
+      hint: Provide a brief description of your content
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: content_length
+      label: Content Length
+      hint: For written content - word count or duration
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: themes_covered
+      label: Themes and Topics Covered
+      hint: Describe the main topics or themes
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: audience_level
+      label: Content Audience Level
+      hint: Who is this content intended for?
+      type: select_one
+      options:
+      - Beginners
+      - Intermediate
+      - Advanced
+      - All Levels
+      required: false
+    - id: 10
+      name: content_rating
+      label: Content Rating or Intensity Level
+      hint: Describe the intensity or explicit content level
+      type: select_one
+      options:
+      - Mild
+      - Moderate
+      - Explicit
+      - Extreme
+      required: true
+    - id: 11
+      name: consent_and_safety
+      label: Does content emphasize consent and safety?
+      hint: null
+      type: select_one
+      options:
+      - Yes, extensively
+      - Yes, somewhat
+      - 'False'
+      required: true
+    - id: 12
+      name: previous_publication
+      label: Has this been previously published?
+      hint: null
+      type: select_one
+      options:
+      - No, this is original
+      - Yes, but with permission to republish
+      - Yes, previously published elsewhere
+      required: true
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: rights_grant
+      label: I grant rights for this content to be published
+      hint: By submitting, you agree to publication terms
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 15
+      name: copyright_claim
+      label: I have the right to submit this content
+      hint: Confirm you own or have rights to this work
+      type: select_one
+      options:
+      - Yes, I confirm
+      - No, I do not confirm
+      required: true
+    - id: 16
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

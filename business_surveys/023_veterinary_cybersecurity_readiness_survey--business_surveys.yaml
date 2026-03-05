@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: true
     - id: 5
       name: security_concerns
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Internet''}'
-      - '{''id'': 3, ''label'': ''Cloud''}'
-      - '{''id'': 4, ''label'': ''Network''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Email
+      - Internet
+      - Cloud
+      - Network
+      - Other
       required: true
     - id: 6
       name: email
@@ -66,11 +66,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Firewalls''}'
-      - '{''id'': 2, ''label'': ''Antivirus''}'
-      - '{''id'': 3, ''label'': ''Encryption''}'
-      - '{''id'': 4, ''label'': ''Intrusion Detection''}'
-      - '{''id'': 5, ''label'': ''Backup''}'
+      - Firewalls
+      - Antivirus
+      - Encryption
+      - Intrusion Detection
+      - Backup
       required: true
     - id: 9
       name: comments

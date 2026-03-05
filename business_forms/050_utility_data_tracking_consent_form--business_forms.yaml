@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Electricity''}'
-      - '{''label'': ''Gas''}'
-      - '{''label'': ''Water''}'
-      - '{''label'': ''Other''}'
+      - Electricity
+      - Gas
+      - Water
+      - Other
       required: false
     - id: 6
       name: collection_frequency
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 7
       name: collection_start_date

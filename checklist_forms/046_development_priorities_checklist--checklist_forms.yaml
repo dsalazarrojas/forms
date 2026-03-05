@@ -5,23 +5,23 @@ inputSchema:
     pages:
     - id: 1
       name: project_scope
-      label: Project Scope
+      label: What is the project scope?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
       name: project_team
-      label: Project Team
+      label: Who is on the project team?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: project_status
-      label: Project Status
+      label: What is the project status?
       hint: null
       type: select_one
       options:
@@ -29,182 +29,104 @@ inputSchema:
       - Inactive
       required: false
     - id: 4
-      name: development_approach
-      label: Development Approach
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: technology_stack
-      label: Technology Stack
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
       name: project_deadline
-      label: Project Deadline
+      label: What is the project deadline?
       hint: null
       type: date
       options: []
       required: false
-    - id: 7
-      name: project_lead
-      label: Project Lead
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: priority_1
-      label: Priority 1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: priority_2
-      label: Priority 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: priority_3
-      label: Priority 3
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: business_impact
-      label: Business Impact
+    - id: 5
+      name: development_approach
+      label: How would you describe the development approach?
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 6
+      name: project_lead
+      label: Who is the project lead?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: priority_1
+      label: What is the priority level (highest)?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: business_impact
+      label: What is the business impact?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
       name: risk_level
-      label: Risk Level
+      label: What is the risk level?
       hint: null
       type: select_one
       options:
       - High
       - Low
       required: false
-    - id: 13
+    - id: 10
       name: complexity
-      label: Complexity
+      label: How complex is the project?
       hint: null
       type: text
       options: []
+      required: false
+    - id: 11
+      name: resource_allocation
+      label: How would you allocate resources?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: technical_debt
+      label: Is there technical debt?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: priority_2
+      label: What is the priority level (second highest)?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
       required: false
     - id: 14
-      name: resource_allocation
-      label: Resource Allocation
+      name: priority_3
+      label: What is the priority level (third highest)?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
       required: false
     - id: 15
-      name: technical_debt
-      label: Technical Debt
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
       name: priority
-      label: Priority
+      label: What is your current priority?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: project_scope
-      label: Project Scope
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: project_team
-      label: Project Team
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: project_status
-      label: Project Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 20
-      name: development_approach
-      label: Development Approach
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: technology_stack
-      label: Technology Stack
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: project_deadline
-      label: Project Deadline
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: project_lead
-      label: Project Lead
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: priority_1
-      label: Priority 1
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: priority_2
-      label: Priority 2
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Medium
+      - Low
       required: false

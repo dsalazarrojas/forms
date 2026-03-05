@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''name'': ''flat'', ''label'': ''Flat''}'
-      - '{''id'': 12, ''name'': ''hierarchical'', ''label'': ''Hierarchical''}'
+      - Flat
+      - Hierarchical
       required: false
     - id: 6
       name: reporting_line_description
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13, ''name'': ''librarian'', ''label'': ''Librarian''}'
-      - '{''id'': 14, ''name'': ''technical'', ''label'': ''Technical''}'
-      - '{''id'': 15, ''name'': ''support_staff'', ''label'': ''Support Staff''}'
+      - Librarian
+      - Technical
+      - Support Staff
       required: false
     - id: 8
       name: staffing_level

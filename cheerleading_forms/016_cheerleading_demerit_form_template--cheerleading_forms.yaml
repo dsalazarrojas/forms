@@ -105,8 +105,8 @@ inputSchema:
       hint: Does this cheerleader have previous violations
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: previous_violation_details
@@ -195,7 +195,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I confirm
-      - false
+      - 'False'
       required: true
     - id: 25
       name: cheerleader_signature
@@ -204,7 +204,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I acknowledge
-      - false
+      - 'False'
       - Refused to sign
       required: true
     - id: 26
@@ -214,6 +214,6 @@ inputSchema:
       type: select_one
       options:
       - Yes, I acknowledge
-      - false
+      - 'False'
       - Not contacted
       required: false

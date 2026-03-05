@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,262 +5,114 @@ inputSchema:
     pages:
     - id: 1
       name: conference_details
-      label: Conference Details
+      label: Conference Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: schedule
-      label: Schedule
+      label: Session Schedule
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Morning Session'', ''value'': ''Morning Session''}'
-      - '{''id'': 2, ''name'': ''Afternoon Session'', ''value'': ''Afternoon Session''}'
-      - '{''id'': 3, ''name'': ''Evening Session'', ''value'': ''Evening Session''}'
+      - Morning Session
+      - Afternoon Session
+      - Evening Session
       required: false
     - id: 3
-      name: workshop
-      label: Workshops
+      name: workshop_schedule
+      label: Workshop Schedule
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Workshop 1'', ''value'': ''Workshop 1''}'
-      - '{''id'': 2, ''name'': ''Workshop 2'', ''value'': ''Workshop 2''}'
-      - '{''id'': 3, ''name'': ''Workshop 3'', ''value'': ''Workshop 3''}'
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
       required: false
     - id: 4
-      name: sessions
-      label: Sessions
+      name: breakout_sessions_schedule
+      label: Breakout Sessions Schedule
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
+      - Breakout Session 1
+      - Breakout Session 2
+      - Breakout Session 3
       required: false
     - id: 5
-      name: breakout_sessions
-      label: Breakout Sessions
+      name: preferred_session_time
+      label: Preferred Session Time
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Breakout Session 1'', ''value'': ''Breakout Session
-        1''}'
-      - '{''id'': 2, ''name'': ''Breakout Session 2'', ''value'': ''Breakout Session
-        2''}'
-      - '{''id'': 3, ''name'': ''Breakout Session 3'', ''value'': ''Breakout Session
-        3''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false
     - id: 6
-      name: workshops
-      label: Workshops
+      name: preferred_workshop
+      label: Preferred Workshop
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Workshop 1'', ''value'': ''Workshop 1''}'
-      - '{''id'': 2, ''name'': ''Workshop 2'', ''value'': ''Workshop 2''}'
-      - '{''id'': 3, ''name'': ''Workshop 3'', ''value'': ''Workshop 3''}'
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
       required: false
     - id: 7
-      name: sessions
-      label: Sessions
+      name: preferred_breakout_session
+      label: Preferred Breakout Session
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
+      - Breakout Session 1
+      - Breakout Session 2
+      - Breakout Session 3
       required: false
     - id: 8
-      name: breakout_sessions
-      label: Breakout Sessions
+      name: additional_information
+      label: Additional Information
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Breakout Session 1'', ''value'': ''Breakout Session
-        1''}'
-      - '{''id'': 2, ''name'': ''Breakout Session 2'', ''value'': ''Breakout Session
-        2''}'
-      - '{''id'': 3, ''name'': ''Breakout Session 3'', ''value'': ''Breakout Session
-        3''}'
+      type: text
+      options: []
       required: false
     - id: 9
-      name: sessions
+      name: session_preferences
       label: Sessions
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
+      - Session 1
+      - Session 2
+      - Session 3
       required: false
     - id: 10
-      name: breakout_sessions
+      name: breakout_session_preferences
       label: Breakout Sessions
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Breakout Session 1'', ''value'': ''Breakout Session
-        1''}'
-      - '{''id'': 2, ''name'': ''Breakout Session 2'', ''value'': ''Breakout Session
-        2''}'
-      - '{''id'': 3, ''name'': ''Breakout Session 3'', ''value'': ''Breakout Session
-        3''}'
+      - Breakout Session 1
+      - Breakout Session 2
+      - Breakout Session 3
       required: false
     - id: 11
-      name: workshops
+      name: workshop_preferences
       label: Workshops
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Workshop 1'', ''value'': ''Workshop 1''}'
-      - '{''id'': 2, ''name'': ''Workshop 2'', ''value'': ''Workshop 2''}'
-      - '{''id'': 3, ''name'': ''Workshop 3'', ''value'': ''Workshop 3''}'
+      - Workshop 1
+      - Workshop 2
+      - Workshop 3
       required: false
     - id: 12
-      name: sessions
-      label: Sessions
+      name: preferred_language
+      label: Preferred Language
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
-      required: false
-    - id: 13
-      name: breakout_sessions
-      label: Breakout Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Breakout Session 1'', ''value'': ''Breakout Session
-        1''}'
-      - '{''id'': 2, ''name'': ''Breakout Session 2'', ''value'': ''Breakout Session
-        2''}'
-      - '{''id'': 3, ''name'': ''Breakout Session 3'', ''value'': ''Breakout Session
-        3''}'
-      required: false
-    - id: 14
-      name: sessions
-      label: Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
-      required: false
-    - id: 15
-      name: breakout_sessions
-      label: Breakout Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Breakout Session 1'', ''value'': ''Breakout Session
-        1''}'
-      - '{''id'': 2, ''name'': ''Breakout Session 2'', ''value'': ''Breakout Session
-        2''}'
-      - '{''id'': 3, ''name'': ''Breakout Session 3'', ''value'': ''Breakout Session
-        3''}'
-      required: false
-    - id: 16
-      name: workshops
-      label: Workshops
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Workshop 1'', ''value'': ''Workshop 1''}'
-      - '{''id'': 2, ''name'': ''Workshop 2'', ''value'': ''Workshop 2''}'
-      - '{''id'': 3, ''name'': ''Workshop 3'', ''value'': ''Workshop 3''}'
-      required: false
-    - id: 17
-      name: sessions
-      label: Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
-      required: false
-    - id: 18
-      name: breakout_sessions
-      label: Breakout Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Breakout Session 1'', ''value'': ''Breakout Session
-        1''}'
-      - '{''id'': 2, ''name'': ''Breakout Session 2'', ''value'': ''Breakout Session
-        2''}'
-      - '{''id'': 3, ''name'': ''Breakout Session 3'', ''value'': ''Breakout Session
-        3''}'
-      required: false
-    - id: 19
-      name: workshops
-      label: Workshops
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Workshop 1'', ''value'': ''Workshop 1''}'
-      - '{''id'': 2, ''name'': ''Workshop 2'', ''value'': ''Workshop 2''}'
-      - '{''id'': 3, ''name'': ''Workshop 3'', ''value'': ''Workshop 3''}'
-      required: false
-    - id: 20
-      name: sessions
-      label: Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
-      required: false
-    - id: 21
-      name: breakout_sessions
-      label: Breakout Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Breakout Session 1'', ''value'': ''Breakout Session
-        1''}'
-      - '{''id'': 2, ''name'': ''Breakout Session 2'', ''value'': ''Breakout Session
-        2''}'
-      - '{''id'': 3, ''name'': ''Breakout Session 3'', ''value'': ''Breakout Session
-        3''}'
-      required: false
-    - id: 22
-      name: sessions
-      label: Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
-      required: false
-    - id: 23
-      name: breakout_sessions
-      label: Breakout Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Breakout Session 1'', ''value'': ''Breakout Session
-        1''}'
-      - '{''id'': 2, ''name'': ''Breakout Session 2'', ''value'': ''Breakout Session
-        2''}'
-      - '{''id'': 3, ''name'': ''Breakout Session 3'', ''value'': ''Breakout Session
-        3''}'
-      required: false
-    - id: 24
-      name: sessions
-      label: Sessions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Session 1'', ''value'': ''Session 1''}'
-      - '{''id'': 2, ''name'': ''Session 2'', ''value'': ''Session 2''}'
-      - '{''id'': 3, ''name'': ''Session 3'', ''value'': ''Session 3''}'
+      - English
+      - Spanish
       required: false

@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''ASIN'', ''value'': ''asin''}'
-      - '{''label'': ''ASIN-1'', ''value'': ''asin1''}'
-      - '{''label'': ''ASIN-2'', ''value'': ''asin2''}'
-      - '{''label'': ''ASIN-3'', ''value'': ''asin3''}'
+      - ASIN
+      - ASIN-1
+      - ASIN-2
+      - ASIN-3
       required: false
     - id: 3
       name: result_asin
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ACO-1'', ''value'': ''acos1''}'
-      - '{''label'': ''ACO-2'', ''value'': ''acos2''}'
+      - ACO-1
+      - ACO-2
       required: false
     - id: 6
       name: result_aco
@@ -53,7 +53,7 @@ inputSchema:
       required: false
     - id: 7
       name: result_arcos
-      label: Result ACOs
+      label: Result Arcos
       hint: null
       type: number
       options: []
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ACO-1'', ''value'': ''acos1''}'
-      - '{''label'': ''ACO-2'', ''value'': ''acos2''}'
+      - ACO-1
+      - ACO-2
       required: false
     - id: 9
       name: result_acos1
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ACO-1'', ''value'': ''acos1''}'
-      - '{''label'': ''ACO-2'', ''value'': ''acos2''}'
+      - ACO-1
+      - ACO-2
       required: false
     - id: 11
       name: result_acos2
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ACO-1'', ''value'': ''acos1''}'
-      - '{''label'': ''ACO-2'', ''value'': ''acos2''}'
+      - ACO-1
+      - ACO-2
       required: false
     - id: 13
       name: result_acos3
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ACO-1'', ''value'': ''acos1''}'
-      - '{''label'': ''ACO-2'', ''value'': ''acos2''}'
+      - ACO-1
+      - ACO-2
       required: false
     - id: 15
       name: result_acos4
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ACO-1'', ''value'': ''acos1''}'
-      - '{''label'': ''ACO-2'', ''value'': ''acos2''}'
+      - ACO-1
+      - ACO-2
       required: false
     - id: 17
       name: result_acos5
@@ -140,21 +140,21 @@ inputSchema:
       required: false
     - id: 18
       name: result_acos
-      label: Result ACOs
+      label: Result ACOs (3)
       hint: null
       type: number
       options: []
       required: false
     - id: 19
       name: result_arcsine
-      label: Result ASIN
+      label: Result Arcsine
       hint: null
       type: number
       options: []
       required: false
     - id: 20
-      name: result_arcos
-      label: Result ACOs
+      name: result_arcos_2
+      label: Result Arcos 2
       hint: null
       type: number
       options: []
@@ -165,8 +165,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''ACO-1'', ''value'': ''acos1''}'
-      - '{''label'': ''ACO-2'', ''value'': ''acos2''}'
+      - ACO-1
+      - ACO-2
       required: false
     - id: 22
       name: result_acos6
@@ -177,14 +177,14 @@ inputSchema:
       required: false
     - id: 23
       name: result_acos7
-      label: Result ACOs
+      label: Result Acos7
       hint: null
       type: number
       options: []
       required: false
     - id: 24
       name: result_arcsine_asin
-      label: Result ASIN
+      label: Result Arcsine Asin
       hint: null
       type: number
       options: []

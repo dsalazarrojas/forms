@@ -83,7 +83,7 @@ inputSchema:
       options:
       - Yes regularly
       - Yes occasionally
-      - false
+      - 'False'
       - Not sure
       required: true
     - id: 10
@@ -240,8 +240,8 @@ inputSchema:
       hint: Recent symptoms
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 23
       name: recent_exposure
@@ -249,8 +249,8 @@ inputSchema:
       hint: Recent exposure
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Not sure
       required: true
     - id: 24

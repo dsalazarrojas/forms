@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -56,7 +45,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I am over 18
-      - No
+      - 'False'
       required: true
     - id: 7
       name: statement_header
@@ -67,28 +56,28 @@ inputSchema:
       required: false
     - id: 8
       name: fact_1
-      label: "1. Being duly sworn, deposes and says:"
+      label: '1. Being duly sworn, deposes and says:'
       hint: First fact.
       type: text
       options: []
       required: true
     - id: 9
       name: fact_2
-      label: 2.
+      label: 2.0
       hint: Second fact.
       type: text
       options: []
       required: false
     - id: 10
       name: fact_3
-      label: 3.
+      label: 3.0
       hint: Third fact.
       type: text
       options: []
       required: false
     - id: 11
       name: fact_4
-      label: 4.
+      label: 4.0
       hint: Fourth fact.
       type: text
       options: []
@@ -114,6 +103,7 @@ inputSchema:
       type: select_one
       options:
       - Signed
+      - Other
       required: true
     - id: 15
       name: date_signed

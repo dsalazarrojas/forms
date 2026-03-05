@@ -4,50 +4,29 @@ inputSchema:
     title: Gym Reopening Survey
     pages:
     - id: 1
-      name: gym_reopening_survey_form
-      label: gym_reopening_survey_form
+      name: user_info
+      label: 1. What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: name
+      name: last_week_visit
+      label: 2. Why did you not visit the gym last week?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: what_do_you_miss_about_the_gym
-      label: what_do_you_miss_about_the_gym
+      name: feel_safe_again
+      label: 3. What is the earliest date you would feel safe visiting the gym again?
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 4
-      name: why_didnt_you_visit_the_gym_last_week
-      label: why_didnt_you_visit_the_gym_last_week
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: what_will_it_take_for_you_to_feel_safe_to_visit_the_gym_again
-      label: what_will_it_take_for_you_to_feel_safe_to_visit_the_gym_again
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: what_safety_measures_do_you_expect_the_gym_to_have_in_place
-      label: what_safety_measures_do_you_expect_the_gym_to_have_in_place
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: what_safety_measures_do_you_expect_the_gym_to_have_in_place_options
-      label: what_safety_measures_do_you_expect_the_gym_to_have_in_place_options
+      name: safety_measures
+      label: 4. What safety measures do you expect the gym to have in place?
       hint: null
       type: select_multiple
       options:
@@ -56,179 +35,110 @@ inputSchema:
       - Mask Required
       - Social Distancing
       - Reduced Capacity
-      - Other
-      required: false
-    - id: 8
-      name: what_do_you_expect_from_us_when_you_visit_the_gym_again
-      label: what_do_you_expect_from_us_when_you_visit_the_gym_again
+      required: true
+    - id: 5
+      name: visit_other_places
+      label: 5. How often do you visit other places like restaurants?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: visit_expectation
+      label: 6. What do you expect from us when you visit the gym again?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 7
+      name: communicate_with_us
+      label: 7. How do you prefer to communicate with us?
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Message
+      required: true
+    - id: 8
+      name: other_comments
+      label: 8. Do you have any other comments or concerns?
+      hint: null
+      type: note
+      options: []
+      required: true
     - id: 9
-      name: are_you_planning_to_visit_the_gym_this_week
-      label: are_you_planning_to_visit_the_gym_this_week
+      name: visit_frequency
+      label: 9. How often do you plan to visit the gym this week?
       hint: null
       type: select_one
       options:
       - This week
       - Next week
-      - Next Month
-      - Never
-      required: false
+      - Next month
+      required: true
     - id: 10
-      name: do_you_have_any_other_comments
-      label: do_you_have_any_other_comments
+      name: notification_preference
+      label: 10. How do you prefer to be notified?
       hint: null
-      type: note
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: true
+    - id: 11
+      name: friends_family_member
+      label: 11. Do you have any friends or family members that visit the gym?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: gym_in_your_area
+      label: 12. Are there any other gyms in your area?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: other_gyms
+      label: Other Gyms
+      hint: null
+      type: text
       options: []
       required: false
-    - id: 11
-      name: how_do_you_prefer_to_communicate_with_us
-      label: how_do_you_prefer_to_communicate_with_us
-      hint: null
-      type: select_one
-      options:
-      - Email
-      - Phone
-      - Message
-      - In-person
-      required: false
-    - id: 12
-      name: do_you_prefer_to_be_notified_by
-      label: do_you_prefer_to_be_notified_by
-      hint: null
-      type: select_one
-      options:
-      - Email
-      - Phone
-      required: false
-    - id: 13
-      name: are_there_any_other_gyms_in_your_area
-      label: are_there_any_other_gyms_in_your_area
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
     - id: 14
-      name: do_you_have_friends_and_family_member
-      label: do_you_have_friends_and_family_member
+      name: visit_gym_again
+      label: 14. Are you planning to visit the gym again?
       hint: null
       type: select_one
       options:
-      - 'True'
-      - 'False'
+      - This week
+      - Next week
+      - Next month
       required: false
     - id: 15
-      name: how_ofen_do_you_visit_other_places_like_restaurants
-      label: how_ofen_do_you_visit_other_places_like_restaurants
+      name: rating
+      label: 15. How would you rate your last visit?
       hint: null
       type: number
       options: []
       required: false
     - id: 16
-      name: how_many_hours
-      label: how_many_hours
+      name: other_comments_2
+      label: 16. Do you have any other comments?
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 17
-      name: what_time
-      label: what_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: what_day
-      label: what_day
-      hint: null
-      type: select_one
-      options:
-      - Monday
-      - Tuesday
-      - Wednesday
-      - Thursday
-      - Friday
-      - Saturday
-      - Sunday
-      - Other
-      required: false
-    - id: 19
-      name: what_month
-      label: what_month
-      hint: null
-      type: select_one
-      options:
-      - January
-      - February
-      - March
-      - April
-      - May
-      - June
-      - July
-      - August
-      - September
-      - October
-      - November
-      - December
-      required: false
-    - id: 20
-      name: how_do_you_rate_your_last_visit
-      label: how_do_you_rate_your_last_visit
+      name: rating_2
+      label: 17. How satisfied are you with our service?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 21
-      name: why_didnt_you_visit_the_gym_last_week
-      label: why_didnt_you_visit_the_gym_last_week
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: what_will_prophets_expect_from_us
-      label: what_will_prophets_expect_from_us
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: what_do_you_expect_from_us_when_you_visit_the_gym_again
-      label: what_do_you_expect_from_us_when_you_visit_the_gym_again
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: are_there_any_other_gyms_in_your_area
-      label: are_there_any_other_gyms_in_your_area
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 25
-      name: do_you_prefer_to_communicate_with_us
-      label: do_you_prefer_to_communicate_with_us
-      hint: null
-      type: select_one
-      options:
-      - Email
-      - Phone
-      - Message
-      required: false
-    - id: 26
-      name: do_you_have_any_friends_or_family
-      label: do_you_have_any_friends_or_family
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
       required: false

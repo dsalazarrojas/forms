@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Mr'', ''value'': ''Mr''}'
-      - '{''id'': 2, ''label'': ''Mrs'', ''value'': ''Mrs''}'
-      - '{''id'': 3, ''label'': ''Ms'', ''value'': ''Ms''}'
-      - '{''id'': 4, ''label'': ''Dr'', ''value'': ''Dr''}'
-      - '{''id'': 5, ''label'': ''Prof'', ''value'': ''Prof''}'
-      - '{''id'': 6, ''label'': ''Other'', ''value'': ''Other''}'
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
+      - Prof
+      - Other
       required: true
     - id: 3
       name: contact_number
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Dance Class'', ''value'': ''Dance Class''}'
-      - '{''id'': 2, ''label'': ''Rehearsal'', ''value'': ''Rehearsal''}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': ''Both''}'
+      - Dance Class
+      - Rehearsal
+      - Both
       required: true
     - id: 6
       name: recording_frequency
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: date_of_birth
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Parent'', ''value'': ''Parent''}'
-      - '{''id'': 2, ''label'': ''Guardian'', ''value'': ''Guardian''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Parent
+      - Guardian
+      - Other
       required: true
     - id: 19
       name: emergency_contact_permission
@@ -149,8 +149,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: emergency_contact_permission_type
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Contact Info'', ''value'': ''Contact Info''}'
-      - '{''id'': 2, ''label'': ''Medical Info'', ''value'': ''Medical Info''}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': ''Both''}'
+      - Contact Info
+      - Medical Info
+      - Both
       required: true
     - id: 21
       name: emergency_contact_permission_date
@@ -196,6 +196,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submit'', ''value'': ''Submit''}'
+      - Submit
       - Other
       required: true

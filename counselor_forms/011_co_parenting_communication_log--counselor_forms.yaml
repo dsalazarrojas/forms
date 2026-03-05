@@ -1,200 +1,189 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Co Parenting Communication Log
     pages:
-      - id: 1
-        name: parent_name
-        label: Parent Name
-        hint: Name of the parent logging the communication
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: other_parent_name
-        label: Other Parent Name
-        hint: Name of the other co-parent
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: child_name
-        label: Child Name
-        hint: Name of the child or children involved
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: communication_date
-        label: Date of Communication
-        hint: When did this communication occur
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: communication_time
-        label: Time of Communication
-        hint: What time did this occur
-        type: time
-        options: []
-        required: false
-      - id: 6
-        name: communication_method
-        label: Communication Method
-        hint: How did you communicate
-        type: select_one
-        options:
-          - Phone Call
-          - Text Message
-          - Email
-          - In Person
-          - Video Call
-          - Through App
-          - Through Third Party
-        required: true
-      - id: 7
-        name: initiated_by
-        label: Initiated By
-        hint: Who started this communication
-        type: select_one
-        options:
-          - Me
-          - Other Parent
-          - Child
-          - School or Provider
-          - Other
-        required: true
-      - id: 8
-        name: topic_category
-        label: Topic Category
-        hint: What was the main topic
-        type: select_one
-        options:
-          - Schedule or Visitation
-          - Health or Medical
-          - Education or School
-          - Extracurricular Activities
-          - Discipline or Behavior
-          - Financial or Child Support
-          - General Update
-          - Emergency
-          - Other
-        required: true
-      - id: 9
-        name: communication_summary
-        label: Communication Summary
-        hint: Briefly describe what was discussed
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: decisions_made
-        label: Decisions or Agreements Made
-        hint: What was decided or agreed upon
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: follow_up_needed
-        label: Is Follow-Up Needed
-        hint: Does this require further discussion
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 12
-        name: follow_up_date
-        label: Follow-Up Date
-        hint: When is follow-up needed
-        type: date
-        options: []
-        required: false
-      - id: 13
-        name: follow_up_details
-        label: Follow-Up Details
-        hint: What needs to be addressed
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: tone_of_communication
-        label: Tone of Communication
-        hint: How would you describe the interaction
-        type: select_one
-        options:
-          - Cooperative and Respectful
-          - Neutral
-          - Tense
-          - Hostile
-          - One-Sided
-        required: true
-      - id: 15
-        name: concerns_raised
-        label: Were Any Concerns Raised
-        hint: Did either party express concerns
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 16
-        name: concerns_description
-        label: Describe Concerns
-        hint: What concerns were discussed
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: action_items
-        label: Action Items
-        hint: What actions need to be taken
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: action_responsibility
-        label: Who Is Responsible for Actions
-        hint: Who will complete the action items
-        type: select_one
-        options:
-          - Me
-          - Other Parent
-          - Both Parents
-          - Third Party
-        required: false
-      - id: 19
-        name: mediator_notified
-        label: Was Mediator Notified
-        hint: Did you inform the mediator about this
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: false
-      - id: 20
-        name: counselor_name
-        label: Counselor or Mediator Name
-        hint: Name of your counselor or mediator
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: additional_notes
-        label: Additional Notes
-        hint: Any other relevant information
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: Name of the parent logging the communication
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: other_parent_name
+      label: Other Parent Name
+      hint: Name of the other co-parent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_name
+      label: Child Name
+      hint: Name of the child or children involved
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: communication_date
+      label: Date of Communication
+      hint: When did this communication occur
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: communication_time
+      label: Time of Communication
+      hint: What time did this occur
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: communication_method
+      label: Communication Method
+      hint: How did you communicate
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - In Person
+      - Video Call
+      - Through App
+      - Through Third Party
+      required: true
+    - id: 7
+      name: initiated_by
+      label: Initiated By
+      hint: Who started this communication
+      type: select_one
+      options:
+      - Me
+      - Other Parent
+      - Child
+      - School or Provider
+      - Other
+      required: true
+    - id: 8
+      name: topic_category
+      label: Topic Category
+      hint: What was the main topic
+      type: select_one
+      options:
+      - Schedule or Visitation
+      - Health or Medical
+      - Education or School
+      - Extracurricular Activities
+      - Discipline or Behavior
+      - Financial or Child Support
+      - General Update
+      - Emergency
+      - Other
+      required: true
+    - id: 9
+      name: communication_summary
+      label: Communication Summary
+      hint: Briefly describe what was discussed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: decisions_made
+      label: Decisions or Agreements Made
+      hint: What was decided or agreed upon
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_needed
+      label: Is Follow-Up Needed
+      hint: Does this require further discussion
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: When is follow-up needed
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_details
+      label: Follow-Up Details
+      hint: What needs to be addressed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tone_of_communication
+      label: Tone of Communication
+      hint: How would you describe the interaction
+      type: select_one
+      options:
+      - Cooperative and Respectful
+      - Neutral
+      - Tense
+      - Hostile
+      - One-Sided
+      required: true
+    - id: 15
+      name: concerns_raised
+      label: Were Any Concerns Raised
+      hint: Did either party express concerns
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: concerns_description
+      label: Describe Concerns
+      hint: What concerns were discussed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: action_items
+      label: Action Items
+      hint: What actions need to be taken
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: action_responsibility
+      label: Who Is Responsible for Actions
+      hint: Who will complete the action items
+      type: select_one
+      options:
+      - Me
+      - Other Parent
+      - Both Parents
+      - Third Party
+      required: false
+    - id: 19
+      name: mediator_notified
+      label: Was Mediator Notified
+      hint: Did you inform the mediator about this
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false
+    - id: 20
+      name: counselor_name
+      label: Counselor or Mediator Name
+      hint: Name of your counselor or mediator
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

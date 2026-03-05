@@ -50,15 +50,12 @@ inputSchema:
       type: select_one
       options:
       - Under $1
-      - 0
+      - '0'
       - $1
       - 000 - $5
-      - 0
       - $5
       - 000 - $10
-      - 0
       - Over $10
-      - 0
       required: false
     - id: 7
       name: details
@@ -85,8 +82,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: callback_number

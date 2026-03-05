@@ -4,273 +4,97 @@ inputSchema:
     title: Emergency Response Simulation Recording Consent Form
     pages:
     - id: 1
-      name: emergency_response_simulation_recording_consent_form_1
+      name: emergency_response_simulation_role
       label: What is your role in the simulation?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Simulation Participant
+      - Simulation Observer
+      - Simulation Instructor
+      required: true
     - id: 2
-      name: emergency_response_simulation_recording_consent_form_2
+      name: emergency_response_simulation_role_team
       label: What is your role in the emergency response team?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Team Member
+      - Team Leader
+      - Supervisor
+      required: true
     - id: 3
-      name: emergency_response_simulation_recording_consent_form_3
-      label: What is your role in the emergency response team?
+      name: date_of_birth
+      label: What is your date of birth?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: simulation_location
+      label: What is the location of your role in the simulation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: simulation_date
+      label: What is the date of the simulation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: simulation_time
+      label: What is the time of the simulation?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: simulation_recording
+      label: Are you aware that the simulation will be recorded?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 8
+      name: agree_to_recording
+      label: Do you agree to the recording?
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 9
+      name: simulation_duration
+      label: What is the expected duration of the simulation?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: What is the contact number of your emergency contact?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_conditions
+      label: Do you have any medical conditions or concerns that may affect your participation?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 4
-      name: emergency_response_simulation_recording_consent_form_4
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: emergency_response_simulation_recording_consent_form_5
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: emergency_response_simulation_recording_consent_form_6
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: emergency_response_simulation_recording_consent_form_7
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: emergency_response_simulation_recording_consent_form_8
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: emergency_response_simulation_recording_consent_form_9
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: emergency_response_simulation_recording_consent_form_10
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: emergency_response_simulation_recording_consent_form_11
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 12
-      name: emergency_response_simulation_recording_consent_form_12
-      label: Date of birth?
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: emergency_response_simulation_recording_consent_form_13
-      label: What is the location of your role in the simulation?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: what_is_the_location_of_your_role_in_the_simulation
-      label: What is the location of your role in the simulation?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: what_is_the_date_of_the_simulation
-      label: What is the date of the simulation?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: what_is_the_time_of_the_simulation
-      label: What is the time of the simulation?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: are_you_aware_that_the_simulation_will_be_recorded
-      label: Are you aware that the simulation will be recorded?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: emergency_response_simulation_recording_consent_form_18
-      label: Do you agree to the recording?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: emergency_response_simulation_recording_consent_form_19
-      label: What is the expected duration of the simulation?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: emergency_response_simulation_recording_consent_form_20
-      label: Are you aware that your voice and image will be recorded?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: emergency_response_simulation_recording_consent_form_21
-      label: Are you aware that the recordings will be kept for 30 days?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: emergency_response_simulation_recording_consent_form_22
-      label: Are you aware that the recordings will be kept for 30 days?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: emergency_response_simulation_recording_consent_form_23
-      label: What type of emergency service will be simulated?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: emergency_response_simulation_recording_consent_form_24
-      label: Emergency Response Simulation Recording Consent Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: emergency_response_simulation_recording_consent_form_25
-      label: emergency_response_simulation_recording_consent_form_25
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: emergency_response_simulation_recording_consent_form_26
-      label: What is the contact number of your emergency contact?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: emergency_response_simulation_recording_consent_form_27
-      label: Do you have any medical conditions or concerns that may affect your participation?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: emergency_response_simulation_recording_consent_form_28
-      label: Do you have any medical conditions or concerns that may affect your participation?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: emergency_response_simulation_recording_consent_form_29
-      label: Do you have any medical conditions or concerns that may affect your participation?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: emergency_response_simulation_recording_consent_form_30
+      name: supervisor_contact
       label: What is the contact number of your supervisor/parent/primary caregiver?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: emergency_response_simulation_recording_consent_form_31
-      label: Emergency Response Simulation Recording Consent Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: emergency_response_simulation_recording_consent_form_32
-      label: emergency_response_simulation_recording_consent_form_32
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: emergency_response_simulation_recording_consent_form_33
-      label: emergency_response_simulation_recording_consent_form_33
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: emergency_response_simulation_recording_consent_form_34
-      label: emergency_response_simulation_recording_consent_form_34
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: emergency_response_simulation_recording_consent_form_35
-      label: emergency_response_simulation_recording_consent_form_35
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: emergency_response_simulation_recording_consent_form_36
-      label: emergency_response_simulation_recording_consent_form_36
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: emergency_response_simulation_recording_consent_form_37
-      label: What is your contact information?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: emergency_response_simulation_recording_consent_form_38
-      label: Do you need an accommodation or assistance during the simulation?
       hint: null
       type: text
       options: []

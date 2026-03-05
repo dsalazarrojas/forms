@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''On Hold''}'
+      - Active
+      - Inactive
+      - On Hold
       required: true
     - id: 4
       name: project_start_date
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Changed''}'
-      - '{''id'': 2, ''label'': ''Not Changed''}'
+      - Changed
+      - Not Changed
       required: true
     - id: 17
       name: document_upload

@@ -1,74 +1,63 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cabinet Cleaning Checklist
     pages:
-      - id: 1
-        name: cleaner_name
-        label: Cleaner name
-        hint: Staff member completing checklist
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: cleaning_date
-        label: Cleaning date
-        hint: Date of task completion
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: cabinet_location
-        label: Cabinet location
-        hint: Room or area identifier
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: surfaces_cleaned
-        label: Surfaces cleaned
-        hint: Doors shelves handles
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 5
-        name: disinfectant_used
-        label: Disinfectant used
-        hint: Product name or code
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: condition_after_cleaning
-        label: Condition after cleaning
-        hint: Any damage or stains
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: next_scheduled_cleaning
-        label: Next scheduled cleaning date
-        hint: Recommended follow up date
-        type: date
-        options: []
-        required: false
-      - id: 8
-        name: supervisor_signature
-        label: Supervisor signature reference
-        hint: Name or initials
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: cleaner_name
+      label: Cleaner name
+      hint: Staff member completing checklist
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cleaning_date
+      label: Cleaning date
+      hint: Date of task completion
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: cabinet_location
+      label: Cabinet location
+      hint: Room or area identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: surfaces_cleaned
+      label: Surfaces cleaned
+      hint: Doors shelves handles
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: disinfectant_used
+      label: Disinfectant used
+      hint: Product name or code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: condition_after_cleaning
+      label: Condition after cleaning
+      hint: Any damage or stains
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: next_scheduled_cleaning
+      label: Next scheduled cleaning date
+      hint: Recommended follow up date
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_signature
+      label: Supervisor signature reference
+      hint: Name or initials
+      type: text
+      options: []
+      required: false

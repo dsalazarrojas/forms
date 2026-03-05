@@ -39,9 +39,9 @@ inputSchema:
       hint: Role
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Manager''}'
-      - '{''id'': 2, ''name'': ''Analyst''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Manager
+      - Analyst
+      - Other
       required: true
     - id: 6
       name: date_of_consent
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: notes
@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pdf''}'
-      - '{''id'': 2, ''name'': ''docx''}'
+      - pdf
+      - docx
       required: false
     - id: 15
       name: department_agreed
@@ -116,6 +116,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false

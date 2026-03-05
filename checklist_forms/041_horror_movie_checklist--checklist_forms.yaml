@@ -62,11 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: false
     - id: 9
       name: watched_notes
@@ -177,7 +175,7 @@ inputSchema:
       required: true
     - id: 22
       name: watched_rewatched_rewatched
-      label: Rewatched
+      label: Watched Rewatched Rewatched
       hint: null
       type: select_one
       options:
@@ -187,14 +185,14 @@ inputSchema:
       required: false
     - id: 23
       name: watched_watched_rewatched_time
-      label: Watched Time
+      label: Watched Watched Rewatched Time
       hint: null
       type: time
       options: []
       required: false
     - id: 24
       name: watched_rewatched_rewatched_language
-      label: Rewatched Language
+      label: Watched Rewatched Rewatched Language
       hint: null
       type: select_multiple
       options:
@@ -205,7 +203,7 @@ inputSchema:
       required: false
     - id: 25
       name: watched_rewatched_rewatched_notes
-      label: Rewatched Notes
+      label: Watched Rewatched Rewatched Notes
       hint: null
       type: note
       options: []

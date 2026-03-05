@@ -4,188 +4,105 @@ inputSchema:
     title: Physical Activity Readiness And Consent Form
     pages:
     - id: 1
-      name: physical_activity_readiness_and_consent_form_1
-      label: Physical Activity Readiness And Consent Form 1
-      hint: null
+      name: medical_history
+      label: A thorough medical history form will help identify any pre-existing conditions
+        that may affect the physical activity.
+      hint: Please fill out this form to provide a comprehensive medical history.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: physical_activity_readiness_and_consent_form_2
-      label: Physical Activity Readiness And Consent Form 2
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: physical_activity_level
+      label: What is your current level of physical activity?
+      hint: Select one of the options below.
+      type: select_one
+      options:
+      - Light (less than 30 minutes a day)
+      - Moderate (30-60 minutes a day)
+      - High (more than 60 minutes a day)
+      required: true
     - id: 3
-      name: physical_activity_readiness_and_consent_form_3
-      label: Physical Activity Readiness And Consent Form 3
-      hint: null
-      type: number
-      options: []
-      required: false
+      name: medical_conditions
+      label: Do you have any of the following medical conditions?
+      hint: Select multiple conditions that apply.
+      type: select_multiple
+      options:
+      - Heart condition
+      - Diabetes
+      - High blood pressure
+      required: true
     - id: 4
-      name: physical_activity_readiness_and_consent_form_4
-      label: Physical Activity Readiness And Consent Form 4
-      hint: null
-      type: number
+      name: current_medications
+      label: Please list your current medications.
+      hint: List all your current medications.
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: physical_activity_readiness_and_consent_form_5
-      label: Physical Activity Readiness And Consent Form 5
+      name: physical_activity_limitations
+      label: What are your physical activity limitations?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: physical_activity_readiness_and_consent_form_6
-      label: Physical Activity Readiness And Consent Form 6
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: emergency_contact
+      label: Who is your emergency contact?
+      hint: Please provide contact information for your emergency contact.
+      type: text
+      options: []
+      required: true
     - id: 7
-      name: physical_activity_readiness_and_consent_form_7
-      label: Physical Activity Readiness And Consent Form 7
-      hint: null
-      type: date
-      options: []
-      required: false
+      name: physical_activity_plan
+      label: Describe your plan for physical activity
+      hint: Select one of the options below.
+      type: select_one
+      options:
+      - I plan to do light physical activity (less than 30 minutes a day)
+      - I plan to do moderate physical activity (30-60 minutes a day)
+      - I plan to do high-intensity physical activity (more than 60 minutes a day)
+      required: true
     - id: 8
-      name: physical_activity_readiness_and_consent_form_8
-      label: Physical Activity Readiness And Consent Form 8
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
+      name: physical_activity_risk_assessment
+      label: Do you have any physical activity risks?
+      hint: Select multiple risks that apply.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: select_one
+      - Risk of falls
+      - Risk of overexertion
+      - Risk of injury
+      required: true
+    - id: 9
+      name: physical_activity_precautions
+      label: Do you have any physical activity precautions?
+      hint: Select multiple precautions that apply.
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
+      - Precaution for knee or ankle injuries
+      - Precaution for heart conditions
+      - Precaution for breathing difficulties
+      required: true
+    - id: 10
+      name: physical_activity_goals
+      label: What are your physical activity goals?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
+      required: true
+    - id: 11
+      name: physical_activity_schedule
+      label: What is your physical activity schedule?
+      hint: Please provide the date for your physical activity schedule.
       type: date
       options: []
-      required: false
-    - id: 19
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
+      required: true
+    - id: 12
+      name: physical_activity_progress
+      label: How will you track your physical activity progress?
+      hint: Select one of the options below.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: physical_activity_readiness_and_concent
-      label: Physical Activity Readiness And Concent
-      hint: null
-      type: text
-      options: []
-      required: false
+      - I will track my progress daily
+      - I will track my progress weekly
+      - I will track my progress monthly
+      required: true

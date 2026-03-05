@@ -1,340 +1,329 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Commuter Transport Preference Survey
     pages:
-      - id: 1
-        name: commuter_name
-        label: Your Name
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: commuter_email
-        label: Email Address
-        hint: For follow-up
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: commuter_type
-        label: What is your commuter status?
-        hint: Your relationship to the organization
-        type: select_one
-        options:
-          - Employee
-          - Student
-          - Faculty/Staff
-          - Visitor
-          - Contractor
-          - Other
-        required: true
-      - id: 4
-        name: department_division
-        label: Department or Division
-        hint: Your department
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: home_zip_code
-        label: Home ZIP/Postal Code
-        hint: Where you commute from
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: work_location_zip
-        label: Work Location ZIP/Postal Code
-        hint: Where you commute to
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: commute_distance
-        label: How far is your commute?
-        hint: One-way distance
-        type: select_one
-        options:
-          - Less than 5 miles
-          - 5-10 miles
-          - 11-20 miles
-          - 21-30 miles
-          - 31-50 miles
-          - Over 50 miles
-        required: true
-      - id: 8
-        name: commute_time
-        label: How long does your commute take?
-        hint: One-way time
-        type: select_one
-        options:
-          - Less than 15 minutes
-          - 15-30 minutes
-          - 31-45 minutes
-          - 46-60 minutes
-          - 1-2 hours
-          - Over 2 hours
-        required: true
-      - id: 9
-        name: primary_transport
-        label: What is your primary mode of transportation?
-        hint: Most used method
-        type: select_one
-        options:
-          - Drive alone
-          - Carpool (2-3 people)
-          - Vanpool (4+ people)
-          - Public bus
-          - Train/Metro
-          - Bicycle
-          - Walk
-          - Motorcycle/Scooter
-          - Telework/Remote
-          - Other
-        required: true
-      - id: 10
-        name: secondary_transport
-        label: Do you use any secondary transportation?
-        hint: Multi-modal commuting
-        type: select_one
-        options:
-          - No, single mode only
-          - Yes, park and ride
-          - Yes, bike and ride
-          - Yes, walk and ride
-          - Yes, other combination
-        required: false
-      - id: 11
-        name: commute_frequency
-        label: How often do you commute?
-        hint: Days per week
-        type: select_one
-        options:
-          - 1 day per week
-          - 2 days per week
-          - 3 days per week
-          - 4 days per week
-          - 5 days per week
-          - Variable schedule
-        required: true
-      - id: 12
-        name: arrival_time
-        label: What time do you typically arrive?
-        hint: Start time
-        type: time
-        options: []
-        required: false
-      - id: 13
-        name: departure_time
-        label: What time do you typically depart?
-        hint: End time
-        type: time
-        options: []
-        required: false
-      - id: 14
-        name: transport_satisfaction
-        label: How satisfied are you with your current commute?
-        hint: Overall satisfaction
-        type: select_one
-        options:
-          - Very Dissatisfied
-          - Dissatisfied
-          - Neutral
-          - Satisfied
-          - Very Satisfied
-        required: true
-      - id: 15
-        name: commute_cost
-        label: What is your approximate monthly commute cost?
-        hint: Including gas, parking, transit fares
-        type: select_one
-        options:
-          - Under $50
-          - $50-$100
-          - $101-$200
-          - $201-$300
-          - $301-$400
-          - Over $400
-        required: false
-      - id: 16
-        name: commute_challenges
-        label: What challenges do you face with your commute?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Traffic congestion
-          - Parking availability
-          - Parking cost
-          - Transit reliability
-          - Transit cost
-          - Safety concerns
-          - Weather conditions
-          - Long commute time
-          - Unpredictable schedule
-          - No challenges
-          - Other
-        required: true
-      - id: 17
-        name: challenge_details
-        label: Please describe your main challenge
-        hint: Specific issues
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: alternative_interest
-        label: Would you consider alternative transportation?
-        hint: Openness to change
-        type: select_one
-        options:
-          - Yes, definitely
-          - Yes, possibly
-          - Maybe
-          - No, not interested
-        required: true
-      - id: 19
-        name: alternative_barriers
-        label: What prevents you from using alternative transportation?
-        hint: Barriers to change
-        type: select_multiple
-        options:
-          - No viable alternatives
-          - Schedule inflexibility
-          - Safety concerns
-          - Convenience
-          - Cost
-          - Physical limitations
-          - Need vehicle for work
-          - Childcare responsibilities
-          - No barriers
-          - Other
-        required: false
-      - id: 20
-        name: carpool_interest
-        label: Would you be interested in carpooling?
-        hint: Ride-sharing
-        type: select_one
-        options:
-          - Yes, as a driver
-          - Yes, as a passenger
-          - Maybe, need more info
-          - No, not interested
-        required: true
-      - id: 21
-        name: vanpool_interest
-        label: Would you be interested in vanpooling?
-        hint: Group commute
-        type: select_one
-        options:
-          - Yes
-          - Maybe
-          - No
-        required: false
-      - id: 22
-        name: transit_interest
-        label: Would you use public transit if improved?
-        hint: Transit interest
-        type: select_one
-        options:
-          - Yes, definitely
-          - Maybe
-          - No
-        required: false
-      - id: 23
-        name: biking_interest
-        label: Would you consider biking to work?
-        hint: Bicycle commuting
-        type: select_one
-        options:
-          - Yes, if bike lanes available
-          - Yes, if secure parking provided
-          - Yes, if shower facilities available
-          - No, not interested
-        required: false
-      - id: 24
-        name: walking_interest
-        label: Would you consider walking to work?
-        hint: Walking commute
-        type: select_one
-        options:
-          - Yes, if safe pathways
-          - Yes, if closer housing available
-          - No, too far
-          - No, other reasons
-        required: false
-      - id: 25
-        name: telework_interest
-        label: Would you be interested in teleworking?
-        hint: Remote work
-        type: select_one
-        options:
-          - Yes, full-time remote
-          - Yes, part-time remote
-          - No, prefer office
-        required: false
-      - id: 26
-        name: incentive_interest
-        label: What incentives would encourage alternative commuting?
-        hint: Motivation factors
-        type: select_multiple
-        options:
-          - Subsidized transit passes
-          - Carpool matching service
-          - Preferred parking for carpools
-          - Bike purchase reimbursement
-          - Shower/locker facilities
-          - Flexible work hours
-          - Telework options
-          - Cash incentives
-          - None needed
-        required: false
-      - id: 27
-        name: parking_needed
-        label: Do you currently need parking?
-        hint: Parking status
-        type: select_one
-        options:
-          - Yes, have parking
-          - Yes, need parking
-          - No, do not need parking
-        required: true
-      - id: 28
-        name: parking_satisfaction
-        label: How satisfied are you with parking facilities?
-        hint: If applicable
-        type: select_one
-        options:
-          - Very Dissatisfied
-          - Dissatisfied
-          - Neutral
-          - Satisfied
-          - Very Satisfied
-          - Not applicable
-        required: false
-      - id: 29
-        name: additional_comments
-        label: Any additional comments or suggestions?
-        hint: Your thoughts
-        type: text
-        options: []
-        required: false
-      - id: 30
-        name: survey_date
-        label: Survey Completion Date
-        hint: Today's date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: commuter_name
+      label: Your Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: commuter_email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: commuter_type
+      label: What is your commuter status?
+      hint: Your relationship to the organization
+      type: select_one
+      options:
+      - Employee
+      - Student
+      - Faculty/Staff
+      - Visitor
+      - Contractor
+      - Other
+      required: true
+    - id: 4
+      name: department_division
+      label: Department or Division
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: home_zip_code
+      label: Home ZIP/Postal Code
+      hint: Where you commute from
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_location_zip
+      label: Work Location ZIP/Postal Code
+      hint: Where you commute to
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: commute_distance
+      label: How far is your commute?
+      hint: One-way distance
+      type: select_one
+      options:
+      - Less than 5 miles
+      - 5-10 miles
+      - 11-20 miles
+      - 21-30 miles
+      - 31-50 miles
+      - Over 50 miles
+      required: true
+    - id: 8
+      name: commute_time
+      label: How long does your commute take?
+      hint: One-way time
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 31-45 minutes
+      - 46-60 minutes
+      - 1-2 hours
+      - Over 2 hours
+      required: true
+    - id: 9
+      name: primary_transport
+      label: What is your primary mode of transportation?
+      hint: Most used method
+      type: select_one
+      options:
+      - Drive alone
+      - Carpool (2-3 people)
+      - Vanpool (4+ people)
+      - Public bus
+      - Train/Metro
+      - Bicycle
+      - Walk
+      - Motorcycle/Scooter
+      - Telework/Remote
+      - Other
+      required: true
+    - id: 10
+      name: secondary_transport
+      label: Do you use any secondary transportation?
+      hint: Multi-modal commuting
+      type: select_one
+      options:
+      - No, single mode only
+      - Yes, park and ride
+      - Yes, bike and ride
+      - Yes, walk and ride
+      - Yes, other combination
+      required: false
+    - id: 11
+      name: commute_frequency
+      label: How often do you commute?
+      hint: Days per week
+      type: select_one
+      options:
+      - 1 day per week
+      - 2 days per week
+      - 3 days per week
+      - 4 days per week
+      - 5 days per week
+      - Variable schedule
+      required: true
+    - id: 12
+      name: arrival_time
+      label: What time do you typically arrive?
+      hint: Start time
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: departure_time
+      label: What time do you typically depart?
+      hint: End time
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: transport_satisfaction
+      label: How satisfied are you with your current commute?
+      hint: Overall satisfaction
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 15
+      name: commute_cost
+      label: What is your approximate monthly commute cost?
+      hint: Including gas, parking, transit fares
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $101-$200
+      - $201-$300
+      - $301-$400
+      - Over $400
+      required: false
+    - id: 16
+      name: commute_challenges
+      label: What challenges do you face with your commute?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Traffic congestion
+      - Parking availability
+      - Parking cost
+      - Transit reliability
+      - Transit cost
+      - Safety concerns
+      - Weather conditions
+      - Long commute time
+      - Unpredictable schedule
+      - No challenges
+      - Other
+      required: true
+    - id: 17
+      name: challenge_details
+      label: Please describe your main challenge
+      hint: Specific issues
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: alternative_interest
+      label: Would you consider alternative transportation?
+      hint: Openness to change
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, possibly
+      - Maybe
+      - No, not interested
+      required: true
+    - id: 19
+      name: alternative_barriers
+      label: What prevents you from using alternative transportation?
+      hint: Barriers to change
+      type: select_multiple
+      options:
+      - No viable alternatives
+      - Schedule inflexibility
+      - Safety concerns
+      - Convenience
+      - Cost
+      - Physical limitations
+      - Need vehicle for work
+      - Childcare responsibilities
+      - No barriers
+      - Other
+      required: false
+    - id: 20
+      name: carpool_interest
+      label: Would you be interested in carpooling?
+      hint: Ride-sharing
+      type: select_one
+      options:
+      - Yes, as a driver
+      - Yes, as a passenger
+      - Maybe, need more info
+      - No, not interested
+      required: true
+    - id: 21
+      name: vanpool_interest
+      label: Would you be interested in vanpooling?
+      hint: Group commute
+      type: select_one
+      options:
+      - 'True'
+      - Maybe
+      - 'False'
+      required: false
+    - id: 22
+      name: transit_interest
+      label: Would you use public transit if improved?
+      hint: Transit interest
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - 'False'
+      required: false
+    - id: 23
+      name: biking_interest
+      label: Would you consider biking to work?
+      hint: Bicycle commuting
+      type: select_one
+      options:
+      - Yes, if bike lanes available
+      - Yes, if secure parking provided
+      - Yes, if shower facilities available
+      - No, not interested
+      required: false
+    - id: 24
+      name: walking_interest
+      label: Would you consider walking to work?
+      hint: Walking commute
+      type: select_one
+      options:
+      - Yes, if safe pathways
+      - Yes, if closer housing available
+      - No, too far
+      - No, other reasons
+      required: false
+    - id: 25
+      name: telework_interest
+      label: Would you be interested in teleworking?
+      hint: Remote work
+      type: select_one
+      options:
+      - Yes, full-time remote
+      - Yes, part-time remote
+      - No, prefer office
+      required: false
+    - id: 26
+      name: incentive_interest
+      label: What incentives would encourage alternative commuting?
+      hint: Motivation factors
+      type: select_multiple
+      options:
+      - Subsidized transit passes
+      - Carpool matching service
+      - Preferred parking for carpools
+      - Bike purchase reimbursement
+      - Shower/locker facilities
+      - Flexible work hours
+      - Telework options
+      - Cash incentives
+      - None needed
+      required: false
+    - id: 27
+      name: parking_needed
+      label: Do you currently need parking?
+      hint: Parking status
+      type: select_one
+      options:
+      - Yes, have parking
+      - Yes, need parking
+      - No, do not need parking
+      required: true
+    - id: 28
+      name: parking_satisfaction
+      label: How satisfied are you with parking facilities?
+      hint: If applicable
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      - Not applicable
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Any additional comments or suggestions?
+      hint: Your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: survey_date
+      label: Survey Completion Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

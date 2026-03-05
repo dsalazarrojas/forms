@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Mr'', ''value'': ''Mr''}'
-      - '{''id'': 2, ''label'': ''Mrs'', ''value'': ''Mrs''}'
-      - '{''id'': 3, ''label'': ''Ms'', ''value'': ''Ms''}'
-      - '{''id'': 4, ''label'': ''Dr'', ''value'': ''Dr''}'
+      - Mr
+      - Mrs
+      - Ms
+      - Dr
       required: false
     - id: 3
       name: product_info
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Apple'', ''value'': ''Apple''}'
-      - '{''id'': 2, ''label'': ''Microsoft'', ''value'': ''Microsoft''}'
-      - '{''id'': 3, ''label'': ''Google'', ''value'': ''Google''}'
+      - Apple
+      - Microsoft
+      - Google
       required: false
     - id: 4
       name: usage
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily'', ''value'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly'', ''value'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Rarely'', ''value'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Rarely
       required: false
     - id: 5
       name: satisfaction
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied'', ''value'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''label'': ''Not Satisfied'', ''value'': ''Not Satisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
       required: false
     - id: 6
       name: recommend
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Yes'', ''value'': True}'
-      - '{''id'': 2, ''label'': ''No'', ''value'': False}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 7
       name: additional_comments

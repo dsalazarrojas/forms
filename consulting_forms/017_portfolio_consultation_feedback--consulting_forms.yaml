@@ -18,11 +18,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Unsatisfied''}'
-      - '{''label'': ''2 - Neutral''}'
-      - '{''label'': ''3 - Satisfied''}'
-      - '{''label'': ''4 - Very Satisfied''}'
-      - '{''label'': ''5 - Extremely Satisfied''}'
+      - 1 - Unsatisfied
+      - 2 - Neutral
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      - 5 - Extremely Satisfied
       required: false
     - id: 3
       name: suggestions
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Schedule a follow-up meeting''}'
-      - '{''label'': ''2 - Continue with our collaboration''}'
-      - '{''label'': ''3 - Do not schedule a follow-up meeting''}'
+      - 1 - Schedule a follow-up meeting
+      - 2 - Continue with our collaboration
+      - 3 - Do not schedule a follow-up meeting
       required: false
     - id: 7
       name: contact_details

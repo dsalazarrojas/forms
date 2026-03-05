@@ -58,8 +58,8 @@ inputSchema:
       hint: Please sign below to indicate your consent for this program
       type: select_one
       options:
-      - '{''label'': ''I consent to participate''}'
-      - '{''label'': ''I do not consent to participate''}'
+      - I consent to participate
+      - I do not consent to participate
       required: false
     - id: 9
       name: contact_first_name
@@ -130,8 +130,8 @@ inputSchema:
       hint: Please indicate that you have read and agreed to the terms
       type: select_one
       options:
-      - '{''label'': ''I have read and agreed to the terms''}'
-      - '{''label'': ''I have not read and agreed to the terms''}'
+      - I have read and agreed to the terms
+      - I have not read and agreed to the terms
       required: false
     - id: 19
       name: participant_termination
@@ -139,9 +139,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: false
     - id: 20
       name: participant_termination_reason
@@ -163,9 +163,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Cancelled''}'
+      - Active
+      - Inactive
+      - Cancelled
       required: false
     - id: 23
       name: program_notes

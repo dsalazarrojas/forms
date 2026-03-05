@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: participant_phone
@@ -53,10 +53,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Less than 1 minute''}'
-      - '{''label'': ''1-2 minutes''}'
-      - '{''label'': ''3-5 minutes''}'
-      - '{''label'': ''More than 5 minutes''}'
+      - Less than 1 minute
+      - 1-2 minutes
+      - 3-5 minutes
+      - More than 5 minutes
       required: false
     - id: 8
       name: participant_note

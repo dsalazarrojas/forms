@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Grievance Type'', ''label'': ''grievance_type''}'
-      - '{''value'': ''grievance_description'', ''label'': ''grievance_description''}'
+      - grievance type
+      - grievance description
       required: false
     - id: 2
       name: reporting_unit
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''new'', ''label'': ''new''}'
-      - '{''value'': ''ongoing'', ''label'': ''ongoing''}'
-      - '{''value'': ''closed'', ''label'': ''closed''}'
+      - new
+      - ongoing
+      - closed
       required: false
     - id: 5
       name: action_taken
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Category 1'', ''label'': ''Category 1''}'
-      - '{''value'': ''Category 2'', ''label'': ''Category 2''}'
-      - '{''value'': ''Category 3'', ''label'': ''Category 3''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: false
     - id: 7
       name: grievance_description
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''resolved'', ''label'': ''resolved''}'
-      - '{''value'': ''unresolved'', ''label'': ''unresolved''}'
-      - '{''value'': ''pending'', ''label'': ''pending''}'
+      - resolved
+      - unresolved
+      - pending
       required: false
     - id: 9
       name: grievance_satisfied
@@ -78,8 +78,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: grievance_satisfied_reason
@@ -124,6 +124,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

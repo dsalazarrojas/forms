@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: consent_for_printed_publications
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Newsletters''}'
-      - '{''label'': ''Employee Handbook''}'
-      - '{''label'': ''Other''}'
+      - Newsletters
+      - Employee Handbook
+      - Other
       required: false
     - id: 4
       name: consent_for_online_publications
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Website''}'
-      - '{''label'': ''Social Media''}'
-      - '{''label'': ''Email''}'
+      - Website
+      - Social Media
+      - Email
       required: false
     - id: 5
       name: consent_for_video_and_audio
@@ -45,8 +45,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Video''}'
-      - '{''label'': ''Audio''}'
+      - Video
+      - Audio
       required: false
     - id: 6
       name: photo_usage_details
@@ -68,8 +68,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Self''}'
-      - '{''label'': ''Employer''}'
+      - Self
+      - Employer
       required: false
     - id: 9
       name: contact_preference
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Mail''}'
+      - Email
+      - Phone
+      - Mail
       required: false
     - id: 10
       name: email_address

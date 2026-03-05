@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''farmer''}'
-      - '{''label'': ''veterinarian''}'
-      - '{''label'': ''other''}'
+      - farmer
+      - veterinarian
+      - other
       required: false
     - id: 5
       name: vaccination_schedule
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''daily''}'
-      - '{''label'': ''weekly''}'
-      - '{''label'': ''monthly''}'
+      - daily
+      - weekly
+      - monthly
       required: false
     - id: 7
       name: vaccination_type
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''farm''}'
-      - '{''label'': ''clinic''}'
-      - '{''label'': ''other''}'
+      - farm
+      - clinic
+      - other
       required: false
     - id: 9
       name: challenge_1

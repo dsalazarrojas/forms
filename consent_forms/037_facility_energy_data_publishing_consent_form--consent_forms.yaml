@@ -15,93 +15,104 @@ inputSchema:
     title: Facility Energy Data Publishing Consent Form
     pages:
     - id: 1
-      name: facility_energy_data_publishing_consent_form_1
-      label: facility_energy_data_publishing_consent
+      name: facility_energy_data_consent_form_1
+      label: What is the purpose of this form?
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: facility_energy_data_publishing_consent_form_2
-      label: facility_energy_data
+      name: facility_energy_data_1
+      label: Facility Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: facility_energy_data_publishing_consent_form_3
-      label: facility_energy_data
+      name: facility_energy_data_publication_scope_1
+      label: Data Publication Scope
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Research
+      - Marketing
+      - Public Reporting
+      required: true
     - id: 4
-      name: facility_energy_data_publishing_consent_form_4
-      label: facility_energy_data_publishing_consent_form
+      name: facility_energy_data_format_1
+      label: Data Format
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - CSV
+      - Excel
+      - API
+      required: true
     - id: 5
-      name: facility_energy_data_publishing_consent_form_5
-      label: facility_energy_data
+      name: facility_energy_data_retention_1
+      label: Data Retention
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 1 year
+      - 5 years
+      - Perpetual
+      required: true
     - id: 6
-      name: facility_energy_data_publishing_consent_form_6
-      label: facility_energy_data_publishing_consent_form
+      name: facility_energy_data_sharing_1
+      label: Do you want to share your data with third parties?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
-      name: facility_energy_data_publishing_consent_form_7
-      label: facility_energy_data_publishing_consent
+      name: facility_energy_data_use_1
+      label: Data Use
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Analysis
+      - Research
+      - Education
+      required: true
     - id: 8
-      name: facility_energy_data_publishing_consent_form_8
-      label: facility_energy_data_publishing_consent_form
+      name: facility_energy_data_contact_1
+      label: Contact Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: facility_energy_data_publishing_consent_form_9
-      label: facility_energy_data
+      name: facility_energy_data_comments_1
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: facility_energy_data_publishing_consent_form_10
-      label: facility_energy_data
+      name: facility_energy_data_signature_1
+      label: Signature
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 11
-      name: facility_energy_data_publishing_consent_form_11
-      label: facility_energy_data_publishing_consent_form
+      name: facility_energy_data_review_1
+      label: Review and Confirm
       hint: null
-      type: text
-      options: []
-      required: false
+      type: radio
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 12
-      name: facility_energy_data_publishing_consent_form_12
-      label: facility_energy_data_publishing_consent
+      name: facility_energy_data_date_1
+      label: Date of Consent
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
-    - id: 13
-      name: facility_energy_data_publishing_consent_form_13
-      label: facility_energy_data
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

@@ -1,356 +1,345 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Building Noise Mitigation Feedback Survey
     pages:
-      - id: 1
-        name: survey_intro
-        label: -- Building Noise Mitigation Feedback Survey --
-        hint: Help us reduce noise and improve the building environment
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: respondent_name
-        label: Your name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: respondent_email
-        label: Email address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: floor_area
-        label: Your floor or area
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: occupancy_duration
-        label: How long have you occupied this space?
-        hint: null
-        type: select_one
-        options:
-          - Less than 3 months
-          - 3-6 months
-          - 6-12 months
-          - 1-2 years
-          - More than 2 years
-        required: true
-      - id: 6
-        name: space_type
-        label: Type of space you occupy
-        hint: null
-        type: select_one
-        options:
-          - Office
-          - Residential apartment
-          - Retail
-          - Industrial
-          - Educational
-          - Healthcare
-          - Hospitality
-          - Other
-        required: true
-      - id: 7
-        name: noise_perception
-        label: -- Noise Perception --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: overall_noise_level
-        label: Overall noise level in your space
-        hint: null
-        type: select_one
-        options:
-          - Very quiet - ideal
-          - Quiet - acceptable
-          - Moderate - sometimes noisy
-          - Loud - frequently disruptive
-          - Very loud - constantly disruptive
-        required: true
-      - id: 9
-        name: noise_impact
-        label: Impact of noise on your activities
-        hint: null
-        type: select_one
-        options:
-          - No impact - very quiet
-          - Minimal impact
-          - Moderate impact
-          - Significant impact
-          - Severe impact - very disruptive
-        required: true
-      - id: 10
-        name: primary_noise_sources
-        label: Primary sources of unwanted noise
-        hint: null
-        type: select_multiple
-        options:
-          - Voices and conversations
-          - HVAC systems
-          - Machinery or equipment
-          - Building structure sounds
-          - Outside traffic
-          - Music or entertainment
-          - Footsteps or movement
-          - Construction
-          - Plumbing
-          - Doors and locks
-          - Other
-        required: true
-      - id: 11
-        name: noise_frequency
-        label: Frequency of noise problems
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Rarely - occasional
-          - Sometimes - weekly
-          - Frequently - daily
-          - Constantly - throughout day
-        required: true
-      - id: 12
-        name: time_of_day
-        label: When is noise most problematic?
-        hint: null
-        type: select_multiple
-        options:
-          - Early morning
-          - Mid-morning
-          - Afternoon
-          - Early evening
-          - Late evening
-          - Night
-          - All times equally
-          - No specific pattern
-        required: false
-      - id: 13
-        name: noise_mitigation
-        label: -- Noise Mitigation Measures --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: current_measures
-        label: Current noise mitigation measures
-        hint: null
-        type: select_multiple
-        options:
-          - Soundproofing materials
-          - Acoustic panels
-          - Noise barriers
-          - Insulation upgrades
-          - HVAC modifications
-          - Double-pane windows
-          - Door seals
-          - Carpeting
-          - Rugs and furniture
-          - White noise machines
-          - None
-          - Unsure
-        required: true
-      - id: 15
-        name: measure_effectiveness
-        label: Effectiveness of current measures
-        hint: null
-        type: select_one
-        options:
-          - Very effective - significant improvement
-          - Effective - noticeable improvement
-          - Somewhat effective - minor improvement
-          - Not effective - no improvement
-          - No measures in place
-        required: true
-      - id: 16
-        name: satisfaction_with_measures
-        label: Satisfaction with noise control efforts
-        hint: null
-        type: select_one
-        options:
-          - Very satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very dissatisfied
-        required: true
-      - id: 17
-        name: improvement_needs
-        label: -- Improvement Needs --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: additional_improvements
-        label: Additional improvements needed
-        hint: null
-        type: select_multiple
-        options:
-          - Better insulation
-          - Acoustic treatments
-          - HVAC improvements
-          - Window upgrades
-          - Door improvements
-          - Structural soundproofing
-          - Noise policies enforcement
-          - Quiet areas designation
-          - Sound masking systems
-          - Construction noise control
-          - Other
-        required: true
-      - id: 19
-        name: priority_improvements
-        label: Top priority improvements
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 20
-        name: realistic_expectations
-        label: Realistic goals for noise reduction
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: budget_for_improvements
-        label: Support for improvements even if costly
-        hint: null
-        type: select_one
-        options:
-          - Yes, very supportive
-          - Somewhat supportive
-          - Neutral
-          - Reluctant
-          - No, too expensive
-        required: false
-      - id: 22
-        name: personal_measures
-        label: -- Personal Mitigation Measures --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 23
-        name: personal_actions
-        label: Personal actions you use to reduce noise
-        hint: null
-        type: select_multiple
-        options:
-          - Wear headphones
-          - Use earplugs
-          - Sound machines
-          - Quiet hours at home
-          - Adjust schedule
-          - Move to quieter location
-          - Close doors
-          - Use rugs/curtains
-          - Nothing
-          - Other
-        required: false
-      - id: 24
-        name: willingness_cooperate
-        label: Willing to follow noise reduction guidelines
-        hint: null
-        type: select_one
-        options:
-          - Yes, very willing
-          - Willing
-          - Neutral
-          - Reluctant
-          - No
-        required: false
-      - id: 25
-        name: policies_section
-        label: -- Noise Policies and Communication --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 26
-        name: policy_awareness
-        label: Aware of building noise policies
-        hint: null
-        type: select_one
-        options:
-          - Yes, clearly understood
-          - Yes, somewhat aware
-          - Vaguely aware
-          - Not aware
-          - No policies exist
-        required: true
-      - id: 27
-        name: policy_enforcement
-        label: How well are noise policies enforced
-        hint: null
-        type: select_one
-        options:
-          - Strictly enforced
-          - Generally enforced
-          - Inconsistently enforced
-          - Rarely enforced
-          - Not enforced
-          - Unsure
-        required: true
-      - id: 28
-        name: communication_effectiveness
-        label: Effectiveness of noise complaints process
-        hint: null
-        type: select_one
-        options:
-          - Very effective - issues resolved
-          - Effective - usually resolved
-          - Somewhat effective
-          - Not effective
-          - No complaint process
-        required: true
-      - id: 29
-        name: suggestions
-        label: -- Suggestions and Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 30
-        name: improvement_suggestions
-        label: Specific suggestions for noise reduction
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 31
-        name: policy_suggestions
-        label: Suggested noise policies or changes
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 32
-        name: additional_comments
-        label: Additional comments about noise in building
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: survey_intro
+      label: -- Building Noise Mitigation Feedback Survey --
+      hint: Help us reduce noise and improve the building environment
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: floor_area
+      label: Your floor or area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: occupancy_duration
+      label: How long have you occupied this space?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - More than 2 years
+      required: true
+    - id: 6
+      name: space_type
+      label: Type of space you occupy
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Residential apartment
+      - Retail
+      - Industrial
+      - Educational
+      - Healthcare
+      - Hospitality
+      - Other
+      required: true
+    - id: 7
+      name: noise_perception
+      label: -- Noise Perception --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_noise_level
+      label: Overall noise level in your space
+      hint: null
+      type: select_one
+      options:
+      - Very quiet - ideal
+      - Quiet - acceptable
+      - Moderate - sometimes noisy
+      - Loud - frequently disruptive
+      - Very loud - constantly disruptive
+      required: true
+    - id: 9
+      name: noise_impact
+      label: Impact of noise on your activities
+      hint: null
+      type: select_one
+      options:
+      - No impact - very quiet
+      - Minimal impact
+      - Moderate impact
+      - Significant impact
+      - Severe impact - very disruptive
+      required: true
+    - id: 10
+      name: primary_noise_sources
+      label: Primary sources of unwanted noise
+      hint: null
+      type: select_multiple
+      options:
+      - Voices and conversations
+      - HVAC systems
+      - Machinery or equipment
+      - Building structure sounds
+      - Outside traffic
+      - Music or entertainment
+      - Footsteps or movement
+      - Construction
+      - Plumbing
+      - Doors and locks
+      - Other
+      required: true
+    - id: 11
+      name: noise_frequency
+      label: Frequency of noise problems
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely - occasional
+      - Sometimes - weekly
+      - Frequently - daily
+      - Constantly - throughout day
+      required: true
+    - id: 12
+      name: time_of_day
+      label: When is noise most problematic?
+      hint: null
+      type: select_multiple
+      options:
+      - Early morning
+      - Mid-morning
+      - Afternoon
+      - Early evening
+      - Late evening
+      - Night
+      - All times equally
+      - No specific pattern
+      required: false
+    - id: 13
+      name: noise_mitigation
+      label: -- Noise Mitigation Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_measures
+      label: Current noise mitigation measures
+      hint: null
+      type: select_multiple
+      options:
+      - Soundproofing materials
+      - Acoustic panels
+      - Noise barriers
+      - Insulation upgrades
+      - HVAC modifications
+      - Double-pane windows
+      - Door seals
+      - Carpeting
+      - Rugs and furniture
+      - White noise machines
+      - None
+      - Unsure
+      required: true
+    - id: 15
+      name: measure_effectiveness
+      label: Effectiveness of current measures
+      hint: null
+      type: select_one
+      options:
+      - Very effective - significant improvement
+      - Effective - noticeable improvement
+      - Somewhat effective - minor improvement
+      - Not effective - no improvement
+      - No measures in place
+      required: true
+    - id: 16
+      name: satisfaction_with_measures
+      label: Satisfaction with noise control efforts
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 17
+      name: improvement_needs
+      label: -- Improvement Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: additional_improvements
+      label: Additional improvements needed
+      hint: null
+      type: select_multiple
+      options:
+      - Better insulation
+      - Acoustic treatments
+      - HVAC improvements
+      - Window upgrades
+      - Door improvements
+      - Structural soundproofing
+      - Noise policies enforcement
+      - Quiet areas designation
+      - Sound masking systems
+      - Construction noise control
+      - Other
+      required: true
+    - id: 19
+      name: priority_improvements
+      label: Top priority improvements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: realistic_expectations
+      label: Realistic goals for noise reduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: budget_for_improvements
+      label: Support for improvements even if costly
+      hint: null
+      type: select_one
+      options:
+      - Yes, very supportive
+      - Somewhat supportive
+      - Neutral
+      - Reluctant
+      - No, too expensive
+      required: false
+    - id: 22
+      name: personal_measures
+      label: -- Personal Mitigation Measures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: personal_actions
+      label: Personal actions you use to reduce noise
+      hint: null
+      type: select_multiple
+      options:
+      - Wear headphones
+      - Use earplugs
+      - Sound machines
+      - Quiet hours at home
+      - Adjust schedule
+      - Move to quieter location
+      - Close doors
+      - Use rugs/curtains
+      - Nothing
+      - Other
+      required: false
+    - id: 24
+      name: willingness_cooperate
+      label: Willing to follow noise reduction guidelines
+      hint: null
+      type: select_one
+      options:
+      - Yes, very willing
+      - Willing
+      - Neutral
+      - Reluctant
+      - 'False'
+      required: false
+    - id: 25
+      name: policies_section
+      label: -- Noise Policies and Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: policy_awareness
+      label: Aware of building noise policies
+      hint: null
+      type: select_one
+      options:
+      - Yes, clearly understood
+      - Yes, somewhat aware
+      - Vaguely aware
+      - Not aware
+      - No policies exist
+      required: true
+    - id: 27
+      name: policy_enforcement
+      label: How well are noise policies enforced
+      hint: null
+      type: select_one
+      options:
+      - Strictly enforced
+      - Generally enforced
+      - Inconsistently enforced
+      - Rarely enforced
+      - Not enforced
+      - Unsure
+      required: true
+    - id: 28
+      name: communication_effectiveness
+      label: Effectiveness of noise complaints process
+      hint: null
+      type: select_one
+      options:
+      - Very effective - issues resolved
+      - Effective - usually resolved
+      - Somewhat effective
+      - Not effective
+      - No complaint process
+      required: true
+    - id: 29
+      name: suggestions
+      label: -- Suggestions and Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: improvement_suggestions
+      label: Specific suggestions for noise reduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: policy_suggestions
+      label: Suggested noise policies or changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional comments about noise in building
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -5,194 +5,140 @@ inputSchema:
     pages:
     - id: 1
       name: user_input
-      label: User Input
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: transaction_type
-      label: Transaction Type
+      label: What is the type of transaction?
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
       name: transaction_amount
-      label: Transaction Amount
+      label: What is the transaction amount?
       hint: null
       type: number
       options: []
       required: true
     - id: 4
       name: financial_institution
-      label: Financial Institution
+      label: What is the financial institution involved?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 5
       name: user_consent
-      label: User Consent
+      label: Do you consent to this transaction?
       hint: null
       type: select_one
       options:
-      - Option 4
-      - Option 5
+      - I agree
+      - I do not agree
       required: true
     - id: 6
       name: date
-      label: Date
+      label: Date of transaction
       hint: null
       type: date
       options: []
       required: false
     - id: 7
       name: time
-      label: Time
+      label: Time of transaction
       hint: null
       type: time
       options: []
       required: false
     - id: 8
       name: note
-      label: Note
+      label: Additional comments
       hint: null
       type: note
       options: []
       required: false
     - id: 9
       name: email
-      label: Email
+      label: Email address
       hint: null
       type: email
       options: []
       required: false
     - id: 10
       name: phone
-      label: Phone
+      label: Phone number
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: financial_institution_2
-      label: Financial Institution
+      label: Second Financial Institution
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: user_consent_2
-      label: User Consent
+      label: Second User Consent
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
+      - I agree
+      - I do not agree
       required: false
     - id: 13
       name: date_2
-      label: Date
+      label: Second Date
       hint: null
       type: date
       options: []
       required: false
     - id: 14
       name: time_2
-      label: Time
+      label: Second Time
       hint: null
       type: time
       options: []
       required: false
     - id: 15
       name: note_2
-      label: Note
+      label: Additional Comments 2
       hint: null
       type: note
       options: []
       required: false
     - id: 16
       name: email_2
-      label: Email
+      label: Second Email Address
       hint: null
       type: email
       options: []
       required: false
     - id: 17
       name: phone_2
-      label: Phone
+      label: Second Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: user_input_2
-      label: User Input
+      label: Second User Input
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 19
-      name: transaction_type_2
-      label: Transaction Type
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 20
-      name: transaction_amount_2
-      label: Transaction Amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: financial_institution_2
-      label: Financial Institution
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 22
-      name: user_consent_3
-      label: User Consent
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: false
-    - id: 23
-      name: date_3
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: time_3
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: note_3
-      label: Note
-      hint: null
-      type: note
       options: []
       required: false

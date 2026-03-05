@@ -6,204 +6,76 @@ inputSchema:
     - id: 1
       name: employee
       label: Employee
-      hint: null
-      type: text
-      options: []
+      hint: Please select your name from the list
+      type: select_multiple
+      options:
+      - Employee 1
+      - Employee 2
+      - Employee 3
       required: true
     - id: 2
       name: reason_for_requesting_time_off
-      label: reason_for_requesting_time_off
-      hint: null
+      label: Reason for requesting time off
+      hint: Explain your reason for requesting time off
       type: text
       options: []
       required: true
     - id: 3
       name: quarantine_start_date
-      label: quarantine_start_date
-      hint: null
+      label: Quarantine start date
+      hint: Enter the date you started your quarantine
       type: date
       options: []
       required: true
     - id: 4
-      name: quarantine_end_date
-      label: quarantine_end_date
-      hint: null
+      name: return_to_work_date
+      label: Return to work date
+      hint: Enter the date you expect to return to work
       type: date
       options: []
       required: true
     - id: 5
-      name: return_to_work_date
-      label: return_to_work_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 6
-      name: reason_for_returning_to_work
-      label: reason_for_returning_to_work
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
       name: contact_information
-      label: contact_information
-      hint: null
+      label: Contact information
+      hint: Enter your email or phone number
       type: email
       options: []
       required: false
+    - id: 6
+      name: manager
+      label: Manager
+      hint: Please select your manager
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 7
+      name: manager_notes
+      label: Manager notes
+      hint: Any additional information from your manager
+      type: text
+      options: []
+      required: true
     - id: 8
       name: employee_signature
-      label: employee_signature
-      hint: null
+      label: Employee signature
+      hint: Please sign your name
       type: note
       options: []
       required: true
     - id: 9
       name: manager_signature
-      label: manager_signature
-      hint: null
+      label: Manager signature
+      hint: Please sign your name below
       type: note
       options: []
       required: true
     - id: 10
-      name: manager_notes
-      label: manager_notes
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: manager
-      label: manager
-      hint: null
-      type: select_one
-      options:
-      - Manager 1
-      - Manager 2
-      - Manager 3
-      required: true
-    - id: 12
-      name: employee
-      label: employee
-      hint: null
-      type: select_multiple
-      options:
-      - Employee 1
-      - Employee 2
-      - Employee 3
-      required: true
-    - id: 13
-      name: manager
-      label: manager
-      hint: null
-      type: select_multiple
-      options:
-      - Manager 1
-      - Manager 2
-      - Manager 3
-      required: true
-    - id: 14
-      name: manager
-      label: manager
-      hint: null
-      type: select_one
-      options:
-      - Manager 1
-      - Manager 2
-      - Manager 3
-      required: false
-    - id: 15
-      name: contact_information
-      label: contact_information
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: manager_signature
-      label: manager_signature
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 17
       name: date
-      label: date
-      hint: null
+      label: Date
+      hint: Enter the date
       type: date
       options: []
       required: true
-    - id: 18
-      name: employee
-      label: employee
-      hint: null
-      type: select_multiple
-      options:
-      - Employee 1
-      - Employee 2
-      - Employee 3
-      required: true
-    - id: 19
-      name: employee
-      label: employee
-      hint: null
-      type: select_multiple
-      options:
-      - Employee 1
-      - Employee 2
-      - Employee 3
-      required: true
-    - id: 20
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 21
-      name: employee
-      label: employee
-      hint: null
-      type: select_multiple
-      options:
-      - -ประก - 'Employee 2' - 'Employee 3'
-      - Other
-      required: false
-    - id: 22
-      name: manager
-      label: manager
-      hint: null
-      type: select_multiple
-      options:
-      - Manager 1
-      - Manager 2
-      - Manager 3
-      required: false
-    - id: 23
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: employee
-      label: employee
-      hint: null
-      type: select_multiple
-      options:
-      - ประก
-      - Employee 2
-      - Employee 3
-      required: false
-    - id: 25
-      name: manager
-      label: manager
-      hint: null
-      type: select_multiple
-      options:
-      - Manager 1
-      - Manager 2
-      - Manager 3
-      required: false

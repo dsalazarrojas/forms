@@ -32,11 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manhole Inspection'', ''value'': ''manhole inspection''}'
-      - '{''id'': 2, ''label'': ''Catch Basin Inspection'', ''value'': ''catch basin
-        inspection''}'
-      - '{''id'': 3, ''label'': ''Catch Basin Cleaning'', ''value'': ''catch basin
-        cleaning''}'
+      - Manhole Inspection
+      - Catch Basin Inspection
+      - Catch Basin Cleaning
       required: false
     - id: 5
       name: inspector_name
@@ -58,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Passed'', ''value'': ''passed''}'
-      - '{''id'': 2, ''label'': ''Failed'', ''value'': ''failed''}'
-      - '{''id'': 3, ''label'': ''In Progress'', ''value'': ''in progress''}'
+      - Passed
+      - Failed
+      - In Progress
       required: false
     - id: 8
       name: notes

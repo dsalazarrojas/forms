@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: consent_to_share_with
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Hospital''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Hospital
+      - Other
       required: true
     - id: 10
       name: consent_to_share_other
@@ -84,8 +84,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: consent_to_provide_with
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Hospital''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Hospital
+      - Other
       required: true
     - id: 13
       name: consent_to_provide_other

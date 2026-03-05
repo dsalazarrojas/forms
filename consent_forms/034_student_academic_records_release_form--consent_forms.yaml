@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''academic_department''}'
-      - '{''id'': 2, ''name'': ''academic_program''}'
-      - '{''id'': 3, ''name'': ''academic_institution''}'
+      - academic department
+      - academic program
+      - academic institution
       required: false
     - id: 3
       name: name
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Student''}'
-      - '{''id'': 2, ''name'': ''Academic Advisor''}'
-      - '{''id'': 3, ''name'': ''Academic Program Administrator''}'
+      - Student
+      - Academic Advisor
+      - Academic Program Administrator
       required: false
     - id: 10
       name: authorized_reason

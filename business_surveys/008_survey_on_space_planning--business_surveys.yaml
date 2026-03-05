@@ -5,183 +5,98 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: Please introduce yourself
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: space_usage
-      label: space_usage
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 3
-      name: satisfaction_level
-      label: satisfaction_level
+      label: How do you use your workspace?
       hint: null
       type: select_one
       options:
-      - Satisfied
-      - Dissatisfied
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 3
+      name: satisfaction_level
+      label: What is your satisfaction level with the current space planning?
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 4
       name: challenges_list
-      label: challenges_list
+      label: What are the main challenges you face when using the available space?
       hint: null
       type: text
       options: []
       required: true
     - id: 5
       name: feedback
-      label: feedback
+      label: Do you have any additional feedback?
       hint: null
       type: text
       options: []
       required: true
     - id: 6
       name: space_availability
-      label: space_availability
+      label: Is the available space sufficient for your needs?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: time_spent_in_workplace
-      label: time_spent_in_workplace
+      label: How many hours do you spend at work in a typical day?
       hint: null
       type: time
       options: []
       required: false
     - id: 8
       name: suggestions_for_improvement
-      label: suggestions_for_improvement
+      label: Do you have any suggestions for improving the space planning?
       hint: null
       type: text
       options: []
       required: true
     - id: 9
       name: assigned_tool
-      label: assigned_tool
+      label: Are you assigned a tool for your task?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: form_id
-      label: form_id
+      label: What is your form ID?
       hint: null
       type: text
       options: []
       required: true
     - id: 11
       name: category
-      label: category
+      label: Which category do you belong to?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: form_version
-      label: form_version
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: form_description
-      label: form_description
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: created_by
-      label: created_by
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: modified_by
-      label: modified_by
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: created_at
-      label: created_at
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: modified_at
-      label: modified_at
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: description
-      label: description
+      label: What is the current form version?
       hint: null
       type: text
       options: []

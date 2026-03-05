@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''single-story''}'
-      - '{''value'': ''double-story''}'
-      - '{''value'': ''multi-story''}'
+      - single-story
+      - double-story
+      - multi-story
       required: false
     - id: 4
       name: attic_size
@@ -44,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''small''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''large''}'
+      - small
+      - medium
+      - large
       required: false
     - id: 5
       name: insulation_type
@@ -54,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''fiberglass''}'
-      - '{''value'': ''cellulose''}'
-      - '{''value'': ''foam''}'
+      - fiberglass
+      - cellulose
+      - foam
       required: false
     - id: 6
       name: insulation_condition
@@ -64,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''satisfactory''}'
-      - '{''value'': ''unsatisfactory''}'
+      - satisfactory
+      - unsatisfactory
       required: false
     - id: 7
       name: insulation_thickness
@@ -73,8 +62,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''adequate''}'
-      - '{''value'': ''inadequate''}'
+      - adequate
+      - inadequate
       required: false
     - id: 8
       name: electrical_components
@@ -82,8 +71,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''adequate''}'
-      - '{''value'': ''unsatisfactory''}'
+      - adequate
+      - unsatisfactory
       required: false
     - id: 9
       name: electrical_condition
@@ -91,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''satisfactory''}'
-      - '{''value'': ''unsatisfactory''}'
+      - satisfactory
+      - unsatisfactory
       required: false
     - id: 10
       name: venting
@@ -100,8 +89,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''adequate''}'
-      - '{''value'': ''inadequate''}'
+      - adequate
+      - inadequate
       required: false
     - id: 11
       name: roof_condition
@@ -109,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''satisfactory''}'
-      - '{''value'': ''unsatisfactory''}'
+      - satisfactory
+      - unsatisfactory
       required: false
     - id: 12
       name: attic_accessibility
@@ -118,8 +107,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: additional_notes

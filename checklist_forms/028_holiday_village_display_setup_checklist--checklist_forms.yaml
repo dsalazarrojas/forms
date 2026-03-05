@@ -5,192 +5,154 @@ inputSchema:
     pages:
     - id: 1
       name: holiday_village_display_setup_checklist_page
-      label: HOLIDAY VILLAGE DISPLAY SETUP CHECKLIST
-      hint: null
+      label: Holiday Village Display Setup Checklist
+      hint: Check each section carefully to ensure the display is ready for holiday
+        season.
       type: note
       options: []
       required: false
     - id: 2
-      name: holiday_village_display_details
-      label: HOLIDAY VILLAGE DISPLAY DETAILS
-      hint: null
+      name: installation_details
+      label: What is the installation location?
+      hint: Please enter the specific location of the holiday village display.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: installation_location
-      label: INSTALLATION LOCATION
-      hint: null
+      label: Installation Location
+      hint: Choose the correct location for the holiday village display.
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 4
-      name: installation_date
-      label: INSTALLATION DATE
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
       name: safety_check_list
-      label: SAFETY CHECK LIST
-      hint: null
+      label: Is there a safety check list available?
+      hint: Check if the holiday village display has a safety check list.
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: safety_check_result
-      label: SAFETY CHECK RESULT
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
+      label: What is the safety check result?
+      hint: Please enter the result of the safety check.
+      type: text
+      options: []
+      required: true
+    - id: 6
       name: display_type
-      label: DISPLAY TYPE
-      hint: null
+      label: What is the display type?
+      hint: Choose the correct display type for the holiday village display.
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: display_location
-      label: DISPLAY LOCATION
-      hint: null
-      type: select_one
+      label: What is the display location?
+      hint: Enter the specific location of the display.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: maintenance_check_list
+      label: Is there a maintenance check list?
+      hint: Check if the holiday village display has a maintenance check list.
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 9
       name: display_details
-      label: DISPLAY DETAILS
-      hint: null
+      label: What are the display details?
+      hint: Please enter the details of the holiday village display.
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: maintenance_check_list
-      label: MAINTENANCE CHECK LIST
-      hint: null
-      type: select_multiple
+      name: safety_check
+      label: Are there any issues with the safety checks?
+      hint: Check if there are any issues with the safety checks.
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 11
-      name: holiday_village
-      label: holiday_village
-      hint: null
-      type: note
-      options: []
-      required: false
+      name: display_type_2
+      label: Is the display type correct?
+      hint: Check if the display type is correct.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 12
-      name: display_location
-      label: display_location
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: display_location_2
+      label: Is the display location correct?
+      hint: Check if the display location is correct.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 13
-      name: installation_date
-      label: installation_date
-      hint: null
-      type: date
-      options: []
-      required: false
+      name: holiday_village
+      label: Is the holiday village name correct?
+      hint: Check if the holiday village name is correct.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 14
-      name: installation_location
-      label: installation_location
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: safety_check_result_2
+      label: Is the safety check result correct?
+      hint: Check if the safety check result is correct.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 15
-      name: display_details
-      label: display_details
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: installation_date
+      label: Is the installation date correct?
+      hint: Check if the installation date is correct.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 16
-      name: safety_check_list
-      label: safety_check_list
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: installation_location_2
+      label: Is the installation location correct?
+      hint: Check if the installation location is correct.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 17
-      name: safety_check_result
-      label: safety_check_result
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: maintenance_check_list_2
+      label: Are there any issues with the maintenance checks?
+      hint: Check if there are any issues with the maintenance checks.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 18
-      name: display_type
-      label: display_type
-      hint: null
+      name: display_details_2
+      label: Are there any issues with the display details?
+      hint: Check if there are any issues with the display details.
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 19
-      name: display_location
-      label: display_location
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: holiday_village
-      label: holiday_village
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: safety_check_list
-      label: safety_check_list
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: safety_check_result
-      label: safety_check_result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: holiday_village
-      label: holiday_village
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: holiday_village
-      label: holiday_village
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: holiday_village
-      label: holiday_village
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

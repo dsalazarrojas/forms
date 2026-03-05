@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Activated Carbon''}'
-      - '{''label'': ''Microfiltration''}'
-      - '{''label'': ''Ultrafiltration''}'
-      - '{''label'': ''Reverse Osmosis''}'
+      - Activated Carbon
+      - Microfiltration
+      - Ultrafiltration
+      - Reverse Osmosis
       required: false
     - id: 4
       name: filtration_efficiency_rating
@@ -78,10 +78,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Well''}'
-      - '{''label'': ''River''}'
-      - '{''label'': ''Reservoir''}'
-      - '{''label'': ''Aquifer''}'
+      - Well
+      - River
+      - Reservoir
+      - Aquifer
       required: false
     - id: 11
       name: water_distribution_system
@@ -98,9 +98,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Idle''}'
-      - '{''label'': ''Offline''}'
+      - Active
+      - Idle
+      - Offline
       required: false
     - id: 13
       name: maintenance_status
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Scheduled''}'
+      - Active
+      - Inactive
+      - Scheduled
       required: false
     - id: 14
       name: maintenance_frequency
@@ -118,10 +118,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
       required: false
     - id: 15
       name: last_maintenance_date
@@ -150,11 +150,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Every 1st Replacement''}'
-      - '{''label'': ''Every 2nd Replacement''}'
-      - '{''label'': ''Every 3rd Replacement''}'
-      - '{''label'': ''Every 4th Replacement''}'
-      - '{''label'': ''No Replacement''}'
+      - Every 1st Replacement
+      - Every 2nd Replacement
+      - Every 3rd Replacement
+      - Every 4th Replacement
+      - No Replacement
       required: false
     - id: 19
       name: total_filters
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 22
       name: filter_redundancy_rate
@@ -186,9 +186,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 23
       name: filter_pressure_drop

@@ -72,8 +72,8 @@ inputSchema:
       hint: Minor status
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: parent_guardian_name
@@ -221,8 +221,8 @@ inputSchema:
       hint: Do you understand quality requirements
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: prohibited_items
@@ -230,8 +230,8 @@ inputSchema:
       hint: Do you know what cannot be consigned
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: prohibited_items_list
@@ -265,8 +265,8 @@ inputSchema:
       hint: Do you understand loss policy
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 30
       name: communication_preference
@@ -285,8 +285,8 @@ inputSchema:
       hint: Receive updates and promotions
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 32
       name: referral_source
@@ -308,7 +308,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Accept
-      - false
+      - 'False'
       required: true
     - id: 34
       name: consignor_signature

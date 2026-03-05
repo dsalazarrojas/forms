@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Working''}'
-      - '{''label'': ''Inactive''}'
-      - '{''label'': ''Removed''}'
-      - '{''label'': ''Unknown''}'
+      - Working
+      - Inactive
+      - Removed
+      - Unknown
       required: false
     - id: 3
       name: fire_alarm_system_description
@@ -45,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Building''}'
-      - '{''label'': ''Building and System''}'
-      - '{''label'': ''Electrical Room''}'
-      - '{''label'': ''Other''}'
+      - Building
+      - Building and System
+      - Electrical Room
+      - Other
       required: false
     - id: 5
       name: fire_alarm_system_installed_date
@@ -63,12 +52,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Semi-Annual''}'
-      - '{''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annual
+      - Annually
       required: false
     - id: 7
       name: fire_alarm_system_inspection_result
@@ -76,9 +65,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Passed''}'
-      - '{''label'': ''Failed''}'
-      - '{''label'': ''In Progress''}'
+      - Passed
+      - Failed
+      - In Progress
       required: false
     - id: 8
       name: fire_alarm_system_inspection_date

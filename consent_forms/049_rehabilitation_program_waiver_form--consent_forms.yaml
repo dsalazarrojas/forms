@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: program_services
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''rehab_services'', ''label'': ''Inpatient''}'
-      - '{''id'': 2, ''name'': ''outpatient'', ''label'': ''Outpatient''}'
-      - '{''id'': 3, ''name'': ''both'', ''label'': ''Both''}'
+      - Inpatient
+      - Outpatient
+      - Both
       required: false
     - id: 8
       name: program_terms

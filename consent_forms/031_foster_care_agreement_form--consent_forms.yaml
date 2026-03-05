@@ -5,101 +5,69 @@ inputSchema:
     pages:
     - id: 1
       name: foster_care_agreement
-      label: foster_care_agreement
+      label: Is the child in your care a child of yours?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: foster_parent_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: name_of_child
-      label: name_of_child
+      label: Name of Child
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: birth_details
+      label: Birth Details (including birthdate)
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: birthdate_of_child
-      label: birthdate_of_child
+      name: contact_details
+      label: Contact Information
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: birthdate_of_child
-      label: birthdate_of_child
+      name: agency_details
+      label: Agency Name and Address
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: contact_information
-      label: contact_information
+      name: agreement_date
+      label: Date of Agreement
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 7
-      name: contact_number
-      label: contact_number
+      name: care_duration
+      label: Dates of Care (start and end)
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Start Date
+      - End Date
+      - Both
+      required: true
     - id: 8
-      name: agency_name
-      label: agency_name
+      name: caregiver_details
+      label: Your Contact Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: agency_address
-      label: agency_address
+      name: additional_comments
+      label: Additional Comments
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: date_of_agreement
-      label: date_of_agreement
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: date_of_agreement
-      label: date_of_agreement
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: start_date
-      label: start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: end_date
-      label: end_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: start_date
-      label: start_date
-      hint: null
-      type: date
+      type: note
       options: []
       required: false

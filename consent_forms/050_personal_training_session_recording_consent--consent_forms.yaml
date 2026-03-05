@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''video''}'
-      - '{''value'': ''audio''}'
-      - '{''value'': ''both''}'
-      - '{''value'': ''neither''}'
+      - video
+      - audio
+      - both
+      - neither
       required: false
     - id: 5
       name: session_recording_method
@@ -41,11 +41,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''video''}'
-      - '{''value'': ''audio''}'
-      - '{''value'': ''both''}'
-      - '{''value'': ''live''}'
-      - '{''value'': ''none''}'
+      - video
+      - audio
+      - both
+      - live
+      - none
       required: false
     - id: 6
       name: client_confirmation
@@ -53,8 +53,8 @@ inputSchema:
       hint: Please confirm client consent
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: first_name

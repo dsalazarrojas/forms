@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''CEO''}'
-      - '{''id'': 2, ''label'': ''Manager''}'
-      - '{''id'': 3, ''label'': ''Employee''}'
+      - CEO
+      - Manager
+      - Employee
       required: true
     - id: 6
       name: department
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Technology''}'
-      - '{''id'': 2, ''label'': ''Finance''}'
-      - '{''id'': 3, ''label'': ''Retail''}'
+      - Technology
+      - Finance
+      - Retail
       required: true
     - id: 16
       name: company_type
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Public''}'
-      - '{''id'': 2, ''label'': ''Private''}'
-      - '{''id'': 3, ''label'': ''Non-Profit''}'
+      - Public
+      - Private
+      - Non-Profit
       required: true
     - id: 17
       name: time_zone
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      - '{''id'': 3, ''label'': ''Bob Smith''}'
+      - John Doe
+      - Jane Doe
+      - Bob Smith
       required: true
     - id: 25
       name: terms_accepted
@@ -189,6 +189,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accept''}'
-      - '{''id'': 2, ''label'': ''Decline''}'
+      - Accept
+      - Decline
       required: true

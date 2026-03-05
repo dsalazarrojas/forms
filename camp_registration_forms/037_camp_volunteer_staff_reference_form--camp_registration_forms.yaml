@@ -1,86 +1,82 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Camp Volunteer Staff Reference Form
     pages:
-      - id: 1
-        name: referee_name
-        label: Referee Name
-        hint: Name of person providing the reference
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: referee_contact
-        label: Referee Contact Info
-        hint: Phone or email of the referee
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: applicant_name
-        label: Applicant Name
-        hint: Name of volunteer applicant
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: relationship
-        label: Relationship to Applicant
-        hint: How the referee knows the applicant
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: reliability_rating
-        label: Reliability Rating
-        hint: Rate reliability of the applicant
-        type: select_one
-        options: [Excellent, Good, Fair, Poor]
-        required: true
-      - id: 6
-        name: suitability_comments
-        label: Suitability Comments
-        hint: Why the applicant is suitable for volunteer work
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: concerns
-        label: Any Concerns
-        hint: Note any reservations about the applicant
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: recommendation
-        label: Recommendation
-        hint: Would you recommend the applicant
-        type: select_one
-        options: [Yes, No, Maybe]
-        required: true
-      - id: 9
-        name: date
-        label: Date of Reference
-        hint: When this reference was provided
-        type: date
-        options: []
-        required: false
-      - id: 10
-        name: additional_notes
-        label: Additional Notes
-        hint: Any other relevant comments
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: referee_name
+      label: Referee Name
+      hint: Name of person providing the reference
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: referee_contact
+      label: Referee Contact Info
+      hint: Phone or email of the referee
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_name
+      label: Applicant Name
+      hint: Name of volunteer applicant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: relationship
+      label: Relationship to Applicant
+      hint: How the referee knows the applicant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reliability_rating
+      label: Reliability Rating
+      hint: Rate reliability of the applicant
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: suitability_comments
+      label: Suitability Comments
+      hint: Why the applicant is suitable for volunteer work
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: concerns
+      label: Any Concerns
+      hint: Note any reservations about the applicant
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendation
+      label: Recommendation
+      hint: Would you recommend the applicant
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 9
+      name: date
+      label: Date of Reference
+      hint: When this reference was provided
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant comments
+      type: text
+      options: []
+      required: false

@@ -44,10 +44,10 @@ inputSchema:
       hint: Which year is this for?
       type: select_one
       options:
-      - 2026
-      - 2025
-      - 2024
-      - 2023
+      - '2026'
+      - '2025'
+      - '2024'
+      - '2023'
       required: true
     - id: 7
       name: attendance_interest
@@ -59,7 +59,7 @@ inputSchema:
       - Likely
       - Undecided
       - Unlikely
-      - false
+      - 'False'
       required: true
     - id: 8
       name: preferred_month

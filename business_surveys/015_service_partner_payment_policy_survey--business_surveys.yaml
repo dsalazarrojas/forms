@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''weekly''}'
-      - '{''value'': ''biweekly''}'
-      - '{''value'': ''monthly''}'
-      - '{''value'': ''quarterly''}'
-      - '{''value'': ''yearly''}'
+      - weekly
+      - biweekly
+      - monthly
+      - quarterly
+      - yearly
       required: false
     - id: 3
       name: payment_methods
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''online''}'
-      - '{''value'': ''offline''}'
-      - '{''value'': ''bank_transfer''}'
+      - online
+      - offline
+      - bank transfer
       required: false
     - id: 4
       name: payment_amount
@@ -45,10 +45,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''paid''}'
-      - '{''value'': ''pending''}'
-      - '{''value'': ''rejected''}'
-      - '{''value'': ''unknown''}'
+      - paid
+      - pending
+      - rejected
+      - unknown
       required: false
     - id: 6
       name: payment_issues
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''chat''}'
+      - email
+      - phone
+      - chat
       required: false
     - id: 10
       name: payment_policy_update_frequency
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''monthly''}'
-      - '{''value'': ''quarterly''}'
-      - '{''value'': ''yearly''}'
+      - monthly
+      - quarterly
+      - yearly
       required: false
     - id: 11
       name: comments
@@ -111,6 +111,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false

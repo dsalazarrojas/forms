@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Other''}'
+      - Female
+      - Male
+      - Other
       required: false
     - id: 3
       name: date_of_violence
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Police''}'
-      - '{''label'': ''Shelter''}'
-      - '{''label'': ''Other''}'
+      - Police
+      - Shelter
+      - Other
       required: false
     - id: 11
       name: perpetrator_identification
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: perpetrator_harm_reports_to_survivor
@@ -108,10 +108,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Physical Harm''}'
-      - '{''label'': ''Emotional Harm''}'
-      - '{''label'': ''Psychological Harm''}'
-      - '{''label'': ''Financial Harm''}'
+      - Physical Harm
+      - Emotional Harm
+      - Psychological Harm
+      - Financial Harm
       required: false
     - id: 15
       name: perpetrator_harm_reports_to_others
@@ -119,10 +119,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Physical Harm''}'
-      - '{''label'': ''Emotional Harm''}'
-      - '{''label'': ''Psychological Harm''}'
-      - '{''label'': ''Financial Harm''}'
+      - Physical Harm
+      - Emotional Harm
+      - Psychological Harm
+      - Financial Harm
       required: false
     - id: 16
       name: perpetrator_relationship_with_survivor
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: perpetrator_previous_violence_against_others
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: survivor_support
@@ -169,8 +169,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: perpetrator_sustains_harm_from_others
@@ -178,8 +178,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: perpetrator_sustains_harm_from_someone_else
@@ -187,8 +187,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: perpetrator_violence_prevention_methods_used

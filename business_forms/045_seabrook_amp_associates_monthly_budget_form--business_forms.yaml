@@ -5,186 +5,122 @@ inputSchema:
     pages:
     - id: 1
       name: income
-      label: Income
-      hint: null
+      label: What is your monthly income?
+      hint: Enter your monthly income
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: expenses_1
-      label: Housing
+      name: other_income
+      label: Do you have any other income streams?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 3
-      name: expenses_2
-      label: Transportation
+      name: rent_or_mortage
+      label: Do you pay rent or mortgage?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 4
-      name: expenses_3
-      label: Utilities
+      name: other_living_expenses
+      label: Do you have other living expenses?
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 5
-      name: expenses_4
-      label: Food and Beverage
+      name: utilities
+      label: How much do you spend on utilities?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: expenses_5
-      label: Other
+      name: other_utilities
+      label: Do you have other utility expenses?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: food_and_beverages
+      label: How much do you spend on food and beverages?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 7
-      name: category_1
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true
     - id: 8
-      name: category_2
-      label: Category
+      name: other_food_and_beverages
+      label: Do you have other food and beverage expenses?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 9
-      name: category_3
-      label: Category
+      name: other_expenses
+      label: Do you have other expenses?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 10
-      name: category_4
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: category_5
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
       name: notes
-      label: Notes
+      label: What are your other expenses?
       hint: null
       type: note
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: category_1
+      label: Category 1 - Do you need to report this category?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: category_2
+      label: Category 2 - Do you need to report this category?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 13
-      name: notes_2
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: notes_3
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: notes_4
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: notes_5
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
       name: email
-      label: Email
+      label: Do you have an email we can reach you at?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 18
-      name: email_2
-      label: Email
+      required: true
+    - id: 14
+      name: other_email
+      label: Do you have any other email addresses we can reach you at?
       hint: null
       type: email
       options: []
-      required: false
-    - id: 19
-      name: email_3
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: email_4
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: phone_3
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: phone_4
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
+      required: true
+    - id: 15
       name: date
-      label: Date
+      label: What date do you need to receive the budget report?
       hint: null
       type: date
       options: []
-      required: false
+      required: true

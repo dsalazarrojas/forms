@@ -196,8 +196,8 @@ inputSchema:
       hint: Can derivative works be created
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - With Permission Only
       required: true
     - id: 23
@@ -228,8 +228,8 @@ inputSchema:
       hint: Are syndication rights included
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - With Additional Compensation
       required: true
     - id: 26
@@ -250,7 +250,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Certify
-      - false
+      - 'False'
       required: true
     - id: 28
       name: not_previously_published
@@ -275,7 +275,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Certify
-      - false
+      - 'False'
       required: true
     - id: 31
       name: indemnification
@@ -284,7 +284,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Agree
-      - false
+      - 'False'
       required: true
     - id: 32
       name: additional_terms

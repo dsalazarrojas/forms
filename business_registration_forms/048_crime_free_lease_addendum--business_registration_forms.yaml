@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: site_type
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Commercial''}'
-      - '{''value'': ''Residential''}'
-      - '{''value'': ''Retail''}'
+      - Commercial
+      - Residential
+      - Retail
       required: false
     - id: 5
       name: lease_start_date

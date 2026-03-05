@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''For direct marketing''}'
-      - '{''id'': 2, ''name'': ''For direct sales''}'
-      - '{''id'': 3, ''name'': ''For customer service''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - For direct marketing
+      - For direct sales
+      - For customer service
+      - Other
       required: true
     - id: 4
       name: data_processing_duration
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''On-premises''}'
-      - '{''id'': 2, ''name'': ''Cloud''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - On-premises
+      - Cloud
+      - Other
       required: false
     - id: 6
       name: data_security_measurements
@@ -51,11 +51,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Encryption''}'
-      - '{''id'': 2, ''name'': ''Access controls''}'
-      - '{''id'': 3, ''name'': ''Pseudonymization''}'
-      - '{''id'': 4, ''name'': ''Anonymization''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Encryption
+      - Access controls
+      - Pseudonymization
+      - Anonymization
+      - Other
       required: false
     - id: 7
       name: data_breach_notification
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Email
+      - Phone
+      - Other
       required: false
     - id: 8
       name: data_subjects_rights
@@ -73,11 +73,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Right to access''}'
-      - '{''id'': 2, ''name'': ''Right to rectification''}'
-      - '{''id'': 3, ''name'': ''Right to objection''}'
-      - '{''id'': 4, ''name'': ''Right to erasure''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Right to access
+      - Right to rectification
+      - Right to objection
+      - Right to erasure
+      - Other
       required: true
     - id: 9
       name: data_processing_gdpr_compliance
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: data_subjects_age
@@ -101,8 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''On demand''}'
-      - '{''id'': 2, ''name'': ''On data protection regulation expiration''}'
+      - On demand
+      - On data protection regulation expiration
       required: false
     - id: 12
       name: data_storage_capacity
@@ -131,8 +131,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''State A''}'
-      - '{''id'': 2, ''name'': ''State B''}'
+      - State A
+      - State B
       required: false
     - id: 16
       name: data_breach_notification_channel
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Email
+      - Phone
+      - Other
       required: false
     - id: 17
       name: data_processing_start_date
@@ -164,9 +164,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Laptop''}'
-      - '{''id'': 2, ''name'': ''Smartphone''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Laptop
+      - Smartphone
+      - Other
       required: false
     - id: 20
       name: data_subjects_gender
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Male''}'
-      - '{''id'': 2, ''name'': ''Female''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 21
       name: data_subjects_marital_status
@@ -184,9 +184,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Married''}'
-      - '{''id'': 2, ''name'': ''Single''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Married
+      - Single
+      - Other
       required: false
     - id: 22
       name: data_subjects_income
@@ -194,9 +194,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 23
       name: data_subjects_job_title

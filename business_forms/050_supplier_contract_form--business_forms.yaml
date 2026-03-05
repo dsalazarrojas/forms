@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: supplier_contract_form
+    title: Supplier Contract Form
     pages:
     - id: 1
       name: supplier_name
@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: contract_term
-      label: contract_term
+      label: Contract Terms
       hint: null
       type: select_one
       options:
@@ -21,35 +21,35 @@ inputSchema:
       required: false
     - id: 3
       name: contract_start_date
-      label: contract_start_date
+      label: Contract Start Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 4
       name: contract_end_date
-      label: contract_end_date
+      label: Contract End Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
       name: supplier_address
-      label: supplier_address
+      label: Supplier Address
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: contract_value
-      label: contract_value
+      label: Contract Value
       hint: null
       type: number
       options: []
       required: false
     - id: 7
       name: payment_terms
-      label: payment_terms
+      label: Payment Terms
       hint: null
       type: select_one
       options:
@@ -58,35 +58,35 @@ inputSchema:
       required: false
     - id: 8
       name: notes
-      label: notes
+      label: Additional Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 9
       name: email
-      label: email
+      label: Supplier Contact Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 10
       name: phone
-      label: phone
+      label: Supplier Contact Phone Number
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: assigned_tool
-      label: assigned_tool
+      label: Assigned Tool
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: category
-      label: category
+      label: Category of Business Form
       hint: null
       type: select_one
       options:
@@ -94,99 +94,48 @@ inputSchema:
       - 'No'
       required: false
     - id: 13
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
       name: category_business_forms
-      label: category_business_forms
+      label: Category of Business Forms
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 15
+    - id: 14
       name: form_ids
-      label: form_ids
+      label: Form Identifiers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: output_file
+      label: Output File
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: output_file
-      label: output_file
+      name: description
+      label: Description
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: description
-      label: description
+      name: assigned_tool_2
+      label: Assigned Tool 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: category
-      label: category
+      name: category_2
+      label: Category
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 19
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: category
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
       required: false

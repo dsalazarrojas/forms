@@ -51,12 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Absolute Beginner
-        value: beginner
-      - label: Intermediate / Enthusiast
-        value: intermediate
-      - label: Professional / Expert
-        value: expert
+      - Absolute Beginner
+      - Intermediate / Enthusiast
+      - Professional / Expert
       required: true
     - id: 8
       name: ebook_objectives
@@ -64,14 +61,10 @@ inputSchema:
       hint: Select all that apply.
       type: select_multiple
       options:
-      - label: Lead Generation (List building)
-        value: lead_gen
-      - label: Educational (Course companion)
-        value: educational
-      - label: Authority Building (Thought leadership)
-        value: authority
-      - label: Direct Sales (Revenue generation)
-        value: sales
+      - Lead Generation (List building)
+      - Educational (Course companion)
+      - Authority Building (Thought leadership)
+      - Direct Sales (Revenue generation)
       required: true
     - id: 9
       name: content_details_header
@@ -93,14 +86,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Formal & Academic
-        value: formal
-      - label: Conversational & Casual
-        value: conversational
-      - label: Inspirational & Bold
-        value: inspirational
-      - label: Technical & Precise
-        value: technical
+      - Formal & Academic
+      - Conversational & Casual
+      - Inspirational & Bold
+      - Technical & Precise
       required: true
     - id: 12
       name: outline_summary
@@ -115,16 +104,11 @@ inputSchema:
       hint: Select the tools you plan to use for generation/editing.
       type: select_multiple
       options:
-      - label: OpenAI (ChatGPT/GPT-4)
-        value: openai
-      - label: Anthropic (Claude)
-        value: anthropic
-      - label: Midjourney (Illustrations)
-        value: midjourney
-      - label: Jasper / Copy.ai
-        value: jasper
-      - label: Grammarly / ProWritingAid
-        value: grammar_tools
+      - OpenAI (ChatGPT/GPT-4)
+      - Anthropic (Claude)
+      - Midjourney (Illustrations)
+      - Jasper / Copy.ai
+      - Grammarly / ProWritingAid
       required: false
     - id: 14
       name: visual_elements
@@ -132,14 +116,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: AI-Generated Illustrations
-        value: ai_images
-      - label: Stock Photography
-        value: stock_photos
-      - label: Data Charts & Infographics
-        value: infographics
-      - label: Screenshots / Tutorials
-        value: screenshots
+      - AI-Generated Illustrations
+      - Stock Photography
+      - Data Charts & Infographics
+      - Screenshots / Tutorials
       required: false
     - id: 15
       name: export_format_preference
@@ -147,14 +127,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: PDF (Standard Layout)
-        value: pdf
-      - label: EPUB (Reflowable text)
-        value: epub
-      - label: MOBI/Kindle
-        value: mobi
-      - label: Google Doc / MS Word
-        value: docx
+      - PDF (Standard Layout)
+      - EPUB (Reflowable text)
+      - MOBI/Kindle
+      - Google Doc / MS Word
       required: true
     - id: 16
       name: project_deadline

@@ -5,203 +5,88 @@ inputSchema:
     pages:
     - id: 1
       name: base
-      label: Base
+      label: Base of the logarithm
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 2
-      name: number
-      label: Number
+      name: result
+      label: Result of the logarithm
       hint: null
       type: number
       options: []
-      required: true
+      required: false
     - id: 3
       name: logarithm_base
-      label: Logarithm Base
+      label: Type of logarithm base
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Common logarithm
+      - Natural logarithm
+      - Decimal logarithm
       required: false
     - id: 4
-      name: result
-      label: Result
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 5
       name: logarithm_value
-      label: Logarithm Value
+      label: Value of the logarithm
       hint: null
       type: number
       options: []
-      required: true
+      required: false
+    - id: 5
+      name: time_of_calculation
+      label: Time of calculation
+      hint: null
+      type: date
+      options: []
+      required: false
     - id: 6
-      name: logarithm_type
-      label: Logarithm Type
+      name: answer
+      label: Answer to the question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: correct_answer
+      label: Correct answer to the question
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 7
-      name: result_1
-      label: Result
-      hint: null
-      type: number
-      options: []
-      required: false
     - id: 8
-      name: logarithm_value_1
-      label: Logarithm Value
+      name: reason
+      label: Reason for your answer
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 9
-      name: logarithm_type_1
-      label: Logarithm Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: calculation
-      label: Calculation
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: result_2
-      label: Result
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: answer
-      label: Answer
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: correct_answer
-      label: Correct answer
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: reason
-      label: Reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 17
+    - id: 10
       name: phone
-      label: Phone
+      label: Phone number
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
+    - id: 11
       name: name
       label: Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
+    - id: 12
       name: time_1
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: time_2
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: time_3
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: time_4
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: time_5
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 26
-      name: time_6
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 27
-      name: time_7
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 28
-      name: time_8
       label: Time
       hint: null
       type: time

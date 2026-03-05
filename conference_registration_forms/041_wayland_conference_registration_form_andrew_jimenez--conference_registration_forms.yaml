@@ -15,177 +15,63 @@ inputSchema:
     title: wayland-conference-registration-form-andrew-jimenez
     pages:
     - id: 1
-      name: conference_registration_form_andrew_jimenez_page_1
-      label: conference registration form andrew jimenez
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: conference_registration_form_andrew_jimenez_page_2
-      label: conference registration form andrew jimenez
+      name: personal_info
+      label: Personal Info
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: conference_registration_form_andrew_jimenez_page_3
-      label: conference registration form andrew jimenez
+      name: contact_method
+      label: Contact Method
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - I Agree
+      - I do not Agree
+      required: true
     - id: 4
-      name: conference_registration_form_andrew_jimenez_page_4
-      label: conference registration form andrew jimenez
+      name: name
+      label: Full Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: conference_registration_form_andrew_jimenez_page_5
-      label: conference registration form andrew jimenez
+      name: email
+      label: Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 6
-      name: conference_registration_form_andrew_jimenez_page_6
-      label: conference registration form andrew jimenez
+      name: date
+      label: Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 7
-      name: conference_registration_form_andrew_jimenez_page_7
-      label: conference registration form andrew jimenez
+      name: time
+      label: Time
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 8
-      name: conference_registration_form_andrew_jimenez_page_8
-      label: conference registration form andrew jimenez
+      name: role
+      label: Role
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: conference_registration_form_andrew_jimenez_page_9
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: conference_registration_form_andrew_jimenez_page_10
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: conference_registration_form_andrew_jimenez_page_11
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: conference_registration_form_andrew_jimenez_page_12
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: conference_registration_form_andrew_jimenez_page_13
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: conference_registration_form_andrew_jimenez_page_14
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: conference_registration_form_andrew_jimenez_page_15
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: conference_registration_form_andrew_jimenez_page_16
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: conference_registration_form_andrew_jimenez_page_17
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: conference_registration_form_andrew_jimenez_page_18
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: conference_registration_form_andrew_jimenez_page_19
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: conference_registration_form_andrew_jimenez_page_20
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: conference_registration_form_andrew_jimenez_page_21
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: conference_registration_form_andrew_jimenez_page_22
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: conference_registration_form_andrew_jimenez_page_23
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: conference_registration_form_andrew_jimenez_page_24
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: conference_registration_form_andrew_jimenez_page_25
-      label: conference registration form andrew jimenez
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Attendee
+      - Speaker
+      - Sponsor
+      required: true

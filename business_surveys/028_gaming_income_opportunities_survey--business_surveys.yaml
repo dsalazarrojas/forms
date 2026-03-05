@@ -5,81 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: intro
-      label: welcome_to_the_survey
+      label: Welcome to the survey
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: gaming_income
-      label: how_do_you_earn_money
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 3
       name: income_level
-      label: what_is_your_income_level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: income_from_gaming
-      label: how_much_do_you_earn_from_gaming
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: income_justification
-      label: why_do_you_earn_money_through_gaming
-      hint: null
-      type: select_one
-      options:
-      - Motivation 1
-      - Motivation 2
-      - Motivation 3
-      required: false
-    - id: 6
-      name: gaming_motivations
-      label: what_motivates_you_to_play
-      hint: null
-      type: select_multiple
-      options:
-      - Motivation 1
-      - Motivation 2
-      - Motivation 3
-      required: false
-    - id: 7
-      name: additional_income
-      label: do_you_receive_additional_income
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 8
-      name: survey_completion
-      label: that_is_all_for_today
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: time_spent_playing
-      label: how_much_time_do_you_spend_playing_games
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: gaming_frequency
-      label: how_often_do_you_play_games
+      label: What is your income level?
       hint: null
       type: select_one
       options:
@@ -87,9 +20,52 @@ inputSchema:
       - Sometimes
       - Rarely
       required: false
-    - id: 11
+    - id: 3
+      name: income_from_gaming
+      label: How much do you earn from gaming?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income_justification
+      label: Why do you earn money through gaming?
+      hint: null
+      type: select_multiple
+      options:
+      - Motivation 1
+      - Motivation 2
+      - Motivation 3
+      required: false
+    - id: 5
+      name: additional_income
+      label: Do you receive additional income from gaming?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: time_spent_playing
+      label: How much time do you spend playing games?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: gaming_frequency
+      label: How often do you play games?
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 8
       name: gaming_communities
-      label: what_gaming_communities_do_you_belong_to
+      label: What gaming communities do you belong to?
       hint: null
       type: select_multiple
       options:
@@ -97,42 +73,28 @@ inputSchema:
       - Community 2
       - Community 3
       required: false
-    - id: 12
+    - id: 9
       name: gaming_partners
-      label: do_you_have_any_gaming_partners
+      label: Do you have gaming partners?
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
       required: false
-    - id: 13
+    - id: 10
       name: survey_participation
-      label: how_did_you_hear_about_this_survey
+      label: How did you hear about this survey?
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 14
-      name: survey_completion
-      label: that_is_all_for_today
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: time_spent_streaming
-      label: how_much_time_do_you_spend_streaming
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
+    - id: 11
       name: gaming_streaming_frequency
-      label: how_often_do_you_stream
+      label: How often do you stream games?
       hint: null
       type: select_one
       options:
@@ -140,9 +102,9 @@ inputSchema:
       - Sometimes
       - Rarely
       required: false
-    - id: 17
-      name: streaming_platforms
-      label: which_streaming_platforms_do_you_use
+    - id: 12
+      name: gaming_streaming_platforms
+      label: Which streaming platforms do you use?
       hint: null
       type: select_multiple
       options:
@@ -150,71 +112,12 @@ inputSchema:
       - Platform 2
       - Platform 3
       required: false
-    - id: 18
-      name: gamer_tags
-      label: do_you_have_a_tag_on_your_stream
+    - id: 13
+      name: gaming_tags
+      label: Do you have a tag on your stream?
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
-      required: false
-    - id: 19
-      name: survey_completion
-      label: that_is_all_for_today
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: gaming_frequency
-      label: how_often_do_you_play_games
-      hint: null
-      type: select_one
-      options:
-      - Often
-      - Sometimes
-      - Rarely
-      required: false
-    - id: 21
-      name: gaming_frequency
-      label: how_often_do_you_play_games
-      hint: null
-      type: select_one
-      options:
-      - Often
-      - Sometimes
-      - Rarely
-      required: false
-    - id: 22
-      name: gamer_tags
-      label: do_you_have_a_tag_on_your_stream
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 23
-      name: gaming_partners
-      label: do_you_have_any_gaming_partners
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 24
-      name: survey_completion
-      label: that_is_all_for_today
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: gaming_income
-      label: how_much_do_you_earn_from_gaming
-      hint: null
-      type: number
-      options: []
       required: false

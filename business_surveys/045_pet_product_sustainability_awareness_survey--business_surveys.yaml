@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
-      - '{''value'': ''Always'', ''label'': ''Always''}'
+      - Rarely
+      - Frequently
+      - Always
       required: false
     - id: 4
       name: sustainability_awareness
@@ -47,10 +47,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Never'', ''label'': ''Never''}'
-      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
-      - '{''value'': ''Always'', ''label'': ''Always''}'
+      - Never
+      - Rarely
+      - Frequently
+      - Always
       required: false
     - id: 7
       name: sustainability_awareness_level
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Low'', ''label'': ''Low''}'
-      - '{''value'': ''Medium'', ''label'': ''Medium''}'
-      - '{''value'': ''High'', ''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 8
       name: survey_time_spent
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Never'', ''label'': ''Never''}'
-      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
-      - '{''value'': ''Frequently'', ''label'': ''Frequently''}'
-      - '{''value'': ''Always'', ''label'': ''Always''}'
+      - Never
+      - Rarely
+      - Frequently
+      - Always
       required: false
     - id: 10
       name: sustainability_awareness_source
@@ -86,11 +86,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Social Media'', ''label'': ''Social Media''}'
-      - '{''value'': ''Friends'', ''label'': ''Friends''}'
-      - '{''value'': ''Family'', ''label'': ''Family''}'
-      - '{''value'': ''Online'', ''label'': ''Online''}'
-      - '{''value'': ''Offline'', ''label'': ''Offline''}'
+      - Social Media
+      - Friends
+      - Family
+      - Online
+      - Offline
       required: false
     - id: 11
       name: other_sustainability_source
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''No Labels'', ''label'': ''No Labels''}'
-      - '{''value'': ''Partially Labeled'', ''label'': ''Partially Labeled''}'
-      - '{''value'': ''Fully Labeled'', ''label'': ''Fully Labeled''}'
+      - No Labels
+      - Partially Labeled
+      - Fully Labeled
       required: false
     - id: 13
       name: sustainability_labeling
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''No Labels'', ''label'': ''No Labels''}'
-      - '{''value'': ''Partially Labeled'', ''label'': ''Partially Labeled''}'
-      - '{''value'': ''Fully Labeled'', ''label'': ''Fully Labeled''}'
+      - No Labels
+      - Partially Labeled
+      - Fully Labeled
       required: false
     - id: 14
       name: packaging_type
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Single-use'', ''label'': ''Single-use''}'
-      - '{''value'': ''Reusable'', ''label'': ''Reusable''}'
-      - '{''value'': ''Compostable'', ''label'': ''Compostable''}'
+      - Single-use
+      - Reusable
+      - Compostable
       required: false
     - id: 15
       name: product_origin
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''China'', ''label'': ''China''}'
-      - '{''value'': ''Japan'', ''label'': ''Japan''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - China
+      - Japan
+      - Other
       required: false
     - id: 16
       name: other_product_origin
@@ -159,9 +159,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''No Materials'', ''label'': ''No Materials''}'
-      - '{''value'': ''Partially Eco Friendly'', ''label'': ''Partially Eco Friendly''}'
-      - '{''value'': ''Fully Eco Friendly'', ''label'': ''Fully Eco Friendly''}'
+      - No Materials
+      - Partially Eco Friendly
+      - Fully Eco Friendly
       required: false
     - id: 19
       name: product_compatibility
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''No Compatibility'', ''label'': ''No Compatibility''}'
-      - '{''value'': ''Partially Compatible'', ''label'': ''Partially Compatible''}'
-      - '{''value'': ''Fully Compatible'', ''label'': ''Fully Compatible''}'
+      - No Compatibility
+      - Partially Compatible
+      - Fully Compatible
       required: false
     - id: 20
       name: product_compatibility_reason
@@ -207,10 +207,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''No Compatibility 2'', ''label'': ''No Compatibility 2''}'
-      - '{''value'': ''Partially Compatibility 2'', ''label'': ''Partially Compatibility
-        2''}'
-      - '{''value'': ''Fully Compatibility 2'', ''label'': ''Fully Compatibility 2''}'
+      - No Compatibility 2
+      - Partially Compatibility 2
+      - Fully Compatibility 2
       required: false
     - id: 25
       name: product_compatibility_awareness
@@ -218,10 +217,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''No Compatibility Awareness 2'', ''label'': ''No Compatibility
-        Awareness 2''}'
-      - '{''value'': ''Partially Compatibility Awareness 2'', ''label'': ''Partially
-        Compatibility Awareness 2''}'
-      - '{''value'': ''Fully Compatibility Awareness 2'', ''label'': ''Fully Compatibility
-        Awareness 2''}'
+      - No Compatibility Awareness 2
+      - Partially Compatibility Awareness 2
+      - Fully Compatibility Awareness 2
       required: false

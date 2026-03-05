@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''good'', ''label'': ''Good''}'
-      - '{''id'': 3, ''name'': ''fair'', ''label'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 3
       name: parking_lot_equipment
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_alarms'', ''label'': ''Fire Alarms''}'
-      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
-      - '{''id'': 3, ''name'': ''emergency_exits'', ''label'': ''Emergency Exits''}'
+      - Fire Alarms
+      - Sprinkler System
+      - Emergency Exits
       required: true
     - id: 5
       name: parking_lot_cleanliness
@@ -44,8 +44,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
-      - '{''id'': 2, ''name'': ''dirty'', ''label'': ''Dirty''}'
+      - Clean
+      - Dirty
       required: true
     - id: 6
       name: parking_lot_condition_2
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
-      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      - Fire Alarm System
+      - Sprinkler System
       required: true
     - id: 9
       name: parking_lot_cleanliness_2
@@ -76,7 +76,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Clean
       - Other
       required: true
     - id: 10
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
-      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      - Fire Alarm System
+      - Sprinkler System
       required: true
     - id: 13
       name: parking_lot_cleanliness_3
@@ -108,7 +108,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Clean
       - Other
       required: true
     - id: 14
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
-      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      - Fire Alarm System
+      - Sprinkler System
       required: true
     - id: 16
       name: parking_lot_cleanliness_4
@@ -133,7 +133,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Clean
       - Other
       required: true
     - id: 17
@@ -149,8 +149,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
-      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      - Fire Alarm System
+      - Sprinkler System
       required: false
     - id: 19
       name: parking_lot_cleanliness_5
@@ -158,7 +158,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Clean
       - Other
       required: false
     - id: 20
@@ -174,8 +174,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
-      - '{''id'': 2, ''name'': ''sprinkler_system'', ''label'': ''Sprinkler System''}'
+      - Fire Alarm System
+      - Sprinkler System
       required: false
     - id: 22
       name: parking_lot_cleanliness_6
@@ -183,7 +183,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Clean
       - Other
       required: false
     - id: 23
@@ -199,7 +199,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fire_alarm_system'', ''label'': ''Fire Alarm System''}'
+      - Fire Alarm System
       - Other
       required: false
     - id: 25
@@ -208,6 +208,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''clean'', ''label'': ''Clean''}'
+      - Clean
       - Other
       required: false

@@ -44,11 +44,11 @@ inputSchema:
       hint: 1 being poor, 5 being excellent
       type: select_one
       options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 7
       name: seo_status
@@ -129,8 +129,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: additional_comments

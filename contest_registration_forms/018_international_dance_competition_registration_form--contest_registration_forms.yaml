@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''ballet''}'
-      - '{''value'': ''contemporary''}'
-      - '{''value'': ''hip-hop''}'
-      - '{''value'': ''jazz''}'
-      - '{''value'': ''modern''}'
-      - '{''value'': ''tap''}'
+      - ballet
+      - contemporary
+      - hip-hop
+      - jazz
+      - modern
+      - tap
       required: false
     - id: 3
       name: age_group
@@ -29,14 +29,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''5-8''}'
-      - '{''value'': ''9-12''}'
-      - '{''value'': ''13-18''}'
-      - '{''value'': ''19-24''}'
-      - '{''value'': ''25-30''}'
-      - '{''value'': ''31-40''}'
-      - '{''value'': ''41-50''}'
-      - '{''value'': ''51-60''}'
+      - 5-8
+      - 9-12
+      - 13-18
+      - 19-24
+      - 25-30
+      - 31-40
+      - 41-50
+      - 51-60
       required: false
     - id: 4
       name: contact_info
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''no-partner''}'
-      - '{''value'': ''partner-included''}'
+      - no-partner
+      - partner-included
       required: false
     - id: 7
       name: dance_partner_name

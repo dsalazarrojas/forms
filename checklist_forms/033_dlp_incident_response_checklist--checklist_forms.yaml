@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''A''}'
-      - '{''label'': ''B''}'
-      - '{''label'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 3
       name: incident_classification_other
@@ -33,13 +33,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''A''}'
-      - '{''label'': ''B''}'
-      - '{''label'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 5
       name: incident_type_other
-      label: If other please specify
+      label: Incident Type Other
       hint: null
       type: text
       options: []
@@ -78,13 +78,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 11
       name: incident_impact_other
-      label: If other please specify
+      label: Incident Impact Other
       hint: null
       type: text
       options: []
@@ -95,13 +95,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 13
       name: incident_severity_other
-      label: If other please specify
+      label: Incident Severity Other
       hint: null
       type: text
       options: []
@@ -114,8 +114,8 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: incident_responder
-      label: Responder
+      name: incident_responder_2
+      label: Incident Responder 2
       hint: null
       type: text
       options: []
@@ -142,22 +142,22 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: incident_responder_note
-      label: Responder notes
+      name: incident_responder_note_2
+      label: Incident Responder Note 2
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: incident_responder_note_2
+      name: incident_responder_note_2_2
       label: Responder notes 2
       hint: null
       type: note
       options: []
       required: false
     - id: 21
-      name: incident_responder_note_2
-      label: Responder notes 2
+      name: incident_responder_note_2_3
+      label: Incident Responder Note 2 3
       hint: null
       type: text
       options: []
@@ -170,8 +170,8 @@ inputSchema:
       options: []
       required: false
     - id: 23
-      name: incident_responder_note_3
-      label: Responder notes 3
+      name: incident_responder_note_3_2
+      label: Incident Responder Note 3 2
       hint: null
       type: text
       options: []
@@ -184,8 +184,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: incident_reviewed_by
-      label: Reviewed By
+      name: incident_reviewed_by_2
+      label: Incident Reviewed By 2
       hint: null
       type: text
       options: []

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Prefer not to send''}'
+      - 'True'
+      - 'False'
+      - Prefer not to send
       required: false
     - id: 4
       name: phone
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Send emails on weekdays''}'
-      - '{''id'': 2, ''label'': ''Send emails on weekends''}'
-      - '{''id'': 3, ''label'': ''Send emails daily''}'
+      - Send emails on weekdays
+      - Send emails on weekends
+      - Send emails daily
       required: false
     - id: 10
       name: note

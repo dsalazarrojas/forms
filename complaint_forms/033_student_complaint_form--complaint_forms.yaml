@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Academic Issue'', ''value'': ''Academic Issue''}'
-      - '{''id'': 2, ''name'': ''Student Issue'', ''value'': ''Student Issue''}'
-      - '{''id'': 3, ''name'': ''Faculty Issue'', ''value'': ''Faculty Issue''}'
-      - '{''id'': 4, ''name'': ''Other'', ''value'': ''Other''}'
+      - Academic Issue
+      - Student Issue
+      - Faculty Issue
+      - Other
       required: false
     - id: 7
       name: submit
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''submit'', ''value'': ''Submit''}'
-      - '{''id'': 2, ''name'': ''Save Draft'', ''value'': ''Save Draft''}'
-      - '{''id'': 3, ''name'': ''Cancel'', ''value'': ''Cancel''}'
+      - Submit
+      - Save Draft
+      - Cancel
       required: false
     - id: 8
       name: attachments
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Academic'', ''value'': ''Academic''}'
-      - '{''id'': 2, ''name'': ''Administrative'', ''value'': ''Administrative''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - Academic
+      - Administrative
+      - Other
       required: false
     - id: 10
       name: assigned_tool
@@ -103,7 +103,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Academic'', ''value'': ''Academic''}'
-      - '{''id'': 2, ''name'': ''Administrative'', ''value'': ''Administrative''}'
-      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - Academic
+      - Administrative
+      - Other
       required: false

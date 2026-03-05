@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''chatjimmy''}'
-      - '{''name'': ''chatlaura''}'
+      - chatjimmy
+      - chatlaura
       required: true
     - id: 6
       name: assigned_tool
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''chatjimmy''}'
-      - '{''name'': ''chatlaura''}'
+      - chatjimmy
+      - chatlaura
       required: true
     - id: 7
       name: due_date
@@ -69,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: comments
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''math''}'
-      - '{''name'': ''science''}'
+      - math
+      - science
       required: true
     - id: 12
       name: subject
@@ -94,7 +94,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''math''}'
-      - '{''name'': ''science''}'
-      - '{''name'': ''English''}'
+      - math
+      - science
+      - English
       required: true

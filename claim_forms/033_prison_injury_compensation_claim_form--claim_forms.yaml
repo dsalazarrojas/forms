@@ -103,7 +103,7 @@ inputSchema:
       required: false
     - id: 15
       name: incident_reporter_name
-      label: Incident Reporter
+      label: Incident Reporter Name
       hint: null
       type: text
       options: []
@@ -124,7 +124,7 @@ inputSchema:
       required: false
     - id: 18
       name: incident_reporter_relationship
-      label: Relationship to Claimant
+      label: Incident Reporter Relationship
       hint: null
       type: text
       options: []
@@ -152,7 +152,7 @@ inputSchema:
       required: false
     - id: 22
       name: incident_reporter_supervisor_relationship
-      label: Relationship to Claimant
+      label: Incident Reporter Supervisor Relationship
       hint: null
       type: text
       options: []
@@ -170,9 +170,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Minor Injuries'', ''value'': ''minor_injuries''}'
-      - '{''label'': ''Serious Injuries'', ''value'': ''serious_injuries''}'
-      - '{''label'': ''Both Minor and Serious Injuries'', ''value'': ''both_injuries''}'
+      - Minor Injuries
+      - Serious Injuries
+      - Both Minor and Serious Injuries
       required: false
     - id: 25
       name: claimant_injuries_other

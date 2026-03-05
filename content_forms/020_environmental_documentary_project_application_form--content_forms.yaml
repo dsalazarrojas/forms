@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Festival name'', ''label'': ''Festival name''}'
-      - '{''value'': ''Festival location'', ''label'': ''Festival location''}'
-      - '{''value'': ''Project duration'', ''label'': ''Project duration''}'
-      - '{''value'': ''Project budget'', ''label'': ''Project budget''}'
+      - Festival name
+      - Festival location
+      - Project duration
+      - Project budget
       required: false
     - id: 2
       name: school_form_data
@@ -20,9 +20,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Grade level'', ''label'': ''Grade level''}'
-      - '{''value'': ''Student number'', ''label'': ''Student number''}'
-      - '{''value'': ''Teacher number'', ''label'': ''Teacher number''}'
+      - Grade level
+      - Student number
+      - Teacher number
       required: true
     - id: 3
       name: ngo_form_data
@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Organization type'', ''label'': ''Organization type''}'
-      - '{''value'': ''Location'', ''label'': ''Location''}'
+      - Organization type
+      - Location
       required: true
     - id: 4
       name: grant_form_data
@@ -39,8 +39,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Grant type'', ''label'': ''Grant type''}'
-      - '{''value'': ''Grant amount'', ''label'': ''Grant amount''}'
+      - Grant type
+      - Grant amount
       required: false
     - id: 5
       name: project_details

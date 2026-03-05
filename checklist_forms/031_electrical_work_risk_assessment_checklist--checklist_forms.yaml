@@ -4,188 +4,78 @@ inputSchema:
     title: Electrical Work Risk Assessment Checklist
     pages:
     - id: 1
-      name: risk_assessment_checklist_form_1
-      label: Electrical Work Risk Assessment Checklist
+      name: electrical_work_risk_assessment_1
+      label: Is the electrical work area free from overhead hazards?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 2
-      name: risk_assessment_checklist_form_2
-      label: Risk Assessment Form
+      name: electrical_work_risk_assessment_2
+      label: Is the work area clear from debris and tripping hazards?
       hint: null
-      type: select_one
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true
     - id: 3
-      name: risk_assessment_checklist_form_3
-      label: Electrical Risk Assessment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: risk_assessment_checklist_form_4
-      label: Assessment Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: risk_assessment_checklist_form_5
-      label: Time of Assessment
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: risk_assessment_checklist_form_6
-      label: Risk Assessment Results
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: risk_assessment_checklist_form_7
-      label: Electrical Risk Assessment Results
+      name: electrical_work_risk_assessment_3
+      label: Are all electrical cables and wires properly secured and labeled?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: risk_assessment_checklist_form_8
-      label: Risk Level
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: electrical_work_risk_assessment_4
+      label: Is there a fire alarm system in place in the work area?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: electrical_work_risk_assessment_5
+      label: Is there a risk assessment plan in place for the work area?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: electrical_work_risk_assessment_6
+      label: What is the highest risk level for the entire project?
       hint: null
       type: select_one
       options:
       - Low
       - Medium
       - High
-      required: false
+      required: true
+    - id: 7
+      name: electrical_work_risk_assessment_7
+      label: Risk Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: electrical_work_risk_assessment_8
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 9
-      name: risk_assessment_checklist_form_9
-      label: Risk Level
+      name: electrical_work_risk_assessment_9
+      label: Time of Assessment
       hint: null
-      type: number
+      type: time
       options: []
-      required: false
-    - id: 10
-      name: risk_assessment_checklist_form_10
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: risk_assessment_checklist_form_11
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: risk_assessment_checklist_form_12
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: risk_assessment_checklist_form_13
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: risk_assessment_checklist_form_14
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: risk_assessment_checklist_form_15
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: risk_assessment_checklist_form_16
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: risk_assessment_checklist_form_17
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: risk_assessment_checklist_form_18
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: risk_assessment_checklist_form_19
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: risk_assessment_checklist_form_20
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: risk_assessment_checklist_form_21
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: risk_assessment_checklist_form_22
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: risk_assessment_checklist_form_23
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: risk_assessment_checklist_form_24
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: risk_assessment_checklist_form_25
-      label: Risk Level
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true

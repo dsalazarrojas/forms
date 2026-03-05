@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Gasoline''}'
-      - '{''id'': 2, ''label'': ''Diesel''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Gasoline
+      - Diesel
+      - Other
       required: true
     - id: 6
       name: fuel_consumption
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Truck''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Car
+      - Truck
+      - Other
       required: true
     - id: 9
       name: fuel_emissions_rating
@@ -127,9 +127,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Liters''}'
-      - '{''id'': 2, ''label'': ''Tons''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Liters
+      - Tons
+      - Other
       required: false
     - id: 18
       name: vehicle_model

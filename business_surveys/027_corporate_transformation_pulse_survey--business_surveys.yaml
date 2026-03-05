@@ -5,140 +5,49 @@ inputSchema:
     pages:
     - id: 1
       name: company_name
-      label: Company Name
+      label: What is the company name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: employee_sentiment
-      label: Employee Sentiment
+      label: How would you rate the current employee sentiment?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: communication_effectiveness
-      label: Communication Effectiveness
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: confidence_in_change
-      label: Confidence in Change
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: department_name
-      label: Department Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: manager_name
-      label: Manager Name
+      label: Who is your manager?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
-      name: confidence_level
-      label: Confidence Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: department_name_2
-      label: Department Name
+      required: true
+    - id: 4
+      name: department_name
+      label: What is your department name?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 5
       name: departmental_effectiveness
-      label: Departmental Effectiveness
+      label: How would you rate your department's overall effectiveness?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 10
-      name: confidence_level_2
-      label: Confidence Level
+      required: true
+    - id: 6
+      name: confidence_level
+      label: How confident are you in the company's transformation?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 11
-      name: manager_name_2
-      label: Manager Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: team_name
-      label: Team Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: confidence_level_3
-      label: Confidence Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: departmental_effectiveness_2
-      label: Departmental Effectiveness
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: team_name_2
-      label: Team Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: confidence_level_4
-      label: Confidence Level
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: departmental_effectiveness_2
-      label: Departmental Effectiveness
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: manager_name_3
-      label: Manager Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: team_name_2
-      label: Team Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+      required: true
+    - id: 7
       name: change_initiative
-      label: Change Initiative
+      label: What initiative do you think is most important for the company's transformation?
       hint: null
       type: select_one
       options:
@@ -146,37 +55,121 @@ inputSchema:
       - Innovation
       - Growth
       required: true
+    - id: 8
+      name: team_name
+      label: What is your team name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: departmental_effectiveness_2
+      label: How would you rate your team's effectiveness?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: confidence_level_2
+      label: How confident are you in your team's performance?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: manager_feedback
+      label: What would you like to tell your manager?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: team_performance
+      label: How would you rate your team's performance?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: departmental_effectiveness_3
+      label: How effective do you think your department is in achieving its goals?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: confidence_level_3
+      label: How confident are you that you will achieve your goals?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: manager_name_2
+      label: Who is your manager's manager?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: team_name_2
+      label: What is your team's goal?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: confidence_level_4
+      label: How confident are you that you will achieve your team's goal?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: departmental_effectiveness_4
+      label: How effective do you think your department is in achieving its goal?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: confidence_level_5
+      label: How confident are you that you will achieve your department's goal?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: manager_name_3
+      label: Who is your manager's manager's manager?
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 21
       name: team_name_3
-      label: Team Name
+      label: Team Name 3
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: confidence_level_5
-      label: Confidence Level
+      name: confidence_level_6
+      label: Confidence Level 6
       hint: null
       type: number
       options: []
       required: false
     - id: 23
-      name: departmental_effectiveness_3
-      label: Departmental Effectiveness
+      name: departmental_effectiveness_5
+      label: Departmental Effectiveness 5
       hint: null
       type: number
       options: []
       required: false
     - id: 24
-      name: team_name_4
-      label: Team Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: confidence_level_6
-      label: Confidence Level
+      name: confidence_level_7
+      label: Confidence Level 7
       hint: null
       type: number
       options: []

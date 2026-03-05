@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''IT''}'
-      - '{''label'': ''HR''}'
-      - '{''label'': ''Other''}'
+      - IT
+      - HR
+      - Other
       required: true
     - id: 6
       name: department
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: video_type
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Awareness''}'
-      - '{''label'': ''Training''}'
+      - Awareness
+      - Training
       required: true
     - id: 10
       name: video_location
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Local''}'
-      - '{''label'': ''Remote''}'
+      - Local
+      - Remote
       required: true
     - id: 11
       name: date

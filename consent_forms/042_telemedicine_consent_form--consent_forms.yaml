@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: data_sharing
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: patient_privacy
@@ -41,8 +41,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''public''}'
-      - '{''value'': ''private''}'
+      - public
+      - private
       required: false
     - id: 6
       name: telemedicine_security
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''strong''}'
-      - '{''value'': ''weak''}'
+      - strong
+      - weak
       required: false
     - id: 8
       name: electronic_medical_record

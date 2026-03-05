@@ -6,181 +6,109 @@ inputSchema:
     - id: 1
       name: introduction
       label: Introduction
-      hint: null
+      hint: A brief introduction to the pitch
       type: text
       options: []
       required: false
     - id: 2
-      name: pitch
-      label: pitch
-      hint: null
-      type: text
-      options: []
+      name: pitch_opinion
+      label: What did you think of the pitch?
+      hint: Select one
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: feedback
       label: feedback
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 4
-      name: improvement
-      label: improvement
-      hint: null
+      name: improvement_point
+      label: What do you think is the main improvement point for the pitch?
+      hint: Select one
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: suggestion
-      label: suggestion
-      hint: null
+      label: Do you have any suggestions for the pitch?
+      hint: Please provide your suggestions
       type: text
       options: []
       required: false
     - id: 6
       name: next_steps
-      label: next_steps
-      hint: null
+      label: What are the next steps for the pitch?
+      hint: Please provide your next steps
       type: text
       options: []
       required: false
     - id: 7
-      name: follow_up
-      label: follow_up
-      hint: null
+      name: additional_comments
+      label: Do you have any other comments on the pitch?
+      hint: Please provide any additional comments
       type: text
       options: []
       required: false
     - id: 8
-      name: additional_info
-      label: additional_info
-      hint: null
+      name: follow_up_info
+      label: How can I follow up with you about the pitch?
+      hint: Provide a preferred email address or phone number
       type: text
       options: []
       required: false
     - id: 9
       name: email
-      label: email
-      hint: null
+      label: Email
+      hint: Enter a valid email address
       type: email
       options: []
       required: false
     - id: 10
       name: phone
-      label: phone
-      hint: null
+      label: Phone Number
+      hint: Enter a valid phone number
       type: text
       options: []
       required: false
     - id: 11
-      name: next_steps
-      label: next_steps
-      hint: null
+      name: additional_info
+      label: Additional Information
+      hint: Please provide any additional information
       type: text
       options: []
       required: false
     - id: 12
-      name: next_steps
-      label: next_steps
-      hint: null
+      name: status
+      label: What is the status of the pitch?
+      hint: Please provide the current status
       type: text
       options: []
       required: false
     - id: 13
       name: follow_up
-      label: follow_up
-      hint: null
+      label: Follow-up
+      hint: How can I follow up with you about the pitch?
       type: text
       options: []
       required: false
     - id: 14
-      name: follow_up
-      label: follow_up
-      hint: null
+      name: suggestion_phone
+      label: Your phone number
+      hint: Enter a valid phone number
       type: text
       options: []
       required: false
     - id: 15
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: additional_info
-      label: additional_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: additional_info
-      label: additional_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: improvement
-      label: improvement
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: suggestion
-      label: suggestion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: next_steps
-      label: next_steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: follow_up
-      label: follow_up
-      hint: null
-      type: text
+      name: email_address
+      label: Your email address
+      hint: Enter a valid email address
+      type: email
       options: []
       required: false

@@ -1,79 +1,68 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Digital Access Survey
     pages:
-      - id: 1
-        name: household_type
-        label: Household type
-        hint: Select your household composition
-        type: select_one
-        options:
-          - Single adult
-          - Family with children
-          - Shared housing
-          - Other
-        required: true
-      - id: 2
-        name: internet_access
-        label: Internet access at home
-        hint: Type of internet connection
-        type: select_one
-        options:
-          - No access
-          - Dial up
-          - DSL
-          - Cable
-          - Fiber
-          - Cellular data
-        required: true
-      - id: 3
-        name: device_ownership
-        label: Devices owned in household
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Smartphone
-          - Tablet
-          - Laptop
-          - Desktop
-          - None
-        required: true
-      - id: 4
-        name: data_limit_issues
-        label: Data limit or affordability issues
-        hint: Does data cost limit use
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 5
-        name: digital_skills_needs
-        label: Areas where support is needed
-        hint: Select topics where training is helpful
-        type: select_multiple
-        options:
-          - Basic computing
-          - Online safety and privacy
-          - Job search tools
-          - Remote learning support
-        required: false
-      - id: 6
-        name: suggestions
-        label: Suggestions to improve digital access
-        hint: Open ended suggestions
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: household_type
+      label: Household type
+      hint: Select your household composition
+      type: select_one
+      options:
+      - Single adult
+      - Family with children
+      - Shared housing
+      - Other
+      required: true
+    - id: 2
+      name: internet_access
+      label: Internet access at home
+      hint: Type of internet connection
+      type: select_one
+      options:
+      - No access
+      - Dial up
+      - DSL
+      - Cable
+      - Fiber
+      - Cellular data
+      required: true
+    - id: 3
+      name: device_ownership
+      label: Devices owned in household
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Smartphone
+      - Tablet
+      - Laptop
+      - Desktop
+      - None
+      required: true
+    - id: 4
+      name: data_limit_issues
+      label: Data limit or affordability issues
+      hint: Does data cost limit use
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: digital_skills_needs
+      label: Areas where support is needed
+      hint: Select topics where training is helpful
+      type: select_multiple
+      options:
+      - Basic computing
+      - Online safety and privacy
+      - Job search tools
+      - Remote learning support
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions to improve digital access
+      hint: Open ended suggestions
+      type: text
+      options: []
+      required: false

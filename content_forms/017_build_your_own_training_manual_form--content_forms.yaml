@@ -1,204 +1,193 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Build Your Own Training Manual Form
     pages:
-      - id: 1
-        name: creator_name
-        label: Manual Creator Name
-        hint: Your full name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: department
-        label: Department
-        hint: Your department
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: email
-        label: Email Address
-        hint: Contact email
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: manual_title
-        label: Manual Title
-        hint: Name of your training manual
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: manual_version
-        label: Manual Version
-        hint: Version number
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: creation_date
-        label: Creation Date
-        hint: Date of creation
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: target_audience
-        label: Target Audience
-        hint: Who is this manual for
-        type: select_one
-        options:
-          - New Employees
-          - Existing Staff
-          - Management
-          - Contractors
-          - Customers
-          - All Staff
-        required: true
-      - id: 8
-        name: training_category
-        label: Training Category
-        hint: Primary category
-        type: select_one
-        options:
-          - Onboarding
-          - Technical Skills
-          - Soft Skills
-          - Compliance
-          - Safety
-          - Product Training
-          - Process Training
-          - Leadership
-        required: true
-      - id: 9
-        name: topics_included
-        label: Topics to Include
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Company Overview
-          - Policies and Procedures
-          - Job Responsibilities
-          - Software Systems
-          - Customer Service
-          - Safety Protocols
-          - Quality Standards
-          - Communication Guidelines
-          - Performance Expectations
-          - Resources and Tools
-        required: true
-      - id: 10
-        name: section_1_title
-        label: Section 1 Title
-        hint: First section name
-        type: text
-        options: []
-        required: true
-      - id: 11
-        name: section_1_content
-        label: Section 1 Content Summary
-        hint: Brief description of content
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: section_2_title
-        label: Section 2 Title
-        hint: Second section name
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: section_2_content
-        label: Section 2 Content Summary
-        hint: Brief description
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: section_3_title
-        label: Section 3 Title
-        hint: Third section name
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: section_3_content
-        label: Section 3 Content Summary
-        hint: Brief description
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: include_assessments
-        label: Include Assessments
-        hint: Should the manual include quizzes
-        type: select_one
-        options:
-          - Yes - After Each Section
-          - Yes - At End Only
-          - No
-        required: true
-      - id: 17
-        name: include_checklists
-        label: Include Checklists
-        hint: Should checklists be included
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 18
-        name: include_references
-        label: Include References
-        hint: Additional resources section
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 19
-        name: format_preference
-        label: Format Preference
-        hint: Preferred format
-        type: select_one
-        options:
-          - PDF Document
-          - Interactive Web
-          - Printable Workbook
-          - Slide Deck
-          - All Formats
-        required: true
-      - id: 20
-        name: estimated_pages
-        label: Estimated Page Count
-        hint: Approximate length
-        type: select_one
-        options:
-          - 1-10 Pages
-          - 11-25 Pages
-          - 26-50 Pages
-          - 51-100 Pages
-          - 100 Plus Pages
-        required: false
-      - id: 21
-        name: additional_notes
-        label: Additional Notes
-        hint: Any other requirements
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: creator_name
+      label: Manual Creator Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: manual_title
+      label: Manual Title
+      hint: Name of your training manual
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manual_version
+      label: Manual Version
+      hint: Version number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: creation_date
+      label: Creation Date
+      hint: Date of creation
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: target_audience
+      label: Target Audience
+      hint: Who is this manual for
+      type: select_one
+      options:
+      - New Employees
+      - Existing Staff
+      - Management
+      - Contractors
+      - Customers
+      - All Staff
+      required: true
+    - id: 8
+      name: training_category
+      label: Training Category
+      hint: Primary category
+      type: select_one
+      options:
+      - Onboarding
+      - Technical Skills
+      - Soft Skills
+      - Compliance
+      - Safety
+      - Product Training
+      - Process Training
+      - Leadership
+      required: true
+    - id: 9
+      name: topics_included
+      label: Topics to Include
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Company Overview
+      - Policies and Procedures
+      - Job Responsibilities
+      - Software Systems
+      - Customer Service
+      - Safety Protocols
+      - Quality Standards
+      - Communication Guidelines
+      - Performance Expectations
+      - Resources and Tools
+      required: true
+    - id: 10
+      name: section_1_title
+      label: Section 1 Title
+      hint: First section name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_1_content
+      label: Section 1 Content Summary
+      hint: Brief description of content
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_2_title
+      label: Section 2 Title
+      hint: Second section name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_2_content
+      label: Section 2 Content Summary
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_3_title
+      label: Section 3 Title
+      hint: Third section name
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_3_content
+      label: Section 3 Content Summary
+      hint: Brief description
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: include_assessments
+      label: Include Assessments
+      hint: Should the manual include quizzes
+      type: select_one
+      options:
+      - Yes - After Each Section
+      - Yes - At End Only
+      - 'False'
+      required: true
+    - id: 17
+      name: include_checklists
+      label: Include Checklists
+      hint: Should checklists be included
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: include_references
+      label: Include References
+      hint: Additional resources section
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
+      name: format_preference
+      label: Format Preference
+      hint: Preferred format
+      type: select_one
+      options:
+      - PDF Document
+      - Interactive Web
+      - Printable Workbook
+      - Slide Deck
+      - All Formats
+      required: true
+    - id: 20
+      name: estimated_pages
+      label: Estimated Page Count
+      hint: Approximate length
+      type: select_one
+      options:
+      - 1-10 Pages
+      - 11-25 Pages
+      - 26-50 Pages
+      - 51-100 Pages
+      - 100 Plus Pages
+      required: false
+    - id: 21
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other requirements
+      type: text
+      options: []
+      required: false

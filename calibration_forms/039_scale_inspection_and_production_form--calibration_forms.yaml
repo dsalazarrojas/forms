@@ -23,8 +23,8 @@ inputSchema:
       hint: Select production status
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Complete''}'
+      - In Progress
+      - Complete
       required: false
     - id: 4
       name: issues
@@ -32,8 +32,8 @@ inputSchema:
       hint: Select any issues
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''In Progress''}'
-      - '{''id'': 2, ''label'': ''Complete''}'
+      - In Progress
+      - Complete
       required: false
     - id: 5
       name: notes

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 5
       name: incident_management
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: true
     - id: 6
       name: business_continuity
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Available''}'
+      - 'True'
+      - 'False'
+      - Not Available
       required: true
     - id: 9
       name: recovery_team
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''Not Available''}'
+      - Available
+      - Not Available
       required: true
     - id: 10
       name: testing_and_testing_frequency
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - 'True'
+      - 'False'
+      - Not Applicable
       required: true
     - id: 17
       name: disaster_recovery_testing
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Available''}'
+      - 'True'
+      - 'False'
+      - Not Available
       required: true
     - id: 18
       name: testing_results
@@ -158,9 +158,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Not Available''}'
+      - 'True'
+      - 'False'
+      - Not Available
       required: true
     - id: 21
       name: business_continuity_planning

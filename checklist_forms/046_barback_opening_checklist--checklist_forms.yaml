@@ -1,253 +1,242 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Barback Opening Checklist
     pages:
-      - id: 1
-        name: checklist_date
-        label: Checklist Date
-        hint: Date of opening shift
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: shift_start_time
-        label: Shift Start Time
-        hint: When you began work
-        type: time
-        options: []
-        required: true
-      - id: 3
-        name: barback_name
-        label: Barback Name
-        hint: Your full name
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: manager_name
-        label: Manager on Duty
-        hint: Name of supervising manager
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: bar_section
-        label: Bar Section/Station
-        hint: Which bar section you're opening
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: doors_unlocked
-        label: Doors Unlocked Safely
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Assisted by Manager
-        required: true
-      - id: 7
-        name: lights_turned_on
-        label: All Lights Turned On
-        hint: Including under-bar and back-bar
-        type: select_one
-        options:
-          - Yes - All On
-          - Mostly On
-          - Some Off
-          - No
-        required: true
-      - id: 8
-        name: air_circulation
-        label: Air Circulation Started
-        hint: AC or fans turned on?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: true
-      - id: 9
-        name: cleanliness_inspection
-        label: Bar Area Cleanliness Inspection
-        hint: Any debris from previous night?
-        type: select_one
-        options:
-          - Clean
-          - Mostly Clean - Minor Cleanup Needed
-          - Requires Cleaning
-          - Very Dirty
-        required: true
-      - id: 10
-        name: floor_condition
-        label: Floor Clean and Dry
-        hint: null
-        type: select_one
-        options:
-          - Yes - Clean and Dry
-          - Mostly Clean
-          - Needs Sweeping/Mopping
-          - Wet or Hazardous
-        required: true
-      - id: 11
-        name: bar_counter_wiped
-        label: Bar Counter Wiped Down
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 12
-        name: bar_sink_clean
-        label: Bar Sink Clean
-        hint: null
-        type: select_one
-        options:
-          - Yes - Clean and Ready
-          - Yes - Needs Fresh Water
-          - Needs Cleaning
-          - No
-        required: true
-      - id: 13
-        name: ice_machine_stocked
-        label: Ice Machine Stocked
-        hint: Enough ice for service?
-        type: select_one
-        options:
-          - Yes - Full
-          - Yes - Adequate
-          - Low - Needs Monitoring
-          - Empty or Not Working
-        required: true
-      - id: 14
-        name: glasses_stocked
-        label: Glasses Stocked and Ready
-        hint: All glass types available?
-        type: select_one
-        options:
-          - Yes - Fully Stocked
-          - Mostly Stocked
-          - Some Types Low
-          - Critically Low
-        required: true
-      - id: 15
-        name: bottles_organized
-        label: Liquor Bottles Organized
-        hint: Arranged by type/brand?
-        type: select_one
-        options:
-          - Yes - Properly Organized
-          - Mostly Organized
-          - Disorganized
-          - No
-        required: true
-      - id: 16
-        name: garnishes_fresh
-        label: Fresh Garnishes Prepared
-        hint: Limes, lemons, cherries cut?
-        type: select_one
-        options:
-          - Yes - Fresh and Ready
-          - Yes - Using Yesterday's
-          - No - Need to Prepare
-          - Not Applicable
-        required: true
-      - id: 17
-        name: mixers_stocked
-        label: Mixers and Sodas Stocked
-        hint: Tonic, soda, juice available?
-        type: select_one
-        options:
-          - Yes - Fully Stocked
-          - Mostly Stocked
-          - Some Types Low
-          - Need to Restock
-        required: true
-      - id: 18
-        name: equipment_check
-        label: Equipment Working Properly
-        hint: Blender, juicer, shakers functional?
-        type: select_one
-        options:
-          - Yes - All Working
-          - Mostly Working
-          - Some Issues
-          - Equipment Broken
-        required: true
-      - id: 19
-        name: taps_flowing
-        label: Beer Taps Flowing Properly
-        hint: null
-        type: select_one
-        options:
-          - Yes - All Flowing
-          - Mostly Flowing
-          - Some Not Working
-          - Not Checked
-        required: false
-      - id: 20
-        name: register_setup
-        label: Cash Register Set Up
-        hint: Till opened and counted?
-        type: select_one
-        options:
-          - Yes - Ready for Service
-          - In Progress
-          - Not Yet Started
-          - Not Needed
-        required: true
-      - id: 21
-        name: pos_system_started
-        label: POS System Started
-        hint: Computer/register system on?
-        type: select_one
-        options:
-          - Yes - Up and Running
-          - Yes - Running
-          - Not Started
-          - Issues/Slow
-        required: true
-      - id: 22
-        name: supplies_inspected
-        label: Bar Supplies Inspected
-        hint: Napkins, straws, stirrers adequate?
-        type: select_one
-        options:
-          - Yes - Well Stocked
-          - Adequately Stocked
-          - Low on Some Items
-          - Need to Restock
-        required: true
-      - id: 23
-        name: safety_hazards
-        label: Safety Hazards Noted
-        hint: Any hazards observed?
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: opening_complete
-        label: Opening Checklist Complete
-        hint: null
-        type: select_one
-        options:
-          - Fully Complete
-          - Mostly Complete
-          - Partially Complete
-          - Not Complete
-        required: true
+    - id: 1
+      name: checklist_date
+      label: Checklist Date
+      hint: Date of opening shift
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: shift_start_time
+      label: Shift Start Time
+      hint: When you began work
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: barback_name
+      label: Barback Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager on Duty
+      hint: Name of supervising manager
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: bar_section
+      label: Bar Section/Station
+      hint: Which bar section you're opening
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doors_unlocked
+      label: Doors Unlocked Safely
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Assisted by Manager
+      required: true
+    - id: 7
+      name: lights_turned_on
+      label: All Lights Turned On
+      hint: Including under-bar and back-bar
+      type: select_one
+      options:
+      - Yes - All On
+      - Mostly On
+      - Some Off
+      - 'False'
+      required: true
+    - id: 8
+      name: air_circulation
+      label: Air Circulation Started
+      hint: AC or fans turned on?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 9
+      name: cleanliness_inspection
+      label: Bar Area Cleanliness Inspection
+      hint: Any debris from previous night?
+      type: select_one
+      options:
+      - Clean
+      - Mostly Clean - Minor Cleanup Needed
+      - Requires Cleaning
+      - Very Dirty
+      required: true
+    - id: 10
+      name: floor_condition
+      label: Floor Clean and Dry
+      hint: null
+      type: select_one
+      options:
+      - Yes - Clean and Dry
+      - Mostly Clean
+      - Needs Sweeping/Mopping
+      - Wet or Hazardous
+      required: true
+    - id: 11
+      name: bar_counter_wiped
+      label: Bar Counter Wiped Down
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 12
+      name: bar_sink_clean
+      label: Bar Sink Clean
+      hint: null
+      type: select_one
+      options:
+      - Yes - Clean and Ready
+      - Yes - Needs Fresh Water
+      - Needs Cleaning
+      - 'False'
+      required: true
+    - id: 13
+      name: ice_machine_stocked
+      label: Ice Machine Stocked
+      hint: Enough ice for service?
+      type: select_one
+      options:
+      - Yes - Full
+      - Yes - Adequate
+      - Low - Needs Monitoring
+      - Empty or Not Working
+      required: true
+    - id: 14
+      name: glasses_stocked
+      label: Glasses Stocked and Ready
+      hint: All glass types available?
+      type: select_one
+      options:
+      - Yes - Fully Stocked
+      - Mostly Stocked
+      - Some Types Low
+      - Critically Low
+      required: true
+    - id: 15
+      name: bottles_organized
+      label: Liquor Bottles Organized
+      hint: Arranged by type/brand?
+      type: select_one
+      options:
+      - Yes - Properly Organized
+      - Mostly Organized
+      - Disorganized
+      - 'False'
+      required: true
+    - id: 16
+      name: garnishes_fresh
+      label: Fresh Garnishes Prepared
+      hint: Limes, lemons, cherries cut?
+      type: select_one
+      options:
+      - Yes - Fresh and Ready
+      - Yes - Using Yesterday's
+      - No - Need to Prepare
+      - Not Applicable
+      required: true
+    - id: 17
+      name: mixers_stocked
+      label: Mixers and Sodas Stocked
+      hint: Tonic, soda, juice available?
+      type: select_one
+      options:
+      - Yes - Fully Stocked
+      - Mostly Stocked
+      - Some Types Low
+      - Need to Restock
+      required: true
+    - id: 18
+      name: equipment_check
+      label: Equipment Working Properly
+      hint: Blender, juicer, shakers functional?
+      type: select_one
+      options:
+      - Yes - All Working
+      - Mostly Working
+      - Some Issues
+      - Equipment Broken
+      required: true
+    - id: 19
+      name: taps_flowing
+      label: Beer Taps Flowing Properly
+      hint: null
+      type: select_one
+      options:
+      - Yes - All Flowing
+      - Mostly Flowing
+      - Some Not Working
+      - Not Checked
+      required: false
+    - id: 20
+      name: register_setup
+      label: Cash Register Set Up
+      hint: Till opened and counted?
+      type: select_one
+      options:
+      - Yes - Ready for Service
+      - In Progress
+      - Not Yet Started
+      - Not Needed
+      required: true
+    - id: 21
+      name: pos_system_started
+      label: POS System Started
+      hint: Computer/register system on?
+      type: select_one
+      options:
+      - Yes - Up and Running
+      - Yes - Running
+      - Not Started
+      - Issues/Slow
+      required: true
+    - id: 22
+      name: supplies_inspected
+      label: Bar Supplies Inspected
+      hint: Napkins, straws, stirrers adequate?
+      type: select_one
+      options:
+      - Yes - Well Stocked
+      - Adequately Stocked
+      - Low on Some Items
+      - Need to Restock
+      required: true
+    - id: 23
+      name: safety_hazards
+      label: Safety Hazards Noted
+      hint: Any hazards observed?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: opening_complete
+      label: Opening Checklist Complete
+      hint: null
+      type: select_one
+      options:
+      - Fully Complete
+      - Mostly Complete
+      - Partially Complete
+      - Not Complete
+      required: true

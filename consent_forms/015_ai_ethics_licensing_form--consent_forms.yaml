@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: licensing_entities_header
-      label: --- Licensee Information ---
+      label: '--- Licensee Information ---'
       hint: Details of the entity requesting the license.
       type: note
       options: []
@@ -41,20 +30,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: For-Profit Corporation
-        value: for_profit
-      - label: Non-Profit / NGO
-        value: non_profit
-      - label: Academic / Research Institution
-        value: academic
-      - label: Individual Developer
-        value: individual
-      - label: Government Agency
-        value: government
+      - For-Profit Corporation
+      - Non-Profit / NGO
+      - Academic / Research Institution
+      - Individual Developer
+      - Government Agency
       required: true
     - id: 5
       name: ai_project_details_header
-      label: --- AI Project and Model Details ---
+      label: '--- AI Project and Model Details ---'
       hint: null
       type: note
       options: []
@@ -79,18 +63,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Commercial Enterprise License
-        value: commercial
-      - label: Research and Development License
-        value: research
-      - label: Educational / Non-Commercial License
-        value: educational
-      - label: Evaluation / Trial License
-        value: evaluation
+      - Commercial Enterprise License
+      - Research and Development License
+      - Educational / Non-Commercial License
+      - Evaluation / Trial License
       required: true
     - id: 9
       name: ethical_constraints_header
-      label: --- Ethical Compliance and Constraints ---
+      label: '--- Ethical Compliance and Constraints ---'
       hint: Mandatory adherence to ethical use policies.
       type: note
       options: []
@@ -101,16 +81,11 @@ inputSchema:
       hint: Check all categories you agree NOT to use the AI for.
       type: select_multiple
       options:
-      - label: Lethal Autonomous Weapons Systems
-        value: weapons
-      - label: Mass Surveillance or Social Scoring
-        value: surveillance
-      - label: Generating Misinformation / Deepfakes without Disclosure
-        value: misinformation
-      - label: Discrimination in Hiring, Credit, or Healthcare
-        value: discrimination
-      - label: Exploitation of Vulnerable Groups
-        value: exploitation
+      - Lethal Autonomous Weapons Systems
+      - Mass Surveillance or Social Scoring
+      - Generating Misinformation / Deepfakes without Disclosure
+      - Discrimination in Hiring, Credit, or Healthcare
+      - Exploitation of Vulnerable Groups
       required: true
     - id: 11
       name: data_privacy_compliance
@@ -118,16 +93,11 @@ inputSchema:
       hint: Which standards does your implementation adhere to?
       type: select_multiple
       options:
-      - label: GDPR (EU)
-        value: gdpr
-      - label: CCPA/CPRA (California)
-        value: ccpa
-      - label: HIPAA (Healthcare US)
-        value: hipaa
-      - label: SOC 2 Type II
-        value: soc2
-      - label: Local Privacy Laws Only
-        value: local
+      - GDPR (EU)
+      - CCPA/CPRA (California)
+      - HIPAA (Healthcare US)
+      - SOC 2 Type II
+      - Local Privacy Laws Only
       required: true
     - id: 12
       name: model_transparency_level
@@ -135,16 +105,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Fully Transparent (Open Weights/Source)
-        value: open
-      - label: Partially Transparent (API access + Documentation)
-        value: partial
-      - label: Proprietary / Black Box
-        value: proprietary
+      - Fully Transparent (Open Weights/Source)
+      - Partially Transparent (API access + Documentation)
+      - Proprietary / Black Box
       required: true
     - id: 13
       name: legal_logistics_header
-      label: --- Legal and Administrative ---
+      label: '--- Legal and Administrative ---'
       hint: null
       type: note
       options: []
@@ -162,12 +129,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Quarterly Self-Assessment
-        value: quarterly
-      - label: Annual External Audit
-        value: annual
-      - label: Continuous Monitoring (API logs)
-        value: continuous
+      - Quarterly Self-Assessment
+      - Annual External Audit
+      - Continuous Monitoring (API logs)
       required: true
     - id: 16
       name: compliance_contact_email
@@ -189,8 +153,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, I accept
-        value: yes
-      - label: No, I do not accept
-        value: no
+      - Yes, I accept
+      - No, I do not accept
       required: true

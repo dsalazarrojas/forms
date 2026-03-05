@@ -1,171 +1,160 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Censorship Awareness Survey
     pages:
-      - id: 1
-        name: demographics_header
-        label: -- Demographic Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: age_group
-        label: Age Group
-        hint: null
-        type: select_one
-        options:
-          - Under 18
-          - 18-24
-          - 25-34
-          - 35-44
-          - 45-54
-          - 55+
-        required: true
-      - id: 3
-        name: profession_category
-        label: Profession
-        hint: Select the category that best describes your work
-        type: select_one
-        options:
-          - Education
-          - Research
-          - Media
-          - Legal
-          - Technology
-          - Other
-        required: true
-      - id: 4
-        name: awareness_header
-        label: -- Awareness of Censorship --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: awareness_rating
-        label: Awareness of Information Rights
-        hint: How would you rate your overall awareness
-        type: select_one
-        options:
-          - Very High
-          - High
-          - Moderate
-          - Low
-          - Very Low
-        required: true
-      - id: 6
-        name: known_censorship_forms
-        label: Forms of Censorship
-        hint: Which forms are you most familiar with
-        type: select_multiple
-        options:
-          - Internet filtering
-          - Book banning
-          - Media suppression
-          - Academic restrictions
-          - Self-censorship
-        required: true
-      - id: 7
-        name: personal_experience_header
-        label: -- Personal Experience --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: experienced_censorship
-        label: Have you witnessed or experienced censorship
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-        required: true
-      - id: 9
-        name: experience_description
-        label: Describe the Incident
-        hint: Optional - please share a brief description if you answered yes
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: concern_levels_header
-        label: -- Concern Levels --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: field_concern_level
-        label: Concern in Your Field
-        hint: How concerned are you about censorship in your profession
-        type: select_one
-        options:
-          - Extremely Concerned
-          - Concerned
-          - Somewhat Concerned
-          - Not Concerned
-        required: true
-      - id: 12
-        name: policy_awareness_header
-        label: -- Organizational Policy --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: freedom_info_policy
-        label: Organizational Policy on Freedom of Information
-        hint: Does your organization have a clear, written policy
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Unsure
-        required: true
-      - id: 14
-        name: education_rec_header
-        label: -- Recommendations and Education --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 15
-        name: awareness_improvement_tools
-        label: Tools for Awareness
-        hint: What would help increase understanding of censorship issues
-        type: select_multiple
-        options:
-          - Workshops
-          - Online resources
-          - Legislative advocacy
-          - Case studies
-        required: false
-      - id: 16
-        name: optional_contact_header
-        label: -- Optional Contact --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: contact_email
-        label: Email Address
-        hint: For survey results and updates
-        type: email
-        options: []
-        required: false
+    - id: 1
+      name: demographics_header
+      label: -- Demographic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55+
+      required: true
+    - id: 3
+      name: profession_category
+      label: Profession
+      hint: Select the category that best describes your work
+      type: select_one
+      options:
+      - Education
+      - Research
+      - Media
+      - Legal
+      - Technology
+      - Other
+      required: true
+    - id: 4
+      name: awareness_header
+      label: -- Awareness of Censorship --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: awareness_rating
+      label: Awareness of Information Rights
+      hint: How would you rate your overall awareness
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Moderate
+      - Low
+      - Very Low
+      required: true
+    - id: 6
+      name: known_censorship_forms
+      label: Forms of Censorship
+      hint: Which forms are you most familiar with
+      type: select_multiple
+      options:
+      - Internet filtering
+      - Book banning
+      - Media suppression
+      - Academic restrictions
+      - Self-censorship
+      required: true
+    - id: 7
+      name: personal_experience_header
+      label: -- Personal Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: experienced_censorship
+      label: Have you witnessed or experienced censorship
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 9
+      name: experience_description
+      label: Describe the Incident
+      hint: Optional - please share a brief description if you answered yes
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: concern_levels_header
+      label: -- Concern Levels --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: field_concern_level
+      label: Concern in Your Field
+      hint: How concerned are you about censorship in your profession
+      type: select_one
+      options:
+      - Extremely Concerned
+      - Concerned
+      - Somewhat Concerned
+      - Not Concerned
+      required: true
+    - id: 12
+      name: policy_awareness_header
+      label: -- Organizational Policy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: freedom_info_policy
+      label: Organizational Policy on Freedom of Information
+      hint: Does your organization have a clear, written policy
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 14
+      name: education_rec_header
+      label: -- Recommendations and Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: awareness_improvement_tools
+      label: Tools for Awareness
+      hint: What would help increase understanding of censorship issues
+      type: select_multiple
+      options:
+      - Workshops
+      - Online resources
+      - Legislative advocacy
+      - Case studies
+      required: false
+    - id: 16
+      name: optional_contact_header
+      label: -- Optional Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: contact_email
+      label: Email Address
+      hint: For survey results and updates
+      type: email
+      options: []
+      required: false

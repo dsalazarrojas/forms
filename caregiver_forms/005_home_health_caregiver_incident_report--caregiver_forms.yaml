@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fall/Injury''}'
-      - '{''id'': 2, ''label'': ''Medication/Allergy''}'
-      - '{''id'': 3, ''label'': ''Infection/Contamination''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Fall/Injury
+      - Medication/Allergy
+      - Infection/Contamination
+      - Other
       required: true
     - id: 6
       name: incident_details
@@ -69,11 +69,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''In progress''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
-      - '{''id'': 4, ''label'': ''Canceled''}'
-      - '{''id'': 5, ''label'': ''Postponed''}'
+      - None
+      - In progress
+      - Completed
+      - Canceled
+      - Postponed
       required: false
     - id: 10
       name: followup_notes
@@ -137,11 +137,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''In progress''}'
-      - '{''id'': 3, ''label'': ''Completed''}'
-      - '{''id'': 4, ''label'': ''Canceled''}'
-      - '{''id'': 5, ''label'': ''Postponed''}'
+      - None
+      - In progress
+      - Completed
+      - Canceled
+      - Postponed
       required: false
     - id: 19
       name: followup_notes_2

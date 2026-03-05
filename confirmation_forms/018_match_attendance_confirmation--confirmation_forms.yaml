@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Team A''}'
-      - '{''value'': ''Team B''}'
+      - Team A
+      - Team B
       required: false
     - id: 3
       name: date
@@ -63,12 +63,12 @@ inputSchema:
       required: false
     - id: 9
       name: team_name_others
-      label: Team Name
+      label: Team Name Others
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Team A''}'
-      - '{''value'': ''Team B''}'
+      - Team A
+      - Team B
       required: false
     - id: 10
       name: attendance_confirmation
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: other_team
@@ -85,8 +85,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Team A''}'
-      - '{''value'': ''Team B''}'
+      - Team A
+      - Team B
       required: false
     - id: 12
       name: note
@@ -167,21 +167,21 @@ inputSchema:
       required: false
     - id: 23
       name: team_names_2
-      label: Team Names
+      label: Team Names 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: team_leads_2
-      label: Team Leads
+      label: Team Leads 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
       name: team_members_2
-      label: Team Members
+      label: Team Members 2
       hint: null
       type: text
       options: []

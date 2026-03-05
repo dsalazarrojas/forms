@@ -1,246 +1,235 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Bar Cleaning Checklist
     pages:
-      - id: 1
-        name: checklist_date
-        label: Checklist Date
-        hint: Date of cleaning
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: shift_time
-        label: Shift Time
-        hint: Opening, Mid, or Closing shift?
-        type: select_one
-        options:
-          - Opening Shift
-          - Mid Shift
-          - Closing Shift
-        required: true
-      - id: 3
-        name: staff_member_name
-        label: Staff Member Name
-        hint: Name of person doing checklist
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: staff_member_id
-        label: Staff ID or Employee Number
-        hint: Employee identifier
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: manager_name
-        label: Manager on Duty
-        hint: Name of supervising manager
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: bar_counter_cleaned
-        label: Bar Counter Cleaned and Sanitized
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 7
-        name: bar_counter_notes
-        label: Bar Counter - Notes
-        hint: Any issues or notes
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: glass_washer_checked
-        label: Glass Washer Checked and Filled
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: true
-      - id: 9
-        name: bar_sink_cleaned
-        label: Bar Sink Cleaned and Stocked
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 10
-        name: bottles_restocked
-        label: Bottles Restocked and Organized
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 11
-        name: liquor_bottles_checked
-        label: Liquor Bottles - Check for Damage
-        hint: Any broken or leaking bottles?
-        type: select_one
-        options:
-          - Yes - No Issues
-          - Yes - Issues Found
-          - No - Need to Check
-        required: true
-      - id: 12
-        name: draft_beer_lines_cleaned
-        label: Draft Beer Lines Cleaned
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Due
-        required: false
-      - id: 13
-        name: taps_polished
-        label: Taps and Handles Polished
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 14
-        name: ice_bin_cleaned
-        label: Ice Bin Cleaned and Stocked
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 15
-        name: garnish_prepared
-        label: Garnishes Prepared and Fresh
-        hint: Limes, lemons, cherries, olives
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 16
-        name: mixer_bottles_restocked
-        label: Mixer Bottles Restocked
-        hint: Soda, tonic, cola, juice
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 17
-        name: floor_swept_mopped
-        label: Floor Swept and Mopped
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 18
-        name: bar_stools_cleaned
-        label: Bar Stools Cleaned
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: true
-      - id: 19
-        name: trash_removed
-        label: Trash Removed and Disposed
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 20
-        name: cutting_boards_sanitized
-        label: Cutting Boards Sanitized
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: true
-      - id: 21
-        name: bar_equipment_check
-        label: All Bar Equipment Functioning
-        hint: Blender, cocktail shaker, jigger
-        type: select_one
-        options:
-          - Yes - All Working
-          - No - Issues Found
-          - Partial - Some Issues
-        required: true
-      - id: 22
-        name: equipment_issues
-        label: Equipment Issues Found
-        hint: Describe any broken equipment
-        type: text
-        options: []
-        required: false
-      - id: 23
-        name: restroom_checked
-        label: Restroom Checked and Cleaned
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partial
-        required: false
-      - id: 24
-        name: overall_status
-        label: Overall Cleanliness Status
-        hint: General assessment
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Acceptable
-          - Needs Attention
-          - Critical Issues
-        required: true
-      - id: 25
-        name: action_items
-        label: Action Items or Issues to Address
-        hint: Anything that needs follow-up?
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: checklist_date
+      label: Checklist Date
+      hint: Date of cleaning
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: shift_time
+      label: Shift Time
+      hint: Opening, Mid, or Closing shift?
+      type: select_one
+      options:
+      - Opening Shift
+      - Mid Shift
+      - Closing Shift
+      required: true
+    - id: 3
+      name: staff_member_name
+      label: Staff Member Name
+      hint: Name of person doing checklist
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: staff_member_id
+      label: Staff ID or Employee Number
+      hint: Employee identifier
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager on Duty
+      hint: Name of supervising manager
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: bar_counter_cleaned
+      label: Bar Counter Cleaned and Sanitized
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 7
+      name: bar_counter_notes
+      label: Bar Counter - Notes
+      hint: Any issues or notes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: glass_washer_checked
+      label: Glass Washer Checked and Filled
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 9
+      name: bar_sink_cleaned
+      label: Bar Sink Cleaned and Stocked
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 10
+      name: bottles_restocked
+      label: Bottles Restocked and Organized
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 11
+      name: liquor_bottles_checked
+      label: Liquor Bottles - Check for Damage
+      hint: Any broken or leaking bottles?
+      type: select_one
+      options:
+      - Yes - No Issues
+      - Yes - Issues Found
+      - No - Need to Check
+      required: true
+    - id: 12
+      name: draft_beer_lines_cleaned
+      label: Draft Beer Lines Cleaned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Due
+      required: false
+    - id: 13
+      name: taps_polished
+      label: Taps and Handles Polished
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 14
+      name: ice_bin_cleaned
+      label: Ice Bin Cleaned and Stocked
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 15
+      name: garnish_prepared
+      label: Garnishes Prepared and Fresh
+      hint: Limes, lemons, cherries, olives
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 16
+      name: mixer_bottles_restocked
+      label: Mixer Bottles Restocked
+      hint: Soda, tonic, cola, juice
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 17
+      name: floor_swept_mopped
+      label: Floor Swept and Mopped
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 18
+      name: bar_stools_cleaned
+      label: Bar Stools Cleaned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: true
+    - id: 19
+      name: trash_removed
+      label: Trash Removed and Disposed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: cutting_boards_sanitized
+      label: Cutting Boards Sanitized
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 21
+      name: bar_equipment_check
+      label: All Bar Equipment Functioning
+      hint: Blender, cocktail shaker, jigger
+      type: select_one
+      options:
+      - Yes - All Working
+      - No - Issues Found
+      - Partial - Some Issues
+      required: true
+    - id: 22
+      name: equipment_issues
+      label: Equipment Issues Found
+      hint: Describe any broken equipment
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: restroom_checked
+      label: Restroom Checked and Cleaned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partial
+      required: false
+    - id: 24
+      name: overall_status
+      label: Overall Cleanliness Status
+      hint: General assessment
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Attention
+      - Critical Issues
+      required: true
+    - id: 25
+      name: action_items
+      label: Action Items or Issues to Address
+      hint: Anything that needs follow-up?
+      type: text
+      options: []
+      required: false

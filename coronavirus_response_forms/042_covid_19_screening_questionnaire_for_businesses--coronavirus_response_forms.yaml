@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
-      - '{''label'': ''Not sure''}'
+      - 'False'
+      - 'True'
+      - Not sure
       required: false
     - id: 5
       name: travel_history
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': True}'
-      - '{''label'': ''Not sure''}'
+      - 'False'
+      - 'True'
+      - Not sure
       required: false
     - id: 6
       name: contact_location
@@ -50,10 +50,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Store''}'
-      - '{''label'': ''Restaurant''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Home''}'
+      - Store
+      - Restaurant
+      - Other
+      - Home
       required: false
     - id: 7
       name: contact_other_places
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Store''}'
-      - '{''label'': ''Restaurant''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Home''}'
+      - Store
+      - Restaurant
+      - Other
+      - Home
       required: false
     - id: 8
       name: contact_frequency
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Daily
+      - Occasionally
+      - Rarely
+      - Never
       required: false
     - id: 9
       name: self_isolated
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: self_isolated_duration
@@ -106,6 +106,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

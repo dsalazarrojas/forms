@@ -12,180 +12,132 @@
 inputSchema:
   type: object
   properties:
-    title: margaret_cahill_engle_chenot_group_apartment_search_criteria_form
+    title: Margaret Cahill Engle Chenot Group Apartment Search Criteria Form
     pages:
     - id: 1
       name: search_criteria
       label: Search Criteria
-      hint: null
+      hint: Enter search criteria
       type: text
       options: []
       required: false
     - id: 2
-      name: search_criteria
-      label: Search Criteria
-      hint: null
-      type: text
+      name: date_range
+      label: Date Range
+      hint: Select a date range
+      type: date
       options: []
       required: false
     - id: 3
-      name: search_criteria
-      label: Search Criteria
-      hint: null
-      type: text
-      options: []
+      name: preferred_location
+      label: Preferred Location
+      hint: Select a preferred location
+      type: select_one
+      options:
+      - City A
+      - City B
+      - City C
       required: false
     - id: 4
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
+      name: preferred_location_2
+      label: Preferred Location 2
+      hint: Select a preferred location
+      type: select_one
+      options:
+      - City A
+      - City B
+      - City C
       required: false
     - id: 5
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
+      name: price_range
+      label: Price Range
+      hint: Enter a price range
+      type: number
       options: []
       required: false
     - id: 6
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
+      name: available_space
+      label: Available Space
+      hint: Select an available space
+      type: select_multiple
+      options:
+      - Studio
+      - 1-Bedroom
+      - 2-Bedroom
+      - 3-Bedroom
       required: false
     - id: 7
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
+      name: amenities
+      label: Amenities
+      hint: Select amenities
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: search_criteria
-      label: Search Criteria
-      hint: null
-      type: text
-      options: []
+      name: lease_term
+      label: Lease Term
+      hint: Select a lease term
+      type: select_one
+      options:
+      - 1 year
+      - 2 year
+      - 3 year
       required: false
     - id: 9
-      name: search_criteria
-      label: Search Criteria
-      hint: null
-      type: text
-      options: []
+      name: preferred_floor_plan
+      label: Preferred Floor Plan
+      hint: Select a preferred floor plan
+      type: select_multiple
+      options:
+      - 1-Bedroom
+      - 2-Bedroom
+      - 3-Bedroom
       required: false
     - id: 10
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
+      name: available_date
+      label: Available Date
+      hint: Select a available date
+      type: date
       options: []
       required: false
     - id: 11
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
+      name: preferred_date
+      label: Preferred Date
+      hint: Select a preferred date
+      type: date
       options: []
       required: false
     - id: 12
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
+      name: note
+      label: Note
+      hint: Additional comments
+      type: note
       options: []
       required: false
     - id: 13
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
+      name: search_results
+      label: Search Results
+      hint: List search results
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 14
-      name: date_range
-      label: Date Range
-      hint: null
+      name: search_criteria_2
+      label: Search Criteria 2
+      hint: Enter search criteria 2
       type: text
       options: []
       required: false
     - id: 15
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: date_range
-      label: Date Range
-      hint: null
-      type: text
-      options: []
+      name: search_results_2
+      label: Search Results 2
+      hint: List search results 2
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
       required: false

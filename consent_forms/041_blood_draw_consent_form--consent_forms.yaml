@@ -1,207 +1,196 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Blood Draw Consent Form
     pages:
-      - id: 1
-        name: consent_header
-        label: Blood Draw Consent Form
-        hint: Please read and provide consent for blood draw procedure
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: patient_name
-        label: Patient Name
-        hint: Full legal name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date_of_birth
-        label: Date of Birth
-        hint: Birth date
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: medical_record_number
-        label: Medical Record Number
-        hint: Patient ID
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: consent_date
-        label: Date of Consent
-        hint: Today date
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: procedure_type
-        label: Procedure Type
-        hint: Type of blood draw
-        type: select_one
-        options:
-          - Venipuncture
-          - Finger Stick
-          - Heel Stick
-          - Arterial Draw
-          - Line Draw
-        required: true
-      - id: 7
-        name: purpose_of_draw
-        label: Purpose of Blood Draw
-        hint: Why is blood being drawn
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: procedure_understanding
-        label: Procedure Understanding
-        hint: I understand the procedure
-        type: select_one
-        options:
-          - Yes I Understand
-          - I Have Questions
-        required: true
-      - id: 9
-        name: risks_explained
-        label: Risks Explained
-        hint: Have risks been explained
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: risk_acknowledgment
-        label: Risk Acknowledgment
-        hint: I understand potential risks
-        type: select_one
-        options:
-          - Yes I Understand
-          - I Have Questions
-        required: true
-      - id: 11
-        name: risk_details
-        label: Potential Risks
-        hint: Pain bruising bleeding infection etc
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: benefits_understanding
-        label: Benefits Understanding
-        hint: I understand the benefits
-        type: select_one
-        options:
-          - Yes I Understand
-          - No
-        required: true
-      - id: 13
-        name: alternatives_discussed
-        label: Alternatives Discussed
-        hint: Have alternatives been discussed
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: true
-      - id: 14
-        name: questions_answered
-        label: Questions Answered
-        hint: Have all questions been answered
-        type: select_one
-        options:
-          - Yes All Answered
-          - I Have No Questions
-          - I Still Have Questions
-        required: true
-      - id: 15
-        name: voluntary_consent
-        label: Voluntary Consent
-        hint: I give consent voluntarily
-        type: select_one
-        options:
-          - Yes Voluntary
-          - No
-        required: true
-      - id: 16
-        name: right_to_refuse
-        label: Right to Refuse
-        hint: I understand I can refuse
-        type: select_one
-        options:
-          - Yes I Understand
-          - No
-        required: true
-      - id: 17
-        name: previous_complications
-        label: Previous Complications
-        hint: Any issues with past blood draws
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 18
-        name: complication_details
-        label: Complication Details
-        hint: Describe if yes
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: difficult_access
-        label: Difficult Venous Access
-        hint: Do you have difficult veins
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Sure
-        required: true
-      - id: 20
-        name: blood_thinners
-        label: Blood Thinner Medication
-        hint: Are you on blood thinners
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 21
-        name: patient_signature
-        label: Patient Signature
-        hint: Type name as signature
-        type: text
-        options: []
-        required: true
-      - id: 22
-        name: witness_name
-        label: Healthcare Provider Name
-        hint: Provider name
-        type: text
-        options: []
-        required: true
-      - id: 23
-        name: additional_notes
-        label: Additional Notes
-        hint: Any comments
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: consent_header
+      label: Blood Draw Consent Form
+      hint: Please read and provide consent for blood draw procedure
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_record_number
+      label: Medical Record Number
+      hint: Patient ID
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_date
+      label: Date of Consent
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: procedure_type
+      label: Procedure Type
+      hint: Type of blood draw
+      type: select_one
+      options:
+      - Venipuncture
+      - Finger Stick
+      - Heel Stick
+      - Arterial Draw
+      - Line Draw
+      required: true
+    - id: 7
+      name: purpose_of_draw
+      label: Purpose of Blood Draw
+      hint: Why is blood being drawn
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: procedure_understanding
+      label: Procedure Understanding
+      hint: I understand the procedure
+      type: select_one
+      options:
+      - Yes I Understand
+      - I Have Questions
+      required: true
+    - id: 9
+      name: risks_explained
+      label: Risks Explained
+      hint: Have risks been explained
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: risk_acknowledgment
+      label: Risk Acknowledgment
+      hint: I understand potential risks
+      type: select_one
+      options:
+      - Yes I Understand
+      - I Have Questions
+      required: true
+    - id: 11
+      name: risk_details
+      label: Potential Risks
+      hint: Pain bruising bleeding infection etc
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: benefits_understanding
+      label: Benefits Understanding
+      hint: I understand the benefits
+      type: select_one
+      options:
+      - Yes I Understand
+      - 'False'
+      required: true
+    - id: 13
+      name: alternatives_discussed
+      label: Alternatives Discussed
+      hint: Have alternatives been discussed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 14
+      name: questions_answered
+      label: Questions Answered
+      hint: Have all questions been answered
+      type: select_one
+      options:
+      - Yes All Answered
+      - I Have No Questions
+      - I Still Have Questions
+      required: true
+    - id: 15
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: I give consent voluntarily
+      type: select_one
+      options:
+      - Yes Voluntary
+      - 'False'
+      required: true
+    - id: 16
+      name: right_to_refuse
+      label: Right to Refuse
+      hint: I understand I can refuse
+      type: select_one
+      options:
+      - Yes I Understand
+      - 'False'
+      required: true
+    - id: 17
+      name: previous_complications
+      label: Previous Complications
+      hint: Any issues with past blood draws
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: complication_details
+      label: Complication Details
+      hint: Describe if yes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: difficult_access
+      label: Difficult Venous Access
+      hint: Do you have difficult veins
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 20
+      name: blood_thinners
+      label: Blood Thinner Medication
+      hint: Are you on blood thinners
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: patient_signature
+      label: Patient Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: witness_name
+      label: Healthcare Provider Name
+      hint: Provider name
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_notes
+      label: Additional Notes
+      hint: Any comments
+      type: text
+      options: []
+      required: false

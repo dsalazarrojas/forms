@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''08:00-12:00''}'
-      - '{''value'': ''12:00-16:00''}'
-      - '{''value'': ''16:00-20:00''}'
+      - 08:00-12:00
+      - 12:00-16:00
+      - 16:00-20:00
       required: false
     - id: 7
       name: confirmed
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: comments

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -16,207 +5,119 @@ inputSchema:
     pages:
     - id: 1
       name: form_1
-      label: First Page
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: form_2
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_3
+      label: What is your role as a preceptor?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_4
       label: Rotation Information
       hint: null
       type: select_one
       options:
-      - '{''value'': ''option_1''}'
-      - '{''value'': ''option_2''}'
-      - '{''value'': ''option_3''}'
-      required: false
-    - id: 3
-      name: form_3
+      - What is the rotation duration?
+      - What are the rotation dates?
+      - What is the rotation time?
+      required: true
+    - id: 5
+      name: form_5
       label: Clinical Site Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: form_4
-      label: Rotation Dates
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: form_5
-      label: Rotation Time
-      hint: null
-      type: time
-      options: []
-      required: false
     - id: 6
       name: form_6
-      label: Clinical Site Information
+      label: What is the clinical site address?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: form_7
-      label: Rotation Dates
+      label: Clinical Site Contact
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 8
       name: form_8
-      label: Rotation Time
+      label: Rotation Dates and Time
       hint: null
-      type: time
+      type: date
       options: []
       required: false
     - id: 9
       name: form_9
-      label: Rotation Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: form_10
-      label: Rotation Dates
+      label: What is the rotation start date?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
+    - id: 10
+      name: form_10
+      label: What is the rotation end date?
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 11
       name: form_11
-      label: Rotation Time
+      label: What is the rotation start time?
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 12
       name: form_12
-      label: Rotation Information
+      label: What is the rotation end time?
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 13
       name: form_13
-      label: Rotation Dates
+      label: Additional Information
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 14
       name: form_14
-      label: Rotation Time
+      label: Is there any additional information you would like to provide about your
+        clinical site or rotation?
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 15
       name: form_15
-      label: Rotation Information
+      label: I confirm that the information provided is accurate and complete
       hint: null
-      type: text
-      options: []
-      required: false
+      type: checkbox
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 16
       name: form_16
-      label: Rotation Dates
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: form_17
-      label: Rotation Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: form_18
-      label: Rotation Information
+      label: Signature of the preceptor
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: form_19
-      label: Rotation Dates
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: form_20
-      label: Rotation Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: form_21
-      label: Rotation Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_22
-      label: Rotation Dates
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: form_23
-      label: Rotation Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: form_24
-      label: Rotation Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_25
-      label: Rotation End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 26
-      name: form_26
-      label: Rotation End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 27
-      name: form_27
-      label: Rotation End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 28
-      name: form_28
-      label: Rotation End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 29
-      name: form_29
-      label: Clinical Site Information
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

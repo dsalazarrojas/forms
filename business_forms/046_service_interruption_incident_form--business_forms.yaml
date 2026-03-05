@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''organization'', ''label'': ''Organization''}'
-      - '{''value'': ''team'', ''label'': ''Team''}'
+      - Organization
+      - Team
       required: true
     - id: 3
       name: incident_date
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''service1'', ''label'': ''Service 1''}'
-      - '{''value'': ''service2'', ''label'': ''Service 2''}'
-      - '{''value'': ''service3'', ''label'': ''Service 3''}'
+      - Service 1
+      - Service 2
+      - Service 3
       required: true
     - id: 7
       name: impact_severity
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''high'', ''label'': ''High''}'
-      - '{''value'': ''medium'', ''label'': ''Medium''}'
-      - '{''value'': ''low'', ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 8
       name: resolution_status
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''resolved'', ''label'': ''Resolved''}'
-      - '{''value'': ''ongoing'', ''label'': ''Ongoing''}'
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - Resolved
+      - Ongoing
+      - Pending
       required: false
     - id: 9
       name: notes
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''officer1'', ''label'': ''Officer 1''}'
-      - '{''value'': ''officer2'', ''label'': ''Officer 2''}'
-      - '{''value'': ''officer3'', ''label'': ''Officer 3''}'
+      - Officer 1
+      - Officer 2
+      - Officer 3
       required: true
     - id: 12
       name: reporting_date

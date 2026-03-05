@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''EST''}'
-      - '{''value'': 2, ''label'': ''EST (EST)''}'
-      - '{''value'': 3, ''label'': ''CST''}'
-      - '{''value'': 4, ''label'': ''MST''}'
-      - '{''value'': 5, ''label'': ''PST''}'
+      - EST
+      - EST (EST)
+      - CST
+      - MST
+      - PST
       required: false
     - id: 5
       name: language
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''English'', ''label'': ''English''}'
-      - '{''value'': ''Mandarin'', ''label'': ''Mandarin''}'
-      - '{''value'': ''Spanish'', ''label'': ''Spanish''}'
-      - '{''value'': ''French'', ''label'': ''French''}'
+      - English
+      - Mandarin
+      - Spanish
+      - French
       required: false
     - id: 6
       name: topic
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Language Exchange Group'', ''label'': ''Language Exchange Group''}'
-      - '{''value'': ''School/University'', ''label'': ''School/University''}'
+      - Language Exchange Group
+      - School/University
       required: false
     - id: 11
       name: timezone_offset
@@ -104,8 +104,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: online_community
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: session_details

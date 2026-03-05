@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False, ''value'': False}'
-      - '{''label'': True, ''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 6
       name: tested_positive
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False, ''value'': False}'
-      - '{''label'': True, ''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 7
       name: vaccinated
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''not_vaccinated'', ''value'': ''not_vaccinated''}'
-      - '{''label'': ''vaccinated'', ''value'': ''vaccinated''}'
+      - not vaccinated
+      - vaccinated
       required: false
     - id: 8
       name: fever_floated
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False, ''value'': False}'
-      - '{''label'': True, ''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 9
       name: travel_histor
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: mask_worn
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''not_worn'', ''value'': ''not_worn''}'
-      - '{''label'': ''worn'', ''value'': ''worn''}'
+      - not worn
+      - worn
       required: false
     - id: 12
       name: distancing_measures
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''not_implemented'', ''value'': ''not_implemented''}'
-      - '{''label'': ''implemented'', ''value'': ''implemented''}'
+      - not implemented
+      - implemented
       required: false
     - id: 13
       name: time

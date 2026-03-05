@@ -1,265 +1,254 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Content Optimization Checklist
     pages:
-      - id: 1
-        name: content_title
-        label: Content Title
-        hint: Title of the content being optimized
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: content_url
-        label: Content URL
-        hint: URL of the content
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: content_type
-        label: Content Type
-        hint: What type of content is this?
-        type: select_one
-        options:
-          - Blog Post
-          - Landing Page
-          - Product Page
-          - Category Page
-          - Homepage
-          - Article
-          - Guide
-        required: true
-      - id: 4
-        name: optimizer_name
-        label: Optimizer Name
-        hint: Person performing optimization
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: optimization_date
-        label: Optimization Date
-        hint: Date of optimization
-        type: date
-        options: []
-        required: true
-      - id: 6
-        name: primary_keyword
-        label: Primary Keyword
-        hint: Main target keyword
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: secondary_keywords
-        label: Secondary Keywords
-        hint: Additional target keywords
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: title_tag_optimized
-        label: Title Tag Optimized
-        hint: Is the title tag optimized for SEO?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: true
-      - id: 9
-        name: title_tag_length
-        label: Title Tag Length
-        hint: Is title tag under 60 characters?
-        type: select_one
-        options:
-          - Yes, under 60
-          - No, over 60
-        required: true
-      - id: 10
-        name: meta_description_optimized
-        label: Meta Description Optimized
-        hint: Is meta description optimized?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: true
-      - id: 11
-        name: meta_description_length
-        label: Meta Description Length
-        hint: Is meta description 150-160 characters?
-        type: select_one
-        options:
-          - Yes, optimal length
-          - No, needs adjustment
-        required: true
-      - id: 12
-        name: keyword_in_title
-        label: Keyword in Title
-        hint: Is primary keyword in the title?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: keyword_in_first_paragraph
-        label: Keyword in First Paragraph
-        hint: Is keyword in the first 100 words?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 14
-        name: keyword_density
-        label: Keyword Density
-        hint: Is keyword density appropriate (1-2%)?
-        type: select_one
-        options:
-          - Yes
-          - No, too low
-          - No, too high
-        required: true
-      - id: 15
-        name: headers_optimized
-        label: Headers Optimized
-        hint: Are H1, H2, H3 tags properly used?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Partially
-        required: true
-      - id: 16
-        name: image_alt_text
-        label: Image Alt Text
-        hint: Do all images have alt text?
-        type: select_one
-        options:
-          - Yes, all images
-          - Some images
-          - No images
-        required: true
-      - id: 17
-        name: internal_links
-        label: Internal Links
-        hint: Are there internal links to related content?
-        type: select_one
-        options:
-          - Yes, 3 or more
-          - Yes, 1-2
-          - No
-        required: true
-      - id: 18
-        name: external_links
-        label: External Links
-        hint: Are there authoritative external links?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Needed
-        required: true
-      - id: 19
-        name: url_structure
-        label: URL Structure
-        hint: Is URL short and descriptive?
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 20
-        name: mobile_friendly
-        label: Mobile Friendly
-        hint: Is content mobile-optimized?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Needs Review
-        required: true
-      - id: 21
-        name: page_load_speed
-        label: Page Load Speed
-        hint: Does page load in under 3 seconds?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Needs Testing
-        required: true
-      - id: 22
-        name: call_to_action
-        label: Call to Action
-        hint: Is there a clear call to action?
-        type: select_one
-        options:
-          - Yes, clear and prominent
-          - Yes, but needs improvement
-          - No
-        required: true
-      - id: 23
-        name: readability_score
-        label: Readability Score
-        hint: Is content easy to read?
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 24
-        name: schema_markup
-        label: Schema Markup
-        hint: Is structured data implemented?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: true
-      - id: 25
-        name: social_sharing_enabled
-        label: Social Sharing Enabled
-        hint: Are social share buttons present?
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Applicable
-        required: true
-      - id: 26
-        name: content_freshness
-        label: Content Freshness
-        hint: Is content up to date?
-        type: select_one
-        options:
-          - Yes, recently updated
-          - Yes, current
-          - No, needs updating
-        required: true
-      - id: 27
-        name: additional_optimizations
-        label: Additional Optimizations
-        hint: Any other optimizations made
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: content_title
+      label: Content Title
+      hint: Title of the content being optimized
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: content_url
+      label: Content URL
+      hint: URL of the content
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: content_type
+      label: Content Type
+      hint: What type of content is this?
+      type: select_one
+      options:
+      - Blog Post
+      - Landing Page
+      - Product Page
+      - Category Page
+      - Homepage
+      - Article
+      - Guide
+      required: true
+    - id: 4
+      name: optimizer_name
+      label: Optimizer Name
+      hint: Person performing optimization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: optimization_date
+      label: Optimization Date
+      hint: Date of optimization
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: primary_keyword
+      label: Primary Keyword
+      hint: Main target keyword
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: secondary_keywords
+      label: Secondary Keywords
+      hint: Additional target keywords
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: title_tag_optimized
+      label: Title Tag Optimized
+      hint: Is the title tag optimized for SEO?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 9
+      name: title_tag_length
+      label: Title Tag Length
+      hint: Is title tag under 60 characters?
+      type: select_one
+      options:
+      - Yes, under 60
+      - No, over 60
+      required: true
+    - id: 10
+      name: meta_description_optimized
+      label: Meta Description Optimized
+      hint: Is meta description optimized?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 11
+      name: meta_description_length
+      label: Meta Description Length
+      hint: Is meta description 150-160 characters?
+      type: select_one
+      options:
+      - Yes, optimal length
+      - No, needs adjustment
+      required: true
+    - id: 12
+      name: keyword_in_title
+      label: Keyword in Title
+      hint: Is primary keyword in the title?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: keyword_in_first_paragraph
+      label: Keyword in First Paragraph
+      hint: Is keyword in the first 100 words?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: keyword_density
+      label: Keyword Density
+      hint: Is keyword density appropriate (1-2%)?
+      type: select_one
+      options:
+      - 'True'
+      - No, too low
+      - No, too high
+      required: true
+    - id: 15
+      name: headers_optimized
+      label: Headers Optimized
+      hint: Are H1, H2, H3 tags properly used?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Partially
+      required: true
+    - id: 16
+      name: image_alt_text
+      label: Image Alt Text
+      hint: Do all images have alt text?
+      type: select_one
+      options:
+      - Yes, all images
+      - Some images
+      - No images
+      required: true
+    - id: 17
+      name: internal_links
+      label: Internal Links
+      hint: Are there internal links to related content?
+      type: select_one
+      options:
+      - Yes, 3 or more
+      - Yes, 1-2
+      - 'False'
+      required: true
+    - id: 18
+      name: external_links
+      label: External Links
+      hint: Are there authoritative external links?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Needed
+      required: true
+    - id: 19
+      name: url_structure
+      label: URL Structure
+      hint: Is URL short and descriptive?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: mobile_friendly
+      label: Mobile Friendly
+      hint: Is content mobile-optimized?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Needs Review
+      required: true
+    - id: 21
+      name: page_load_speed
+      label: Page Load Speed
+      hint: Does page load in under 3 seconds?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Needs Testing
+      required: true
+    - id: 22
+      name: call_to_action
+      label: Call to Action
+      hint: Is there a clear call to action?
+      type: select_one
+      options:
+      - Yes, clear and prominent
+      - Yes, but needs improvement
+      - 'False'
+      required: true
+    - id: 23
+      name: readability_score
+      label: Readability Score
+      hint: Is content easy to read?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 24
+      name: schema_markup
+      label: Schema Markup
+      hint: Is structured data implemented?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 25
+      name: social_sharing_enabled
+      label: Social Sharing Enabled
+      hint: Are social share buttons present?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 26
+      name: content_freshness
+      label: Content Freshness
+      hint: Is content up to date?
+      type: select_one
+      options:
+      - Yes, recently updated
+      - Yes, current
+      - No, needs updating
+      required: true
+    - id: 27
+      name: additional_optimizations
+      label: Additional Optimizations
+      hint: Any other optimizations made
+      type: text
+      options: []
+      required: false

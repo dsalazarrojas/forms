@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Website Improvement Proposal Form
     pages:
     - id: 1
       name: project_requirements
@@ -12,192 +12,144 @@ inputSchema:
       required: false
     - id: 2
       name: project_name
-      label: project_name
+      label: Project Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: project_description
-      label: project_description
+      label: Project Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: business_goals
-      label: business_goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: project_timeline
-      label: project_timeline
+      label: Project Timeline
       hint: null
-      type: time
+      type: date
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: project_budget
-      label: project_budget
+      label: Project Budget
       hint: null
       type: number
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 6
       name: project_location
-      label: project_location
+      label: Project Location
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: project_status
-      label: project_status
+      label: Project Status
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''In Progress''}'
-      - '{''option2'': ''Not Started''}'
-      - '{''option3'': ''On Hold''}'
-      - '{''option4'': ''Completed''}'
-      required: false
-    - id: 9
+      - In Progress
+      - Not Started
+      - On Hold
+      - Completed
+      required: true
+    - id: 8
       name: contact_person
-      label: contact_person
+      label: Contact Person
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''Jim''}'
-      - '{''option2'': ''John''}'
-      - '{''option3'': ''Jane''}'
-      - '{''option4'': ''Joe''}'
-      required: false
-    - id: 10
+      - Jim
+      - John
+      - Jane
+      - Joe
+      required: true
+    - id: 9
       name: contact_email
-      label: contact_email
+      label: Contact Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 10
       name: contact_phone
-      label: contact_phone
+      label: Contact Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: website_improvement_project
-      label: website_improvement_project
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 11
       name: project_type
-      label: project_type
+      label: Project Type
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''Website Development''}'
-      - '{''option2'': ''Website Maintenance''}'
-      - '{''option3'': ''Web Design''}'
-      required: false
-    - id: 14
+      - Website Development
+      - Website Maintenance
+      - Web Design
+      required: true
+    - id: 12
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
       name: project_urgency
-      label: project_urgency
+      label: Project Urgency
       hint: null
       type: select_one
       options:
-      - '{''option1'': ''High''}'
-      - '{''option2'': ''Medium''}'
-      - '{''option3'': ''Low''}'
-      required: false
-    - id: 15
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 14
       name: project_priority
-      label: project_priority
+      label: Project Priority
       hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''High''}'
-      - '{''option2'': ''Medium''}'
-      - '{''option3'': ''Low''}'
-      required: false
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 15
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 16
       name: project_notes
-      label: project_notes
+      label: Project Notes
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 17
-      name: website_url
-      label: website_url
+      name: project_files
+      label: Project Files
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 18
-      name: submission_notes
-      label: submission_notes
+      name: project_file_attachment
+      label: Project File Attachment
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 19
-      name: project_files
-      label: project_files
+      name: submission_notes_2
+      label: Submission Notes 2
       hint: null
       type: text
       options: []
-      required: false
-    - id: 20
-      name: project_type
-      label: project_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: project_urgency
-      label: project_urgency
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''High''}'
-      - '{''option2'': ''Medium''}'
-      - '{''option3'': ''Low''}'
-      required: false
-    - id: 22
-      name: project_priority
-      label: project_priority
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''High''}'
-      - '{''option2'': ''Medium''}'
-      - '{''option3'': ''Low''}'
-      required: false
-    - id: 23
-      name: project_location
-      label: project_location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: submission_notes
-      label: submission_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: project_notes
-      label: project_notes
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

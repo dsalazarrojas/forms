@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Submitted''}'
-      - '{''id'': 2, ''label'': ''Draft''}'
-      - '{''id'': 3, ''label'': ''Cancelled''}'
+      - Submitted
+      - Draft
+      - Cancelled
       required: false
     - id: 6
       name: cost_type
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Product Recalls''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Product Recalls
+      - Other
       required: false
     - id: 7
       name: cost_type_sub
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Material''}'
-      - '{''id'': 2, ''label'': ''Labor''}'
-      - '{''id'': 3, ''label'': ''Overheads''}'
+      - Material
+      - Labor
+      - Overheads
       required: false
     - id: 8
       name: cost_category
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Direct Costs''}'
-      - '{''id'': 2, ''label'': ''Indirect Costs''}'
-      - '{''id'': 3, ''label'': ''External''}'
+      - Direct Costs
+      - Indirect Costs
+      - External
       required: false
     - id: 9
       name: cost_amount
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Material''}'
-      - '{''id'': 2, ''label'': ''Labor''}'
-      - '{''id'': 3, ''label'': ''Overheads''}'
+      - Material
+      - Labor
+      - Overheads
       required: false
     - id: 15
       name: cost_amount_sub

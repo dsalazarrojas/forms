@@ -90,8 +90,8 @@ inputSchema:
       hint: Close contact means within 6 feet for 15 minutes or more
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       required: true
     - id: 11
@@ -100,8 +100,8 @@ inputSchema:
       hint: Include all travel
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: travel_locations
@@ -168,8 +168,8 @@ inputSchema:
       hint: If applicable
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: false
     - id: 20

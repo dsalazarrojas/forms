@@ -4,32 +4,32 @@ inputSchema:
     title: Workshop Participant Expectation Check In Form
     pages:
     - id: 1
-      name: workshop_participant_expectation_check_in_form_page_1
+      name: workshop_expectations
       label: Workshop Expectations
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: participant_readiness_check
+      name: participant_readiness
       label: Participant Readiness
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 3
-      name: topic_interests_check
+      name: topic_interests
       label: Topic Interests
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - None
+      - Other
       required: true
     - id: 4
-      name: workshop_participants_comments
+      name: workshop_participant_comments
       label: Workshop Participant Comments
       hint: null
       type: note
@@ -87,97 +87,6 @@ inputSchema:
     - id: 12
       name: output_file
       label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: title
-      label: Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: output_file
-      label: Output File
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_ids
-      label: Form IDs
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: description
-      label: Description
       hint: null
       type: text
       options: []

@@ -4,185 +4,60 @@ inputSchema:
     title: Publishing Readership Evaluation Form
     pages:
     - id: 1
-      name: readership_form_page
-      label: Readership Form
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: reader_content_type
+      label: What type of content did you read?
+      hint: Select a type of content (e.g., article, blog post, book)
+      type: select_one
+      options:
+      - Article
+      - Blog Post
+      - Book
+      - Newsletter
+      - Other
+      - Whitepaper
+      required: true
     - id: 2
-      name: page_2
-      label: Satisfaction
-      hint: null
+      name: reader_frequency
+      label: How often do you read this type of content?
+      hint: Select a frequency of reading
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 3
+      name: reader_satisfaction
+      label: How would you rate your level of satisfaction?
+      hint: Select a satisfaction level
       type: number
       options: []
-      required: false
-    - id: 3
-      name: page_3
-      label: Preferences
-      hint: null
-      type: select_one
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
+      required: true
     - id: 4
-      name: page_4
-      label: Feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: page_5
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: page_6
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: page_7
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: page_8
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: page_9
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: page_10
-      label: Reader Preference
-      hint: null
+      name: reader_format
+      label: What is your preferred format for reading this type of content?
+      hint: Select a preferred format
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Digital
+      - Print
+      - Audio
+      - Video
+      - Other
       required: true
-    - id: 11
-      name: page_11
-      label: Comments
-      hint: null
+    - id: 5
+      name: reader_quality
+      label: How would you rate the quality of the content?
+      hint: Select a quality rating
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reader_feedback
+      label: Do you have any feedback or comments about the content?
+      hint: Please provide any feedback or comments
       type: note
-      options: []
-      required: false
-    - id: 12
-      name: page_12
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 13
-      name: page_13
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: page_14
-      label: Comments
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      required: true
-    - id: 15
-      name: page_15
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: page_16
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_17
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: page_18
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: Comments
-      hint: null
-      type: text
       options: []
       required: false

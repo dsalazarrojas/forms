@@ -107,11 +107,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Entry Level'', ''value'': ''entry_level''}'
-      - '{''label'': ''Management'', ''value'': ''management''}'
-      - '{''label'': ''Leadership'', ''value'': ''leadership''}'
-      - '{''label'': ''Executive'', ''value'': ''executive''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Entry Level
+      - Management
+      - Leadership
+      - Executive
+      - Other
       required: false
     - id: 16
       name: preferred_method_of_contact
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - Email
+      - Phone
       required: false
     - id: 17
       name: best_time_of_day
@@ -135,13 +135,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monday'', ''value'': ''monday''}'
-      - '{''label'': ''Tuesday'', ''value'': ''tuesday''}'
-      - '{''label'': ''Wednesday'', ''value'': ''wednesday''}'
-      - '{''label'': ''Thursday'', ''value'': ''thursday''}'
-      - '{''label'': ''Friday'', ''value'': ''friday''}'
-      - '{''label'': ''Saturday'', ''value'': ''saturday''}'
-      - '{''label'': ''Sunday'', ''value'': ''sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 19
       name: best_time_of_day_in_range
@@ -149,9 +149,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Morning'', ''value'': ''morning''}'
-      - '{''label'': ''Evening'', ''value'': ''evening''}'
-      - '{''label'': ''Anytime'', ''value'': ''anytime''}'
+      - Morning
+      - Evening
+      - Anytime
       required: false
     - id: 20
       name: job_opening_status
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Open'', ''value'': ''open''}'
-      - '{''label'': ''Not Specified'', ''value'': ''not_specified''}'
+      - Open
+      - Not Specified
       required: false
     - id: 21
       name: job_opening_type
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Temporary'', ''value'': ''temporary''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Temporary
+      - Other
       required: false
     - id: 22
       name: job_opening_urgency
@@ -177,10 +177,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High'', ''value'': ''high''}'
-      - '{''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''label'': ''Low'', ''value'': ''low''}'
-      - '{''label'': ''Not Specified'', ''value'': ''not_specified''}'
+      - High
+      - Medium
+      - Low
+      - Not Specified
       required: false
     - id: 23
       name: job_opening_frequency
@@ -188,9 +188,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Ongoing'', ''value'': ''ongoing''}'
-      - '{''label'': ''As needed'', ''value'': ''as_needed''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Ongoing
+      - As needed
+      - Other
       required: false
     - id: 24
       name: how_did_you_find_us
@@ -198,9 +198,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Referral'', ''value'': ''referral''}'
-      - '{''label'': ''In Person'', ''value'': ''in_person''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Referral
+      - In Person
+      - Other
       required: false
     - id: 25
       name: additional_notes

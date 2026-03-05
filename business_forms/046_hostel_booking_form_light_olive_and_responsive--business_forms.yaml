@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''single''}'
-      - '{''value'': ''double''}'
-      - '{''value'': ''triple''}'
+      - single
+      - double
+      - triple
       required: false
     - id: 4
       name: room_number
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''card''}'
-      - '{''value'': ''transfer''}'
-      - '{''value'': ''other''}'
+      - card
+      - transfer
+      - other
       required: false
     - id: 11
       name: message

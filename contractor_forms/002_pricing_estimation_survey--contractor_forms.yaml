@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than 1000''}'
-      - '{''value'': ''1000 - 2000''}'
-      - '{''value'': ''2000 - 3000''}'
-      - '{''value'': ''More than 3000''}'
+      - Less than 1000
+      - 1000 - 2000
+      - 2000 - 3000
+      - More than 3000
       required: false
     - id: 3
       name: price_range_2
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Residential''}'
-      - '{''value'': ''Commercial''}'
-      - '{''value'': ''Other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 5
       name: estimated_budget
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Fixed''}'
-      - '{''value'': ''Cost Plus''}'
-      - '{''value'': ''Time and Materials''}'
+      - Fixed
+      - Cost Plus
+      - Time and Materials
       required: false
     - id: 8
       name: pricing_strategy_details

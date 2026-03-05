@@ -18,61 +18,48 @@ inputSchema:
       name: e_numbers_awareness
       label: E Numbers Awareness
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
+      - Low
+      - Medium
+      - High
       required: true
     - id: 2
+      name: e_numbers_use
+      label: How do you currently use E-numbers in your work?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
       name: concerns
       label: Concerns
       hint: null
       type: text
       options: []
       required: true
-    - id: 3
-      name: e_numbers_awareness_2
-      label: E Numbers Awareness
-      hint: null
-      type: select_one
-      options:
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      required: true
     - id: 4
-      name: e_numbers_awareness_2
-      label: E Numbers Awareness
+      name: e_numbers_importance
+      label: How important is E-numbers awareness in your business decisions?
       hint: null
-      type: select_multiple
-      options:
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
-      - E-numbers
+      type: number
+      options: []
       required: true
     - id: 5
-      name: concerns_2
-      label: Concerns
+      name: awareness_improvement
+      label: How do you think your business could improve E-numbers awareness?
       hint: null
       type: text
       options: []
+      required: true
+    - id: 6
+      name: alternative_solutions
+      label: Are you currently using alternative solutions or alternatives to E-numbers?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
       required: true

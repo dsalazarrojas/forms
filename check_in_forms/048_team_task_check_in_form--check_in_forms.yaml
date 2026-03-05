@@ -16,11 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1000, ''name'': ''Project'', ''label'': ''Project''}'
-      - '{''id'': 1001, ''name'': ''Project'', ''label'': ''Project'', ''value'':
-        1}'
-      - '{''id'': 1002, ''name'': ''Project'', ''label'': ''Project'', ''value'':
-        2}'
+      - Project
+      - Other
       required: false
     - id: 3
       name: task_id
@@ -28,9 +25,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2000, ''name'': ''Task'', ''label'': ''Task'', ''value'': 1}'
-      - '{''id'': 2001, ''name'': ''Task'', ''label'': ''Task'', ''value'': 2}'
-      - '{''id'': 2002, ''name'': ''Task'', ''label'': ''Task'', ''value'': 2}'
+      - Task
+      - Other
       required: false
     - id: 4
       name: task_status
@@ -38,10 +34,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 5000, ''name'': ''Status'', ''label'': ''Status''}'
-      - '{''id'': 5001, ''name'': ''Status'', ''label'': ''Status''}'
-      - '{''id'': 5002, ''name'': ''Status'', ''label'': ''Status''}'
-      - '{''id'': 5003, ''name'': ''Status'', ''label'': ''Status''}'
+      - Status
+      - Other
       required: false
     - id: 5
       name: start_time
@@ -70,10 +64,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 6000, ''name'': ''Blockers'', ''label'': ''Blockers''}'
-      - '{''id'': 6001, ''name'': ''Blockers'', ''label'': ''Blockers''}'
-      - '{''id'': 6002, ''name'': ''Blockers'', ''label'': ''Blockers''}'
-      - '{''id'': 6003, ''name'': ''Blockers'', ''label'': ''Blockers''}'
+      - Blockers
+      - Other
       required: false
     - id: 9
       name: email_address
@@ -95,12 +87,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 7000, ''name'': ''Team Members'', ''label'': ''Team Members'', ''value'':
-        1}'
-      - '{''id'': 7001, ''name'': ''Team Members'', ''label'': ''Team Members'', ''value'':
-        2}'
-      - '{''id'': 7002, ''name'': ''Team Members'', ''label'': ''Team Members'', ''value'':
-        2}'
+      - Team Members
+      - Other
       required: false
     - id: 12
       name: date
@@ -122,12 +110,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8000, ''name'': ''Location'', ''label'': ''Location'', ''value'':
-        1}'
-      - '{''id'': 8001, ''name'': ''Location'', ''label'': ''Location'', ''value'':
-        2}'
-      - '{''id'': 8002, ''name'': ''Location'', ''label'': ''Location'', ''value'':
-        2}'
+      - Location
+      - Other
       required: false
     - id: 15
       name: timezone
@@ -135,12 +119,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 9000, ''name'': ''Timezone'', ''label'': ''Timezone'', ''value'':
-        1}'
-      - '{''id'': 9001, ''name'': ''Timezone'', ''label'': ''Timezone'', ''value'':
-        2}'
-      - '{''id'': 9002, ''name'': ''Timezone'', ''label'': ''Timezone'', ''value'':
-        2}'
+      - Timezone
+      - Other
       required: false
     - id: 16
       name: timezone_offset
@@ -148,12 +128,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 10000, ''name'': ''Timezone Offset'', ''label'': ''Timezone Offset'',
-        ''value'': 1}'
-      - '{''id'': 10001, ''name'': ''Timezone Offset'', ''label'': ''Timezone Offset'',
-        ''value'': 2}'
-      - '{''id'': 10002, ''name'': ''Timezone Offset'', ''label'': ''Timezone Offset'',
-        ''value'': 2}'
+      - Timezone Offset
+      - Other
       required: false
     - id: 17
       name: user_timezone
@@ -161,12 +137,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11000, ''name'': ''User Timezone'', ''label'': ''User Timezone'',
-        ''value'': 1}'
-      - '{''id'': 11001, ''name'': ''User Timezone'', ''label'': ''User Timezone'',
-        ''value'': 2}'
-      - '{''id'': 11002, ''name'': ''User Timezone'', ''label'': ''User Timezone'',
-        ''value'': 2}'
+      - User Timezone
+      - Other
       required: false
     - id: 18
       name: comments
@@ -181,12 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 12000, ''name'': ''Blocker'', ''label'': ''Blocker'', ''value'':
-        1}'
-      - '{''id'': 12001, ''name'': ''Blocker'', ''label'': ''Blocker'', ''value'':
-        2}'
-      - '{''id'': 12002, ''name'': ''Blocker'', ''label'': ''Blocker'', ''value'':
-        2}'
+      - Blocker
+      - Other
       required: false
     - id: 20
       name: team_lead
@@ -194,12 +162,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13000, ''name'': ''Team Lead'', ''label'': ''Team Lead'', ''value'':
-        1}'
-      - '{''id'': 13001, ''name'': ''Team Lead'', ''label'': ''Team Lead'', ''value'':
-        2}'
-      - '{''id'': 13002, ''name'': ''Team Lead'', ''label'': ''Team Lead'', ''value'':
-        2}'
+      - Team Lead
+      - Other
       required: false
     - id: 21
       name: team_lead_status
@@ -207,12 +171,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 14000, ''name'': ''Team Lead Status'', ''label'': ''Team Lead Status'',
-        ''value'': 1}'
-      - '{''id'': 14001, ''name'': ''Team Lead Status'', ''label'': ''Team Lead Status'',
-        ''value'': 2}'
-      - '{''id'': 14002, ''name'': ''Team Lead Status'', ''label'': ''Team Lead Status'',
-        ''value'': 2}'
+      - Team Lead Status
+      - Other
       required: false
     - id: 22
       name: project_lead
@@ -220,12 +180,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 15000, ''name'': ''Project Lead'', ''label'': ''Project Lead'',
-        ''value'': 1}'
-      - '{''id'': 15001, ''name'': ''Project Lead'', ''label'': ''Project Lead'',
-        ''value'': 2}'
-      - '{''id'': 15002, ''name'': ''Project Lead'', ''label'': ''Project Lead'',
-        ''value'': 2}'
+      - Project Lead
+      - Other
       required: false
     - id: 23
       name: project_lead_status
@@ -233,12 +189,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 16000, ''name'': ''Project Lead Status'', ''label'': ''Project Lead
-        Status'', ''value'': 1}'
-      - '{''id'': 16001, ''name'': ''Project Lead Status'', ''label'': ''Project Lead
-        Status'', ''value'': 2}'
-      - '{''id'': 16002, ''name'': ''Project Lead Status'', ''label'': ''Project Lead
-        Status'', ''value'': 2}'
+      - Project Lead Status
+      - Other
       required: false
     - id: 24
       name: blocker_comments
@@ -253,10 +205,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 17000, ''name'': ''Blocker Lead'', ''label'': ''Blocker Lead'',
-        ''value'': 1}'
-      - '{''id'': 17001, ''name'': ''Blocker Lead'', ''label'': ''Blocker Lead'',
-        ''value'': 2}'
-      - '{''id'': 17002, ''name'': ''Blocker Lead'', ''label'': ''Blocker Lead'',
-        ''value'': 2}'
+      - Blocker Lead
+      - Other
       required: false

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone''}'
-      - '{''id'': 2, ''label'': ''Email''}'
-      - '{''id'': 3, ''label'': ''In Person''}'
+      - Phone
+      - Email
+      - In Person
       required: false
     - id: 6
       name: contact_info
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Quality issue with product'', ''required'': True}'
-      - '{''id'': 2, ''label'': ''Issue with order fulfillment'', ''required'': True}'
-      - '{''id'': 3, ''label'': ''Other'', ''required'': False}'
+      - Quality issue with product
+      - Issue with order fulfillment
+      - Other
       required: false
     - id: 9
       name: attachments

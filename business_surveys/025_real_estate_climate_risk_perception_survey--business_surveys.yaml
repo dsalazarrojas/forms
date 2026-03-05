@@ -4,177 +4,116 @@ inputSchema:
     title: Real Estate Climate Risk Perception Survey
     pages:
     - id: 1
-      name: home_owner_1
-      label: What is your job title
+      name: job_type
+      label: What type of properties do you primarily work with?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
       required: true
     - id: 2
-      name: home_owner_2
-      label: How many years do you own this home
+      name: years_of_experience
+      label: How many years of experience do you have in the real estate industry?
       hint: null
       type: number
       options: []
       required: true
     - id: 3
-      name: home_owner_3
-      label: What year were you born
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: home_owner_4
-      label: How many years do you live in this city
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: home_owner_5
-      label: What is your job title
+      name: job_title
+      label: What is your job title?
       hint: null
       type: text
       options: []
+      required: true
+    - id: 4
+      name: climate_concern
+      label: What level of concern do you have about climate-related risks in the
+        real estate market?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 5
+      name: climate_risk_level
+      label: What specific climate-related risks do you perceive as most critical
+        for your business?
+      hint: null
+      type: select_multiple
+      options:
+      - Rising sea levels
+      - Extreme weather events
+      - Changes in weather patterns
       required: true
     - id: 6
-      name: home_owner_6
-      label: What is your job title
+      name: business_impact_frequency
+      label: How often do you think climate-related risks affect your business operations?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 7
-      name: home_owner_7
-      label: What is your job title
+      name: response_time
+      label: What is your expected response time to climate-related risks?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Immediate
+      - Short-term
+      - Long-term
       required: true
     - id: 8
-      name: home_owner_8
-      label: What is your job title
+      name: climate_literacy
+      label: How would you describe the level of climate literacy in your organization?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
       required: true
     - id: 9
-      name: home_owner_9
-      label: What is your job title
+      name: risk_mitigation
+      label: What measures do you take to mitigate climate-related risks in your business?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Insurance
+      - Adaptation
+      - Mitigation
       required: true
     - id: 10
-      name: home_owner_10
-      label: What is your job title
+      name: decision_making
+      label: How does climate change influence your decision-making process for property
+        investments or sales?
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: home_owner_11
-      label: What is your job title
+      name: climate_change_impact
+      label: Have you noticed any significant changes in the local climate over the
+        past 5 years?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true
     - id: 12
-      name: home_owner_12
-      label: What is your job title
+      name: business_impact
+      label: Do you think the climate crisis will affect your business operations
+        in the next 5 years?
       hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: home_owner_13
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: home_owner_14
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: home_owner_15
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: home_owner_16
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: home_owner_17
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: home_owner_18
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: home_owner_19
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: home_owner_20
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: home_owner_21
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: home_owner_22
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: home_owner_23
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 24
-      name: home_owner_24
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: home_owner_25
-      label: What is your job title
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: true

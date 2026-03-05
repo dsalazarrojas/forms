@@ -11,98 +11,60 @@ inputSchema:
       options: []
       required: true
     - id: 2
-      name: name
-      label: name
+      name: mentor_info
+      label: Name
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 4
-      name: phone
-      label: phone
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: true
-    - id: 5
-      name: terms
-      label: termsประก
-      hint: null
-      type: select_multiple
-      options:
-      - Term 1
-      - Term 2
-      - Term 3
-      required: true
-    - id: 6
-      name: agreement
-      label: agreement
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 7
-      name: '8'
-      label: '8'
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: agreement
-      label: agreement
+    - id: 4
+      name: terms_agreement
+      label: Terms of Agreement
       hint: null
       type: select_one
       options:
       - Agreement 1
       - Agreement 2
       - Agreement 3
+      - Agreement 4
+      - Agreement 5
+      - Agreement 6
+      - Agreement 7
+      - Agreement 8
       required: true
-    - id: 9
-      name: notes
-      label: notes
+    - id: 5
+      name: is_first_mentor
+      label: Are you a first-time mentor for this program?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: review
-      label: review
-      hint: null
-      type: time
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: true
-    - id: 11
-      name: signature
-      label: signature
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: date
-      label: date
+    - id: 6
+      name: review_date_time
+      label: Review Date and Time
       hint: null
       type: date
       options: []
       required: true
-    - id: 13
-      name: mentor
-      label: mentor
+    - id: 7
+      name: signature
+      label: Digital Signature
       hint: null
       type: text
       options: []
       required: true
-    - id: 14
-      name: contact_info
-      label: contact_info
+    - id: 8
+      name: contact_info_2
+      label: Contact Info
       hint: null
       type: select_one
       options:
@@ -110,9 +72,9 @@ inputSchema:
       - Contact Info 2
       - Contact Info 3
       required: true
-    - id: 15
+    - id: 9
       name: payment_term
-      label: payment_term
+      label: Payment Term
       hint: null
       type: select_one
       options:
@@ -120,83 +82,25 @@ inputSchema:
       - Term 2
       - Term 3
       required: true
-    - id: 16
+    - id: 10
       name: payment_terms
-      label: payment_terms
-      hint: null
-      type: select_multiple
-      options:
-      - Term 1
-      - Term 2
-      - Term 3
-      required: true
-    - id: 17
-      name: payment_terms
-      label: payment_terms
+      label: Payment Terms
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: true
-    - id: 18
-      name: payment_terms
-      label: payment_terms
+    - id: 11
+      name: notes
+      label: Notes
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
-    - id: 19
-      name: payment_terms
-      label: payment_terms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: payment_terms
-      label: payment_terms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 21
-      name: payment_terms
-      label: payment_terms
-      hint: null
-      type: select_multiple
-      options:
-      - Term 1
-      - Term 2
-      - Term 3
-      required: true
-    - id: 22
-      name: payment_terms
-      label: payment_terms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 23
-      name: payment_terms
-      label: payment_terms
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: payment_terms
-      label: payment_terms
+    - id: 12
+      name: payment_terms2
+      label: Payment Terms 2
       hint: null
       type: select_multiple
       options:

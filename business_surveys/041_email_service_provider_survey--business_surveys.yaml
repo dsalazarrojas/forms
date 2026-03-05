@@ -16,14 +16,14 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1}'
-      - '{''id'': 2}'
-      - '{''id'': 3}'
-      - '{''id'': 4}'
-      - '{''id'': 5}'
-      - '{''id'': 6}'
-      - '{''id'': 7}'
-      - '{''id'': 8}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      - Option 6
+      - Option 7
+      - Option 8
       required: true
     - id: 3
       name: service_rating
@@ -45,10 +45,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Less than once a day''}'
-      - '{''id'': 2, ''text'': ''Once a day''}'
-      - '{''id'': 3, ''text'': ''Several times a day''}'
-      - '{''id'': 4, ''text'': ''Never''}'
+      - Less than once a day
+      - Once a day
+      - Several times a day
+      - Never
       required: true
     - id: 6
       name: email_preferences
@@ -56,10 +56,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Email marketing automation''}'
-      - '{''id'': 2, ''text'': ''Email list management''}'
-      - '{''id'': 3, ''text'': ''Customer service''}'
-      - '{''id'': 4, ''text'': ''Email analytics''}'
+      - Email marketing automation
+      - Email list management
+      - Customer service
+      - Email analytics
       required: false
     - id: 7
       name: open_rate
@@ -158,11 +158,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Gmail''}'
-      - '{''id'': 2, ''text'': ''Outlook''}'
-      - '{''id'': 3, ''text'': ''Mailchimp''}'
-      - '{''id'': 4, ''text'': ''Mailgun''}'
-      - '{''id'': 5, ''text'': ''Constant Contact''}'
+      - Gmail
+      - Outlook
+      - Mailchimp
+      - Mailgun
+      - Constant Contact
       required: true
     - id: 21
       name: comments

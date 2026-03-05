@@ -4,206 +4,93 @@ inputSchema:
     title: Pros And Cons Evaluation Form
     pages:
     - id: 1
-      name: pros_and_cons_form
-      label: pros_and_cons_form
-      hint: null
+      name: pros
+      label: What are the key pros of the product/service?
+      hint: Please provide a brief description of the key benefits of the product/service.
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: cons
+      label: What are the key cons of the product/service?
+      hint: Please provide a brief description of the product/service's drawbacks.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: frequency
+      label: How often do you think you will use this product/service?
+      hint: Please select a frequency of use.
+      type: select_one
+      options:
+      - Once
+      - Occasionally
+      - Frequently
+      - Almost always
+      - Never
+      required: true
+    - id: 4
+      name: value_for_money
+      label: What is your opinion about the value for money of the product/service?
+      hint: Please select your opinion.
+      type: select_one
+      options:
+      - Very good value
+      - Somewhat good value
+      - Neutral
+      - Somewhat bad value
+      - Very bad value
+      required: true
+    - id: 5
+      name: recommendation
+      label: Would you recommend this product/service to others?
+      hint: Please select yes or no.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: will_use_again
+      label: Would you choose this product/service again?
+      hint: Please select yes or no.
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: comments
+      label: Additional comments or feedback?
+      hint: Please provide any additional comments or feedback.
       type: text
       options: []
       required: false
-    - id: 2
-      name: pros
-      label: pros
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 3
-      name: cons
-      label: cons
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
-      name: comments
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: comments
-      label: comments
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: comments
-      label: comments
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
-      name: comments
-      label: comments
-      hint: null
-      type: email
-      options: []
-      required: false
     - id: 8
-      name: comments
-      label: comments
-      hint: null
+      name: comments2
+      label: Do you have any other comments or feedback?
+      hint: Please provide any other comments or feedback.
       type: text
       options: []
       required: false
     - id: 9
-      name: comments
-      label: comments
-      hint: null
+      name: comments3
+      label: Comments3
+      hint: Please provide any other comments or feedback.
       type: text
       options: []
       required: false
     - id: 10
-      name: comments
-      label: comments
-      hint: null
-      type: number
+      name: comments4
+      label: Comments4
+      hint: Please provide any other comments or feedback.
+      type: text
       options: []
       required: false
     - id: 11
-      name: comments
-      label: comments
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 13
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 14
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - option3
-      - Other
-      required: false
-    - id: 15
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: comments
-      label: comments
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: comments
-      label: comments
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 20
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - option3
-      - Other
-      required: false
-    - id: 21
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: comments
-      label: comments
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: comments
-      label: comments
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: comments
-      label: comments
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 26
-      name: comments
-      label: comments
-      hint: null
+      name: comments5
+      label: Comments5
+      hint: Please provide any other comments or feedback.
       type: text
       options: []
       required: false

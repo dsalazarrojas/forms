@@ -45,9 +45,9 @@ inputSchema:
       type: select_one
       options:
       - 1 - Low Value
-      - 2
+      - '2'
       - 3 - Neutral
-      - 4
+      - '4'
       - 5 - High Value
       required: true
     - id: 6
@@ -57,9 +57,9 @@ inputSchema:
       type: select_one
       options:
       - 1 - Not Effective
-      - 2
+      - '2'
       - 3 - Neutral
-      - 4
+      - '4'
       - 5 - Very Effective
       required: true
     - id: 7
@@ -69,9 +69,9 @@ inputSchema:
       type: select_one
       options:
       - 1 - Poor ROI
-      - 2
+      - '2'
       - 3 - Average
-      - 4
+      - '4'
       - 5 - Excellent ROI
       required: true
     - id: 8
@@ -88,9 +88,9 @@ inputSchema:
       type: select_one
       options:
       - 1 - Dissatisfied
-      - 2
+      - '2'
       - 3 - Neutral
-      - 4
+      - '4'
       - 5 - Satisfied
       required: true
     - id: 10
@@ -100,15 +100,15 @@ inputSchema:
       type: select_one
       options:
       - 0 - Not Likely
-      - 1
-      - 2
-      - 3
-      - 4
+      - '1'
+      - '2'
+      - '3'
+      - '4'
       - 5 - Neutral
-      - 6
-      - 7
-      - 8
-      - 9
+      - '6'
+      - '7'
+      - '8'
+      - '9'
       - 10 - Extremely Likely
       required: true
     - id: 11
@@ -131,8 +131,8 @@ inputSchema:
       hint: Would you consider us for future projects?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: false
     - id: 14

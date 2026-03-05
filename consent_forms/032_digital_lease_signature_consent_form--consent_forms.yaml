@@ -16,218 +16,53 @@ inputSchema:
     pages:
     - id: 1
       name: landlord_info
-      label: Landlord Information
-      hint: null
+      label: Landlord Name
+      hint: Enter landlord name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: tenant_info
-      label: Tenant Information
-      hint: null
+      label: Tenant Name
+      hint: Enter tenant name
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: agreement_terms
       label: Agreement Terms
-      hint: null
+      hint: Please read and understand the terms carefully
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: lease_terms
       label: Lease Terms
-      hint: null
-      type: text
-      options: []
-      required: false
+      hint: Select options below
+      type: select_multiple
+      options:
+      - 6-month lease
+      - 1-year lease
+      - 2-year lease
+      required: true
     - id: 5
       name: electronic_signature
       label: Electronic Signature
-      hint: null
+      hint: Sign with your digital signature
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: date
       label: Date
-      hint: null
+      hint: Enter date of signing
       type: date
       options: []
-      required: false
+      required: true
     - id: 7
       name: time
       label: Time
-      hint: null
+      hint: Enter time of signing
       type: time
       options: []
-      required: false
-    - id: 8
-      name: tenant_consent
-      label: Tenant Consent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: landlord_consent
-      label: Landlord Consent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: form_completion
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: tenant_signature
-      label: Tenant Signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: landlord_signature
-      label: Landlord Signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: submit
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_completion_1
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: submit_1
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_completion_2
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: submit_2
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_completion_3
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submit_3
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_completion_4
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: submit_4
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_completion_5
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submit_5
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_completion_6
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit_6
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: form_completion_7
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: submit_7
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: form_completion_8
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: submit_8
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: form_completion_9
-      label: Form Completion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: submit_9
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

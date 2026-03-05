@@ -30,28 +30,28 @@ inputSchema:
       required: false
     - id: 3
       name: task_list
-      label: spring_deep_cleaning_tasks
+      label: Task List
       hint: null
       type: note
       options: []
       required: false
     - id: 4
-      name: spring_deep_cleaning_notes
-      label: spring_deep_cleaning_notes
+      name: notes
+      label: Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: seasonal_notes
-      label: seasonal_notes
+      label: Seasonal Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 6
       name: completed_tasks
-      label: completed_tasks
+      label: Completed Tasks
       hint: null
       type: select_multiple
       options:
@@ -60,139 +60,90 @@ inputSchema:
       - Polishing the mirrors
       required: false
     - id: 7
-      name: completed_tasks
-      label: completed_tasks
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: seasonal_refresh_date
-      label: seasonal_refresh_date
-      hint: YYYY-MM-LL
+      label: Refresh Date (YYYY-MM-LL)
+      hint: null
       type: date
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: spring_cleaning_frequency
-      label: spring_cleaning_frequency
+      label: Select a cleaning frequency
       hint: null
       type: select_one
       options:
       - Spring
       - Every 3 months
       - Quarterly
-      - Bi-Annually
-      - Annually
+      - Bi-Annual
+      - Annual
+      required: false
+    - id: 9
+      name: seasonal_cleaning_frequency
+      label: Seasonal Cleaning Frequency
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 10
-      name: feedback
-      label: feedback
+      name: seasonal_frequency_notes
+      label: Seasonal Frequency Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 11
-      name: spring_cleaning_frequency_frequency
-      label: spring_cleaning_frequency_frequency
+      name: spring_cleaning_frequency_notes
+      label: Spring Cleaning Frequency Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: seasonal_cleaning_frequency
-      label: seasonal_cleaning_frequency
+      name: seasonal_refresh_frequency
+      label: Refresh Frequency
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: spring_cleaning_frequency_notes
-      label: spring_cleaning_frequency_notes
+      name: seasonal_frequency
+      label: Seasonal Frequency
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: seasonal_notes
-      label: seasonal_notes
+      name: feedback
+      label: Feedback
       hint: null
       type: note
       options: []
       required: false
     - id: 15
       name: seasonal_cleaning_frequency_notes
-      label: seasonal_cleaning_frequency_notes
+      label: Seasonal Cleaning Frequency Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 16
-      name: seasonal_frequency
-      label: seasonal_frequency
+      name: seasonal_refresh_notes
+      label: Refresh Notes
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 17
-      name: seasonal_cleaning_frequency
-      label: seasonal_cleaning_frequency
+      name: seasonal_frequency_refresh_notes
+      label: Seasonal Frequency Refresh Notes
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 18
-      name: seasonal_frequency
-      label: seasonal_frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: seasonal_frequency_notes
-      label: seasonal_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: seasonal_notes
-      label: seasonal_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: seasonal_refresh_frequency
-      label: seasonal_refresh_frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: seasonal_frequency_notes
-      label: seasonal_frequency_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: seasonal_frequency
-      label: seasonal_frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: seasonal_frequency
-      label: seasonal_frequency
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: seasonal_frequency
-      label: seasonal_frequency
+      name: seasonal_frequency_2
+      label: Seasonal Frequency 2
       hint: null
       type: text
       options: []

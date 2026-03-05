@@ -1,86 +1,90 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Art Gallery Visitor Preference Check In
     pages:
-      - id: 1
-        name: visitor_name
-        label: Visitor name
-        hint: Full name for check in
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: contact_email
-        label: Contact email
-        hint: For follow up and receipts
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: visit_purpose
-        label: Purpose of visit
-        hint: What brought you to the gallery today
-        type: select_one
-        options: [Exhibition, Workshop, Event, General visit]
-        required: true
-      - id: 4
-        name: interests
-        label: Interests
-        hint: Preferred art styles or programs
-        type: select_multiple
-        options: [Painting, Sculpture, Photography, Contemporary, Historical]
-        required: false
-      - id: 5
-        name: receive_updates
-        label: Receive updates and events
-        hint: Subscribe to gallery updates
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 6
-        name: favorite_artist
-        label: Favorite artist
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: membership_interest
-        label: Interested in membership
-        hint: Find out if visitor wants membership info
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 8
-        name: preferred_contact_method
-        label: Preferred contact method
-        hint: Email or phone
-        type: select_one
-        options: [Email, Phone]
-        required: false
-      - id: 9
-        name: visit_feedback
-        label: Visit feedback
-        hint: Quick feedback about the check in experience
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: additional_requests
-        label: Additional requests
-        hint: Any special requests or notes
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: visitor_name
+      label: Visitor name
+      hint: Full name for check in
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For follow up and receipts
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: visit_purpose
+      label: Purpose of visit
+      hint: What brought you to the gallery today
+      type: select_one
+      options:
+      - Exhibition
+      - Workshop
+      - Event
+      - General visit
+      required: true
+    - id: 4
+      name: interests
+      label: Interests
+      hint: Preferred art styles or programs
+      type: select_multiple
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Contemporary
+      - Historical
+      required: false
+    - id: 5
+      name: receive_updates
+      label: Receive updates and events
+      hint: Subscribe to gallery updates
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: favorite_artist
+      label: Favorite artist
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: membership_interest
+      label: Interested in membership
+      hint: Find out if visitor wants membership info
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: Email or phone
+      type: select_one
+      options:
+      - Email
+      - Phone
+      required: false
+    - id: 9
+      name: visit_feedback
+      label: Visit feedback
+      hint: Quick feedback about the check in experience
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_requests
+      label: Additional requests
+      hint: Any special requests or notes
+      type: text
+      options: []
+      required: false

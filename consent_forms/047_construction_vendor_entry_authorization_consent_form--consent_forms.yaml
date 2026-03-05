@@ -167,8 +167,8 @@ inputSchema:
       hint: Do you understand PPE rules
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 22
       name: emergency_contact_name
@@ -198,7 +198,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Agree
-      - false
+      - 'False'
       required: true
     - id: 26
       name: liability_waiver
@@ -207,7 +207,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Accept
-      - false
+      - 'False'
       required: true
     - id: 27
       name: confidentiality_agreement
@@ -216,7 +216,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Agree
-      - false
+      - 'False'
       required: false
     - id: 28
       name: background_check_consent
@@ -225,7 +225,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Consent
-      - false
+      - 'False'
       required: false
     - id: 29
       name: vendor_signature

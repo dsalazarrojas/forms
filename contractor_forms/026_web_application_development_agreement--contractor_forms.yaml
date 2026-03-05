@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''PayPal'', ''value'': ''paypal''}'
-      - '{''name'': ''Bank Transfer'', ''value'': ''bank_transfer''}'
-      - '{''name'': ''Credit Card'', ''value'': ''credit_card''}'
+      - paypal
+      - bank transfer
+      - credit card
       required: true
     - id: 14
       name: terms_and_conditions
@@ -131,8 +131,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Yes'', ''value'': ''yes''}'
-      - '{''name'': ''No'', ''value'': ''no''}'
+      - 'yes'
+      - 'no'
       required: true
     - id: 19
       name: developer_signature
@@ -140,8 +140,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Yes'', ''value'': ''yes''}'
-      - '{''name'': ''No'', ''value'': ''no''}'
+      - 'yes'
+      - 'no'
       required: true
     - id: 20
       name: client_note
@@ -163,8 +163,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Yes'', ''value'': ''yes''}'
-      - '{''name'': ''No'', ''value'': ''no''}'
+      - 'yes'
+      - 'no'
       required: true
     - id: 23
       name: developer_agreed
@@ -172,8 +172,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Yes'', ''value'': ''yes''}'
-      - '{''name'': ''No'', ''value'': ''no''}'
+      - 'yes'
+      - 'no'
       required: true
     - id: 24
       name: client_comments

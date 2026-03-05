@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Truck''}'
-      - '{''id'': 2, ''name'': ''Car''}'
-      - '{''id'': 3, ''name'': ''Motorcycle''}'
+      - Truck
+      - Car
+      - Motorcycle
       required: false
     - id: 4
       name: delivery_date
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Working''}'
-      - '{''id'': 2, ''name'': ''Not Working''}'
+      - Working
+      - Not Working
       required: false
     - id: 6
       name: fog_lights
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Working''}'
-      - '{''id'': 2, ''name'': ''Not Working''}'
+      - Working
+      - Not Working
       required: false
     - id: 7
       name: main_beam
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Working''}'
-      - '{''id'': 2, ''name'': ''Not Working''}'
+      - Working
+      - Not Working
       required: false
     - id: 8
       name: notes

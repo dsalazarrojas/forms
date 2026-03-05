@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facebook''}'
-      - '{''id'': 2, ''name'': ''Instagram''}'
-      - '{''id'': 3, ''name'': ''LinkedIn''}'
-      - '{''id'': 4, ''name'': ''Twitter''}'
+      - Facebook
+      - Instagram
+      - LinkedIn
+      - Twitter
       required: false
     - id: 2
       name: time_range_start
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Hourly''}'
-      - '{''id'': 2, ''name'': ''Daily''}'
-      - '{''id'': 3, ''name'': ''Weekly''}'
-      - '{''id'': 4, ''name'': ''Monthly''}'
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 5
       name: engagement_platform
@@ -45,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Posts''}'
-      - '{''id'': 2, ''name'': ''Stories''}'
-      - '{''id'': 3, ''name'': ''Live Streaming''}'
+      - Posts
+      - Stories
+      - Live Streaming
       required: false
     - id: 6
       name: metrics
@@ -55,15 +55,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Post Reach''}'
-      - '{''id'': 2, ''name'': ''Engagement Rate''}'
-      - '{''id'': 3, ''name'': ''Comment Count''}'
-      - '{''id'': 4, ''name'': ''Post Click-Through Rate''}'
-      - '{''id'': 5, ''name'': ''Sentiment Analysis''}'
-      - '{''id'': 6, ''name'': ''Audience Growth Rate''}'
-      - '{''id'': 7, ''name'': ''Top-Engagement Content''}'
-      - '{''id'': 8, ''name'': ''Hashtags Used''}'
-      - '{''id'': 9, ''name'': ''Engagement Index''}'
+      - Post Reach
+      - Engagement Rate
+      - Comment Count
+      - Post Click-Through Rate
+      - Sentiment Analysis
+      - Audience Growth Rate
+      - Top-Engagement Content
+      - Hashtags Used
+      - Engagement Index
       required: false
     - id: 7
       name: metric_interval
@@ -71,11 +71,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Week''}'
-      - '{''id'': 2, ''name'': ''Month''}'
-      - '{''id'': 3, ''name'': ''Quarter''}'
-      - '{''id'': 4, ''name'': ''Year''}'
-      - '{''id'': 5, ''name'': ''Total''}'
+      - Week
+      - Month
+      - Quarter
+      - Year
+      - Total
       required: false
     - id: 8
       name: email
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''PDF''}'
-      - '{''id'': 2, ''name'': ''CSV''}'
-      - '{''id'': 3, ''name'': ''JSON''}'
+      - PDF
+      - CSV
+      - JSON
       required: false
     - id: 13
       name: assigned_tool

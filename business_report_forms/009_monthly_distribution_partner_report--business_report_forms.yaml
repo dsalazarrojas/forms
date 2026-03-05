@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''label'': ''other'', ''value'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 9
       name: form_completed
@@ -67,6 +67,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

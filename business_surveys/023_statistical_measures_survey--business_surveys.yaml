@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Business Surveys''}'
-      - '{''value'': ''Personal Finance''}'
-      - '{''value'': ''Other''}'
+      - Business Surveys
+      - Personal Finance
+      - Other
       required: false
     - id: 3
       name: form_description
@@ -44,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''very_familiar''}'
-      - '{''value'': ''somewhat_familiar''}'
-      - '{''value'': ''not_familiar''}'
+      - very familiar
+      - somewhat familiar
+      - not familiar
       required: false
     - id: 5
       name: form_usage_frequency
@@ -54,10 +43,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''almost_always''}'
-      - '{''value'': ''often''}'
-      - '{''value'': ''occasionally''}'
-      - '{''value'': ''never''}'
+      - almost always
+      - often
+      - occasionally
+      - never
       required: false
     - id: 6
       name: form_confidence
@@ -65,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''very_confident''}'
-      - '{''value'': ''somewhat_confident''}'
-      - '{''value'': ''not_confident''}'
+      - very confident
+      - somewhat confident
+      - not confident
       required: false
     - id: 7
       name: form_skill_gap

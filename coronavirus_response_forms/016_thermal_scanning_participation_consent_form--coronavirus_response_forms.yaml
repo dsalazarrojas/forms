@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2.1, ''label'': True}'
-      - '{''id'': 2.2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 3
       name: temperature_check
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 3.1, ''label'': 1}'
-      - '{''id'': 3.2, ''label'': 2}'
-      - '{''id'': 3.3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 4
       name: note

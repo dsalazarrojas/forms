@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': 1}'
-      - '{''value'': 2, ''label'': 2}'
-      - '{''value'': 3, ''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 5
       name: upload_evidence
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Attach a photo''}'
-      - '{''value'': 2, ''label'': ''Attach a document''}'
+      - Attach a photo
+      - Attach a document
       required: false
     - id: 8
       name: submit_button

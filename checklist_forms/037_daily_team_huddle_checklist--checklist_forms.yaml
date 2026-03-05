@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Attended'', ''value'': ''Attended''}'
-      - '{''label'': ''Absent'', ''value'': ''Absent''}'
-      - '{''label'': ''Late'', ''value'': ''Late''}'
-      - '{''label'': ''On Vacation'', ''value'': ''On Vacation''}'
-      - '{''label'': ''Working Remotely'', ''value'': ''Working Remotely''}'
+      - Attended
+      - Absent
+      - Late
+      - On Vacation
+      - Working Remotely
       required: false
     - id: 3
       name: notes
@@ -46,8 +35,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Technical Blocker'', ''value'': ''Technical Blocker''}'
-      - '{''label'': ''Non-Technical Blocker'', ''value'': ''Non-Technical Blocker''}'
+      - Technical Blocker
+      - Non-Technical Blocker
       required: false
     - id: 5
       name: next_steps
@@ -97,7 +86,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''User 1'', ''value'': ''User 1''}'
-      - '{''label'': ''User 2'', ''value'': ''User 2''}'
-      - '{''label'': ''User 3'', ''value'': ''User 3''}'
+      - User 1
+      - User 2
+      - User 3
       required: false

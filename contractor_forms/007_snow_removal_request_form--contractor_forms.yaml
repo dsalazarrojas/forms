@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Message''}'
+      - Email
+      - Phone
+      - Message
       required: false
     - id: 4
       name: location
@@ -47,9 +47,9 @@ inputSchema:
       hint: Select the type of snow removal
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Snowplow''}'
-      - '{''id'': 2, ''name'': ''Sanding''}'
-      - '{''id'': 3, ''name'': ''Blowing''}'
+      - Snowplow
+      - Sanding
+      - Blowing
       required: false
     - id: 7
       name: note

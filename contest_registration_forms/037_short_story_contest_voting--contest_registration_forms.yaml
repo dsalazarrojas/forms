@@ -12,82 +12,42 @@ inputSchema:
       required: false
     - id: 2
       name: story_choice
-      label: Choose Your Story
-      hint: Select one story to vote for
+      label: Choose A Story
+      hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - The Great Gatsby
+      - The Catcher in the Rye
+      - The Great Expectations
+      - The Old Man and the Sea
+      required: true
     - id: 3
       name: vote_type
-      label: Voting Type
-      hint: Select your vote type
+      label: Vote Type
+      hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - For the win
+      - Against the win
+      required: true
     - id: 4
       name: rating
-      label: Rating
+      label: Rate the Story
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: rating
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
       name: comment
       label: Comment
       hint: null
       type: note
       options: []
       required: false
-    - id: 10
+    - id: 6
       name: submit_button
       label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: submit_button
-      label: Submit
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

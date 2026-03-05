@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fire''}'
-      - '{''id'': 2, ''label'': ''Medical''}'
-      - '{''id'': 3, ''label'': ''Injury''}'
+      - Fire
+      - Medical
+      - Injury
       required: true
     - id: 10
       name: incidents_location
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Inside''}'
-      - '{''id'': 2, ''label'': ''Outside''}'
-      - '{''id'': 3, ''label'': ''Both''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Inside
+      - Outside
+      - Both
+      - Other
       required: true
     - id: 11
       name: incidents_description
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pending''}'
-      - '{''id'': 2, ''label'': ''Resolved''}'
-      - '{''id'': 3, ''label'': ''Closed''}'
-      - '{''id'': 4, ''label'': ''In Progress''}'
+      - Pending
+      - Resolved
+      - Closed
+      - In Progress
       required: true

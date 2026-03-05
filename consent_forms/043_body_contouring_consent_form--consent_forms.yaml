@@ -76,7 +76,7 @@ inputSchema:
       - Yes, Thoroughly
       - Yes, Adequately
       - Somewhat
-      - false
+      - 'False'
       required: true
     - id: 10
       name: benefits_understood
@@ -84,8 +84,8 @@ inputSchema:
       hint: Do you understand the benefits?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: risks_understood
@@ -93,8 +93,8 @@ inputSchema:
       hint: Do you understand the risks?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: potential_risks
@@ -119,8 +119,8 @@ inputSchema:
       hint: Have alternatives been discussed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 14
       name: alternative_options
@@ -135,8 +135,8 @@ inputSchema:
       hint: Has your medical history been reviewed?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: questions_asked
@@ -154,8 +154,8 @@ inputSchema:
       hint: Do you have realistic expectations?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: no_guarantees
@@ -164,7 +164,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Understand
-      - false
+      - 'False'
       required: true
     - id: 19
       name: follow_up_care
@@ -172,8 +172,8 @@ inputSchema:
       hint: Do you understand aftercare requirements?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: voluntary_consent
@@ -182,7 +182,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Understand
-      - false
+      - 'False'
       required: true
     - id: 21
       name: right_to_withdraw
@@ -191,7 +191,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Understand
-      - false
+      - 'False'
       required: true
     - id: 22
       name: photo_consent
@@ -201,7 +201,7 @@ inputSchema:
       options:
       - Yes, for Medical Records Only
       - Yes, for Marketing Too
-      - false
+      - 'False'
       required: true
     - id: 23
       name: client_signature

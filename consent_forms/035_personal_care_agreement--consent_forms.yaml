@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 4
       name: personal_care_agreement_1_responsible_caregiver_hint
@@ -36,7 +36,7 @@ inputSchema:
       required: false
     - id: 5
       name: personal_care_agreement_1_responsible_caregiver_name
-      label: Name of person responsible for care
+      label: Personal Care Agreement 1 Responsible Caregiver Name
       hint: null
       type: text
       options: []
@@ -68,13 +68,13 @@ inputSchema:
       hint: What needs do we need to take care of?
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: personal_care_agreement_1_client_needs_hint
-      label: What needs do we need to take care of?
+      label: Personal Care Agreement 1 Client Needs Hint
       hint: null
       type: text
       options: []
@@ -88,7 +88,7 @@ inputSchema:
       required: false
     - id: 12
       name: personal_care_agreement_1_medical_needs_hint
-      label: Medical Needs
+      label: Personal Care Agreement 1 Medical Needs Hint
       hint: null
       type: text
       options: []
@@ -102,7 +102,7 @@ inputSchema:
       required: false
     - id: 14
       name: personal_care_agreement_1_medical_needs_details_hint
-      label: Medical Needs Details
+      label: Personal Care Agreement 1 Medical Needs Details Hint
       hint: null
       type: text
       options: []
@@ -116,7 +116,7 @@ inputSchema:
       required: false
     - id: 16
       name: personal_care_agreement_1_caregiver_needs_hint
-      label: Caregiver Needs
+      label: Personal Care Agreement 1 Caregiver Needs Hint
       hint: null
       type: text
       options: []
@@ -130,7 +130,7 @@ inputSchema:
       required: false
     - id: 18
       name: personal_care_agreement_1_caregiver_needs_details_hint
-      label: Caregiver Needs Details
+      label: Personal Care Agreement 1 Caregiver Needs Details Hint
       hint: null
       type: text
       options: []
@@ -144,7 +144,7 @@ inputSchema:
       required: false
     - id: 20
       name: personal_care_agreement_1_other_needs_hint
-      label: Other Needs
+      label: Personal Care Agreement 1 Other Needs Hint
       hint: null
       type: text
       options: []
@@ -158,7 +158,7 @@ inputSchema:
       required: false
     - id: 22
       name: personal_care_agreement_1_other_needs_details_hint
-      label: Other Needs Details
+      label: Personal Care Agreement 1 Other Needs Details Hint
       hint: null
       type: text
       options: []
@@ -172,7 +172,7 @@ inputSchema:
       required: false
     - id: 24
       name: personal_care_agreement_1_agreement_terms_hint
-      label: Agreement Terms
+      label: Personal Care Agreement 1 Agreement Terms Hint
       hint: null
       type: text
       options: []

@@ -267,7 +267,7 @@ inputSchema:
       options:
       - Yes - Urgent
       - Yes - Soon
-      - false
+      - 'False'
       required: true
     - id: 31
       name: supervisor_notified
@@ -275,8 +275,8 @@ inputSchema:
       hint: Has supervisor been informed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 32
       name: additional_comments

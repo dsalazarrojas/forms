@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Direct Procurement'', ''value'': ''Direct_Procurement''}'
-      - '{''text'': ''Indirect Procurement'', ''value'': ''Indirect_Procurement''}'
+      - Direct Procurement
+      - Indirect Procurement
       required: false
     - id: 6
       name: procurement_method
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''text'': ''Electronic Bid'', ''value'': ''Electronic_Bid''}'
-      - '{''text'': ''Physical Bid'', ''value'': ''Physical_Bid''}'
+      - Electronic Bid
+      - Physical Bid
       required: false
     - id: 7
       name: contract_type
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Fixed-Price Contract'', ''value'': ''Fixed_Price_Contract''}'
-      - '{''text'': ''Cost-Plus Contract'', ''value'': ''CostPlus_Contract''}'
+      - Fixed Price Contract
+      - CostPlus Contract
       required: false
     - id: 8
       name: procurement_status
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Open Procurement'', ''value'': ''Open_Procurement''}'
-      - '{''text'': ''Closed Procurement'', ''value'': ''Closed_Procurement''}'
+      - Open Procurement
+      - Closed Procurement
       required: false
     - id: 9
       name: comments
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Internal'', ''value'': ''Internal''}'
-      - '{''text'': ''External'', ''value'': ''External''}'
+      - Internal
+      - External
       required: false
     - id: 11
       name: procurement_date
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Active'', ''value'': ''Active''}'
-      - '{''text'': ''Cancelled'', ''value'': ''Cancelled''}'
-      - '{''text'': ''Closed'', ''value'': ''Closed''}'
+      - Active
+      - Cancelled
+      - Closed
       required: false
     - id: 20
       name: notes
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Vendor 1'', ''value'': ''Vendor_1''}'
-      - '{''text'': ''Vendor 2'', ''value'': ''Vendor_2''}'
-      - '{''text'': ''Vendor 3'', ''value'': ''Vendor_3''}'
+      - Vendor 1
+      - Vendor 2
+      - Vendor 3
       required: false
     - id: 23
       name: contact_person
@@ -193,9 +193,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Email'', ''value'': ''Email''}'
-      - '{''text'': ''Phone'', ''value'': ''Phone''}'
-      - '{''text'': ''In-person'', ''value'': ''In_person''}'
+      - Email
+      - Phone
+      - In person
       required: false
     - id: 26
       name: contact_info

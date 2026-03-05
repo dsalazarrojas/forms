@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: financial_institutions_aware_how_many
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''bank'', ''label'': ''Bank''}'
-      - '{''value'': ''credit_union'', ''label'': ''Credit Union''}'
-      - '{''value'': ''investment_institution'', ''label'': ''Investment Institution''}'
-      - '{''value'': ''government_agency'', ''label'': ''Government Agency''}'
+      - Bank
+      - Credit Union
+      - Investment Institution
+      - Government Agency
       required: false
     - id: 5
       name: financial_institutions_aware_what_type
@@ -43,13 +43,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''commercial'', ''label'': ''Commercial''}'
-      - '{''value'': ''consumer'', ''label'': ''Consumer''}'
-      - '{''value'': ''industrial'', ''label'': ''Industrial''}'
-      - '{''value'': ''investment'', ''label'': ''Investment''}'
-      - '{''value'': ''non_commercial'', ''label'': ''Non-Commercial''}'
-      - '{''value'': ''public'', ''label'': ''Public''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Commercial
+      - Consumer
+      - Industrial
+      - Investment
+      - Non-Commercial
+      - Public
+      - Other
       required: false
     - id: 6
       name: financial_institutions_aware_who
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''bank'', ''label'': ''Bank''}'
-      - '{''value'': ''credit_union'', ''label'': ''Credit Union''}'
-      - '{''value'': ''government_agency'', ''label'': ''Government Agency''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Bank
+      - Credit Union
+      - Government Agency
+      - Other
       required: false
     - id: 7
       name: financial_institutions_aware_what_institution
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''institution'', ''label'': ''Institution''}'
-      - '{''value'': ''subsidiary'', ''label'': ''Subsidiary''}'
-      - '{''value'': ''branch'', ''label'': ''Branch''}'
+      - Institution
+      - Subsidiary
+      - Branch
       required: false
     - id: 8
       name: consent_date
