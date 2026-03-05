@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Team Member''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Manager
+      - Team Member
+      - Other
       required: false
     - id: 5
       name: manager_name
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HR''}'
-      - '{''id'': 2, ''label'': ''Finance''}'
+      - HR
+      - Finance
       required: false
     - id: 15
       name: location

@@ -73,7 +73,7 @@ inputSchema:
       hint: In honor or memory of someone
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, in honor of
       - Yes, in memory of
       required: true
@@ -90,8 +90,8 @@ inputSchema:
       hint: Would you like us to notify them
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: tribute_contact_email
@@ -168,8 +168,8 @@ inputSchema:
       hint: Many companies match charitable gifts
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       required: true
     - id: 21

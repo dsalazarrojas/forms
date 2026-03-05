@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''payment_method'', ''label'': ''Card''}'
-      - '{''id'': 2, ''name'': ''bank_transfer'', ''label'': ''Bank''}'
-      - '{''id'': 3, ''name'': ''check'', ''label'': ''Check''}'
+      - Card
+      - Bank
+      - Check
       required: false
     - id: 5
       name: membership_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''monthly'', ''label'': ''Month-to-Month''}'
-      - '{''id'': 2, ''name'': ''six_monthly'', ''label'': ''Six-Monthly''}'
-      - '{''id'': 3, ''name'': ''annual'', ''label'': ''Annual''}'
+      - Month-to-Month
+      - Six-Monthly
+      - Annual
       required: false
     - id: 6
       name: membership_start_date

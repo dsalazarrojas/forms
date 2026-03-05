@@ -4,7 +4,7 @@ inputSchema:
     title: Fundraiser Check In Form
     pages:
     - id: 1
-      name: fundraiser_check_in_form_1
+      name: first_name
       label: First Name
       hint: null
       type: text
@@ -25,28 +25,7 @@ inputSchema:
       options: []
       required: false
     - id: 4
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: fundraiser_check_in_form_8
+      name: check_in_status
       label: Check In Status
       hint: null
       type: select_one
@@ -55,90 +34,52 @@ inputSchema:
       - Checked In
       - Left Early
       required: false
-    - id: 8
-      name: fundraiser_check_in_form_9
+    - id: 5
+      name: additional_comments
       label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 9
-      name: fundraiser_check_in_form_10
+    - id: 6
+      name: number_of_guests
       label: Number of Guests
       hint: null
       type: number
       options: []
       required: false
-    - id: 10
-      name: fundraiser_check_in_form_11
+    - id: 7
+      name: number_of_volunteers
       label: Number of Volunteers
       hint: null
       type: number
       options: []
       required: false
-    - id: 11
-      name: fundraiser_check_in_form_12
+    - id: 8
+      name: event_code
       label: Event Code
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: fundraiser_check_in_form_13
+    - id: 9
+      name: check_in_location
       label: Check In Location
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: fundraiser_check_in_form_14
-      label: Check In Status Time
+    - id: 10
+      name: check_in_time
+      label: Check In Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 14
-      name: fundraiser_check_in_form_15
-      label: Check In Status Date
+    - id: 11
+      name: check_in_date
+      label: Check In Date
       hint: null
       type: date
-      options: []
-      required: false
-    - id: 15
-      name: fundraiser_check_in_form_16
-      label: Check In Status
-      hint: null
-      type: select_one
-      options:
-      - Checked In
-      - Not Checked In
-      - Left Early
-      required: false
-    - id: 16
-      name: fundraiser_check_in_form_17
-      label: Number of Guests
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: fundraiser_check_in_form_18
-      label: Number of Volunteers
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: fundraiser_check_in_form_19
-      label: Event Code
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: fundraiser_check_in_form_20
-      label: Check In Location
-      hint: null
-      type: text
       options: []
       required: false

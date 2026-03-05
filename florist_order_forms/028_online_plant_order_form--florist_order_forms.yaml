@@ -44,36 +44,25 @@ inputSchema:
       hint: Select payment method
       type: select_one
       options:
-      - '{''id'': 6, ''name'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''id'': 7, ''name'': ''bank_transfer'', ''label'': ''Bank Transfer''}'
-      - '{''id'': 8, ''name'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 9, ''name'': ''square'', ''label'': ''Square''}'
-      - '{''id'': 10, ''name'': ''authorize_net'', ''label'': ''Authorize.net''}'
-      - '{''id'': 11, ''name'': ''google_pay'', ''label'': ''Google Pay''}'
-      - '{''id'': 12, ''name'': ''apple_pay'', ''label'': ''Apple Pay''}'
-      - '{''id'': 13, ''name'': ''amazon_pay'', ''label'': ''Amazon Pay''}'
-      - '{''id'': 14, ''name'': ''paypal_express_checkout'', ''label'': ''PayPal Express
-        Checkout''}'
-      - '{''id'': 15, ''name'': ''skrill'', ''label'': ''Skrill''}'
-      - '{''id'': 16, ''name'': ''transfer_wise'', ''label'': ''TransferWise''}'
-      - '{''id'': 17, ''name'': ''bank_transfer_euro'', ''label'': ''Bank Transfer
-        Euro''}'
-      - '{''id'': 18, ''name'': ''bank_transfer_usd'', ''label'': ''Bank Transfer
-        USD''}'
-      - '{''id'': 19, ''name'': ''bank_transfer_jpy'', ''label'': ''Bank Transfer
-        JPY''}'
-      - '{''id'': 20, ''name'': ''bank_transfer_cny'', ''label'': ''Bank Transfer
-        CNY''}'
-      - '{''id'': 21, ''name'': ''bank_transfer_cad'', ''label'': ''Bank Transfer
-        CAD''}'
-      - '{''id'': 22, ''name'': ''bank_transfer_aud'', ''label'': ''Bank Transfer
-        AUD''}'
-      - '{''id'': 23, ''name'': ''bank_transfer_gbp'', ''label'': ''Bank Transfer
-        GBP''}'
-      - '{''id'': 24, ''name'': ''bank_transfer_eur'', ''label'': ''Bank Transfer
-        EUR''}'
-      - '{''id'': 25, ''name'': ''bank_transfer_cny'', ''label'': ''Bank Transfer
-        CNY''}'
+      - PayPal
+      - Bank Transfer
+      - Stripe
+      - Square
+      - Authorize.net
+      - Google Pay
+      - Apple Pay
+      - Amazon Pay
+      - PayPal Express Checkout
+      - Skrill
+      - TransferWise
+      - Bank Transfer Euro
+      - Bank Transfer USD
+      - Bank Transfer JPY
+      - Bank Transfer CNY
+      - Bank Transfer CAD
+      - Bank Transfer AUD
+      - Bank Transfer GBP
+      - Bank Transfer EUR
       required: false
     - id: 7
       name: email
@@ -160,8 +149,8 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: shipping_info
-      label: Shipping Info
+      name: shipping_info_2
+      label: Shipping Info 2
       hint: Enter shipping info
       type: text
       options: []
@@ -202,22 +191,22 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: Enter email
       type: email
       options: []
       required: false
     - id: 26
-      name: phone
-      label: Phone
+      name: phone_2
+      label: Phone 2
       hint: Enter phone
       type: text
       options: []
       required: false
     - id: 27
-      name: address
-      label: Address
+      name: address_2
+      label: Address 2
       hint: Enter address
       type: text
       options: []

@@ -9,192 +9,66 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: epci_name
       label: EPCI Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: epci_address
-      label: EPCI Address
+      name: epci_email
+      label: EPCI Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: epci_date
-      label: EPCI Date
+      name: epci_phone
+      label: EPCI Phone
       hint: null
-      type: date
+      type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: epci_time
-      label: EPCI Time
+      name: epci_select
+      label: EPCI Select
       hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: epci_notes
-      label: EPCI Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
-      name: epci_email
-      label: EPCI Email
-      hint: Enter your EPCI Email
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: epci_phone
-      label: EPCI Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: epci_select_one_1
-      label: EPCI Select One
-      hint: Select One
       type: select_one
       options:
-      - option1
-      - option2
-      required: false
-    - id: 10
-      name: epci_select_multiple_1
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 6
+      name: epci_select_multiple
       label: EPCI Select Multiple
-      hint: Select Multiple
+      hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 7
       name: epci_date
       label: EPCI Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 8
       name: epci_time
       label: EPCI Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 9
       name: epci_notes
       label: EPCI Notes
       hint: null
       type: note
       options: []
-      required: false
-    - id: 14
-      name: epci_email
-      label: EPCI Email
-      hint: Enter your EPCI Email
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: epci_phone
-      label: EPCI Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: epci_select_one_2
-      label: EPCI Select One 2
-      hint: Select One 2
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 17
-      name: epci_select_multiple_2
-      label: EPCI Select Multiple 2
-      hint: Select Multiple 2
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: epci_email
-      label: EPCI Email
-      hint: Enter your EPCI Email
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: epci_phone
-      label: EPCI Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: epci_select_one_3
-      label: EPCI Select One 3
-      hint: Select One 3
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 21
-      name: epci_select_multiple_3
-      label: EPCI Select Multiple 3
-      hint: Select Multiple 3
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: epci_email
-      label: EPCI Email
-      hint: Enter your EPCI Email
-      type: email
-      options: []
-      required: false
-    - id: 23
-      name: epci_phone
-      label: EPCI Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: epci_select_one_4
-      label: EPCI Select One 4
-      hint: Select One 4
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: false
-    - id: 25
-      name: epci_select_multiple_4
-      label: EPCI Select Multiple 4
-      hint: Select Multiple 4
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      required: true

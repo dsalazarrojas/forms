@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''High risk of burns or scarring''}'
-      - '{''value'': ''High risk of hair breakage''}'
-      - '{''value'': ''Skin irritation''}'
-      - '{''value'': ''Other (please specify)''}'
+      - High risk of burns or scarring
+      - High risk of hair breakage
+      - Skin irritation
+      - Other (please specify)
       required: false
     - id: 3
       name: signature
@@ -45,8 +34,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Client has read and signed this form''}'
-      - '{''value'': ''Client has read and signed this form''}'
+      - Client has read and signed this form
+      - Other
       required: false
     - id: 5
       name: stylist_name
@@ -75,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Chemical Relaxing''}'
-      - '{''value'': ''Haircut''}'
-      - '{''value'': ''Chemical Treatment''}'
+      - Chemical Relaxing
+      - Haircut
+      - Chemical Treatment
       required: false
     - id: 9
       name: other_services
@@ -92,6 +81,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''I have read and understand the risks associated with this service''}'
-      - '{''value'': ''I have read and understand the risks associated with this service''}'
+      - I have read and understand the risks associated with this service
+      - Other
       required: false

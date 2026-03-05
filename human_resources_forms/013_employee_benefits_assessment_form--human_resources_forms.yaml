@@ -5,91 +5,23 @@ inputSchema:
     pages:
     - id: 1
       name: employee_benefits_form_1
-      label: Employee Benefits
+      label: Job Satisfaction
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Satisfied
+      - Dissatisfied
       required: false
     - id: 2
-      name: employee_benefits_form_2
-      label: Job Title
+      name: job_benefits_packages
+      label: Benefits Packages
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 3
-      name: job_title
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: employee_benefits_form_3
-      label: Job Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 5
-      name: employee_benefits_form_4
-      label: Job Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 6
-      name: job_satisfaction
-      label: Job Satisfaction
-      hint: null
-      type: select_one
-      options:
-      - Satisfied
-      - Dissatisfied
-      required: false
-    - id: 7
-      name: employee_benefits_form_5
-      label: Benefits Packages
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: employee_benefits_form_6
-      label: Benefits Packages
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: benefits_packages
-      label: Benefits Packages
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: employee_benefits_form_7
-      label: Commute Options
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
       name: commute_options
       label: Commute Options
       hint: null
@@ -98,16 +30,7 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 12
-      name: employee_benefits_form_8
-      label: Work Environment
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
+    - id: 4
       name: work_environment
       label: Work Environment
       hint: null
@@ -116,8 +39,8 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 14
-      name: employee_benefits_form_9
+    - id: 5
+      name: team_dynamics
       label: Team Dynamics
       hint: null
       type: select_multiple
@@ -125,30 +48,7 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 15
-      name: team_dynamics
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: prophets
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: employee_benefits_form_10
-      label: Company Culture
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
+    - id: 6
       name: company_culture
       label: Company Culture
       hint: null
@@ -157,8 +57,8 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 19
-      name: employee_benefits_form_11
+    - id: 7
+      name: management
       label: Management
       hint: null
       type: select_multiple
@@ -166,39 +66,7 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 20
-      name: management
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: prophets
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: employee_benefits_form_12
-      label: Communication
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: prophets
-      label: Communication
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
+    - id: 8
       name: communication
       label: Communication
       hint: null
@@ -207,18 +75,34 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 25
-      name: employee_benefits_form_13
-      label: Employee Benefits Assessment
+    - id: 9
+      name: job_satisfaction
+      label: Job Satisfaction (2)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: benefits_packages_satisfaction
+      label: Benefits Packages Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 11
+      name: commute_improvement
+      label: Commute Improvement
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 26
-      name: employee_benefits_form_14
-      label: Employee Benefits Assessment
+    - id: 12
+      name: job_value_alignment
+      label: Job Value Alignment
       hint: null
       type: select_multiple
       options:

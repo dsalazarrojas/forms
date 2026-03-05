@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 6
       name: select_multiple
@@ -73,17 +73,17 @@ inputSchema:
       options: []
       required: false
     - id: 10
-      name: select_one
+      name: select_one_2
       label: Other
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
-      name: select_multiple
+      name: select_multiple_2
       label: Multiple Other
       hint: Select multiple options
       type: select_multiple
@@ -93,14 +93,14 @@ inputSchema:
       - Option C
       required: false
     - id: 12
-      name: first_name
+      name: first_name_2
       label: Company First Name
       hint: null
       type: text
       options: []
       required: true
     - id: 13
-      name: last_name
+      name: last_name_2
       label: Company Last Name
       hint: null
       type: text
@@ -114,17 +114,17 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: select_one
+      name: select_one_3
       label: Department
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
-      name: select_multiple
+      name: select_multiple_3
       label: Location
       hint: null
       type: select_multiple
@@ -134,67 +134,67 @@ inputSchema:
       - Option C
       required: false
     - id: 17
-      name: date
+      name: date_2
       label: Company Date
       hint: null
       type: date
       options: []
       required: false
     - id: 18
-      name: time
+      name: time_2
       label: Company Time
       hint: null
       type: time
       options: []
       required: false
     - id: 19
-      name: note
+      name: note_2
       label: Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 20
-      name: first_name
-      label: First Name
+      name: first_name_3
+      label: First Name 3
       hint: null
       type: text
       options: []
       required: true
     - id: 21
-      name: last_name
-      label: Last Name
+      name: last_name_3
+      label: Last Name 3
       hint: null
       type: text
       options: []
       required: true
     - id: 22
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: true
     - id: 23
-      name: phone
-      label: Phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: true
     - id: 24
-      name: select_one
-      label: Certification
+      name: select_one_4
+      label: Select One 4
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 25
-      name: select_multiple
-      label: Interests
+      name: select_multiple_4
+      label: Select Multiple 4
       hint: Select multiple options
       type: select_multiple
       options:

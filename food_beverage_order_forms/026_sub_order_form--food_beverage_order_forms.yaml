@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''id'': 3, ''name'': ''cash'', ''label'': ''Cash''}'
+      - Stripe
+      - PayPal
+      - Cash
       required: true
     - id: 6
       name: payment_gateway
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''stripe'', ''label'': ''Stripe''}'
-      - '{''id'': 2, ''name'': ''paypal'', ''label'': ''PayPal''}'
-      - '{''id'': 3, ''name'': ''cash'', ''label'': ''Cash''}'
+      - Stripe
+      - PayPal
+      - Cash
       required: true
     - id: 7
       name: order_total
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''processing'', ''label'': ''Processing''}'
-      - '{''id'': 3, ''name'': ''completed'', ''label'': ''Completed''}'
+      - Pending
+      - Processing
+      - Completed
       required: true
     - id: 13
       name: order_date
@@ -137,10 +137,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''sub'', ''label'': ''Sub''}'
-      - '{''id'': 2, ''name'': ''chips'', ''label'': ''Chips''}'
-      - '{''id'': 3, ''name'': ''drink'', ''label'': ''Drink''}'
-      - '{''id'': 4, ''name'': ''cookie'', ''label'': ''Cookie''}'
+      - Sub
+      - Chips
+      - Drink
+      - Cookie
       required: true
     - id: 19
       name: customer_message_sub
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''small'', ''label'': ''Small''}'
-      - '{''id'': 2, ''name'': ''medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''large'', ''label'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: true
     - id: 22
       name: sub_type
@@ -172,12 +172,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''veggie'', ''label'': ''Veggie''}'
-      - '{''id'': 2, ''name'': ''meat'', ''label'': ''Meat''}'
-      - '{''id'': 3, ''name'': ''turkey'', ''label'': ''Turkey''}'
-      - '{''id'': 4, ''name'': ''tuna'', ''label'': ''Tuna''}'
-      - '{''id'': 5, ''name'': ''chicken'', ''label'': ''Chicken''}'
-      - '{''id'': 6, ''name'': ''fish'', ''label'': ''Fish''}'
+      - Veggie
+      - Meat
+      - Turkey
+      - Tuna
+      - Chicken
+      - Fish
       required: true
     - id: 23
       name: bread
@@ -185,10 +185,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''whole_wheat'', ''label'': ''Whole Wheat''}'
-      - '{''id'': 2, ''name'': ''white'', ''label'': ''White''}'
-      - '{''id'': 3, ''name'': ''rye'', ''label'': ''Rye''}'
-      - '{''id'': 4, ''name'': ''gluten_free'', ''label'': ''Gluten Free''}'
+      - Whole Wheat
+      - White
+      - Rye
+      - Gluten Free
       required: true
     - id: 24
       name: condiment
@@ -196,11 +196,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''mayonnaise'', ''label'': ''Mayonnaise''}'
-      - '{''id'': 2, ''name'': ''mustard'', ''label'': ''Mustard''}'
-      - '{''id'': 3, ''name'': ''ketchup'', ''label'': ''Ketchup''}'
-      - '{''id'': 4, ''name'': ''relish'', ''label'': ''Relish''}'
-      - '{''id'': 5, ''name'': ''ranch'', ''label'': ''Ranch''}'
+      - Mayonnaise
+      - Mustard
+      - Ketchup
+      - Relish
+      - Ranch
       required: true
     - id: 25
       name: special_instructions

@@ -44,8 +44,8 @@ inputSchema:
       hint: Symptoms within last 14 days
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 7
       name: recent_exposure
@@ -53,8 +53,8 @@ inputSchema:
       hint: Provide approximate date if known
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: false
     - id: 8

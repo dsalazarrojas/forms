@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''tournament'', ''label'': ''Tournament''}'
-      - '{''value'': ''cash'', ''label'': ''Cash''}'
+      - Tournament
+      - Cash
       required: false
     - id: 6
       name: date
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''online'', ''label'': ''Online''}'
-      - '{''value'': ''in_person'', ''label'': ''In Person''}'
+      - Online
+      - In Person
       required: false
     - id: 9
       name: player_count

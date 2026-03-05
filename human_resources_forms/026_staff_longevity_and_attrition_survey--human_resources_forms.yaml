@@ -5,23 +5,23 @@ inputSchema:
     pages:
     - id: 1
       name: survey_start
-      label: What Is The Purpose Of This Survey
-      hint: Please answer this questions honestly
+      label: What is the purpose of this survey?
+      hint: Please answer this question honestly
       type: text
       options: []
       required: false
     - id: 2
       name: staff_survey
-      label: How Long Have You Been With This Company
-      hint: Years
+      label: How long have you been with this company?
+      hint: In years
       type: number
       options: []
       required: false
     - id: 3
       name: reason_for_leave
-      label: Why Do You Leave Your Job
+      label: What are the main reasons you would leave your job?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Poor working conditions
       - No career development
@@ -30,9 +30,9 @@ inputSchema:
       required: false
     - id: 4
       name: job_satisfaction
-      label: How Satisfied Are You With Your Job
+      label: How satisfied are you with your job?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Very satisfied
       - Satisfied
@@ -42,117 +42,106 @@ inputSchema:
       required: false
     - id: 5
       name: manager_survey
-      label: How Often Do You Have Positive Interactions With Your Manager
+      label: How often do you have positive interactions with your manager?
       hint: Scale of 1-5
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: feedback
-      label: Any Additional Feedback?
+      label: Do you have any additional feedback?
       hint: null
       type: note
       options: []
       required: false
     - id: 7
-      name: manager_performance
-      label: Manager Performance
+      name: org_change
+      label: How often do you see changes in the organization?
       hint: null
       type: select_multiple
       options:
-      - Excellent
-      - Good
-      - Fair
-      - Poor
+      - Often
+      - Rarely
+      - Never
       required: false
     - id: 8
-      name: job_satisfaction_2
-      label: How Satisfied Are You With Your Job
+      name: org_change_type
+      label: What kind of changes have you seen in the organization?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Very satisfied
-      - Satisfied
-      - Neutral
-      - Dissatisfied
-      - Very dissatisfied
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 9
-      name: team_survey
-      label: How Often Do You Have Positive Interactions With Your Team
-      hint: Scale of 1-5
+      name: org_change_pos
+      label: How often do you see positive changes in the organization?
+      hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Often
+      - Rarely
+      - Never
       required: false
     - id: 10
-      name: org_change
-      label: How Often Do You See Changes In The Organization
-      hint: Scale of 1-5
+      name: org_change_neg
+      label: How often do you see negative changes in the organization?
+      hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - Often
+      - Rarely
+      - Never
       required: false
     - id: 11
-      name: org_change_2
-      label: How Often Do You See Changes In The Organization
+      name: org_change_pol
+      label: How often do you see changes in company policies?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Often
       - Rarely
       - Never
       required: false
     - id: 12
-      name: org_change_3
-      label: How Often Do You See Changes In The Organization
+      name: org_change_pro
+      label: How often do you see changes in company procedures?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Yearly
+      - Often
+      - Rarely
+      - Never
       required: false
     - id: 13
-      name: org_change_4
-      label: How Often Do You See Changes In The Organization
+      name: org_change_cul
+      label: How often do you see changes in company culture?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Often
       - Rarely
       - Never
       required: false
     - id: 14
-      name: org_change_5
-      label: How Often Do You See Changes In The Organization
+      name: org_change_vis
+      label: How often do you see changes in company vision?
       hint: null
       type: select_multiple
       options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Yearly
+      - Often
+      - Rarely
+      - Never
       required: false
     - id: 15
-      name: org_change_6
-      label: How Often Do You See Changes In The Organization
+      name: org_change_mis
+      label: How often do you see changes in company mission?
       hint: null
       type: select_multiple
       options:
@@ -161,8 +150,8 @@ inputSchema:
       - Never
       required: false
     - id: 16
-      name: org_change_7
-      label: How Often Do You See Changes In The Organization
+      name: org_change_val
+      label: How often do you see changes in company values?
       hint: null
       type: select_multiple
       options:
@@ -171,90 +160,22 @@ inputSchema:
       - Never
       required: false
     - id: 17
-      name: org_change_8
-      label: How Often Do You See Changes In The Organization
+      name: org_change_lea
+      label: How often do you see changes in company leadership?
       hint: null
       type: select_multiple
       options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Yearly
+      - Often
+      - Rarely
+      - Never
       required: false
     - id: 18
-      name: org_change_9
-      label: How Often Do You See Changes In The Organization
+      name: org_change_com
+      label: How often do you see changes in company communication?
       hint: null
       type: select_multiple
       options:
       - Often
       - Rarely
       - Never
-      required: false
-    - id: 19
-      name: org_change_10
-      label: How Often Do You See Changes In The Organization
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Yearly
-      required: false
-    - id: 20
-      name: org_change_11
-      label: How Often Do You See Changes In The Organization
-      hint: null
-      type: select_multiple
-      options:
-      - Often
-      - Rarely
-      - Never
-      required: false
-    - id: 21
-      name: org_change_12
-      label: How Often Do You See Changes In The Organization
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Yearly
-      required: false
-    - id: 22
-      name: org_change_13
-      label: How Often Do You See Changes In The Organization
-      hint: null
-      type: select_multiple
-      options:
-      - Often
-      - Rarely
-      - Never
-      required: false
-    - id: 23
-      name: org_change_14
-      label: How Often Do You See Changes In The Organization
-      hint: null
-      type: select_multiple
-      options:
-      - Often
-      - Rarely
-      - Never
-      required: false
-    - id: 24
-      name: org_change_15
-      label: How Often Do You See Changes In The Organization
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Yearly
       required: false

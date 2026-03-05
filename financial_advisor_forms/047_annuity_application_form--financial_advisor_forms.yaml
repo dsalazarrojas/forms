@@ -238,8 +238,8 @@ inputSchema:
       hint: Do you own other annuities?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 26
       name: like_kind_exchange
@@ -247,8 +247,8 @@ inputSchema:
       hint: Is this a 1035 exchange?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 27
       name: insurance_producer
@@ -279,8 +279,8 @@ inputSchema:
       hint: Have you read all disclosures?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 31
       name: terms_accepted
@@ -289,7 +289,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I Accept
-      - false
+      - 'False'
       required: true
     - id: 32
       name: applicant_signature

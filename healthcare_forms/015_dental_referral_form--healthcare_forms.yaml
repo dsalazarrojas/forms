@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Medicare'', ''text'': ''Medicare''}'
-      - '{''id'': 2, ''name'': ''Medicaid'', ''text'': ''Medicaid''}'
-      - '{''id'': 3, ''name'': ''Private'', ''text'': ''Private''}'
-      - '{''id'': 4, ''name'': ''Other'', ''text'': ''Other''}'
-      - '{''id'': 5, ''name'': ''Uninsured'', ''text'': ''Uninsured''}'
+      - Medicare
+      - Medicaid
+      - Private
+      - Other
+      - Uninsured
       required: false
     - id: 6
       name: medical_insurance_provider_other
@@ -63,11 +63,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Emergency'', ''text'': ''Emergency''}'
-      - '{''id'': 2, ''name'': ''Routine'', ''text'': ''Routine''}'
-      - '{''id'': 3, ''name'': ''Cosmetic'', ''text'': ''Cosmetic''}'
-      - '{''id'': 4, ''name'': ''Other'', ''text'': ''Other''}'
-      - '{''id'': 5, ''name'': ''Referral'', ''text'': ''Referral''}'
+      - Emergency
+      - Routine
+      - Cosmetic
+      - Other
+      - Referral
       required: false
     - id: 9
       name: dentist_1_address
@@ -117,8 +117,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Dentist'', ''text'': ''Dentist''}'
-      - '{''id'': 2, ''name'': ''Doctor'', ''text'': ''Doctor''}'
-      - '{''id'': 3, ''name'': ''Specialist'', ''text'': ''Specialist''}'
-      - '{''id'': 4, ''name'': ''Other'', ''text'': ''Other''}'
+      - Dentist
+      - Doctor
+      - Specialist
+      - Other
       required: false

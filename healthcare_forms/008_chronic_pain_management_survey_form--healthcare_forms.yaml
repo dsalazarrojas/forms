@@ -1,118 +1,107 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chronic Pain Management Survey Form
     pages:
-      - id: 1
-        name: respondent_name
-        label: Respondent name
-        hint: Patient or participant name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email address
-        hint: For follow up if consented
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: current_pain_level
-        label: Current pain level
-        hint: Rate 0 to 10
-        type: select_one
-        options:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: true
-      - id: 4
-        name: medication_effectiveness
-        label: Medication effectiveness
-        hint: How effective are current medications
-        type: select_one
-        options:
-          - Not effective
-          - Slightly effective
-          - Moderately effective
-          - Very effective
-          - Completely effective
-        required: true
-      - id: 5
-        name: physical_therapy_usage
-        label: Use of physical therapy
-        hint: Have you tried physical therapy in last 12 months
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 6
-        name: sleep_disturbance
-        label: Sleep disturbance due to pain
-        hint: How often does pain disturb your sleep
-        type: select_one
-        options:
-          - Never
-          - Rarely
-          - Sometimes
-          - Often
-          - Always
-        required: true
-      - id: 7
-        name: mood_impact
-        label: Mood impact
-        hint: Does pain affect your mood or mental wellbeing
-        type: select_one
-        options:
-          - Not at all
-          - A little
-          - Moderately
-          - Significantly
-        required: true
-      - id: 8
-        name: barriers_to_care
-        label: Barriers to care
-        hint: Any obstacles to receiving treatment or null
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: additional_treatments_interested
-        label: Additional treatments interested
-        hint: Are you open to interventions like counseling acupuncture or others
-        type: select_multiple
-        options:
-          - Counseling
-          - Acupuncture
-          - Injectables
-          - Surgery evaluation
-          - Lifestyle program
-        required: false
-      - id: 10
-        name: comments
-        label: Additional comments
-        hint: Anything else you would like the care team to know or null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Respondent name
+      hint: Patient or participant name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For follow up if consented
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: current_pain_level
+      label: Current pain level
+      hint: Rate 0 to 10
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 4
+      name: medication_effectiveness
+      label: Medication effectiveness
+      hint: How effective are current medications
+      type: select_one
+      options:
+      - Not effective
+      - Slightly effective
+      - Moderately effective
+      - Very effective
+      - Completely effective
+      required: true
+    - id: 5
+      name: physical_therapy_usage
+      label: Use of physical therapy
+      hint: Have you tried physical therapy in last 12 months
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: sleep_disturbance
+      label: Sleep disturbance due to pain
+      hint: How often does pain disturb your sleep
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
+      required: true
+    - id: 7
+      name: mood_impact
+      label: Mood impact
+      hint: Does pain affect your mood or mental wellbeing
+      type: select_one
+      options:
+      - Not at all
+      - A little
+      - Moderately
+      - Significantly
+      required: true
+    - id: 8
+      name: barriers_to_care
+      label: Barriers to care
+      hint: Any obstacles to receiving treatment or null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_treatments_interested
+      label: Additional treatments interested
+      hint: Are you open to interventions like counseling acupuncture or others
+      type: select_multiple
+      options:
+      - Counseling
+      - Acupuncture
+      - Injectables
+      - Surgery evaluation
+      - Lifestyle program
+      required: false
+    - id: 10
+      name: comments
+      label: Additional comments
+      hint: Anything else you would like the care team to know or null
+      type: text
+      options: []
+      required: false

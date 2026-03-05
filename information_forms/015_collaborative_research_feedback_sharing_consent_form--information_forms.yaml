@@ -149,8 +149,8 @@ inputSchema:
       hint: Do you agree to receive feedback
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: feedback_sharing_scope
@@ -180,7 +180,7 @@ inputSchema:
       - Yes For Any Research Purpose
       - Yes For This Project Only
       - Yes For Internal Use Only
-      - false
+      - 'False'
       required: true
     - id: 19
       name: publication_consent
@@ -190,7 +190,7 @@ inputSchema:
       options:
       - Yes With Attribution
       - Yes Anonymous
-      - false
+      - 'False'
       required: true
     - id: 20
       name: withdrawal_right
@@ -199,7 +199,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 21
       name: consent_duration
@@ -220,8 +220,8 @@ inputSchema:
       hint: Age verification
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: guardian_name
@@ -237,7 +237,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       - Not Applicable
       required: false
     - id: 25
@@ -254,7 +254,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 27
       name: witness_name
@@ -270,5 +270,5 @@ inputSchema:
       type: select_one
       options:
       - Yes I Witness
-      - false
+      - 'False'
       required: false

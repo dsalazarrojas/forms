@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,11 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''No Medical Condition'', ''label'': ''No Medical Condition''}'
-      - '{''id'': 2, ''name'': ''Medical Condition Present'', ''label'': ''Medical
-        Condition Present''}'
-      - '{''id'': 3, ''name'': ''Unknown Medical Condition'', ''label'': ''Unknown
-        Medical Condition''}'
+      - No Medical Condition
+      - Medical Condition Present
+      - Unknown Medical Condition
       required: false
     - id: 5
       name: patient_medical_history
@@ -60,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
-      - '{''id'': 3, ''name'': ''Undecided'', ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: false
     - id: 7
       name: patient_symptoms
@@ -70,11 +57,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Fever'', ''label'': ''Fever''}'
-      - '{''id'': 2, ''name'': ''Chills'', ''label'': ''Chills''}'
-      - '{''id'': 3, ''name'': ''Muscle'', ''label'': ''Muscle''}'
-      - '{''id'': 4, ''name'': ''Fatigue'', ''label'': ''Fatigue''}'
-      - '{''id'': 5, ''name'': ''Headache'', ''label'': ''Headache''}'
+      - Fever
+      - Chills
+      - Muscle
+      - Fatigue
+      - Headache
       required: false
     - id: 8
       name: medical_travel_history
@@ -82,8 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': False, ''label'': False}'
-      - '{''id'': 2, ''name'': True, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 9
       name: medical_conditions_present
@@ -91,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High Blood Pressure'', ''label'': ''High Blood Pressure''}'
-      - '{''id'': 2, ''name'': ''Diabetes'', ''label'': ''Diabetes''}'
-      - '{''id'': 3, ''name'': ''Other'', ''label'': ''Other''}'
+      - High Blood Pressure
+      - Diabetes
+      - Other
       required: false
     - id: 10
       name: previous_vaccinations
@@ -101,8 +88,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''None'', ''label'': ''None''}'
-      - '{''id'': 2, ''name'': ''Vaccinated'', ''label'': ''Vaccinated''}'
+      - None
+      - Vaccinated
       required: false
     - id: 11
       name: medical_device_use
@@ -110,6 +97,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''None'', ''label'': ''None''}'
-      - '{''id'': 2, ''name'': True, ''label'': True}'
+      - None
+      - 'True'
       required: false

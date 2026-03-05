@@ -167,8 +167,8 @@ inputSchema:
       hint: Was first aid provided
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not applicable
       required: true
     - id: 22
@@ -184,8 +184,8 @@ inputSchema:
       hint: Did anyone require hospitalization
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: ppe_used
@@ -262,7 +262,7 @@ inputSchema:
       options:
       - Yes, completed
       - Yes, pending
-      - false
+      - 'False'
       - Not sure
       required: true
     - id: 31
@@ -271,8 +271,8 @@ inputSchema:
       hint: Is photographic evidence available
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 32
       name: corrective_actions
@@ -289,7 +289,7 @@ inputSchema:
       options:
       - Yes, scheduled
       - Yes, pending
-      - false
+      - 'False'
       required: true
     - id: 34
       name: follow_up_date
@@ -312,7 +312,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, reviewed
-      - false
+      - 'False'
       required: false
     - id: 37
       name: reporter_signature
@@ -321,5 +321,5 @@ inputSchema:
       type: select_one
       options:
       - Yes, I certify
-      - false
+      - 'False'
       required: true

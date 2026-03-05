@@ -16,15 +16,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cardiology''}'
-      - '{''id'': 2, ''label'': ''Dermatology''}'
-      - '{''id'': 3, ''label'': ''Emergency Medicine''}'
-      - '{''id'': 4, ''label'': ''General Medicine''}'
-      - '{''id'': 5, ''label'': ''Neurology''}'
-      - '{''id'': 6, ''label'': ''Oncology''}'
-      - '{''id'': 7, ''label'': ''Radiology''}'
-      - '{''id'': 8, ''label'': ''Surgery''}'
-      - '{''id'': 9, ''label'': ''Urology''}'
+      - Cardiology
+      - Dermatology
+      - Emergency Medicine
+      - General Medicine
+      - Neurology
+      - Oncology
+      - Radiology
+      - Surgery
+      - Urology
       required: true
     - id: 3
       name: albumin_use
@@ -39,11 +39,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Daily''}'
-      - '{''id'': 2, ''label'': ''Weekly''}'
-      - '{''id'': 3, ''label'': ''Monthly''}'
-      - '{''id'': 4, ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''label'': ''Rarely''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Rarely
       required: true
     - id: 5
       name: department_staff
@@ -51,15 +51,15 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cardiology''}'
-      - '{''id'': 2, ''label'': ''Dermatology''}'
-      - '{''id'': 3, ''label'': ''Emergency Medicine''}'
-      - '{''id'': 4, ''label'': ''General Medicine''}'
-      - '{''id'': 5, ''label'': ''Neurology''}'
-      - '{''id'': 6, ''label'': ''Oncology''}'
-      - '{''id'': 7, ''label'': ''Radiology''}'
-      - '{''id'': 8, ''label'': ''Surgery''}'
-      - '{''id'': 9, ''label'': ''Urology''}'
+      - Cardiology
+      - Dermatology
+      - Emergency Medicine
+      - General Medicine
+      - Neurology
+      - Oncology
+      - Radiology
+      - Surgery
+      - Urology
       required: true
     - id: 6
       name: staff_satisfaction

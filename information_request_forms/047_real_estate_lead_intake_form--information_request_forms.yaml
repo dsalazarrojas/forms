@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Home Owner'', ''label'': ''Home Owner''}'
-      - '{''value'': ''Real Estate Agent'', ''label'': ''Real Estate Agent''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Home Owner
+      - Real Estate Agent
+      - Other
       required: false
     - id: 2
       name: property_type
@@ -19,9 +19,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Residential'', ''label'': ''Residential''}'
-      - '{''value'': ''Commercial'', ''label'': ''Commercial''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 3
       name: property_type_value
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''City'', ''label'': ''City''}'
-      - '{''value'': ''State'', ''label'': ''State''}'
-      - '{''value'': ''Zip'', ''label'': ''Zip''}'
+      - City
+      - State
+      - Zip
       required: false
     - id: 5
       name: location_value
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone'', ''label'': ''Phone''}'
-      - '{''value'': ''Email'', ''label'': ''Email''}'
-      - '{''value'': ''Other'', ''label'': ''Other''}'
+      - Phone
+      - Email
+      - Other
       required: false
     - id: 7
       name: contact_method_value

@@ -1,181 +1,170 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Collagen Quiz
     pages:
-      - id: 1
-        name: participant_name
-        label: Your Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: participant_email
-        label: Your Email Address
-        hint: null
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: quiz_intro
-        label: -- Collagen Supplement Knowledge Assessment --
-        hint: Answer the following questions about collagen and its health benefits
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: q1_collagen_definition
-        label: What is collagen primarily composed of
-        hint: null
-        type: select_one
-        options:
-          - Amino acids
-          - Carbohydrates
-          - Lipids
-          - Minerals
-        required: true
-      - id: 5
-        name: q2_collagen_benefits
-        label: Which of these is a known benefit of collagen supplementation
-        hint: null
-        type: select_multiple
-        options:
-          - Improved skin elasticity
-          - Stronger joints and bones
-          - Better gut health
-          - Reduced muscle soreness
-          - Improved hair growth
-        required: true
-      - id: 6
-        name: q3_collagen_sources
-        label: What are the primary sources of dietary collagen
-        hint: null
-        type: select_one
-        options:
-          - Animal products like bone broth and meat
-          - Plant-based sources only
-          - Synthetic supplements only
-          - Water and vegetables
-        required: true
-      - id: 7
-        name: q4_age_production
-        label: At what age does collagen production naturally decline
-        hint: null
-        type: select_one
-        options:
-          - Early 20s
-          - Late 20s to early 30s
-          - Late 30s to 40s
-          - After 60
-        required: true
-      - id: 8
-        name: q5_collagen_types
-        label: How many main types of collagen exist in the human body
-        hint: null
-        type: select_one
-        options:
-          - 3 types
-          - 5 types
-          - 10+ types
-          - 2 types
-        required: true
-      - id: 9
-        name: q6_bioavailability
-        label: Hydrolyzed collagen has better bioavailability than regular collagen
-        hint: Bioavailability is how well your body absorbs it
-        type: select_one
-        options:
-          - True
-          - False
-          - Unsure
-        required: true
-      - id: 10
-        name: q7_dosage
-        label: What is a typical recommended daily dose of collagen
-        hint: null
-        type: select_one
-        options:
-          - 1-2 grams
-          - 5-10 grams
-          - 15-20 grams
-          - 30+ grams
-        required: true
-      - id: 11
-        name: q8_interaction
-        label: Collagen supplements interact negatively with most medications
-        hint: null
-        type: select_one
-        options:
-          - True
-          - False
-          - Unsure
-        required: true
-      - id: 12
-        name: q9_timeframe
-        label: How long does it typically take to see results from collagen supplementation
-        hint: null
-        type: select_one
-        options:
-          - 1-2 weeks
-          - 4-8 weeks
-          - 12+ weeks
-          - Results are immediate
-        required: true
-      - id: 13
-        name: q10_gut_health
-        label: Collagen can support gut barrier function
-        hint: null
-        type: select_one
-        options:
-          - True
-          - False
-          - Unsure
-        required: true
-      - id: 14
-        name: personal_interest
-        label: What aspects of collagen supplementation interest you most
-        hint: null
-        type: select_multiple
-        options:
-          - Skin health and anti-aging
-          - Joint and bone support
-          - Hair, skin and nails
-          - Digestive health
-          - Athletic performance
-        required: true
-      - id: 15
-        name: current_use
-        label: Do you currently use collagen supplements
-        hint: null
-        type: select_one
-        options:
-          - "Yes"
-          - "No"
-          - Considering it
-        required: true
-      - id: 16
-        name: experience_feedback
-        label: If yes, please share your experience
-        hint: Optional - describe results or challenges
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: health_concerns
-        label: Any specific health goals related to collagen
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: participant_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: quiz_intro
+      label: -- Collagen Supplement Knowledge Assessment --
+      hint: Answer the following questions about collagen and its health benefits
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: q1_collagen_definition
+      label: What is collagen primarily composed of
+      hint: null
+      type: select_one
+      options:
+      - Amino acids
+      - Carbohydrates
+      - Lipids
+      - Minerals
+      required: true
+    - id: 5
+      name: q2_collagen_benefits
+      label: Which of these is a known benefit of collagen supplementation
+      hint: null
+      type: select_multiple
+      options:
+      - Improved skin elasticity
+      - Stronger joints and bones
+      - Better gut health
+      - Reduced muscle soreness
+      - Improved hair growth
+      required: true
+    - id: 6
+      name: q3_collagen_sources
+      label: What are the primary sources of dietary collagen
+      hint: null
+      type: select_one
+      options:
+      - Animal products like bone broth and meat
+      - Plant-based sources only
+      - Synthetic supplements only
+      - Water and vegetables
+      required: true
+    - id: 7
+      name: q4_age_production
+      label: At what age does collagen production naturally decline
+      hint: null
+      type: select_one
+      options:
+      - Early 20s
+      - Late 20s to early 30s
+      - Late 30s to 40s
+      - After 60
+      required: true
+    - id: 8
+      name: q5_collagen_types
+      label: How many main types of collagen exist in the human body
+      hint: null
+      type: select_one
+      options:
+      - 3 types
+      - 5 types
+      - 10+ types
+      - 2 types
+      required: true
+    - id: 9
+      name: q6_bioavailability
+      label: Hydrolyzed collagen has better bioavailability than regular collagen
+      hint: Bioavailability is how well your body absorbs it
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 10
+      name: q7_dosage
+      label: What is a typical recommended daily dose of collagen
+      hint: null
+      type: select_one
+      options:
+      - 1-2 grams
+      - 5-10 grams
+      - 15-20 grams
+      - 30+ grams
+      required: true
+    - id: 11
+      name: q8_interaction
+      label: Collagen supplements interact negatively with most medications
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 12
+      name: q9_timeframe
+      label: How long does it typically take to see results from collagen supplementation
+      hint: null
+      type: select_one
+      options:
+      - 1-2 weeks
+      - 4-8 weeks
+      - 12+ weeks
+      - Results are immediate
+      required: true
+    - id: 13
+      name: q10_gut_health
+      label: Collagen can support gut barrier function
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Unsure
+      required: true
+    - id: 14
+      name: personal_interest
+      label: What aspects of collagen supplementation interest you most
+      hint: null
+      type: select_multiple
+      options:
+      - Skin health and anti-aging
+      - Joint and bone support
+      - Hair, skin and nails
+      - Digestive health
+      - Athletic performance
+      required: true
+    - id: 15
+      name: current_use
+      label: Do you currently use collagen supplements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Considering it
+      required: true
+    - id: 16
+      name: experience_feedback
+      label: If yes, please share your experience
+      hint: Optional - describe results or challenges
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: health_concerns
+      label: Any specific health goals related to collagen
+      hint: null
+      type: text
+      options: []
+      required: false

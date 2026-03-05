@@ -15,177 +15,98 @@ inputSchema:
     title: Sustainable Interiors Advisor Contact Form
     pages:
     - id: 1
-      name: contact_form
-      label: Contact Form
+      name: name
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: name
-      label: name
+      name: contact_email
+      label: What is your email address?
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 3
-      name: name
-      label: name
+      name: phone_number
+      label: What is your phone number?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: name
-      label: name
+      name: description
+      label: Describe your inquiry or question
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: name
-      label: name
+      name: contact_method
+      label: How would you like to be contacted?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Messaging App
+      required: true
     - id: 6
-      name: name
-      label: name
+      name: design_style
+      label: What is your preferred design style or preference?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: name
-      label: name
+      name: subscribe_newsletter
+      label: Would you like to receive our monthly newsletter?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 8
-      name: name
-      label: name
+      name: how_found
+      label: How did you hear about us?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Social Media
+      - Word of Mouth
+      - Online Search
+      - Friends/Colleagues
+      - Other
+      required: true
     - id: 9
-      name: name
-      label: name
+      name: schedule_consultation
+      label: Would you like to schedule a consultation?
       hint: null
-      type: text
-      options: []
+      type: radio
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: name
-      label: name
+      name: budget
+      label: What is your estimated budget for the project?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 11
-      name: name
-      label: name
+      name: additional_comments
+      label: Do you have any additional comments or questions?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: name
-      label: name
+      name: best_time
+      label: What is the best time to contact you?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: name
-      label: name
-      hint: null
-      type: text
+      type: time
       options: []
       required: false

@@ -5,109 +5,106 @@ inputSchema:
     pages:
     - id: 1
       name: session_details
-      label: Session Details
+      label: Main Topic
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: participants
-      label: Participants
+      name: number_of_participants
+      label: Number of Participants
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 3
-      name: session_topics
-      label: Session Topics
+      name: session_date
+      label: Session Date
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 4
-      name: date
-      label: Date
+      name: session_time
+      label: Session Time
       hint: null
-      type: date
+      type: time
       options: []
-      required: false
+      required: true
     - id: 5
-      name: time
-      label: Time
+      name: session_location
+      label: Session Location
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: session_location
-      label: Session Location
+      name: participants_experienced
+      label: Participants Experienced
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 7
-      name: session_notes
-      label: Session Notes
+      name: reachable_for_questions
+      label: Reachable for Questions
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
     - id: 8
-      name: session_participants
-      label: Session Participants
+      name: topics_relevant
+      label: Topics Relevant
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 9
-      name: session_topics
-      label: Session Topics
+      name: can_provide_feedback
+      label: Can Provide Feedback
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 10
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 11
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 12
-      name: session_location
-      label: Session Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: session_notes
       label: Session Notes
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: session_participants
-      label: Session Participants
+      required: true
+    - id: 11
+      name: can_reach_participants
+      label: Can Reach Participants
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: topics_up_to_date
+      label: Topics Up-to-Date
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: follow_up_questions
+      label: Follow-up Questions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

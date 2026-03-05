@@ -16,12 +16,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Burnout''}'
-      - '{''id'': 2, ''label'': ''Lack of Challenge''}'
-      - '{''id'': 3, ''label'': ''Lack of Autonomy''}'
-      - '{''id'': 4, ''label'': ''Lack of Growth Opportunities''}'
-      - '{''id'': 5, ''label'': ''No Reason''}'
-      - '{''id'': 6, ''label'': ''Other''}'
+      - Burnout
+      - Lack of Challenge
+      - Lack of Autonomy
+      - Lack of Growth Opportunities
+      - No Reason
+      - Other
       required: true
     - id: 3
       name: comments
@@ -36,11 +36,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Improved Communication''}'
-      - '{''id'': 2, ''label'': ''Improved Management''}'
-      - '{''id'': 3, ''label'': ''Improved Training''}'
-      - '{''id'': 4, ''label'': ''Improved Work-Life Balance''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Improved Communication
+      - Improved Management
+      - Improved Training
+      - Improved Work-Life Balance
+      - Other
       required: true
     - id: 5
       name: contact_info

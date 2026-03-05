@@ -16,7 +16,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Allergies'', ''value'': 1}'
+      - Allergies
       - Other
       required: false
     - id: 3
@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None'', ''value'': 0}'
-      - '{''label'': ''Aspirin'', ''value'': 1}'
-      - '{''label'': ''Ibuprofen'', ''value'': 2}'
-      - '{''label'': ''Acetaminophen'', ''value'': 3}'
+      - None
+      - Aspirin
+      - Ibuprofen
+      - Acetaminophen
       required: false
     - id: 4
       name: medical_conditions
@@ -36,8 +36,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': 1}'
-      - '{''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: family_history

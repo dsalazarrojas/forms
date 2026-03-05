@@ -15,176 +15,133 @@ inputSchema:
     title: Hospital Technology Upgrade Evaluation Form
     pages:
     - id: 1
-      name: main_page
-      label: Main Page
+      name: introduction_page
+      label: Introduction Page
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: page_2
-      label: Hospital Technology
+      name: technology_overview
+      label: Technology Overview
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: page_3
-      label: Upgrade Options
+      name: technology_upgrades
+      label: Upgrades and Investments
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: page_4
-      label: Investment Options
+      name: technology_features
+      label: Technology Features and Functionality
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: page_5
+      name: additional_information
       label: Additional Information
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: page_6
-      label: Submission Form
+      name: submission_form
+      label: Submission and Review
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: page_7
-      label: Technology
+      name: technology_budget
+      label: Technology Budget
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 8
-      name: page_8
-      label: System
+      name: technology_timeline
+      label: Technology Timeline
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 9
-      name: page_9
-      label: Hardware
+      name: current_vendors
+      label: Current Vendors
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Vendor 1
+      - Vendor 2
+      - Vendor 3
       required: false
     - id: 10
-      name: page_10
-      label: Software
+      name: vendor_performance
+      label: Vendor Performance
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: page_11
-      label: Other
+      name: vendor_budget
+      label: Vendor Budget
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 12
-      name: page_12
-      label: Technology
+      name: submission_status
+      label: Submission Status
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 13
-      name: page_13
-      label: Submission
+      name: submission_comments
+      label: Submission Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: page_14
-      label: Additional Info
+      name: technology_risks
+      label: Technology Risks
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: page_15
-      label: Review
+      name: technology_benefits
+      label: Technology Benefits
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: page_16
-      label: Technology
+      name: submission_date
+      label: Submission Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 17
-      name: page_17
-      label: System Info
+      name: reviewer_name
+      label: Reviewer Name
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: page_18
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: Submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: Done
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: Technology
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: System
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: Hardware
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: Software
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
-      label: Done
+      name: reviewer_email
+      label: Reviewer Email
       hint: null
       type: text
       options: []

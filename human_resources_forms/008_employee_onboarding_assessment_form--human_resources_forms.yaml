@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''N/A''}'
+      - 'True'
+      - 'False'
+      - N/A
       required: false
     - id: 5
       name: training_type
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''In-person''}'
-      - '{''label'': ''Online''}'
-      - '{''label'': ''Other (please specify)''}'
+      - In-person
+      - Online
+      - Other (please specify)
       required: false
     - id: 6
       name: onboarding_process
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Onboarding Process 1''}'
-      - '{''label'': ''Onboarding Process 2''}'
-      - '{''label'': ''Onboarding Process 3''}'
+      - Onboarding Process 1
+      - Onboarding Process 2
+      - Onboarding Process 3
       required: false
     - id: 7
       name: feedback_comments
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not Started''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Completed''}'
+      - Not Started
+      - In Progress
+      - Completed
       required: false
     - id: 13
       name: follow_up_questions

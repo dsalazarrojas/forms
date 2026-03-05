@@ -5,185 +5,133 @@ inputSchema:
     pages:
     - id: 1
       name: survey_title
-      label: Survey Title
+      label: What is the main goal of this survey?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: category
-      label: Category
+      name: assigned_tool
+      label: Which of the following health AI tools do you work with or are familiar
+        with?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Healthcare Surveys
-      - Other
+      - Google Cloud Healthcare API
+      - Amazon Comprehend Medical
+      - IBM Watson Health
+      - Other (please specify)
       required: false
     - id: 3
       name: description
-      label: Description
+      label: Please describe your experience with health AI tools.
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: assigned_tool
-      label: Assigned Tool
+      name: healthcare_survey
+      label: What kind of healthcare-related survey are you most familiar with?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Healthcare Surveys
+      - Clinical Trials
+      - Patient Outcomes
       required: false
     - id: 5
       name: form_id
-      label: Form ID
+      label: What is your current form ID?
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: category
-      label: Category
+      name: healthcare_survey_2
+      label: How often do you participate in health surveys?
       hint: null
       type: select_one
       options:
-      - Healthcare Surveys
-      - Other
+      - Frequently
+      - Occasionally
+      - Rarely
       required: false
     - id: 7
-      name: survey_title
-      label: Survey Title
+      name: description_2
+      label: Briefly describe how you perceive health AI tools in the following categories.
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 8
-      name: description
-      label: Description
+      name: ai_category
+      label: How would you rate the ease of use of health AI tools for each category?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Very easy
+      - Somewhat easy
+      - Neutral
+      - Somewhat difficult
+      - Very difficult
       required: false
     - id: 9
-      name: assigned_tool
-      label: Assigned Tool
+      name: ai_category_2
+      label: What features are missing from the current health AI tools in each category?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Data quality
+      - Integration with other tools
+      - User interface
+      - Other (please specify)
       required: false
     - id: 10
-      name: form_id
-      label: Form ID
+      name: form_id_2
+      label: What is your current form ID for participating in health surveys?
       hint: null
       type: number
       options: []
       required: false
     - id: 11
-      name: category
-      label: Category
+      name: healthcare_survey_3
+      label: What kind of healthcare-related survey topic are you interested in learning
+        more about?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Healthcare Surveys
-      - Other
+      - AI for healthcare data analysis
+      - AI for healthcare data visualization
+      - AI for healthcare decision support systems
       required: false
     - id: 12
-      name: survey_title
-      label: Survey Title
+      name: description_3
+      label: What are the potential risks or limitations associated with using health
+        AI tools?
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 13
-      name: description
-      label: Description
+      name: assigned_tool_2
+      label: Which health AI tool would you recommend using for the following tasks?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Google Cloud Healthcare API
+      - Amazon Comprehend Medical
+      - IBM Watson Health
       required: false
     - id: 14
-      name: assigned_tool
-      label: Assigned Tool
+      name: description_4
+      label: What are your expectations for future health AI tool development?
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Healthcare Surveys
-      - Other
-      required: false
-    - id: 17
-      name: survey_title
-      label: Survey Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_id
-      label: Form ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Healthcare Surveys
-      - Other
-      required: false
-    - id: 22
-      name: survey_title
-      label: Survey Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_tool
-      label: Assigned Tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_id
-      label: Form ID
+      name: form_id_3
+      label: Form Id 3
       hint: null
       type: number
       options: []

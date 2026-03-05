@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''name'': ''Meal A''}'
-      - '{''id'': 12, ''name'': ''Meal B''}'
-      - '{''id'': 13, ''name'': ''Meal C''}'
+      - Meal A
+      - Meal B
+      - Meal C
       required: true
     - id: 3
       name: date_night
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 21, ''name'': ''Spring''}'
-      - '{''id'': 22, ''name'': ''Easter''}'
-      - '{''id'': 23, ''name'': ''Summer''}'
+      - Spring
+      - Easter
+      - Summer
       required: true
     - id: 7
       name: customer_email
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 31, ''name'': ''In Progress prophets''}'
-      - '{''id'': 32, ''name'': ''In Progress wizards''}'
-      - '{''id'': 33, ''name'': ''In Progress heroes''}'
+      - In Progress prophets
+      - In Progress wizards
+      - In Progress heroes
       required: true
     - id: 20
       name: delivery_time_urgent
@@ -151,9 +151,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 34, ''name'': 10}'
-      - '{''id'': 35, ''name'': 20}'
-      - '{''id'': 36, ''name'': 30}'
+      - '10'
+      - '20'
+      - '30'
       required: false
     - id: 21
       name: delivery_note

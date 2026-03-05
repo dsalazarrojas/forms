@@ -4,33 +4,10 @@ inputSchema:
     title: Social Media Verification Request Form
     pages:
     - id: 1
-      name: form_title
-      label: Social Media Verification Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: account_type
-      label: Account Type
-      hint: Please select the type of your account.
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 3
-      name: user_name
-      label: User Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: social_media_platform
       label: Social Media Platform
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Facebook
       - Twitter
@@ -41,157 +18,62 @@ inputSchema:
       - Snapchat
       - Discord
       - Reddit
-      - Pinterest
       - LinkedIn
       - Steam
-      - Skype
-      - WhatsApp
-      - VK
       required: false
-    - id: 5
-      name: user_email
-      label: User Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 6
-      name: phone_number
-      label: Phone Number
+    - id: 2
+      name: user_name
+      label: User Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 3
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
       name: user_address
       label: User Address
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
-      name: file_proof
+      required: true
+    - id: 6
+      name: upload_proof
       label: Proof
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 7
       name: notes
       label: Notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
+    - id: 8
       name: submit_button
       label: Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: upload_proof
-      label: Proof
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: verify
-      label: Verify
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 9
       name: upload_evidence
       label: Evidence
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: uploaded_proof
-      label: Proof
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: uploaded_evidence_2
-      label: More
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: submitted
-      label: Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: submitted_2
-      label: Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: uploaded_evidence_3
-      label: More
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: submitted_3
-      label: Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: uploaded_evidence_4
-      label: More
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: submitted_4
-      label: Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: uploaded_evidence_5
-      label: More
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: submitted_5
-      label: Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: uploaded_evidence_6
-      label: More
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submitted_5
-      label: Submitted
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

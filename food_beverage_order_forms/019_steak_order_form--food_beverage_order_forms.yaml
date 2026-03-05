@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''customer_name''}'
-      - '{''name'': ''email''}'
+      - customer name
+      - email
       required: true
     - id: 2
       name: steak_preference
@@ -18,9 +18,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''rare''}'
-      - '{''name'': ''medium_rare''}'
-      - '{''name'': ''well_done''}'
+      - rare
+      - medium rare
+      - well done
       required: false
     - id: 3
       name: payment_info
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''card_number''}'
-      - '{''name'': ''expiration_date''}'
-      - '{''name'': ''cvv''}'
+      - card number
+      - expiration date
+      - cvv
       required: false
     - id: 4
       name: order_info
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''quantity''}'
-      - '{''name'': ''order_date''}'
-      - '{''name'': ''delivery_time''}'
+      - quantity
+      - order date
+      - delivery time
       required: false
     - id: 5
       name: customer_note
@@ -55,8 +55,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''phone''}'
-      - '{''name'': ''address''}'
+      - phone
+      - address
       required: false
     - id: 7
       name: order_total

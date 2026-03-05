@@ -32,11 +32,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Very dissatisfied''}'
-      - '{''value'': 2, ''label'': ''Somewhat dissatisfied''}'
-      - '{''value'': 3, ''label'': ''Neutral''}'
-      - '{''value'': 4, ''label'': ''Somewhat satisfied''}'
-      - '{''value'': 5, ''label'': ''Very satisfied''}'
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
       required: false
     - id: 5
       name: feedback_comment
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''parent'', ''label'': ''Parent''}'
-      - '{''value'': ''guardian'', ''label'': ''Guardian''}'
+      - Parent
+      - Guardian
       required: false
     - id: 10
       name: age_group
@@ -81,10 +81,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''0-1'', ''label'': ''0-1''}'
-      - '{''value'': ''2-4'', ''label'': ''2-4''}'
-      - '{''value'': ''5-10'', ''label'': ''5-10''}'
-      - '{''value'': ''11-16'', ''label'': ''11-16''}'
-      - '{''value'': ''17-24'', ''label'': ''17-24''}'
-      - '{''value'': ''25+'', ''label'': ''25+''}'
+      - 0-1
+      - 2-4
+      - 5-10
+      - 11-16
+      - 17-24
+      - 25+
       required: false

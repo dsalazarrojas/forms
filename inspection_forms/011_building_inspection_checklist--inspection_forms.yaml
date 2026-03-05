@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,11 +23,11 @@ inputSchema:
       hint: What type of building
       type: select_one
       options:
-        - Residential
-        - Commercial
-        - Industrial
-        - Mixed Use
-        - Other
+      - Residential
+      - Commercial
+      - Industrial
+      - Mixed Use
+      - Other
       required: true
     - id: 4
       name: inspector_name
@@ -74,11 +63,11 @@ inputSchema:
       hint: Overall exterior assessment
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Critical
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Critical
       required: true
     - id: 9
       name: roof_inspection
@@ -86,12 +75,12 @@ inputSchema:
       hint: Roof condition check
       type: select_multiple
       options:
-        - No Issues
-        - Missing Shingles
-        - Leaks Visible
-        - Sagging
-        - Moss or Algae
-        - Needs Replacement
+      - No Issues
+      - Missing Shingles
+      - Leaks Visible
+      - Sagging
+      - Moss or Algae
+      - Needs Replacement
       required: true
     - id: 10
       name: foundation_check
@@ -99,11 +88,11 @@ inputSchema:
       hint: Foundation condition
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Requires Repair
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Requires Repair
       required: true
     - id: 11
       name: foundation_issues
@@ -118,10 +107,10 @@ inputSchema:
       hint: Assessment of windows and doors
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 13
       name: electrical_panel
@@ -129,11 +118,11 @@ inputSchema:
       hint: Main electrical panel
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Requires Update
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Requires Update
       required: true
     - id: 14
       name: plumbing_check
@@ -141,11 +130,11 @@ inputSchema:
       hint: Overall plumbing condition
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Requires Repair
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Requires Repair
       required: true
     - id: 15
       name: hvac_system
@@ -153,11 +142,11 @@ inputSchema:
       hint: Heating and cooling systems
       type: select_one
       options:
-        - Excellent
-        - Good
-        - Fair
-        - Poor
-        - Needs Replacement
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Needs Replacement
       required: true
     - id: 16
       name: moisture_presence
@@ -165,10 +154,10 @@ inputSchema:
       hint: Signs of water damage
       type: select_one
       options:
-        - None Visible
-        - Minor
-        - Moderate
-        - Extensive
+      - None Visible
+      - Minor
+      - Moderate
+      - Extensive
       required: true
     - id: 17
       name: pest_evidence
@@ -176,10 +165,10 @@ inputSchema:
       hint: Insects, rodents, etc
       type: select_one
       options:
-        - None
-        - Minor
-        - Moderate
-        - Severe
+      - None
+      - Minor
+      - Moderate
+      - Severe
       required: true
     - id: 18
       name: mold_presence
@@ -187,10 +176,10 @@ inputSchema:
       hint: Mold or mildew
       type: select_one
       options:
-        - None
-        - Minimal
-        - Moderate
-        - Extensive
+      - None
+      - Minimal
+      - Moderate
+      - Extensive
       required: true
     - id: 19
       name: deficiencies
@@ -212,11 +201,11 @@ inputSchema:
       hint: General condition of property
       type: select_one
       options:
-        - Excellent Condition
-        - Good Condition
-        - Fair Condition
-        - Poor Condition
-        - Significant Issues
+      - Excellent Condition
+      - Good Condition
+      - Fair Condition
+      - Poor Condition
+      - Significant Issues
       required: true
     - id: 22
       name: photos_attached
@@ -224,6 +213,6 @@ inputSchema:
       hint: Evidence of findings
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: false

@@ -4,110 +4,103 @@ inputSchema:
     title: Hotel RFP Form Template
     pages:
     - id: 1
-      name: form_1
+      name: hotel_details_form
       label: Hotel Details
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: form_2
+      name: sales_form
       label: Sales
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: form_3
+      name: revenue_form
       label: Revenue
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: form_4
+      name: event_form
       label: Event
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: form_5
+      name: operations_form
       label: Operations
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: form_6
-      label: Administrative
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: form_7
+      name: contact_details_form
       label: Contact Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
-      name: form_8
+    - id: 7
+      name: sales_details_form
       label: Sales Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
-      name: form_9
+    - id: 8
+      name: revenue_details_form
       label: Revenue Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: event_details
+    - id: 9
+      name: event_details_form
       label: Event Details
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: form_11
+    - id: 10
+      name: operations_details_form
       label: Operations Details
       hint: null
       type: text
       options: []
       required: false
+    - id: 11
+      name: administrative_form
+      label: Administrative
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 12
-      name: form_12
-      label: Administrative Details
+      name: lead_time_form
+      label: Lead Time
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 13
-      name: form_13
-      label: Hotel Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_14
+      name: sales_team_form
       label: Sales Team
       hint: null
       type: select_one
       options:
-      - Sales
-      - Marketing
-      - Revenue
-      - Operations
-      - Admin
+      - Sales Team
+      - Marketing Team
+      - Revenue Team
+      - Operations Team
+      - Admin Team
       required: false
-    - id: 15
-      name: form_15
+    - id: 14
+      name: sales_manager_form
       label: Sales Manager
       hint: null
       type: select_one
@@ -116,10 +109,9 @@ inputSchema:
       - Assistant Manager
       - Coordinator
       - Director
-      - Manager
       required: false
-    - id: 16
-      name: form_16
+    - id: 15
+      name: sales_channel_form
       label: Sales Channel
       hint: null
       type: select_multiple
@@ -130,37 +122,30 @@ inputSchema:
       - In-person
       - Web
       required: false
-    - id: 17
-      name: form_17
-      label: Lead Time
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 18
-      name: form_18
+    - id: 16
+      name: contact_person_form
       label: Contact Person
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
-      name: form_19
+    - id: 17
+      name: contact_number_form
       label: Contact Number
       hint: null
       type: text
       options: []
       required: false
-    - id: 20
-      name: form_20
+    - id: 18
+      name: email_form
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 21
-      name: form_21
-      label: Sales Channel
+    - id: 19
+      name: sales_channel_form_2
+      label: Sales Channel Form 2
       hint: null
       type: select_one
       options:
@@ -170,31 +155,17 @@ inputSchema:
       - In-person
       - Web
       required: false
-    - id: 22
-      name: form_22
-      label: Lead Time
+    - id: 20
+      name: lead_time_form_2
+      label: Lead Time Form 2
       hint: null
       type: number
       options: []
       required: true
-    - id: 23
-      name: form_23
-      label: form_23
+    - id: 21
+      name: additional_notes_form
+      label: Additional Notes
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_24
-      label: form_24
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: form_25
-      label: form_25
-      hint: null
-      type: time
       options: []
       required: false

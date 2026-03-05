@@ -15,55 +15,28 @@ inputSchema:
     title: Epiglottitis Knowledge Assessment
     pages:
     - id: 1
-      name: form_header
-      label: Form Header
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
       name: question_1
-      label: What is Epiglottitis?
+      label: Definition of Epiglottitis
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
-      name: question_1_confidence_level
-      label: Confidence Level
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 4
+      required: true
+    - id: 2
       name: question_2
-      label: What are the symptoms?
+      label: Symptoms of Epiglottitis
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: question_2_confidence_level
-      label: Confidence Level
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Medium
-      - Low
-      required: false
-    - id: 6
+      required: true
+    - id: 3
       name: question_3
-      label: What is the next step?
+      label: Next Course of Action
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
-      name: question_3_confidence_level
+      required: true
+    - id: 4
+      name: question_4_confidence_level_1
       label: Confidence Level
       hint: null
       type: select_one
@@ -71,44 +44,68 @@ inputSchema:
       - High
       - Medium
       - Low
-      required: false
-    - id: 8
+      required: true
+    - id: 5
       name: question_4
-      label: What are the complications?
+      label: Complications of Epiglottitis
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
-      name: question_4_confidence_level
-      label: Confidence Level
+      required: true
+    - id: 6
+      name: question_5_confidence_level_2
+      label: Question 5 Confidence Level 2
       hint: null
       type: select_one
       options:
       - High
       - Medium
       - Low
-      required: false
-    - id: 10
+      required: true
+    - id: 7
       name: question_5
-      label: When to Refer?
+      label: Treatment Options for Epiglottitis
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: question_5_confidence_level
-      label: Confidence Level
+      required: true
+    - id: 8
+      name: question_6_confidence_level_3
+      label: Question 6 Confidence Level 3
       hint: null
       type: select_one
       options:
       - High
       - Medium
       - Low
-      required: false
+      required: true
+    - id: 9
+      name: question_6
+      label: Referral Guidelines
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: question_7_confidence_level_4
+      label: Question 7 Confidence Level 4
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 11
+      name: question_7
+      label: Patient Education
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 12
       name: form_footer
-      label: Form Footer
+      label: Form Conclusion
       hint: null
       type: note
       options: []

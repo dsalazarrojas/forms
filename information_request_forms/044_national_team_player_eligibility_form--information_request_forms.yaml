@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Coach1''}'
-      - '{''id'': 2, ''name'': ''Coach2''}'
+      - Coach1
+      - Coach2
       required: false
     - id: 12
       name: team_manager_confirmation
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Manager1''}'
-      - '{''id'': 2, ''name'': ''Manager2''}'
+      - Manager1
+      - Manager2
       required: false
     - id: 13
       name: player_confirmation
@@ -97,8 +97,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: national_team_eligibility
@@ -106,6 +106,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Eligible''}'
-      - '{''id'': 2, ''name'': ''Not Eligible''}'
+      - Eligible
+      - Not Eligible
       required: false

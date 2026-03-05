@@ -58,13 +58,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Child''}'
-      - '{''label'': ''Sibling''}'
-      - '{''label'': ''Parent of Sibling''}'
-      - '{''label'': ''Spouse of Sibling''}'
-      - '{''label'': ''Other''}'
+      - Spouse
+      - Parent
+      - Child
+      - Sibling
+      - Parent of Sibling
+      - Spouse of Sibling
+      - Other
       required: true
     - id: 9
       name: proxy_signature_date
@@ -114,10 +114,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Sibling''}'
-      - '{''label'': ''Other''}'
+      - Spouse
+      - Parent
+      - Sibling
+      - Other
       required: true
     - id: 16
       name: emergency_contact_address
@@ -139,10 +139,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Parent''}'
-      - '{''label'': ''Sibling''}'
-      - '{''label'': ''Other''}'
+      - Spouse
+      - Parent
+      - Sibling
+      - Other
       required: true
     - id: 19
       name: patient_conversation
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Primary''}'
-      - '{''label'': ''Secondary''}'
-      - '{''label'': ''Other''}'
+      - Primary
+      - Secondary
+      - Other
       required: true
     - id: 24
       name: healthcare_provider_address

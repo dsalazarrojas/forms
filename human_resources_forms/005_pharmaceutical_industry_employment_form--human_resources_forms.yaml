@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Sales Representative''}'
-      - '{''id'': 2, ''name'': ''Marketing Manager''}'
-      - '{''id'': 3, ''name'': ''Operations Manager''}'
+      - Sales Representative
+      - Marketing Manager
+      - Operations Manager
       required: true
     - id: 4
       name: job_location
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''New York City''}'
-      - '{''id'': 2, ''name'': ''Chicago''}'
-      - '{''id'': 3, ''name'': ''Los Angeles''}'
+      - New York City
+      - Chicago
+      - Los Angeles
       required: true
     - id: 5
       name: resume
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full-Time''}'
-      - '{''id'': 2, ''name'': ''Part-Time''}'
-      - '{''id'': 3, ''name'': ''Freelance''}'
+      - Full-Time
+      - Part-Time
+      - Freelance
       required: true
     - id: 17
       name: employment_status
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Employed''}'
-      - '{''id'': 2, ''name'': ''Unemployed''}'
-      - '{''id'': 3, ''name'': ''Retired''}'
+      - Employed
+      - Unemployed
+      - Retired
       required: true
     - id: 18
       name: job_status
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Passive''}'
-      - '{''id'': 3, ''name'': ''Inactive''}'
+      - Active
+      - Passive
+      - Inactive
       required: true
     - id: 19
       name: job_type
@@ -150,9 +150,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Contract''}'
-      - '{''id'': 2, ''name'': ''Permanent''}'
-      - '{''id'': 3, ''name'': ''Freelance''}'
+      - Contract
+      - Permanent
+      - Freelance
       required: true
     - id: 20
       name: job_status_update
@@ -160,8 +160,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 21
       name: employment_length
@@ -183,8 +183,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: form_id

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Product A''}'
-      - '{''label'': ''Product B''}'
-      - '{''label'': ''Product C''}'
+      - Product A
+      - Product B
+      - Product C
       required: true
     - id: 3
       name: skin_area
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Face''}'
-      - '{''label'': ''Neck''}'
-      - '{''label'': ''Hands''}'
+      - Face
+      - Neck
+      - Hands
       required: true
     - id: 4
       name: skin_condition
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Redness''}'
-      - '{''label'': ''Itching''}'
-      - '{''label'': ''Burning''}'
+      - Redness
+      - Itching
+      - Burning
       required: true
     - id: 5
       name: irritation_level
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mild''}'
-      - '{''label'': ''Moderate''}'
-      - '{''label'': ''Severe''}'
+      - Mild
+      - Moderate
+      - Severe
       required: true
     - id: 6
       name: irritation_location
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Face''}'
-      - '{''label'': ''Neck''}'
-      - '{''label'': ''Hands''}'
+      - Face
+      - Neck
+      - Hands
       required: true
     - id: 7
       name: product_rating
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 8
       name: product_recommended
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: skin_condition_description
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Allergy''}'
-      - '{''label'': ''Acne''}'
-      - '{''label'': ''Rosacea''}'
+      - Allergy
+      - Acne
+      - Rosacea
       required: true
     - id: 12
       name: medication
@@ -144,8 +144,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 18
       name: consent
@@ -153,6 +153,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: true

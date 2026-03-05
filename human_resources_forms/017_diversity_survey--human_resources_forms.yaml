@@ -5,212 +5,143 @@ inputSchema:
     pages:
     - id: 1
       name: page_1
-      label: Introduction
+      label: How do you feel about the diversity of the company's workforce?
       hint: null
-      type: note
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 2
       name: page_2
-      label: Diversity
+      label: Which of the following best describes your experiences with equal opportunities
+        at the company?
       hint: null
       type: select_one
       options:
-      - option-1
-      - option-2
-      - option-3
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 3
       name: page_3
-      label: Equal
+      label: How often do you feel that your contributions are valued and recognized?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - option-4
-      - option-5
-      - option-6
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 4
       name: page_4
-      label: Fair
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: page_5
-      label: Treat
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 6
-      name: page_6
-      label: Equally
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: page_7
-      label: Required
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 8
-      name: page_8
-      label: Survey
+      label: Which of the following best describes your experiences with fair treatment
+        at the company?
       hint: null
       type: select_one
       options:
-      - option-7
-      - option-8
-      - option-9
-      required: true
-    - id: 9
-      name: page_9
-      label: Required
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: page_5
+      label: How important do you think diversity and inclusion are to the company's
+        success?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 6
+      name: page_6
+      label: Do you feel that your company promotes diversity and inclusion in the
+        workplace?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 7
+      name: page_7
+      label: What are the most important reasons you have for not feeling welcome
+        at the company? (Select multiple)
       hint: null
       type: select_multiple
       options:
-      - option-10
-      - option-11
-      - option-12
-      required: true
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 8
+      name: page_8
+      label: What are the most important reasons you have for feeling that your contributions
+        are not recognized? (Select multiple)
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: page_9
+      label: How do you feel about the diversity and inclusion initiatives implemented
+        by the company?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
     - id: 10
       name: page_10
-      label: Required
+      label: Have you ever experienced any form of discrimination or bias in the workplace?
       hint: null
-      type: date
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 11
       name: page_11
-      label: Required
+      label: Have you experienced any form of retaliation for reporting or speaking
+        up about diversity and inclusion issues?
       hint: null
-      type: time
-      options: []
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
       required: false
     - id: 12
       name: page_12
-      label: Required
+      label: How confident are you about the company's commitment to diversity and
+        inclusion?
       hint: null
       type: select_one
       options:
-      - option-13
-      - option-14
-      - option-15
-      required: true
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
     - id: 13
       name: page_13
-      label: Required
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 14
-      name: page_14
-      label: Required
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 15
-      name: page_15
-      label: Required
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 16
-      name: page_16
-      label: Required
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: page_17
-      label: Required
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: page_18
-      label: Required
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: page_19
-      label: Required
+      label: Would you like to suggest any diversity and inclusion initiatives that
+        the company should implement?
       hint: null
       type: select_one
       options:
-      - option-17
-      - option-18
-      - option-19
-      required: true
-    - id: 20
-      name: page_20
-      label: Required
-      hint: null
-      type: select_one
-      options:
-      - option-20
-      - option-21
-      - option-22
-      required: true
-    - id: 21
-      name: page_21
-      label: Required
-      hint: null
-      type: select_one
-      options:
-      - option-23
-      - option-24
-      - option-25
-      required: true
-    - id: 22
-      name: page_22
-      label: Required
-      hint: null
-      type: select_one
-      options:
-      - option-26
-      - option-27
-      - option-28
-      required: true
-    - id: 23
-      name: page_23
-      label: Required
-      hint: null
-      type: select_one
-      options:
-      - option-29
-      - option-30
-      - option-31
-      required: true
-    - id: 24
-      name: page_24
-      label: Required
-      hint: null
-      type: select_one
-      options:
-      - option-32
-      - option-33
-      - option-34
-      required: true
-    - id: 25
-      name: page_25
-      label: Required
-      hint: null
-      type: select_one
-      options:
-      - option-35
-      - option-36
-      - option-37
-      required: true
+      - Option 1
+      - Option 2
+      required: false

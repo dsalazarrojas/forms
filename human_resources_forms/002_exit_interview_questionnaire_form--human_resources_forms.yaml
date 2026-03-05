@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Manager''}'
-      - '{''id'': 2, ''value'': ''Non-Mgr''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Manager
+      - Non-Mgr
+      - Other
       required: false
     - id: 3
       name: job_satisfaction
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Excellent''}'
-      - '{''id'': 2, ''value'': ''Good''}'
-      - '{''id'': 3, ''value'': ''Fair''}'
-      - '{''id'': 4, ''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 6
       name: work_life_balance
@@ -65,14 +65,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Retirement''}'
-      - '{''id'': 2, ''value'': ''Other''}'
-      - '{''id'': 3, ''value'': ''Career advancement''}'
-      - '{''id'': 4, ''value'': ''Burnout''}'
-      - '{''id'': 5, ''value'': ''Health issues''}'
-      - '{''id'': 6, ''value'': ''Family issues''}'
-      - '{''id'': 7, ''value'': ''Lack of challenge''}'
-      - '{''id'': 8, ''value'': ''Other (please specify)''}'
+      - Retirement
+      - Other
+      - Career advancement
+      - Burnout
+      - Health issues
+      - Family issues
+      - Lack of challenge
+      - Other (please specify)
       required: false
     - id: 9
       name: comments

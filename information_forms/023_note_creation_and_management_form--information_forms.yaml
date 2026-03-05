@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Meeting Records'', ''label'': ''Meeting Records''}'
-      - '{''value'': ''Project Updates'', ''label'': ''Project Updates''}'
-      - '{''value'': ''Follow-ups'', ''label'': ''Follow-ups''}'
+      - Meeting Records
+      - Project Updates
+      - Follow-ups
       required: true
     - id: 4
       name: share_note_with
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Team Members'', ''label'': ''Team Members''}'
-      - '{''value'': ''Manager'', ''label'': ''Manager''}'
+      - Team Members
+      - Manager
       required: true
     - id: 5
       name: reminders
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Meeting Minutes'', ''label'': ''Meeting Minutes''}'
-      - '{''value'': ''Meeting Notes'', ''label'': ''Meeting Notes''}'
-      - '{''value'': ''Project Status'', ''label'': ''Project Status''}'
+      - Meeting Minutes
+      - Meeting Notes
+      - Project Status
       required: true
     - id: 9
       name: update_status
@@ -73,8 +73,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
-      - '{''value'': ''Complete'', ''label'': ''Complete''}'
+      - In Progress
+      - Complete
       required: true
     - id: 10
       name: follow_up_status
@@ -82,8 +82,8 @@ inputSchema:
       hint: Select status for follow-up
       type: select_one
       options:
-      - '{''value'': ''New'', ''label'': ''New''}'
-      - '{''value'': ''Completed'', ''label'': ''Completed''}'
+      - New
+      - Completed
       required: true
     - id: 11
       name: share_with_user

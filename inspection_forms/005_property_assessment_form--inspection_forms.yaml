@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''single-family''}'
-      - '{''value'': ''multi-family''}'
-      - '{''value'': ''other''}'
+      - single-family
+      - multi-family
+      - other
       required: false
     - id: 3
       name: property_value
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''excellent''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''fair''}'
-      - '{''value'': ''poor''}'
+      - excellent
+      - good
+      - fair
+      - poor
       required: false
     - id: 9
       name: property_neighboring_units
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 10
       name: property_views
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''unobstructed''}'
-      - '{''value'': ''obstructed''}'
-      - '{''value'': ''unknown''}'
+      - unobstructed
+      - obstructed
+      - unknown
       required: false
     - id: 11
       name: property_accessibility
@@ -91,7 +91,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''walk''}'
-      - '{''value'': ''drive''}'
-      - '{''value'': ''unknown''}'
+      - walk
+      - drive
+      - unknown
       required: false

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''English'', ''value'': ''English''}'
-      - '{''name'': ''French'', ''value'': ''French''}'
-      - '{''name'': ''Spanish'', ''value'': ''Spanish''}'
+      - English
+      - French
+      - Spanish
       required: false
     - id: 3
       name: question_two
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Student'', ''value'': ''Student''}'
-      - '{''name'': ''Teacher'', ''value'': ''Teacher''}'
-      - '{''name'': ''Other'', ''value'': ''Other''}'
+      - Student
+      - Teacher
+      - Other
       required: true
     - id: 4
       name: question_three
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Email'', ''value'': ''Email''}'
-      - '{''name'': ''Social media'', ''value'': ''Social media''}'
-      - '{''name'': ''Word of mouth'', ''value'': ''Word of mouth''}'
+      - Email
+      - Social media
+      - Word of mouth
       required: false
     - id: 5
       name: question_four
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Daily'', ''value'': ''Daily''}'
-      - '{''name'': ''Weekly'', ''value'': ''Weekly''}'
-      - '{''name'': ''Monthly'', ''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 7
       name: question_six
@@ -64,9 +64,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Phone'', ''value'': ''Phone''}'
-      - '{''name'': ''Email'', ''value'': ''Email''}'
-      - '{''name'': ''Other'', ''value'': ''Other''}'
+      - Phone
+      - Email
+      - Other
       required: true
     - id: 8
       name: question_seven
@@ -89,8 +89,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: question_ten
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: question_eleven
@@ -112,8 +112,7 @@ inputSchema:
       required: false
     - id: 13
       name: question_twelve
-      label: How confident are you in your ability to understand and communicate with
-        your healthcare provider about your health issues?
+      label: Question Twelve
       hint: null
       type: number
       options: []
@@ -139,8 +138,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: question_sixteen
@@ -149,86 +148,78 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: question_seventeen
-      label: Do you prefer to receive information from your healthcare provider at
-        any time of day?
+      label: Question Seventeen
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: question_eighteen
-      label: Do you prefer to receive information from your healthcare provider at
-        any time of day?
+      label: Question Eighteen
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: question_nineteen
-      label: Do you prefer to receive information from your healthcare provider at
-        any time?
+      label: Question Nineteen
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 21
       name: question_twenty
-      label: Do you prefer to receive information from your healthcare provider at
-        any time of day?
+      label: Question Twenty
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: question_twenty_one
-      label: Do you prefer to receive information from your healthcare provider at
-        any time?
+      label: Question Twenty One
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: question_twenty_two
-      label: Do you prefer to receive information from your healthcare provider at
-        any time?
+      label: Question Twenty Two
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: question_twenty_three
-      label: Do you prefer to receive information from your healthcare provider at
-        any time of day?
+      label: Question Twenty Three
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: question_twenty_four
-      label: Do you prefer to receive information from your healthcare provider at
-        any time?
+      label: Question Twenty Four
       hint: null
       type: select_one
       options:
-      - '{''name'': True, ''value'': True}'
-      - '{''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

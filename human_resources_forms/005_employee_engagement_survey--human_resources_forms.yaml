@@ -4,193 +4,133 @@ inputSchema:
     title: Employee Engagement Survey
     pages:
     - id: 1
-      name: first_page
-      label: first_page
-      hint: null
+      name: introduction
+      label: Introduction
+      hint: Welcome to the Employee Engagement Survey. This survey aims to measure
+        employee engagement and satisfaction.
       type: text
       options: []
       required: false
     - id: 2
-      name: first_page
-      label: how_satisfied
-      hint: null
+      name: tenure
+      label: How many years have you been with the company?
+      hint: Please provide the number of years you've worked for the company.
       type: number
       options: []
       required: false
     - id: 3
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
+      name: job_satisfaction
+      label: How satisfied are you with your job?
+      hint: Scale - 1-5, where 1 is 'very dissatisfied' and 5 is 'very satisfied'.
+      type: number
       options: []
       required: false
+    - id: 4
+      name: decision_making
+      label: How often do you feel empowered to make decisions?
+      hint: Select one option - Never, Rarely, Sometimes, Often, Almost Always
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Almost Always
+      required: false
     - id: 5
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
-      type: time
+      name: work_challenges
+      label: What are the most significant challenges you face at work?
+      hint: Please provide a brief description.
+      type: text
       options: []
       required: false
     - id: 6
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
+      name: work_hours
+      label: How many hours do you usually work per week?
+      hint: Enter a number.
+      type: number
       options: []
       required: false
     - id: 7
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
-      type: text
-      options: []
+      name: benefits
+      label: Which of the following benefits do you value most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Health Insurance
+      - Retirement Plan
+      - Paid Time Off
+      - Stock Options
+      - Other (please specify)
       required: false
     - id: 8
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
+      name: manager_leadership
+      label: How would you rate your manager's leadership style?
+      hint: Select one option - Autocratic, Democratic, Laissez-Faire, Participative,
+        Transformational
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Autocratic
+      - Democratic
+      - Laissez-Faire
+      - Participative
+      - Transformational
+      required: false
+    - id: 9
+      name: work_life_balance
+      label: Are you satisfied with your work-life balance?
+      hint: Select one option - Yes, No
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
-      name: first_page
-      label: first_page
-      hint: null
+      name: open_ended_feedback
+      label: What would you like to see improved in the workplace?
+      hint: Please provide a brief description.
       type: text
       options: []
       required: false
     - id: 11
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
-      type: select_multiple
+      name: recommendation
+      label: How likely are you to recommend this organization to a friend or family
+        member?
+      hint: Select one option - Very Likely, Not Likely, Not Likely at all
+      type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Very Likely
+      - Not Likely
+      - Not Likely at all
       required: false
     - id: 12
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
+      name: communication_method
+      label: What is your preferred mode of communication with your team?
+      hint: Select all that apply
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Email
+      - Phone Call
+      - Text Message
+      - Instant Messaging
+      - Other (please specify)
       required: false
-    - id: 22
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
+    - id: 13
+      name: company_culture
+      label: How would you rate the company culture?
+      hint: Select one option - Very Positive, Positive, Neutral, Negative, Very Negative
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very Negative
       required: false
-    - id: 24
-      name: first_page
-      label: first_page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: how_satisfied
-      label: how_satisfied
-      hint: null
+    - id: 14
+      name: conclusion
+      label: Thank you for participating in this survey. Your input is greatly appreciated.
+      hint: This concludes the survey.
       type: text
       options: []
       required: false

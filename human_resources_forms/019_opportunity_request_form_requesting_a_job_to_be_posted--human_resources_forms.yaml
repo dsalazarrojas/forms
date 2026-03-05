@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full-Time''}'
-      - '{''id'': 2, ''name'': ''Part-Time''}'
-      - '{''id'': 3, ''name'': ''Contract''}'
-      - '{''id'': 4, ''name'': ''Temporary''}'
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Temporary
       required: false
     - id: 4
       name: job_requirements
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''HR''}'
-      - '{''id'': 2, ''name'': ''Operations''}'
-      - '{''id'': 3, ''name'': ''Engineering''}'
-      - '{''id'': 4, ''name'': ''Finance''}'
+      - HR
+      - Operations
+      - Engineering
+      - Finance
       required: false
     - id: 7
       name: job_posting_date
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''8-5''}'
-      - '{''id'': 2, ''name'': ''10-7''}'
-      - '{''id'': 3, ''name'': ''Flexible''}'
+      - 8-5
+      - 10-7
+      - Flexible
       required: false
     - id: 11
       name: contact_method
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Phone and Email''}'
+      - Email
+      - Phone
+      - Phone and Email
       required: false
     - id: 12
       name: contact_phone

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Due to office re-opening'', ''value'': ''due_to_office_reopening''}'
-      - '{''id'': 2, ''label'': ''Personal reasons'', ''value'': ''personal_reasons''}'
-      - '{''id'': 3, ''label'': ''Medical reasons'', ''value'': ''medical_reasons''}'
+      - Due to office re-opening
+      - Personal reasons
+      - Medical reasons
       required: false
     - id: 4
       name: contact_person
@@ -61,10 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Willingness to return and adapt'', ''value'': ''willing_to_return_and_adapt''}'
-      - '{''id'': 2, ''label'': ''Willingness to return but not adapt'', ''value'':
-        ''unwilling_to_return''}'
-      - '{''id'': 3, ''label'': ''Unable to return'', ''value'': ''unable_to_return''}'
+      - Willingness to return and adapt
+      - Willingness to return but not adapt
+      - Unable to return
       required: false
     - id: 9
       name: comments_2

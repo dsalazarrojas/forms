@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - amount_one
-      - amount_two
-      - amount_three
-      - amount_four
+      - amount one
+      - amount two
+      - amount three
+      - amount four
       required: false
     - id: 4
       name: donation_currency
@@ -40,8 +40,6 @@ inputSchema:
       - gbp
       - chf
       - jpy
-      - usd
-      - chf
       required: false
     - id: 5
       name: gift_card
@@ -49,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - gift_card_yes
-      - gift_card_no
+      - gift card yes
+      - gift card no
       required: false
     - id: 6
       name: recurring_donation
@@ -58,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - recurring_donation_no
-      - recurring_donation_yes
+      - recurring donation no
+      - recurring donation yes
       required: false
     - id: 7
       name: donation_frequency_duration
@@ -67,14 +65,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - one_time
+      - one time
       - monthly
       - quarterly
       - annually
-      - bi_annually
-      - monthly_3
-      - monthly_6
-      - monthly_12
+      - bi annually
+      - monthly 3
+      - monthly 6
+      - monthly 12
       required: false
     - id: 8
       name: donation_start_date
@@ -116,8 +114,6 @@ inputSchema:
       - gbp
       - jpy
       - chf
-      - usd
-      - chf
       required: false
     - id: 13
       name: payment_method
@@ -127,8 +123,8 @@ inputSchema:
       options:
       - stripe
       - paypal
-      - bank_transfer
-      - cash_app
+      - bank transfer
+      - cash app
       - check
       - other
       required: false

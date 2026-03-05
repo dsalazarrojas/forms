@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''urine''}'
-      - '{''value'': ''saliva''}'
-      - '{''value'': ''blood''}'
+      - urine
+      - saliva
+      - blood
       required: false
     - id: 4
       name: test_frequency_hint
@@ -33,10 +33,10 @@ inputSchema:
       hint: When will you need the test?
       type: select_multiple
       options:
-      - '{''value'': ''monthly''}'
-      - '{''value'': ''quarterly''}'
-      - '{''value'': ''biannually''}'
-      - '{''value'': ''annually''}'
+      - monthly
+      - quarterly
+      - biannually
+      - annually
       required: false
     - id: 5
       name: test_type_hint
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''individual''}'
-      - '{''value'': ''group''}'
-      - '{''value'': ''both''}'
+      - individual
+      - group
+      - both
       required: false
     - id: 18
       name: account_number
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''accepted''}'
-      - '{''value'': ''rejected''}'
+      - accepted
+      - rejected
       required: false
     - id: 22
       name: agree
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''accepted''}'
-      - '{''value'': ''rejected''}'
+      - accepted
+      - rejected
       required: false
     - id: 23
       name: confirm_agree
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''accepted''}'
-      - '{''value'': ''rejected''}'
+      - accepted
+      - rejected
       required: false
     - id: 24
       name: confirm_terms
@@ -186,8 +186,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''accepted''}'
-      - '{''value'': ''rejected''}'
+      - accepted
+      - rejected
       required: false
     - id: 25
       name: confirm_agree
@@ -195,6 +195,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''accepted''}'
-      - '{''value'': ''rejected''}'
+      - accepted
+      - rejected
       required: false

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -132,56 +121,48 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''headache''}'
-      - '{''id'': 2, ''label'': ''fever''}'
-      - '{''id'': 3, ''label'': ''cough''}'
-      - '{''id'': 4, ''label'': ''rash''}'
-      - '{''id'': 5, ''label'': ''fatigue''}'
-      - '{''id'': 6, ''label'': ''sore_throat''}'
-      - '{''id'': 7, ''label'': ''sore_ears''}'
-      - '{''id'': 8, ''label'': ''diarrhea''}'
-      - '{''id'': 9, ''label'': ''vomiting''}'
-      - '{''id'': 10, ''label'': ''loss_of_appetite''}'
-      - '{''id'': 11, ''label'': ''loss_of_water''}'
-      - '{''id'': 12, ''label'': ''loss_of_energy''}'
-      - '{''id'': 13, ''label'': ''loss_of_focus''}'
-      - '{''id'': 14, ''label'': ''loss_of_memory''}'
-      - '{''id'': 15, ''label'': ''loss_of_sleep''}'
-      - '{''id'': 16, ''label'': ''loss_of_concentration''}'
-      - '{''id'': 17, ''label'': ''loss_of_appetite''}'
-      - '{''id'': 18, ''label'': ''loss_of_hunger''}'
-      - '{''id'': 19, ''label'': ''loss_of_thirst''}'
-      - '{''id'': 20, ''label'': ''loss_of_motivation''}'
-      - '{''id'': 21, ''label'': ''loss_of_interest''}'
-      - '{''id'': 22, ''label'': ''loss_of_confidence''}'
-      - '{''id'': 23, ''label'': ''loss_of_self esteem''}'
-      - '{''id'': 24, ''label'': ''loss_of_identity''}'
-      - '{''id'': 25, ''label'': ''loss_of_self''}'
-      - '{''id'': 26, ''label'': ''loss_of_self_image''}'
-      - '{''id'': 27, ''label'': ''loss_of_self_concept''}'
-      - '{''id'': 28, ''label'': ''loss_of_self_image_schema''}'
-      - '{''id'': 29, ''label'': ''loss_of_self_concept_schema''}'
-      - '{''id'': 30, ''label'': ''loss_of_self_theory''}'
-      - '{''id'': 31, ''label'': ''loss_of_self_identity''}'
-      - '{''id'': 32, ''label'': ''loss_of_self_confidence''}'
-      - '{''id'': 33, ''label'': ''loss_of_self_concept_schema''}'
-      - '{''id'': 34, ''label'': ''loss_of_self_schema''}'
-      - '{''id'': 35, ''label'': ''loss_of_self_theory''}'
-      - '{''id'': 36, ''label'': ''loss_of_self_schema_theory''}'
-      - '{''id'': 37, ''label'': ''loss_of_self_concept_schema_theory''}'
-      - '{''id'': 38, ''label'': ''loss_of_self_confidence_schema''}'
-      - '{''id'': 39, ''label'': ''loss_of_self_schema_confidence''}'
-      - '{''id'': 40, ''label'': ''loss_of_self_theory_schema''}'
-      - '{''id'': 41, ''label'': ''loss_of_self_concept_schema_theory''}'
-      - '{''id'': 42, ''label'': ''loss_of_self_schema_theory''}'
-      - '{''id'': 43, ''label'': ''loss_of_self_confidence_schema_theory''}'
-      - '{''id'': 44, ''label'': ''loss_of_self_schema_confidence''}'
-      - '{''id'': 45, ''label'': ''loss_of_self_theory_schema''}'
-      - '{''id'': 46, ''label'': ''loss_of_self_concept_theory''}'
-      - '{''id'': 47, ''label'': ''loss_of_self_theory_schema_confidence''}'
-      - '{''id'': 48, ''label'': ''loss_of_self_schema_confidence_theory''}'
-      - '{''id'': 49, ''label'': ''loss_of_self_theory_schema_confidence_theory''}'
-      - '{''id'': 50, ''label'': ''loss_of_self_confidence_schema_theory''}'
+      - headache
+      - fever
+      - cough
+      - rash
+      - fatigue
+      - sore throat
+      - sore ears
+      - diarrhea
+      - vomiting
+      - loss of appetite
+      - loss of water
+      - loss of energy
+      - loss of focus
+      - loss of memory
+      - loss of sleep
+      - loss of concentration
+      - loss of hunger
+      - loss of thirst
+      - loss of motivation
+      - loss of interest
+      - loss of confidence
+      - loss of self esteem
+      - loss of identity
+      - loss of self
+      - loss of self image
+      - loss of self concept
+      - loss of self image schema
+      - loss of self concept schema
+      - loss of self theory
+      - loss of self identity
+      - loss of self confidence
+      - loss of self schema
+      - loss of self schema theory
+      - loss of self concept schema theory
+      - loss of self confidence schema
+      - loss of self schema confidence
+      - loss of self theory schema
+      - loss of self confidence schema theory
+      - loss of self concept theory
+      - loss of self theory schema confidence
+      - loss of self schema confidence theory
+      - loss of self theory schema confidence theory
       required: false
     - id: 18
       name: treatment_option
@@ -189,21 +170,21 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''medication''}'
-      - '{''id'': 2, ''label'': ''rest''}'
-      - '{''id'': 3, ''label'': ''exercise''}'
-      - '{''id'': 4, ''label'': ''therapy''}'
-      - '{''id'': 5, ''label'': ''surgery''}'
-      - '{''id'': 6, ''label'': ''hospitalization''}'
-      - '{''id'': 7, ''label'': ''self_care''}'
-      - '{''id'': 8, ''label'': ''diet''}'
-      - '{''id'': 9, ''label'': ''other''}'
-      - '{''id'': 10, ''label'': ''follow_up''}'
-      - '{''id'': 11, ''label'': ''monitor''}'
-      - '{''id'': 12, ''label'': ''refer''}'
-      - '{''id'': 13, ''label'': ''other_treatment''}'
-      - '{''id'': 14, ''label'': ''hospital_treatment''}'
-      - '{''id'': 15, ''label'': ''clinic_treatment''}'
+      - medication
+      - rest
+      - exercise
+      - therapy
+      - surgery
+      - hospitalization
+      - self care
+      - diet
+      - other
+      - follow up
+      - monitor
+      - refer
+      - other treatment
+      - hospital treatment
+      - clinic treatment
       required: false
     - id: 19
       name: treatment_description

@@ -158,7 +158,7 @@ inputSchema:
       options:
       - Yes - Fully Understood
       - Yes - Partially Understood
-      - false
+      - 'False'
       required: true
     - id: 23
       name: alternatives_discussed
@@ -166,8 +166,8 @@ inputSchema:
       hint: Have other options been explained
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: questions_asked
@@ -185,8 +185,8 @@ inputSchema:
       hint: Do you consent to pain management as needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: emergency_treatment_consent
@@ -194,8 +194,8 @@ inputSchema:
       hint: Do you consent to emergency treatment if needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: financial_responsibility
@@ -203,8 +203,8 @@ inputSchema:
       hint: Do you understand you are responsible for charges
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 28
       name: hipaa_acknowledged
@@ -212,8 +212,8 @@ inputSchema:
       hint: Have you received privacy practices notice
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: consent_decision

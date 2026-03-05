@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Mobile Game''}'
-      - '{''id'': 2, ''name'': ''PC Game''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Mobile Game
+      - PC Game
+      - Other
       required: false
     - id: 3
       name: platform
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Console''}'
-      - '{''id'': 2, ''name'': ''PC''}'
-      - '{''id'': 3, ''name'': ''Mobile''}'
-      - '{''id'': 4, ''name'': ''Online''}'
+      - Console
+      - PC
+      - Mobile
+      - Online
       required: false
     - id: 4
       name: start_date

@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Very good''}'
-      - '{''id'': 3, ''label'': ''Good''}'
-      - '{''id'': 4, ''label'': ''Fair''}'
-      - '{''id'': 5, ''label'': ''Poor''}'
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: medication_log_1
@@ -42,13 +42,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Fever''}'
-      - '{''id'': 2, ''label'': ''Cough''}'
-      - '{''id'': 3, ''label'': ''Fatigue''}'
-      - '{''id'': 4, ''label'': ''Sore throat''}'
-      - '{''id'': 5, ''label'': ''Headache''}'
-      - '{''id'': 6, ''label'': ''Nausea''}'
-      - '{''id'': 7, ''label'': ''Diarrhea''}'
+      - Fever
+      - Cough
+      - Fatigue
+      - Sore throat
+      - Headache
+      - Nausea
+      - Diarrhea
       required: false
     - id: 6
       name: symptom_log_2
@@ -56,13 +56,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Fever''}'
-      - '{''id'': 2, ''label'': ''Cough''}'
-      - '{''id'': 3, ''label'': ''Fatigue''}'
-      - '{''id'': 4, ''label'': ''Sore throat''}'
-      - '{''id'': 5, ''label'': ''Headache''}'
-      - '{''id'': 6, ''label'': ''Nausea''}'
-      - '{''id'': 7, ''label'': ''Diarrhea''}'
+      - Fever
+      - Cough
+      - Fatigue
+      - Sore throat
+      - Headache
+      - Nausea
+      - Diarrhea
       required: false
     - id: 7
       name: health_status_2
@@ -70,11 +70,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Very good''}'
-      - '{''id'': 3, ''label'': ''Good''}'
-      - '{''id'': 4, ''label'': ''Fair''}'
-      - '{''id'': 5, ''label'': ''Poor''}'
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 8
       name: medication_log_2
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: doctor_name_1

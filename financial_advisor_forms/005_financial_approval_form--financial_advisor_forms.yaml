@@ -4,187 +4,106 @@ inputSchema:
     title: Financial Approval Form
     pages:
     - id: 1
-      name: financial_approval_form_page_1
-      label: Financial Approval
+      name: financial_information_1
+      label: Financial Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: budget_request_page_2
+      name: budget_request_2
       label: Budget Request
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: expense_reimbursement_page_3
+      name: expense_reimbursement_3
       label: Expense Reimbursement
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: funding_allocation_page_4
+      name: funding_allocation_4
       label: Funding Allocation
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: financial_approval_form_page_5
-      label: Financial Approval
+      name: approval_status_5
+      label: Approval Status
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
+      - Option A
+      - Option B
+      - Option C
+      - Option D
+      required: true
     - id: 6
-      name: approval_status_6
-      label: Approval Status
-      hint: null
-      type: select_multiple
-      options:
-      - status1
-      - status2
-      - status3
-      required: false
-    - id: 7
-      name: notes_7
+      name: notes_6
       label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 8
-      name: email_8
+    - id: 7
+      name: email_7
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 9
-      name: phone_9
+      required: true
+    - id: 8
+      name: phone_8
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: financial_approval_form_10
+    - id: 9
+      name: financial_approval_9
       label: Financial Approval
       hint: null
       type: number
       options: []
       required: false
-    - id: 11
-      name: date_11
+    - id: 10
+      name: date_10
       label: Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 12
-      name: time_12
+    - id: 11
+      name: time_11
       label: Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 13
-      name: financial_approval_form_13
-      label: Financial Approval
+    - id: 12
+      name: financial_approvals_12
+      label: Financial Approvals
       hint: null
       type: select_multiple
       options:
-      - option5
-      - option6
-      - option7
-      - option8
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 13
+      name: financial_notes_13
+      label: Financial Notes
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 14
-      name: financial_approval_form_14
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: financial_approval_form_15
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: financial_approval_form_16
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: financial_approval_form_17
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: financial_approval_form_18
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: financial_approval_form_19
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: financial_approval_form_20
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: financial_approval_form_21
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: financial_approval_form_22
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: financial_approval_form_23
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: financial_approval_form_24
-      label: Financial Approval
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: financial_approval_form_25
-      label: Financial Approval
+      name: financial_details_14
+      label: Financial Details
       hint: null
       type: text
       options: []

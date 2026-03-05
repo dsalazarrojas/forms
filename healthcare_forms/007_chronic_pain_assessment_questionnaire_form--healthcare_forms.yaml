@@ -1,97 +1,86 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chronic Pain Assessment Questionnaire Form
     pages:
-      - id: 1
-        name: patient_name
-        label: Patient name
-        hint: Full name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: date_of_birth
-        label: Date of birth
-        hint: Patient date of birth
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: pain_location
-        label: Primary pain location
-        hint: Describe area of pain
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: pain_duration
-        label: Pain duration
-        hint: How long have you experienced this pain
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: pain_intensity
-        label: Pain intensity
-        hint: Rate typical pain 0 no pain to 10 worst pain
-        type: select_one
-        options:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: true
-      - id: 6
-        name: pain_character
-        label: Pain character
-        hint: Describe the pain quality for example burning sharp aching
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: aggravating_factors
-        label: Aggravating factors
-        hint: Activities or situations that worsen your pain or null
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: relieving_factors
-        label: Relieving factors
-        hint: What helps reduce your pain or null
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: current_treatments
-        label: Current treatments
-        hint: Medications therapies or interventions you are using
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: impact_daily_life
-        label: Impact on daily life
-        hint: How pain affects sleep work and activities or null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: patient_name
+      label: Patient name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: Patient date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: pain_location
+      label: Primary pain location
+      hint: Describe area of pain
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: pain_duration
+      label: Pain duration
+      hint: How long have you experienced this pain
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: pain_intensity
+      label: Pain intensity
+      hint: Rate typical pain 0 no pain to 10 worst pain
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 6
+      name: pain_character
+      label: Pain character
+      hint: Describe the pain quality for example burning sharp aching
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: aggravating_factors
+      label: Aggravating factors
+      hint: Activities or situations that worsen your pain or null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: relieving_factors
+      label: Relieving factors
+      hint: What helps reduce your pain or null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_treatments
+      label: Current treatments
+      hint: Medications therapies or interventions you are using
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: impact_daily_life
+      label: Impact on daily life
+      hint: How pain affects sleep work and activities or null
+      type: text
+      options: []
+      required: true

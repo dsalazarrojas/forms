@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Mentor''}'
-      - '{''id'': 2, ''label'': ''Assistant''}'
-      - '{''id'': 3, ''label'': ''Coordinator''}'
+      - Mentor
+      - Assistant
+      - Coordinator
       required: true
     - id: 6
       name: start_date
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 9
       name: application_status
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Removed''}'
+      - Active
+      - Inactive
+      - Removed
       required: true
     - id: 10
       name: notes

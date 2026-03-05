@@ -163,8 +163,8 @@ inputSchema:
       hint: Fever status
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 19
       name: temperature_reading
@@ -223,7 +223,7 @@ inputSchema:
       hint: Vulnerable household members
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes elderly 65 or older
       - Yes with underlying conditions
       - Yes both
@@ -234,7 +234,7 @@ inputSchema:
       hint: Medication use
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes over-the-counter
       - Yes prescription
       required: true

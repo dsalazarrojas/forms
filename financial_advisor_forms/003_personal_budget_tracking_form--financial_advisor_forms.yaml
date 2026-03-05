@@ -4,195 +4,114 @@ inputSchema:
     title: Personal Budget Tracking Form
     pages:
     - id: 1
-      name: page_1
-      label: Personal Budget Tracking Form
-      hint: Please fill out this form to track your personal budget.
-      type: text
+      name: personal_budet_form_page1
+      label: What is your monthly income?
+      hint: Enter your monthly income.
+      type: number
       options: []
       required: false
     - id: 2
-      name: monthly_income_1
-      label: Monthly Income
-      hint: Enter your monthly income.
+      name: personal_budet_form_page2
+      label: Monthly Expenses
+      hint: Enter your monthly expenses.
       type: number
       options: []
       required: false
     - id: 3
-      name: monthly_expenses_1
-      label: Monthly Expenses
-      hint: Enter your monthly expenses.
-      type: number
-      options: []
+      name: personal_budet_form_page3
+      label: Where does your income come from?
+      hint: Select your income source.
+      type: select_multiple
+      options:
+      - Salary
+      - Investment
+      - Business
+      - Other
       required: false
     - id: 4
-      name: progress_1
-      label: Progress
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 5
-      name: financial_goals_1
-      label: Financial Goals
-      hint: Enter your financial goals.
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: income_source_1
-      label: Income Source
-      hint: Enter your income source.
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: monthly_expenses_2
-      label: Monthly Expenses
-      hint: null
-      type: select_multiple
-      options:
-      - Rent
-      - Food
-      - Transportation
-      - Healthcare
-      - Entertainment
-      - Miscellaneous
-      required: false
-    - id: 8
-      name: monthly_income_2
-      label: Monthly Income
-      hint: Enter your monthly income.
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: progress_2
-      label: Progress
-      hint: null
-      type: select_one
-      options:
-      - On Track
-      - Behind Schedule
-      - Ahead of Schedule
-      required: false
-    - id: 10
-      name: monthly_expenses_3
-      label: Monthly Expenses
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: monthly_income_3
-      label: Monthly Income
-      hint: Enter your monthly income.
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: monthly_expenses_4
-      label: Monthly Expenses
-      hint: Enter your monthly expenses.
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: monthly_income_4
-      label: Monthly Income
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: monthly_expenses_5
-      label: Monthly Expenses
-      hint: Enter your monthly expenses.
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: monthly_income_5
-      label: Monthly Income
-      hint: Enter your monthly income.
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: monthly_expenses_6
-      label: Monthly Expenses
-      hint: null
-      type: select_multiple
-      options:
-      - Rent
-      - Food
-      - Transportation
-      - Healthcare
-      - Entertainment
-      - Miscellaneous
-      required: false
-    - id: 17
-      name: monthly_income_6
-      label: Monthly Income
-      hint: Enter your monthly income.
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: monthly_expenses_7
-      label: Monthly Expenses
-      hint: Enter your monthly expenses.
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: monthly_income_7
-      label: Monthly Income
-      hint: Enter your monthly income.
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: monthly_expenses_8
-      label: Monthly Expenses
-      hint: null
+      name: personal_budet_form_page4
+      label: How much are your monthly expenses?
+      hint: Select your expense level.
       type: select_one
       options:
       - High
       - Medium
       - Low
       required: false
-    - id: 21
-      name: monthly_income_8
-      label: Monthly Income
-      hint: null
+    - id: 5
+      name: personal_budet_form_page5
+      label: What are your financial goals?
+      hint: Enter your financial goals.
       type: text
       options: []
       required: false
-    - id: 22
-      name: monthly_expenses_9
-      label: Monthly Expenses
-      hint: Enter your monthly expenses.
-      type: text
-      options: []
+    - id: 6
+      name: personal_budet_form_page6
+      label: How much progress you have made towards your financial goals?
+      hint: Select your progress level.
+      type: select_one
+      options:
+      - On Track
+      - Behind Schedule
+      - Ahead of Schedule
       required: false
-    - id: 23
-      name: monthly_income_9
-      label: Monthly Income
-      hint: null
-      type: email
-      options: []
+    - id: 7
+      name: personal_budet_form_page7
+      label: What are your expenses for Rent?
+      hint: Select your rent expenses.
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
       required: false
-    - id: 24
-      name: monthly_expenses_10
-      label: Monthly Expenses
-      hint: Enter your monthly expenses.
-      type: text
-      options: []
+    - id: 8
+      name: personal_budet_form_page8
+      label: What are your expenses for Food?
+      hint: Select your food expenses.
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
       required: false
-    - id: 25
-      name: monthly_income_10
-      label: Monthly Income
-      hint: Enter your monthly income.
-      type: text
-      options: []
+    - id: 9
+      name: personal_budet_form_page9
+      label: What are your expenses for Transportation?
+      hint: Select your transportation expenses.
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: personal_budet_form_page10
+      label: What are your expenses for Healthcare?
+      hint: Select your healthcare expenses.
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 11
+      name: personal_budet_form_page11
+      label: What are your expenses for Entertainment?
+      hint: Select your entertainment expenses.
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: personal_budet_form_page12
+      label: What are your total expenses for Miscellaneous?
+      hint: Select your miscellaneous expenses.
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
       required: false

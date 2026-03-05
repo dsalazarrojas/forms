@@ -4,91 +4,22 @@ inputSchema:
     title: New Employee Welcome Packet
     pages:
     - id: 1
-      name: new_employee_welcome_packet_form
-      label: new_employees_welcome_packet_form
+      name: employee_info
+      label: Employee Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: employee_details
-      label: employee_details
+      name: job_title
+      label: Job Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: contact_info
-      label: contact_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: start_date
-      label: start_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: handbook_acknowledgment
-      label: handbook_acknowledgment
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: handbook_acknowledgments
-      label: handbook_acknowledgments
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 7
-      name: employee_acknowledgment
-      label: employee_acknowledgment
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 8
-      name: other_info
-      label: other_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 10
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 11
-      name: address
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
       name: department
-      label: department
+      label: Department
       hint: null
       type: select_one
       options:
@@ -96,9 +27,9 @@ inputSchema:
       - Department 2
       - Department 3
       required: true
-    - id: 13
-      name: location
-      label: location
+    - id: 4
+      name: job_location
+      label: Job Location
       hint: null
       type: select_one
       options:
@@ -106,157 +37,44 @@ inputSchema:
       - Location 2
       - Location 3
       required: true
-    - id: 14
-      name: shift
-      label: shift
-      hint: null
-      type: select_one
-      options:
-      - Shift 1
-      - Shift 2
-      - Shift 3
-      required: true
-    - id: 15
-      name: supervisor
-      label: supervisor
-      hint: null
-      type: select_one
-      options:
-      - Supervisor 1
-      - Supervisor 2
-      - Supervisor 3
-      required: true
-    - id: 16
-      name: emergency_contact
-      label: emergency_contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: emergency_contact_name
-      label: name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 18
-      name: emergency_contact_relationship
-      label: relationship
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: emergency_contact_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
-      name: emergency_contact_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 21
-      name: emergency_contact_address
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: employee_id
-      label: employee_id
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: date
-      label: date
+    - id: 5
+      name: start_date
+      label: Start Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 24
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 26
-      name: manager_acknowledgment
-      label: manager_acknowledgment
+      required: true
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
       hint: null
       type: text
       options: []
       required: false
-    - id: 27
-      name: manager_acknowledgments
-      label: manager_acknowledgments
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 28
-      name: manager_ack
-      label: manager_acknowledgment
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 29
-      name: manager_acknowledgments
-      label: manager_acknowledgments
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 30
-      name: manager_info
-      label: manager_info
+    - id: 7
+      name: relationship
+      label: Relationship with Emergency Contact
       hint: null
       type: text
       options: []
-      required: false
-    - id: 31
+      required: true
+    - id: 8
+      name: emergency_contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
       name: manager_name
-      label: name
+      label: Manager Name
       hint: null
       type: text
       options: []
       required: true
-    - id: 32
-      name: manager_address
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 33
+    - id: 10
       name: manager_department
-      label: department
+      label: Manager Department
       hint: null
       type: select_one
       options:
@@ -264,23 +82,9 @@ inputSchema:
       - Department 2
       - Department 3
       required: true
-    - id: 34
-      name: manager_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 35
-      name: manager_email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 36
+    - id: 11
       name: manager_shift
-      label: shift
+      label: Manager Shift
       hint: null
       type: select_one
       options:
@@ -288,38 +92,10 @@ inputSchema:
       - Shift 2
       - Shift 3
       required: true
-    - id: 37
-      name: manager_relationship
-      label: relationship
+    - id: 12
+      name: manager_info
+      label: Manager Information
       hint: null
       type: text
       options: []
       required: true
-    - id: 38
-      name: manager_other_info
-      label: other_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: employee_other_info
-      label: other_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: manager_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: manager_note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false

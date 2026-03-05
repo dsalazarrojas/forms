@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Serous''}'
-      - '{''id'': 3, ''label'': ''Purulent''}'
+      - None
+      - Serous
+      - Purulent
       required: false
     - id: 8
       name: bleeding
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': True}'
+      - None
+      - 'True'
       required: false
     - id: 9
       name: edema
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': True}'
+      - None
+      - 'True'
       required: false
     - id: 10
       name: pain_level
@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''mild''}'
-      - '{''id'': 3, ''label'': ''moderate''}'
-      - '{''id'': 4, ''label'': ''severe''}'
+      - None
+      - mild
+      - moderate
+      - severe
       required: false
     - id: 11
       name: redness
@@ -90,8 +90,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': True}'
+      - None
+      - 'True'
       required: false
     - id: 12
       name: swelling
@@ -99,8 +99,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': True}'
+      - None
+      - 'True'
       required: false
     - id: 13
       name: odor
@@ -108,8 +108,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': True}'
+      - None
+      - 'True'
       required: false
     - id: 14
       name: redness_intensity
@@ -145,11 +145,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''head and neck''}'
-      - '{''id'': 3, ''label'': ''upper back''}'
-      - '{''id'': 4, ''label'': ''lower back''}'
-      - '{''id'': 5, ''label'': ''abdomen''}'
+      - None
+      - head and neck
+      - upper back
+      - lower back
+      - abdomen
       required: false
     - id: 19
       name: assessment_date
@@ -171,10 +171,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''unhealed''}'
-      - '{''id'': 3, ''label'': ''healing''}'
-      - '{''id'': 4, ''label'': ''closed''}'
+      - None
+      - unhealed
+      - healing
+      - closed
       required: false
     - id: 22
       name: patient_condition
@@ -182,10 +182,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''stable''}'
-      - '{''id'': 3, ''label'': ''improving''}'
-      - '{''id'': 4, ''label'': ''deteriorating''}'
+      - None
+      - stable
+      - improving
+      - deteriorating
       required: false
     - id: 23
       name: follow_up_status
@@ -193,8 +193,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': True}'
+      - None
+      - 'True'
       required: false
     - id: 24
       name: follow_up_date

@@ -178,7 +178,7 @@ inputSchema:
       options:
       - Yes - Currently hospitalized
       - Yes - Was hospitalized
-      - false
+      - 'False'
       required: true
     - id: 21
       name: hospitalization_date
@@ -218,8 +218,8 @@ inputSchema:
       hint: Do you work in healthcare
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: essential_worker
@@ -227,8 +227,8 @@ inputSchema:
       hint: Critical infrastructure
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 26
       name: residence_type
@@ -310,7 +310,7 @@ inputSchema:
       hint: Do you need assistance
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - Food delivery
       - Yes - Medical care
       - Yes - Housing
@@ -341,8 +341,8 @@ inputSchema:
       hint: Is additional contact needed
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 37
       name: follow_up_date

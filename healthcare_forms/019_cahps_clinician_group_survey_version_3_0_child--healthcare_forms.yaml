@@ -1,175 +1,169 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CAHPS Clinician & Group Survey 3.0 (Child)
     pages:
-      - id: 1
-        name: child_clinician_header
-        label: -- Child Pediatric Care Experience --
-        hint: Parents or guardians should complete this survey about their child’s most recent visit.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: pediatrician_name
-        label: Name of the Pediatrician or Clinician
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: clinic_name_child
-        label: Pediatric Practice Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: timely_child_appointment
-        label: How often did you get an appointment for your child as soon as you needed?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 5
-        name: urgent_care_access_child
-        label: When your child needed care right away, how often did you get it?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 6
-        name: clinician_explains_to_parent
-        label: How often did the clinician explain things about your child's health in a way you understood?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 7
-        name: clinician_explains_to_child
-        label: How often did the clinician explain things in a way that was easy for your child to understand?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-          - Not Applicable
-        required: true
-      - id: 8
-        name: clinician_listens_to_parent
-        label: How often did the clinician listen carefully to you as the parent/guardian?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 9
-        name: clinician_respect_child
-        label: How often did the clinician treat your child with courtesy and respect?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 10
-        name: coordination_specialist_child
-        label: How often did the clinician seem informed about care your child received from specialists?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-          - No specialists seen
-        required: false
-      - id: 11
-        name: child_comfort_during_exam
-        label: How well did the clinician help your child feel comfortable during the examination?
-        hint: null
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Very Good
-          - Excellent
-        required: true
-      - id: 12
-        name: staff_courtesy_child_office
-        label: How often did office staff treat you and your child with respect?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 13
-        name: child_clinician_overall_rating
-        label: Overall rating of this pediatrician/clinician
-        hint: 0 is worst, 10 is best
-        type: select_one
-        options:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: true
-      - id: 14
-        name: recommendation_pediatrician
-        label: Would you recommend this clinician to other parents?
-        hint: null
-        type: select_one
-        options:
-          - Definitely No
-          - Probably No
-          - Probably Yes
-          - Definitely Yes
-        required: true
-      - id: 15
-        name: parent_final_thoughts
-        label: Any additional feedback about the pediatric clinic?
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: child_clinician_header
+      label: -- Child Pediatric Care Experience --
+      hint: Parents or guardians should complete this survey about their child’s most
+        recent visit.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pediatrician_name
+      label: Name of the Pediatrician or Clinician
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: clinic_name_child
+      label: Pediatric Practice Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: timely_child_appointment
+      label: How often did you get an appointment for your child as soon as you needed?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 5
+      name: urgent_care_access_child
+      label: When your child needed care right away, how often did you get it?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 6
+      name: clinician_explains_to_parent
+      label: How often did the clinician explain things about your child's health
+        in a way you understood?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 7
+      name: clinician_explains_to_child
+      label: How often did the clinician explain things in a way that was easy for
+        your child to understand?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      - Not Applicable
+      required: true
+    - id: 8
+      name: clinician_listens_to_parent
+      label: How often did the clinician listen carefully to you as the parent/guardian?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 9
+      name: clinician_respect_child
+      label: How often did the clinician treat your child with courtesy and respect?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 10
+      name: coordination_specialist_child
+      label: How often did the clinician seem informed about care your child received
+        from specialists?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      - No specialists seen
+      required: false
+    - id: 11
+      name: child_comfort_during_exam
+      label: How well did the clinician help your child feel comfortable during the
+        examination?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: staff_courtesy_child_office
+      label: How often did office staff treat you and your child with respect?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 13
+      name: child_clinician_overall_rating
+      label: Overall rating of this pediatrician/clinician
+      hint: 0 is worst, 10 is best
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 14
+      name: recommendation_pediatrician
+      label: Would you recommend this clinician to other parents?
+      hint: null
+      type: select_one
+      options:
+      - Definitely No
+      - Probably No
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 15
+      name: parent_final_thoughts
+      label: Any additional feedback about the pediatric clinic?
+      hint: null
+      type: text
+      options: []
+      required: false

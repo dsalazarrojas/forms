@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General Medicine''}'
-      - '{''id'': 2, ''label'': ''General Surgery''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - General Medicine
+      - General Surgery
+      - Other
       required: false
     - id: 3
       name: description
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Positive''}'
-      - '{''id'': 2, ''label'': ''Negative''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false
     - id: 8
       name: recommended
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: comments

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''manager1'', ''label'': ''Manager 1''}'
-      - '{''id'': 2, ''name'': ''manager2'', ''label'': ''Manager 2''}'
-      - '{''id'': 3, ''name'': ''manager3'', ''label'': ''Manager 3''}'
+      - Manager 1
+      - Manager 2
+      - Manager 3
       required: false
     - id: 6
       name: manager_comments
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''manager1'', ''label'': ''Manager 1''}'
-      - '{''id'': 2, ''name'': ''manager2'', ''label'': ''Manager 2''}'
-      - '{''id'': 3, ''name'': ''manager3'', ''label'': ''Manager 3''}'
+      - Manager 1
+      - Manager 2
+      - Manager 3
       required: false
     - id: 8
       name: employee_comments
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''approved'', ''label'': ''Approved''}'
-      - '{''id'': 2, ''name'': ''not_approved'', ''label'': ''Not Approved''}'
+      - Approved
+      - Not Approved
       required: false
     - id: 10
       name: manager_comment

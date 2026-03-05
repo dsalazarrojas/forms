@@ -15,72 +15,89 @@ inputSchema:
     title: mid_year_performance_review_form
     pages:
     - id: 1
-      name: performance_review_form_page_1
-      label: performance_review_form
+      name: employee_information
+      label: Employee Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: performance_review_form_page_2
-      label: performance_review_form
+      name: job_title
+      label: Job Title
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: performance_review_form_page_3
-      label: performance_review_form
+      name: performance_score
+      label: Current Performance Score (1-5)
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: performance_review_form_page_4
-      label: performance_review_form
+      name: strengths
+      label: Strengths
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: performance_review_form_page_5
-      label: performance_review_form
+      name: development_areas
+      label: Development Areas
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: performance_review_form_page_6
-      label: performance_review_form
+      name: goals
+      label: Goals for the next 6 months
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: performance_review_form_page_7
-      label: performance_review_form
+      name: professional_development
+      label: Recommendations for Professional Development
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: performance_review_form_page_8
-      label: performance_review_form
+      name: feedback_from_employee
+      label: Feedback from the Employee
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: performance_review_form_page_9
-      label: performance_review_form
+      name: feedback_from_manager
+      label: Feedback from the Manager
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: performance_review_form_page_10
-      label: performance_review_form
+      name: action_items
+      label: Action Items for the Manager
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 11
+      name: next_review_date
+      label: Next Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: review_status
+      label: Overall Performance Review Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      - Pending
+      required: true

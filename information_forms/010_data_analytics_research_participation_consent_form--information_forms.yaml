@@ -4,183 +4,130 @@ inputSchema:
     title: data_analytics_research_participation_consent_form
     pages:
     - id: 1
-      name: participant_consent
-      label: participant_consent
+      name: participant_consent_1
+      label: Do you give your consent to participate in this research data analytics
+        project?
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: research_purpose
-      label: research_purpose
+      name: participant_contact
+      label: What is your contact information (email, phone number, or address)?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: contact_details
-      label: contact_details
+      name: research_purpose
+      label: What is the purpose of this research study?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 4
-      name: research_participation
-      label: research_participation
+      name: research_participation_agreement
+      label: Do you agree to participate in this research study?
       hint: null
-      type: note
-      options: []
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
       required: true
     - id: 5
       name: data_analytics_agreement
-      label: data_analytics_agreement
+      label: Do you agree to share your data for analytics purposes?
       hint: null
-      type: date
-      options: []
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
       required: true
     - id: 6
-      name: research_participation_agreement
-      label: research_participation_agreement
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 7
-      name: research_participation_agreement_2
-      label: research_participation_agreement_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
       name: data_analytics_participation
-      label: data_analytics_participation
+      label: Are you willing to participate in data analytics projects?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Option A
+      - Option B
+      required: true
+    - id: 7
+      name: research_participation_terms
+      label: Have you read and understood the terms of this research study?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: data_analytics_agreement_terms
+      label: Have you read and understood the data analytics agreement?
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 9
-      name: research_participation_terms
-      label: research_participation_terms
+      name: research_participation_conduct
+      label: Are you aware of the research study conduct?
       hint: null
       type: text
       options: []
       required: true
     - id: 10
-      name: data_analytics_agreement_terms
-      label: data_analytics_agreement_terms
+      name: participant_consent_2
+      label: Do you give your consent to participate in this research study again?
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: research_participation_conduct
-      label: research_participation_conduct
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: participant_consent_2
-      label: participant_consent_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: data_analytics_data
-      label: data_analytics_data
+      label: Are you willing to share your data for analytics purposes again?
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option A
+      - Option B
+      required: true
+    - id: 12
+      name: research_participation_agreement_2
+      label: Do you agree to participate in this research study again?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: data_analytics_participation_2
+      label: Are you willing to participate in data analytics projects again?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 14
       name: research_participation_conduct_2
-      label: research_participation_conduct_2
+      label: Are you aware of the research study conduct again?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: research_participation_agreement_3
-      label: research_participation_agreement_3
+      name: participant_consent_3
+      label: Do you give your consent to participate in this research study?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: data_analytics_participation
-      label: data_analytics_participation
+      name: data_analytics_participation_3
+      label: Data Analytics Participation 3
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 17
-      name: research_participation_conduct_3
-      label: research_participation_conduct_3
+      name: participant_conduct
+      label: Are you aware of the participant conduct?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 18
-      name: data_analytics_agreement
-      label: data_analytics_agreement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: research_participation_agreement_2
-      label: research_participation_agreement_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: data_analytics_participation_2
-      label: data_analytics_participation_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: research_participation_conduct_2
-      label: research_participation_conduct_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: participant_consent
-      label: participant_consent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: data_analytics_data
-      label: data_analytics_data
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: research_participation_conduct
-      label: research_participation_conduct
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: participant_consent_2
-      label: participant_consent_2
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

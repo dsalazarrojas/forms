@@ -4,293 +4,141 @@ inputSchema:
     title: Patient Safety Assessment Survey
     pages:
     - id: 1
-      name: patient_safety_survey_form
-      label: patient_safety_survey_form
+      name: patient_safety_risks
+      label: What are the perceived safety risks to the patient?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: patient_safety_survey_form_1
-      label: patient_safety
+      name: patient_safety_suggestions
+      label: How would you suggest patient safety protocols?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: patient_safety_survey_form_2
-      label: safety_risks
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 4
-      name: patient_safety_survey_form_3
-      label: safety_risks_1
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 5
-      name: patient_safety_survey_form_4
-      label: patient_safety_risk_4
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: patient_safety_survey_form_5
-      label: safety_risks_5
+      name: patient_safety_response
+      label: How safe do you feel when receiving care from our healthcare team?
       hint: null
       type: date
       options: []
       required: false
-    - id: 7
-      name: patient_safety_survey_form_6
-      label: patient_safety_suggest
+    - id: 4
+      name: patient_safety_team_interactions
+      label: How safe do you feel when interacting with our healthcare team?
       hint: null
-      type: email
+      type: select_one
+      options:
+      - Always
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 5
+      name: safety_incidents
+      label: Have you experienced any safety incidents or near misses?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 6
+      name: patient_safety_training
+      label: Do you feel we provide adequate training on patient safety?
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Neutral
+      required: false
+    - id: 7
+      name: safety_issues
+      label: Have you noticed any safety-related issues or concerns?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 8
-      name: patient_safety_survey_form_7
-      label: patient_safety_protocol
+      name: patient_safety_perception
+      label: What is your overall perception of patient safety in our healthcare setting?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: patient_safety_survey_form_8
-      label: safety_risks_8
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: patient_safety_survey_form_9
-      label: patient_safety_protocol_1
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 11
-      name: patient_safety_survey_form_10
-      label: safety_risks_10
+      name: patient_safety_suggestions_improve
+      label: What is your experience with reporting safety incidents in our healthcare
+        setting?
       hint: null
       type: text
       options: []
       required: false
-    - id: 12
-      name: patient_safety_survey_form_11
-      label: patient_safety_survey_response
+    - id: 10
+      name: patient_safety_protocol_implement
+      label: What safety protocols do you suggest we implement to prevent future incidents?
       hint: null
-      type: number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: patient_safety_response_time
+      label: Patient Safety Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: patient_safety_suggestions_improvement
+      label: Do you have any safety-related suggestions for improvement?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 13
-      name: patient_safety_survey_form_12
-      label: safety_risks_11
+      name: patient_safety_reporting
+      label: Patient Safety Reporting
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: patient_safety_survey_form_13
-      label: patient_safety_protocol_2
+      name: patient_safety_response_protocol
+      label: How do you feel about our response to patient safety concerns?
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Mostly
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 15
+      name: patient_safety_suggestions_improve_incident
+      label: What safety-related incidents have you noticed?
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: patient_safety_survey_form_14
-      label: safety_risks_12
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 16
-      name: patient_safety_survey_form_15
-      label: patient_safety_protocol_3
+      name: patient_safety_suggestions_improvement_incident
+      label: Patient Safety Suggestions Improvement Incident
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: patient_safety_survey_form_16
-      label: safety_risks_13
+      name: patient_safety_response_time_protocol
+      label: Patient Safety Response Time Protocol
       hint: null
-      type: time
+      type: date
       options: []
       required: false
     - id: 18
-      name: patient_safety_survey_form_17
-      label: patient_safety_protocol_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: patient_safety_survey_form_17
-      label: patient_safety_response
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: patient_safety_survey_form_18
-      label: safety_risks_14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: patient_safety_survey_form_19
-      label: patient_safety_protocol_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: patient_safety_survey_form_20
-      label: safety_risks_15
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 23
-      name: patient_safety_survey_form_21
-      label: patient_safety_protocol_6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: patient_safety_survey_form_22
-      label: safety_risks_16
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: patient_safety_survey_form_23
-      label: patient_safety_protocol
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: patient_safety_survey_form_24
-      label: patient_safety_protocol_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: patient_safety_survey_form_25
-      label: patient_safety_protocol_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: patient_safety_survey_form_26
-      label: patient_safety_protocol_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: patient_safety_survey_form_27
-      label: patient_safety_protocol_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: patient_safety_survey_form_28
-      label: patient_safety_protocol_6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: patient_safety_survey_form_29
-      label: patient_safety_protocol_7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: patient_safety_survey_form_30
-      label: patient_safety_protocol_8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: patient_safety_survey_form_31
-      label: patient_safety_protocol_9
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: patient_safety_survey_form_32
-      label: patient_safety_protocol_10
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: patient_safety_survey_form_33
-      label: patient_safety_protocol_11
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: patient_safety_survey_form_34
-      label: patient_safety_protocol_12
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: patient_safety_survey_form_35
-      label: patient_safety_protocol_13
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 38
-      name: patient_safety_survey_form_36
-      label: patient_safety_protocol_14
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: patient_safety_survey_form_37
-      label: patient_safety_protocol_15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: patient_safety_survey_form_38
-      label: patient_safety_protocol_16
+      name: patient_safety_response_concerns
+      label: What is your feedback on our response to patient safety concerns?
       hint: null
       type: text
       options: []

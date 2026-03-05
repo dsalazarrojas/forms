@@ -4,241 +4,189 @@ inputSchema:
     title: Lead Acid Battery Safety Assessment
     pages:
     - id: 1
-      name: lead_acid_battery_safety_assessment
-      label: battery_storage
+      name: battery_storage
+      label: Battery Storage
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''option_1''}'
-      - '{''id'': 2, ''label'': ''option_2''}'
+      - option 1
+      - option 2
       required: true
     - id: 2
-      name: lead_acid_battery_safety_form
-      label: handling_practices
+      name: handling_practices
+      label: Handling Practices
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''option_3''}'
-      - '{''id'': 2, ''label'': ''option_4''}'
-      - '{''id'': 3, ''label'': ''option_5''}'
+      - option 3
+      - option 4
+      - option 5
       required: true
     - id: 3
-      name: lead_acid_battery_safety_assessment_template
-      label: training_readiness
+      name: training_readiness
+      label: Training Readiness
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: lead_acid_battery_safety_assessment_form_templates
-      label: centralized_data_collection
+      name: centralized_data_collection
+      label: Centralized Data Collection
       hint: null
       type: number
       options: []
       required: true
     - id: 5
-      name: lead_acid_battery_safety_assessment_templates_by_jotform
-      label: reliable_form_submission
+      name: reliable_form_submission
+      label: Reliable Form Submission
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''option_6''}'
-      - '{''id'': 2, ''label'': ''option_7''}'
+      - option 6
+      - option 7
       required: true
     - id: 6
-      name: lead_acid_battery_safety_assessment_form_template_by_jotform
-      label: battery_storage_and_handling_inspection
+      name: battery_storage_and_handling_inspection
+      label: Battery Storage and Handling Inspection
       hint: null
       type: time
       options: []
       required: true
     - id: 7
-      name: lead_acid_battery_safety_assessment_form_templates
-      label: lead_acid_batteries
+      name: lead_acid_batteries
+      label: Lead Acid Batteries
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''option_8''}'
-      - '{''id'': 2, ''label'': ''option_9''}'
-      - '{''id'': 3, ''label'': ''option_10''}'
+      - option 8
+      - option 9
+      - option 10
       required: true
     - id: 8
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: storage_facility
+      name: storage_facility
+      label: Storage Facility
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''option_11''}'
-      - '{''id'': 2, ''label'': ''option_12''}'
+      - option 11
+      - option 12
       required: true
     - id: 9
-      name: lead_acid_battery_safety_assessment_form_template_by_jotform
-      label: inspection_date
+      name: inspection_date
+      label: Inspection Date
       hint: null
       type: date
       options: []
       required: true
     - id: 10
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: inspection_time
+      name: inspection_time
+      label: Inspection Time
       hint: null
       type: time
       options: []
       required: true
     - id: 11
-      name: lead_acid_battery_safety_assessment_form_templates_by_jotform
-      label: inspection_frequency
+      name: inspection_frequency
+      label: Inspection Frequency
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''option_13''}'
-      - '{''id'': 2, ''label'': ''option_14''}'
-      - '{''id'': 3, ''label'': ''option_15''}'
+      - option 13
+      - option 14
       required: true
     - id: 12
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: inspection_by
+      name: inspection_by
+      label: Inspection By
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''option_16''}'
-      - '{''id'': 2, ''label'': ''option_17''}'
+      - option 16
+      - option 17
       required: true
     - id: 13
-      name: lead_acid_battery_safety_assessment_form_template_by_jotform
-      label: inspection_type
+      name: inspection_type
+      label: Inspection Type
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''option_18''}'
-      - '{''id'': 2, ''label'': ''option_19''}'
-      - '{''id'': 3, ''label'': ''option_20''}'
+      - option 18
+      - option 19
+      - option 20
       required: true
     - id: 14
-      name: lead_acid_battery_safety_form_by_jotform
-      label: lead_battery_storage
+      name: lead_acid_battery_handling
+      label: Lead Acid Battery Handling
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lead_acid_batteries_storage
+      label: Lead Acid Batteries Storage and Handling
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: lead_battery_handling
-      hint: null
-      type: text
-      options: []
-      required: true
     - id: 16
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: training
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''option_21''}'
-      - '{''id'': 2, ''label'': ''option_22''}'
-      required: true
-    - id: 17
-      name: lead_acid_battery_safety_form_by_jotform
-      label: training_status
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''option_23''}'
-      - '{''id'': 2, ''label'': ''option_24''}'
-      required: true
-    - id: 18
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: notes
+      name: notes
+      label: Notes
       hint: null
       type: note
       options: []
       required: true
-    - id: 19
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: signature
+    - id: 17
+      name: signature
+      label: Signature
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''option_25''}'
-      - '{''id'': 2, ''label'': ''option_26''}'
+      - option 25
+      - option 26
       required: true
-    - id: 20
-      name: lead_acid_battery_safety_form_by_jotform
-      label: date
+    - id: 18
+      name: date
+      label: Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 21
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: time
+    - id: 19
+      name: time
+      label: Time
       hint: null
       type: time
       options: []
       required: true
-    - id: 22
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: frequency
+    - id: 20
+      name: lead_acid_batteries_storage_and_handling
+      label: Lead Acid Batteries Storage and Handling (2)
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''option_27''}'
-      - '{''id'': 2, ''label'': ''option_28''}'
+      - option 33
+      - option 34
+      - option 35
+      required: true
+    - id: 21
+      name: lead_acid_batteries_handling
+      label: Lead Acid Batteries Handling
+      hint: null
+      type: select_multiple
+      options:
+      - option 36
+      - option 37
+      required: true
+    - id: 22
+      name: lead_acid_batteries_2
+      label: Lead Acid Batteries 2
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 23
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: by
+      name: inspection_date_and_time
+      label: Inspection Date and Time
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''option_29''}'
-      - '{''id'': 2, ''label'': ''option_30''}'
-      required: true
-    - id: 24
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: inspection_type
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''option_31''}'
-      - '{''id'': 2, ''label'': ''option_32''}'
-      required: true
-    - id: 25
-      name: lead_acid_battery_safety_form_by_jotform
-      label: lead_acid_batteries
-      hint: null
-      type: text
+      type: date
       options: []
       required: true
-    - id: 26
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: lead_acid_battery_handling
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: lead_acid_battery_safety_form_by_jotform
-      label: lead_acid_batteries_storage
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''option_33''}'
-      - '{''id'': 2, ''label'': ''option_34''}'
-      required: true
-    - id: 28
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: lead_acid_batteries_handling
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''option_35''}'
-      - '{''id'': 2, ''label'': ''option_36''}'
-      required: true
-    - id: 29
-      name: lead_acid_battery_safety_assessment_form_by_jotform
-      label: lead_acid_batteries_storage
-      hint: null
-      type: text
-      options: []
-      required: false

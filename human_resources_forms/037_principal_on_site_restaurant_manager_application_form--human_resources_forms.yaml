@@ -16,213 +16,131 @@ inputSchema:
     pages:
     - id: 1
       name: form_title
-      label: Principal On Site Restaurant Manager Application Form
-      hint: null
+      label: Form Title
+      hint: Principal On Site Restaurant Manager Application Form
       type: text
       options: []
       required: false
     - id: 2
-      name: category
-      label: Category
+      name: contact_name
+      label: Contact Name
       hint: null
-      type: select_one
-      options:
-      - Human Resources Forms
-      - Restaurant Manager Forms
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: description
-      label: Description
+      name: contact_email
+      label: Contact Email
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 4
-      name: category_label
-      label: Category
+      name: contact_phone
+      label: Contact Phone Number
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: description_label
-      label: Description
+      name: current_work_place
+      label: Current Work Place
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: category
-      label: Category
+      name: employment_duration
+      label: Employment Duration
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 7
-      name: description
-      label: Description
+      name: job_title
+      label: Job Title
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Waiter/Server
+      - Kitchen Staff
+      - Host/Hostess
+      - Bartender
+      - Chef/Cook
+      - Restaurant Manager
+      - Other (please specify)
+      required: true
     - id: 8
-      name: category_label
-      label: Category
+      name: availability
+      label: Availability
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 9
-      name: description_label
-      label: Description
+      name: work_hours
+      label: Work Hours
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 10
-      name: category
-      label: Category
+      name: previous_work_experience
+      label: Previous Work Experience
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: description
-      label: Description
+      name: previous_restaurants_worked
+      label: Previous Restaurants Worked
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Restaurant A
+      - Restaurant B
+      - Restaurant C
       required: false
     - id: 12
-      name: category_label
-      label: Category
+      name: job_title_at_restaurant
+      label: Job Title at Restaurant
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: description_label
-      label: Description
+      name: language_skills
+      label: Language Skills
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Other (please specify)
       required: false
     - id: 14
-      name: category
-      label: Category
+      name: qualifications
+      label: Qualifications
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: description
-      label: Description
+      name: education
+      label: Education
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: category_label
-      label: Category
+      name: certification
+      label: Certifications
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: description_label
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: category_label
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: description_label
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: category_label
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: description_label
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: category_label
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 29
-      name: description_label
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: category
-      label: Category
-      hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Food Safety Certification
+      - Service Certification
+      - Other (please specify)
       required: false

@@ -1,207 +1,196 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Carpooling Accident Incident Form
     pages:
-      - id: 1
-        name: section_incident_overview
-        label: -- Incident Overview --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: report_date
-        label: Date Reported
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: reporter_name
-        label: Reporter Name
-        hint: who is completing this form?
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: reporter_role
-        label: Role in Carpool
-        hint: null
-        type: select_one
-        options:
-          - Driver
-          - Passenger
-          - Owner
-          - Other
-        required: true
-      - id: 5
-        name: section_accident_details
-        label: -- Accident Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: accident_date
-        label: Date of Accident
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 7
-        name: accident_time
-        label: Time of Accident
-        hint: null
-        type: time
-        options: []
-        required: true
-      - id: 8
-        name: accident_location
-        label: Location (Address or Intersection)
-        hint: where did the incident occur?
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: accident_description
-        label: Description of what happened
-        hint: explain the events in detail
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: weather_conditions
-        label: Weather conditions at time of accident
-        hint: null
-        type: select_one
-        options:
-          - Clear
-          - Rainy
-          - Snowy
-          - Foggy
-          - Other
-        required: true
-      - id: 11
-        name: road_conditions
-        label: Road conditions
-        hint: null
-        type: select_one
-        options:
-          - Dry
-          - Wet
-          - Icy
-          - Under Construction
-          - Other
-        required: true
-      - id: 12
-        name: section_vehicle_info
-        label: -- Vehicle Information --
-        hint: primary vehicle in the carpool
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: vehicle_make_model
-        label: Vehicle Make and Model
-        hint: e.g. Toyota Camry
-        type: text
-        options: []
-        required: true
-      - id: 14
-        name: vehicle_plate
-        label: License Plate Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: driver_name
-        label: Driver Name
-        hint: the person driving the carpool vehicle
-        type: text
-        options: []
-        required: true
-      - id: 16
-        name: section_participants
-        label: -- Participants and Witnesses --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: passengers_involved
-        label: List of passengers involved
-        hint: include names if possible
-        type: text
-        options: []
-        required: false
-      - id: 18
-        name: injured_persons
-        label: Any injuries?
-        hint: describe injuries or state None
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: witness_names
-        label: Witness Names and Contact
-        hint: bystanders or other drivers
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: section_law_enforcement
-        label: -- Law Enforcement and Damage --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: police_notified
-        label: Was police notified?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 22
-        name: police_report_number
-        label: Police Report Number
-        hint: if available
-        type: text
-        options: []
-        required: false
-      - id: 23
-        name: estimated_damage
-        label: Description of vehicle damage
-        hint: what parts of the car were hit?
-        type: text
-        options: []
-        required: true
-      - id: 24
-        name: section_confirmation
-        label: -- Confirmation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 25
-        name: reporter_confirmation
-        label: I certify this report is true and accurate
-        hint: Type name as digital signature
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: section_incident_overview
+      label: -- Incident Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reporter_name
+      label: Reporter Name
+      hint: who is completing this form?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_role
+      label: Role in Carpool
+      hint: null
+      type: select_one
+      options:
+      - Driver
+      - Passenger
+      - Owner
+      - Other
+      required: true
+    - id: 5
+      name: section_accident_details
+      label: -- Accident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: accident_date
+      label: Date of Accident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: accident_time
+      label: Time of Accident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: accident_location
+      label: Location (Address or Intersection)
+      hint: where did the incident occur?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: accident_description
+      label: Description of what happened
+      hint: explain the events in detail
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: weather_conditions
+      label: Weather conditions at time of accident
+      hint: null
+      type: select_one
+      options:
+      - Clear
+      - Rainy
+      - Snowy
+      - Foggy
+      - Other
+      required: true
+    - id: 11
+      name: road_conditions
+      label: Road conditions
+      hint: null
+      type: select_one
+      options:
+      - Dry
+      - Wet
+      - Icy
+      - Under Construction
+      - Other
+      required: true
+    - id: 12
+      name: section_vehicle_info
+      label: -- Vehicle Information --
+      hint: primary vehicle in the carpool
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_make_model
+      label: Vehicle Make and Model
+      hint: e.g. Toyota Camry
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_plate
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: driver_name
+      label: Driver Name
+      hint: the person driving the carpool vehicle
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_participants
+      label: -- Participants and Witnesses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: passengers_involved
+      label: List of passengers involved
+      hint: include names if possible
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: injured_persons
+      label: Any injuries?
+      hint: describe injuries or state None
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: witness_names
+      label: Witness Names and Contact
+      hint: bystanders or other drivers
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_law_enforcement
+      label: -- Law Enforcement and Damage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: police_notified
+      label: Was police notified?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: police_report_number
+      label: Police Report Number
+      hint: if available
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: estimated_damage
+      label: Description of vehicle damage
+      hint: what parts of the car were hit?
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: reporter_confirmation
+      label: I certify this report is true and accurate
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

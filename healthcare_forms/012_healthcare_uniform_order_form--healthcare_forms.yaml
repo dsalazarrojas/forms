@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: select_size
-      label: Select Size
+      label: Preferred uniform size
       hint: null
       type: select_one
       options:
@@ -15,9 +15,9 @@ inputSchema:
       required: false
     - id: 2
       name: select_style
-      label: Select Style
+      label: Preferred uniform style
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Button-Down
       - Polo
@@ -25,7 +25,7 @@ inputSchema:
       required: false
     - id: 3
       name: select_color
-      label: Select Color
+      label: Preferred uniform color
       hint: null
       type: select_one
       options:
@@ -35,62 +35,62 @@ inputSchema:
       required: false
     - id: 4
       name: date_required
-      label: Date Required
+      label: Date required
       hint: null
       type: date
       options: []
       required: false
     - id: 5
       name: select_time
-      label: Select Time
+      label: Preferred delivery time
       hint: null
       type: time
       options: []
       required: false
     - id: 6
       name: note
-      label: Note
+      label: Additional notes
       hint: null
       type: note
       options: []
       required: false
     - id: 7
       name: email
-      label: Email
+      label: Email for follow-up
       hint: null
       type: email
       options: []
       required: false
     - id: 8
       name: phone
-      label: Phone
+      label: Phone number
       hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: select_one
-      label: Select One
+      label: Select one
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: select_multiple
-      label: Select Multiple
+      label: Select multiple
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: date
-      label: Date
+      label: Preferred delivery date
       hint: null
       type: date
       options: []
@@ -103,108 +103,53 @@ inputSchema:
       options: []
       required: false
     - id: 13
-      name: note
-      label: Note
+      name: note_2
+      label: Note 2
       hint: null
       type: note
       options: []
       required: false
     - id: 14
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 15
-      name: phone
-      label: Phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: select_one
-      label: Select One
+      name: select_one_2
+      label: Select One 2
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
-      name: select_multiple
-      label: Select Multiple
+      name: select_multiple_2
+      label: Select Multiple 2
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 18
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 22
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: select_one
-      label: Select One
+      name: select_size_2
+      label: Select Size 2
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 24
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: false
-    - id: 25
-      name: select_style
-      label: Select Style
-      hint: null
-      type: select_one
-      options:
-      - Button-Down
-      - Polo
-      - Scrubs
+      - Small
+      - Medium
+      - Large
       required: false

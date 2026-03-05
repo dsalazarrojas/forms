@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''Text Message''}'
+      - Email
+      - Phone
+      - Text Message
       required: false
     - id: 5
       name: notes
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''Text Message''}'
+      - Email
+      - Phone
+      - Text Message
       required: false
     - id: 10
       name: owner_communication_preferences
@@ -78,13 +78,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Send Updates and Announcements via Email'', ''hint'':
-        ''We will email updates and announcements regarding your property to this
-        email.''}'
-      - '{''id'': 2, ''label'': ''Send Updates and Announcements via Phone'', ''hint'':
-        ''We will text updates and announcements regarding your property to this phone.''}'
-      - '{''id'': 3, ''label'': ''Send No Updates and Announcements''}'
-      - '{''id'': 4, ''label'': ''Send Updates and Announcements via Text Message'',
-        ''hint'': ''We will send text updates and announcements regarding your property
-        to this phone.''}'
+      - Send Updates and Announcements via Email
+      - Send Updates and Announcements via Phone
+      - Send No Updates and Announcements
+      - Send Updates and Announcements via Text Message
       required: false

@@ -4,187 +4,96 @@ inputSchema:
     title: External Factor Record Form
     pages:
     - id: 1
-      name: external_factor_record_form_1
-      label: political
+      name: political_factor_1
+      label: Is the external factor political in nature?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
-      name: political_1
-      label: political_1
+      name: economic_value
+      label: What is the economic value of the external factor?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: economic_1
-      label: economic_1
+      name: social_impact
+      label: What is the social impact of the external factor?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: social_1
-      label: social_1
+      name: technological_factor_1
+      label: Is the external factor technological in nature?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 5
-      name: technological_1
-      label: technological_1
+      name: environmental_factor_1
+      label: Is the external factor environmental in nature?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 6
-      name: legal_1
-      label: legal_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: environmental_1
-      label: environmental_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: threat_1
-      label: Threat
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 9
-      name: risk_level_1
-      label: Risk Level
+      name: threat_level
+      label: What is the risk level of the external factor?
       hint: null
       type: select_one
       options:
       - High
       - Low
-      required: false
-    - id: 10
-      name: description_1
-      label: Description
+      required: true
+    - id: 7
+      name: description
+      label: Please provide a brief description of the external factor.
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: impact_1
-      label: Impact
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: likelihood_1
-      label: Likelihood
+      required: true
+    - id: 8
+      name: impact
+      label: Does the external factor have an impact on our organization?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 13
+      required: true
+    - id: 9
+      name: likelihood
+      label: How likely is the external factor to occur?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
       name: mitigation_1
-      label: Mitigation
+      label: What are the potential mitigation strategies for the external factor?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: impact_2
-      label: Impact
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: impact_2_1
-      label: Financial Loss
+      required: true
+    - id: 11
+      name: likelihood_2
+      label: Likelihood (1-6)
       hint: null
       type: number
       options: []
-      required: false
-    - id: 16
-      name: impact_2_2
-      label: Business Reputation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: likelihood_2_1
-      label: Likelihood 1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: likelihood_2_2
-      label: Likelihood 2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: likelihood_2_3
-      label: Likelihood 3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: likelihood_2_4
-      label: Likelihood 4
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: likelihood_2_5
-      label: Likelihood 5
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: likelihood_2_6
-      label: Likelihood 6
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
+      required: true
+    - id: 12
       name: mitigation_2
-      label: Mitigation
+      label: Potential Mitigation Strategies
       hint: null
       type: text
       options: []
-      required: false
-    - id: 24
-      name: mitigation_3
-      label: Mitigation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: mitigation_4
-      label: Mitigation
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

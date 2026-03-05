@@ -4,83 +4,140 @@ inputSchema:
     title: Corporate Internal Communication Effectiveness Survey
     pages:
     - id: 1
-      name: corporate_internal_communication_effectiveness_survey_page_1
-      label: Communication Effectiveness
-      hint: null
-      type: select_multiple
+      name: communication_effectiveness
+      label: How would you rate the overall effectiveness of internal communication
+        in the company?
+      hint: Rate the effectiveness of internal communication
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 2
-      name: corporate_internal_communication_effectiveness_survey_page_2
-      label: Frequency of Communication
-      hint: null
+      name: frequency_of_feedback
+      label: How often do you receive feedback from your supervisor?
+      hint: Rate the frequency of feedback you receive
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
     - id: 3
-      name: corporate_internal_communication_effectiveness_survey_page_3
-      label: Communication Channels
-      hint: null
+      name: channels_used
+      label: Which of the following channels do you most frequently use to receive
+        company information?
+      hint: Select the channel you most frequently use
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
     - id: 4
-      name: corporate_internal_communication_effectiveness_survey_page_4
-      label: Communication Style
-      hint: null
+      name: communication_style
+      label: How would you rate the communication style of the company's management?
+      hint: Rate the transparency of company management
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
     - id: 5
-      name: corporate_internal_communication_effectiveness_survey_page_5
-      label: Communication Effectiveness
-      hint: null
+      name: types_of_info
+      label: Which of the following types of information do you most frequently receive
+        from the company?
+      hint: Select the type of information you most frequently receive
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
     - id: 6
-      name: corporate_internal_communication_effectiveness_survey_page_6
-      label: Information Flow
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: corporate_internal_communication_effectiveness_survey_page_7
-      label: Frequency of Communication
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: corporate_internal_communication_effectiveness_survey_page_8
-      label: Communication Channels
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: corporate_internal_communication_effectiveness_survey_page_9
-      label: Communication Style
-      hint: null
+      name: overall_satisfaction
+      label: How would you rate your overall satisfaction with internal communication
+        in the company?
+      hint: Rate your overall satisfaction
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 7
+      name: questions_concerns
+      label: How often do you feel that your questions and concerns are addressed
+        by the company?
+      hint: Rate the frequency of questions and concerns addressed
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 8
+      name: timeliness_of_info
+      label: How would you rate the timeliness of information provided by the company?
+      hint: Rate the timeliness of company information
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 9
+      name: channels_used_for_feedback
+      label: Which of the following channels do you most frequently use to ask questions
+        or provide feedback to the company?
+      hint: Select the channel you most frequently use
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 10
+      name: clarity_of_info
+      label: How would you rate the clarity of information provided by the company?
+      hint: Rate the clarity of company information
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: true
+    - id: 11
+      name: comments
+      label: Do you have any additional comments or suggestions regarding internal
+        communication in the company?
+      hint: Provide any additional comments or suggestions
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: other_comments
+      label: Any other comments or suggestions for the company?
+      hint: Provide any other comments or suggestions
+      type: text
+      options: []
+      required: true

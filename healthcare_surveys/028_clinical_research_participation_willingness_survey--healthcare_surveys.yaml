@@ -101,7 +101,7 @@ inputSchema:
       options:
       - Yes Private
       - Yes Government Medicare or Medicaid
-      - false
+      - 'False'
       - Prefer not to say
       required: false
     - id: 12
@@ -110,8 +110,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: chronic_conditions
@@ -121,7 +121,7 @@ inputSchema:
       options:
       - Yes One
       - Yes Multiple
-      - false
+      - 'False'
       - Prefer not to say
       required: true
     - id: 14
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 16
       name: medication_details
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: previous_experience_details
@@ -306,8 +306,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 30
       name: additional_comments

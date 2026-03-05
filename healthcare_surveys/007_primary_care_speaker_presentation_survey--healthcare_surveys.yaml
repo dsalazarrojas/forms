@@ -4,206 +4,81 @@ inputSchema:
     title: Primary Care Speaker Presentation Survey
     pages:
     - id: 1
-      name: speaker_id
-      label: Speaker
+      name: speaker_experience
+      label: Overall Experience with Speaker
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 2
-      name: speaker_name
-      label: Speaker Name
+      name: speaker_comments
+      label: Additional Comments about Speaker
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: topic_id
-      label: Topic
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 4
-      name: topic_name
-      label: Topic
+      name: speaker_additional_comments
+      label: Other Feedback about Speaker
       hint: null
       type: text
       options: []
       required: false
+    - id: 4
+      name: topic_rating
+      label: How would you rate this topic?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 5
-      name: session_id
-      label: Session
+      name: topic_comments
+      label: Additional Comments about Topic
       hint: null
-      type: number
+      type: text
       options: []
-      required: true
+      required: false
     - id: 6
-      name: session_rating
-      label: Session Rating
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 7
-      name: rating_1
-      label: '1'
+      name: session_experience
+      label: Overall Experience with Session
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: session_comments
+      label: Additional Comments about Session
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 8
-      name: comments
-      label: Comments
+      name: overall_rating
+      label: Overall Experience with Presentation
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
     - id: 9
-      name: speaker_additional_comments
-      label: Speaker Additional Comments
+      name: other_feedback
+      label: Other Feedback about Presentation
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: topic_additional_comments
-      label: Topic Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: session_additional_comments
-      label: Session Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: rating_2
-      label: Rating
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 13
-      name: rating_3
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 14
-      name: rating_4
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 15
-      name: rating_5
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 16
-      name: rating_6
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 17
-      name: rating_7
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 18
-      name: rating_8
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 19
-      name: rating_9
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 20
-      name: rating_10
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 21
-      name: rating_11
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 22
-      name: rating_12
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 23
-      name: rating_13
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 24
-      name: rating_14
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true
-    - id: 25
-      name: rating_15
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      required: true

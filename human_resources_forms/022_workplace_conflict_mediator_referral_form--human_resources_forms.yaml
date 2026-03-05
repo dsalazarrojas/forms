@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Human Resources''}'
-      - '{''id'': 2, ''label'': ''Management''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Human Resources
+      - Management
+      - Other
       required: false
     - id: 3
       name: conflict_type
@@ -37,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Performance''}'
-      - '{''id'': 2, ''label'': ''Personal''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Performance
+      - Personal
+      - Other
       required: false
     - id: 4
       name: description
@@ -54,8 +43,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Non-Manager''}'
+      - Manager
+      - Non-Manager
       required: false
     - id: 6
       name: employee_status
@@ -63,9 +52,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Retired''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Active
+      - Retired
+      - Other
       required: false
     - id: 7
       name: conflict_severity
@@ -73,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Minor''}'
-      - '{''id'': 2, ''label'': ''Moderate''}'
-      - '{''id'': 3, ''label'': ''Severe''}'
+      - Minor
+      - Moderate
+      - Severe
       required: false
     - id: 8
       name: resolution_outcome
@@ -83,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Success''}'
-      - '{''id'': 2, ''label'': ''Partial Success''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Success
+      - Partial Success
+      - None
       required: false
     - id: 9
       name: employee_supervisor
@@ -93,8 +82,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Manager
+      - Other
       required: false
     - id: 10
       name: conflict_duration
@@ -102,10 +91,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than a month''}'
-      - '{''id'': 2, ''label'': ''1-3 months''}'
-      - '{''id'': 3, ''label'': ''3-6 months''}'
-      - '{''id'': 4, ''label'': ''6+ months''}'
+      - Less than a month
+      - 1-3 months
+      - 3-6 months
+      - 6+ months
       required: false
     - id: 11
       name: conflict_frequency
@@ -113,8 +102,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Single Incident''}'
-      - '{''id'': 2, ''label'': ''Recurring''}'
+      - Single Incident
+      - Recurring
       required: false
     - id: 12
       name: conflict_cause
@@ -122,10 +111,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Communication Issues''}'
-      - '{''id'': 2, ''label'': ''Trust Issues''}'
-      - '{''id'': 3, ''label'': ''Performance Issues''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Communication Issues
+      - Trust Issues
+      - Performance Issues
+      - Other
       required: false
     - id: 13
       name: mediation_services
@@ -133,9 +122,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Individual Coaching''}'
-      - '{''id'': 2, ''label'': ''Team Coaching''}'
-      - '{''id'': 3, ''label'': ''None''}'
+      - Individual Coaching
+      - Team Coaching
+      - None
       required: false
     - id: 14
       name: employee_referral_date
@@ -185,8 +174,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Manager
+      - Other
       required: false
     - id: 21
       name: submitted_by_manager_name
@@ -201,8 +190,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Human Resources''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Human Resources
+      - Other
       required: false
     - id: 23
       name: submitted_by_position
@@ -210,8 +199,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Manager
+      - Other
       required: false
     - id: 24
       name: submitted_by_supervisor
@@ -219,8 +208,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Manager
+      - Other
       required: false
     - id: 25
       name: submitted_by_employee_name

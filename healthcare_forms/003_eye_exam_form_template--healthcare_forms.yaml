@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Doctor'', ''value'': ''doctor''}'
-      - '{''id'': 2, ''label'': ''Nurse'', ''value'': ''nurse''}'
-      - '{''id'': 3, ''label'': ''Optometrist'', ''value'': ''optometrist''}'
+      - Doctor
+      - Nurse
+      - Optometrist
       required: false
     - id: 5
       name: eye_condition_1
@@ -40,11 +40,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Normal'', ''value'': ''normal''}'
-      - '{''id'': 2, ''label'': ''Problem 1'', ''value'': ''problem_1''}'
-      - '{''id'': 3, ''label'': ''Problem 2'', ''value'': ''problem_2''}'
-      - '{''id'': 4, ''label'': ''Problem 3'', ''value'': ''problem_3''}'
-      - '{''id'': 5, ''label'': ''Problem 4'', ''value'': ''problem_4''}'
+      - Normal
+      - Problem 1
+      - Problem 2
+      - Problem 3
+      - Problem 4
       required: false
     - id: 6
       name: prophets
@@ -52,8 +52,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Doctor'', ''value'': ''doctor''}'
-      - '{''id'': 2, ''label'': ''Nurse'', ''value'': ''nurse''}'
+      - Doctor
+      - Nurse
       required: false
     - id: 7
       name: patient_id
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Doctor'', ''value'': ''doctor''}'
-      - '{''id'': 2, ''label'': ''Nurse'', ''value'': ''nurse''}'
-      - '{''id'': 3, ''label'': ''Optometrist'', ''value'': ''optometrist''}'
+      - Doctor
+      - Nurse
+      - Optometrist
       required: false
     - id: 9
       name: phone

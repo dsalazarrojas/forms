@@ -15,65 +15,65 @@ inputSchema:
     title: Cybersecurity Incident Form
     pages:
     - id: 1
-      name: incident_form_page_1
-      label: Incident Report
+      name: incident_info
+      label: Incident Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: incident_form_page_2
-      label: Breach Information
+      name: incident_type
+      label: Type of Incident
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: incident_form_page_3
-      label: Response Information
+      name: incident_impact
+      label: Incident Impact
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: incident_form_page_4
-      label: Remediation Information
+      name: reporting_person
+      label: Reporting Person
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: incident_form_page_5
-      label: Review and Submit
+      name: reporting_person_contact
+      label: Reporting Person's Contact Info
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: incident_form_page_6
-      label: Breach Information
+      name: affected_systems
+      label: Affected Systems/Devices
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: incident_form_page_7
-      label: Response Information
+      name: breach_details
+      label: Breach Details
       hint: null
-      type: text
+      type: note
       options: []
-      required: false
+      required: true
     - id: 8
-      name: incident_form_page_8
-      label: Remediation Information
+      name: response_actions
+      label: Response Actions Taken
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: incident_form_page_9
+      name: review_and_submit
       label: Review and Submit
       hint: null
       type: text
       options: []
-      required: false
+      required: true

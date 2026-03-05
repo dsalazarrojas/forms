@@ -29,169 +29,55 @@ inputSchema:
       options: []
       required: false
     - id: 3
-      name: transfer_location
-      label: location
+      name: transfer_details
+      label: Transfer Details
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: date_of_transfer
-      label: date_of_transfer
-      hint: mm/dd/yyyy
-      type: date
+      name: facility_info
+      label: Facility Information
+      hint: null
+      type: text
       options: []
       required: false
     - id: 5
-      name: time_of_transfer
-      label: time_of_transfer
-      hint: "hh:mm AM/PM"
-      type: time
+      name: transfer_status
+      label: Transfer Status
+      hint: null
+      type: text
       options: []
       required: false
     - id: 6
-      name: patient_status
-      label: patient_status
+      name: transfer_reason
+      label: Transfer Reason
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 7
-      name: healthcare_provider
-      label: healthcare_provider
+      name: transfer_type
+      label: Transfer Type
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: patient_transfer_reason
-      label: patient_transfer_reason
+      name: facility_id
+      label: Transfer Facility ID
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: transfer_details
-      label: transfer_details
+      name: transfer_notes
+      label: Transfer Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: facility_name
-      label: facility_name
-      hint: null
-      type: select_one
-      options:
-      - option 1
-      - option 2
-      - option 3
-      required: true
-    - id: 11
-      name: transfer_facility_id
-      label: transfer_facility_id
-      hint: null
-      type: select_one
-      options:
-      - option 1
-      - option 2
-      - option 3
-      required: true
-    - id: 12
-      name: facility_name_other
-      label: facility_name_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: transfer_facility_id_other
-      label: transfer_facility_id_other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: transfer_facility_id_other_text
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: facility_name_transfer_type
-      label: facility_name_transfer_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: facility_name_urgent
-      label: facility_name_urgent
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: facility_name_urgent_reason
-      label: facility_name_urgent_reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: patient_transfer_reason
-      label: patient_transfer_reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: patient_transfer_reason_text
-      label: reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: facility_name_urgent_reason
-      label: reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: patient_transfer_type
-      label: patient_transfer_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: transfer_facility_id
-      label: transfer_facility_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: transfer_status
-      label: transfer_status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: transfer_notes
-      label: transfer_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: submit
       label: Submit
       hint: null

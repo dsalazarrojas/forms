@@ -20,7 +20,7 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: date_of_inspection
       label: Date of Inspection
@@ -32,201 +32,116 @@ inputSchema:
       name: fire_stations
       label: Fire Stations
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - Station 1
       - Station 2
       - Station 3
       required: true
     - id: 4
-      name: fire_stations
-      label: Fire Stations
+      name: fire_extinguishers
+      label: Fire Extinguishers
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Station 1
-      - Station 2
-      - Station 3
+      - Type 1
+      - Type 2
+      - Type 3
       required: true
     - id: 5
-      name: fire_extinguishers
-      label: Fire Extinguishers
+      name: fire_hydrants
+      label: Fire Hydrants
       hint: null
       type: select_one
       options:
-      - Type 1
-      - Type 2
-      - Type 3
+      - Hydrant 1
+      - Hydrant 2
+      - Hydrant 3
       required: true
     - id: 6
-      name: fire_extinguishers
-      label: Fire Extinguishers
+      name: fire_alarm_system
+      label: Fire Alarm System
       hint: null
       type: select_multiple
       options:
-      - Type 1
-      - Type 2
-      - Type 3
+      - System 1
+      - System 2
+      - System 3
       required: true
     - id: 7
-      name: fire_hydrants
-      label: Fire Hydrants
+      name: emergency_exit_paths
+      label: Emergency Exit Paths
       hint: null
       type: select_one
       options:
-      - Hydrant 1
-      - Hydrant 2
-      - Hydrant 3
-      required: false
+      - Path 1
+      - Path 2
+      - Path 3
+      required: true
     - id: 8
-      name: fire_hydrants
-      label: Fire Hydrants
+      name: emergency_exit_signs
+      label: Emergency Exit Signs
       hint: null
       type: select_multiple
       options:
-      - Hydrant 1
-      - Hydrant 2
-      - Hydrant 3
-      required: false
+      - Sign 1
+      - Sign 2
+      - Sign 3
+      required: true
     - id: 9
-      name: fire_alarm_system
-      label: Fire Alarm System
+      name: emergency_contact_info
+      label: Emergency Contact Info
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - System 1
-      - System 2
-      - System 3
+      - Contact 1
+      - Contact 2
+      - Contact 3
       required: true
     - id: 10
-      name: fire_alarm_system
-      label: Fire Alarm System
-      hint: null
-      type: select_multiple
-      options:
-      - System 1
-      - System 2
-      - System 3
-      required: true
-    - id: 11
-      name: emergency_exit_paths
-      label: Emergency Exit Paths
-      hint: null
-      type: select_one
-      options:
-      - Path 1
-      - Path 2
-      - Path 3
-      required: false
-    - id: 12
-      name: emergency_exit_paths
-      label: Emergency Exit Paths
-      hint: null
-      type: select_multiple
-      options:
-      - Path 1
-      - Path 2
-      - Path 3
-      required: false
-    - id: 13
-      name: emergency_exit_signs
-      label: Emergency Exit Signs
-      hint: null
-      type: select_one
-      options:
-      - Sign 1
-      - Sign 2
-      - Sign 3
-      required: true
-    - id: 14
-      name: emergency_exit_signs
-      label: Emergency Exit Signs
-      hint: null
-      type: select_multiple
-      options:
-      - Sign 1
-      - Sign 2
-      - Sign 3
-      required: true
-    - id: 15
-      name: fire_safety_plan
-      label: Fire Safety Plan
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: fire_safety_plan
-      label: Fire Safety Plan
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: emergency_contact_info
-      label: Emergency Contact Info
-      hint: null
-      type: select_one
-      options:
-      - Contact 1
-      - Contact 2
-      - Contact 3
-      required: true
-    - id: 18
-      name: emergency_contact_info
-      label: Emergency Contact Info
-      hint: null
-      type: select_multiple
-      options:
-      - Contact 1
-      - Contact 2
-      - Contact 3
-      required: false
-    - id: 19
       name: inspection_date
       label: Inspection Date
       hint: null
       type: date
       options: []
       required: true
-    - id: 20
+    - id: 11
       name: inspection_time
       label: Inspection Time
       hint: null
       type: time
       options: []
       required: true
-    - id: 21
-      name: inspector_name
-      label: Inspector Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: inspector_name
-      label: Inspector Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
+    - id: 12
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 24
-      name: comments
-      label: Comments
+    - id: 13
+      name: emergency_exit_paths_2
+      label: Emergency Exit Paths 2
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Path 1
+      - Path 2
+      - Path 3
       required: false
-    - id: 25
-      name: comments
-      label: Comments
+    - id: 14
+      name: emergency_exit_signs_2
+      label: Emergency Exit Signs 2
+      hint: null
+      type: select_multiple
+      options:
+      - Sign 1
+      - Sign 2
+      - Sign 3
+      required: false
+    - id: 15
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []

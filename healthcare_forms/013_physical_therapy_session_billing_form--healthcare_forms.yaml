@@ -37,9 +37,9 @@ inputSchema:
       hint: Credit or Debit
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''credit'', ''label'': ''Credit''}'
-      - '{''id'': 2, ''name'': ''debit'', ''label'': ''Debit''}'
-      - '{''id'': 3, ''name'': ''cash'', ''label'': ''Cash''}'
+      - Credit
+      - Debit
+      - Cash
       required: false
     - id: 6
       name: payment_amount
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''paid'', ''label'': ''Paid''}'
-      - '{''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 3, ''name'': ''declined'', ''label'': ''Declined''}'
+      - Paid
+      - Pending
+      - Declined
       required: false
     - id: 8
       name: notes

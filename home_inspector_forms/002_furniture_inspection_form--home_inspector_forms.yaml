@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: seller_info
-      label: Seller information
+      label: Seller Information
       hint: null
       type: text
       options: []
@@ -14,179 +14,126 @@ inputSchema:
       name: condition
       label: Condition
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 3
-      name: type
-      label: Type of furniture
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
       name: material
       label: Material
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Wood
+      - Metal
+      - Fabric
+      - Other
+      required: false
+    - id: 4
+      name: price_info
+      label: Price and Date Received
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 5
-      name: damage
-      label: Damage
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: price
-      label: Price
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
       name: location
       label: Location
       hint: null
       type: text
       options: []
       required: false
-    - id: 8
+    - id: 6
       name: description
       label: Description
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: date_inspected
-      label: Date inspected
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: inspector_info
-      label: Inspector information
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
       name: comments
       label: Comments
       hint: null
-      type: note
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_inspected
+      label: Date Inspected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_inspected
+      label: Time Inspected
+      hint: null
+      type: time
       options: []
       required: false
     - id: 12
-      name: images
-      label: Images
+      name: other_info
+      label: Other Information
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: signature
-      label: Signature
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: none
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: none_2
+      label: None 2
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 14
-      name: other_info
-      label: Other information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: date_received
-      label: Date received
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 16
-      name: contact_info
-      label: Contact information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: none
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: none
-      label: None
+      name: none_3
+      label: None 3
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 19
-      name: none
-      label: None
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: none
-      label: None
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: none
-      label: None
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: none
-      label: None
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: none
-      label: None
+    - id: 17
+      name: none_4
+      label: None 4
       hint: null
       type: time
       options: []
       required: false
-    - id: 24
-      name: none
-      label: None
+    - id: 18
+      name: none_5
+      label: None 5
       hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: none
-      label: None
-      hint: null
-      type: text
+      type: number
       options: []
       required: false

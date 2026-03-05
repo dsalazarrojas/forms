@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Gaming''}'
-      - '{''value'': ''Non-Gaming''}'
+      - Gaming
+      - Non-Gaming
       required: true
     - id: 4
       name: attendee_name
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Card''}'
-      - '{''value'': ''PayPal''}'
-      - '{''value'': ''Bank Transfer''}'
+      - Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 8
       name: payment_amount
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Paid''}'
-      - '{''value'': ''Pending''}'
+      - Paid
+      - Pending
       required: true
     - id: 17
       name: payment_status_message
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Registered''}'
-      - '{''value'': ''Not Registered''}'
+      - Registered
+      - Not Registered
       required: true
     - id: 20
       name: registration_note

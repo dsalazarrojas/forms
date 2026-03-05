@@ -5,21 +5,21 @@ inputSchema:
     pages:
     - id: 1
       name: medical_history_1
-      label: Medical History
+      label: What is your medical history?
       hint: null
       type: note
       options: []
       required: true
     - id: 2
       name: temperature_check_1
-      label: Temperature Check
+      label: What is your current temperature?
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: symptoms_1
-      label: Symptoms
+      label: What symptoms do you currently experience?
       hint: null
       type: select_multiple
       options:
@@ -28,22 +28,22 @@ inputSchema:
       - Sore Throat
       required: false
     - id: 4
-      name: contact_info_1
-      label: Contact Info
+      name: patient_info_1
+      label: What is your contact information?
       hint: null
       type: email
       options: []
       required: true
     - id: 5
       name: medical_history_2
-      label: Medical History
+      label: Do you have any known medical conditions?
       hint: null
       type: number
       options: []
       required: true
     - id: 6
       name: symptoms_2
-      label: Symptoms
+      label: How do you describe your current symptoms?
       hint: null
       type: select_multiple
       options:
@@ -51,142 +51,29 @@ inputSchema:
       - Fatigue
       required: false
     - id: 7
-      name: contact_info_2
-      label: Contact Info
+      name: patient_info_2
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: true
     - id: 8
-      name: medical_history_3
-      label: Medical History
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: symptoms_3
-      label: Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - Rash
-      - Runny Nose
-      - Coughing
-      required: false
-    - id: 10
-      name: contact_info_3
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: medical_history_4
-      label: Medical History
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: symptoms_4
-      label: Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - Confusion
-      - Muscle Aches
-      - Diarrhea
-      required: false
-    - id: 13
-      name: contact_info_4
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: medical_history_5
-      label: Medical History
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: symptoms_5
-      label: Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - Confusion
-      - Muscle Aches
-      required: false
-    - id: 16
-      name: contact_info_5
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
       name: test_results_1
-      label: Test Results
+      label: When were your test results available?
       hint: null
       type: date
       options: []
       required: true
-    - id: 18
+    - id: 9
       name: test_results_2
-      label: Test Results
+      label: What are your test results?
       hint: null
       type: date
       options: []
       required: true
-    - id: 19
+    - id: 10
       name: test_results_3
-      label: Test Results
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: test_results_4
-      label: Test Results
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 21
-      name: test_results_5
-      label: Test Results
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: test_results_6
-      label: Test Results
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: test_results_7
-      label: Test Results
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: test_results_8
-      label: Test Results
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: test_results_9
-      label: Test Results
+      label: Test Results 3
       hint: null
       type: date
       options: []

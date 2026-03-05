@@ -9,32 +9,35 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: job_type
       label: Job Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Full-time
+      - Part-time
+      required: true
     - id: 3
       name: job_description
       label: Job Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: job_category
       label: Job Category
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Sales
+      - Marketing
+      - IT
+      - Finance
+      - Human Resources
+      required: true
     - id: 5
       name: job_status
       label: Job Status
@@ -43,7 +46,7 @@ inputSchema:
       options:
       - Active
       - Inactive
-      required: false
+      required: true
     - id: 6
       name: job_level
       label: Job Level
@@ -52,151 +55,51 @@ inputSchema:
       options:
       - High
       - Low
-      required: false
+      required: true
     - id: 7
       name: work_experience
       label: Work Experience
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 8
-      name: years_of_experience
-      label: Years of Experience
+      name: education_level
+      label: Education Level
       hint: null
-      type: number
-      options: []
-      required: false
+      type: select_one
+      options:
+      - High School
+      - Bachelor's Degree
+      - Master's Degree
+      required: true
     - id: 9
-      name: education
-      label: Education
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: education_level
-      label: Education Level
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Low
-      required: false
-    - id: 11
       name: skills
       label: Skills
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 10
       name: job_location
       label: Job Location
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 11
       name: job_location_type
       label: Job Location Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: job_type
-      label: Job Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: job_status
-      label: Job Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 16
-      name: job_level
-      label: Job Level
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Low
-      required: false
-    - id: 17
-      name: work_experience
-      label: Work Experience
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
+      - Remote
+      - On-site
+      required: true
+    - id: 12
       name: years_of_experience
       label: Years of Experience
       hint: null
       type: number
       options: []
-      required: false
-    - id: 19
-      name: education
-      label: Education
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: education_level
-      label: Education Level
-      hint: null
-      type: select_one
-      options:
-      - High
-      - Low
-      required: false
-    - id: 21
-      name: skills
-      label: Skills
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: job_location
-      label: Job Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: job_location_type
-      label: Job Location Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: job_type
-      label: Job Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: job_status
-      label: Job Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
+      required: true

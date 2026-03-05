@@ -5,74 +5,88 @@ inputSchema:
     pages:
     - id: 1
       name: drainage_survey_1
-      label: drainage_survey_1
+      label: Drainage System Status
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: drainage_survey_2
-      label: what_is_the_drainage_system_status
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
       - Active
       - Inactive
       required: false
+    - id: 2
+      name: drainage_survey_2
+      label: Is there a leak in the drainage system?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
     - id: 3
       name: drainage_survey_3
-      label: is_there_a_leak
+      label: Is there an obstruction in the drainage system?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 4
       name: drainage_survey_4
-      label: what_is_the_current_status_of_the_drainage_system
+      label: Current status of the drainage system
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: drainage_survey_5
-      label: is_there_an_obstruction
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: drainage_survey_6
-      label: what_is_the_current_status_of_the_drainage_system
+      label: Type of drainage system used
       hint: null
       type: text
       options: []
       required: false
+    - id: 6
+      name: drainage_survey_6
+      label: Drainage system inspection notes
+      hint: null
+      type: note
+      options: []
+      required: false
     - id: 7
       name: drainage_survey_7
-      label: is_there_an_obstruction
+      label: Drainage system inspection date
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: date
+      options: []
       required: false
     - id: 8
       name: drainage_survey_8
-      label: is_there_an_obstruction
+      label: Drainage system inspection time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: drainage_survey_9
+      label: Is there any other issue with the drainage system?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 9
-      name: drainage_survey_9
-      label: what_is_the_drainage_system_used
+    - id: 10
+      name: drainage_survey_10
+      label: Any other comments about the drainage system?
       hint: null
       type: text
       options: []
+      required: false
+    - id: 11
+      name: drainage_survey_11
+      label: Is the drainage system properly maintained?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false

@@ -4,7 +4,7 @@ inputSchema:
     title: Sleep Deprivation Survey
     pages:
     - id: 1
-      name: survey_header
+      name: header_page
       label: Sleep Deprivation Survey
       hint: null
       type: note
@@ -19,14 +19,7 @@ inputSchema:
       options: []
       required: false
     - id: 3
-      name: survey_header
-      label: Sleep Deprivation Survey
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 4
-      name: how_do_you_sleep
+      name: sleep_duration
       label: How do you sleep?
       hint: null
       type: select_multiple
@@ -35,19 +28,8 @@ inputSchema:
       - Afternoon
       - Late
       required: true
-    - id: 5
-      name: how_do_you_sleep
-      label: How do you sleep?
-      hint: null
-      type: select_one
-      options:
-      - 8 hours or less
-      - 9-11 hours
-      - 11-13 hours
-      - More than 13 hours
-      required: true
-    - id: 6
-      name: how_long_do_you_sleep
+    - id: 4
+      name: sleep_length
       label: How long do you sleep?
       hint: null
       type: select_one
@@ -57,8 +39,8 @@ inputSchema:
       - 6-8 hours
       - More than 8 hours
       required: true
-    - id: 7
-      name: do_you_have_tiredness
+    - id: 5
+      name: tiredness
       label: Do you have tiredness?
       hint: null
       type: select_multiple
@@ -68,25 +50,16 @@ inputSchema:
       - Memory problems
       - Mood changes
       required: true
-    - id: 8
-      name: do_you_have_tiredness
-      label: Do you have tiredness?
-      hint: null
-      type: select_one
-      options:
-      - 'True'
-      - 'False'
-      required: true
-    - id: 9
-      name: how_much_do_you_sleep
+    - id: 6
+      name: sleep_quantity
       label: How much do you sleep?
       hint: null
       type: number
       options: []
       required: true
-    - id: 10
-      name: do_you_sleep
-      label: Do you sleep?
+    - id: 7
+      name: sleep_timing
+      label: Do you usually sleep?
       hint: null
       type: select_one
       options:
@@ -95,50 +68,17 @@ inputSchema:
       - Rarely
       - Never
       required: true
-    - id: 11
-      name: do_you_sleep
-      label: Do you sleep?
-      hint: null
-      type: select_multiple
-      options:
-      - Every day
-      - 2-3 times a week
-      - 1 time a week
-      - Rarely
-      required: true
-    - id: 12
-      name: wake_up_at
+    - id: 8
+      name: wake_up_time
       label: What time do you wake up?
       hint: null
       type: time
       options: []
       required: true
-    - id: 13
-      name: wake_up_at
-      label: What time do you wake up?
-      hint: null
-      type: select_one
-      options:
-      - 6:00 AM
-      - 7:00 AM
-      - 8:00 AM
-      - 9:00 AM
-      required: true
-    - id: 14
-      name: bed_time
+    - id: 9
+      name: bedtime
       label: What time do you go to bed?
       hint: null
       type: time
       options: []
-      required: true
-    - id: 15
-      name: bed_time
-      label: What time do you go to bed?
-      hint: null
-      type: select_one
-      options:
-      - 11:00 PM
-      - 10:00 PM
-      - 9:00 PM
-      - 8:00 PM
       required: true

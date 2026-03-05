@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Marketing''}'
-      - '{''id'': 2, ''name'': ''Sales''}'
-      - '{''id'': 3, ''name'': ''Human Resources''}'
+      - Marketing
+      - Sales
+      - Human Resources
       required: false
     - id: 4
       name: employee_name
@@ -45,7 +45,7 @@ inputSchema:
       required: false
     - id: 6
       name: job_title_2
-      label: Job Title
+      label: Job Title 2
       hint: null
       type: select_one
       options:
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''A''}'
-      - '{''id'': 2, ''name'': ''B''}'
-      - '{''id'': 3, ''name'': ''C''}'
+      - A
+      - B
+      - C
       required: false
     - id: 9
       name: prophets
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Junior''}'
-      - '{''id'': 2, ''name'': ''Senior''}'
-      - '{''id'': 3, ''name'': ''Manager''}'
+      - Junior
+      - Senior
+      - Manager
       required: false
     - id: 12
       name: work_type
@@ -101,10 +101,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full-time''}'
-      - '{''id'': 2, ''name'': ''Part-time''}'
+      - Full-time
+      - Part-time
       - id:ประก prophets is incorrect field name and type
-      - '{''id'': 3, ''name'': ''Contract''}'
+      - Contract
       required: false
     - id: 13
       name: satisfaction
@@ -165,7 +165,7 @@ inputSchema:
       required: false
     - id: 20
       name: job_title_3
-      label: Job Title
+      label: Job Title 3
       hint: null
       type: select_one
       options:
@@ -174,7 +174,7 @@ inputSchema:
       required: false
     - id: 21
       name: job_status_2
-      label: Job Status
+      label: Job Status 2
       hint: null
       type: select_one
       options:
@@ -183,7 +183,7 @@ inputSchema:
       required: false
     - id: 22
       name: prophets_2
-      label: Prophets
+      label: Prophets 2
       hint: null
       type: text
       options: []

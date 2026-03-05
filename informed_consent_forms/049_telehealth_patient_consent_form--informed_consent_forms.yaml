@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Patient Signature 1'', ''value'': ''patient_signature_1''}'
-      - '{''label'': ''Patient Signature 2'', ''value'': ''patient_signature_2''}'
+      - Patient Signature 1
+      - Patient Signature 2
       required: true
     - id: 5
       name: signature_section_input
@@ -76,7 +76,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Provider 1'', ''value'': ''provider_1''}'
+      - Provider 1
       - Other
       required: true
     - id: 11
@@ -95,14 +95,14 @@ inputSchema:
       required: false
     - id: 13
       name: date
-      label: Date
+      label: Date (2)
       hint: null
       type: date
       options: []
       required: true
     - id: 14
       name: time
-      label: Time
+      label: Time (2)
       hint: null
       type: time
       options: []
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I agree to the Terms and Conditions'', ''value'': True}'
-      - '{''label'': ''Not Agree'', ''value'': False}'
+      - I agree to the Terms and Conditions
+      - Not Agree
       required: true
     - id: 16
       name: patient_note
@@ -160,30 +160,30 @@ inputSchema:
       required: true
     - id: 22
       name: provider_signature_date
-      label: Date of Signature
+      label: Provider Signature Date
       hint: null
       type: date
       options: []
       required: true
     - id: 23
       name: provider_signature_time
-      label: Time of Signature
+      label: Provider Signature Time
       hint: null
       type: time
       options: []
       required: true
     - id: 24
       name: provider_agreed
-      label: I Have Agreed to the Terms and Conditions
+      label: Provider Agreed
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''I agree to the Terms and Conditions'', ''value'': True}'
-      - '{''label'': ''Not Agree'', ''value'': False}'
+      - I agree to the Terms and Conditions
+      - Not Agree
       required: true
     - id: 25
       name: provider_agreed_note
-      label: Notes
+      label: Provider Agreed Note
       hint: null
       type: text
       options: []

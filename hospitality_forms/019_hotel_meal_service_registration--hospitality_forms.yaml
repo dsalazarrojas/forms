@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5, ''name'': ''meal_preference_breakfast'', ''label'': ''Breakfast''}'
-      - '{''id'': 6, ''name'': ''meal_preference_lunch'', ''label'': ''Lunch''}'
-      - '{''id'': 7, ''name'': ''meal_preference_dinner'', ''label'': ''Dinner''}'
+      - Breakfast
+      - Lunch
+      - Dinner
       required: false
     - id: 5
       name: schedule_service
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''name'': ''service_type_english'', ''label'': ''English''}'
-      - '{''id'': 12, ''name'': ''service_type_spanish'', ''label'': ''Spanish''}'
-      - '{''id'': 13, ''name'': ''service_type_german'', ''label'': ''German''}'
+      - English
+      - Spanish
+      - German
       required: false
     - id: 8
       name: special_request
@@ -71,8 +71,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 16, ''name'': ''assigned_to_chatjimmy'', ''label'': ''Chatjimmy''}'
-      - '{''id'': 17, ''name'': ''assigned_to_john_doe'', ''label'': ''John Doe''}'
+      - Chatjimmy
+      - John Doe
       required: false
     - id: 10
       name: status
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 19, ''name'': ''status_in_progress'', ''label'': ''In progress''}'
-      - '{''id'': 20, ''name'': ''status_completed'', ''label'': ''Completed''}'
-      - '{''id'': 21, ''name'': ''status_pending'', ''label'': ''Pending''}'
+      - In progress
+      - Completed
+      - Pending
       required: false
     - id: 11
       name: note
@@ -97,6 +97,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 24, ''name'': ''confirmation_true'', ''label'': True}'
-      - '{''id'': 25, ''name'': ''confirmation_false'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

@@ -16,175 +16,88 @@ inputSchema:
     pages:
     - id: 1
       name: form_questions
-      label: form_questions
+      label: What's your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: bug_report
-      label: bug_report
+      name: issue_details
+      label: More details about the issue?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: feedback
-      label: feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
       name: email
-      label: email
-      hint: null
+      label: Email address
+      hint: Your email address is required for further correspondence
       type: text
       options: []
       required: true
-    - id: 5
+    - id: 4
       name: phone
-      label: phone
+      label: Phone number
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
+    - id: 5
       name: date_reported
-      label: date_reported
+      label: Date of reporting
       hint: null
-      type: text
+      type: date
       options: []
+      required: true
+    - id: 6
+      name: app_usage
+      label: How often do you use our app?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Sometimes
+      - Frequently
+      - Always
       required: false
     - id: 7
-      name: form_submission
-      label: form_submission
+      name: app_version
+      label: App version
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: product_version
-      label: product_version
+      name: operating_system
+      label: Operating system
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: operating_system
-      label: operating_system
+      name: device_info
+      label: Device information
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: app_version
-      label: app_version
+      name: form_submission
+      label: Additional comments
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 11
-      name: device_info
-      label: device_info
+      name: submitted_by
+      label: Submitted by
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: issue_details
-      label: issue_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: steps_to_reproduce
-      label: steps_to_reproduce
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: prophets
-      label: prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: submit
-      label: submit
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: email
-      label: email
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: date_reported
-      label: date_reported
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_submission
-      label: form_submission
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: product_version
-      label: product_version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: operating_system
-      label: operating_system
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: app_version
-      label: app_version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: device_info
-      label: device_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
       name: goals
-      label: goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submitted_by
-      label: submitted_by
+      label: What are your goals with our app?
       hint: null
       type: text
       options: []

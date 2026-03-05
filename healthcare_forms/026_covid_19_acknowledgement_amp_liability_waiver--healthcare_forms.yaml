@@ -103,7 +103,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Confirm
-      - false
+      - 'False'
       required: true
     - id: 15
       name: health_screening
@@ -113,7 +113,7 @@ inputSchema:
       options:
       - Yes - No symptoms
       - Yes - With symptoms disclosed
-      - false
+      - 'False'
       required: true
     - id: 16
       name: safety_protocols
@@ -122,7 +122,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 17
       name: liability_release
@@ -140,7 +140,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Assume
-      - false
+      - 'False'
       required: true
     - id: 19
       name: high_risk_acknowledgment
@@ -159,7 +159,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 21
       name: symptom_reporting
@@ -168,7 +168,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 22
       name: contact_tracing
@@ -177,7 +177,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 23
       name: policy_changes
@@ -186,7 +186,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 24
       name: minor_participant
@@ -194,8 +194,8 @@ inputSchema:
       hint: Under 18 years old
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: parent_guardian_name

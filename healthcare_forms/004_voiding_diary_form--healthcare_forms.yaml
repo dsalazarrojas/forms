@@ -5,176 +5,85 @@ inputSchema:
     pages:
     - id: 1
       name: general_info
-      label: general_info
-      hint: null
+      label: General Information
+      hint: Please provide your general information.
       type: text
       options: []
       required: true
     - id: 2
-      name: voiding_times
-      label: voiding_times
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: voiding_volumes
-      label: voiding_volumes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: postop_info
-      label: postop_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: additional_info
-      label: additional_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: date
-      label: date
-      hint: null
+      name: voiding_date
+      label: Date of Last Voiding Event
+      hint: The date of the last voiding event.
       type: date
       options: []
       required: true
-    - id: 7
-      name: time
-      label: time
-      hint: null
+    - id: 3
+      name: voiding_time
+      label: Time of Last Voiding Event
+      hint: The time of the last voiding event.
       type: time
       options: []
       required: true
-    - id: 8
+    - id: 4
       name: voiding_frequency
-      label: how_often
-      hint: null
+      label: Frequency of Voiding
+      hint: How often do you void.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: voiding_volume
+      label: Volume of Voiding
+      hint: The volume of the last voiding event.
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: postop_info
+      label: Post-operative Information
+      hint: Any information about your post-operative experience.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: postop_volumes
+      label: Post-operative Volumes
+      hint: The volume of voiding after surgery.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: voiding_frequency_postop
+      label: Post-operative Voiding Frequency
+      hint: How often do you void after surgery.
       type: text
       options: []
       required: true
     - id: 9
-      name: voiding_volume
-      label: urination_volume
-      hint: null
-      type: number
+      name: voiding_duration_postop
+      label: Post-operative Voiding Duration
+      hint: The duration of voiding after surgery.
+      type: text
       options: []
-      required: true
+      required: false
     - id: 10
-      name: postop_volumes
-      label: postop_volumes
-      hint: null
-      type: number
+      name: voiding_times_postop
+      label: Post-operative Times
+      hint: The times you void after surgery.
+      type: text
       options: []
       required: false
     - id: 11
-      name: postop_frequency
-      label: postop_frequency
-      hint: null
+      name: surgeon_info
+      label: Surgeon Information
+      hint: Name of the surgeon.
       type: text
       options: []
       required: false
     - id: 12
-      name: postop_duration
-      label: postop_duration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: voiding_frequency_preop
-      label: frequency_preop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: voiding_duration_preop
-      label: duration_preop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: voiding_times_preop
-      label: times_preop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: voiding_volumes_preop
-      label: volumes_preop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: voiding_frequency_postop
-      label: frequency_postop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: voiding_duration_postop
-      label: duration_postop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: voiding_times_postop
-      label: times_postop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: voiding_volumes_postop
-      label: volumes_postop
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: surgeon_name
-      label: surgeon_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: surgeon_name2
-      label: surgeon_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: surgeon_name3
-      label: surgeon_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: surgeon_name4
-      label: surgeon_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: submit
-      label: submit
-      hint: null
+      label: Submit
+      hint: Submit form.
       type: text
       options: []
       required: true

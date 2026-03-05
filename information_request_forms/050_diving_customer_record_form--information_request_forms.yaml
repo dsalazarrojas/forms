@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Scuba Diving''}'
-      - '{''label'': ''Snorkeling''}'
+      - Scuba Diving
+      - Snorkeling
       required: true
     - id: 5
       name: diving_location
@@ -46,11 +46,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''none''}'
-      - '{''label'': ''Open Water Diver''}'
-      - '{''label'': ''Advanced Open Water Diver''}'
-      - '{''label'': ''Rescue Diver''}'
-      - '{''label'': ''Dive Master''}'
+      - none
+      - Open Water Diver
+      - Advanced Open Water Diver
+      - Rescue Diver
+      - Dive Master
       required: true
     - id: 7
       name: number_of_dives
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''none''}'
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - none
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: medical_notes

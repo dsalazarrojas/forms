@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: visited_others
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Store 1''}'
-      - '{''id'': 2, ''name'': ''Store 2''}'
-      - '{''id'': 3, ''name'': ''Store 3''}'
+      - Store 1
+      - Store 2
+      - Store 3
       required: false
     - id: 4
       name: holiday_date
@@ -119,8 +119,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Bad''}'
+      - Good
+      - Bad
       required: false
     - id: 17
       name: holiday_experience_employees
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Friendly''}'
-      - '{''id'': 2, ''name'': ''Impolite''}'
-      - '{''id'': 3, ''name'': ''Not Polite''}'
+      - Friendly
+      - Impolite
+      - Not Polite
       required: false
     - id: 18
       name: holiday_experience_products
@@ -138,9 +138,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Bad''}'
-      - '{''id'': 3, ''name'': ''Not Available''}'
+      - Good
+      - Bad
+      - Not Available
       required: false
     - id: 19
       name: holiday_experience_products_suggestions
@@ -155,9 +155,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Affordable''}'
-      - '{''id'': 2, ''name'': ''Expensive''}'
-      - '{''id'': 3, ''name'': ''Not Available''}'
+      - Affordable
+      - Expensive
+      - Not Available
       required: false
     - id: 21
       name: holiday_experience_employees
@@ -165,9 +165,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Friendly''}'
-      - '{''id'': 2, ''name'': ''Impolite''}'
-      - '{''id'': 3, ''name'': ''Not Polite''}'
+      - Friendly
+      - Impolite
+      - Not Polite
       required: false
     - id: 22
       name: holiday_experience_parking
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Available''}'
-      - '{''id'': 2, ''name'': ''Not Available''}'
-      - '{''id'': 3, ''name'': ''Difficult to Find''}'
+      - Available
+      - Not Available
+      - Difficult to Find
       required: false
     - id: 23
       name: holiday_experience_facilities
@@ -185,9 +185,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Bad''}'
-      - '{''id'': 3, ''name'': ''Not Available''}'
+      - Good
+      - Bad
+      - Not Available
       required: false
     - id: 24
       name: holiday_experience_suggestion

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -30,208 +19,87 @@ inputSchema:
       required: false
     - id: 3
       name: medical_questionnaire_1
-      label: Do you have any medical conditions?
+      label: Have you taken any medication in the last 24 hours?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
-      name: medical_questionnaire_2
-      label: Have you taken any medication in the past 24 hours?
+      name: medical_conditions
+      label: Do you have any medical conditions?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - Yes (with diabetes)
+      - Yes (with allergies)
       required: false
     - id: 5
-      name: medical_questionnaire_3
-      label: Have you taken any medication in the last 24 hours?
+      name: contact_information
+      label: Contact Information
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      type: email
+      options: []
       required: false
     - id: 6
-      name: medical_questionnaire_4
-      label: Do you have any chronic conditions?
+      name: prescription_medications
+      label: Do you take any prescription medications?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - Yes (with medication X)
+      - Yes (with medication Y)
       required: false
     - id: 7
-      name: medical_questionnaire_5
-      label: Have you taken any medication in the last 24 hours?
+      name: supplements
+      label: Do you take any supplements?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - Yes (with vitamin X)
+      - Yes (with supplement Y)
       required: false
     - id: 8
-      name: medical_questionnaire_6
-      label: Have you taken any medication in the last 24 hours?
+      name: allergies
+      label: Do you have any allergies?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - Yes (food allergy)
+      - Yes (medication allergy)
       required: false
     - id: 9
-      name: medical_questionnaire_7
-      label: Have you taken any medication in the last 24 hours?
+      name: medical_procedures
+      label: Do you have any medical procedures or surgeries planned?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - Option A
+      - Option B
       required: false
     - id: 10
-      name: medical_questionnaire_8
-      label: Have you taken any medication in the last 24 hours?
+      name: medical_tests
+      label: Do you take any medical tests or screenings regularly?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - Yes (with blood test)
+      - Yes (with X-ray)
       required: false
     - id: 11
-      name: medical_questionnaire_9
-      label: Have you taken any medication in the last 24 hours?
+      name: mental_health
+      label: Do you take any medications for mental health?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - Yes (with medication X)
+      - Yes (with medication Y)
       required: false
     - id: 12
-      name: medical_questionnaire_10
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 13
-      name: medical_questionnaire_11
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 14
       name: medical_questionnaire_12
-      label: Have you taken any medication in the last 24 hours?
+      label: Medical Questionnaire
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 15
-      name: medical_questionnaire_13
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 16
-      name: medical_questionnaire_14
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 17
-      name: medical_questionnaire_15
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 18
-      name: medical_questionnaire_16
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 19
-      name: medical_questionnaire_17
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 20
-      name: medical_questionnaire_18
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 21
-      name: medical_questionnaire_19
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 22
-      name: medical_questionnaire_20
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 23
-      name: medical_questionnaire_21
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 24
-      name: medical_questionnaire_22
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 25
-      name: medical_questionnaire_23
-      label: Have you taken any medication in the last 24 hours?
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      type: text
+      options: []
       required: false

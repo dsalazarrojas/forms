@@ -1,204 +1,104 @@
 inputSchema:
   type: object
   properties:
-    title: game_developer_asset_support_request_form
+    title: Game Developer Asset Support Request Form
     pages:
     - id: 1
-      name: game_developer_asset_support_request_form_page_1
-      label: Game Developer Asset Support Request Form
+      name: page_1
+      label: Game Details
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 2
-      name: game_developer_asset_support_request_form_page_2
-      label: Game Developer Asset Issues
+      name: page_2
+      label: Asset Type
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - Asset Type 1
+      - Asset Type 2
+      - Asset Type 3
       required: true
     - id: 3
-      name: game_developer_asset_support_request_form_page_3
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 4
-      name: game_developer_asset_support_request_form_page_4
-      label: Game Developer Asset Support Request Form
+      name: page_3
+      label: Issue Description
       hint: null
       type: text
       options: []
+      required: true
+    - id: 4
+      name: page_4
+      label: Issue Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
       required: false
     - id: 5
-      name: game_developer_asset_support_request_form_page_5
-      label: Game Developer Asset Support Request Form
+      name: page_5
+      label: Requested Resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: page_6
+      label: Priority Level
       hint: null
       type: number
       options: []
       required: false
-    - id: 6
-      name: game_developer_asset_support_request_form_page_6
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
     - id: 7
-      name: game_developer_asset_support_request_form_page_7
-      label: Game Developer Asset Support Request Form
+      name: page_7
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: page_8
+      label: Game Genre
       hint: null
       type: select_multiple
       options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 8
-      name: game_developer_asset_support_request_form_page_8
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: time
-      options: []
-      required: false
+      - Genre 1
+      - Genre 2
+      - Genre 3
+      required: true
     - id: 9
-      name: game_developer_asset_support_request_form_page_9
-      label: Game Developer Asset Support Request Form
+      name: page_9
+      label: Game Platform
       hint: null
-      type: email
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Platform 1
+      - Platform 2
+      - Platform 3
+      required: true
     - id: 10
-      name: game_developer_asset_support_request_form_page_10
-      label: Game Developer Asset Support Request Form
+      name: page_10
+      label: Asset Version
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 11
-      name: game_developer_asset_support_request_form_page_11
-      label: Game Developer Asset Support Request Form
+      name: page_11
+      label: Current Status
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
     - id: 12
-      name: game_developer_asset_support_request_form_page_12
-      label: Game Developer Asset Support Request Form
+      name: page_12
+      label: Support Requested
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: game_developer_asset_support_request_form_page_13
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: game_developer_asset_support_request_form_page_14
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: game_developer_asset_support_request_form_page_15
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: game_developer_asset_support_request_form_page_16
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: game_developer_asset_support_request_form_page_17
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 18
-      name: game_developer_asset_support_request_form_page_18
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 19
-      name: game_developer_asset_support_request_form_page_19
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: game_developer_asset_support_request_form_page_20
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: game_developer_asset_support_request_form_page_21
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: game_developer_asset_support_request_form_page_22
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: game_developer_asset_support_request_form_page_23
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: game_developer_asset_support_request_form_page_24
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: select_one
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
-    - id: 25
-      name: game_developer_asset_support_request_form_page_25
-      label: Game Developer Asset Support Request Form
-      hint: null
-      type: select_multiple
-      options:
-      - option_1
-      - option_2
-      - option_3
-      required: false
+      required: true

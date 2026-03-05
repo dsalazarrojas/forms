@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Customer'', ''value'': ''customer''}'
-      - '{''id'': 2, ''label'': ''Employee'', ''value'': ''employee''}'
-      - '{''id'': 3, ''label'': ''Client'', ''value'': ''client''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      - Customer
+      - Employee
+      - Client
+      - Other
       required: false
     - id: 5
       name: contact_person
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Online'', ''value'': ''online''}'
-      - '{''id'': 2, ''label'': ''Offline'', ''value'': ''offline''}'
-      - '{''id'': 3, ''label'': ''Both'', ''value'': ''both''}'
+      - Online
+      - Offline
+      - Both
       required: false
     - id: 8
       name: data_security

@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: client_goals
-      label: client goals
+      label: What are your main financial goals for the next 12 months?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: risk_tolerance
-      label: risk tolerance
+      label: How would you rate your overall risk tolerance level (1-6)?
       hint: null
       type: select_one
       options:
@@ -24,8 +24,23 @@ inputSchema:
       - Risk level 6
       required: false
     - id: 3
+      name: investment_horizon
+      label: What is your investment horizon (e.g., Daily, Weekly, Monthly, Quarterly,
+        Semi-Annually, Annually)?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 4
       name: investment_preferences
-      label: investment preferences
+      label: Which type of investments do you prefer (e.g., Stocks, Bonds, Real Estate,
+        Alternative Investments)?
       hint: null
       type: select_multiple
       options:
@@ -34,56 +49,18 @@ inputSchema:
       - Real Estate
       - Alternative Investments
       required: false
-    - id: 4
-      name: risk_level
-      label: risk level
-      hint: null
-      type: number
-      options: []
-      required: false
     - id: 5
-      name: investment_horizon
-      label: investment horizon
+      name: additional_comments
+      label: Do you have any additional comments or concerns about your financial
+        goals or investments?
       hint: null
-      type: date
+      type: note
       options: []
       required: false
     - id: 6
-      name: investment_frequency
-      label: investment frequency
-      hint: null
-      type: select_one
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Semi-Annually
-      - Annually
-      required: false
-    - id: 7
-      name: investment_frequency_2
-      label: investment frequency
-      hint: null
-      type: select_one
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Quarterly
-      - Semi-Annually
-      - Annually
-      required: false
-    - id: 8
-      name: investment_horizon_2
-      label: investment horizon
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: investment_preferences_2
-      label: investment preferences
+      name: risk_tolerance_2
+      label: What is your risk tolerance level for each type of investment (e.g.,
+        Stocks, Bonds, Real Estate, Alternative Investments)?
       hint: null
       type: select_multiple
       options:
@@ -92,16 +69,17 @@ inputSchema:
       - Real Estate
       - Alternative Investments
       required: false
-    - id: 10
-      name: risk_tolerance_2
-      label: risk tolerance
+    - id: 7
+      name: investment_frequency
+      label: How frequently do you plan to make investments (e.g., Daily, Weekly,
+        Monthly, Quarterly, Semi-Annually, Annually)?
       hint: null
       type: select_one
       options:
-      - Risk level 1
-      - Risk level 2
-      - Risk level 3
-      - Risk level 4
-      - Risk level 5
-      - Risk level 6
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
       required: false

@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 2
       name: accessibility_ramp
@@ -20,10 +20,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 3
       name: evaluator_feedback
@@ -45,8 +45,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Location 1''}'
-      - '{''id'': 2, ''label'': ''Location 2''}'
+      - Location 1
+      - Location 2
       required: true
     - id: 6
       name: evaluation_date
@@ -75,10 +75,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 10
       name: facility_accessibility_score
@@ -93,10 +93,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 12
       name: facility_elevation
@@ -104,10 +104,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 13
       name: facility_orientation
@@ -115,10 +115,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 14
       name: facility_navigability
@@ -126,10 +126,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 15
       name: facility_entrance
@@ -137,10 +137,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 16
       name: facility_pathways
@@ -148,10 +148,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 17
       name: facility_accessibility_level
@@ -159,10 +159,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 18
       name: facility_accessibility_features
@@ -170,10 +170,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 19
       name: evaluator_comments
@@ -197,40 +197,40 @@ inputSchema:
       options: []
       required: true
     - id: 22
-      name: facility_id
-      label: Facility ID
+      name: facility_id_2
+      label: Facility Id 2
       hint: Facility ID
       type: text
       options: []
       required: true
     - id: 23
-      name: facility_location
-      label: Facility Location
+      name: facility_location_2
+      label: Facility Location 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Location 1''}'
-      - '{''id'': 2, ''label'': ''Location 2''}'
+      - Location 1
+      - Location 2
       required: true
     - id: 24
-      name: facility_elevation
-      label: Facility Elevation
+      name: facility_elevation_2
+      label: Facility Elevation 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 25
-      name: facility_orientation
-      label: Facility Orientation
+      name: facility_orientation_2
+      label: Facility Orientation 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Good''}'
-      - '{''id'': 3, ''label'': ''Fair''}'
-      - '{''id'': 4, ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true

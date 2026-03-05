@@ -23,11 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Financially stable'', ''value'': ''Financially stable''}'
-      - '{''id'': 2, ''label'': ''Financially stable, but some challenges'', ''value'':
-        ''Financially stable, but some challenges''}'
-      - '{''id'': 3, ''label'': ''Not financially stable'', ''value'': ''Not financially
-        stable''}'
+      - Financially stable
+      - Financially stable, but some challenges
+      - Not financially stable
       required: false
     - id: 4
       name: financial_goals_duration
@@ -70,15 +68,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None'', ''value'': ''None''}'
-      - '{''id'': 2, ''label'': ''Financial difficulties'', ''value'': ''Financial
-        difficulties''}'
-      - '{''id'': 3, ''label'': ''Health issues'', ''value'': ''Health issues''}'
-      - '{''id'': 4, ''label'': ''Relationship problems'', ''value'': ''Relationship
-        problems''}'
-      - '{''id'': 5, ''label'': ''Legal issues'', ''value'': ''Legal issues''}'
-      - '{''id'': 6, ''label'': ''Family issues'', ''value'': ''Family issues''}'
-      - '{''id'': 7, ''label'': ''Other'', ''value'': ''Other''}'
+      - None
+      - Financial difficulties
+      - Health issues
+      - Relationship problems
+      - Legal issues
+      - Family issues
+      - Other
       required: false
     - id: 10
       name: financial_future_plans

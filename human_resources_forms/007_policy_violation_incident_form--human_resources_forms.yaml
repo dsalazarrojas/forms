@@ -1,7 +1,7 @@
 inputSchema:
   type: object
   properties:
-    title: policy_violation_incident_form
+    title: Policy Violation Incident Form
     pages:
     - id: 1
       name: incident_date
@@ -12,42 +12,14 @@ inputSchema:
       required: false
     - id: 2
       name: incident_description
-      label: incident_description
+      label: Incident Description
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: employee_name
-      label: employee_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: policy_violation
-      label: policy_violation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: policy_violation_details
-      label: policy_violation_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: incident_reporting_officer
-      label: incident_reporting_officer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: incident_status
-      label: incident_status
+      label: Incident Status
       hint: null
       type: select_one
       options:
@@ -55,139 +27,167 @@ inputSchema:
       - Inactive
       - Closed
       required: false
-    - id: 8
-      name: incident_status_date
-      label: incident_status_date
+    - id: 4
+      name: reporting_officer_name
+      label: Reporting Officer
       hint: null
-      type: date
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reporting_officer_details
+      label: Reporting Officer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reporting_officer_email
+      label: Reporting Officer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: reporting_officer_phone
+      label: Reporting Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_officer_address
+      label: Reporting Officer Address
+      hint: null
+      type: text
       options: []
       required: false
     - id: 9
-      name: incident_status_time
-      label: incident_status_time
+      name: reporting_officer_department
+      label: Reporting Officer Department
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 10
-      name: incident_status_reason
-      label: incident_status_reason
+      name: reporting_officer_job_title
+      label: Reporting Officer Job Title
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: incident_reporting_reason
-      label: incident_reporting_reason
+      name: reporting_officer_id
+      label: Reporting Officer ID
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: incident_reporting_officer
-      label: incident_reporting_officer
+      name: reporting_officer_notes
+      label: Reporting Officer Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: incident_reporting_date
-      label: incident_reporting_date
+      name: reporting_officer_date
+      label: Reporting Officer Date
       hint: null
       type: date
       options: []
       required: false
     - id: 14
-      name: incident_reporting_time
-      label: incident_reporting_time
+      name: reporting_officer_time
+      label: Reporting Officer Time
       hint: null
       type: time
       options: []
       required: false
     - id: 15
       name: incident_reporting_reason
-      label: incident_reporting_reason
+      label: Incident Reporting Reason
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: incident_reporting_reasons
-      label: incident_reporting_reasons
+      name: reporting_officer_reason
+      label: Reporting Officer Reason
       hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporting_officer_reasons
+      label: Select multiple from - Policy Violation, Incident Report, Other
+      hint: Select multiple from - Policy Violation, Incident Report, Other
       type: select_multiple
       options:
       - Policy Violation
       - Incident Report
       - Other
       required: false
-    - id: 17
+    - id: 18
       name: incident_reporting_officer_notes
-      label: incident_reporting_officer_notes
+      label: Incident Reporting Officer Notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 18
-      name: incident_reporting_officer_email
-      label: incident_reporting_officer_email
+    - id: 19
+      name: reporting_officer_email_2
+      label: Reporting Officer Email 2
       hint: null
       type: email
       options: []
       required: false
-    - id: 19
-      name: incident_reporting_officer_phone
-      label: incident_reporting_officer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 20
-      name: incident_reporting_officer_address
-      label: incident_reporting_officer_address
+      name: reporting_officer_phone_2
+      label: Reporting Officer Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: incident_reporting_officer_department
-      label: incident_reporting_officer_department
+      name: reporting_officer_address_2
+      label: Reporting Officer Address 2
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: incident_reporting_officer_job_title
-      label: incident_reporting_officer_job_title
+      name: reporting_officer_department_2
+      label: Reporting Officer Department 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
-      name: incident_reporting_officer_id
-      label: incident_reporting_officer_id
+      name: reporting_officer_job_title_2
+      label: Reporting Officer Job Title 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
-      name: incident_reporting_officer_notes
-      label: incident_reporting_officer_notes
+      name: reporting_officer_id_2
+      label: Reporting Officer Id 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: incident_reporting_officer_date
-      label: incident_reporting_officer_date
+      name: reporting_officer_notes_2
+      label: Reporting Officer Notes 2
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 26
-      name: incident_reporting_officer_time
-      label: incident_reporting_officer_time
+      name: reporting_officer_id_3
+      label: Reporting Officer Id 3
       hint: null
-      type: time
+      type: text
       options: []
       required: false

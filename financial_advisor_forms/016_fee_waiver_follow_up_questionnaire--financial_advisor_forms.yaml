@@ -5,192 +5,79 @@ inputSchema:
     pages:
     - id: 1
       name: name
-      label: Name
-      hint: null
+      label: Applicant Name
+      hint: Please enter your name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: updated_applicant_details
       label: Updated Applicant Details
-      hint: null
+      hint: Please provide any updated details
       type: text
       options: []
       required: false
     - id: 3
       name: fee_waiver_status
       label: Fee Waiver Status
-      hint: null
+      hint: Select active or inactive
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
+      required: true
     - id: 4
       name: uploaded_documents
       label: Uploaded Documents
-      hint: null
+      hint: Please provide any uploaded documents
       type: text
       options: []
       required: false
     - id: 5
-      name: financial_changes
-      label: Financial Changes
-      hint: null
+      name: review_comments
+      label: Review Comments
+      hint: Please provide any relevant comments
       type: text
       options: []
       required: false
     - id: 6
-      name: review_comments
-      label: Review Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: review_decision
       label: Review Decision
-      hint: null
+      hint: Please select school, court, non-profit, or service office
       type: select_one
       options:
       - School
       - Court
-      - Non profit
+      - Non-profit
       - Service Office
-      required: false
-    - id: 8
-      name: review_comments
-      label: Review Comments
-      hint: null
+      required: true
+    - id: 7
+      name: other_funding_sources
+      label: Other Funding Sources
+      hint: Please provide any other funding sources
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: financial_support
       label: Financial Support
-      hint: null
+      hint: Please select if financial support is needed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: Please provide any additional comments
       type: text
       options: []
       required: false
     - id: 10
-      name: other_funding_sources
-      label: Other Funding Sources
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: additional_comments
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: review_decision
-      label: Review Decision
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: review_decision
-      label: Review Decision
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
       name: other_financial_support
       label: Other Financial Support
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: review_comments
-      label: Review Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: financial_changes
-      label: Financial Changes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: review_decision
-      label: Review Decision
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: uploaded_documents
-      label: Uploaded Documents
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: other_financial_support
-      label: Other Financial Support
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: financial_support
-      label: Financial Support
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: other_financial_support
-      label: Other Financial Support
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: review_comments
-      label: Review Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: review_decision
-      label: Review Decision
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: review_decision
-      label: Review Decision
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: additional_financial_support
-      label: Additional Financial Support
-      hint: null
+      hint: Please list any other financial support
       type: text
       options: []
       required: false

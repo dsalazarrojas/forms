@@ -79,8 +79,8 @@ inputSchema:
       hint: Is buyer arranging financing
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 12
       name: trade_in
@@ -88,8 +88,8 @@ inputSchema:
       hint: Does sale include a trade in vehicle
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: trade_in_details

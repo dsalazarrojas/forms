@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Private''}'
-      - '{''id'': 2, ''name'': ''Medicare''}'
-      - '{''id'': 3, ''name'': ''Medicaid''}'
-      - '{''id'': 4, ''name'': ''Tricare''}'
+      - Private
+      - Medicare
+      - Medicaid
+      - Tricare
       required: false
     - id: 5
       name: treatment_interests
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''In Vitro Fertilization (IVF)''}'
-      - '{''id'': 2, ''name'': ''Intrauterine Insemination (IUI)''}'
-      - '{''id'': 3, ''name'': ''Intrauterine Insemination (IUI) with ICSI''}'
+      - In Vitro Fertilization (IVF)
+      - Intrauterine Insemination (IUI)
+      - Intrauterine Insemination (IUI) with ICSI
       required: false
     - id: 6
       name: treatment_cost
@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''IVF''}'
-      - '{''id'': 2, ''name'': ''IUI''}'
-      - '{''id'': 3, ''name'': ''ICSI''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - IVF
+      - IUI
+      - ICSI
+      - Other
       required: false
     - id: 7
       name: insurance_coverage
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Full Coverage''}'
-      - '{''id'': 2, ''name'': ''Partial Coverage''}'
-      - '{''id'': 3, ''name'': ''No Coverage''}'
+      - Full Coverage
+      - Partial Coverage
+      - No Coverage
       required: false
     - id: 8
       name: treatment_options
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Frozen Embryo Transfer (FET)''}'
-      - '{''id'': 2, ''name'': ''Intracytoplasmic Sperm Injection (ICSI)''}'
-      - '{''id'': 3, ''name'': ''Donor Egg''}'
-      - '{''id'': 4, ''name'': ''Surrogacy''}'
+      - Frozen Embryo Transfer (FET)
+      - Intracytoplasmic Sperm Injection (ICSI)
+      - Donor Egg
+      - Surrogacy
       required: false
     - id: 9
       name: financial_info

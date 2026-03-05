@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Labrador''}'
-      - '{''id'': 2, ''name'': ''Golden Retriever''}'
-      - '{''id'': 3, ''name'': ''Poodle''}'
-      - '{''id'': 4, ''name'': ''Mixed''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Labrador
+      - Golden Retriever
+      - Poodle
+      - Mixed
+      - Other
       required: false
     - id: 3
       name: dog_size
@@ -28,10 +28,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Small''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Large''}'
-      - '{''id'': 4, ''name'': ''Extra Large''}'
+      - Small
+      - Medium
+      - Large
+      - Extra Large
       required: false
     - id: 4
       name: dog_color
@@ -39,11 +39,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''black''}'
-      - '{''id'': 2, ''name'': ''brown''}'
-      - '{''id'': 3, ''name'': ''white''}'
-      - '{''id'': 4, ''name'': ''red''}'
-      - '{''id'': 5, ''name'': ''blue''}'
+      - black
+      - brown
+      - white
+      - red
+      - blue
       required: false
     - id: 5
       name: fur_length
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Long''}'
-      - '{''id'': 2, ''name'': ''Short''}'
-      - '{''id'': 3, ''name'': ''Medium''}'
+      - Long
+      - Short
+      - Medium
       required: false
     - id: 6
       name: behavior_notes
@@ -180,14 +180,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''John''}'
-      - '{''id'': 2, ''name'': ''Jane''}'
-      - '{''id'': 3, ''name'': ''Jim''}'
-      - '{''id'': 4, ''name'': ''Jill''}'
-      - '{''id'': 5, ''name'': ''Bob''}'
-      - '{''id'': 6, ''name'': ''Mary''}'
-      - '{''id'': 7, ''name'': ''Joe''}'
-      - '{''id'': 8, ''name'': ''Bob''}'
+      - John
+      - Jane
+      - Jim
+      - Jill
+      - Bob
+      - Mary
+      - Joe
       required: false
     - id: 24
       name: notes
@@ -202,8 +201,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Submit''}'
-      - '{''id'': 2, ''name'': ''Save Draft''}'
-      - '{''id'': 3, ''name'': ''Cancel''}'
-      - '{''id'': 4, ''name'': ''Continue''}'
+      - Submit
+      - Save Draft
+      - Cancel
+      - Continue
       required: false

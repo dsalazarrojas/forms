@@ -11,210 +11,152 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: question_1
-      label: How often do you usually feel sad or empty?
+      name: feeling_sad
+      label: Feeling Sad or Empty
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: question_2
-      label: How often do you usually feel hopeless?
+      name: feeling_hopeless
+      label: Feeling Hopeless
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: question_3
-      label: How often do you usually feel worthless?
+      name: feeling_worthless
+      label: Feeling Worthless
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: question_4
-      label: How often do you usually feel like a burden to others?
+      name: feeling_burden
+      label: Feeling like a Burden
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: question_5_1
-      label: Early morning?
+      name: morning_waking
+      label: Early Morning Waking
       hint: null
       type: select_one
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - Never
+      - Rarely
+      - Some of the time
+      - Often
+      - Always
       required: false
     - id: 7
-      name: question_5_2
-      label: After meals?
+      name: mealtime_waking
+      label: Waking after Meals
       hint: null
       type: select_one
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - Never
+      - Rarely
+      - Some of the time
+      - Often
+      - Always
       required: false
     - id: 8
-      name: question_5_3
-      label: After waking up?
+      name: other_waking
+      label: Waking at Other Times
       hint: null
       type: select_one
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - Never
+      - Rarely
+      - Some of the time
+      - Often
+      - Always
       required: false
     - id: 9
-      name: question_6_1
-      label: How many times in the past 2 weeks?
+      name: episode_frequency
+      label: Episodes in Past 2 Weeks
       hint: null
       type: select_multiple
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - Never
+      - Rarely
+      - Some of the time
+      - Often
+      - Always
       required: false
     - id: 10
-      name: question_6_2
-      label: How many times in the past 2 weeks?
+      name: episode_frequency_2
+      label: Episode Frequency 2
       hint: null
       type: select_multiple
       options:
-      - '0'
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - Never
+      - Rarely
+      - Some of the time
+      - Often
+      - Always
       required: false
     - id: 11
-      name: question_7
-      label: How long?
+      name: episode_duration
+      label: Episodes Duration
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: question_8
-      label: How long?
+      name: worst_time
+      label: Worst Time of Day
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 13
-      name: question_9
-      label: How long?
+      name: worst_time_2
+      label: Worst Time 2
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 14
-      name: question_10
-      label: How long?
+      name: longest_episode
+      label: Longest Episode
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: question_11
-      label: How long?
+      name: longest_time
+      label: Longest Time
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: question_12_1
-      label: What is the worst time?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: question_12_2
-      label: What is the worst time?
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: question_13
-      label: What is the longest time?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question_14
-      label: What is the longest time?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_15
-      label: What is the longest time?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: question_16
-      label: What is the longest time?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_17
-      label: Have you ever experienced depression?
+      name: have_depressed
+      label: History of Depression
       hint: null
       type: number
       options: []
       required: false
-    - id: 23
-      name: question_18
-      label: What is the time?
+    - id: 17
+      name: episodes_1
+      label: Episodes
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 24
-      name: question_19
-      label: What is the time?
+    - id: 18
+      name: episodes_2
+      label: Episodes 2
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
-      required: false
-    - id: 25
-      name: question_20
-      label: What is the time?
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
-      - '5'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

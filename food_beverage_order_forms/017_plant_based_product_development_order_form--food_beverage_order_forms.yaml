@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Beverage''}'
-      - '{''id'': 2, ''label'': ''Snack''}'
-      - '{''id'': 3, ''label'': ''Dairy''}'
+      - Beverage
+      - Snack
+      - Dairy
       required: false
     - id: 6
       name: target_audience
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''$0-1000''}'
-      - '{''id'': 2, ''label'': ''$1000-5000''}'
-      - '{''id'': 3, ''label'': ''$5000+''}'
+      - $0-1000
+      - $1000-5000
+      - $5000+
       required: true
     - id: 9
       name: product_launch_date
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Not Started''}'
-      - '{''id'': 2, ''label'': ''In Development''}'
-      - '{''id'': 3, ''label'': ''Released''}'
+      - Not Started
+      - In Development
+      - Released
       required: true
     - id: 11
       name: product_status_note

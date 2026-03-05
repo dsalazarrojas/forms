@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''medication''}'
-      - '{''value'': ''therapy''}'
-      - '{''value'': ''hospitalization''}'
+      - medication
+      - therapy
+      - hospitalization
       required: false
     - id: 3
       name: signature
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Dr. Smith''}'
-      - '{''value'': ''Dr. Johnson''}'
+      - Dr. Smith
+      - Dr. Johnson
       required: false
     - id: 7
       name: date_of_birth
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: consent
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''medication''}'
-      - '{''value'': ''hospitalization''}'
-      - '{''value'': ''therapy''}'
+      - medication
+      - hospitalization
+      - therapy
       required: false
     - id: 11
       name: patient_address
@@ -124,9 +124,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''home''}'
-      - '{''value'': ''hospital''}'
-      - '{''value'': ''clinic''}'
+      - home
+      - hospital
+      - clinic
       required: false
     - id: 17
       name: healthcare_provider_contact
@@ -148,9 +148,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male''}'
-      - '{''value'': ''female''}'
-      - '{''value'': ''other''}'
+      - male
+      - female
+      - other
       required: false
     - id: 20
       name: medical_condition
@@ -186,8 +186,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Dr. Smith''}'
-      - '{''value'': ''Dr. Johnson''}'
+      - Dr. Smith
+      - Dr. Johnson
       required: false
     - id: 25
       name: consent_2
@@ -195,7 +195,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''medication''}'
-      - '{''value'': ''hospitalization''}'
-      - '{''value'': ''therapy''}'
+      - medication
+      - hospitalization
+      - therapy
       required: false

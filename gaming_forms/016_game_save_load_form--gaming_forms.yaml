@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''platform1'', ''label'': ''Platform 1''}'
-      - '{''id'': 2, ''name'': ''platform2'', ''label'': ''Platform 2''}'
-      - '{''id'': 3, ''name'': ''platform3'', ''label'': ''Platform 3''}'
+      - Platform 1
+      - Platform 2
+      - Platform 3
       required: false
     - id: 4
       name: game_version
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''load'', ''label'': ''Load''}'
-      - '{''id'': 2, ''name'': ''save'', ''label'': ''Save''}'
-      - '{''id'': 3, ''name'': ''both'', ''label'': ''Both''}'
+      - Load
+      - Save
+      - Both
       required: false
     - id: 10
       name: game_save_load_request_details
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''id'': 2, ''name'': ''completed'', ''label'': ''Completed''}'
-      - '{''id'': 3, ''name'': ''in_progress'', ''label'': ''In Progress''}'
+      - Pending
+      - Completed
+      - In Progress
       required: false
     - id: 17
       name: comments

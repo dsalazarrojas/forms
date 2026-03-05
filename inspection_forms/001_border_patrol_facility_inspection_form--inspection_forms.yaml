@@ -1,93 +1,82 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Border Patrol Facility Inspection Form
     pages:
-      - id: 1
-        name: inspection_date
-        label: Inspection date
-        hint: Enter the date of inspection
-        type: date
-        options: []
-        required: true
-      - id: 2
-        name: inspector_name
-        label: Inspector name
-        hint: Full name of the inspecting officer
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: facility_id
-        label: Facility identifier
-        hint: Internal facility or building ID
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: facility_location
-        label: Facility location
-        hint: Address or GPS coordinates
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: condition_rating
-        label: Overall condition rating
-        hint: Select the most appropriate rating
-        type: select_one
-        options:
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 6
-        name: issues_found
-        label: Issues found summary
-        hint: Briefly describe any deficiencies observed
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: recommended_actions
-        label: Recommended actions
-        hint: Suggested corrective actions and timeline
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: photos_attached
-        label: Photos attached
-        hint: Indicate if supporting photos are provided
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 9
-        name: urgent_repair_required
-        label: Urgent repair required
-        hint: Mark if immediate repairs are needed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 10
-        name: inspector_comments
-        label: Inspector comments
-        hint: Additional notes from the inspector
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: inspection_date
+      label: Inspection date
+      hint: Enter the date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector name
+      hint: Full name of the inspecting officer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_id
+      label: Facility identifier
+      hint: Internal facility or building ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: facility_location
+      label: Facility location
+      hint: Address or GPS coordinates
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: condition_rating
+      label: Overall condition rating
+      hint: Select the most appropriate rating
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: issues_found
+      label: Issues found summary
+      hint: Briefly describe any deficiencies observed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_actions
+      label: Recommended actions
+      hint: Suggested corrective actions and timeline
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photos_attached
+      label: Photos attached
+      hint: Indicate if supporting photos are provided
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: urgent_repair_required
+      label: Urgent repair required
+      hint: Mark if immediate repairs are needed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 10
+      name: inspector_comments
+      label: Inspector comments
+      hint: Additional notes from the inspector
+      type: text
+      options: []
+      required: false

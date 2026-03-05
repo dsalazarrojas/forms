@@ -16,9 +16,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Donation Type'', ''type'': ''select_one'', ''options'':
-        [{''id'': 1, ''name'': ''Monetary''}, {''id'': 2, ''name'': ''Goods''}, {''id'':
-        3, ''name'': ''Services''}]}'
+      - Donation Type
       - Other
       required: false
     - id: 3
@@ -34,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''One-Time''}'
-      - '{''id'': 2, ''name'': ''Recurring''}'
+      - One-Time
+      - Recurring
       required: false
     - id: 5
       name: donation_date

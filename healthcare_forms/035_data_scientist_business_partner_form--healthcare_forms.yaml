@@ -4,15 +4,15 @@ inputSchema:
     title: Data Scientist Business Partner Form
     pages:
     - id: 1
-      name: healthcare_form_page_1
-      label: data_science_services
+      name: introduction_page
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: massage_therapy_services
-      label: Massage Therapy Services
+      name: services_page
+      label: Services
       hint: null
       type: select_one
       options:
@@ -20,199 +20,34 @@ inputSchema:
       - Other Services
       required: false
     - id: 3
-      name: massage_therapy_services_2
-      label: massage_therapy_services
+      name: data_science_services_page
+      label: Data Science Services
       hint: null
       type: select_multiple
       options:
-      - Massage Therapy Services
+      - Data Science
       - Other Services
       required: false
     - id: 4
-      name: massage_therapy_services_3
-      label: massage_therapy_services_2
+      name: data_collection_page
+      label: Data Collection
       hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
+      type: number
+      options: []
       required: false
     - id: 5
-      name: massage_therapy_services_4
-      label: massage_therapy_services_1
+      name: data_analysis_page
+      label: Data Analysis
       hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
+      type: text
+      options: []
       required: false
     - id: 6
-      name: massage_therapy_services_5
-      label: massage_therapy_services
+      name: data_storage_page
+      label: Data Storage
       hint: null
       type: select_multiple
       options:
-      - Massage Therapy Services
-      - Other Services
-      required: false
-    - id: 7
-      name: massage_therapy_services_6
-      label: massage_therapy_services_6
-      hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
-      required: false
-    - id: 8
-      name: massage_therapy_services_7
-      label: massage_therapy_services_7
-      hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
-      required: false
-    - id: 9
-      name: massage_therapy_services_8
-      label: massage_therapy_services_8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: massage_therapy_services_9
-      label: massage_therapy_services_9
-      hint: null
-      type: select_one
-      options:
-      - Massage Therapy Services
-      - Other Services
-      required: false
-    - id: 11
-      name: data_science_services
-      label: data_science_services
-      hint: null
-      type: select_multiple
-      options:
-      - Data Science
-      - Other Services
-      required: false
-    - id: 12
-      name: data_sciences
-      label: data_sciences
-      hint: null
-      type: select_multiple
-      options:
-      - Data Science
-      - Other Services
-      required: false
-    - id: 13
-      name: data_science
-      label: data_science
-      hint: null
-      type: select_multiple
-      options:
-      - Data Science
-      - Other Services
-      required: false
-    - id: 14
-      name: data_science_1
-      label: data_science_1
-      hint: null
-      type: select_multiple
-      options:
-      - Data Science
-      - Other Services
-      required: false
-    - id: 15
-      name: data_science_2
-      label: data_science_2
-      hint: null
-      type: select_multiple
-      options:
-      - Data Science
-      - Other Services
-      required: false
-    - id: 16
-      name: data_science_3
-      label: data_science_3
-      hint: null
-      type: select_multiple
-      options:
-      - Data Science
-      - Other Services
-      required: false
-    - id: 17
-      name: data_science_4
-      label: data_prophets
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: data_1
-      label: data1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: data_2
-      label: data2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: data_3
-      label: data3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: massage_therapy_services_10
-      label: massage_therapy_services_10
-      hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
-      required: false
-    - id: 22
-      name: massage_therapy_services_11
-      label: massage_therapy_services_11
-      hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
-      required: false
-    - id: 23
-      name: massage_therapy_services_12
-      label: massage_therapy_services_12
-      hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
-      required: false
-    - id: 24
-      name: massage_therapy_services_13
-      label: massage_therapy_services_13
-      hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
-      required: false
-    - id: 25
-      name: massage_therapy_services_14
-      label: massage_therapy_services_14
-      hint: null
-      type: select_multiple
-      options:
-      - Massage Therapy Services
-      - Other Services
+      - 'True'
+      - 'False'
       required: false

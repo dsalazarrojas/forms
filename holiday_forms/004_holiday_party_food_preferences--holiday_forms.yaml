@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''attending'', ''value'': ''Attending''}'
-      - '{''name'': ''not_attending'', ''value'': ''Not attending''}'
+      - Attending
+      - Not attending
       required: false
     - id: 3
       name: dietary_restrictions
@@ -25,10 +25,10 @@ inputSchema:
       hint: Select any food restrictions
       type: select_multiple
       options:
-      - '{''name'': ''vegetarian'', ''value'': ''Vegetarian''}'
-      - '{''name'': ''vegan'', ''value'': ''Vegan''}'
-      - '{''name'': ''gluten_free'', ''value'': ''Gluten-free''}'
-      - '{''name'': ''dairy_free'', ''value'': ''Dairy-free''}'
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
       required: false
     - id: 4
       name: allergies
@@ -36,9 +36,9 @@ inputSchema:
       hint: Select any allergies
       type: select_multiple
       options:
-      - '{''name'': ''peanuts'', ''value'': ''Peanuts''}'
-      - '{''name'': ''shellfish'', ''value'': ''Shellfish''}'
-      - '{''name'': ''soy'', ''value'': ''Soy''}'
+      - Peanuts
+      - Shellfish
+      - Soy
       required: false
     - id: 5
       name: cuisine_preferences
@@ -46,9 +46,9 @@ inputSchema:
       hint: Select any
       type: select_multiple
       options:
-      - '{''name'': ''mexican'', ''value'': ''Mexican''}'
-      - '{''name'': ''italian'', ''value'': ''Italian''}'
-      - '{''name'': ''chinese'', ''value'': ''Chinese''}'
+      - Mexican
+      - Italian
+      - Chinese
       required: false
     - id: 6
       name: additional_notes

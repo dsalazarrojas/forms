@@ -208,8 +208,8 @@ inputSchema:
       hint: Do you need housing assistance
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: health_conditions
@@ -239,7 +239,7 @@ inputSchema:
       options:
       - Yes, within last year
       - Yes, more than a year ago
-      - false
+      - 'False'
       required: true
     - id: 28
       name: drug_screen_consent

@@ -15,177 +15,103 @@ inputSchema:
     title: Spell Card Creation Form
     pages:
     - id: 1
-      name: spell_card_creation_form_page_1
-      label: Spell Card Creation Form
-      hint: null
+      name: card_name
+      label: Card Name
+      hint: Enter the name of the card.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: spell_card_creation_form_page_2
-      label: Spell Card Creation Form
-      hint: null
-      type: text
+      name: card_mana_cost
+      label: Mana Cost
+      hint: Enter the mana cost of the card.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: spell_card_creation_form_page_3
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: card_type
+      label: Type of Card
+      hint: What type of card is this?
+      type: select_one
+      options:
+      - Common
+      - Uncommon
+      - Rare
+      - Mythic
+      - Foil
+      required: true
     - id: 4
-      name: spell_card_creation_form_page_4
-      label: Spell Card Creation Form
-      hint: null
-      type: text
+      name: card_power
+      label: Power
+      hint: Enter the power of the card.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: spell_card_creation_form_page_5
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: card_card_type
+      label: Card Type
+      hint: What is the card type?
+      type: select_one
+      options:
+      - Creature
+      - Instant
+      - Enchantment
+      - Planeswalker
+      - Sorcery
+      - Artifact
+      - Other
+      required: true
     - id: 6
-      name: spell_card_creation_form_page_6
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: card_rarity
+      label: Card Rarity
+      hint: What is the rarity of the card?
+      type: select_one
+      options:
+      - Common
+      - Uncommon
+      - Rare
+      - Mythic
+      - Foil
+      required: true
     - id: 7
-      name: spell_card_creation_form_page_7
-      label: Spell Card Creation Form
-      hint: null
+      name: card_keywords
+      label: Keywords
+      hint: Enter the keywords of the card.
       type: text
       options: []
       required: false
     - id: 8
-      name: spell_card_creation_form_page_8
-      label: Spell Card Creation Form
-      hint: null
+      name: card_description
+      label: Card Description
+      hint: Enter a brief description of the card.
       type: text
       options: []
       required: false
     - id: 9
-      name: spell_card_creation_form_page_9
-      label: Spell Card Creation Form
-      hint: null
+      name: card_image
+      label: Card Image
+      hint: Upload an image of the card.
       type: text
       options: []
       required: false
     - id: 10
-      name: spell_card_creation_form_page_10
-      label: Spell Card Creation Form
-      hint: null
+      name: card_set
+      label: Card Set
+      hint: What card set does this card belong to?
       type: text
       options: []
       required: false
     - id: 11
-      name: spell_card_creation_form_page_11
-      label: Spell Card Creation Form
-      hint: null
+      name: card_image_two
+      label: Card Image 2
+      hint: Upload an image of the card 2.
       type: text
       options: []
       required: false
     - id: 12
-      name: spell_card_creation_form_page_12
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: spell_card_creation_form_page_13
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: spell_card_creation_form_page_14
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: spell_card_creation_form_page_15
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: spell_card_creation_form_page_16
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: spell_card_creation_form_page_17
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: spell_card_creation_form_page_18
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: spell_card_creation_form_page_19
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: spell_card_creation_form_page_20
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: spell_card_creation_form_page_21
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: spell_card_creation_form_page_22
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: spell_card_creation_form_page_23
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: spell_card_creation_form_page_24
-      label: Spell Card Creation Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: spell_card_creation_form_page_25
-      label: Spell Card Creation Form
-      hint: null
+      name: card_description_two
+      label: Card Description 2
+      hint: Enter a brief description of the card 2.
       type: text
       options: []
       required: false

@@ -5,150 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: exercise_frequency
-      label: How often do you exercise
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 2
-      name: exercise_diet
-      label: Do you follow a balanced diet
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: health_status
-      label: How would you rate your current health
-      hint: null
-      type: select_one
-      options:
-      - Excellent
-      - Fair
-      - Poor
-      required: false
-    - id: 4
-      name: exercise_duration
-      label: How long do you exercise
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 5
-      name: exercise_intensity
-      label: On a scale of 1-10, how would you rate your exercise intensity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: medication_usage
-      label: Are you taking any medication
-      hint: null
-      type: select_multiple
-      options:
-      - Yes - Prescription
-      - Yes - Non-prescription
-      - 'No'
-      required: false
-    - id: 7
-      name: past_injuries
-      label: Have you ever had a past injury
-      hint: null
-      type: select_multiple
-      options:
-      - Yes - Head or Neck
-      - Yes - Back
-      - Yes - Knee
-      - Yes - Elbow
-      - Yes - Other
-      - 'No'
-      required: false
-    - id: 8
-      name: past_surgeries
-      label: Have you ever had a surgery
-      hint: null
-      type: select_multiple
-      options:
-      - Yes - Major
-      - Yes - Minor
-      - 'No'
-      required: false
-    - id: 9
-      name: medical_conditions
-      label: Do you have any medical condition
-      hint: null
-      type: select_multiple
-      options:
-      - Yes - Heart
-      - Yes - Lung
-      - Yes - Kidney
-      - Yes - Other
-      - 'No'
-      required: false
-    - id: 10
-      name: family_history
-      label: Family medical history
-      hint: null
-      type: select_multiple
-      options:
-      - Yes - Heart
-      - Yes - Lung
-      - Yes - Kidney
-      - Yes - Other
-      - 'No'
-      required: false
-    - id: 11
-      name: medical_history
-      label: Do you have a medical history
-      hint: null
-      type: select_multiple
-      options:
-      - Yes - Heart
-      - Yes - Lung
-      - Yes - Kidney
-      - Yes - Other
-      - 'No'
-      required: false
-    - id: 12
-      name: doctor_visits
-      label: How often do you visit the doctor
-      hint: null
-      type: select_multiple
-      options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Yearly
-      - Never
-      required: false
-    - id: 13
-      name: medical_tests
-      label: Have you had a medical test
-      hint: null
-      type: select_multiple
-      options:
-      - Yes - Heart
-      - Yes - Lung
-      - Yes - Kidney
-      - Yes - Other
-      - 'No'
-      required: false
-    - id: 14
-      name: medical_test_results
-      label: Have you ever had abnormal medical test results
-      hint: null
-      type: select_multiple
-      options:
-      - Yes - Heart
-      - Yes - Lung
-      - Yes - Kidney
-      - Yes - Other
-      - 'No'
-      required: false
-    - id: 15
-      name: exercise_frequency_2
-      label: How often do you exercise
+      label: How often do you exercise?
       hint: null
       type: select_one
       options:
@@ -156,10 +13,10 @@ inputSchema:
       - Weekly
       - Monthly
       - Rarely
-      required: false
-    - id: 16
+      required: true
+    - id: 2
       name: exercise_type
-      label: What type of exercise do you do
+      label: What type of exercise do you do?
       hint: null
       type: select_multiple
       options:
@@ -168,10 +25,17 @@ inputSchema:
       - Cycling
       - Strength
       - Other
-      required: false
-    - id: 17
-      name: exercise_duration_2
-      label: How long do you exercise
+      required: true
+    - id: 3
+      name: exercise_intensity
+      label: On a scale of 1-10, how intense is your exercise routine?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: exercise_duration
+      label: How long do you exercise?
       hint: null
       type: select_one
       options:
@@ -179,17 +43,10 @@ inputSchema:
       - 1-2 hours
       - 3-5 hours
       - More than 5 hours
-      required: false
-    - id: 18
-      name: exercise_intensity_2
-      label: On a scale of 1-10, how would you rate your exercise intensity
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: past_injuries_2
-      label: Have you ever had a past injury
+      required: true
+    - id: 5
+      name: past_injuries
+      label: Have you ever had a past injury?
       hint: null
       type: select_multiple
       options:
@@ -198,21 +55,21 @@ inputSchema:
       - Yes - Knee
       - Yes - Elbow
       - Yes - Other
-      - 'No'
-      required: false
-    - id: 20
-      name: past_surgeries_2
-      label: Have you ever had a surgery
+      - 'False'
+      required: true
+    - id: 6
+      name: past_surgeries
+      label: Have you ever had a surgery?
       hint: null
       type: select_multiple
       options:
       - Yes - Major
       - Yes - Minor
-      - 'No'
-      required: false
-    - id: 21
-      name: medical_conditions_2
-      label: Do you have any medical condition
+      - 'False'
+      required: true
+    - id: 7
+      name: medical_conditions
+      label: Do you have any medical conditions?
       hint: null
       type: select_multiple
       options:
@@ -220,11 +77,11 @@ inputSchema:
       - Yes - Lung
       - Yes - Kidney
       - Yes - Other
-      - 'No'
-      required: false
-    - id: 22
-      name: family_history_2
-      label: Family medical history
+      - 'False'
+      required: true
+    - id: 8
+      name: family_history
+      label: Family medical history?
       hint: null
       type: select_multiple
       options:
@@ -232,11 +89,11 @@ inputSchema:
       - Yes - Lung
       - Yes - Kidney
       - Yes - Other
-      - 'No'
-      required: false
-    - id: 23
-      name: medical_history_2
-      label: Have you had medical history
+      - 'False'
+      required: true
+    - id: 9
+      name: medical_history
+      label: Have you had medical history?
       hint: null
       type: select_multiple
       options:
@@ -244,11 +101,11 @@ inputSchema:
       - Yes - Lung
       - Yes - Kidney
       - Yes - Other
-      - 'No'
-      required: false
-    - id: 24
-      name: doctor_visits_2
-      label: How often do you visit the doctor
+      - 'False'
+      required: true
+    - id: 10
+      name: doctor_visits
+      label: How often do you visit the doctor?
       hint: null
       type: select_multiple
       options:
@@ -257,10 +114,10 @@ inputSchema:
       - Monthly
       - Yearly
       - Never
-      required: false
-    - id: 25
-      name: medical_tests_2
-      label: Have you had a medical test
+      required: true
+    - id: 11
+      name: medical_tests
+      label: Have you had medical tests?
       hint: null
       type: select_multiple
       options:
@@ -268,5 +125,29 @@ inputSchema:
       - Yes - Lung
       - Yes - Kidney
       - Yes - Other
-      - 'No'
-      required: false
+      - 'False'
+      required: true
+    - id: 12
+      name: medical_test_results
+      label: Have you ever had abnormal medical test results?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes - Heart
+      - Yes - Lung
+      - Yes - Kidney
+      - Yes - Other
+      - 'False'
+      required: true
+    - id: 13
+      name: medical_test_results_2
+      label: Medical Test Results 2
+      hint: null
+      type: select_multiple
+      options:
+      - Yes - Heart
+      - Yes - Lung
+      - Yes - Kidney
+      - Yes - Other
+      - 'False'
+      required: true

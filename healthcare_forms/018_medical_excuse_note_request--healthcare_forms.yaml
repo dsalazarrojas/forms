@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''General Practitioner'', ''value'': ''General Practitioner''}'
-      - '{''label'': ''Specialist'', ''value'': ''Specialist''}'
+      - General Practitioner
+      - Specialist
       required: false
     - id: 5
       name: select_multiple_option
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Acute'', ''value'': ''Acute''}'
-      - '{''label'': ''Chronic'', ''value'': ''Chronic''}'
-      - '{''label'': ''Other (please specify)'', ''value'': ''Other (please specify)''}'
+      - Acute
+      - Chronic
+      - Other (please specify)
       required: false
     - id: 6
       name: note
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''label'': ''Completed'', ''value'': ''Completed''}'
-      - '{''label'': ''Cancelled'', ''value'': ''Cancelled''}'
+      - In Progress
+      - Completed
+      - Cancelled
       required: false
     - id: 20
       name: confirm_note
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Another option 1'', ''value'': ''Another option 1''}'
-      - '{''label'': ''Another option 2'', ''value'': ''Another option 2''}'
-      - '{''label'': ''Another option 3'', ''value'': ''Another option 3''}'
+      - Another option 1
+      - Another option 2
+      - Another option 3
       required: false
     - id: 22
       name: select_one_option_2
@@ -167,9 +167,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Another option'', ''value'': ''Another option''}'
-      - '{''label'': ''Another option 2'', ''value'': ''Another option 2''}'
-      - '{''label'': ''Another option 3'', ''value'': ''Another option 3''}'
+      - Another option
+      - Another option 2
+      - Another option 3
       required: false
     - id: 23
       name: another_text

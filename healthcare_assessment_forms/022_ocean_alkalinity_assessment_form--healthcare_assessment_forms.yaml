@@ -11,8 +11,8 @@ inputSchema:
       options: []
       required: false
     - id: 2
-      name: date
-      label: Date
+      name: sampling_date
+      label: Date of Sampling
       hint: null
       type: date
       options: []
@@ -32,48 +32,48 @@ inputSchema:
       options: []
       required: false
     - id: 5
-      name: alkalinity
-      label: Alkalinity
+      name: ocean_alkalinity_level
+      label: Ocean Alkalinity Level
       hint: null
       type: select_one
       options:
-      - option_1
-      - option_2
-      - option_3
+      - Low
+      - Moderate
+      - High
+      - Very Low
+      - Very High
       required: false
     - id: 6
-      name: drag_and_drop_1
-      label: Sampling Location
+      name: has_other_locations
+      label: Other Locations
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
+      - Option A
+      - Option B
       required: false
     - id: 7
-      name: drag_and_drop_2
-      label: Water Temperature
+      name: is_temperature_range
+      label: Was Water Temperature within Range?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: drag_and_drop_3
-      label: Salinity
+      name: is_salinity_range
+      label: Was Salinity within Range?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: drag_and_drop_4
-      label: Alkalinity
+      name: note
+      label: Additional Notes
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: note
+      options: []
       required: false

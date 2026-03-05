@@ -44,11 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''A'', ''name'': ''Customer Service'', ''label'': ''Customer Service'',
-        ''value'': ''Customer Service''}'
-      - '{''id'': ''B'', ''name'': ''Other'', ''label'': ''Other'', ''value'': ''Other''}'
-      - '{''id'': ''C'', ''name'': ''Team Player'', ''label'': ''Team Player'', ''value'':
-        ''Team Player''}'
+      - Customer Service
+      - Other
+      - Team Player
       required: false
     - id: 7
       name: submitter_name
@@ -161,12 +159,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''A'', ''name'': ''terms_of_service_1'', ''label'': ''terms of service
-        1'', ''value'': ''terms of service 1''}'
-      - '{''id'': ''B'', ''name'': ''terms_of_service_2'', ''label'': ''terms of service
-        2'', ''value'': ''terms of service 2''}'
-      - '{''id'': ''C'', ''name'': ''terms_of_service_3'', ''label'': ''terms of service
-        3'', ''value'': ''terms of service 3''}'
+      - terms of service 1
+      - terms of service 2
+      - terms of service 3
       required: false
     - id: 23
       name: submitter_comments
@@ -181,12 +176,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''A'', ''name'': ''pending'', ''label'': ''pending'', ''value'':
-        ''pending''}'
-      - '{''id'': ''B'', ''name'': ''approved'', ''label'': ''approved'', ''value'':
-        ''approved''}'
-      - '{''id'': ''C'', ''name'': ''rejected'', ''label'': ''rejected'', ''value'':
-        ''rejected''}'
+      - pending
+      - approved
+      - rejected
       required: false
     - id: 25
       name: submitter_notes

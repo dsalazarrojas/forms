@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Improved''}'
-      - '{''value'': ''Partially Improved''}'
-      - '{''value'': ''Stable''}'
-      - '{''value'': ''Worse''}'
+      - Improved
+      - Partially Improved
+      - Stable
+      - Worse
       required: false
     - id: 4
       name: medication_treatment
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Antipsychotic Medication''}'
-      - '{''value'': ''Antidepressant Medication''}'
-      - '{''value'': ''Mood Stabilizer''}'
+      - Antipsychotic Medication
+      - Antidepressant Medication
+      - Mood Stabilizer
       required: true
     - id: 5
       name: follow_up_info
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Provider''}'
-      - '{''value'': ''Family Member''}'
+      - Provider
+      - Family Member
       required: true
     - id: 10
       name: follow_up_instructions
@@ -90,9 +90,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''In-person''}'
+      - Phone
+      - Email
+      - In-person
       required: true
     - id: 12
       name: discharge_date

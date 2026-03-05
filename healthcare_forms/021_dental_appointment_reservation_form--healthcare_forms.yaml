@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Doctor 1'', ''label'': ''Doctor 1''}'
-      - '{''name'': ''Doctor 2'', ''label'': ''Doctor 2''}'
-      - '{''name'': ''Doctor 3'', ''label'': ''Doctor 3''}'
+      - Doctor 1
+      - Doctor 2
+      - Doctor 3
       required: false
     - id: 4
       name: appointment_time
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Cash'', ''label'': ''Cash''}'
-      - '{''name'': ''Credit Card'', ''label'': ''Credit Card''}'
-      - '{''name'': ''Insurance'', ''label'': ''Insurance''}'
+      - Cash
+      - Credit Card
+      - Insurance
       required: false
     - id: 11
       name: payment_status
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Paid'', ''label'': ''Paid''}'
-      - '{''name'': ''Unpaid'', ''label'': ''Unpaid''}'
-      - '{''name'': ''Partially Paid'', ''label'': ''Partially Paid''}'
+      - Paid
+      - Unpaid
+      - Partially Paid
       required: false
     - id: 12
       name: doctor_specialty
@@ -95,9 +95,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''General Dentistry'', ''label'': ''General Dentistry''}'
-      - '{''name'': ''Orthodontics'', ''label'': ''Orthodontics''}'
-      - '{''name'': ''Oral Surgery'', ''label'': ''Oral Surgery''}'
+      - General Dentistry
+      - Orthodontics
+      - Oral Surgery
       required: false
     - id: 13
       name: appointment_status
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Scheduled'', ''label'': ''Scheduled''}'
-      - '{''name'': ''Confirmed'', ''label'': ''Confirmed''}'
-      - '{''name'': ''Cancelled'', ''label'': ''Cancelled''}'
+      - Scheduled
+      - Confirmed
+      - Cancelled
       required: false
     - id: 14
       name: doctor_shift
@@ -115,7 +115,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Morning'', ''label'': ''Morning''}'
-      - '{''name'': ''Afternoon'', ''label'': ''Afternoon''}'
-      - '{''name'': ''Evening'', ''label'': ''Evening''}'
+      - Morning
+      - Afternoon
+      - Evening
       required: false

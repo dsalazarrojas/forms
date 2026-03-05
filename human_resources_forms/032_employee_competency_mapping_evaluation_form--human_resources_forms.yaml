@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Human Resources''}'
-      - '{''id'': 2, ''name'': ''Marketing''}'
-      - '{''id'': 3, ''name'': ''Sales''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Human Resources
+      - Marketing
+      - Sales
+      - Other
       required: false
     - id: 4
       name: reporting_manager
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Quarterly''}'
-      - '{''id'': 2, ''name'': ''Semi-Annually''}'
-      - '{''id'': 3, ''name'': ''Annually''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - Other
       required: false
     - id: 10
       name: evaluation_comments
@@ -87,10 +87,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''On Leave''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Active
+      - Inactive
+      - On Leave
+      - Other
       required: false
     - id: 12
       name: job_performance_rating
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Low''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 14
       name: competency_level
@@ -115,10 +115,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Basic''}'
-      - '{''id'': 2, ''name'': ''Proficient''}'
-      - '{''id'': 3, ''name'': ''Advanced''}'
-      - '{''id'': 4, ''name'': ''Mastery''}'
+      - Basic
+      - Proficient
+      - Advanced
+      - Mastery
       required: false
     - id: 15
       name: employee_awareness
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''High''}'
-      - '{''id'': 2, ''name'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 16
       name: training_recommendation
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Required''}'
-      - '{''id'': 2, ''name'': ''Nice to Have''}'
-      - '{''id'': 3, ''name'': ''Not Required''}'
+      - Required
+      - Nice to Have
+      - Not Required
       required: false
     - id: 17
       name: evaluation_rating
@@ -174,7 +174,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Complete''}'
-      - '{''id'': 3, ''name'': ''Pending''}'
+      - Active
+      - Complete
+      - Pending
       required: false

@@ -1,161 +1,151 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CAHPS Cancer Care Radiation Therapy Survey
     pages:
-      - id: 1
-        name: survey_intro
-        label: -- Radiation Therapy Patient Experience Survey --
-        hint: Your feedback helps us improve cancer care for everyone.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: facility_location
-        label: Treatment Center Location
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: doctor_communication
-        label: How often did radiation oncologists explain things in a way you could understand?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 4
-        name: listening_attentiveness
-        label: How often did the radiation team listen carefully to you?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 5
-        name: respect_and_courtesy
-        label: How often did the staff treat you with courtesy and respect?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 6
-        name: pain_management_discussion
-        label: Did the team talk to you about how to manage pain during therapy?
-        hint: null
-        type: select_one
-        options:
-          - Yes, definitely
-          - Yes, somewhat
-          - No
-        required: true
-      - id: 7
-        name: side_effects_info
-        label: Were you given clear information about potential side effects?
-        hint: null
-        type: select_one
-        options:
-          - Yes, definitely
-          - Yes, somewhat
-          - No
-        required: true
-      - id: 8
-        name: appointment_punctuality
-        label: How often did you start your radiation treatment on time?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 9
-        name: facility_cleanliness
-        label: How often was the radiation therapy area kept clean?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 10
-        name: team_coordination
-        label: How well did the different members of your care team work together?
-        hint: null
-        type: select_one
-        options:
-          - Poor
-          - Fair
-          - Good
-          - Very Good
-          - Excellent
-        required: true
-      - id: 11
-        name: emotional_support
-        label: Did you receive enough emotional support from the facility staff?
-        hint: null
-        type: select_one
-        options:
-          - Yes, definitely
-          - Yes, somewhat
-          - No
-        required: false
-      - id: 12
-        name: overall_rating
-        label: Overall rating of your radiation therapy care
-        hint: 0 is worst, 10 is best
-        type: select_one
-        options:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: true
-      - id: 13
-        name: additional_feedback
-        label: Is there anything else you would like to tell us about your care?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: anonymous_participation
-        label: Would you like your responses to remain anonymous?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: survey_intro
+      label: -- Radiation Therapy Patient Experience Survey --
+      hint: Your feedback helps us improve cancer care for everyone.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_location
+      label: Treatment Center Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: doctor_communication
+      label: How often did radiation oncologists explain things in a way you could
+        understand?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 4
+      name: listening_attentiveness
+      label: How often did the radiation team listen carefully to you?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 5
+      name: respect_and_courtesy
+      label: How often did the staff treat you with courtesy and respect?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 6
+      name: pain_management_discussion
+      label: Did the team talk to you about how to manage pain during therapy?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - 'False'
+      required: true
+    - id: 7
+      name: side_effects_info
+      label: Were you given clear information about potential side effects?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - 'False'
+      required: true
+    - id: 8
+      name: appointment_punctuality
+      label: How often did you start your radiation treatment on time?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 9
+      name: facility_cleanliness
+      label: How often was the radiation therapy area kept clean?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 10
+      name: team_coordination
+      label: How well did the different members of your care team work together?
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 11
+      name: emotional_support
+      label: Did you receive enough emotional support from the facility staff?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, somewhat
+      - 'False'
+      required: false
+    - id: 12
+      name: overall_rating
+      label: Overall rating of your radiation therapy care
+      hint: 0 is worst, 10 is best
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 13
+      name: additional_feedback
+      label: Is there anything else you would like to tell us about your care?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: anonymous_participation
+      label: Would you like your responses to remain anonymous?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

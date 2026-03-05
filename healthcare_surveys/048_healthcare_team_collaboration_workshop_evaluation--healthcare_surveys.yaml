@@ -30,12 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Effective''}'
-      - '{''label'': ''Ineffective''}'
-      - '{''label'': ''Somewhat Effective''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Ineffective''}'
-      - '{''label'': ''Ineffective''}'
+      - Effective
+      - Ineffective
+      - Somewhat Effective
+      - Neutral
+      - Somewhat Ineffective
       required: false
     - id: 5
       name: workshop_participants
@@ -43,12 +42,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Effective''}'
-      - '{''label'': ''Ineffective''}'
-      - '{''label'': ''Somewhat Effective''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Ineffective''}'
-      - '{''label'': ''Ineffective''}'
+      - Effective
+      - Ineffective
+      - Somewhat Effective
+      - Neutral
+      - Somewhat Ineffective
       required: false
     - id: 6
       name: improvement_ideas_description
@@ -63,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: feedback_comments

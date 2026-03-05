@@ -4,116 +4,102 @@ inputSchema:
     title: Steepted Tea Order Form
     pages:
     - id: 1
-      name: form_title
-      label: Steepted Tea Order Form
+      name: customer_preferences
+      label: What type of tea do you prefer?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Black
+      - Green
+      - Herbal
+      - White
       required: false
     - id: 2
-      name: form_category
-      label: Category
+      name: date_of_birth
+      label: What is your date of birth?
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 3
-      name: form_description
-      label: Description
+      name: food_allergies
+      label: Do you have any food allergies?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 4
+      name: tea_drinking_frequency
+      label: How often do you drink tea?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: false
+    - id: 5
+      name: email_address
+      label: What is your contact email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: special_requests
+      label: Do you have any special requests?
       hint: null
       type: text
       options: []
       required: false
-    - id: 4
-      name: form_category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Fundraising Order Forms
-      - Donation Forms
-      - Order Forms
-      required: false
-    - id: 5
-      name: form_submit
-      label: Submit
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 6
-      name: form_category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - Fundraising Order Forms
-      - Donation Forms
-      - Order Forms
-      required: false
     - id: 7
-      name: form_category
-      label: Category
+      name: tea_bags_needed
+      label: How many tea bags do you need?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 8
-      name: form_category
-      label: Category
+      name: payment_method
+      label: What is your preferred method of payment?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Credit Card
+      - Cash
+      - PayPal
       required: false
     - id: 9
-      name: form_category
-      label: Category
+      name: newsletter_subscription
+      label: Do you want to join our newsletter?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 10
-      name: form_category
-      label: Category
+      name: order_date
+      label: What is your order date?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: date
+      options: []
       required: false
     - id: 11
-      name: form_category
-      label: Category
+      name: phone_number
+      label: What is your contact phone number?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 12
-      name: form_category
-      label: Category
+      name: loyalty_membership
+      label: Are you a member of our loyalty program?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: form_category
-      label: Category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: form_category
-      label: Category
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false

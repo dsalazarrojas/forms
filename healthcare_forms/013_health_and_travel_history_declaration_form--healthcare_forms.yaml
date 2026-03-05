@@ -5,134 +5,67 @@ inputSchema:
     pages:
     - id: 1
       name: health_and_travel_history_declaration_form_page
-      label: Page 1
+      label: 1. General Information
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: health_and_travel_history
-      label: Health and Travel History
+      name: health_status
+      label: 2. Current Health Status
       hint: Please answer all questions truthfully.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: symptoms
-      label: Symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: contacted_areas
-      label: Contacted Areas
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: countries_visited
-      label: Countries Visited
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: countries_visited
-      label: Countries Visited
-      hint: List all countries you have visited in the last two weeks.
+      name: countries_visited_recently
+      label: 3. Countries Visited in Last 2 Weeks
+      hint: List all countries you have visited in the last 2 weeks.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
       name: reasons_for_visit
-      label: reasons-for-visit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: reasons_for_visit
-      label: Reasons for Visit
+      label: 4. Reasons for Visit
       hint: State the reasons for your visit.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
       name: symptoms
-      label: Symptoms
-      hint: null
+      label: 5. Symptoms
+      hint: List all the symptoms you are experiencing.
       type: text
       options: []
-      required: false
-    - id: 10
-      name: symptoms
-      label: Symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: symptoms
-      label: Symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: symptoms
-      label: Symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 6
+      name: countries_planned_visit
+      label: 6. Countries to Visit in Next 2 Weeks
+      hint: List all countries you plan to visit in the next 2 weeks.
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
       name: contacted_areas
-      label: Contacted Areas
-      hint: List all areas you have contacted.
+      label: 7. Contacted Areas
+      hint: List all areas you have contacted in the last 2 weeks.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: contacted_areas
-      label: Contacted Areas
-      hint: List areas you have contacted.
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: countries_visited
-      label: Countries Visited
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: reasons_for_visit
-      label: Reasons for Visit
-      hint: null
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: covid_contact
+      label: 8. Contact with COVID-19
+      hint: Have you been in contact with anyone with COVID-19 in the last 2 weeks?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: reasons_for_visit
-      label: Reasons for Visit
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - 'True'
+      - 'False'
+      required: true

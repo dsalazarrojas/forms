@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Fixed Rate''}'
-      - '{''label'': ''Hourly Rate''}'
-      - '{''label'': ''Daily Rate''}'
+      - Fixed Rate
+      - Hourly Rate
+      - Daily Rate
       required: false
     - id: 8
       name: payment_schedule
@@ -61,8 +61,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Net 15''}'
-      - '{''label'': ''Net 30''}'
+      - Net 15
+      - Net 30
       required: false
     - id: 9
       name: work_schedule
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Full Time''}'
-      - '{''label'': ''Part Time''}'
+      - Full Time
+      - Part Time
       required: false
     - id: 10
       name: work_hours
@@ -100,13 +100,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Monday''}'
-      - '{''label'': ''Tuesday''}'
-      - '{''label'': ''Wednesday''}'
-      - '{''label'': ''Thursday''}'
-      - '{''label'': ''Friday''}'
-      - '{''label'': ''Saturday''}'
-      - '{''label'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 14
       name: payment_terms_note
@@ -121,12 +121,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Bi-Weekly''}'
-      - '{''label'': ''Semi-Monthly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Quarterly''}'
-      - '{''label'': ''Yearly''}'
+      - Weekly
+      - Bi-Weekly
+      - Semi-Monthly
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 16
       name: payment_amount
@@ -141,9 +141,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Check''}'
-      - '{''label'': ''Bank Transfer''}'
-      - '{''label'': ''PayPal''}'
+      - Check
+      - Bank Transfer
+      - PayPal
       required: false
     - id: 18
       name: tax_id_type
@@ -151,8 +151,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''EIN''}'
-      - '{''label'': ''SSN''}'
+      - EIN
+      - SSN
       required: false
     - id: 19
       name: contract_status
@@ -160,8 +160,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 20
       name: payment_status
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Paid''}'
-      - '{''label'': ''Unpaid''}'
-      - '{''label'': ''Pending''}'
+      - Paid
+      - Unpaid
+      - Pending
       required: false
     - id: 21
       name: notes

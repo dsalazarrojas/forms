@@ -4,197 +4,84 @@ inputSchema:
     title: HOA Disclosures Form
     pages:
     - id: 1
-      name: homeowndisclosuresform
-      label: Hoa Disclosures Form
+      name: hoasubmission
+      label: HOA Disclosure
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: hoafees
-      label: Hoa Fees
+      name: hoaassessments
+      label: HOA Assessments
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: hoaamendments
-      label: Hoa Amendments
+      name: hoaassessments_2
+      label: HOA Frequency of Assessments
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Annually
+      - As Needed
+      required: true
     - id: 4
-      name: hoaamendments_2
-      label: Hoa Amended Bylaws
+      name: hoaassessments_3
+      label: HOA Maximum Assessment Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: hoaassessments_4
+      label: HOA Minimum Assessment Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: hoaamendments
+      label: HOA Rule Changes
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 5
+      required: true
+    - id: 7
+      name: hoaamendments_2
+      label: HOA Rule Change Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-Annually
+      - Annually
+      - As Needed
+      required: true
+    - id: 8
       name: hoacontactinfo
-      label: Hoa Contact Info
+      label: HOA Contact Information
       hint: null
       type: text
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 9
       name: hoacontactinfo_2
-      label: Hoa Contact Person
+      label: HOA Contact Person
       hint: null
       type: email
       options: []
-      required: false
-    - id: 7
-      name: hoaassessments
-      label: Hoa Assessments
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: hoaassessments_2
-      label: Hoa Assessment Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: hoaassessments_3
-      label: Hoa Assessed Value
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true
     - id: 10
-      name: hoaassessments_4
-      label: Hoa Maximum Assessment Value
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: hoaassessments_5
-      label: Hoa Minimum Assessment Value
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: hoaassessments_6
-      label: Hoa Current Assessment
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: hoaamendments_3
-      label: Hoa Rule Changes
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: hoaamendments_4
-      label: Hoa Rule Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: hoaamendments_5
-      label: Hoa Rule Changes
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: hoaamendments_6
-      label: Hoa Rule Changes
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: hoaamendments_7
-      label: Hoa Rule Change Frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: hoaassessments_7
-      label: Hoa Rule Change Frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: hoaamendments_8
-      label: Hoa Rules and Regs
+      name: hoarules
+      label: HOA Rules and Regulations
       hint: null
       type: text
       options: []
-      required: false
-    - id: 20
-      name: hoaamendments_9
-      label: Hoa Rules and Regs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: hoaamendments_10
-      label: Hoa Rule Changes
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: hoaamendments_11
-      label: Hoa Rules and Regulations
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: hoaassessments_8
-      label: Hoa Rules and Regulations
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: hoaamendments_12
-      label: Hoa Rules and Regs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: hoaamendments_13
-      label: Hoa Rule and Regulations
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

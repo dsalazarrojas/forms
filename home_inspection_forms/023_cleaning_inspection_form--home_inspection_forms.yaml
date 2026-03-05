@@ -1,308 +1,297 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cleaning Inspection Form
     pages:
-      - id: 1
-        name: section_header_inspection
-        label: -- Inspection Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: inspection_date
-        label: Inspection Date
-        hint: Date of cleaning inspection
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: inspection_time
-        label: Inspection Time
-        hint: Time the inspection was conducted
-        type: time
-        options: []
-        required: true
-      - id: 4
-        name: inspector_name
-        label: Inspector Name
-        hint: Name of person conducting inspection
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: customer_name
-        label: Customer Name
-        hint: Name of the property owner
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: property_address
-        label: Property Address
-        hint: Address of the property inspected
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: section_header_kitchen
-        label: -- Kitchen Inspection --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: countertops_clean
-        label: Countertops - Clean and sanitized
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 9
-        name: sink_clean
-        label: Sink and faucet - Clean
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 10
-        name: appliances_clean
-        label: Appliances - Cleaned
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 11
-        name: floor_clean
-        label: Floor - Swept and mopped
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 12
-        name: kitchen_notes
-        label: Kitchen Notes
-        hint: Any issues or observations
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: section_header_bathroom
-        label: -- Bathroom Inspection --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: toilet_clean
-        label: Toilet - Cleaned and disinfected
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 15
-        name: shower_tub_clean
-        label: Shower/Tub - Cleaned
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 16
-        name: bathroom_sink_clean
-        label: Sink and faucet - Clean
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 17
-        name: mirrors_clean
-        label: Mirrors - Cleaned and streak-free
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 18
-        name: bathroom_floor_clean
-        label: Floor - Cleaned
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 19
-        name: bathroom_notes
-        label: Bathroom Notes
-        hint: Any issues or observations
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: section_header_living
-        label: -- Living Areas --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 21
-        name: surfaces_dusted
-        label: Surfaces - Dusted
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 22
-        name: carpets_vacuumed
-        label: Carpets - Vacuumed
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 23
-        name: floors_clean
-        label: Floors - Cleaned and polished
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 24
-        name: living_notes
-        label: Living Areas Notes
-        hint: Any issues or observations
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: section_header_general
-        label: -- General Cleanliness --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 26
-        name: trash_removed
-        label: Trash removed and replaced
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 27
-        name: windows_clean
-        label: Windows - Clean
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Partial
-          - Not Applicable
-        required: true
-      - id: 28
-        name: odor_issues
-        label: Any unpleasant odors present?
-        hint: null
-        type: select_one
-        options:
-          - No
-          - Yes - Minor
-          - Yes - Moderate
-          - Yes - Severe
-        required: true
-      - id: 29
-        name: section_header_summary
-        label: -- Summary and Sign-Off --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 30
-        name: overall_cleanliness
-        label: Overall Cleanliness Rating
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Acceptable
-          - Poor
-          - Unacceptable
-        required: true
-      - id: 31
-        name: additional_comments
-        label: Additional Comments
-        hint: General observations or recommendations
-        type: text
-        options: []
-        required: false
-      - id: 32
-        name: inspection_pass_fail
-        label: Inspection Result
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Pass with Corrections Needed
-          - Fail
-        required: true
+    - id: 1
+      name: section_header_inspection
+      label: -- Inspection Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of cleaning inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: inspection_time
+      label: Inspection Time
+      hint: Time the inspection was conducted
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of person conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_name
+      label: Customer Name
+      hint: Name of the property owner
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Address of the property inspected
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_kitchen
+      label: -- Kitchen Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: countertops_clean
+      label: Countertops - Clean and sanitized
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 9
+      name: sink_clean
+      label: Sink and faucet - Clean
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 10
+      name: appliances_clean
+      label: Appliances - Cleaned
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 11
+      name: floor_clean
+      label: Floor - Swept and mopped
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 12
+      name: kitchen_notes
+      label: Kitchen Notes
+      hint: Any issues or observations
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_header_bathroom
+      label: -- Bathroom Inspection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: toilet_clean
+      label: Toilet - Cleaned and disinfected
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 15
+      name: shower_tub_clean
+      label: Shower/Tub - Cleaned
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 16
+      name: bathroom_sink_clean
+      label: Sink and faucet - Clean
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 17
+      name: mirrors_clean
+      label: Mirrors - Cleaned and streak-free
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 18
+      name: bathroom_floor_clean
+      label: Floor - Cleaned
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 19
+      name: bathroom_notes
+      label: Bathroom Notes
+      hint: Any issues or observations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_living
+      label: -- Living Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: surfaces_dusted
+      label: Surfaces - Dusted
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 22
+      name: carpets_vacuumed
+      label: Carpets - Vacuumed
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 23
+      name: floors_clean
+      label: Floors - Cleaned and polished
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 24
+      name: living_notes
+      label: Living Areas Notes
+      hint: Any issues or observations
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: section_header_general
+      label: -- General Cleanliness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: trash_removed
+      label: Trash removed and replaced
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 27
+      name: windows_clean
+      label: Windows - Clean
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Partial
+      - Not Applicable
+      required: true
+    - id: 28
+      name: odor_issues
+      label: Any unpleasant odors present?
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - Yes - Minor
+      - Yes - Moderate
+      - Yes - Severe
+      required: true
+    - id: 29
+      name: section_header_summary
+      label: -- Summary and Sign-Off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: overall_cleanliness
+      label: Overall Cleanliness Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Unacceptable
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Additional Comments
+      hint: General observations or recommendations
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: inspection_pass_fail
+      label: Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Pass with Corrections Needed
+      - Fail
+      required: true

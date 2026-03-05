@@ -65,16 +65,11 @@ inputSchema:
       hint: Select the primary focus area
       type: select_one
       options:
-      - label: Quality Improvement (QI)
-        value: quality_improvement
-      - label: Patient Safety
-        value: patient_safety
-      - label: Staff Education/Training
-        value: staff_education
-      - label: Technology Implementation
-        value: technology
-      - label: Process Optimization
-        value: process_optimization
+      - Quality Improvement (QI)
+      - Patient Safety
+      - Staff Education/Training
+      - Technology Implementation
+      - Process Optimization
       required: true
     - id: 10
       name: project_timeline_header
@@ -117,7 +112,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Authorized and Registered
-        value: authorized
+      - Authorized and Registered
       - Other
       required: true

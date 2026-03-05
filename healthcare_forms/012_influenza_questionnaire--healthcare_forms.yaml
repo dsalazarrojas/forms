@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Fever''}'
-      - '{''id'': 2, ''name'': ''Chills''}'
-      - '{''id'': 3, ''name'': ''Cough''}'
+      - Fever
+      - Chills
+      - Cough
       required: false
     - id: 3
       name: potential_exposure
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Travel''}'
-      - '{''id'': 2, ''name'': ''Close Contact''}'
-      - '{''id'': 3, ''name'': ''Food Handler''}'
+      - Travel
+      - Close Contact
+      - Food Handler
       required: false
     - id: 4
       name: recent_travel

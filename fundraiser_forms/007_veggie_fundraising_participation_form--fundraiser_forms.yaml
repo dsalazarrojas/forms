@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Delivery''}'
-      - '{''label'': ''Pickup''}'
-      - '{''label'': ''Other''}'
+      - Delivery
+      - Pickup
+      - Other
       required: false
     - id: 3
       name: delivery_details
@@ -47,9 +47,9 @@ inputSchema:
       hint: Are you interested in volunteering?
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': ''Maybe''}'
-      - '{''label'': False}'
+      - 'True'
+      - Maybe
+      - 'False'
       required: false
     - id: 7
       name: volunteer_details
@@ -92,9 +92,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Local Pickup''}'
-      - '{''label'': ''Local Delivery''}'
-      - '{''label'': ''Other''}'
+      - Local Pickup
+      - Local Delivery
+      - Other
       required: false
     - id: 13
       name: output_method
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Self Pickup''}'
-      - '{''label'': ''Drop-off at a local office''}'
-      - '{''label'': ''Delivery to home''}'
+      - Self Pickup
+      - Drop-off at a local office
+      - Delivery to home
       required: false
     - id: 14
       name: output_address
@@ -161,8 +161,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: delivery_details6
@@ -170,8 +170,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 23
       name: delivery_details7
@@ -179,8 +179,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: delivery_details8
@@ -188,8 +188,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 25
       name: delivery_details9
@@ -197,6 +197,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

@@ -5,259 +5,117 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: public_health_data_ethics_survey_form
+      label: Public Health Data Ethics Survey
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: survey_participants
-      label: what_do_you_do
+      name: participant_information
+      label: What do you do in your daily work or activities?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: demographics
-      label: demographic_information
+      name: demographic_information
+      label: What are your demographic information (age, gender, occupation)?
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: survey_attitudes
-      label: attitude_towards_using_anonymous_health_data
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Undecided''}'
-      required: true
-    - id: 5
-      name: survey_priorities
-      label: importance_of_health_data_privacy
+      name: anonymous_data_concerns
+      label: How do you feel about using anonymous health data?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very_important''}'
-      - '{''id'': 2, ''label'': ''Somewhat_important''}'
-      - '{''id'': 3, ''label'': ''Not_very_important''}'
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: data_privacy_priority
+      label: How important do you feel about health data privacy?
+      hint: null
+      type: select_multiple
+      options:
+      - Very important
+      - Somewhat important
+      - Not very important
       required: true
     - id: 6
-      name: survey_particip
-      label: participant_information
-      hint: Enter a number
-      type: number
+      name: data_use_concerns
+      label: What concerns do you have about using anonymous health data?
+      hint: null
+      type: text
       options: []
       required: true
     - id: 7
-      name: survey_particip
-      label: participant_information
+      name: data_use_attitudes
+      label: What do you think about the use of anonymous health data?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neither satisfied nor dissatisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: true
     - id: 8
-      name: survey_concerns
-      label: concerns_about_using_anonymous_data
+      name: likelihood_of_use
+      label: How likely are you to use anonymous health data?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very_concerned''}'
-      - '{''id'': 2, ''label'': ''Somewhat_concerned''}'
-      - '{''id'': 3, ''label'': ''Not_very_concerned''}'
+      - Very likely
+      - Somewhat likely
+      - Not likely
       required: true
     - id: 9
-      name: survey_particip
-      label: participant_information
+      name: participation_feelings
+      label: How do you feel about your own participation in the survey?
       hint: null
-      type: date
+      type: text
       options: []
-      required: true
+      required: false
     - id: 10
-      name: survey_particip
-      label: participant_information
+      name: survey_satisfaction
+      label: How satisfied are you with the survey?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      required: true
+      - Very satisfied
+      - Somewhat satisfied
+      - Neither satisfied nor dissatisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
     - id: 11
-      name: survey_particip
-      label: participant_information
-      hint: Enter a number
-      type: number
+      name: recommendation
+      label: Would you like to be informed about any changes in your health data?
+      hint: null
+      type: text
       options: []
-      required: true
+      required: false
     - id: 12
-      name: survey_particip
-      label: participant_information
+      name: participant_info_2
+      label: Would you recommend this survey to others?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 13
-      name: survey_particip
-      label: participant_information
+      name: participant_info_3
+      label: How would you like to be informed about any changes in your health data?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': True, ''hint'': ''Check all that apply''}'
-      - '{''id'': 2, ''label'': False}'
+      type: text
+      options: []
       required: false
     - id: 14
-      name: survey_particip
-      label: participant_information
+      name: participant_info_4
+      label: How would you like to be informed about the use of your health data?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Very_satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat_satisfied''}'
-      - '{''id'': 3, ''label'': ''Neither_satisfied_nor_dissatisfied''}'
-      - '{''id'': 4, ''label'': ''Somewhat_dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very_dissatisfied''}'
-      required: true
-    - id: 15
-      name: survey_particip
-      label: participant_information
-      hint: Enter participant information
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: survey_particip
-      label: participant_information
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: true
-    - id: 17
-      name: survey_particip
-      label: participant_information
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Very_likely''}'
-      - '{''id'': 2, ''label'': ''Somewhat_likely''}'
-      - '{''id'': 3, ''label'': ''Not_likely''}'
-      required: false
-    - id: 18
-      name: survey_particip
-      label: participant_information
-      hint: Enter participant information
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: survey_particip
-      label: participant_information
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 20
-      name: survey_particip
-      label: participant_information
-      hint: Enter participant information
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: survey_particip
-      label: participant_information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: survey_particip
-      label: participant_information
-      hint: Enter a number
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: survey_particip
-      label: participant_information
-      hint: Enter participant information
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: survey_particip
-      label: participant_information
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: survey_particip
-      label: participant_information
-      hint: Enter participant information
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: survey_particip
-      label: participant_information
-      hint: Enter a number
-      type: number
-      options: []
-      required: false
-    - id: 27
-      name: survey_particip
-      label: participant_information
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      required: false
-    - id: 28
-      name: survey_particip
-      label: participant_information
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Very_satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat_satisfied''}'
-      - '{''id'': 3, ''label'': ''Neither_satisfied_nor_dissatisfied''}'
-      - '{''id'': 4, ''label'': ''Somewhat_dissatisfied''}'
-      - '{''id'': 5, ''label'': ''Very_dissatisfied''}'
-      required: false
-    - id: 29
-      name: survey_particip
-      label: participant_information
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Very_likely''}'
-      - '{''id'': 2, ''label'': ''Somewhat_likely''}'
-      - '{''id'': 3, ''label'': ''Not_likely''}'
-      required: false
-    - id: 30
-      name: survey_particip
-      label: participant_information
-      hint: Enter participant information
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: survey_particip
-      label: participant_information
-      hint: Enter participant information
       type: text
       options: []
       required: false

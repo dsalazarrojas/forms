@@ -12,215 +12,112 @@ inputSchema:
       required: false
     - id: 2
       name: section_1
-      label: How often do you eat
+      label: Breakfast, Lunch, and Dinner Frequency
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Breakfast
+      - Lunch
+      - Dinner
       required: true
     - id: 3
       name: section_2
-      label: Do you have any food allergies
+      label: Food Allergies
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - I have food allergies
+      - I do not have food allergies
       required: false
     - id: 4
       name: section_3
-      label: What do you eat
+      label: Types of Food Eaten
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - Meat and fish
+      - Fruits and vegetables
+      - Grains
+      - Dairy
+      - Other
       required: false
     - id: 5
       name: section_4
-      label: Frequency
+      label: Fruit and Vegetable Frequency
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Several times a week
+      - Occasionally
+      - Rarely
       required: true
     - id: 6
       name: section_5
-      label: How often do you eat certain foods
+      label: Meat and Fish Frequency
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Daily
+      - Several times a week
+      - Occasionally
+      - Rarely
+      required: true
     - id: 7
       name: section_6
-      label: Do you eat certain foods
+      label: Time of Eating
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Morning
+      - Afternoon
+      - Evening
+      - All day
+      required: true
     - id: 8
       name: section_7
-      label: When do you eat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 9
-      name: section_8
-      label: Do you eat when
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: section_9
-      label: Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 11
-      name: section_10
-      label: How much time do you spend on food
+      label: Time Spent on Food Preparation
       hint: null
       type: number
       options: []
       required: false
+    - id: 9
+      name: section_8
+      label: Eating Out Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 10
+      name: section_9
+      label: Leftovers Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 11
+      name: section_10
+      label: Favorite Food
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 12
       name: section_11
-      label: How often do you eat
+      label: Eating Frequency
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 13
-      name: section_12
-      label: How often do you eat
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: section_13
-      label: How often do you eat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 15
-      name: section_14
-      label: How often do you eat
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: section_15
-      label: How often do you eat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 17
-      name: section_16
-      label: How often do you eat
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: section_17
-      label: How often do you eat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 19
-      name: section_18
-      label: Frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 20
-      name: section_19
-      label: How often do you eat
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: section_20
-      label: Do you eat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 22
-      name: section_21
-      label: Do you eat
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: section_22
-      label: How often do you eat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: true
-    - id: 24
-      name: section_23
-      label: How often do you eat
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: section_24
-      label: How often do you eat
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - Daily
+      - Several times a week
+      - Occasionally
+      - Rarely
       required: true

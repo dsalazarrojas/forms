@@ -1,96 +1,85 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Claim Your Holiday Coupon
     pages:
-      - id: 1
-        name: claimant_name
-        label: Claimant name
-        hint: Full name
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: email
-        label: Email address
-        hint: For coupon delivery
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: coupon_selection
-        label: Coupon selection
-        hint: Choose coupon type
-        type: select_one
-        options:
-          - 10 percent
-          - 20 percent
-          - Free shipping
-        required: true
-      - id: 4
-        name: promo_code
-        label: Promo code
-        hint: Enter code if available
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: shipping_option
-        label: Shipping option for physical coupons
-        hint: Choose delivery method
-        type: select_one
-        options:
-          - Email
-          - Postal mail
-          - In store pickup
-        required: true
-      - id: 6
-        name: eligibility_confirmation
-        label: Eligibility confirmation
-        hint: Confirm eligibility terms
-        type: select_one
-        options:
-          - I confirm
-          - I do not confirm
-        required: true
-      - id: 7
-        name: marketing_consent
-        label: Consent to receive marketing
-        hint: Optional subscription consent
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 8
-        name: redemption_instructions
-        label: Redemption instructions note
-        hint: How to redeem coupon
-        type: note
-        options: []
-        required: true
-      - id: 9
-        name: additional_notes
-        label: Additional notes
-        hint: Any special requests
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: submission_date
-        label: Submission date
-        hint: Use current date
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: claimant_name
+      label: Claimant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For coupon delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: coupon_selection
+      label: Coupon selection
+      hint: Choose coupon type
+      type: select_one
+      options:
+      - 10 percent
+      - 20 percent
+      - Free shipping
+      required: true
+    - id: 4
+      name: promo_code
+      label: Promo code
+      hint: Enter code if available
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: shipping_option
+      label: Shipping option for physical coupons
+      hint: Choose delivery method
+      type: select_one
+      options:
+      - Email
+      - Postal mail
+      - In store pickup
+      required: true
+    - id: 6
+      name: eligibility_confirmation
+      label: Eligibility confirmation
+      hint: Confirm eligibility terms
+      type: select_one
+      options:
+      - I confirm
+      - I do not confirm
+      required: true
+    - id: 7
+      name: marketing_consent
+      label: Consent to receive marketing
+      hint: Optional subscription consent
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: redemption_instructions
+      label: Redemption instructions note
+      hint: How to redeem coupon
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: additional_notes
+      label: Additional notes
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use current date
+      type: date
+      options: []
+      required: true

@@ -1,176 +1,168 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CAHPS Health Plan Survey - Child Medicaid 5.0
     pages:
-      - id: 1
-        name: child_medicaid_header
-        label: -- Child Health Plan Experience --
-        hint: This survey focuses on your child's Medicaid health plan services.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: plan_name_child
-        label: Name of Child's Health Plan
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: child_health_status_rating
-        label: In general, how would you rate your child's overall health?
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 4
-        name: specialist_access_child
-        label: How often was it easy to get appointments with specialists for your child?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-          - No specialists needed
-        required: true
-      - id: 5
-        name: timely_appointments_child
-        label: How often did your child get an appointment for a routine check-up as soon as you needed?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 6
-        name: doctor_communication_parent
-        label: How often did your child's doctor explain things in a way you could understand?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 7
-        name: pediatrician_respect_child
-        label: How often did the child's doctor treat your child with courtesy and respect?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 8
-        name: doctor_time_with_child
-        label: How often did the doctor spend enough time with your child?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 9
-        name: customer_service_child_plan
-        label: How often did the plan's customer service staff treat you with respect?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 10
-        name: plan_info_child_services
-        label: How often did your child's health plan give you all the information you needed?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 11
-        name: easy_child_paperwork
-        label: How often were the forms you had to fill out for the plan easy to complete?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 12
-        name: overall_child_plan_rating
-        label: Overall rating of your child's health plan
-        hint: 0 is worst, 10 is best
-        type: select_one
-        options:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: true
-      - id: 13
-        name: recommendation_child_plan
-        label: How likely are you to recommend this plan to other parents?
-        hint: null
-        type: select_one
-        options:
-          - Very Unlikely
-          - Unlikely
-          - Likely
-          - Very Likely
-        required: true
-      - id: 14
-        name: parent_written_feedback
-        label: Please share any specific praise or concerns regarding the child's health plan
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: survey_consent_child
-        label: I consent to my feedback being used for plan improvement
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: child_medicaid_header
+      label: -- Child Health Plan Experience --
+      hint: This survey focuses on your child's Medicaid health plan services.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: plan_name_child
+      label: Name of Child's Health Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_health_status_rating
+      label: In general, how would you rate your child's overall health?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: specialist_access_child
+      label: How often was it easy to get appointments with specialists for your child?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      - No specialists needed
+      required: true
+    - id: 5
+      name: timely_appointments_child
+      label: How often did your child get an appointment for a routine check-up as
+        soon as you needed?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 6
+      name: doctor_communication_parent
+      label: How often did your child's doctor explain things in a way you could understand?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 7
+      name: pediatrician_respect_child
+      label: How often did the child's doctor treat your child with courtesy and respect?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 8
+      name: doctor_time_with_child
+      label: How often did the doctor spend enough time with your child?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 9
+      name: customer_service_child_plan
+      label: How often did the plan's customer service staff treat you with respect?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 10
+      name: plan_info_child_services
+      label: How often did your child's health plan give you all the information you
+        needed?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 11
+      name: easy_child_paperwork
+      label: How often were the forms you had to fill out for the plan easy to complete?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 12
+      name: overall_child_plan_rating
+      label: Overall rating of your child's health plan
+      hint: 0 is worst, 10 is best
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 13
+      name: recommendation_child_plan
+      label: How likely are you to recommend this plan to other parents?
+      hint: null
+      type: select_one
+      options:
+      - Very Unlikely
+      - Unlikely
+      - Likely
+      - Very Likely
+      required: true
+    - id: 14
+      name: parent_written_feedback
+      label: Please share any specific praise or concerns regarding the child's health
+        plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: survey_consent_child
+      label: I consent to my feedback being used for plan improvement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

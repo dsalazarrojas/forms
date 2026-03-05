@@ -4,15 +4,15 @@ inputSchema:
     title: Liquor Inventory Information Record Form
     pages:
     - id: 1
-      name: liquor_inventory_name
+      name: liquor_name
       label: Liquor Name
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: liquor_category
-      label: Liquor Category
+      name: category
+      label: Category
       hint: null
       type: select_one
       options:
@@ -22,7 +22,7 @@ inputSchema:
       - Gin
       - Tequila
       - Liqueur
-      required: false
+      required: true
     - id: 3
       name: purchase_date
       label: Purchase Date
@@ -43,150 +43,53 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 6
-      name: sales_tax_rate
-      label: Sales Tax Rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
       name: sales_price
       label: Sales Price
       hint: null
       type: number
       options: []
       required: true
-    - id: 8
+    - id: 7
       name: purchase_quantity
       label: Purchase Quantity
       hint: null
       type: number
       options: []
       required: true
-    - id: 9
+    - id: 8
       name: sales_quantity
       label: Sales Quantity
       hint: null
       type: number
       options: []
       required: true
-    - id: 10
+    - id: 9
       name: cost
       label: Cost
       hint: null
       type: number
       options: []
       required: true
-    - id: 11
+    - id: 10
       name: notes
       label: Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 12
+    - id: 11
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 13
+    - id: 12
       name: phone
       label: Phone
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 14
-      name: liquor_inventory_name_2
-      label: Liquor Name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 15
-      name: category_2
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Vodka
-      - Rum
-      - Whiskey
-      - Gin
-      - Tequila
-      - Liqueur
-      required: false
-    - id: 16
-      name: purchase_date_2
-      label: Purchase Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 17
-      name: purchase_price_2
-      label: Purchase Price
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 18
-      name: sales_tax_2
-      label: Sales Tax
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: sales_tax_rate_2
-      label: Sales Tax Rate
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: sales_price_2
-      label: Sales Price
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 21
-      name: purchase_quantity_2
-      label: Purchase Quantity
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 22
-      name: sales_quantity_2
-      label: Sales Quantity
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 23
-      name: cost_2
-      label: Cost
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 24
-      name: notes_2
-      label: Notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: email_2
-      label: Email
-      hint: null
-      type: email
       options: []
       required: false

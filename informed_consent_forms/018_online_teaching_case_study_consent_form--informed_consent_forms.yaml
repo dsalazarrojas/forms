@@ -17,9 +17,9 @@ inputSchema:
       type: select_one
       options:
       - id:ประก
-      - '{''id'': ''Instructor''}'
-      - '{''id'': ''Tutor''}'
-      - '{''id'': ''Other''}'
+      - Option 2
+      - Option 3
+      - Option 4
       required: true
     - id: 3
       name: participant_signatures
@@ -76,10 +76,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''Other 1''}'
-      - '{''id'': ''Other 2''}'
-      - '{''id'': ''Other 3''}'
-      - '{''id'': ''Other 4''}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 11
       name: participant_other_other
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''Other 5''}'
-      - '{''id'': ''Other 6''}'
-      - '{''id'': ''Other 7''}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: false
     - id: 12
       name: participant_signature

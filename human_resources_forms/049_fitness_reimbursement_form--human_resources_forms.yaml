@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''active'', ''label'': ''Active''}'
-      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
-      - '{''value'': ''terminated'', ''label'': ''Terminated''}'
+      - Active
+      - Inactive
+      - Terminated
       required: true
     - id: 12
       name: employee_type
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''full-time'', ''label'': ''Full Time''}'
-      - '{''value'': ''part-time'', ''label'': ''Part Time''}'
-      - '{''value'': ''contract'', ''label'': ''Contract''}'
+      - Full Time
+      - Part Time
+      - Contract
       required: true
     - id: 13
       name: date_of_request
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''gym_member'', ''label'': ''Gym Member''}'
-      - '{''value'': ''class_member'', ''label'': ''Class Member''}'
-      - '{''value'': ''membership'', ''label'': ''Membership''}'
+      - Gym Member
+      - Class Member
+      - Membership
       required: true
     - id: 16
       name: reimbursement_date

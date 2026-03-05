@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Wireless Security System'', ''value'': ''wireless_security_system''}'
-      - '{''label'': ''Security Camera'', ''value'': ''security_camera''}'
-      - '{''label'': ''Smart Doorbell'', ''value'': ''smart_doorbell''}'
-      - '{''label'': ''Video Security System'', ''value'': ''video_security_system''}'
+      - Wireless Security System
+      - Security Camera
+      - Smart Doorbell
+      - Video Security System
       required: true
     - id: 6
       name: security_level
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Basic'', ''value'': ''basic''}'
-      - '{''label'': ''Advanced'', ''value'': ''advanced''}'
-      - '{''label'': ''Premium'', ''value'': ''premium''}'
+      - Basic
+      - Advanced
+      - Premium
       required: true
     - id: 7
       name: install_date

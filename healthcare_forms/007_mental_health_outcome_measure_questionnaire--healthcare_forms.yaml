@@ -30,11 +30,11 @@ inputSchema:
       hint: Please choose one of the scales provided
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Scale 1''}'
-      - '{''id'': 2, ''label'': ''Scale 2''}'
-      - '{''id'': 3, ''label'': ''Scale 3''}'
-      - '{''id'': 4, ''label'': ''Scale 4''}'
-      - '{''id'': 5, ''label'': ''Scale 5''}'
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      - Scale 4
+      - Scale 5
       required: false
     - id: 5
       name: mental_health_rating
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Low''}'
-      - '{''id'': 2, ''label'': ''Low''}'
-      - '{''id'': 3, ''label'': ''Moderate''}'
-      - '{''id'': 4, ''label'': ''High''}'
-      - '{''id'': 5, ''label'': ''Very High''}'
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
       required: false
     - id: 8
       name: scale_2_frequency
@@ -68,11 +68,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Low''}'
-      - '{''id'': 2, ''label'': ''Low''}'
-      - '{''id'': 3, ''label'': ''Moderate''}'
-      - '{''id'': 4, ''label'': ''High''}'
-      - '{''id'': 5, ''label'': ''Very High''}'
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
       required: false
     - id: 9
       name: scale_3_frequency
@@ -80,11 +80,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Low''}'
-      - '{''id'': 2, ''label'': ''Low''}'
-      - '{''id'': 3, ''label'': ''Moderate''}'
-      - '{''id'': 4, ''label'': ''High''}'
-      - '{''id'': 5, ''label'': ''Very High''}'
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
       required: false
     - id: 10
       name: scale_4_frequency
@@ -92,11 +92,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Low''}'
-      - '{''id'': 2, ''label'': ''Low''}'
-      - '{''id'': 3, ''label'': ''Moderate''}'
-      - '{''id'': 4, ''label'': ''High''}'
-      - '{''id'': 5, ''label'': ''Very High''}'
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
       required: false
     - id: 11
       name: scale_5_frequency
@@ -104,11 +104,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Very Low''}'
-      - '{''id'': 2, ''label'': ''Low''}'
-      - '{''id'': 3, ''label'': ''Moderate''}'
-      - '{''id'': 4, ''label'': ''High''}'
-      - '{''id'': 5, ''label'': ''Very High''}'
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
       required: false
     - id: 12
       name: follow_up
@@ -172,7 +172,7 @@ inputSchema:
       required: false
     - id: 20
       name: mental_health_follow_up_time
-      label: Follow up Time
+      label: Mental Health Follow Up Time
       hint: null
       type: time
       options: []
@@ -185,8 +185,8 @@ inputSchema:
       options: []
       required: false
     - id: 22
-      name: mental_health_status_comments
-      label: Mental Health Status Comments
+      name: mental_health_status_comments_2
+      label: Mental Health Status Comments 2
       hint: null
       type: text
       options: []
@@ -199,8 +199,8 @@ inputSchema:
       options: []
       required: false
     - id: 24
-      name: mental_health_counseling_session
-      label: Mental Health Counseling Session
+      name: mental_health_counseling_session_2
+      label: Mental Health Counseling Session 2
       hint: null
       type: select_multiple
       options:

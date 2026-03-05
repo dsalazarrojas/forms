@@ -16,22 +16,22 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2, ''label'': ''Chest''}'
-      - '{''id'': 3, ''label'': ''Hips''}'
-      - '{''id'': 4, ''label'': ''Waist''}'
-      - '{''id'': 5, ''label'': ''Shoulders''}'
-      - '{''id'': 6, ''label'': ''Hips Circumference''}'
-      - '{''id'': 7, ''label'': ''Waist Circumference''}'
-      - '{''id'': 8, ''label'': ''Neck''}'
-      - '{''id'': 9, ''label'': ''Hip Circumference''}'
-      - '{''id'': 10, ''label'': ''Thigh''}'
-      - '{''id'': 11, ''label'': ''Shoulder Circumference''}'
-      - '{''id'': 12, ''label'': ''Arm''}'
-      - '{''id'': 13, ''label'': ''Calf''}'
-      - '{''id'': 14, ''label'': ''Thigh Circumference''}'
-      - '{''id'': 15, ''label'': ''Forearm''}'
-      - '{''id'': 16, ''label'': ''Calf Circumference''}'
-      - '{''id'': 17, ''label'': ''Forearm Circumference''}'
+      - Chest
+      - Hips
+      - Waist
+      - Shoulders
+      - Hips Circumference
+      - Waist Circumference
+      - Neck
+      - Hip Circumference
+      - Thigh
+      - Shoulder Circumference
+      - Arm
+      - Calf
+      - Thigh Circumference
+      - Forearm
+      - Calf Circumference
+      - Forearm Circumference
       required: true
     - id: 3
       name: comments
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 24, ''label'': ''Male''}'
-      - '{''id'': 25, ''label'': ''Female''}'
-      - '{''id'': 26, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: true
     - id: 10
       name: next_action
@@ -91,6 +91,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 25, ''label'': ''Send Report''}'
-      - '{''id'': 26, ''label'': ''No Action''}'
+      - Send Report
+      - No Action
       required: true

@@ -159,7 +159,7 @@ inputSchema:
       - Yes, 3 to 5 years
       - Yes, 1 to 3 years
       - Yes, less than 1 year
-      - false
+      - 'False'
       required: true
     - id: 21
       name: experience_details
@@ -184,7 +184,7 @@ inputSchema:
       - Yes, current certification
       - Yes, but expired
       - No, but willing to obtain
-      - false
+      - 'False'
       required: true
     - id: 24
       name: criminal_history
@@ -192,8 +192,8 @@ inputSchema:
       hint: Have you ever been convicted of a crime?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: criminal_history_details
@@ -208,8 +208,8 @@ inputSchema:
       hint: Have you ever been listed on a child abuse registry?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: reference_1_name

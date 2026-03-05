@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -45,7 +34,7 @@ inputSchema:
     - id: 5
       name: time_tested
       label: Time Tested
-      hint: "12 hour format (ex. 12:00 PM)"
+      hint: 12 hour format (ex. 12 -00 PM)
       type: time
       options: []
       required: false
@@ -55,10 +44,10 @@ inputSchema:
       hint: What type of test was done?
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''PCR''}'
-      - '{''id'': 2, ''name'': ''Rapid Antigen''}'
-      - '{''id'': 3, ''name'': ''Rapid Antibody''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - PCR
+      - Rapid Antigen
+      - Rapid Antibody
+      - Other
       required: false
     - id: 7
       name: upload_file
@@ -80,27 +69,27 @@ inputSchema:
       hint: What type of file did you upload?
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Lab Results''}'
-      - '{''id'': 2, ''name'': ''Positive Test Results''}'
-      - '{''id'': 3, ''name'': ''Negative Test Results''}'
+      - Lab Results
+      - Positive Test Results
+      - Negative Test Results
       required: false
     - id: 10
       name: test_result_file
-      label: Test Result
+      label: Test Result File
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: submit_form
-      label: Submit Form
+      name: submit_form_2
+      label: Submit Form 2
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: contact_details
-      label: Contact Details
+      name: contact_details_2
+      label: Contact Details 2
       hint: null
       type: text
       options: []

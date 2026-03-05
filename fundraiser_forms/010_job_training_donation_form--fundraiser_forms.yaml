@@ -9,59 +9,62 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
       name: user_input_2
       label: Donor Name
-      hint: Name of donor
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: user_input_3
       label: Donor Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 4
       name: user_input_4
       label: Donor Address 1
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: user_input_5
       label: Donor Address 2
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: user_input_6
       label: Donation Description
-      hint: Brief description of the project
+      hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 7
       name: user_input_7
       label: Training Program
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Job Training Program 1
+      - Job Training Program 2
+      - Job Training Program 3
+      - Job Training Program 4
       required: false
     - id: 8
       name: user_input_8
       label: Frequency of Donations
-      hint: Choose how often donor wants to give
+      hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Monthly
+      - Quarterly
+      - Yearly
       required: false
     - id: 9
       name: user_input_9
@@ -69,21 +72,21 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 10
       name: user_input_10
       label: Time of Donation
-      hint: Time of donation in 24 hour format
+      hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 11
       name: user_input_11
       label: Phone Number
-      hint: Phone number of donor
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
       name: user_input_12
       label: Additional Comments
@@ -111,19 +114,21 @@ inputSchema:
       required: false
     - id: 15
       name: user_input_15
-      label: Donor ID
-      hint: ID of Donor
+      label: Donor Type
+      hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Individual
+      - Organization
       required: false
     - id: 16
       name: user_input_16
-      label: Amount
+      label: Payment Method
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - Online
+      - Offline
       required: false
     - id: 17
       name: user_input_17
@@ -131,78 +136,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: user_input_18
-      label: Payment Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: user_input_19
-      label: Frequency of Donations
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: user_input_20
-      label: Donation Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: user_input_21
-      label: Payment Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      required: false
-    - id: 22
-      name: user_input_22
-      label: Donor Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: user_input_23
-      label: Donor Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: user_input_24
-      label: Donor Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: user_input_25
-      label: Donor Type
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      - USD
+      - EUR
       required: false

@@ -30,8 +30,8 @@ inputSchema:
       hint: Check this box to acknowledge the rules
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I have read and agree to the rules''}'
-      - '{''id'': 2, ''label'': ''I have not read and do not agree to the rules''}'
+      - I have read and agree to the rules
+      - I have not read and do not agree to the rules
       required: false
     - id: 5
       name: email
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Guest 1''}'
-      - '{''id'': 2, ''label'': ''Guest 2''}'
-      - '{''id'': 3, ''label'': ''Guest 3''}'
+      - Guest 1
+      - Guest 2
+      - Guest 3
       required: false
     - id: 11
       name: rule_acknowledge_all_staff
@@ -84,7 +84,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4, ''label'': ''Staff 1''}'
-      - '{''id'': 5, ''label'': ''Staff 2''}'
-      - '{''id'': 6, ''label'': ''Staff 3''}'
+      - Staff 1
+      - Staff 2
+      - Staff 3
       required: false

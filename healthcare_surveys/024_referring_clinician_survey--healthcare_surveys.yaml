@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''Mail''}'
+      - Email
+      - Phone
+      - Mail
       required: true
     - id: 3
       name: contact_person
@@ -75,9 +75,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''New Patient''}'
-      - '{''id'': 2, ''label'': ''Existing Patient''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - New Patient
+      - Existing Patient
+      - Both
       required: true
     - id: 11
       name: patient_condition

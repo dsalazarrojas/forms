@@ -23,10 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''primary_contact'', ''label'': ''Primary Contact'', ''value'':
-        ''primary_contact''}'
-      - '{''name'': ''alternate_contact'', ''label'': ''Alternate Contact'', ''value'':
-        ''alternate_contact''}'
+      - Primary Contact
+      - Alternate Contact
       required: false
     - id: 4
       name: contact_relationship
@@ -34,10 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''emergency_contact_person'', ''label'': ''Emergency Contact Person'',
-        ''value'': ''emergency_contact_person''}'
-      - '{''name'': ''emergency_contact_person_2'', ''label'': ''Alternate Contact
-        Person'', ''value'': ''emergency_contact_person_2''}'
+      - Emergency Contact Person
+      - Alternate Contact Person
       required: false
     - id: 5
       name: contact_number
@@ -73,10 +69,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''primary_contact'', ''label'': ''Primary Contact'', ''value'':
-        ''primary_contact''}'
-      - '{''name'': ''alternate_contact'', ''label'': ''Alternate Contact'', ''value'':
-        ''alternate_contact''}'
+      - Primary Contact
+      - Alternate Contact
       required: false
     - id: 10
       name: emergency_contact_phone
@@ -147,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''active'', ''label'': ''Active'', ''value'': ''active''}'
-      - '{''name'': ''inactive'', ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 20
       name: employee_status
@@ -156,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''active'', ''label'': ''Active'', ''value'': ''active''}'
-      - '{''name'': ''inactive'', ''label'': ''Inactive'', ''value'': ''inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 21
       name: department
@@ -165,10 +159,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''sales'', ''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''name'': ''marketing'', ''label'': ''Marketing'', ''value'': ''marketing''}'
-      - '{''name'': ''customer_support'', ''label'': ''Customer Support'', ''value'':
-        ''customer_support''}'
+      - Sales
+      - Marketing
+      - Customer Support
       required: false
     - id: 22
       name: job_title

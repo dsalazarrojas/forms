@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''unsure''}'
+      - 'True'
+      - 'False'
+      - unsure
       required: false
     - id: 8
       name: emotional_state
@@ -61,14 +61,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''happy''}'
-      - '{''id'': 2, ''label'': ''sad''}'
-      - '{''id'': 3, ''label'': ''frustrated''}'
-      - '{''id'': 4, ''label'': ''anxious''}'
-      - '{''id'': 5, ''label'': ''angry''}'
-      - '{''id'': 6, ''label'': ''bored''}'
-      - '{''id'': 7, ''label'': ''confused''}'
-      - '{''id'': 8, ''label'': ''other''}'
+      - happy
+      - sad
+      - frustrated
+      - anxious
+      - angry
+      - bored
+      - confused
+      - other
       required: false
     - id: 9
       name: notes

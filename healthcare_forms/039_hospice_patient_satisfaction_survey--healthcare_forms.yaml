@@ -37,11 +37,11 @@ inputSchema:
       hint: On a scale from 1 to 5
       type: select_one
       options:
-      - '{''option1'': 1}'
-      - '{''option2'': 2}'
-      - '{''option3'': 3}'
-      - '{''option4'': 4}'
-      - '{''option5'': 5}'
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
       required: false
     - id: 6
       name: comments
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': True}'
-      - '{''option2'': False}'
+      - Option 1
+      - Option 2
       required: false
     - id: 14
       name: physician_nurse_visit_date
@@ -135,19 +135,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': True}'
-      - '{''option2'': False}'
+      - Option 1
+      - Option 2
       required: false
     - id: 19
       name: care_coordinator_visit_date
-      label: Visit date
+      label: Care Coordinator Visit Date
       hint: null
       type: date
       options: []
       required: false
     - id: 20
       name: care_coordinator_visit_time
-      label: Visit time
+      label: Care Coordinator Visit Time
       hint: null
       type: time
       options: []
@@ -172,19 +172,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option1'': True}'
-      - '{''option2'': False}'
+      - Option 1
+      - Option 2
       required: false
     - id: 24
       name: social_worker_visit_date
-      label: Visit date
+      label: Social Worker Visit Date
       hint: null
       type: date
       options: []
       required: false
     - id: 25
       name: social_worker_visit_time
-      label: Visit time
+      label: Social Worker Visit Time
       hint: null
       type: time
       options: []

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: booth_details
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Apple'', ''value'': ''apple''}'
-      - '{''label'': ''Carrot'', ''value'': ''carrot''}'
-      - '{''label'': ''Broccoli'', ''value'': ''broccoli''}'
+      - Apple
+      - Carrot
+      - Broccoli
       required: false
     - id: 7
       name: payment_terms
@@ -70,6 +70,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
+      - Phone
+      - Email
       required: false

@@ -5,182 +5,171 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: What is the purpose of this form?
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: technology_name
-      label: technology name
+      name: technology_rating
+      label: How would you rate the technology on a scale of 1-5?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 3
-      name: technology_rating
-      label: technology rating
+      name: easy_to_use
+      label: How easy was it to use the technology?
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: overall_important
-      label: overall important
+      name: implementation_time
+      label: How long did it take you to get familiar with the technology?
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: easy_to_use
-      label: easy to use
-      hint: null
-      type: select_one
-      options:
-      - very easy
-      - easy
-      - not easy
-      required: false
-    - id: 6
-      name: time_saved
-      label: time saved
+      name: use_frequency
+      label: How often do you use the technology?
       hint: null
       type: number
       options: []
       required: false
-    - id: 7
-      name: time_impact
-      label: time impact
+    - id: 6
+      name: technology_features
+      label: What features or functionalities does the technology have that you find
+        particularly useful?
       hint: null
-      type: number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technology_features_improvement
+      label: What features or functionalities does the technology lack that you would
+        like to see improved?
+      hint: null
+      type: text
       options: []
       required: false
     - id: 8
       name: impact_on_worklife
-      label: impact on work life
+      label: How has the technology impacted your work life?
       hint: null
       type: number
       options: []
       required: false
     - id: 9
-      name: impact_on_health
-      label: impact on health
+      name: productivity_impact
+      label: How has the technology impacted your overall productivity?
       hint: null
       type: number
       options: []
       required: false
     - id: 10
-      name: prophets_time_impact
-      label: prophets time impact
+      name: happiness_impact
+      label: How has the technology impacted your overall happiness?
       hint: null
       type: number
       options: []
       required: false
     - id: 11
-      name: easy_to_use
-      label: easy to use technology
+      name: health_impact
+      label: How has the technology impacted your physical health?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 12
-      name: impact_on_worklife
-      label: impact on worklife
+      name: mental_health_impact
+      label: How has the technology impacted your mental health?
       hint: null
       type: number
       options: []
       required: false
     - id: 13
-      name: impact_on_health
-      label: impact on health
+      name: implementation_easiness
+      label: How easy was it to implement the technology in your work setting?
       hint: null
       type: number
       options: []
       required: false
     - id: 14
-      name: easy_to_implement
-      label: easy to implement
+      name: support_received
+      label: How much training or support did you receive to use the technology?
       hint: null
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      - not sure
+      type: number
+      options: []
       required: false
     - id: 15
-      name: technology_name
-      label: technology name
+      name: recommendation
+      label: Would you recommend this technology to a colleague or friend?
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 16
-      name: overall_rating
-      label: overall rating
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: overall_important
-      label: overall important
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: time_impact
-      label: time impact
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: easy_to_use
-      label: easy to use
+      name: additional_comments
+      label: Do you have any additional comments or suggestions about the technology?
       hint: null
       type: text
       options: []
       required: false
+    - id: 17
+      name: likes_dislikes
+      label: Is there anything that you particularly like or dislike about the technology?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: concerns_issues
+      label: Do you have any concerns or issues with the technology?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: time_spend
+      label: How much time do you spend using the technology per week?
+      hint: null
+      type: number
+      options: []
+      required: false
     - id: 20
-      name: overall_important
-      label: overall important
+      name: time_saved
+      label: How much time do you think the technology saves you per week?
       hint: null
       type: number
       options: []
       required: false
     - id: 21
-      name: time_saved
-      label: time saved
+      name: time_impact
+      label: How much time do you think the technology impacts you per week?
       hint: null
       type: number
       options: []
       required: false
     - id: 22
-      name: time_impact
-      label: time impact
+      name: likeliness_to_recommend
+      label: How likely are you to recommend this technology to a colleague or friend?
       hint: null
       type: number
       options: []
       required: false
     - id: 23
-      name: impact_on_worklife
-      label: impact on work life
+      name: why_recommend
+      label: Why would you recommend or not recommend the technology?
       hint: null
-      type: number
+      type: text
       options: []
       required: false
     - id: 24
-      name: impact_on_health
-      label: impact on health
+      name: why_not_recommend
+      label: Why would you not recommend the technology?
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: time_saved
-      label: time saved
-      hint: null
-      type: number
+      type: text
       options: []
       required: false

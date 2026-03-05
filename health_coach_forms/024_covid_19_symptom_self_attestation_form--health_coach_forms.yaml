@@ -141,7 +141,7 @@ inputSchema:
       hint: Respiratory symptoms
       type: select_one
       options:
-      - false
+      - 'False'
       - Mild
       - Moderate
       - Severe
@@ -152,7 +152,7 @@ inputSchema:
       hint: Chest symptoms
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes mild
       - Yes moderate
       - Yes severe
@@ -163,8 +163,8 @@ inputSchema:
       hint: Neurological symptoms
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 20
       name: bluish_lips_or_face
@@ -172,8 +172,8 @@ inputSchema:
       hint: Emergency symptom
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 21
       name: underlying_conditions

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''primary caregiver''}'
-      - '{''id'': 2, ''name'': ''secondary caregiver''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - primary caregiver
+      - secondary caregiver
+      - other
       required: false
     - id: 3
       name: care_receiver_identity
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''basic care''}'
-      - '{''id'': 2, ''name'': ''skilled care''}'
-      - '{''id'': 3, ''name'': ''custodial care''}'
+      - basic care
+      - skilled care
+      - custodial care
       required: false
     - id: 5
       name: technology_usage
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''smart home''}'
-      - '{''id'': 2, ''name'': ''telecare''}'
-      - '{''id'': 3, ''name'': ''video monitoring''}'
+      - smart home
+      - telecare
+      - video monitoring
       required: false
     - id: 6
       name: technology_impact
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''improved quality of care''}'
-      - '{''id'': 2, ''name'': ''cost savings''}'
-      - '{''id'': 3, ''name'': ''enhanced caregiver engagement''}'
+      - improved quality of care
+      - cost savings
+      - enhanced caregiver engagement
       required: false
     - id: 7
       name: technology_challenges
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''cost''}'
-      - '{''id'': 2, ''name'': ''training''}'
-      - '{''id'': 3, ''name'': ''adoption''}'
+      - cost
+      - training
+      - adoption
       required: false
     - id: 8
       name: care_quality
@@ -80,9 +80,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''in-person''}'
-      - '{''id'': 2, ''name'': ''remote''}'
-      - '{''id'': 3, ''name'': ''both''}'
+      - in-person
+      - remote
+      - both
       required: false
     - id: 10
       name: survey_response
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''carequal''}'
-      - '{''id'': 3, ''name'': ''other''}'
+      - chatjimmy
+      - carequal
+      - other
       required: false
     - id: 13
       name: other_notes

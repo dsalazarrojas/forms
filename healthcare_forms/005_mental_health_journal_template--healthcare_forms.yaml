@@ -4,15 +4,15 @@ inputSchema:
     title: Mental Health Journal Template
     pages:
     - id: 1
-      name: user_input_1
-      label: daily_mood_rating
+      name: daily_mood_rating
+      label: Daily Mood Rating (1-10)
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: user_input_2
-      label: mental_health_status
+      name: mental_health_status
+      label: Mental Health Status
       hint: null
       type: select_one
       options:
@@ -20,97 +20,107 @@ inputSchema:
       - Inactive
       required: true
     - id: 3
-      name: user_input_3
-      label: mental_health_progress
+      name: mental_health_progress
+      label: Progress Notes
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: user_input_4
-      label: mental_health_notes
+      name: emotions_today
+      label: Emotions Today
       hint: null
-      type: note
-      options: []
+      type: select_multiple
+      options:
+      - Happy
+      - Sad
+      - Anxious
+      - Angry
+      - Excited
       required: true
     - id: 5
-      name: user_input_5
-      label: emotions_today
+      name: emotions_over_2_days
+      label: Emotions Over Last 2 Days
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Happy
+      - Sad
+      - Anxious
+      - Angry
+      - Excited
+      required: true
     - id: 6
-      name: user_input_6
-      label: emotions_over_2_days
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: user_input_7
-      label: mental_health_goal
+      name: mental_health_goal
+      label: Mental Health Goal
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
-    - id: 8
-      name: user_input_8
-      label: mental_health_goal_status
+    - id: 7
+      name: mental_health_goal_status
+      label: Goal Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
       required: true
+    - id: 8
+      name: mental_health_rating
+      label: Mental Health Rating (1-10)
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 9
-      name: user_input_9
-      label: mental_health_rating
+      name: mental_health_rating_2
+      label: Mental Health Rating 2 (1-10)
       hint: null
       type: number
       options: []
-      required: true
+      required: false
     - id: 10
-      name: user_input_10
-      label: mental_health_rating_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: mental_health_rating_3
-      label: mental_health_rating_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 12
-      name: user_input_12
-      label: mental_health_rater_2
+      name: mental_health_rater_1
+      label: Mental Health Rater 1 (Good/Fair)
       hint: null
       type: select_one
       options:
       - Good
       - Fair
       required: true
-    - id: 13
-      name: user_input_13
-      label: mental_health_rater_3
+    - id: 11
+      name: mental_health_rater_2
+      label: Mental Health Rater 2 (Good/Fair)
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: mental_health_rater_3
+      label: Mental Health Rater 3 (Good/Fair)
       hint: null
       type: select_one
       options:
       - Good
       - Fair
       required: false
+    - id: 13
+      name: mental_health_rater_4
+      label: Mental Health Rater 4 (Good/Fair)
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
     - id: 14
-      name: user_input_14
-      label: mental_health_rater_4
+      name: mental_health_rater_5
+      label: Mental Health Rater 5 (Good/Fair)
       hint: null
       type: select_one
       options:
@@ -118,8 +128,8 @@ inputSchema:
       - Fair
       required: true
     - id: 15
-      name: user_input_15
-      label: mental_health_rater_5
+      name: mental_health_rater_6
+      label: Mental Health Rater 6 (Good/Fair)
       hint: null
       type: select_one
       options:
@@ -127,8 +137,8 @@ inputSchema:
       - Fair
       required: true
     - id: 16
-      name: mental_health_rater_6
-      label: mental_health_rater_5
+      name: mental_health_rater_7
+      label: Mental Health Rater 7 (Good/Fair)
       hint: null
       type: select_one
       options:
@@ -136,8 +146,8 @@ inputSchema:
       - Fair
       required: true
     - id: 17
-      name: user_input_17
-      label: mental_health_rater_6
+      name: mental_health_rater_8
+      label: Mental Health Rater 8 (Good/Fair)
       hint: null
       type: select_one
       options:
@@ -145,71 +155,8 @@ inputSchema:
       - Fair
       required: true
     - id: 18
-      name: user_input_18
-      label: mental_health_rater_7
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: true
-    - id: 19
-      name: user_input_19
-      label: mental_health_rater_8
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: true
-    - id: 20
-      name: user_input_20
-      label: mental_health_rater_8
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: true
-    - id: 21
-      name: user_input_21
-      label: mental_health_rater_8
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: true
-    - id: 22
       name: mental_health_rater_9
-      label: mental_health_rater_8
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: true
-    - id: 23
-      name: mental_health_rater_10
-      label: mental_health_rater_9
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: true
-    - id: 24
-      name: user_input_24
-      label: mental_health_rater_11
-      hint: null
-      type: select_one
-      options:
-      - Good
-      - Fair
-      required: true
-    - id: 25
-      name: user_input_25
-      label: mental_health_rater_12
+      label: Mental Health Rater 9 (Good/Fair)
       hint: null
       type: select_one
       options:

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: reason_for_release
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
-      - '{''value'': ''reviewed'', ''label'': ''Reviewed''}'
+      - Pending
+      - Reviewed
       required: false
     - id: 9
       name: submitter_name
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''manager'', ''label'': ''Manager''}'
-      - '{''value'': ''director'', ''label'': ''Director''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Manager
+      - Director
+      - Other
       required: false
     - id: 16
       name: release_by_other

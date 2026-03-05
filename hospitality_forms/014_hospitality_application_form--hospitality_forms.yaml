@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''hospitality''}'
-      - '{''name'': ''sales''}'
-      - '{''name'': ''food_service''}'
-      - '{''name'': ''customer_service''}'
+      - hospitality
+      - sales
+      - food service
+      - customer service
       required: false
     - id: 3
       name: education_background
@@ -48,9 +48,9 @@ inputSchema:
       hint: Provide 2 professional references.
       type: select_multiple
       options:
-      - '{''name'': ''manager''}'
-      - '{''name'': ''coworker''}'
-      - '{''name'': ''supervisor''}'
+      - manager
+      - coworker
+      - supervisor
       required: false
     - id: 7
       name: job
@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''manager''}'
-      - '{''name'': ''assistant_manager''}'
-      - '{''name'': ''supervisor''}'
-      - '{''name'': ''staff''}'
+      - manager
+      - assistant manager
+      - supervisor
+      - staff
       required: false
     - id: 8
       name: availability
@@ -83,12 +83,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''under_reviewæk''}'
-      - '{''name'': ''rejected''}'
-      - '{''name'': ''interview''}'
-      - '{''name'': ''underประก''}'
-      - '{''name'': ''selected_for_interview''}'
-      - '{''name'': ''under_processing''}'
+      - under reviewæk
+      - rejected
+      - interview
+      - underประก
+      - selected for interview
+      - under processing
       required: false
     - id: 11
       name: additional_comments

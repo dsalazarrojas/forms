@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True, ''value'': True}'
-      - '{''id'': 2, ''text'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: date_of_birth
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Dr. Smith''}'
-      - '{''id'': 2, ''text'': ''Dr. Jones''}'
-      - '{''id'': 3, ''text'': ''Dr. Doe''}'
+      - Dr. Smith
+      - Dr. Jones
+      - Dr. Doe
       required: false
     - id: 9
       name: authorized_parties
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Mother''}'
-      - '{''id'': 2, ''text'': ''Father''}'
-      - '{''id'': 3, ''text'': ''Spouse''}'
+      - Mother
+      - Father
+      - Spouse
       required: false
     - id: 10
       name: authorized_signature

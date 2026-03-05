@@ -207,8 +207,8 @@ inputSchema:
       hint: Flexibility
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Depends on benefits
       required: false
     - id: 26
@@ -244,7 +244,7 @@ inputSchema:
       - Yes, attached
       - Yes, submitted separately
       - Will submit soon
-      - false
+      - 'False'
       required: true
     - id: 29
       name: cover_letter_attached
@@ -255,7 +255,7 @@ inputSchema:
       - Yes, attached
       - Yes, submitted separately
       - Will submit soon
-      - false
+      - 'False'
       required: false
     - id: 30
       name: references_available
@@ -277,7 +277,7 @@ inputSchema:
       - Yes, permanent resident
       - Yes, with work visa
       - Need sponsorship
-      - false
+      - 'False'
       required: true
     - id: 32
       name: visa_status

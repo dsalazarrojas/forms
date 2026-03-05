@@ -9,21 +9,21 @@ inputSchema:
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 2
       name: end_date
       label: End Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
       name: reason
       label: Reason
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: team_lead_approve
       label: Team Lead Approve
@@ -32,7 +32,7 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 5
       name: manager_approve
       label: Manager Approve
@@ -41,43 +41,21 @@ inputSchema:
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 6
-      name: approved_by
-      label: Approved By
+      name: leave_type
+      label: Leave Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Vacation
+      - Sick
+      - Personal
+      required: true
     - id: 7
-      name: start_date
-      label: Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: reason
-      label: Reason
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
-      name: team_lead_approve
-      label: Team Lead Approve
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

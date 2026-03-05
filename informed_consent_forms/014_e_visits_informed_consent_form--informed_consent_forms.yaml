@@ -4,115 +4,116 @@ inputSchema:
     title: E Visits Informed Consent Form
     pages:
     - id: 1
-      name: e_visits_informed_consent_form
-      label: e_visits_informed_consent_form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: e_visits_informed_consent_form_2
-      label: e_visits_informed_consent
+      name: e_visits_informed_consent_form_page_1
+      label: Informed Consent Overview
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 2
+      name: e_visits_informed_consent_form_page_2
+      label: Benefits of E-Visits
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 3
-      name: e_visits_informed_consent_form_3
-      label: e-visits
+      name: e_visits_informed_consent_form_page_3
+      label: Risks of E-Visits
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: e_visits_informed_consent_form_page_4
+      label: E Visits Schedule
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: e_visits_informed_consent_form_page_5
+      label: Frequency of E Visits
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Daily
+      - Weekly
+      required: false
+    - id: 6
+      name: e_visits_informed_consent_form_page_6
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: e_visits_informed_consent_form_page_7
+      label: Consent for E Visits
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 4
-      name: e_visits_informed_consent_form_4
-      label: what-is-e-visits
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: e_visits_informed_consent_form_5
-      label: what-are-the-benefits-of-e-visits
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: e_visits_informed_consent_form_6
-      label: what-are-the-risks-of-e-visits
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: e_visits_informed_consent_form_7
-      label: e-visits
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
-      name: e_visits_informed_consent_form_8
-      label: e-visits
+      name: e_visits_informed_consent_form_page_8
+      label: Consent for Data Sharing
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
-      name: e_visits_informed_consent_form_9
-      label: e-visits
+      name: e_visits_informed_consent_form_page_9
+      label: Additional Comments
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 10
-      name: e_visits_informed_consent_form_10
-      label: e-visits-informed-consent-form-10
+      name: e_visits_informed_consent_form_page_10
+      label: Date of Birth
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 11
-      name: e_visits_informed_consent_form_11
-      label: e-visits-informed-consent-form-11
+      name: e_visits_informed_consent_form_page_11
+      label: Time of Availability
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 12
-      name: e_visits_informed_consent_form_12
-      label: e-visits-informed-consent-form-12
+      name: e_visits_informed_consent_form_page_12
+      label: Additional Information
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 13
-      name: e_visits_informed_consent_form_13
-      label: e-visits-informed-consent-form-13
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 14
-      name: e_visits_informed_consent_form_14
-      label: e-visits-informed-consent-form-14
+      name: e_visits_informed_consent_form_page_13
+      label: Schedule for Follow-Up E Visits
       hint: null
       type: date
       options: []
-      required: false
-    - id: 15
-      name: e_visits_informed_consent_form_15
-      label: e-visits-informed-consent-form-15
+      required: true
+    - id: 14
+      name: e_visits_informed_consent_form_page_14
+      label: Time for Follow-Up E Visits
       hint: null
       type: time
       options: []
-      required: false
+      required: true
+    - id: 15
+      name: e_visits_informed_consent_form_page_15
+      label: Review and Agreement
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: true

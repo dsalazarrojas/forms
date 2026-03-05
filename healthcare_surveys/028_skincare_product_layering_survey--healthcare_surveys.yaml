@@ -4,32 +4,153 @@ inputSchema:
     title: Skincare Product Layering Survey
     pages:
     - id: 1
-      name: skincare_product_layering
-      label: skincare_product_layering
+      name: page_1
+      label: Introduction to Skincare Product Layering Survey
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: skincare_product_layering
-      label: skincare_product_layering
+      name: page_2
+      label: How Frequently Do You Use Skincare Products?
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Always
       required: true
     - id: 3
-      name: skincare_product_layering
-      label: skincare_product_layering
+      name: page_3
+      label: How Often Do You Apply Skincare Products In A Day?
       hint: null
-      type: date
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
-      name: skincare_product_layering
-      label: skincare_product_layering
+      name: page_4
+      label: How Often Do You Layer Different Skincare Products In A Session?
       hint: null
-      type: time
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: page_5
+      label: Do You Mix And Match Products From Different Brands?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 6
+      name: page_6
+      label: Do You Use Multiple Products From The Same Brand?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 7
+      name: page_7
+      label: How Long Have You Been Using Skincare Products?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: What Products Do You Use For Cleansing, Toning, And Moisturizing?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 9
+      name: page_9
+      label: Which Skincare Products Do You Currently Use?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 10
+      name: page_10
+      label: How Often Do You Find The Products Deliver Satisfactory Results?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: page_11
+      label: How Important Is It To You To Layer Products For Optimal Results?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: page_12
+      label: Which Benefits Do You See When Layering Skincare Products?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 13
+      name: page_13
+      label: What Layering Method Do You Prefer?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 14
+      name: page_14
+      label: How Many Layers Do You Typically Apply At Once?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 15
+      name: page_15
+      label: What Challenges Do You Face When Layering Skincare Products?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 16
+      name: page_16
+      label: Do You Experience Any Skin Irritation Or Reactions?
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 17
+      name: page_17
+      label: What Benefits Do You See When Layering Skincare Products?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 18
+      name: page_18
+      label: Additional Comments Or Suggestions?
+      hint: null
+      type: note
       options: []
       required: false

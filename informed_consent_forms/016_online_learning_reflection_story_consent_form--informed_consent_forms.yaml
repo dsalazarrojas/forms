@@ -15,116 +15,44 @@ inputSchema:
     title: Online Learning Reflection Story Consent Form
     pages:
     - id: 1
-      name: online_learning_reflection_story_consent_form_1
-      label: online_learning_reflection_story_consent
-      hint: null
+      name: student_information
+      label: Student Information
+      hint: This is where you can provide your personal details
       type: text
       options: []
       required: false
     - id: 2
-      name: name
-      label: name
-      hint: null
+      name: parent_consent
+      label: Parent Consent
+      hint: This is where your parent gives their consent
       type: text
       options: []
       required: false
     - id: 3
-      name: name
-      label: student_name
-      hint: null
+      name: school_consent
+      label: School Consent
+      hint: This is where your school gives their consent
       type: text
       options: []
       required: false
     - id: 4
-      name: name
-      label: student_name
-      hint: null
+      name: student_consent
+      label: Student Consent
+      hint: This is where you give your consent
       type: text
       options: []
       required: false
     - id: 5
-      name: student_story
-      label: student_story
-      hint: null
+      name: other_consent
+      label: Other Consent
+      hint: This is where anyone else gives their consent
       type: text
       options: []
       required: false
     - id: 6
-      name: student_story
-      label: student_story
-      hint: null
-      type: text
+      name: story
+      label: Story
+      hint: Please share your online learning reflection story
+      type: note
       options: []
-      required: false
-    - id: 7
-      name: parent_consent
-      label: parent_consent
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      required: false
-    - id: 8
-      name: parent_consent
-      label: parent_consent
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      required: false
-    - id: 9
-      name: school_consent
-      label: school_consent
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      required: false
-    - id: 10
-      name: school_consent
-      label: school_consent
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      required: false
-    - id: 11
-      name: student_consent
-      label: student_consent
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      required: false
-    - id: 12
-      name: student_consent
-      label: student_consent
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      required: false
-    - id: 13
-      name: other_consent
-      label: other_consent
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      required: false
-    - id: 14
-      name: other_consent
-      label: other_consent
-      hint: null
-      type: select_one
-      options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      required: false
+      required: true

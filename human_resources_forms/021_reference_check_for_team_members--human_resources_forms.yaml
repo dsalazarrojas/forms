@@ -1,211 +1,198 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Reference Check For Team Members
     pages:
     - id: 1
-      name: job_title
-      label: Job Title
+      name: job_title_sn
+      label: What is the team member's job title?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: job_description
-      label: Job Description
+      name: job_description_sn
+      label: What is the team member's job description?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: work_experience
-      label: Work Experience
+      name: work_experience_sn
+      label: How many years of work experience does the team member have?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''5 years''}'
-      - '{''id'': 2, ''label'': ''3 years''}'
-      - '{''id'': 3, ''label'': ''2 years''}'
-      - '{''id'': 4, ''label'': ''1 year''}'
-      - '{''id'': 5, ''label'': ''Less than 1 year''}'
-      required: false
+      - Less than 1 year
+      - 1 year
+      - 2 years
+      - 3 years
+      - 5 years
+      required: true
     - id: 4
-      name: work_history
-      label: Work History
+      name: reference_1_available_sn
+      label: Is the reference 1 available for a call?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: true
     - id: 5
-      name: reference_1
-      label: Reference 1
+      name: reference_1_name_sn
+      label: What is the name of the reference 1?
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''Not Available''}'
-      - '{''id'': 3, ''label'': ''Not Available''}'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 6
-      name: reference_1_name
-      label: Reference 1 Name
+      name: reference_1_contact_sn
+      label: What is the contact information of the reference 1?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: reference_1_contact
-      label: Reference 1 Contact
+      name: reference_2_available_sn
+      label: Is the reference 2 available for a call?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      required: true
     - id: 8
-      name: reference_2
-      label: Reference 2
+      name: reference_2_name_sn
+      label: What is the name of the reference 2?
       hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''Not Available''}'
-      - '{''id'': 3, ''label'': ''Not Available''}'
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 9
-      name: reference_2_name
-      label: Reference 2 Name
+      name: reference_2_contact_sn
+      label: What is the contact information of the reference 2?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: reference_2_contact
-      label: Reference 2 Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: performance_rating
-      label: Performance
+      name: performance_rating_sn
+      label: What is the team member's performance rating?
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Very Good''}'
-      - '{''id'': 3, ''label'': ''Needs Improvement''}'
-      required: false
+      - Excellent
+      - Very Good
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: relationship_sn
+      label: What is the relationship between the team member and the reference 1?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 12
-      name: relationship
-      label: Relationship
+      name: experience_sn
+      label: What is the team member's experience?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: experience
-      label: Experience
+      name: evaluation_sn
+      label: What is the evaluation of the team member?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: evaluation
-      label: Evaluation
+      name: evaluation_frequency_sn
+      label: What is the evaluation frequency of the team member?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: evaluation_frequency
-      label: Evaluation Frequency
+      name: evaluation_basis_sn
+      label: What is the evaluation basis of the team member?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: evaluation_basis
-      label: Evaluation Basis
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: reference_3
-      label: Reference 3
+      name: reference_3_available_sn
+      label: Is the reference 3 available for a call?
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Available''}'
-      - '{''id'': 2, ''label'': ''Not Available''}'
-      - '{''id'': 3, ''label'': ''Not Available''}'
-      required: false
+      - Available
+      - Not Available
+      required: true
+    - id: 17
+      name: reference_3_name_sn
+      label: What is the name of the reference 3?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 18
-      name: reference_3_name
-      label: Reference 3 Name
+      name: reference_3_contact_sn
+      label: What is the contact information of the reference 3?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 19
-      name: reference_3_contact
-      label: Reference 3 Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: performance_rating_2
-      label: Performance
+      name: performance_rating_2_sn
+      label: Performance Rating 2 Sn
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Very Good''}'
-      - '{''id'': 3, ''label'': ''Needs Improvement''}'
-      required: false
+      - Excellent
+      - Very Good
+      - Needs Improvement
+      required: true
+    - id: 20
+      name: relationship_2_sn
+      label: What is the relationship between the team member and the reference 2?
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 21
-      name: relationship_2
-      label: Relationship
+      name: experience_2_sn
+      label: Experience 2 Sn
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 22
-      name: experience_2
-      label: Experience
+      name: evaluation_2_sn
+      label: Evaluation 2 Sn
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 23
-      name: evaluation_2
-      label: Evaluation
+      name: evaluation_frequency_2_sn
+      label: Evaluation Frequency 2 Sn
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 24
-      name: evaluation_frequency_2
-      label: Evaluation Frequency
+      name: evaluation_basis_2_sn
+      label: Evaluation Basis 2 Sn
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 25
-      name: evaluation_basis_2
-      label: Evaluation Basis
+      name: final_note_sn
+      label: Is there any additional comments or notes that would be helpful to consider
+        during the reference check?
       hint: null
       type: text
       options: []
-      required: false
+      required: true

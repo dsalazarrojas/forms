@@ -4,69 +4,140 @@ inputSchema:
     title: Sales Performance Reflection Form
     pages:
     - id: 1
-      name: form_title
-      label: sales_performance_reflection_form
+      name: intro
+      label: Introduction
       hint: null
       type: note
       options: []
       required: false
     - id: 2
-      name: reflection_time
-      label: reflection_time
-      hint: null
-      type: time
+      name: reflection_activities
+      label: Reflect on your sales activities this period
+      hint: Please reflect on your sales activities
+      type: text
       options: []
       required: false
     - id: 3
-      name: sales_manager
-      label: sales_manager
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: sales_num
+      label: What were the sales numbers for this period?
+      hint: Please provide the numbers
+      type: number
+      options: []
+      required: true
     - id: 4
-      name: sales_manager
-      label: sales_manager
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: sales_num2
+      label: Sales Num2
+      hint: Please provide the numbers
+      type: number
+      options: []
       required: false
     - id: 5
-      name: sales_manager
-      label: sales_manager
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: sales_strategy
+      label: What is your current sales strategy?
+      hint: Please provide your current sales strategy
+      type: text
+      options: []
       required: false
     - id: 6
-      name: sales_manager
-      label: sales_manager
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: sales_strategy2
+      label: Sales Strategy2
+      hint: Please provide your current sales strategy
+      type: text
+      options: []
       required: false
     - id: 7
-      name: sales_manager
-      label: sales_manager
-      hint: null
+      name: sales_team_management
+      label: How do you manage your sales team?
+      hint: Please provide your approach to sales team management
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_and_suggestions
+      label: Do you have any feedback or suggestions for improvement?
+      hint: Please provide any feedback or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: sales_manager_role
+      label: Are you a sales manager?
+      hint: Please answer yes or no
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 8
-      name: sales_manager
-      label: sales_manager
-      hint: null
-      type: select_multiple
+    - id: 10
+      name: sales_manager_responsibilities
+      label: What are your responsibilities as a sales manager?
+      hint: Please provide your responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: sales_manager_feedback
+      label: Do you have any feedback for your sales manager?
+      hint: Please provide feedback
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sales_performance
+      label: How would you rate your sales performance this period?
+      hint: Please rate on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: feedback_and_suggestions2
+      label: Feedback And Suggestions2
+      hint: Please provide any feedback or suggestions
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sales_manager_feedback2
+      label: Sales Manager Feedback2
+      hint: Please provide feedback
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: sales_manager_responsibilities2
+      label: Sales Manager Responsibilities2
+      hint: Please provide your responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sales_manager_role2
+      label: Sales Manager Role2
+      hint: Please answer yes or no
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: sales_performance_improvement
+      label: Do you have any suggestions for improving your sales performance?
+      hint: Please provide suggestions
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sales_manager_responsibilities3
+      label: Sales Manager Responsibilities3
+      hint: Please provide your responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: sales_performance_review
+      label: Would you like to receive a performance review?
+      hint: Please answer yes or no
+      type: select_one
       options:
       - 'Yes'
       - 'No'

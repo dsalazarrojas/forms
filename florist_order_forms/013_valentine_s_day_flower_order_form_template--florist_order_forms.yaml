@@ -1,196 +1,99 @@
 inputSchema:
   type: object
   properties:
-    title: valentine_s_day_flower_order_form_template
+    title: Valentine's Day Flower Order Form
     pages:
     - id: 1
-      name: delivery_details
-      label: Delivery Details
-      hint: null
+      name: recipient_name
+      label: Recipient's Name
+      hint: Please enter the recipient's name
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: order_details
       label: Order Details
-      hint: null
+      hint: Enter a brief description of the order
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: delivery_address
-      label: delivery_address
-      hint: null
+      label: Delivery Address
+      hint: Enter the recipient's address for delivery
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: recipient_name
-      label: recipient_name
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: payment_method
+      label: Payment Method
+      hint: Select a payment method
+      type: select_one
+      options:
+      - Visa
+      - Mastercard
+      - Amex
+      - Discover
+      required: true
     - id: 5
-      name: recipient_phone
-      label: recipient_phone
+      name: special_request
+      label: Special Request
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: order_date
-      label: order_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: order_time
-      label: order_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: special_request
-      label: special_request
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: order_comments
-      label: order_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: payment_method_card
-      label: card
-      hint: null
-      type: select_one
-      options:
-      - Visa
-      - Mastercard
-      - Amex
-      - Discover
-      required: false
-    - id: 12
-      name: payment_method_paypal
-      label: paypal
-      hint: null
-      type: select_one
-      options:
-      - PayPal
-      - Other
-      required: false
-    - id: 13
-      name: payment_method_other
-      label: other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: delivery_date
-      label: delivery_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: delivery_time
-      label: delivery_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: delivery_note
-      label: delivery_note
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: delivery_status
-      label: delivery_status
-      hint: null
-      type: select_one
-      options:
-      - Delivered
-      - Pending
-      - Cancelled
-      required: false
-    - id: 18
       name: order_status
-      label: order_status
-      hint: null
+      label: Order Status
+      hint: Select the order status
       type: select_one
       options:
       - Confirmed
       - Pending
       - Cancelled
-      required: false
-    - id: 19
-      name: customer_id
-      label: customer_id
+      required: true
+    - id: 7
+      name: delivery_details
+      label: Delivery Details
       hint: null
       type: text
       options: []
-      required: false
-    - id: 20
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
+      required: true
+    - id: 8
+      name: delivery_time
+      label: Delivery Time
+      hint: Enter delivery time
+      type: time
       options: []
-      required: false
-    - id: 21
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: text
+      required: true
+    - id: 9
+      name: delivery_date
+      label: Delivery Date
+      hint: Enter delivery date
+      type: date
       options: []
-      required: false
-    - id: 22
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: delivery_address
-      label: delivery_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: payment_method_card
-      label: card
-      hint: null
+      required: true
+    - id: 10
+      name: delivery_status
+      label: Delivery Status
+      hint: Select delivery status
       type: select_one
       options:
-      - Visa
-      - Mastercard
-      - Amex
-      - Discover
+      - Delivered
+      - Pending
+      - Cancelled
+      required: true
+    - id: 11
+      name: customer_info
+      label: Customer Information
+      hint: Enter customer information
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
       required: false

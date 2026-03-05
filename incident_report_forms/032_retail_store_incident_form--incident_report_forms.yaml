@@ -5,204 +5,100 @@ inputSchema:
     pages:
     - id: 1
       name: incident_date
-      label: Incident Date
-      hint: 'null'
+      label: Date of the incident
+      hint: null
       type: date
       options: []
       required: false
     - id: 2
       name: incident_time
-      label: Incident Time
-      hint: 'null'
+      label: Time of the incident
+      hint: null
       type: time
       options: []
       required: false
     - id: 3
       name: incident_type
-      label: Incident Type
-      hint: 'null'
+      label: Type of incident
+      hint: null
       type: select_one
       options:
-      - '{''option1'': ''Incident Type'', ''label'': ''null''}'
-      - '{''option2'': ''Other'', ''label'': ''Other''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: true
     - id: 4
       name: incident_location
-      label: Incident Location
-      hint: 'null'
+      label: Location of the incident
+      hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: incident_description
-      label: Incident Description
-      hint: 'null'
+      label: Incident description
+      hint: null
       type: note
       options: []
       required: false
     - id: 6
-      name: incident_status
-      label: Incident Status
-      hint: 'null'
-      type: select_multiple
+      name: incident_category
+      label: Incident category
+      hint: null
+      type: select_one
       options:
-      - '{''option1'': ''Active'', ''label'': ''null''}'
-      - '{''option2'': ''Inactive'', ''label'': ''null''}'
-      - '{''option3'': ''Pending'', ''label'': ''null''}'
-      required: false
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
     - id: 7
       name: retail_store_id
-      label: Retail Store ID
-      hint: 'null'
+      label: Retail store ID
+      hint: null
       type: select_multiple
       options:
-      - '{''option1'': ''Retail Store 1'', ''label'': ''null''}'
-      - '{''option2'': ''Retail Store 2'', ''label'': ''null''}'
-      - '{''option3'': ''Retail Store 3'', ''label'': ''null''}'
+      - Retail Store 1
+      - Retail Store 2
+      - Retail Store 3
       required: false
     - id: 8
-      name: incident_category
-      label: Incident Category
-      hint: 'null'
+      name: incident_status
+      label: Incident status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 9
+      name: incident_reported_by
+      label: Incident reported by
+      hint: null
       type: select_one
       options:
-      - '{''option1'': ''Category 1'', ''label'': ''null''}'
-      - '{''option2'': ''Category 2'', ''label'': ''null''}'
-      - '{''option3'': ''Category 3'', ''label'': ''null''}'
-      required: false
-    - id: 9
-      name: employee_id
-      label: Employee ID
-      hint: 'null'
-      type: number
+      - Employee 1
+      - Employee 2
+      - Employee 3
+      required: true
+    - id: 10
+      name: incident_reported_by_email
+      label: Incident reported by email
+      hint: null
+      type: email
       options: []
       required: false
-    - id: 10
-      name: incident_reported_by
-      label: Incident Reported By
-      hint: 'null'
-      type: select_one
-      options:
-      - '{''option1'': ''Employee 1'', ''label'': ''null''}'
-      - '{''option2'': ''Employee 2'', ''label'': ''null''}'
-      - '{''option3'': ''Employee 3'', ''label'': ''null''}'
-      required: false
     - id: 11
-      name: incident_reported_by_email
-      label: Incident Reported By Email
-      hint: 'null'
-      type: email
+      name: incident_reported_by_phone
+      label: Incident reported by phone
+      hint: null
+      type: text
       options: []
       required: false
     - id: 12
-      name: incident_reported_by_phone
-      label: Incident Reported By Phone
-      hint: 'null'
-      type: text
-      options: []
-      required: false
-    - id: 13
       name: employee_id
       label: Employee ID
       hint: null
       type: number
-      options: []
-      required: false
-    - id: 14
-      name: incident_status
-      label: Incident Status
-      hint: 'null'
-      type: select_multiple
-      options:
-      - '{''option1'': ''Active'', ''label'': ''null''}'
-      - '{''option2'': ''Inactive'', ''label'': ''null''}'
-      - '{''option3'': ''Pending'', ''label'': ''null''}'
-      required: false
-    - id: 15
-      name: incident_type
-      label: Incident Type
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Incident Type'', ''label'': ''null''}'
-      - '{''option2'': ''Other'', ''label'': ''null''}'
-      required: false
-    - id: 16
-      name: incident_date
-      label: Incident Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: incident_time
-      label: Incident Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: incident_location
-      label: Incident Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: incident_description
-      label: Incident Description
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: incident_category
-      label: Incident Category
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Category 1'', ''label'': ''null''}'
-      - '{''option2'': ''Category 2'', ''label'': ''null''}'
-      - '{''option3'': ''Category 3'', ''label'': ''null''}'
-      required: false
-    - id: 21
-      name: retail_store_id
-      label: Retail Store ID
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option1'': ''Retail Store 1'', ''label'': ''null''}'
-      - '{''option2'': ''Retail Store 2'', ''label'': ''null''}'
-      - '{''option3'': ''Retail Store 3'', ''label'': ''null''}'
-      required: false
-    - id: 22
-      name: employee_id
-      label: Employee ID
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: incident_reported_by
-      label: Incident Reported By
-      hint: null
-      type: select_one
-      options:
-      - '{''option1'': ''Employee 1'', ''label'': ''null''}'
-      - '{''option2'': ''Employee 2'', ''label'': ''null''}'
-      - '{''option3'': ''Employee 3'', ''label'': ''null''}'
-      required: false
-    - id: 24
-      name: incident_reported_by_email
-      label: Incident Reported By Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: incident_reported_by_phone
-      label: Incident Reported By Phone
-      hint: null
-      type: text
       options: []
       required: false

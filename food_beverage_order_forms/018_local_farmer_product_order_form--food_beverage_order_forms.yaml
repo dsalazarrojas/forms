@@ -4,186 +4,37 @@ inputSchema:
     title: Local Farmer Product Order Form
     pages:
     - id: 1
-      name: root
-      label: order_form
+      name: order_form
+      label: Order Form
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: customer_details
-      label: customer_details
+      label: Customer Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: product_selection
-      label: products
+      name: order_details
+      label: Order Details
       hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''name'': ''Product 1'', ''value'': ''product-1''}'
-      - '{''id'': 2, ''name'': ''Product 2'', ''value'': ''product-2''}'
-      - '{''id'': 3, ''name'': ''Product 3'', ''value'': ''product-3''}'
+      type: text
+      options: []
       required: false
     - id: 4
-      name: order_details
-      label: order_details
+      name: order_confirmation
+      label: Order Confirmation
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: order_date
-      label: order_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 6
-      name: order_time
-      label: order_time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 7
-      name: order_note
-      label: order_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 9
-      name: phone
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: customer_address
-      label: customer_address
+      name: additional_notes
+      label: Additional Notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 12
-      name: order_amount
-      label: order_amount
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 13
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Cash'', ''value'': ''cash''}'
-      - '{''id'': 2, ''name'': ''Credit card'', ''value'': ''credit_card''}'
-      - '{''id'': 3, ''name'': ''PayPal'', ''value'': ''paypal''}'
-      required: false
-    - id: 14
-      name: order_note
-      label: order_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
-      name: order_date
-      label: order_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: order_time
-      label: order_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: customer_address
-      label: customer_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: customer_name
-      label: customer_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: order_amount
-      label: order_amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''Cash'', ''value'': ''cash''}'
-      - '{''id'': 2, ''name'': ''Credit card'', ''value'': ''credit_card''}'
-      - '{''id'': 3, ''name'': ''PayPal'', ''value'': ''paypal''}'
-      required: false
-    - id: 23
-      name: order_note
-      label: order_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: order_date
-      label: order_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 25
-      name: order_time
-      label: order_time
-      hint: null
-      type: time
-      options: []
-      required: true

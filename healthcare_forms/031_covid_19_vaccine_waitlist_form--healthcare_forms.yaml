@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -48,10 +37,10 @@ inputSchema:
       hint: Your gender
       type: select_one
       options:
-        - Male
-        - Female
-        - Other
-        - Prefer Not to Say
+      - Male
+      - Female
+      - Other
+      - Prefer Not to Say
       required: false
     - id: 6
       name: wl_email
@@ -108,13 +97,13 @@ inputSchema:
       hint: What group are you in
       type: select_one
       options:
-        - Healthcare worker
-        - Essential worker
-        - Age 75 or older
-        - Age 65-74
-        - Age 50-64
-        - Underlying condition
-        - General public
+      - Healthcare worker
+      - Essential worker
+      - Age 75 or older
+      - Age 65-74
+      - Age 50-64
+      - Underlying condition
+      - General public
       required: true
     - id: 14
       name: wl_occupation
@@ -129,9 +118,9 @@ inputSchema:
       hint: Do you have immune system issues
       type: select_one
       options:
-        - No
-        - Yes
-        - Unsure
+      - 'False'
+      - 'True'
+      - Unsure
       required: true
     - id: 16
       name: wl_chronic_conditions_header
@@ -174,10 +163,10 @@ inputSchema:
       hint: Your readiness
       type: select_one
       options:
-        - Yes, very ready
-        - Ready when available
-        - Somewhat ready
-        - Not ready yet
+      - Yes, very ready
+      - Ready when available
+      - Somewhat ready
+      - Not ready yet
       required: true
     - id: 22
       name: wl_vaccine_preference
@@ -185,10 +174,10 @@ inputSchema:
       hint: Your preferred vaccine type
       type: select_one
       options:
-        - Pfizer-BioNTech
-        - Moderna
-        - Johnson & Johnson
-        - No specific preference
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - No specific preference
       required: false
     - id: 23
       name: wl_transportation_needs
@@ -196,9 +185,9 @@ inputSchema:
       hint: Help getting to vaccination site
       type: select_one
       options:
-        - No assistance needed
-        - Yes, need transportation
-        - Unsure
+      - No assistance needed
+      - Yes, need transportation
+      - Unsure
       required: false
     - id: 24
       name: wl_contact_confirmation
@@ -206,8 +195,8 @@ inputSchema:
       hint: All contact information is correct
       type: select_one
       options:
-        - Confirmed correct
-        - Needs updating
+      - Confirmed correct
+      - Needs updating
       required: true
     - id: 25
       name: wl_waitlist_agreement
@@ -215,6 +204,6 @@ inputSchema:
       hint: I consent to be on the waitlist
       type: select_one
       options:
-        - I agree
-        - I do not agree
+      - I agree
+      - I do not agree
       required: true

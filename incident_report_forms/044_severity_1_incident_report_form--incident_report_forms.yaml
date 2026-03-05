@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Hardware''}'
-      - '{''id'': 2, ''label'': ''Software''}'
-      - '{''id'': 3, ''label'': ''Network''}'
+      - Hardware
+      - Software
+      - Network
       required: false
     - id: 4
       name: incident_description
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Open''}'
-      - '{''id'': 2, ''label'': ''Resolved''}'
+      - Open
+      - Resolved
       required: false
     - id: 6
       name: incident_priority
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
       name: incident_start_date
@@ -101,8 +101,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''IT''}'
-      - '{''id'': 2, ''label'': ''Operations''}'
+      - IT
+      - Operations
       required: false
     - id: 14
       name: incident_resolution_date
@@ -138,8 +138,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''ITIL''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - ITIL
+      - Other
       required: false
     - id: 19
       name: incident_tags_other
@@ -168,8 +168,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Open''}'
-      - '{''id'': 2, ''label'': ''Closed''}'
+      - Open
+      - Closed
       required: false
     - id: 23
       name: incident_status_update_comments

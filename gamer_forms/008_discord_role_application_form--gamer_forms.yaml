@@ -1,56 +1,45 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Discord Role Application Form
     pages:
     - id: 1
-      name: first_name
-      label: First Name
+      name: user_info
+      label: User Info
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: nickname
-      label: Nickname
+      name: role_and_experience
+      label: Role and Experience
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: email
-      label: Email
+      name: language
+      label: Language
       hint: null
-      type: email
+      type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: discord_tag
-      label: Discord Tag
+      name: motivation
+      label: Motivation
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: role_id
+      name: role
       label: Role
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Member''}'
-      - '{''id'': 2, ''label'': ''Moderator''}'
-      - '{''id'': 3, ''label'': ''Administrator''}'
+      - Member
+      - Moderator
+      - Administrator
       required: true
     - id: 6
       name: experience
@@ -58,178 +47,26 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: true
     - id: 7
-      name: language
-      label: Language
+      name: language_2
+      label: Language 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''German''}'
-      - '{''id'': 4, ''label'': ''French''}'
-      - '{''id'': 5, ''label'': ''Chinese''}'
+      - English
+      - Spanish
+      - German
+      - French
+      - Chinese
       required: true
     - id: 8
-      name: how_did_you_hear_about_us
-      label: How did you hear about us
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: why_do_you_want_to_join
-      label: Why do you want to join
+      name: motivation_2
+      label: Motivation 2
       hint: null
       type: text
       options: []
       required: true
-    - id: 10
-      name: additional_info
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: role
-      label: Role
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Member''}'
-      - '{''id'': 2, ''label'': ''Moderator''}'
-      - '{''id'': 3, ''label'': ''Administrator''}'
-      required: true
-    - id: 12
-      name: experience
-      label: Experience
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
-      required: true
-    - id: 13
-      name: language
-      label: Language
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''German''}'
-      - '{''id'': 4, ''label'': ''French''}'
-      - '{''id'': 5, ''label'': ''Chinese''}'
-      required: true
-    - id: 14
-      name: how_did_you_hear_about_us
-      label: How did you hear about us
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: why_do_you_want_to_join
-      label: Why do you want to join
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: additional_info
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: role
-      label: Role
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Member''}'
-      - '{''id'': 2, ''label'': ''Moderator''}'
-      - '{''id'': 3, ''label'': ''Administrator''}'
-      required: true
-    - id: 18
-      name: experience
-      label: Experience
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
-      required: true
-    - id: 19
-      name: language
-      label: Language
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''German''}'
-      - '{''id'': 4, ''label'': ''French''}'
-      - '{''id'': 5, ''label'': ''Chinese''}'
-      required: true
-    - id: 20
-      name: how_did_you_hear_about_us
-      label: How did you hear about us
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: why_do_you_want_to_join
-      label: Why do you want to join
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: additional_info
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: role
-      label: Role
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Member''}'
-      - '{''id'': 2, ''label'': ''Moderator''}'
-      - '{''id'': 3, ''label'': ''Administrator''}'
-      required: true
-    - id: 24
-      name: experience
-      label: Experience
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
-      required: true
-    - id: 25
-      name: language
-      label: Language
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''German''}'
-      - '{''id'': 4, ''label'': ''French''}'
-      - '{''id'': 5, ''label'': ''Chinese''}'
-      required: false

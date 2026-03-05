@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''doctor_visit'', ''value'': ''Doctor''}'
-      - '{''id'': 2, ''name'': ''pharmacy_visit'', ''value'': ''Pharmacy''}'
-      - '{''id'': 3, ''name'': ''both_doctor_and_pharmacy'', ''value'': ''Both''}'
+      - Doctor
+      - Pharmacy
+      - Both
       required: false
     - id: 4
       name: medication_info
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''on_time'', ''value'': ''On Time''}'
-      - '{''id'': 2, ''name'': ''before_expected'', ''value'': ''Before Expected''}'
-      - '{''id'': 3, ''name'': ''after_expected'', ''value'': ''After Expected''}'
+      - On Time
+      - Before Expected
+      - After Expected
       required: false
     - id: 6
       name: communication
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''very_clear'', ''value'': ''Very Clear''}'
-      - '{''id'': 2, ''name'': ''somewhat_clear'', ''value'': ''Somewhat Clear''}'
-      - '{''id'': 3, ''name'': ''not_clear_at_all'', ''value'': ''Not Clear At All''}'
+      - Very Clear
+      - Somewhat Clear
+      - Not Clear At All
       required: false
     - id: 7
       name: concerns
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''value'': True}'
-      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: comments
@@ -83,10 +83,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''excellent'', ''value'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''good'', ''value'': ''Good''}'
-      - '{''id'': 3, ''name'': ''fair'', ''value'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''bad'', ''value'': ''Bad''}'
+      - Excellent
+      - Good
+      - Fair
+      - Bad
       required: false
     - id: 11
       name: submit
@@ -101,6 +101,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''follow_up_yes'', ''value'': True}'
-      - '{''id'': 2, ''name'': ''follow_up_no'', ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

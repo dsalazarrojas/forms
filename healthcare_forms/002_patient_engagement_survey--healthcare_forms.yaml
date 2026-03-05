@@ -15,99 +15,65 @@ inputSchema:
     title: Patient Engagement Survey
     pages:
     - id: 1
-      name: patient_engagement_survey_form
-      label: Patient Engagement Survey Form
+      name: patient_information
+      label: About You
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_experience
+      label: Service Quality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_satisfaction
+      label: What We Did Well
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: improvement_suggestions
+      label: Areas for Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: thankyou
+      label: Thank You
       hint: null
       type: text
       options: []
       required: false
-    - id: 2
-      name: questions_page
-      label: Questions
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
-      required: false
-    - id: 3
-      name: questions_page_2
-      label: questions_page
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
-      required: false
-    - id: 4
-      name: questions_page_3
-      label: questions_page
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
-      required: false
-    - id: 5
-      name: questions_page_4
-      label: questions_page
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
-      required: false
-    - id: 6
-      name: questions_page_5
-      label: questions_page
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
-      required: false
-    - id: 7
-      name: questions_page_6
-      label: questions_page
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
-      required: false
-    - id: 8
-      name: questions_page_7
-      label: questions_page
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
-      required: false
     - id: 9
-      name: questions_page_8
-      label: questions_page
+      name: end_of_form
+      label: End of Form
       hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
-      required: false
-    - id: 10
-      name: questions_page_9
-      label: questions_page
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''Excellent'', ''label'': ''Very Good''}'
-      - '{''value'': ''Fair'', ''label'': ''Fair''}'
-      - '{''value'': ''Poor'', ''label'': ''Poor''}'
+      type: text
+      options: []
       required: false

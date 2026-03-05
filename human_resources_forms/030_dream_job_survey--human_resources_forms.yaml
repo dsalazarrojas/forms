@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fast-paced'', ''value'': ''fast_paced''}'
-      - '{''id'': 2, ''label'': ''Creative'', ''value'': ''creative''}'
-      - '{''id'': 3, ''label'': ''Flexible'', ''value'': ''flexible''}'
+      - Fast-paced
+      - Creative
+      - Flexible
       required: false
     - id: 4
       name: ideal_work_environment
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: job_search_history_2
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': True}'
-      - '{''id'': 2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: ideal_salary_range

@@ -4,358 +4,72 @@ inputSchema:
     title: Home Loan Application
     pages:
     - id: 1
-      name: contact_details
+      name: contact_information
       label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: contact_details_address
+      name: address
       label: Address
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: contact_details_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: contact_details_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 5
       name: employment_status
       label: Employment Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 6
-      name: employment_status_employer
-      label: Employer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: employment_status_job_title
-      label: Job Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: employment_status_employment_type
-      label: Employment Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: employment_status_years_of_service
-      label: Years of Service
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: employment_status_monthly_income
-      label: Monthly Income
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: employment_status_employment_status
-      label: Employment Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: employment_status_occupation
-      label: Occupation
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: income
-      label: Annual Income
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: employment_status_employment_status_verification
+    - id: 4
+      name: employment_status_verification
       label: Employment Status Verification
       hint: null
       type: text
       options: []
       required: false
-    - id: 15
-      name: employment_status_employment_status_verification_details
-      label: Employment Status Verification Details
+    - id: 5
+      name: property_details
+      label: Property Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
-      name: credit_score
-      label: Credit Score
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: property_location
-      label: Property Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: property_type
-      label: Property Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: loan_purpose
-      label: Loan Purpose
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
+    - id: 6
       name: loan_amount
-      label: Loan Amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: loan_term
-      label: Loan Term
+      label: Loan Information
       hint: null
       type: text
       options: []
       required: false
-    - id: 22
-      name: loan_rate
-      label: Loan Rate
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: property_value
-      label: Property Value
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: employment_status_employment_status_verification_documents
-      label: Employment Status Verification Documents
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: employment_status_employment_status_verification_document_list
-      label: Employment Status Verification Document List
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: loan_type
-      label: Loan Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: loan_type_mortgage
-      label: Mortgage
-      hint: null
-      type: select_multiple
-      options:
-      - Home Equity
-      - Home Improvement
-      - Construction
-      required: false
-    - id: 28
-      name: loan_type_line_of_credit
-      label: Line of Credit
-      hint: null
-      type: select_multiple
-      options:
-      - Home Equity
-      - Home Improvement
-      - Construction
-      - Other
-      - Business
-      required: false
-    - id: 29
-      name: employment_status_employment_status_verification_document_type
-      label: Employment Status Verification Document Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: employment_status_employment_status_verification_document_type_list
-      label: Employment Status Verification Document Type List
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: employment_status_employment_status_verification_document
-      label: Employment Status Verification Documents
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: employment_status_employment_status_verification_document_list
-      label: Employment Status Verification Documents
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: loan_term_years
+    - id: 7
+      name: loan_term_in_years
       label: Loan Term in Years
       hint: null
-      type: number
+      type: text
       options: []
       required: false
-    - id: 34
-      name: loan_rate_percentage
-      label: Loan Rate Percentage
+    - id: 8
+      name: additional_details
+      label: Additional Details
       hint: null
-      type: number
+      type: text
       options: []
       required: false
-    - id: 35
-      name: property_type_single_family
-      label: Single Family
+    - id: 9
+      name: employment_status_verification_documents
+      label: Employment Status Verification Documents
       hint: null
-      type: select_multiple
-      options:
-      - Single Family Residence
-      - Investment Property
-      - Second Home
-      - Multi-Unit Property
+      type: text
+      options: []
       required: false
-    - id: 36
-      name: property_type_condo
-      label: Condo
+    - id: 10
+      name: loan_purpose_other
+      label: Loan Purpose Other
       hint: null
-      type: select_multiple
-      options:
-      - Condo Unit
-      - Townhouse
-      - Duplex
-      - Triplex
-      required: false
-    - id: 37
-      name: property_type_townhouse
-      label: Townhouse
-      hint: null
-      type: select_multiple
-      options:
-      - Townhouse
-      - Condo Unit
-      - Duplex
-      - Triplex
-      required: false
-    - id: 38
-      name: property_type_townhouse_townhouse
-      label: Townhouse
-      hint: null
-      type: select_multiple
-      options:
-      - Townhouse
-      - Condo Unit
-      - Duplex
-      - Triplex
-      required: false
-    - id: 39
-      name: loan_purpose_refinance
-      label: Refinance
-      hint: null
-      type: select_multiple
-      options:
-      - Cash-Out Refinance
-      - Rate and Term Refinance
-      - Cash Out Refinance
-      - Cash-Out Refinance of a Second Home
-      required: false
-    - id: 40
-      name: loan_purpose_purchase
-      label: Purchase
-      hint: null
-      type: select_multiple
-      options:
-      - Primary Residence
-      - Investment Property
-      - Second Home
-      - Other
-      required: false
-    - id: 41
-      name: property_type_single_family_single_family_residence
-      label: Single Family Residence
-      hint: null
-      type: select_multiple
-      options:
-      - Single Family Residence
-      - Investment Property
-      - Second Home
-      - Multi-Unit Property
-      required: false
-    - id: 42
-      name: property_type_townhouse_townhouse
-      label: Townhouse
-      hint: null
-      type: select_multiple
-      options:
-      - Townhouse
-      - Condo Unit
-      - Duplex
-      - Triplex
-      required: false
-    - id: 43
-      name: loan_type_mortgage_mortgage
-      label: Mortgage
-      hint: null
-      type: select_multiple
-      options:
-      - Home Equity
-      - Home Improvement
-      - Construction
-      required: false
-    - id: 44
-      name: loan_type_line_of_credit_line_of_credit
-      label: Line of Credit
-      hint: null
-      type: select_multiple
-      options:
-      - Home Equity
-      - Home Improvement
-      - Construction
-      - Other
-      - Business
+      type: text
+      options: []
       required: false

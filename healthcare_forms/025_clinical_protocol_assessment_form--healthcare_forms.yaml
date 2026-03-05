@@ -1,320 +1,310 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Clinical Protocol Assessment Form
     pages:
-      - id: 1
-        name: form_header
-        label: Clinical Protocol Assessment Form
-        hint: Use this form to assess and document clinical protocol compliance and effectiveness
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: protocol_name
-        label: Protocol Name or ID
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: protocol_version
-        label: Protocol Version
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: assessment_date
-        label: Assessment Date
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: assessor_name
-        label: Assessor Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: assessor_role
-        label: Assessor Role
-        hint: null
-        type: select_one
-        options:
-          - Clinical Manager
-          - Quality Assurance
-          - Department Head
-          - Nurse Manager
-          - Physician
-          - Administrator
-          - Other
-        required: true
-      - id: 7
-        name: department
-        label: Department Being Assessed
-        hint: null
-        type: select_one
-        options:
-          - Emergency
-          - ICU
-          - Medical-Surgical
-          - Pediatrics
-          - Obstetrics
-          - Oncology
-          - Cardiology
-          - Orthopedics
-          - Neurology
-          - Other
-        required: true
-      - id: 8
-        name: protocol_category
-        label: Protocol Category
-        hint: null
-        type: select_one
-        options:
-          - Patient Safety
-          - Infection Control
-          - Medication Administration
-          - Emergency Response
-          - Patient Assessment
-          - Documentation
-          - Discharge Planning
-          - Pain Management
-          - Other
-        required: true
-      - id: 9
-        name: staff_compliance
-        label: Overall Staff Compliance Rate
-        hint: null
-        type: select_one
-        options:
-          - 100 percent
-          - 90-99 percent
-          - 80-89 percent
-          - 70-79 percent
-          - 60-69 percent
-          - Below 60 percent
-        required: true
-      - id: 10
-        name: protocol_clarity
-        label: How Clear Is the Protocol
-        hint: null
-        type: select_one
-        options:
-          - Very Clear
-          - Clear
-          - Somewhat Clear
-          - Unclear
-          - Very Unclear
-        required: true
-      - id: 11
-        name: protocol_accessibility
-        label: How Accessible Is the Protocol to Staff
-        hint: null
-        type: select_one
-        options:
-          - Easily Accessible
-          - Accessible
-          - Somewhat Accessible
-          - Difficult to Access
-          - Very Difficult to Access
-        required: true
-      - id: 12
-        name: staff_training_status
-        label: Staff Training Status on Protocol
-        hint: null
-        type: select_one
-        options:
-          - All Staff Trained
-          - Most Staff Trained
-          - Some Staff Trained
-          - Few Staff Trained
-          - No Staff Trained
-        required: true
-      - id: 13
-        name: protocol_effectiveness
-        label: How Effective Is the Protocol
-        hint: In achieving intended outcomes
-        type: select_one
-        options:
-          - Very Effective
-          - Effective
-          - Somewhat Effective
-          - Not Very Effective
-          - Not Effective
-        required: true
-      - id: 14
-        name: patient_outcomes
-        label: Impact on Patient Outcomes
-        hint: null
-        type: select_one
-        options:
-          - Significantly Positive
-          - Positive
-          - Neutral
-          - Negative
-          - Significantly Negative
-          - Unable to Assess
-        required: true
-      - id: 15
-        name: workflow_impact
-        label: Impact on Workflow
-        hint: null
-        type: select_one
-        options:
-          - Significantly Improves
-          - Improves
-          - No Impact
-          - Slightly Hinders
-          - Significantly Hinders
-        required: true
-      - id: 16
-        name: resource_requirements
-        label: Are Resource Requirements Adequate
-        hint: Staff equipment supplies
-        type: select_one
-        options:
-          - More Than Adequate
-          - Adequate
-          - Barely Adequate
-          - Inadequate
-          - Severely Inadequate
-        required: true
-      - id: 17
-        name: documentation_burden
-        label: Documentation Burden
-        hint: null
-        type: select_one
-        options:
-          - Minimal
-          - Reasonable
-          - Moderate
-          - Heavy
-          - Excessive
-        required: true
-      - id: 18
-        name: barriers_identified
-        label: Barriers to Implementation
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - None
-          - Lack of Training
-          - Staff Resistance
-          - Resource Limitations
-          - Time Constraints
-          - Protocol Complexity
-          - Unclear Guidelines
-          - Technology Issues
-          - Communication Gaps
-          - Other
-        required: true
-      - id: 19
-        name: adverse_events
-        label: Any Adverse Events Related to Protocol
-        hint: null
-        type: select_one
-        options:
-          - None
-          - Minor
-          - Moderate
-          - Serious
-          - Critical
-        required: true
-      - id: 20
-        name: adverse_events_details
-        label: Adverse Events Details
-        hint: If applicable describe
-        type: text
-        options: []
-        required: false
-      - id: 21
-        name: protocol_updates_needed
-        label: Does the Protocol Need Updates
-        hint: null
-        type: select_one
-        options:
-          - Yes Urgent
-          - Yes Soon
-          - Yes Eventually
-          - No Current Version Adequate
-          - Unsure
-        required: true
-      - id: 22
-        name: recommended_changes
-        label: Recommended Changes
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 23
-        name: additional_training_needed
-        label: Is Additional Training Needed
-        hint: null
-        type: select_one
-        options:
-          - Yes Immediate
-          - Yes Scheduled
-          - Yes Planned
-          - No
-        required: true
-      - id: 24
-        name: monitoring_frequency
-        label: Recommended Monitoring Frequency
-        hint: null
-        type: select_one
-        options:
-          - Weekly
-          - Bi-weekly
-          - Monthly
-          - Quarterly
-          - Semi-Annually
-          - Annually
-        required: false
-      - id: 25
-        name: overall_assessment
-        label: Overall Protocol Assessment
-        hint: null
-        type: select_one
-        options:
-          - Excellent - No Changes Needed
-          - Good - Minor Improvements
-          - Fair - Moderate Improvements
-          - Poor - Major Improvements
-          - Critical - Immediate Action Required
-        required: true
-      - id: 26
-        name: action_items
-        label: Action Items
-        hint: What needs to be done
-        type: text
-        options: []
-        required: true
-      - id: 27
-        name: follow_up_date
-        label: Follow-Up Assessment Date
-        hint: null
-        type: date
-        options: []
-        required: false
-      - id: 28
-        name: additional_comments
-        label: Additional Comments
-        hint: Any other observations
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: form_header
+      label: Clinical Protocol Assessment Form
+      hint: Use this form to assess and document clinical protocol compliance and
+        effectiveness
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: protocol_name
+      label: Protocol Name or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: protocol_version
+      label: Protocol Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: assessor_name
+      label: Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assessor_role
+      label: Assessor Role
+      hint: null
+      type: select_one
+      options:
+      - Clinical Manager
+      - Quality Assurance
+      - Department Head
+      - Nurse Manager
+      - Physician
+      - Administrator
+      - Other
+      required: true
+    - id: 7
+      name: department
+      label: Department Being Assessed
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - ICU
+      - Medical-Surgical
+      - Pediatrics
+      - Obstetrics
+      - Oncology
+      - Cardiology
+      - Orthopedics
+      - Neurology
+      - Other
+      required: true
+    - id: 8
+      name: protocol_category
+      label: Protocol Category
+      hint: null
+      type: select_one
+      options:
+      - Patient Safety
+      - Infection Control
+      - Medication Administration
+      - Emergency Response
+      - Patient Assessment
+      - Documentation
+      - Discharge Planning
+      - Pain Management
+      - Other
+      required: true
+    - id: 9
+      name: staff_compliance
+      label: Overall Staff Compliance Rate
+      hint: null
+      type: select_one
+      options:
+      - 100 percent
+      - 90-99 percent
+      - 80-89 percent
+      - 70-79 percent
+      - 60-69 percent
+      - Below 60 percent
+      required: true
+    - id: 10
+      name: protocol_clarity
+      label: How Clear Is the Protocol
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 11
+      name: protocol_accessibility
+      label: How Accessible Is the Protocol to Staff
+      hint: null
+      type: select_one
+      options:
+      - Easily Accessible
+      - Accessible
+      - Somewhat Accessible
+      - Difficult to Access
+      - Very Difficult to Access
+      required: true
+    - id: 12
+      name: staff_training_status
+      label: Staff Training Status on Protocol
+      hint: null
+      type: select_one
+      options:
+      - All Staff Trained
+      - Most Staff Trained
+      - Some Staff Trained
+      - Few Staff Trained
+      - No Staff Trained
+      required: true
+    - id: 13
+      name: protocol_effectiveness
+      label: How Effective Is the Protocol
+      hint: In achieving intended outcomes
+      type: select_one
+      options:
+      - Very Effective
+      - Effective
+      - Somewhat Effective
+      - Not Very Effective
+      - Not Effective
+      required: true
+    - id: 14
+      name: patient_outcomes
+      label: Impact on Patient Outcomes
+      hint: null
+      type: select_one
+      options:
+      - Significantly Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Significantly Negative
+      - Unable to Assess
+      required: true
+    - id: 15
+      name: workflow_impact
+      label: Impact on Workflow
+      hint: null
+      type: select_one
+      options:
+      - Significantly Improves
+      - Improves
+      - No Impact
+      - Slightly Hinders
+      - Significantly Hinders
+      required: true
+    - id: 16
+      name: resource_requirements
+      label: Are Resource Requirements Adequate
+      hint: Staff equipment supplies
+      type: select_one
+      options:
+      - More Than Adequate
+      - Adequate
+      - Barely Adequate
+      - Inadequate
+      - Severely Inadequate
+      required: true
+    - id: 17
+      name: documentation_burden
+      label: Documentation Burden
+      hint: null
+      type: select_one
+      options:
+      - Minimal
+      - Reasonable
+      - Moderate
+      - Heavy
+      - Excessive
+      required: true
+    - id: 18
+      name: barriers_identified
+      label: Barriers to Implementation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Lack of Training
+      - Staff Resistance
+      - Resource Limitations
+      - Time Constraints
+      - Protocol Complexity
+      - Unclear Guidelines
+      - Technology Issues
+      - Communication Gaps
+      - Other
+      required: true
+    - id: 19
+      name: adverse_events
+      label: Any Adverse Events Related to Protocol
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Serious
+      - Critical
+      required: true
+    - id: 20
+      name: adverse_events_details
+      label: Adverse Events Details
+      hint: If applicable describe
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: protocol_updates_needed
+      label: Does the Protocol Need Updates
+      hint: null
+      type: select_one
+      options:
+      - Yes Urgent
+      - Yes Soon
+      - Yes Eventually
+      - No Current Version Adequate
+      - Unsure
+      required: true
+    - id: 22
+      name: recommended_changes
+      label: Recommended Changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_training_needed
+      label: Is Additional Training Needed
+      hint: null
+      type: select_one
+      options:
+      - Yes Immediate
+      - Yes Scheduled
+      - Yes Planned
+      - 'False'
+      required: true
+    - id: 24
+      name: monitoring_frequency
+      label: Recommended Monitoring Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 25
+      name: overall_assessment
+      label: Overall Protocol Assessment
+      hint: null
+      type: select_one
+      options:
+      - Excellent - No Changes Needed
+      - Good - Minor Improvements
+      - Fair - Moderate Improvements
+      - Poor - Major Improvements
+      - Critical - Immediate Action Required
+      required: true
+    - id: 26
+      name: action_items
+      label: Action Items
+      hint: What needs to be done
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: follow_up_date
+      label: Follow-Up Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other observations
+      type: text
+      options: []
+      required: false

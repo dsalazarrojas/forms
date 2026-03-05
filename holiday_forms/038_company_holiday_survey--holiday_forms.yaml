@@ -1,58 +1,55 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Company Holiday Survey
     pages:
-      - id: 1
-        name: employee_name
-        label: Employee name
-        hint: Optional for planning
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: preferred_event_type
-        label: Preferred holiday event type
-        hint: Choose your preferred event format
-        type: select_one
-        options: [In person gathering, Virtual celebration, Hybrid event]
-        required: true
-      - id: 3
-        name: preferred_date_range
-        label: Preferred date range
-        hint: Dates that work best for you
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: dietary_restrictions
-        label: Dietary restrictions
-        hint: Specify any food allergies or preferences
-        type: text
-        options: []
-        required: false
-      - id: 5
-        name: gift_exchange_interest
-        label: Interest in gift exchange
-        hint: Would you like to participate in gift exchange
-        type: select_one
-        options: [Yes, No, Maybe]
-        required: false
-      - id: 6
-        name: volunteer_to_help
-        label: Volunteer to help organize
-        hint: Sign up to assist planning or logistics
-        type: select_one
-        options: [Yes, No]
-        required: false
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: Optional for planning
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_event_type
+      label: Preferred holiday event type
+      hint: Choose your preferred event format
+      type: select_one
+      options:
+      - In person gathering
+      - Virtual celebration
+      - Hybrid event
+      required: true
+    - id: 3
+      name: preferred_date_range
+      label: Preferred date range
+      hint: Dates that work best for you
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: Specify any food allergies or preferences
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gift_exchange_interest
+      label: Interest in gift exchange
+      hint: Would you like to participate in gift exchange
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 6
+      name: volunteer_to_help
+      label: Volunteer to help organize
+      hint: Sign up to assist planning or logistics
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

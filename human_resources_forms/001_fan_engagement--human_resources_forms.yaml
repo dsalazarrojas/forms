@@ -4,209 +4,93 @@ inputSchema:
     title: Fan Engagement
     pages:
     - id: 1
-      name: fan_engagement_form
-      label: fan engagement
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: fan_engagement_form
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 3
-      name: fan_engagement_form
-      label: name
-      hint: null
+      name: favorite_team
+      label: What is your favorite sports team?
+      hint: Select your favorite sports team from the list below
       type: select_one
       options:
-      - John
-      - Doe
-      - Jane
-      - Smith
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
-    - id: 4
-      name: fan_engagement_form
-      label: date
-      hint: null
-      type: date
+    - id: 2
+      name: social_media_interaction
+      label: How do you currently interact with our team on social media?
+      hint: How often do you interact with our team on social media?
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 3
+      name: email
+      label: Email address associated with your social media handle
+      hint: Enter your email address associated with your social media handle
+      type: email
       options: []
-      required: false
-    - id: 5
-      name: fan_engagement_form
-      label: phone
-      hint: null
+      required: true
+    - id: 4
+      name: name
+      label: Name
+      hint: Enter your name as it appears on your social media profile
       type: text
       options: []
+      required: true
+    - id: 5
+      name: engagement_channel
+      label: Favorite way to engage with our team
+      hint: Select your favorite way to engage with our team
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
       required: false
     - id: 6
-      name: fan_engagement_form
-      label: fan_engagement
-      hint: null
-      type: select_multiple
-      options:
-      - John
-      - Doe
-      - Jane
-      - Smith
+      name: engagement_experience
+      label: Additional comments about your engagement experience
+      hint: Tell us more about your engagement experience
+      type: note
+      options: []
       required: false
     - id: 7
-      name: fan_engagement_form
-      label: fan_engagement
-      hint: null
+      name: event_attendance
+      label: Have you ever attended any of our events?
+      hint: Select "Yes" if you've attended any of our events
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: time_of_day
+      label: Time of day you usually interact with our team
+      hint: Select the time of day you usually interact with our team
       type: time
       options: []
       required: false
-    - id: 8
-      name: fan_engagement_form
-      label: fan_engagement
-      hint: null
-      type: note
-      options: []
-      required: false
     - id: 9
-      name: fan_engagement_form
-      label: fan_engagement
-      hint: null
+      name: experience_rating
+      label: Rate your overall experience with our team
+      hint: Rate your experience on a scale of 1-5
       type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: fan_engagement_form
-      label: fan_engagement
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: fan_engagement_form
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
-      name: fan_engagement_form
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 13
-      name: fan_engagement_form
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: fan_engagement_form
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: fan_engagement_form
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: fan_engagement_form
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 17
-      name: fan_engagement_form
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - option4
-      - option5
-      required: false
-    - id: 18
-      name: fan_engagement_form
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option6
-      - option7
-      - option8
-      - option9
-      required: false
-    - id: 19
-      name: fan_engagement_form
-      label: phone
-      hint: null
+      name: phone
+      label: Phone number
+      hint: Enter your phone number
       type: text
       options: []
-      required: false
-    - id: 20
-      name: fan_engagement_form
-      label: date
-      hint: null
+      required: true
+    - id: 11
+      name: birthday
+      label: Birthday
+      hint: Enter your birthday in the format MM/DD/YYYY
       type: date
       options: []
-      required: false
-    - id: 21
-      name: fan_engagement_form
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: fan_engagement_form
-      label: select_one
-      hint: null
-      type: select_one
-      options:
-      - option10
-      - option11
-      required: false
-    - id: 23
-      name: fan_engagement_form
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option12
-      - option13
-      - option14
-      - option15
-      - option16
-      required: false
-    - id: 24
-      name: fan_engagement_form
-      label: select_multiple
-      hint: null
-      type: select_multiple
-      options:
-      - option17
-      - option18
-      - option19
-      - option20
-      required: false
-    - id: 25
-      name: fan_engagement_form
-      label: integer
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true

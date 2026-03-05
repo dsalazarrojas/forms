@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: outcomes_documentation
@@ -47,10 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: ongoing_conversations
@@ -93,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: submitted_by
@@ -103,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 14
       name: submitted_to
@@ -113,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 15
       name: submitted_via
@@ -123,9 +122,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: submitted_on
@@ -143,35 +142,35 @@ inputSchema:
       required: false
     - id: 18
       name: submitted_by_title
-      label: submitted by
+      label: Submitted By Title
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: submitted_to_title
-      label: submitted to
+      label: Submitted To Title
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: submitted_via_title
-      label: submitted via
+      label: Submitted Via Title
       hint: null
       type: text
       options: []
       required: false
     - id: 21
       name: submitted_on_date
-      label: submitted on
+      label: Submitted On Date
       hint: null
       type: date
       options: []
       required: false
     - id: 22
       name: submitted_at_time
-      label: submitted at
+      label: Submitted At Time
       hint: null
       type: time
       options: []

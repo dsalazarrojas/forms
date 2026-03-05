@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Normal''}'
-      - '{''label'': ''Dry''}'
-      - '{''label'': ''Oily''}'
-      - '{''label'': ''Combination''}'
-      - '{''label'': ''Sensitive''}'
+      - Normal
+      - Dry
+      - Oily
+      - Combination
+      - Sensitive
       required: false
     - id: 4
       name: skin_concerns
@@ -35,13 +35,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Aging''}'
-      - '{''label'': ''Acne''}'
-      - '{''label'': ''Dullness''}'
-      - '{''label'': ''Hyper-Pigmentation''}'
-      - '{''label'': ''Large pores''}'
-      - '{''label'': ''Pore size variation''}'
-      - '{''label'': ''Pore size variation''}'
+      - Aging
+      - Acne
+      - Dullness
+      - Hyper-Pigmentation
+      - Large pores
+      - Pore size variation
       required: false
     - id: 5
       name: fragrance_allergy
@@ -49,8 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: fragrance_preference
@@ -58,10 +57,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Strong''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Light''}'
-      - '{''label'': ''None''}'
+      - Strong
+      - Medium
+      - Light
+      - None
       required: false
     - id: 7
       name: skincare_product_use
@@ -69,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Face''}'
-      - '{''label'': ''Body''}'
-      - '{''label'': ''Both''}'
+      - Face
+      - Body
+      - Both
       required: false
     - id: 8
       name: skin_condition
@@ -79,14 +78,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Acne''}'
-      - '{''label'': ''Aging''}'
-      - '{''label'': ''Dullness''}'
-      - '{''label'': ''Hyper-Pigmentation''}'
-      - '{''label'': ''Oily''}'
-      - '{''label'': ''Sensitive''}'
-      - '{''label'': ''Rosacea''}'
-      - '{''label'': ''Eczema''}'
+      - Acne
+      - Aging
+      - Dullness
+      - Hyper-Pigmentation
+      - Oily
+      - Sensitive
+      - Rosacea
+      - Eczema
       required: false
     - id: 9
       name: preferred_skincare_product
@@ -94,12 +93,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Moisturizer''}'
-      - '{''label'': ''Toner''}'
-      - '{''label'': ''Exfoliator''}'
-      - '{''label'': ''Sunscreen''}'
-      - '{''label'': ''Serum''}'
-      - '{''label'': ''Face Mask''}'
+      - Moisturizer
+      - Toner
+      - Exfoliator
+      - Sunscreen
+      - Serum
+      - Face Mask
       required: false
     - id: 10
       name: preferred_fragrance_product
@@ -107,13 +106,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Moisturizer''}'
-      - '{''label'': ''Toner''}'
-      - '{''label'': ''Exfoliator''}'
-      - '{''label'': ''Sunscreen''}'
-      - '{''label'': ''Serum''}'
-      - '{''label'': ''Face Mask''}'
+      - None
+      - Moisturizer
+      - Toner
+      - Exfoliator
+      - Sunscreen
+      - Serum
+      - Face Mask
       required: false
     - id: 11
       name: skincare_frequency
@@ -121,10 +120,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''As-needed''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Rarely''}'
+      - Daily
+      - As-needed
+      - Weekly
+      - Rarely
       required: false
     - id: 12
       name: fragrance_frequency
@@ -132,10 +131,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''As-needed''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Rarely''}'
+      - Daily
+      - As-needed
+      - Weekly
+      - Rarely
       required: false
     - id: 13
       name: skincare_pain_level
@@ -143,10 +142,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Light''}'
-      - '{''label'': ''Moderate''}'
-      - '{''label'': ''Severe''}'
+      - None
+      - Light
+      - Moderate
+      - Severe
       required: false
     - id: 14
       name: fragrance_pain_level
@@ -154,10 +153,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Light''}'
-      - '{''label'': ''Moderate''}'
-      - '{''label'': ''Severe''}'
+      - None
+      - Light
+      - Moderate
+      - Severe
       required: false
     - id: 15
       name: skincare_pain_location
@@ -165,10 +164,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Face''}'
-      - '{''label'': ''Neck''}'
-      - '{''label'': ''Hands''}'
-      - '{''label'': ''Body''}'
+      - Face
+      - Neck
+      - Hands
+      - Body
       required: false
     - id: 16
       name: fragrance_pain_location
@@ -176,10 +175,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Face''}'
-      - '{''label'': ''Neck''}'
-      - '{''label'': ''Hands''}'
-      - '{''label'': ''Body''}'
+      - Face
+      - Neck
+      - Hands
+      - Body
       required: false
     - id: 17
       name: skincare_pain_duration
@@ -187,11 +186,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Less than 24 hours''}'
-      - '{''label'': ''24 hours to 1 week''}'
-      - '{''label'': ''1-2 weeks''}'
-      - '{''label'': ''More than 2 weeks''}'
+      - None
+      - Less than 24 hours
+      - 24 hours to 1 week
+      - 1-2 weeks
+      - More than 2 weeks
       required: false
     - id: 18
       name: fragrance_pain_duration
@@ -199,9 +198,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Less than 24 hours''}'
-      - '{''label'': ''24 hours to 1 week''}'
-      - '{''label'': ''1-2 weeks''}'
-      - '{''label'': ''More than 2 weeks''}'
+      - None
+      - Less than 24 hours
+      - 24 hours to 1 week
+      - 1-2 weeks
+      - More than 2 weeks
       required: false

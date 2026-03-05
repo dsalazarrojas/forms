@@ -4,187 +4,264 @@ inputSchema:
     title: uk_immigration_permission_to_stay_application_form
     pages:
     - id: 1
-      name: uk_immigration_permission_to_stay_application_form_page_1
-      label: UK Immigration Permission To Stay Application Form
-      hint: null
+      name: introduction
+      label: Introduction
+      hint: Welcome to the UK immigration permission to stay application form.
       type: text
       options: []
       required: false
     - id: 2
-      name: uk_immigration_permission_to_stay_application_form_page_2
-      label: Applicant Details
+      name: applicant_details_1
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: uk_immigration_permission_to_stay_application_form_page_3
-      label: Supporting Documents
+      name: contact_number
+      label: Contact number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: uk_immigration_permission_to_stay_application_form_page_4
-      label: E-Signature
+      name: email_address
+      label: Email address?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: uk_immigration_permission_to_stay_application_form_page_5
-      label: eSignature
+      name: date_of_birth
+      label: Date of birth?
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 6
-      name: uk_immigration_permission_to_stay_application_form_page_6
-      label: UK Permission To Stay Application Form
+      name: nationality
+      label: Nationality?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: uk_immigration_permission_to_stay_application_form_page_7
-      label: Applicant Details 1
+      name: passport_number
+      label: Passport number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: uk_immigration_permission_to_stay_application_form_page_8
-      label: Applicant Details 2
+      name: uk_visa_status
+      label: UK visa or immigration status?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: uk_immigration_permission_to_stay_application_form_page_9
-      label: Applicant Details 3
+      name: purpose_of_stay
+      label: Purpose of stay?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: uk_immigration_permission_to_stay_application_form_page_10
-      label: E-Signature
+      name: address_in_uk
+      label: Address in the UK?
       hint: null
-      type: time
+      type: text
       options: []
-      required: false
+      required: true
     - id: 11
-      name: uk_immigration_permission_to_stay_application_form_page_11
-      label: eSignature
+      name: contact_address
+      label: Contact address (if different from the above address)?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 12
-      name: uk_immigration_permission_to_stay_application_form_page_12
-      label: E-Signature
+      name: country_of_residence
+      label: Country of residence (outside the UK)?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: uk_immigration_permission_to_stay_application_form_page_13
-      label: eSignature
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: uk_immigration_permission_to_stay_application_form_page_14
-      label: eSignature
+      name: address_in_uk_2
+      label: Address in the UK (page 2)
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 14
+      name: contact_number_2
+      label: Contact number (page 2)
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 15
-      name: uk_immigration_permission_to_stay_application_form_page_15
-      label: eSignature
+      name: email_address_2
+      label: Email address (page 2)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: employment_details
+      label: Employment details (page 3)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: education_details
+      label: Education details (page 4-5)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: work_travel_history
+      label: Work/Travel history (page 6-7)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: passport_scan
+      label: Passport scan (page 8)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: id_scan
+      label: ID scan (page 8)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: proof_of_employment
+      label: Proof of employment (page 9)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: proof_of_education
+      label: Proof of education (page 10)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: proof_of_address
+      label: Proof of address (page 11)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: e_signature
+      label: E-signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: date
+      label: Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 16
-      name: uk_immigration_permission_to_stay_application_form_page_16
-      label: eSignature
+      required: true
+    - id: 26
+      name: e_sign_date
+      label: E-sign date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: e_signature_2
+      label: E-signature 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 28
+      name: confirm_application
+      label: Confirmation of application
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: submit_form
+      label: Submission of the form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: confirm_submission
+      label: Review and confirm submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: final_signature
+      label: Final signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: do_you_have_previous_immigration_issues
+      label: Do you have any previous immigration issues?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 17
-      name: uk_immigration_permission_to_stay_application_form_page_17
-      label: eSignature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 18
-      name: uk_immigration_permission_to_stay_application_form_page_18
-      label: eSignature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: uk_immigration_permission_to_stay_application_form_page_19
-      label: eSignature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: uk_immigration_permission_to_stay_application_form_page_20
-      label: eSignature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: uk_immigration_permission_to_stay_application_form_page_21
-      label: eSignature
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 22
-      name: uk_immigration_permission_to_stay_application_form_page_22
-      label: e-Signature
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: uk_immigration_permission_to_stay_application_form_page_23
-      label: e-Signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: uk_immigration_permission_to_stay_application_form_page_24
-      label: e-Signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: uk_immigration_permission_to_stay_application_form_page_25
-      label: e-Signature
+    - id: 33
+      name: do_you_have_any_health_issues
+      label: Do you have any health issues?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
+    - id: 34
+      name: do_you_have_any_dependents
+      label: Do you have any dependents?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 35
+      name: dependents_details
+      label: Dependents' details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: do_you_have_any_travel_history
+      label: Do you have any travel history?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

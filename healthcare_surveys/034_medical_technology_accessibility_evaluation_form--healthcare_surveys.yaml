@@ -4,222 +4,95 @@ inputSchema:
     title: Medical Technology Accessibility Evaluation Form
     pages:
     - id: 1
-      name: first_page
-      label: First Page
+      name: ehr_section
+      label: Electronic Health Records
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: user_input_1
-      label: Select one option
+      name: navigation_ehr
+      label: Navigation Ease
       hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      type: number
+      options: []
+      required: true
     - id: 3
-      name: user_input_2
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 4
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 5
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 6
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 7
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 8
-      name: phone
-      label: Phone
+      name: ehr_difficulties
+      label: Difficulties Encountered
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: telemedicine_section
+      label: Telemedicine Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: telemedicine_frequency
+      label: Telemedicine Frequency
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 6
+      name: medical_apps_section
+      label: Medical Apps Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: apps_frequency
+      label: Medical Apps Frequency
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Frequently
+      required: true
+    - id: 8
+      name: apps_features
+      label: App Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 9
-      name: first_page_section_1
-      label: First Page Section 1
+      name: connectivity_section
+      label: Connectivity Issues
       hint: null
       type: text
       options: []
       required: true
     - id: 10
-      name: first_page_section_2
-      label: First Page Section 2
+      name: overall_accessibility
+      label: Overall Accessibility
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 11
-      name: first_page_section_3
-      label: First Page Section 3
+      name: suggestions
+      label: Suggestions
       hint: null
       type: text
       options: []
       required: true
     - id: 12
-      name: second_page
-      label: Second Page
+      name: feedback
+      label: Additional Feedback
       hint: null
       type: text
       options: []
-      required: true
-    - id: 13
-      name: user_input_3
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 14
-      name: user_input_4
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 15
-      name: user_input_5
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 16
-      name: user_input_6
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 17
-      name: user_input_7
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 18
-      name: user_input_8
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 19
-      name: user_input_9
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 20
-      name: user_input_10
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 21
-      name: user_input_11
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 22
-      name: user_input_12
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 23
-      name: user_input_13
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 24
-      name: user_input_14
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
-    - id: 25
-      name: user_input_15
-      label: Select multiple options
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
       required: true

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: budget
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: wallet_size_2
@@ -118,7 +118,7 @@ inputSchema:
       required: false
     - id: 13
       name: wallet_size_3
-      label: What wallet size would you like?
+      label: Wallet Size 3
       hint: null
       type: select_multiple
       options:
@@ -127,8 +127,8 @@ inputSchema:
       - large
       required: false
     - id: 14
-      name: color_2
-      label: What color would you like your wallet?
+      name: color_2_2
+      label: Color 2 2
       hint: null
       type: select_multiple
       options:
@@ -138,7 +138,7 @@ inputSchema:
       required: false
     - id: 15
       name: wallet_security_3
-      label: Do you want a wallet with RFID-blocking technology?
+      label: Wallet Security 3
       hint: null
       type: select_one
       options:
@@ -147,17 +147,17 @@ inputSchema:
       required: false
     - id: 16
       name: find_perfect_wallet_3
-      label: Find the perfect wallet
+      label: Find Perfect Wallet 3
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 17
       name: wallet_2_size_2
-      label: What wallet size would you like?
+      label: Wallet 2 Size 2
       hint: null
       type: select_multiple
       options:
@@ -167,7 +167,7 @@ inputSchema:
       required: false
     - id: 18
       name: security_feature_2
-      label: Do you want a wallet with RFID-blocking technology?
+      label: Security Feature 2
       hint: null
       type: select_multiple
       options:
@@ -187,7 +187,7 @@ inputSchema:
       required: false
     - id: 20
       name: security_2
-      label: Do you want any security features in your wallet?
+      label: Security 2
       hint: null
       type: select_multiple
       options:
@@ -236,7 +236,7 @@ inputSchema:
       required: false
     - id: 25
       name: wallet_3_security_2
-      label: Do you want a wallet with RFID-blocking technology?
+      label: Wallet 3 Security 2
       hint: null
       type: select_one
       options:

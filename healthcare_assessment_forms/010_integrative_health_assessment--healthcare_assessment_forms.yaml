@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None of the above''}'
-      - '{''id'': 2, ''label'': ''High blood pressure''}'
-      - '{''id'': 3, ''label'': ''Diabetes''}'
-      - '{''id'': 4, ''label'': ''Heart disease''}'
-      - '{''id'': 5, ''label'': ''Other'', ''options'': []}'
+      - None of the above
+      - High blood pressure
+      - Diabetes
+      - Heart disease
+      - Other
       required: false
     - id: 7
       name: medical_history
@@ -63,14 +63,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''General health''}'
-      - '{''id'': 2, ''label'': ''Weight loss''}'
-      - '{''id'': 3, ''label'': ''Stress management''}'
-      - '{''id'': 4, ''label'': ''Sleep''}'
-      - '{''id'': 5, ''label'': ''Other''}'
-      - '{''id'': 6, ''label'': ''Spiritual growth''}'
-      - '{''id'': 7, ''label'': ''Nutrition''}'
-      - '{''id'': 8, ''label'': ''Mindfulness''}'
+      - General health
+      - Weight loss
+      - Stress management
+      - Sleep
+      - Other
+      - Spiritual growth
+      - Nutrition
+      - Mindfulness
       required: false
     - id: 9
       name: health_insurance
@@ -78,11 +78,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': False}'
-      - '{''id'': 2, ''label'': True}'
-      - '{''id'': 3, ''label'': ''Other''}'
-      - '{''id'': 4, ''label'': ''Private''}'
-      - '{''id'': 5, ''label'': ''Group''}'
+      - 'False'
+      - 'True'
+      - Other
+      - Private
+      - Group
       required: false
     - id: 10
       name: health_insurance_provider

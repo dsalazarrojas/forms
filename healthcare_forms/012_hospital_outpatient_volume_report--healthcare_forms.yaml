@@ -4,184 +4,92 @@ inputSchema:
     title: Hospital Outpatient Volume Report
     pages:
     - id: 1
-      name: form_1_page
-      label: Hospital Outpatient Volume Report
+      name: page_1
+      label: Introduction
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: form_2_page
+      name: page_2
       label: Visit Information
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: form_3_page
+      name: page_3
       label: Visit Details
       hint: null
       type: time
       options: []
       required: false
     - id: 4
-      name: form_4_page
+      name: page_4
       label: Cancellations
       hint: null
       type: select_one
       options:
-      - Cancellations
-      - Cancellation Reasons
-      - Reasons for Cancellation
+      - No Show
+      - Patient Cancelled
+      - Clinician Cancelled
       required: true
     - id: 5
-      name: form_5_page
+      name: page_5
       label: Reasons for Cancellation
       hint: null
       type: select_multiple
       options:
       - No Show
-      - Patient No-Show
       - Patient Cancelled
       - Clinician Cancelled
       required: true
     - id: 6
-      name: form_6_page
+      name: page_6
+      label: Wait Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: page_7
+      label: Average Wait Time
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: page_8
+      label: Number of Cancellations
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: page_9
+      label: No-shows
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: page_10
       label: Operational Notes
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: form_7_page
-      label: Visit Information
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: form_8_page
-      label: Visit Duration
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: form_9_page
+    - id: 11
+      name: page_11
       label: Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 10
-      name: form_10_page
-      label: Wait Time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 11
-      name: form_11_page
-      label: Wait Time
-      hint: null
-      type: number
-      options: []
-      required: false
+      required: true
     - id: 12
-      name: form_12_page
-      label: Average Wait Time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: form_13_page
-      label: Average Wait Time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: form_14_page
-      label: Cancellations
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: form_15_page
-      label: Cancellations
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: form_16_page
-      label: No-shows
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: form_17_page
-      label: No-shows
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: form_18_page
-      label: Cancelled
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: form_19_page
-      label: Cancelled
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: form_20_page
-      label: Cancelled
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: form_21_page
-      label: Operational Notes
+      name: page_12
+      label: Review and Submit
       hint: null
       type: text
       options: []
-      required: false
-    - id: 22
-      name: form_22_page
-      label: Operational Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_23_page
-      label: Operational Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_24_page
-      label: Operational Notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_25_page
-      label: Operational Notes
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

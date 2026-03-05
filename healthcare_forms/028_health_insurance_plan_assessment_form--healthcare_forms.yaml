@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Individual''}'
-      - '{''id'': 2, ''name'': ''Family''}'
-      - '{''id'': 3, ''name'': ''Group''}'
+      - Individual
+      - Family
+      - Group
       required: false
     - id: 4
       name: premium_cost
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Health Insurance''}'
-      - '{''id'': 2, ''name'': ''Prescription''}'
-      - '{''id'': 3, ''name'': ''Both''}'
+      - Health Insurance
+      - Prescription
+      - Both
       required: false
     - id: 6
       name: coverage_area
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Local''}'
-      - '{''id'': 2, ''name'': ''Nationwide''}'
-      - '{''id'': 3, ''name'': ''Regional''}'
+      - Local
+      - Nationwide
+      - Regional
       required: false
     - id: 7
       name: deductible
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Cancelled''}'
-      - '{''id'': 3, ''name'': ''Expired''}'
+      - Active
+      - Cancelled
+      - Expired
       required: false
     - id: 14
       name: policy_type
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Individual''}'
-      - '{''id'': 2, ''name'': ''Group''}'
-      - '{''id'': 3, ''name'': ''Family''}'
+      - Individual
+      - Group
+      - Family
       required: false
     - id: 15
       name: employee_name
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Monthly''}'
-      - '{''id'': 2, ''name'': ''Quarterly''}'
-      - '{''id'': 3, ''name'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 21
       name: coverage_type_description

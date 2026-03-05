@@ -1,207 +1,196 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Brand Standard Room Inspection Form
     pages:
-      - id: 1
-        name: inspector_name
-        label: Inspector Name
-        hint: Full name of inspector
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: inspector_id
-        label: Inspector ID
-        hint: Employee or contractor ID
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: inspection_date
-        label: Inspection Date
-        hint: Date of inspection
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: inspection_time
-        label: Inspection Time
-        hint: Time of inspection
-        type: time
-        options: []
-        required: true
-      - id: 5
-        name: property_name
-        label: Property Name
-        hint: Name of hotel or property
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: property_address
-        label: Property Address
-        hint: Full address
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: room_number
-        label: Room Number
-        hint: Room being inspected
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: room_type
-        label: Room Type
-        hint: Type of room
-        type: select_one
-        options:
-          - Standard Room
-          - Deluxe Room
-          - Suite
-          - Executive Room
-          - Accessible Room
-          - Other
-        required: true
-      - id: 9
-        name: overall_cleanliness
-        label: Overall Cleanliness
-        hint: Rate the overall cleanliness
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Average
-          - Below Average
-          - Poor
-        required: true
-      - id: 10
-        name: floor_condition
-        label: Floor Condition
-        hint: Condition of flooring
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Needs Attention
-          - Poor
-        required: true
-      - id: 11
-        name: wall_condition
-        label: Wall Condition
-        hint: Condition of walls and paint
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Needs Attention
-          - Poor
-        required: true
-      - id: 12
-        name: ceiling_condition
-        label: Ceiling Condition
-        hint: Condition of ceiling
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Needs Attention
-          - Poor
-        required: true
-      - id: 13
-        name: furniture_condition
-        label: Furniture Condition
-        hint: Condition of all furniture
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Needs Attention
-          - Poor
-        required: true
-      - id: 14
-        name: bedding_condition
-        label: Bedding Condition
-        hint: Condition of sheets, pillows, blankets
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Needs Attention
-          - Poor
-        required: true
-      - id: 15
-        name: bathroom_cleanliness
-        label: Bathroom Cleanliness
-        hint: Cleanliness of bathroom
-        type: select_one
-        options:
-          - Excellent
-          - Good
-          - Needs Attention
-          - Poor
-        required: true
-      - id: 16
-        name: amenities_working
-        label: Amenities Working Order
-        hint: Are all amenities functional
-        type: select_one
-        options:
-          - All Working
-          - Minor Issues
-          - Major Issues
-        required: true
-      - id: 17
-        name: brand_standards_met
-        label: Brand Standards Met
-        hint: Does room meet brand standards
-        type: select_one
-        options:
-          - Fully Compliant
-          - Minor Deviations
-          - Major Deviations
-          - Non-Compliant
-        required: true
-      - id: 18
-        name: issues_found
-        label: Issues Found
-        hint: Describe any issues
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: corrective_actions
-        label: Corrective Actions Needed
-        hint: What actions are needed
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: follow_up_required
-        label: Follow-Up Required
-        hint: Is follow-up inspection needed
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 21
-        name: inspector_signature
-        label: Inspector Signature
-        hint: Type your name as signature
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of inspector
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspector_id
+      label: Inspector ID
+      hint: Employee or contractor ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspection_time
+      label: Inspection Time
+      hint: Time of inspection
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: property_name
+      label: Property Name
+      hint: Name of hotel or property
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: room_number
+      label: Room Number
+      hint: Room being inspected
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: room_type
+      label: Room Type
+      hint: Type of room
+      type: select_one
+      options:
+      - Standard Room
+      - Deluxe Room
+      - Suite
+      - Executive Room
+      - Accessible Room
+      - Other
+      required: true
+    - id: 9
+      name: overall_cleanliness
+      label: Overall Cleanliness
+      hint: Rate the overall cleanliness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 10
+      name: floor_condition
+      label: Floor Condition
+      hint: Condition of flooring
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Attention
+      - Poor
+      required: true
+    - id: 11
+      name: wall_condition
+      label: Wall Condition
+      hint: Condition of walls and paint
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Attention
+      - Poor
+      required: true
+    - id: 12
+      name: ceiling_condition
+      label: Ceiling Condition
+      hint: Condition of ceiling
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Attention
+      - Poor
+      required: true
+    - id: 13
+      name: furniture_condition
+      label: Furniture Condition
+      hint: Condition of all furniture
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Attention
+      - Poor
+      required: true
+    - id: 14
+      name: bedding_condition
+      label: Bedding Condition
+      hint: Condition of sheets, pillows, blankets
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Attention
+      - Poor
+      required: true
+    - id: 15
+      name: bathroom_cleanliness
+      label: Bathroom Cleanliness
+      hint: Cleanliness of bathroom
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Needs Attention
+      - Poor
+      required: true
+    - id: 16
+      name: amenities_working
+      label: Amenities Working Order
+      hint: Are all amenities functional
+      type: select_one
+      options:
+      - All Working
+      - Minor Issues
+      - Major Issues
+      required: true
+    - id: 17
+      name: brand_standards_met
+      label: Brand Standards Met
+      hint: Does room meet brand standards
+      type: select_one
+      options:
+      - Fully Compliant
+      - Minor Deviations
+      - Major Deviations
+      - Non-Compliant
+      required: true
+    - id: 18
+      name: issues_found
+      label: Issues Found
+      hint: Describe any issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: corrective_actions
+      label: Corrective Actions Needed
+      hint: What actions are needed
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is follow-up inspection needed
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type your name as signature
+      type: text
+      options: []
+      required: true

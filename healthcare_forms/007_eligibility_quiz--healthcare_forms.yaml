@@ -1,17 +1,10 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Eligibility Quiz
     pages:
     - id: 1
-      name: eligibility_questions
-      label: Eligibility Questions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: eligibility_quiz_questions_1
+      name: eligibility_question_1
       label: Is this person 18 years or older?
       hint: null
       type: select_one
@@ -19,144 +12,29 @@ inputSchema:
       - 18 years or older
       - less than 18 years
       required: false
+    - id: 2
+      name: eligibility_question_2
+      label: Has this person been previously diagnosed with any of the following medical
+        conditions?
+      hint: null
+      type: select_multiple
+      options:
+      - Hypertension
+      - Diabetes
+      - Chronic Kidney Disease
+      - Heart Disease
+      - Chronic Liver Disease
+      - Respiratory Disease
+      required: false
     - id: 3
-      name: eligibility_quiz_questions_2
-      label: Has this person been previously diagnosed with any of the following medical
-        conditions?
-      hint: null
-      type: select_multiple
-      options:
-      - Hypertension
-      - Diabetes
-      - Chronic Kidney Disease
-      - Heart Disease
-      - Chronic Liver Disease
-      - Respiratory Disease
-      required: false
-    - id: 4
-      name: eligibility_quiz_questions_3
-      label: Has this person received any vaccinations or immunizations?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: eligibility_quiz_questions_4
-      label: How many years ago was the last time this person smoked?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: eligibility_quiz_questions_5
-      label: Has this person ever used any of the following substances?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: eligibility_quiz_questions_6
-      label: What is this person's weight in kilograms?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: eligibility_quiz_questions_7
-      label: What is this person's height in centimeters?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: eligibility_quiz_questions_8
-      label: What is this person's BMI?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 10
-      name: eligibility_quiz_questions_9
-      label: Has this person ever experienced any of the following medical conditions?
-      hint: null
-      type: select_multiple
-      options:
-      - Hypertension
-      - Diabetes
-      - Chronic Kidney Disease
-      - Heart Disease
-      - Chronic Liver Disease
-      - Respiratory Disease
-      required: false
-    - id: 11
-      name: eligibility_quiz_questions_10
-      label: Has this person been previously diagnosed with any of the following medical
-        conditions?
-      hint: null
-      type: select_multiple
-      options:
-      - Hypertension
-      - Diabetes
-      - Chronic Kidney Disease
-      - Heart Disease
-      - Chronic Liver Disease
-      - Respiratory Disease
-      required: false
-    - id: 12
-      name: eligibility_quiz_questions_11
-      label: Are you able to perform physical activity?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: eligibility_quiz_questions_12
-      label: Do you take any medications?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: eligibility_quiz_questions_13
-      label: How many hours do you spend watching TV or using electronic media each
-        day?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: eligibility_quiz_questions_14
+      name: eligibility_question_3
       label: How many hours do you sleep each night?
       hint: null
       type: number
       options: []
       required: false
-    - id: 16
-      name: eligibility_quiz_questions_15
-      label: Do you have a stable job or income?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: eligibility_quiz_questions_16
-      label: Do you have a stable residence address?
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: eligibility_quiz_questions_17
+    - id: 4
+      name: eligibility_question_4
       label: Do you have access to internet?
       hint: null
       type: select_one
@@ -164,45 +42,26 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 19
-      name: eligibility_quiz_questions_18
-      label: Is this person 18 years or older?
+    - id: 5
+      name: eligibility_question_5
+      label: Do you have a stable job or income?
       hint: null
       type: select_one
       options:
-      - 18 years or older
-      - less than 18 years
+      - 'Yes'
+      - 'No'
       required: false
-    - id: 20
-      name: eligibility_quiz_questions_19
-      label: Has this person been previously diagnosed with any of the following medical
-        conditions?
+    - id: 6
+      name: eligibility_question_6
+      label: Do you have a stable residence address?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Hypertension
-      - Diabetes
-      - Chronic Kidney Disease
-      - Heart Disease
-      - Chronic Liver Disease
-      - Respiratory Disease
+      - 'Yes'
+      - 'No'
       required: false
-    - id: 21
-      name: eligibility_quiz_questions_20
-      label: Has this person received any vaccinations or immunizations?
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: eligibility_quiz_questions_21
-      label: How many years ago was the last time this person smoked?
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: eligibility_quiz_questions_22
+    - id: 7
+      name: eligibility_question_7
       label: Has this person ever used any of the following substances?
       hint: null
       type: select_one
@@ -210,37 +69,42 @@ inputSchema:
       - 'Yes'
       - 'No'
       required: false
-    - id: 24
-      name: eligibility_quiz_questions_23
+    - id: 8
+      name: eligibility_question_8
       label: What is this person's weight in kilograms?
       hint: null
       type: number
       options: []
       required: false
-    - id: 25
-      name: eligibility_quiz_questions_24
+    - id: 9
+      name: eligibility_question_9
       label: What is this person's height in centimeters?
       hint: null
       type: number
       options: []
       required: false
-    - id: 26
-      name: eligibility_quiz_questions_25
+    - id: 10
+      name: eligibility_question_10
       label: What is this person's BMI?
       hint: null
       type: number
       options: []
       required: false
-    - id: 27
-      name: eligibility_quiz_questions_26
-      label: Has this person ever experienced any of the following medical conditions?
+    - id: 11
+      name: eligibility_question_11
+      label: Do you have a history of smoking?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Hypertension
-      - Diabetes
-      - Chronic Kidney Disease
-      - Heart Disease
-      - Chronic Liver Disease
-      - Respiratory Disease
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: eligibility_question_12
+      label: Do you take any medications?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false

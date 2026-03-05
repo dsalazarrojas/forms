@@ -5,207 +5,166 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
-      hint: null
+      label: Introduction
+      hint: Welcome to the Digital Detox Behavior Survey.
       type: text
       options: []
       required: false
     - id: 2
-      name: question_1
-      label: screen_time_habits
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: screen_time_habits
+      label: How many hours do you spend on screens each day?
+      hint: Please provide the exact number of hours spent on screens.
+      type: number
+      options: []
+      required: true
     - id: 3
-      name: question_1_answer
-      label: screen_time_habits_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: question_2
-      label: digital_device_usage
-      hint: null
+      name: digital_device_ownership
+      label: Do you own a smartphone?
+      hint: Do you own a smartphone?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: question_2_answer
-      label: question_2_answer
-      hint: null
+      - 'True'
+      - 'False'
+      required: true
+    - id: 4
+      name: digital_device_ownership_answer
+      label: How many other digital devices do you own?
+      hint: Please specify the number of devices you own.
       type: text
       options: []
-      required: false
-    - id: 6
-      name: question_3
-      label: digital_device_ownership
-      hint: null
+      required: true
+    - id: 5
+      name: digital_device_usage
+      label: How often do you use your digital devices?
+      hint: Please select your usage frequency.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: question_3_answer
-      label: question_3_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: question_4
-      label: digital_device_ownership
-      hint: null
+      - Daily
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 6
+      name: digital_device_impact_on_routine
+      label: Do you feel anxious without a digital device?
+      hint: Do you feel anxious without a digital device?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: true
+    - id: 7
+      name: digital_device_restrictions_effectiveness
+      label: Do you feel more focused without digital devices?
+      hint: Do you feel more focused without digital devices?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: digital_device_social_usage
+      label: Do you use your digital devices during social gatherings?
+      hint: Do you use devices during social gatherings?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
       required: false
     - id: 9
-      name: question_4_answer
-      label: question_4_answer
-      hint: null
-      type: text
-      options: []
+      name: digital_device_entertainment_usage
+      label: Do you use your digital devices for entertainment?
+      hint: Do you use devices for entertainment?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 10
-      name: question_5
-      label: digital_device_ownership
-      hint: null
-      type: select_multiple
+      name: digital_device_owning_multiple_devices
+      label: Do you own multiple digital devices?
+      hint: Do you own multiple devices?
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
-      name: question_5_answer
-      label: question_5_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question_6
-      label: digital_device_ownership
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: question_6_answer
-      label: question_6_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: question_7
-      label: digital_device_ownership
-      hint: null
+      name: digital_device_usage_work_school
+      label: Do you use digital devices for work or school?
+      hint: Do you use devices for work or school?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      - Occasionally
       required: false
-    - id: 15
-      name: question_7_answer
-      label: question_7_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: question_8
-      label: digital_device_ownership
-      hint: null
+    - id: 12
+      name: digital_device_usage_social_media
+      label: Do you use social media often?
+      hint: Do you use social media often?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: digital_device_usage_news_information
+      label: Do you follow news sources online?
+      hint: Do you follow news sources online?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Occasionally
+      required: false
+    - id: 14
+      name: digital_device_usage_learning
+      label: Do you use devices for learning?
+      hint: Do you use devices for learning?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: digital_device_usage_creative_activities
+      label: Do you use devices for creative activities?
+      hint: Do you use devices for creative activities?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: digital_device_usage_for_relaxation
+      label: Do you use devices to relax?
+      hint: Do you use devices to relax?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: question_8_answer
-      label: question_8_answer
-      hint: null
+      name: conclusion
+      label: Conclusion
+      hint: Thank you for participating in the Digital Detox Behavior Survey.
       type: text
       options: []
       required: false
     - id: 18
-      name: question_9
-      label: digital_device_ownership
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: question_9_answer
-      label: question_9_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_10
-      label: digital_device_ownership
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: question_10_answer
-      label: question_10_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_11
-      label: digital_device_ownership
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: question_11_answer
-      label: question_11_answer
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: conclusion
-      label: conclusion
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
       name: demographics
-      label: demographics
-      hint: null
+      label: Demographics
+      hint: Are you willing to participate in the survey?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 26
+      - 'True'
+      - 'False'
+      required: true
+    - id: 19
       name: demographics_answer
-      label: demographics_answer
-      hint: null
+      label: What is your age group?
+      hint: Please select your age group.
       type: text
       options: []
-      required: false
+      required: true

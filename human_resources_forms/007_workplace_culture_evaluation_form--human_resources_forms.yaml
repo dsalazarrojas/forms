@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''ID'': 1, ''label'': ''Sales''}'
-      - '{''ID'': 2, ''label'': ''Marketing''}'
-      - '{''ID'': 3, ''label'': ''IT''}'
-      - '{''ID'': 4, ''label'': ''Other''}'
+      - Sales
+      - Marketing
+      - IT
+      - Other
       required: false
     - id: 3
       name: job_title
@@ -34,11 +34,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''ID'': 1, ''label'': ''Office''}'
-      - '{''ID'': 2, ''label'': ''Remote''}'
-      - '{''ID'': 3, ''label'': ''On-site''}'
-      - '{''ID'': 4, ''label'': ''Hybrid''}'
-      - '{''ID'': 5, ''label'': ''Other''}'
+      - Office
+      - Remote
+      - On-site
+      - Hybrid
+      - Other
       required: false
     - id: 5
       name: job_classification
@@ -46,11 +46,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''ID'': 1, ''label'': ''Full-time''}'
-      - '{''ID'': 2, ''label'': ''Part-time''}'
-      - '{''ID'': 3, ''label'': ''Freelance''}'
-      - '{''ID'': 4, ''label'': ''Intern''}'
-      - '{''ID'': 5, ''label'': ''Other''}'
+      - Full-time
+      - Part-time
+      - Freelance
+      - Intern
+      - Other
       required: false
     - id: 6
       name: years_of_service

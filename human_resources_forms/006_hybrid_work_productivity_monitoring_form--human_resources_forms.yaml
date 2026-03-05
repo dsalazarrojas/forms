@@ -9,392 +9,96 @@ inputSchema:
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: date
-      label: Date
+      name: last_workday
+      label: Last Day of Work
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 3
-      name: time
-      label: Time
+      name: work_hours
+      label: Work Hours
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 4
       name: note
       label: Note
       hint: null
       type: note
       options: []
-      required: false
+      required: true
     - id: 5
       name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 6
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: select_one
-      label: Select One
+      name: communication_preference
+      label: Communication Preference
       hint: null
       type: select_one
       options:
-      - '123'
-      - '456'
-      required: false
+      - Email
+      - Phone
+      required: true
     - id: 8
-      name: select_multiple
-      label: Select Multiple
+      name: work_style
+      label: Work Style
       hint: null
       type: select_multiple
       options:
-      - '123'
-      - '456'
-      - '789'
-      required: false
+      - In-person meetings
+      - Virtual meetings
+      - Both
+      required: true
     - id: 9
-      name: select_multiple_2
-      label: Select Multiple 2
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 10
-      name: select_one_2
-      label: Select One 2
-      hint: null
-      type: select_one
-      options:
-      - '901'
-      - '234'
-      required: false
-    - id: 11
-      name: select_multiple_3
-      label: Select Multiple 3
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 12
-      name: select_one_3
-      label: Select One 3
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 13
-      name: select_multiple_4
-      label: Select Multiple 4
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 14
-      name: select_one_4
-      label: Select One 4
-      hint: null
-      type: select_one
-      options:
-      - '345'
-      - '678'
-      required: false
-    - id: 15
-      name: select_multiple_5
-      label: Select Multiple 5
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 16
-      name: select_one_5
-      label: Select One 5
-      hint: null
-      type: select_one
-      options:
-      - '123'
-      - Other
-      required: false
-    - id: 17
-      name: select_multiple_6
-      label: Select Multiple 6
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 18
-      name: select_one_6
-      label: Select One 6
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 19
-      name: select_multiple_7
-      label: Select Multiple 7
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 20
-      name: select_one_7
-      label: Select One 7
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 21
-      name: select_multiple_8
-      label: Select Multiple 8
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 22
-      name: select_one_8
-      label: Select One 8
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 23
-      name: select_multiple_9
-      label: Select Multiple 9
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 24
-      name: select_one_9
-      label: Select One 9
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 25
-      name: select_multiple_10
-      label: Select Multiple 10
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 26
-      name: note
+      name: note_2
       label: Note 2
       hint: null
       type: note
       options: []
-      required: false
-    - id: 27
-      name: email
+      required: true
+    - id: 10
+      name: email_2
       label: Email 2
       hint: null
       type: email
       options: []
-      required: false
-    - id: 28
-      name: phone
+      required: true
+    - id: 11
+      name: phone_2
       label: Phone 2
       hint: null
       type: text
       options: []
-      required: false
-    - id: 29
-      name: select_multiple_2
-      label: Select Multiple 2
+      required: true
+    - id: 12
+      name: work_preference
+      label: Work Preference
       hint: null
       type: select_multiple
       options:
-      - '10'
-      - '345'
-      required: false
-    - id: 30
-      name: select_one_2
-      label: Select One 2
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 31
-      name: select_multiple_3
-      label: Select Multiple 3
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 32
-      name: select_one_3
-      label: Select One 3
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 33
-      name: select_multiple_4
-      label: Select Multiple 4
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 34
-      name: select_one_4
-      label: Select One 4
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 35
-      name: select_multiple_5
-      label: Select Multiple 5
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 36
-      name: select_one_5
-      label: Select One 5
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 37
-      name: select_multiple_6
-      label: Select Multiple 6
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 38
-      name: select_one_6
-      label: Select One 6
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 39
-      name: select_multiple_7
-      label: Select Multiple 7
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 40
-      name: select_one_7
-      label: Select One 7
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 41
-      name: select_multiple_8
-      label: Select Multiple 8
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 42
-      name: select_one_8
-      label: Select One 8
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 43
-      name: select_multiple_9
-      label: Select Multiple 9
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 44
-      name: select_one_9
-      label: Select One 9
-      hint: null
-      type: select_one
-      options:
-      - '10'
-      - Other
-      required: false
-    - id: 45
-      name: select_multiple_10
-      label: Select Multiple 10
-      hint: null
-      type: select_multiple
-      options:
-      - '10'
-      - '345'
-      required: false
-    - id: 46
-      name: note
+      - Flexibility
+      - Structure
+      - Both
+      required: true
+    - id: 13
+      name: note_3
       label: Note 3
       hint: null
       type: note
       options: []
-      required: false
+      required: true

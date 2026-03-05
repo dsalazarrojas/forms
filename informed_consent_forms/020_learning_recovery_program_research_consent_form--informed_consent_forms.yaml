@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Mother''}'
-      - '{''id'': 2, ''label'': ''Father''}'
-      - '{''id'': 3, ''label'': ''Grandparent''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Mother
+      - Father
+      - Grandparent
+      - Other
       required: false
     - id: 12
       name: consent_date
@@ -111,10 +111,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''I agree to participate in the program'', ''type'':
-        ''checkbox''}'
-      - '{''id'': 2, ''label'': ''I do not agree to participate in the program'',
-        ''type'': ''checkbox''}'
+      - I agree to participate in the program
+      - I do not agree to participate in the program
       required: false
     - id: 16
       name: emergency_contact
@@ -143,10 +141,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Mother''}'
-      - '{''id'': 2, ''label'': ''Father''}'
-      - '{''id'': 3, ''label'': ''Grandparent''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Mother
+      - Father
+      - Grandparent
+      - Other
       required: false
     - id: 20
       name: medical_condition

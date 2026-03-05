@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': 1, ''label'': ''6-12 months''}'
-      - '{''option'': 2, ''label'': ''1-2 years''}'
-      - '{''option'': 3, ''label'': ''2-5 years''}'
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
       required: true
     - id: 7
       name: interest_rate
@@ -61,10 +61,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''option'': 1, ''label'': ''Monthly''}'
-      - '{''option'': 2, ''label'': ''Quarterly''}'
-      - '{''option'': 3, ''label'': ''Semi-annually''}'
-      - '{''option'': 4, ''label'': ''Annually''}'
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
       required: true
     - id: 9
       name: credit_score
@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': 1, ''label'': ''Limited liability partnership''}'
-      - '{''option'': 2, ''label'': ''Corporation''}'
-      - '{''option'': 3, ''label'': ''Sole proprietorship''}'
-      - '{''option'': 4, ''label'': ''Partnership''}'
+      - Limited liability partnership
+      - Corporation
+      - Sole proprietorship
+      - Partnership
       required: true
     - id: 11
       name: business_age
@@ -111,10 +111,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''option'': 1, ''label'': ''High school''}'
-      - '{''option'': 2, ''label'': ''College''}'
-      - '{''option'': 3, ''label'': ''Some college''}'
-      - '{''option'': 4, ''label'': ''Graduate school''}'
+      - High school
+      - College
+      - Some college
+      - Graduate school
       required: true
     - id: 15
       name: owner_address
@@ -157,8 +157,8 @@ inputSchema:
       hint: Business tax ID
       type: select_one
       options:
-      - '{''option'': 1, ''label'': ''EIN''}'
-      - '{''option'': 2, ''label'': ''SSN''}'
+      - EIN
+      - SSN
       required: true
     - id: 21
       name: business_location

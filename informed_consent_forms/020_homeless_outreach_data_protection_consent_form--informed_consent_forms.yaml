@@ -9,9 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Homeless Outreach Team'', ''value'': ''Homeless
-        Outreach Team''}'
-      - '{''id'': 2, ''label'': ''Another team'', ''value'': ''Another team''}'
+      - Homeless Outreach Team
+      - Another team
       required: false
     - id: 2
       name: preferred_contact_name
@@ -47,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Calls'', ''value'': ''Calls''}'
-      - '{''id'': 2, ''label'': ''Texts'', ''value'': ''Texts''}'
-      - '{''id'': 3, ''label'': ''Emails'', ''value'': ''Emails''}'
+      - Calls
+      - Texts
+      - Emails
       required: false
     - id: 7
       name: data_use
@@ -57,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Contact info'', ''value'': ''contact_info''}'
-      - '{''id'': 2, ''label'': ''Follow-up'', ''value'': ''follow_up''}'
-      - '{''id'': 3, ''label'': ''Demographics'', ''value'': ''demographics''}'
+      - Contact info
+      - Follow-up
+      - Demographics
       required: false
     - id: 8
       name: emergency_contact_name

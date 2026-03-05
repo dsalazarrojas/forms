@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''sedentary''}'
-      - '{''value'': ''lightly_active''}'
-      - '{''value'': ''moderately_active''}'
-      - '{''value'': ''very_active''}'
+      - sedentary
+      - lightly active
+      - moderately active
+      - very active
       required: false
     - id: 5
       name: sleep_duration
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''less_than_7''}'
-      - '{''value'': ''7_to_8''}'
-      - '{''value'': ''more_than_8''}'
+      - less than 7
+      - 7 to 8
+      - more than 8
       required: false
     - id: 6
       name: smoke
@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 7
       name: alcohol_consumption
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''light''}'
-      - '{''value'': ''moderate''}'
-      - '{''value'': ''heavy''}'
+      - light
+      - moderate
+      - heavy
       required: false
     - id: 8
       name: exercise_days

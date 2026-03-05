@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Vegetarian''}'
-      - '{''label'': ''Non-Vegetarian''}'
-      - '{''label'': ''Omnivore''}'
+      - Vegetarian
+      - Non-Vegetarian
+      - Omnivore
       required: false
     - id: 6
       name: contact_name
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: contact_title

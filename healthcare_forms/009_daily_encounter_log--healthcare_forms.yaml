@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Meeting''}'
-      - '{''id'': 2, ''text'': ''Visit''}'
-      - '{''id'': 3, ''text'': ''Incident''}'
-      - '{''id'': 4, ''text'': ''Other''}'
+      - Meeting
+      - Visit
+      - Incident
+      - Other
       required: false
     - id: 3
       name: date
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Healthcare Team''}'
-      - '{''id'': 2, ''text'': ''Social Worker''}'
-      - '{''id'': 3, ''text'': ''Educator''}'
-      - '{''id'': 4, ''text'': ''Field Staff''}'
+      - Healthcare Team
+      - Social Worker
+      - Educator
+      - Field Staff
       required: false
     - id: 6
       name: interaction_description
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: notes

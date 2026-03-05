@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Employee A'', ''label'': ''Employee A''}'
-      - '{''value'': ''Employee B'', ''label'': ''Employee B''}'
+      - Employee A
+      - Employee B
       required: false
     - id: 3
       name: job_title
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''value'': ''Bi-Weekly'', ''label'': ''Bi-Weekly''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 7
       name: pay_rate
@@ -105,6 +105,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Internal'', ''label'': ''Internal''}'
-      - '{''value'': ''External'', ''label'': ''External''}'
+      - Internal
+      - External
       required: false

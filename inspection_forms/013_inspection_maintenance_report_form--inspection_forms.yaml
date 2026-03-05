@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Warehouse 1'', ''label'': ''Warehouse 1''}'
-      - '{''value'': ''Warehouse 2'', ''label'': ''Warehouse 2''}'
-      - '{''value'': ''Warehouse 3'', ''label'': ''Warehouse 3''}'
+      - Warehouse 1
+      - Warehouse 2
+      - Warehouse 3
       required: true
     - id: 4
       name: condition
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Good'', ''label'': ''Good''}'
-      - '{''value'': ''Needs Inspection'', ''label'': ''Needs Inspection''}'
-      - '{''value'': ''Requires Repair'', ''label'': ''Requires Repair''}'
+      - Good
+      - Needs Inspection
+      - Requires Repair
       required: false
     - id: 18
       name: comments
@@ -157,8 +157,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: next_inspection
@@ -180,9 +180,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Scheduled'', ''label'': ''Scheduled''}'
-      - '{''value'': ''Rescheduled'', ''label'': ''Rescheduled''}'
-      - '{''value'': ''Missed'', ''label'': ''Missed''}'
+      - Scheduled
+      - Rescheduled
+      - Missed
       required: false
     - id: 25
       name: remarks

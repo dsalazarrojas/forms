@@ -4,228 +4,75 @@ inputSchema:
     title: Film Crew COVID 19 Health Declaration Form
     pages:
     - id: 1
-      name: film_crew_covid_19_health_declaration_form_1
+      name: introduction
       label: Introduction
-      hint: null
+      hint: Please read this form carefully and answer all questions
       type: note
       options: []
       required: false
     - id: 2
-      name: name
-      label: Name
-      hint: null
+      name: film_crew_member_name
+      label: Film Crew Member Name
+      hint: Full name of the film crew member
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: contact_details
       label: Contact Details
-      hint: null
+      hint: Please provide your contact details
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 4
-      name: contact_details
-      label: Contact Details
-      hint: null
-      type: select_multiple
+      name: medical_history
+      label: Medical History
+      hint: Have you experienced any medical conditions in the last 2 years?
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 5
-      name: contact_details
-      label: Contact Details
-      hint: null
-      type: select_multiple
+      name: recent_contacts
+      label: Recent Contacts
+      hint: Have you had any recent contacts with someone with COVID-19?
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 6
-      name: contact_details
-      label: Contact Details
-      hint: null
-      type: select_multiple
+      name: travel_history
+      label: Travel History
+      hint: Have you traveled anywhere in the last 2 weeks?
+      type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
     - id: 7
-      name: contact_details
-      label: Contact Details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      name: review_status
+      label: Review and Sign
+      hint: Please review and sign this form
+      type: text
+      options: []
+      required: true
     - id: 8
-      name: contact_details
-      label: Contact Details
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional comments or information
+      type: text
+      options: []
       required: false
     - id: 9
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: select_one
+      name: contact_details_2
+      label: Contact Details 2
+      hint: Please provide your contact details
+      type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 10
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: recent_contacts
-      label: Recent Contacts
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: recent_contacts
-      label: Recent Contacts
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: recent_contacts
-      label: Recent Contacts
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 17
-      name: recent_contacts
-      label: Recent Contacts
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: recent_contacts
-      label: Recent Contacts
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 19
-      name: travel_history
-      label: Travel History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: travel_history
-      label: Travel History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: travel_history
-      label: Travel History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: travel_history
-      label: Travel History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 23
-      name: travel_history
-      label: Travel History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: travel_history
-      label: Travel History
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 25
-      name: review_status
-      label: Review and Sign
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: review_status
-      label: Review and Sign
-      hint: null
-      type: text
-      options: []
       required: false

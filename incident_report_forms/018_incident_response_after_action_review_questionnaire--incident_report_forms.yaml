@@ -12,180 +12,157 @@
 inputSchema:
   type: object
   properties:
-    title: Incident Response After Action Review Questionnaire
+    title: Incident Response After-Action Review Questionnaire
     pages:
     - id: 1
-      name: incident_response_after_action_review_questionnaire
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_1
+      label: What was the initial incident report?
+      hint: Provide a detailed description of the incident report.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: incident_response_after_action_review_questionnaire_2
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_2
+      label: Who was the incident commander?
+      hint: Provide the name and title of the incident commander.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: incident_response_after_action_review_questionnaire_3
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_3
+      label: What was the initial response plan?
+      hint: Describe the initial response plan and its goals.
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: incident_response_after_action_review_questionnaire_4
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: incident_response_after_action_review_4
+      label: What were the primary response resources deployed?
+      hint: List the resources that were deployed during the response.
+      type: select_multiple
+      options:
+      - Emergency responders
+      - Communication equipment
+      - Medical resources
+      - Logistics support
+      - Other
+      required: true
     - id: 5
-      name: incident_response_after_action_review_questionnaire_5
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_5
+      label: What were the outcomes of the response efforts?
+      hint: Describe the outcomes of the response efforts.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: incident_response_after_action_review_questionnaire_6
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_6
+      label: What were the lessons learned from the response efforts?
+      hint: Describe the lessons learned from the response efforts.
       type: text
       options: []
       required: false
     - id: 7
-      name: incident_response_after_action_review_questionnaire_7
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
+      name: incident_response_after_action_review_7
+      label: Was there a need for additional response resources?
+      hint: Were additional resources requested or needed?
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
+      - Undetermined
       required: false
     - id: 8
-      name: incident_response_after_action_review_questionnaire_8
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_8
+      label: Were there any notable challenges faced during the response efforts?
+      hint: Describe any challenges that were faced during the response efforts.
       type: text
       options: []
       required: false
     - id: 9
-      name: incident_response_after_action_review_questionnaire_9
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: incident_response_after_action_review_9
+      label: What were the primary causes of the incident?
+      hint: Identify the primary causes of the incident.
+      type: select_one
+      options:
+      - Natural disaster
+      - Human error
+      - Technological failure
+      - Other
+      required: true
     - id: 10
-      name: incident_response_after_action_review_questionnaire_10
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_10
+      label: What were the primary recommendations for future responses?
+      hint: Provide recommendations for future response efforts.
       type: text
       options: []
       required: false
     - id: 11
-      name: incident_response_after_action_review_questionnaire_11
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
+      name: incident_response_after_action_review_11
+      label: Was the communication plan effective?
+      hint: Evaluate the effectiveness of the communication plan.
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 12
-      name: incident_response_after_action_review_questionnaire_12
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_12
+      label: What were the results of the incident review?
+      hint: Summarize the results of the incident review.
       type: text
       options: []
       required: false
     - id: 13
-      name: incident_response_after_action_review_questionnaire_13
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_13
+      label: Were there any notable successes or achievements during the response
+        efforts?
+      hint: Describe any notable successes or achievements during the response efforts.
       type: text
       options: []
       required: false
     - id: 14
-      name: incident_response_after_action_review_questionnaire_14
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_14
+      label: What were the primary areas that required further action after the incident?
+      hint: Identify the areas that required further action after the incident.
       type: text
       options: []
       required: false
     - id: 15
-      name: incident_response_after_action_review_questionnaire_15
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_15
+      label: How did you feel about the overall response efforts?
+      hint: Evaluate your satisfaction with the response efforts.
       type: text
       options: []
       required: false
     - id: 16
-      name: incident_response_after_action_review_questionnaire_16
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
+      name: incident_response_after_action_review_16
+      label: Was the response team adequately prepared for the incident?
+      hint: Evaluate the response team's preparedness for the incident.
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 17
-      name: incident_response_after_action_review_questionnaire_17
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
+      name: incident_response_after_action_review_17
+      label: Were there any notable issues with the incident response plan?
+      hint: Identify any issues with the incident response plan.
       type: text
       options: []
       required: false
     - id: 18
-      name: incident_response_after_action_review_questionnaire_18
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
+      name: incident_response_after_action_review_18
+      label: How would you rate the effectiveness of the incident response team?
+      hint: Evaluate the incident response team's effectiveness.
+      type: number
       options: []
-      required: false
+      required: true
     - id: 19
-      name: incident_response_after_action_review_questionnaire_19
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: incident_response_after_action_review_questionnaire_20
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: incident_response_after_action_review_questionnaire_21
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: incident_response_after_action_review_questionnaire_22
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: incident_response_after_action_review_questionnaire_23
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: incident_response_after_action_review_questionnaire_24
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: incident_response_after_action_review_questionnaire_25
-      label: Incident Response After-Action Review Questionnaire
-      hint: null
-      type: text
-      options: []
+      name: incident_response_after_action_review_19
+      label: Was the response team able to respond effectively?
+      hint: Evaluate the response team's ability to respond effectively.
+      type: checkbox
+      options:
+      - 'True'
+      - 'False'
       required: false

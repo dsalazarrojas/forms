@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Dr. Smith''}'
-      - '{''id'': 2, ''name'': ''Dr. Johnson''}'
-      - '{''id'': 3, ''name'': ''Dr. Brown''}'
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Brown
       required: true
     - id: 4
       name: specialist
@@ -33,12 +33,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Cardiology''}'
-      - '{''id'': 2, ''name'': ''Dermatology''}'
-      - '{''id'': 3, ''name'': ''Endocrinology''}'
-      - '{''id'': 4, ''name'': ''Gastroenterology''}'
-      - '{''id'': 5, ''name'': ''Nephrology''}'
-      - '{''id'': 6, ''name'': ''Pulmonology''}'
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - Gastroenterology
+      - Nephrology
+      - Pulmonology
       required: true
     - id: 5
       name: referral_date
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''M''}'
-      - '{''id'': 2, ''name'': ''F''}'
-      - '{''id'': 3, ''name'': ''O''}'
+      - M
+      - F
+      - O
       required: true
     - id: 18
       name: patient_gender_other
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''New''}'
-      - '{''id'': 2, ''name'': ''In Progress''}'
-      - '{''id'': 3, ''name'': ''Completed''}'
+      - New
+      - In Progress
+      - Completed
       required: true
     - id: 25
       name: created_by

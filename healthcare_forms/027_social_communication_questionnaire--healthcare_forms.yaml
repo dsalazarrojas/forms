@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: social_isolation
@@ -133,14 +133,14 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: healthcare_provider_other
-      label: If other, please specify
+      name: healthcare_provider_other_2
+      label: Healthcare Provider Other 2
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: social_isolation
+      name: social_isolation_2
       label: Has the person exhibited social isolation
       hint: null
       type: select_one
@@ -173,7 +173,7 @@ inputSchema:
       required: false
     - id: 23
       name: social_support_services_other
-      label: If other, please specify
+      label: Social Support Services Other
       hint: null
       type: text
       options: []
@@ -187,7 +187,7 @@ inputSchema:
       required: false
     - id: 25
       name: social_worker_other
-      label: If other, please specify
+      label: Social Worker Other
       hint: null
       type: text
       options: []

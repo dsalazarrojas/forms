@@ -16,176 +16,181 @@ inputSchema:
     pages:
     - id: 1
       name: screening_question_1
-      label: Screen for fever
+      label: Do you have a fever?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 2
       name: screening_question_2
-      label: Monitor for cough
+      label: Have you experienced any respiratory issues?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 3
       name: screening_question_3
-      label: Monitor for respiratory
+      label: Are you experiencing any pain or discomfort in your head or neck?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 4
       name: medical_question_1
-      label: Medical Question
+      label: Have you noticed any changes in your vision or hearing?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 5
       name: medical_question_2
-      label: Medical Question
+      label: Have you experienced any skin issues or allergies?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 6
       name: medical_question_3
-      label: Medical Question
+      label: Have you experienced any gastrointestinal issues or digestive problems?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 7
-      name: medical_question_4
-      label: Medical Question
+      name: screening_question_4
+      label: Have you experienced any dizziness or lightheadedness?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 8
-      name: medical_question_5
-      label: Medical Question
+      name: screening_question_5
+      label: Have you experienced any numbness or tingling in your limbs?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 9
-      name: medical_question_6
-      label: Medical Question
+      name: screening_question_6
+      label: Have you experienced any confusion or disorientation?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 10
-      name: medical_question_7
-      label: Medical Question
+      name: screening_question_7
+      label: Have you experienced any loss of balance or coordination?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 11
-      name: medical_question_8
-      label: Medical Question
+      name: screening_question_8
+      label: Have you experienced any difficulty breathing?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 12
-      name: medical_question_9
-      label: Medical Question
+      name: screening_question_9
+      label: Have you experienced any chest pain or pressure?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 13
-      name: medical_question_10
-      label: Medical Question
+      name: screening_question_10
+      label: Have you experienced any nausea or vomiting?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 14
-      name: medical_question_11
-      label: Medical Question
+      name: screening_question_11
+      label: Have you experienced any headaches or migraines?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 15
-      name: medical_question_12
-      label: Medical Question
+      name: screening_question_12
+      label: Have you experienced any fatigue or weakness?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 16
-      name: medical_question_13
-      label: Medical Question
+      name: screening_question_13
+      label: Are you taking any medications?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 17
-      name: medical_question_14
-      label: Medical Question
+      name: screening_question_14
+      label: What is your current temperature (if applicable)?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 18
-      name: medical_question_15
-      label: Medical Question
+      name: screening_question_15
+      label: Have you experienced any other health concerns?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: medical_question_16
-      label: Medical Question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: medical_question_17
-      label: Medical Question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: medical_question_18
-      label: Medical Question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: medical_question_19
-      label: Medical Question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: medical_question_20
-      label: Medical Question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: medical_question_21
-      label: Medical Question
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: medical_question_22
-      label: Medical Question
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true

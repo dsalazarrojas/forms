@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10, ''name'': ''Program 1''}'
-      - '{''id'': 20, ''name'': ''Program 2''}'
-      - '{''id'': 30, ''name'': ''Program 3''}'
+      - Program 1
+      - Program 2
+      - Program 3
       required: false
     - id: 5
       name: start_date
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 40, ''name'': ''Supervisor 1''}'
-      - '{''id'': 50, ''name'': ''Supervisor 2''}'
-      - '{''id'': 60, ''name'': ''Supervisor 3''}'
+      - Supervisor 1
+      - Supervisor 2
+      - Supervisor 3
       required: false
     - id: 8
       name: feedback
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 80, ''name'': ''Good''}'
-      - '{''id'': 90, ''name'': ''Bad''}'
-      - '{''id'': 100, ''name'': ''Neutral''}'
+      - Good
+      - Bad
+      - Neutral
       required: false
     - id: 12
       name: time_spent
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 140, ''name'': True}'
-      - '{''id'': 150, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: comments_2

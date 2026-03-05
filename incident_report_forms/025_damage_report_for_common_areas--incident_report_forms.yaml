@@ -9,187 +9,91 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: damage_report_for_common_areas_page_2
-      label: Incident Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: damage_report_for_common_areas_page_3
-      label: Photos
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: damage_report_for_common_areas_page_4
-      label: Tenant Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: damage_report_for_common_areas_page_5
-      label: Property Manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: damage_report_for_common_areas_page_6
       label: Damage Location
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Kitchen'', ''value'': ''kitchen''}'
-      - '{''label'': ''Living room'', ''value'': ''living_room''}'
-      - '{''label'': ''Bedroom'', ''value'': ''bedroom''}'
-      - '{''label'': ''Bathroom'', ''value'': ''bathroom''}'
-      - '{''label'': ''Hallway'', ''value'': ''hallway''}'
-      required: false
-    - id: 7
-      name: damage_report_for_common_areas_page_7
+      - Kitchen
+      - Living Room
+      - Bedroom
+      - Bathroom
+      - Hallway
+      required: true
+    - id: 3
+      name: damage_report_for_common_areas_page_3
       label: Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 8
-      name: damage_report_for_common_areas_page_8
+      required: true
+    - id: 4
+      name: damage_report_for_common_areas_page_4
       label: Description
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
-      name: damage_report_for_common_areas_page_9
+      required: true
+    - id: 5
+      name: damage_report_for_common_areas_page_5
       label: Photos Count
       hint: null
       type: number
       options: []
-      required: false
-    - id: 10
-      name: damage_report_for_common_areas_page_10
-      label: Photos
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''1'', ''value'': ''1''}'
-      - '{''label'': ''2'', ''value'': ''2''}'
-      - '{''label'': ''3'', ''value'': ''3''}'
-      - '{''label'': ''4'', ''value'': ''4''}'
-      - '{''label'': ''5'', ''value'': ''5''}'
-      required: false
-    - id: 11
-      name: damage_report_for_common_areas_page_11
+      required: true
+    - id: 6
+      name: damage_report_for_common_areas_page_6
       label: Tenant Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: damage_report_for_common_areas_page_12
+      required: true
+    - id: 7
+      name: damage_report_for_common_areas_page_7
       label: Tenant Contact
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: damage_report_for_common_areas_page_13
+      required: true
+    - id: 8
+      name: damage_report_for_common_areas_page_8
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 14
-      name: damage_report_for_common_areas_page_14
-      label: Tenant Contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: damage_report_for_common_areas_page_15
-      label: Tenant Contact
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: damage_report_for_common_areas_page_16
+      required: true
+    - id: 9
+      name: damage_report_for_common_areas_page_9
       label: Property Manager
       hint: null
       type: text
       options: []
-      required: false
-    - id: 17
-      name: damage_report_for_common_areas_page_17
-      label: Property Manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: damage_report_for_common_areas_page_18
-      label: Property Manager
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: damage_report_for_common_areas_page_19
-      label: Property Manager
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: damage_report_for_common_areas_page_20
-      label: Damage Report
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: damage_report_for_common_areas_page_21
-      label: Damage Report
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: damage_report_for_common_areas_page_22
-      label: Damage Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: damage_report_for_common_areas_page_23
-      label: Damage Report
+      required: true
+    - id: 10
+      name: damage_report_for_common_areas_page_10
+      label: Damage Cause
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes'', ''value'': ''yes''}'
-      - '{''label'': ''No'', ''value'': ''no''}'
-      required: false
-    - id: 24
-      name: damage_report_for_common_areas_page_24
-      label: Damage Report
+      - 'True'
+      - 'False'
+      required: true
+    - id: 11
+      name: damage_report_for_common_areas_page_11
+      label: Damage Type
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Water'', ''value'': ''water''}'
-      - '{''label'': ''Fire'', ''value'': ''fire''}'
-      - '{''label'': ''Wind'', ''value'': ''wind''}'
-      required: false
-    - id: 25
-      name: damage_report_for_common_areas_page_25
-      label: Damage Report
+      - Water
+      - Fire
+      - Wind
+      required: true
+    - id: 12
+      name: damage_report_for_common_areas_page_12
+      label: Additional Information
       hint: null
-      type: date
+      type: text
       options: []
       required: false

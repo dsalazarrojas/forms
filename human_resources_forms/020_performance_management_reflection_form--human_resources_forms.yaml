@@ -12,114 +12,40 @@
 inputSchema:
   type: object
   properties:
-    title: performance_management_reflection_form
+    title: Performance Management Reflection Form
     pages:
     - id: 1
-      name: employee_name
-      label: employee_name
+      name: employee_info
+      label: Employee Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: performance_goal
-      label: performance_goal
+      name: review_info
+      label: Review Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: reflection
-      label: reflection
-      hint: null
+      label: Reflection
+      hint: Describe your performance and progress
       type: text
       options: []
       required: false
     - id: 4
-      name: goal_set
-      label: goal_set
-      hint: null
+      name: next_steps
+      label: Next Steps
+      hint: What are your next steps for improvement?
       type: text
       options: []
       required: false
     - id: 5
-      name: next_steps
-      label: next_steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: employee_name_2
-      label: performance_manager_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: review_date
-      label: review_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: performance_goal_2
-      label: target_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: performance_goal_3
-      label: actual_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: review_frequency
-      label: review_frequency
-      hint: null
-      type: select_one
-      options:
-      - Monthly
-      - Quarterly
-      - Bi-Annually
-      - Annually
-      required: false
-    - id: 11
-      name: target_date_2
-      label: target_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 12
-      name: performance_goal_4
-      label: target_frequency
-      hint: null
+      label: Review Date
+      hint: When would you like to have your performance reviewed?
       type: text
-      options: []
-      required: false
-    - id: 13
-      name: next_steps_2
-      label: next_steps
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: review_date_2
-      label: review_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: performance_goal_5
-      label: target_date
-      hint: null
-      type: date
       options: []
       required: false

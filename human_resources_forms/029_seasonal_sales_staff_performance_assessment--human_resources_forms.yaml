@@ -4,175 +4,91 @@ inputSchema:
     title: Seasonal Sales Staff Performance Assessment
     pages:
     - id: 1
-      name: employee_name
-      label: employee_name
+      name: seasonal_sales_staff_name
+      label: Seasonal Sales Staff Name
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: seasonal_work_period
-      label: seasonal_work_period
+      label: Seasonal Work Period
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: sales_area
-      label: sales_area
+      label: Sales Area
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - Sales Area 1
+      - Sales Area 2
+      - Sales Area 3
+      required: true
     - id: 4
-      name: sales_area_details
-      label: sales_area_details
+      name: sales_performance_measures
+      label: Sales Performance Measures
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: sales_area_notes
-      label: sales_area_notes
+      name: evaluation_date
+      label: Evaluation Date
       hint: null
-      type: note
+      type: date
       options: []
-      required: false
+      required: true
     - id: 6
-      name: employee_performance
-      label: employee_performance
+      name: sales_area_rating
+      label: Sales Area Rating
       hint: null
-      type: text
+      type: number
       options: []
       required: true
     - id: 7
-      name: performance_measures
-      label: performance_measures
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: evaluation_date
-      label: evaluation_date
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 9
-      name: sales_area_rating
-      label: sales_area_rating
+      name: comments
+      label: Comments
       hint: null
       type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_item
+      label: Action Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_date
+      label: Action Date
+      hint: null
+      type: date
       options: []
       required: false
     - id: 10
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: action_item
-      label: action_item
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: action_date
-      label: action_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
       name: evaluation_period
-      label: evaluation_period
+      label: Evaluation Period
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: evaluation_date
-      label: evaluation_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
+      - Quarterly
+      - Half-yearly
+      - Yearly
+      required: true
+    - id: 11
       name: review_notes
-      label: review_notes
+      label: Review Notes
       hint: null
       type: note
       options: []
       required: false
-    - id: 16
+    - id: 12
       name: seasonal_employees
-      label: seasonal_employees
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: performance_measures
-      label: performance_measures
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: sales_area_manager
-      label: sales_area_manager
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: employee_feedback
-      label: employee_feedback
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: sales_area_manager_notes
-      label: sales_area_manager_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: seasonal_staff
-      label: seasonal_staff
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: evaluation_comments
-      label: evaluation_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: performance_measures
-      label: performance_measures
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: seasonal_employees
-      label: seasonal_employees
+      label: Seasonal Employees
       hint: null
       type: text
       options: []

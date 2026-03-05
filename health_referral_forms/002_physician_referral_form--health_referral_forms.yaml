@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''phone'', ''label'': ''Phone''}'
-      - '{''value'': ''email'', ''label'': ''Email''}'
-      - '{''value'': ''online'', ''label'': ''Online''}'
+      - Phone
+      - Email
+      - Online
       required: false
     - id: 4
       name: patient_referral_details
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
-      - '{''value'': ''approved'', ''label'': ''Approved''}'
-      - '{''value'': ''rejected'', ''label'': ''Rejected''}'
-      - '{''value'': ''closed'', ''label'': ''Closed''}'
+      - Pending
+      - Approved
+      - Rejected
+      - Closed
       required: false
     - id: 6
       name: patient_referral_id

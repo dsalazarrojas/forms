@@ -16,71 +16,43 @@ inputSchema:
     pages:
     - id: 1
       name: employee_sentiment_summary_request_form_page_1
-      label: Employee Sentiment Summary Request Form
+      label: What is your role in the company?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: employee_sentiment_summary_request_form_page_2
-      label: Sentiment Summary
+      label: On a scale of 1-5, how likely are you to recommend our company to a friend?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: employee_sentiment_summary_request_form_page_3
-      label: Additional Comments
+      label: How often do you feel appreciated or recognized by your manager or colleagues?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 4
       name: employee_sentiment_summary_request_form_page_4
-      label: Sentiment Summary Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 5
-      name: employee_sentiment_summary_request_form_page_5
-      label: Sentiment Summary Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: employee_sentiment_summary_request_form_page_6
-      label: Sentiment Summary Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: employee_sentiment_summary_request_form_page_7
-      label: Sentiment Summary Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 8
-      name: employee_sentiment_summary_request_form_page_8
-      label: Sentiment Summary Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: employee_sentiment_summary_request_form_page_9
-      label: Sentiment Summary Date
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: employee_sentiment_summary_request_form_page_10
-      label: Employee
+      label: What is the main reason you feel this way?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: employee_sentiment_summary_request_form_page_5
+      label: What can we do to improve the employee sentiment?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_sentiment_summary_request_form_page_6
+      label: What is your current workload and how many hours do you work per week?
+      hint: null
+      type: number
+      options: []
+      required: true

@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Clinic''}'
-      - '{''label'': ''Hospital''}'
+      - Clinic
+      - Hospital
       required: true
     - id: 4
       name: staff_member
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Communication''}'
-      - '{''label'': ''Leadership''}'
-      - '{''label'': ''Problem Solving''}'
+      - Communication
+      - Leadership
+      - Problem Solving
       required: true
     - id: 6
       name: evaluation_date
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Form''}'
-      - '{''label'': ''Survey''}'
-      - '{''label'': ''Quiz''}'
+      - Form
+      - Survey
+      - Quiz
       required: true
     - id: 10
       name: questions
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: ratings_1_to_5
@@ -91,103 +91,54 @@ inputSchema:
       options: []
       required: false
     - id: 12
-      name: ratings_1_to_5_2
-      label: Ratings 1 to 5
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: ratings_1_to_5_3
-      label: Ratings 1 to 5
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
       name: ratings_6_to_10
       label: Ratings 6 to 10
       hint: null
       type: number
       options: []
       required: false
-    - id: 15
-      name: ratings_6_to_10_2
-      label: Ratings 6 to 10
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: ratings_6_to_10_3
-      label: Ratings 6 to 10
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
+    - id: 13
       name: competency_assessed_2
       label: Competency Assessed 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Communication''}'
-      - '{''label'': ''Leadership''}'
-      - '{''label'': ''Problem Solving''}'
+      - Communication
+      - Leadership
+      - Problem Solving
       required: true
-    - id: 18
+    - id: 14
       name: submitted_by
       label: Submitted By
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
+    - id: 15
       name: submitted_date
       label: Submitted Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 20
+    - id: 16
       name: submitted_time
       label: Submitted Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 21
+    - id: 17
       name: comments_2
-      label: Comments
+      label: Comments 2
       hint: null
       type: note
       options: []
       required: false
-    - id: 22
+    - id: 18
       name: submitted_to
       label: Submitted To
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 23
-      name: submitted_by_2
-      label: Submitted By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: submitted_date_2
-      label: Submitted Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: submitted_time_2
-      label: Submitted Time
-      hint: null
-      type: time
       options: []
       required: false

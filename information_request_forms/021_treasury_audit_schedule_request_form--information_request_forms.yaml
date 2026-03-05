@@ -4,26 +4,26 @@ inputSchema:
     title: Treasury Audit Schedule Request Form
     pages:
     - id: 1
-      name: audit_details
-      label: Audit Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: preferred_date
       label: Preferred Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 3
-      name: supporting_documents
-      label: Supporting Documents
+    - id: 2
+      name: start_date
+      label: Start Date
       hint: null
-      type: text
+      type: date
       options: []
       required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 4
       name: date_range
       label: Date Range
@@ -34,157 +34,65 @@ inputSchema:
       - 'No'
       required: false
     - id: 5
-      name: start_date
-      label: Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 7
-      name: start_date
-      label: Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 8
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: date_range
-      label: Date Range
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
       name: supporting_documents
       label: Supporting Documents
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
+    - id: 6
       name: audit_details
       label: Audit Details
       hint: null
       type: text
       options: []
+      required: true
+    - id: 7
+      name: audit_type
+      label: Audit Type
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Compliance
+      required: true
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: audit_location
+      label: Audit Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
       required: false
+    - id: 11
+      name: audit_attachment
+      label: Audit Attachment
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
     - id: 12
-      name: preferred_date
-      label: Preferred Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: supporting_documents
-      label: Supporting Documents
+      name: attachment_documents
+      label: Attachment Documents
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: date_range
-      label: Date Range
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: start_date
-      label: Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: start_date
-      label: Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 18
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: date_range
-      label: Date Range
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: supporting_documents
-      label: Supporting Documents
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: audit_report
-      label: Audit Report
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: preferred_date
-      label: Preferred Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: start_date
-      label: Start Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: end_date
-      label: End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: date_range
-      label: Date Range
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
       required: false

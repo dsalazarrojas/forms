@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Existing customer'', ''value'': ''Existing customer''}'
-      - '{''id'': 2, ''name'': ''New customer'', ''value'': ''New customer''}'
+      - Existing customer
+      - New customer
       required: false
     - id: 4
       name: data_access_type
@@ -32,10 +32,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Data access request'', ''value'': ''Data access request''}'
-      - '{''id'': 2, ''name'': ''Data request review'', ''value'': ''Data request
-        review''}'
-      - '{''id'': 3, ''name'': ''Data update'', ''value'': ''Data update''}'
+      - Data access request
+      - Data request review
+      - Data update
       required: false
     - id: 5
       name: customer_id

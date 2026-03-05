@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Software Engineer'', ''value'': ''Software Engineer''}'
-      - '{''id'': 2, ''label'': ''Dev Manager'', ''value'': ''Dev Manager''}'
+      - Software Engineer
+      - Dev Manager
       required: true
     - id: 3
       name: date_of_birth
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Virtual'', ''value'': ''Virtual''}'
-      - '{''id'': 2, ''label'': ''In-office'', ''value'': ''In-office''}'
+      - Virtual
+      - In-office
       required: true
     - id: 8
       name: department
@@ -62,8 +62,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HR'', ''value'': ''HR''}'
-      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''Marketing''}'
+      - HR
+      - Marketing
       required: true
     - id: 9
       name: onboarding_status
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Not Started'', ''value'': ''Not Started''}'
-      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
-      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''Completed''}'
+      - Not Started
+      - In Progress
+      - Completed
       required: true
     - id: 10
       name: manager_name

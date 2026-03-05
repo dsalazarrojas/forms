@@ -4,73 +4,37 @@ inputSchema:
     title: vt_executive_director_evaluation
     pages:
     - id: 1
-      name: form_title
+      name: evaluation_title
       label: Form Title
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: form_category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - Human Resources
-      - Other
-      required: false
-    - id: 3
-      name: form_description
-      label: Description
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 4
-      name: form_evaluation
-      label: Evaluation
+      name: leadership_evaluation
+      label: Leadership Evaluation
       hint: null
       type: select_multiple
       options:
       - Highly Satisfactory
-      - Satisfactory
+      - Somewhat Satisfactory
       - Unsatisfactory
       - Very Unsatisfactory
-      required: false
-    - id: 5
-      name: form_leader_evaluation
-      label: Leader Evaluation
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: form_comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: form_recommendations
-      label: Recommendations
+      required: true
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
       hint: null
       type: select_multiple
       options:
-      - Highly Recommended
-      - Somewhat Recommended
-      - Not Recommended
-      required: false
-    - id: 8
-      name: form_comments
-      label: Additional Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: form_rating
-      label: Rating
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: overall_rating
+      label: Overall Rating
       hint: null
       type: select_one
       options:
@@ -78,114 +42,66 @@ inputSchema:
       - Somewhat Satisfactory
       - Unsatisfactory
       - Very Unsatisfactory
-      required: false
-    - id: 10
-      name: form_comments
-      label: Overall Comments
+      required: true
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Recommended
+      - Somewhat Recommended
+      - Not Recommended
+      - Not Applicable
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 11
-      name: form_submit
+    - id: 7
+      name: submit
       label: Submit
       hint: null
       type: note
       options: []
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: leader_comments
+      label: Leader Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: executive_evaluation
+      label: Executive Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfactory
+      - Somewhat Satisfactory
+      - Unsatisfactory
+      - Very Unsatisfactory
+      required: true
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 12
-      name: form_additional_info
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: form_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: form_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 16
-      name: form_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_additional_info
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 19
-      name: form_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 20
-      name: form_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 21
-      name: form_phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_additional_info
-      label: Additional Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: form_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: form_phone
+      name: phone
       label: Phone
       hint: null
       type: text

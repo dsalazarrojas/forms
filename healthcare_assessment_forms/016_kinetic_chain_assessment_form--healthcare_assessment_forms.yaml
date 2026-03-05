@@ -12,7 +12,7 @@ inputSchema:
       required: false
     - id: 2
       name: client_info
-      label: Client Info
+      label: Client Information
       hint: null
       type: text
       options: []
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: select_multiple
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 10
       name: decimal
@@ -115,8 +115,8 @@ inputSchema:
       options: []
       required: false
     - id: 16
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
@@ -129,64 +129,12 @@ inputSchema:
       options: []
       required: false
     - id: 18
-      name: select_one
-      label: Select One
+      name: select_one_2
+      label: Select One 2
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 19
-      name: select_multiple
-      label: Select Multiple
-      hint: null
-      type: select_multiple
-      options:
-      - '1'
-      - '2'
-      - '3'
-      required: false
-    - id: 20
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: integer
-      label: Integer
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 22
-      name: text
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 25
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
+      - 'Yes'
+      - 'No'
+      - Other
       required: false

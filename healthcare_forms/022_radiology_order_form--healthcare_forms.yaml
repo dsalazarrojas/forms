@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''X-ray''}'
-      - '{''id'': 2, ''text'': ''MRI''}'
-      - '{''id'': 3, ''text'': ''CT Scan''}'
+      - X-ray
+      - MRI
+      - CT Scan
       required: false
     - id: 3
       name: order_details
@@ -110,8 +110,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Primary Care''}'
-      - '{''id'': 2, ''text'': ''Referring Physician''}'
+      - Primary Care
+      - Referring Physician
       required: false
     - id: 16
       name: patient_gender
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Male''}'
-      - '{''id'': 2, ''text'': ''Female''}'
-      - '{''id'': 3, ''text'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 17
       name: patient_age
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Normal''}'
-      - '{''id'': 2, ''text'': ''Urgent''}'
-      - '{''id'': 3, ''text'': ''Emergency''}'
+      - Normal
+      - Urgent
+      - Emergency
       required: false
     - id: 19
       name: imaging_department
@@ -146,11 +146,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''X-ray''}'
-      - '{''id'': 2, ''text'': ''MRI''}'
-      - '{''id'': 3, ''text'': ''CT''}'
-      - '{''id'': 4, ''text'': ''Ultrasound''}'
-      - '{''id'': 5, ''text'': ''Other''}'
+      - X-ray
+      - MRI
+      - CT
+      - Ultrasound
+      - Other
       required: false
     - id: 20
       name: imaging_modality
@@ -158,11 +158,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''X-ray''}'
-      - '{''id'': 2, ''text'': ''MRI''}'
-      - '{''id'': 3, ''text'': ''CT''}'
-      - '{''id'': 4, ''text'': ''Ultrasound''}'
-      - '{''id'': 5, ''text'': ''Other''}'
+      - X-ray
+      - MRI
+      - CT
+      - Ultrasound
+      - Other
       required: false
     - id: 21
       name: exam_location
@@ -170,8 +170,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''In-Patient''}'
-      - '{''id'': 2, ''text'': ''Out-Patient''}'
+      - In-Patient
+      - Out-Patient
       required: false
     - id: 22
       name: exam_duration
@@ -179,9 +179,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''10 minutes''}'
-      - '{''id'': 2, ''text'': ''30 minutes''}'
-      - '{''id'': 3, ''text'': ''60 minutes''}'
+      - 10 minutes
+      - 30 minutes
+      - 60 minutes
       required: false
     - id: 23
       name: exam_status
@@ -189,9 +189,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Pending''}'
-      - '{''id'': 2, ''text'': ''Complete''}'
-      - '{''id'': 3, ''text'': ''Canceled''}'
+      - Pending
+      - Complete
+      - Canceled
       required: false
     - id: 24
       name: exam_comments

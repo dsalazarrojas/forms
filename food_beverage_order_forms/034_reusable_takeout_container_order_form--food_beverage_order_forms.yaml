@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
-      - '{''name'': ''Other''}'
+      - 'True'
+      - 'False'
+      - Other
       required: false
     - id: 3
       name: pickup_other
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Small''}'
-      - '{''name'': ''Medium''}'
-      - '{''name'': ''Large''}'
+      - Small
+      - Medium
+      - Large
       required: false
     - id: 7
       name: container_number
@@ -106,9 +106,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Cash''}'
-      - '{''name'': ''Credit''}'
-      - '{''name'': ''PayPal''}'
+      - Cash
+      - Credit
+      - PayPal
       required: true
     - id: 15
       name: order_notes

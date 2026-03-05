@@ -1,214 +1,203 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Cargo Security Inspection Form
     pages:
-      - id: 1
-        name: section_inspection_overview
-        label: -- Inspection Overview --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: inspection_id
-        label: Inspection ID
-        hint: Internal tracking number for this inspection
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: inspection_date
-        label: Date of Inspection
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: inspector_name
-        label: Inspector Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: facility_location
-        label: Facility or Warehouse Location
-        hint: Specific building or terminal
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: section_shipment_details
-        label: -- Shipment Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: shipment_id
-        label: Shipment or Container Number
-        hint: The main identifier for the goods
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: carrier_name
-        label: Carrier Company
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: driver_name
-        label: Driver Name
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: vehicle_license
-        label: Vehicle License Plate
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: section_container_security
-        label: -- Container Security Checklist --
-        hint: Assess the physical container
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: seal_intact
-        label: Is the container seal intact?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 13
-        name: seal_number
-        label: Seal Number
-        hint: Enter the ID of the new or verified seal
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: wall_integrity
-        label: Are the container walls, roof, and floor sound?
-        hint: check for holes or structural damage
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Needs Maintenance
-        required: true
-      - id: 15
-        name: hidden_compartments
-        label: Evidence of hidden compartments?
-        hint: check for irregular structures
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 16
-        name: lock_security
-        label: Are all locks and doors functional and secure?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 17
-        name: section_cargo_security
-        label: -- Cargo Security Checklist --
-        hint: Assess the goods inside the container
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: cargo_properly_secured
-        label: Is the cargo properly lashed or blocked?
-        hint: ensure no movement during transit
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 19
-        name: unauthorized_items
-        label: Any unauthorized items or discrepancies?
-        hint: based on manifest comparison
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 20
-        name: package_tampering
-        label: Signs of package tampering or damage?
-        hint: check for open boxes or re-taped items
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 21
-        name: hazardous_materials
-        label: Are hazardous materials properly labeled?
-        hint: according to shipping regulations
-        type: select_one
-        options:
-          - Yes
-          - No
-          - N/A
-        required: true
-      - id: 22
-        name: section_final_assessment
-        label: -- Final Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 23
-        name: inspection_result
-        label: Overall Inspection Result
-        hint: null
-        type: select_one
-        options:
-          - Pass
-          - Fail
-          - Provisional Pass
-        required: true
-      - id: 24
-        name: corrective_actions
-        label: List any required corrective actions
-        hint: what needs to be fixed before release?
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: inspector_digital_signature
-        label: Confirmation of Inspection
-        hint: Type your full name as acknowledgment
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: section_inspection_overview
+      label: -- Inspection Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_id
+      label: Inspection ID
+      hint: Internal tracking number for this inspection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_location
+      label: Facility or Warehouse Location
+      hint: Specific building or terminal
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_shipment_details
+      label: -- Shipment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: shipment_id
+      label: Shipment or Container Number
+      hint: The main identifier for the goods
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: carrier_name
+      label: Carrier Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_license
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_container_security
+      label: -- Container Security Checklist --
+      hint: Assess the physical container
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: seal_intact
+      label: Is the container seal intact?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 13
+      name: seal_number
+      label: Seal Number
+      hint: Enter the ID of the new or verified seal
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: wall_integrity
+      label: Are the container walls, roof, and floor sound?
+      hint: check for holes or structural damage
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Needs Maintenance
+      required: true
+    - id: 15
+      name: hidden_compartments
+      label: Evidence of hidden compartments?
+      hint: check for irregular structures
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 16
+      name: lock_security
+      label: Are all locks and doors functional and secure?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: section_cargo_security
+      label: -- Cargo Security Checklist --
+      hint: Assess the goods inside the container
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: cargo_properly_secured
+      label: Is the cargo properly lashed or blocked?
+      hint: ensure no movement during transit
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 19
+      name: unauthorized_items
+      label: Any unauthorized items or discrepancies?
+      hint: based on manifest comparison
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: package_tampering
+      label: Signs of package tampering or damage?
+      hint: check for open boxes or re-taped items
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: hazardous_materials
+      label: Are hazardous materials properly labeled?
+      hint: according to shipping regulations
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: true
+    - id: 22
+      name: section_final_assessment
+      label: -- Final Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: inspection_result
+      label: Overall Inspection Result
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Provisional Pass
+      required: true
+    - id: 24
+      name: corrective_actions
+      label: List any required corrective actions
+      hint: what needs to be fixed before release?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: inspector_digital_signature
+      label: Confirmation of Inspection
+      hint: Type your full name as acknowledgment
+      type: text
+      options: []
+      required: true

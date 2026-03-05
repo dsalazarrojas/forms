@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Email'', ''label'': ''Email''}'
-      - '{''value'': ''Phone'', ''label'': ''Phone''}'
-      - '{''value'': ''None'', ''label'': ''None''}'
+      - Email
+      - Phone
+      - None
       required: true
     - id: 3
       name: document_upload
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Attachment 1'', ''label'': ''Attachment 1''}'
-      - '{''value'': ''Attachment 2'', ''label'': ''Attachment 2''}'
-      - '{''value'': ''Attachment 3'', ''label'': ''Attachment 3''}'
+      - Attachment 1
+      - Attachment 2
+      - Attachment 3
       required: true
     - id: 4
       name: additional_information
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: follow_up_contact
@@ -108,7 +108,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active'', ''label'': ''Active''}'
-      - '{''value'': ''Inactive'', ''label'': ''Inactive''}'
-      - '{''value'': ''Unknown'', ''label'': ''Unknown''}'
+      - Active
+      - Inactive
+      - Unknown
       required: true

@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: personal_info
-      label: Personal Info
+      label: What is your name?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: medical_conditions
-      label: Medical Conditions
+      label: Do you have any medical conditions?
       hint: null
       type: select_multiple
       options:
@@ -21,21 +21,23 @@ inputSchema:
       required: true
     - id: 3
       name: medical_symptoms
-      label: Medical Symptoms
+      label: Please describe any medical symptoms you are experiencing.
       hint: null
       type: text
       options: []
       required: true
     - id: 4
       name: medical_history
-      label: Medical History
+      label: Do you have any medical history?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 5
       name: travel_history
-      label: Travel History
+      label: Have you traveled recently?
       hint: null
       type: select_multiple
       options:
@@ -44,23 +46,21 @@ inputSchema:
       required: false
     - id: 6
       name: travel_places
-      label: Travel Places
+      label: Where have you traveled recently?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 7
       name: travel_duration
-      label: Travel Duration
+      label: How long was your recent trip?
       hint: null
       type: number
       options: []
       required: false
     - id: 8
       name: medical_precautions
-      label: Medical Precautions
+      label: Do you have any medical precautions?
       hint: null
       type: select_multiple
       options:
@@ -68,8 +68,8 @@ inputSchema:
       - 'No'
       required: true
     - id: 9
-      name: medical_precautions_1
-      label: Medical Precautions
+      name: medical_device
+      label: Do you have a medical device that requires special care?
       hint: null
       type: select_multiple
       options:
@@ -77,8 +77,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 10
-      name: medical_precautions_2
-      label: Medical Precautions
+      name: medical_procedures
+      label: Have you had any medical procedures recently?
       hint: null
       type: select_multiple
       options:
@@ -86,8 +86,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 11
-      name: medical_history_2
-      label: Medical History
+      name: medical_allergies
+      label: Do you have any known allergies?
       hint: null
       type: select_multiple
       options:
@@ -95,38 +95,9 @@ inputSchema:
       - 'No'
       required: false
     - id: 12
-      name: medical_history_3
-      label: Medical History
+      name: medical_insurance
+      label: What is your medical insurance status?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: medical_history_4
-      label: Medical History
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: medical_history_5
-      label: Medical History
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 15
-      name: medical_history_6
-      label: Medical History
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false

@@ -15,28 +15,28 @@ inputSchema:
     title: Patient Care Procedure Evaluation Form
     pages:
     - id: 1
-      name: page_1
+      name: patient_care_procedure
       label: Patient Care Procedure
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: page_2
+      name: procedure_date
       label: Date of Procedure
       hint: null
       type: date
       options: []
       required: false
     - id: 3
-      name: page_3
+      name: procedure_time
       label: Time of Procedure
       hint: null
       type: time
       options: []
       required: false
     - id: 4
-      name: page_4
+      name: procedure_type
       label: Procedure Type
       hint: null
       type: select_one
@@ -47,56 +47,7 @@ inputSchema:
       - Other
       required: false
     - id: 5
-      name: page_5
-      label: Prophets
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: page_6
-      label: Patient Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: page_7
-      label: Patient ID
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: page_8
-      label: Procedure Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: page_9
-      label: Doctor
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: page_10
-      label: Nurse
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: page_11
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: page_12
+      name: procedure_outcomes
       label: Procedure Outcomes
       hint: null
       type: select_multiple
@@ -108,94 +59,52 @@ inputSchema:
       - Complication - Minor
       - Complication - Major
       required: false
-    - id: 13
-      name: page_13
+    - id: 6
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: procedure_location
+      label: Procedure Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: doctor_nurse_involved
+      label: Doctor & Nurse Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
       label: Additional Comments
       hint: null
       type: note
       options: []
       required: false
-    - id: 14
-      name: page_14
-      label: Review
+    - id: 11
+      name: procedure_reviewed
+      label: Procedure Reviewed
       hint: null
       type: select_one
       options:
       - 'True'
       - 'False'
       required: false
-    - id: 15
-      name: page_15
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: page_16
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: page_17
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: page_18
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: page_19
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: page_20
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: page_21
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: page_22
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: page_23
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: page_24
-      label: Procedure Summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: page_25
+    - id: 12
+      name: procedure_summary
       label: Procedure Summary
       hint: null
       type: text

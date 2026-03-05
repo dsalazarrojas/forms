@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Finance''}'
-      - '{''id'': 2, ''text'': ''Marketing''}'
-      - '{''id'': 3, ''text'': ''Sales''}'
-      - '{''id'': 4, ''text'': ''IT''}'
+      - Finance
+      - Marketing
+      - Sales
+      - IT
       required: false
     - id: 6
       name: employee_job_title
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''Manager''}'
-      - '{''id'': 2, ''text'': ''Assistant Manager''}'
-      - '{''id'': 3, ''text'': ''Team Lead''}'
+      - Manager
+      - Assistant Manager
+      - Team Lead
       required: false
     - id: 7
       name: team_lead_name
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Personal''}'
-      - '{''id'': 2, ''text'': ''Family''}'
-      - '{''id'': 3, ''text'': ''Company''}'
+      - Personal
+      - Family
+      - Company
       required: true
     - id: 11
       name: comment
@@ -187,7 +187,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''Pending''}'
-      - '{''id'': 2, ''text'': ''Approved''}'
-      - '{''id'': 3, ''text'': ''Deny''}'
+      - Pending
+      - Approved
+      - Deny
       required: false

@@ -25,223 +25,66 @@ inputSchema:
       - I am aware that the products tested may cause irritation or allergic reactions.
       - I consent to be tested with these products and understand that this test does
         not replace other medical treatment or diagnosis.
-      required: false
+      required: true
     - id: 2
       name: skin_history
-      label: Skin History
+      label: What is your skin history?
       hint: null
       type: text
       options: []
       required: true
     - id: 3
       name: skin_type
-      label: Skin Type
+      label: What is your skin type?
       hint: null
       type: select_one
       options:
-      - Dry/Flaky Skin
-      - Normal/Combination
-      - Oily/Sensitive
+      - Dry
+      - Normal
+      - Oily
       - Sensitive
-      - Other (please specify)
-      required: false
+      required: true
     - id: 4
-      name: skin_issues
-      label: Skin Issues
+      name: skin_sensitivity
+      label: Are you sensitive to any specific products?
       hint: null
       type: select_multiple
       options:
-      - Allergic Contact Dermatitis
-      - Acne
-      - Atopic Dermatitis
-      - Burning sensation
-      - Contact Urticaria
-      - Dry/itchy skin
-      - Eczema
-      - Folliculitis
-      - Hives
-      - Insect bite or sting reactions
-      - Psoriasis
-      - Red skin
-      - Rashes
-      - Skin cancer
-      - Skin infections
-      - Warts
-      required: false
+      - 'True'
+      - 'False'
+      required: true
     - id: 5
-      name: skin_sensitivity_test_products_used
-      label: Products Used
+      name: skin_ingredients
+      label: What are the ingredients of the products you have used?
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: skin_sensitivity_test_products_ingredients
-      label: Products Ingredients
+      name: skin_issues
+      label: Are you aware of any skin reactions or allergies you have?
       hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: skin_sensitivity_test_products_used
-      label: Products Used
+      name: skin_concerns
+      label: Are you experiencing any skin issues or concerns?
       hint: null
-      type: select_multiple
-      options:
-      - Product 1
-      - Product 2
-      - Product 3
-      - Other (please specify)
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 8
-      name: skin_sensitivity_test_products_used
-      label: Products Used
+      name: other_products
+      label: Have you used any other products recently?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: skin_sensitivity_test_products_sensitivities
-      label: Products Sensitivities
-      hint: null
-      type: select_multiple
-      options:
-      - Irritation
-      - Redness
-      - Allergic reaction
-      - Dryness
-      - Itching
-      - Purpura
-      - Rash
-      required: false
-    - id: 10
-      name: skin_sensitivity_test_products_used
-      label: More Products Used
+      name: test_conclusion
+      label: Have you experienced any skin sensitivity issues?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: skin_sensitivity_test_products_used
-      label: More Products Used
-      hint: null
-      type: select_multiple
-      options:
-      - Product 1
-      - Product 2
-      - Product 3
-      - Other (please specify)
-      required: false
-    - id: 12
-      name: skin_sensitivity_test_products_used
-      label: Other Products Used
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: skin_sensitivity_test_products_used
-      label: Other Products Used
-      hint: null
-      type: select_multiple
-      options:
-      - Product 1
-      - Product 2
-      - Product 3
-      - Other (please specify)
-      required: false
-    - id: 14
-      name: skin_sensitivity_test_products_used
-      label: Other Products Used
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: skin_sensitivity_test_products_used
-      label: Skin Sensitivity Test
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: skin_sensitivity_test_products_used
-      label: More Products Used
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: skin_sensitivity_test_products_used
-      label: Products Used
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: skin_sensitivity_test_products_used
-      label: Other Products
-      hint: null
-      type: select_multiple
-      options:
-      - Product 1
-      - Product 2
-      - Product 3
-      - Other (please specify)
-      required: false
-    - id: 19
-      name: skin_sensitivity_test_products_used
-      label: Products Used
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: skin_sensitivity_test_products_used
-      label: More
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: skin_sensitivity_test_products_used
-      label: Skin Test
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: skin_sensitivity_test_products_used
-      label: Other Products Used
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: skin_sensitivity_test_products_used
-      label: More
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: skin_sensitivity_test_products_used
-      label: Products Used
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: skin_sensitivity_test_products_used
-      label: Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 26
-      name: skin_sensitivity_test_products_used
-      label: Skin Sensitivity Test
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

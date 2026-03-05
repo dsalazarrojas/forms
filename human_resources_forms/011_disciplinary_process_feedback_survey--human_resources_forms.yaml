@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Good''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Very Poor''}'
-      - '{''label'': ''Not Applicable''}'
+      - Very Good
+      - Neutral
+      - Very Poor
+      - Not Applicable
       required: false
     - id: 3
       name: feedback_description
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Fair''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Not Fair''}'
-      - '{''label'': ''Not Applicable''}'
+      - Very Fair
+      - Fair
+      - Not Fair
+      - Not Applicable
       required: false
     - id: 5
       name: improvement
@@ -56,7 +56,7 @@ inputSchema:
     - id: 7
       name: time_of_occurrence
       label: Time of Occurrence
-      hint: "12:00 AM"
+      hint: 12:00 AM
       type: time
       options: []
       required: false
@@ -154,7 +154,7 @@ inputSchema:
     - id: 21
       name: time_of_discussion
       label: Time of Discussion
-      hint: "12:00 AM"
+      hint: 12:00 AM
       type: time
       options: []
       required: false
@@ -175,7 +175,7 @@ inputSchema:
     - id: 24
       name: outcome_time
       label: Outcome Time
-      hint: "12:00 AM"
+      hint: 12:00 AM
       type: time
       options: []
       required: false

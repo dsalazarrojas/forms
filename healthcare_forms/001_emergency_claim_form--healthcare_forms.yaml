@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''pending''}'
-      - '{''id'': 2, ''text'': ''approved''}'
-      - '{''id'': 3, ''text'': ''denied''}'
+      - pending
+      - approved
+      - denied
       required: false
     - id: 7
       name: assigned
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': True}'
-      - '{''id'': 2, ''text'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: notes
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''text'': ''health''}'
-      - '{''id'': 2, ''text'': ''auto''}'
-      - '{''id'': 3, ''text'': ''other''}'
+      - health
+      - auto
+      - other
       required: false
     - id: 15
       name: claim_category
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''injury''}'
-      - '{''id'': 2, ''text'': ''auto''}'
-      - '{''id'': 3, ''text'': ''other''}'
+      - injury
+      - auto
+      - other
       required: false
     - id: 16
       name: claim_type
@@ -129,9 +129,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''injury''}'
-      - '{''id'': 2, ''text'': ''property''}'
-      - '{''id'': 3, ''text'': ''other''}'
+      - injury
+      - property
+      - other
       required: false
     - id: 17
       name: report_date
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''text'': ''injury''}'
-      - '{''id'': 2, ''text'': ''property''}'
-      - '{''id'': 3, ''text'': ''other''}'
+      - injury
+      - property
+      - other
       required: false
     - id: 23
       name: notes

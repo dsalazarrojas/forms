@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 2
       name: country_traveled_to
@@ -32,8 +32,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Within my state''}'
-      - '{''id'': 2, ''label'': ''Outside my state''}'
+      - Within my state
+      - Outside my state
       required: false
     - id: 5
       name: travel_date
@@ -111,6 +111,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Student''}'
-      - '{''id'': 2, ''label'': ''School Admin''}'
+      - Student
+      - School Admin
       required: false

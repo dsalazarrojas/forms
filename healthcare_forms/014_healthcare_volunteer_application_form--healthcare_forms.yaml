@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: availability
@@ -32,10 +32,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Morning''}'
-      - '{''label'': ''Afternoon''}'
-      - '{''label'': ''Evening''}'
-      - '{''label'': ''Other''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Other
       required: false
     - id: 5
       name: volunteer_hours
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''First Aid Certification''}'
-      - '{''label'': ''CPR Certification''}'
-      - '{''label'': ''Other''}'
+      - First Aid Certification
+      - CPR Certification
+      - Other
       required: false
     - id: 8
       name: application_submission
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Submit''}'
-      - '{''label'': ''Decline''}'
+      - Submit
+      - Decline
       required: false
     - id: 9
       name: medical_conditions
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I agree''}'
-      - '{''label'': ''I decline''}'
+      - I agree
+      - I decline
       required: false
     - id: 15
       name: terms_and_conditions
@@ -120,6 +120,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''I agree''}'
-      - '{''label'': ''I decline''}'
+      - I agree
+      - I decline
       required: false

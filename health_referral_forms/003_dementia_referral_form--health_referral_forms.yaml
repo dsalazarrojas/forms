@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mild''}'
-      - '{''label'': ''Moderate''}'
-      - '{''label'': ''Severe''}'
+      - Mild
+      - Moderate
+      - Severe
       required: false
     - id: 4
       name: medical_history
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Normal''}'
-      - '{''label'': ''Unknown''}'
+      - High
+      - Normal
+      - Unknown
       required: false
     - id: 5
       name: medication_usage
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 6
       name: medical_conditions
@@ -53,10 +53,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Hypertension''}'
-      - '{''label'': ''Diabetes''}'
-      - '{''label'': ''Heart Disease''}'
-      - '{''label'': ''Other''}'
+      - Hypertension
+      - Diabetes
+      - Heart Disease
+      - Other
       required: false
     - id: 7
       name: cognitive_function
@@ -71,10 +71,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Alert''}'
-      - '{''label'': ''Confused''}'
-      - '{''label'': ''Hallucinating''}'
-      - '{''label'': ''Unknown''}'
+      - Alert
+      - Confused
+      - Hallucinating
+      - Unknown
       required: false
     - id: 9
       name: family_info
@@ -82,9 +82,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Caregiver''}'
-      - '{''label'': ''Family Member''}'
-      - '{''label'': ''Other''}'
+      - Caregiver
+      - Family Member
+      - Other
       required: false
     - id: 10
       name: doctor_notes
@@ -92,7 +92,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Referral''}'
-      - '{''label'': ''Evaluation''}'
-      - '{''label'': ''Other''}'
+      - Referral
+      - Evaluation
+      - Other
       required: false

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 3
       name: research_purposes
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''blood''}'
-      - '{''value'': ''saliva''}'
-      - '{''value'': ''other''}'
+      - blood
+      - saliva
+      - other
       required: false
     - id: 5
       name: consent
@@ -42,8 +42,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''agree''}'
-      - '{''value'': ''disagree''}'
+      - agree
+      - disagree
       required: false
     - id: 6
       name: data_sharing_terms
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
+      - email
+      - phone
       required: false
     - id: 8
       name: data_destruction
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''destroy''}'
-      - '{''value'': ''retain''}'
+      - destroy
+      - retain
       required: false
     - id: 9
       name: data_access
@@ -76,8 +76,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''access''}'
-      - '{''value'': ''restricted''}'
+      - access
+      - restricted
       required: false
     - id: 10
       name: contact_person

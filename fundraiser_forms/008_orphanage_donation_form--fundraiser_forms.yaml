@@ -4,190 +4,141 @@ inputSchema:
     title: Orphanage Donation Form
     pages:
     - id: 1
-      name: orphanage_donation_form
-      label: donation_amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 2
-      name: donor_info
-      label: donor_info
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''John Doe''}'
-      - '{''id'': 2, ''label'': ''Jane Doe''}'
-      required: true
-    - id: 3
-      name: donation_frequency
-      label: donation_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''One-time''}'
-      - '{''id'': 2, ''label'': ''Monthly''}'
-      - '{''id'': 3, ''label'': ''Quarterly''}'
-      required: true
-    - id: 4
-      name: donor_address
-      label: donor_address
-      hint: Please provide your home address
-      type: text
-      options: []
-      required: true
-    - id: 5
-      name: donor_email
-      label: donor_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 6
-      name: donor_phone
-      label: donor_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: donation_notes
-      label: donation_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
-      name: payment_method
-      label: payment_method
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Check''}'
-      required: true
-    - id: 9
       name: donor_name
-      label: donor_name
+      label: Donor Name
       hint: Please enter your name
       type: text
       options: []
       required: true
-    - id: 10
+    - id: 2
+      name: donor_email
+      label: Donor Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donor_amount
+      label: Donation Amount
+      hint: Enter the amount you wish to donate
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: donor_frequency
+      label: Donation Frequency
+      hint: Select your preferred frequency
+      type: select_multiple
+      options:
+      - One-time
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 5
+      name: donor_method
+      label: Donation Method
+      hint: Select your preferred donation method
+      type: select_one
+      options:
+      - Cash
+      - Check
+      required: true
+    - id: 6
+      name: donor_address
+      label: Donor Address
+      hint: Please provide your home address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payment_method
+      label: Payment Method
+      hint: Select your preferred payment method
+      type: select_one
+      options:
+      - Cash
+      - Check
+      required: true
+    - id: 8
       name: donor_message
-      label: donor_message
-      hint: null
+      label: Donor Message
+      hint: Share a message with us
       type: text
       options: []
       required: false
+    - id: 9
+      name: donor_other_frequency
+      label: Other Frequency
+      hint: Select your preferred frequency
+      type: select_multiple
+      options:
+      - Cash
+      - Check
+      required: false
+    - id: 10
+      name: donor_other_method
+      label: Other Method
+      hint: Select your preferred donation method
+      type: select_one
+      options:
+      - Cash
+      - Check
+      required: false
     - id: 11
-      name: donor_notes
-      label: donor_notes
-      hint: null
+      name: orphanage_name
+      label: Orphanage Name
+      hint: Enter the name of the orphanage
       type: text
       options: []
       required: false
     - id: 12
-      name: donor_other
-      label: other
-      hint: null
+      name: orphanage_address
+      label: Orphanage Address
+      hint: Please provide the address of the orphanage
       type: text
       options: []
       required: false
     - id: 13
-      name: donor_other_notes
-      label: other_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: donor_other_amount
-      label: other_amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: donor_other_frequency
-      label: other_frequency
-      hint: null
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Check''}'
-      required: false
-    - id: 16
-      name: donor_other_method
-      label: other_method
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Check''}'
-      required: false
-    - id: 17
-      name: orphanage_name
-      label: orphanage_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: orphanage_address
-      label: orphanage_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
       name: orphanage_email
-      label: orphanage_email
-      hint: null
+      label: Orphanage Email
+      hint: Enter the email address of the orphanage
       type: email
       options: []
       required: false
-    - id: 20
+    - id: 14
       name: orphanage_phone
-      label: orphanage_phone
-      hint: null
+      label: Orphanage Phone
+      hint: Enter the phone number of the orphanage
       type: text
       options: []
       required: false
-    - id: 21
+    - id: 15
       name: orphanage_notes
-      label: orphanage_notes
-      hint: null
+      label: Orphanage Notes
+      hint: Add any notes about the orphanage
       type: note
       options: []
       required: false
-    - id: 22
-      name: orphanage_other
-      label: other
-      hint: null
+    - id: 16
+      name: other_notes
+      label: Other Notes
+      hint: Add any additional notes
       type: text
       options: []
       required: false
-    - id: 23
-      name: orphanage_other_notes
-      label: other_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: orphanage_other_amount
-      label: other_amount
-      hint: null
+    - id: 17
+      name: other_amount
+      label: Other Amount
+      hint: Enter the amount of your donation
       type: number
       options: []
       required: false
-    - id: 25
-      name: orphanage_other_frequency
-      label: other_frequency
-      hint: null
+    - id: 18
+      name: other_frequency
+      label: Other Frequency (2)
+      hint: Select your preferred frequency
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Check''}'
+      - Cash
+      - Check
       required: false

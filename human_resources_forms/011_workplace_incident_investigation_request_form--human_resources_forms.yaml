@@ -86,10 +86,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''On Hold''}'
-      - '{''value'': ''Completed''}'
+      - Active
+      - Inactive
+      - On Hold
+      - Completed
       required: false
     - id: 13
       name: follow_up_action
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Review and Update''}'
-      - '{''value'': ''Close and Review''}'
-      - '{''value'': ''Close''}'
-      - '{''value'': ''Escalate''}'
-      - '{''value'': ''Follow Up''}'
+      - Review and Update
+      - Close and Review
+      - Close
+      - Escalate
+      - Follow Up
       required: false

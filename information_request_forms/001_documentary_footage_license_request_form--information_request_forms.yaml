@@ -5,188 +5,143 @@ inputSchema:
     pages:
     - id: 1
       name: usage_purpose
-      label: usage_purpose
+      label: What is your intended usage of the documentary footage?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - Non-commercial use
+      - Commercial use
+      - Personal project
+      - Research
+      - Other
+      required: true
     - id: 2
       name: distribution
-      label: distribution
+      label: Which distribution channel(s) do you plan to use for the documentary
+        footage?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - YouTube
+      - Vimeo
+      - TV broadcast
+      - Online streaming platform
+      - Other (please specify)
       required: true
     - id: 3
       name: license_duration
-      label: license_duration
+      label: How long do you plan to license the footage for?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - One-time use
+      - Ongoing use
+      - Unknown or open-ended
       required: true
     - id: 4
       name: production_company
-      label: production_company
+      label: Which production company produced the documentary?
       hint: null
       type: text
       options: []
       required: true
     - id: 5
       name: archive_name
-      label: archive_name
+      label: What is the name of the archive that owns the documentary footage?
       hint: null
       type: text
       options: []
       required: true
     - id: 6
       name: media_contact
-      label: media_contact
+      label: Who is your contact person for this request?
       hint: null
       type: text
       options: []
       required: true
     - id: 7
       name: contact_email
-      label: contact_email
+      label: What is your contact email address?
       hint: null
       type: email
       options: []
       required: true
     - id: 8
       name: contact_phone
-      label: contact_phone
+      label: What is your contact phone number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
       name: project_details
-      label: project_details
+      label: Can you provide a brief description of the project?
       hint: null
       type: note
       options: []
       required: false
     - id: 10
       name: license_accepted
-      label: license_accepted
+      label: Have you accepted the license terms?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: signature
-      label: signature
+      label: Please sign your name below
       hint: null
       type: text
       options: []
       required: true
     - id: 12
       name: date_signed
-      label: date_signed
+      label: What date did you sign this form?
       hint: null
       type: date
       options: []
       required: true
     - id: 13
       name: user_name
-      label: user_name
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: true
     - id: 14
       name: job_title
-      label: job_title
+      label: What is your job title?
       hint: null
       type: text
       options: []
       required: true
     - id: 15
       name: department
-      label: department
+      label: Which department do you belong to?
       hint: null
       type: text
       options: []
       required: true
     - id: 16
       name: company
-      label: company
+      label: Which company do you represent?
       hint: null
       type: text
       options: []
       required: true
     - id: 17
       name: address
-      label: address
+      label: What is your work address?
       hint: null
       type: text
       options: []
       required: true
     - id: 18
-      name: city
-      label: city
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: postal_code
-      label: postal_code
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
       name: phone
-      label: phone
+      label: What is your work phone number?
       hint: null
       type: text
       options: []
       required: true
-    - id: 21
-      name: fax
-      label: fax
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: job_title_2
-      label: job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: department_2
-      label: department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: company_2
-      label: company
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: address_2
-      label: address
-      hint: null
-      type: text
-      options: []
-      required: false

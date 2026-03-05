@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Microsoft''}'
-      - '{''id'': 2, ''label'': ''Google''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Microsoft
+      - Google
+      - Other
       required: true
     - id: 3
       name: satisfaction_level
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very Satisfied''}'
-      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
-      - '{''id'': 3, ''label'': ''Somewhat Dissatisfied''}'
-      - '{''id'': 4, ''label'': ''Very Dissatisfied''}'
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
       required: true
     - id: 4
       name: improvement_priorities
@@ -128,9 +128,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engineering''}'
-      - '{''id'': 2, ''label'': ''Marketing''}'
-      - '{''id'': 3, ''label'': ''HR''}'
+      - Engineering
+      - Marketing
+      - HR
       required: true
     - id: 18
       name: reporting_manager_name
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Engineering''}'
-      - '{''id'': 2, ''label'': ''Marketing''}'
-      - '{''id'': 3, ''label'': ''HR''}'
+      - Engineering
+      - Marketing
+      - HR
       required: false
     - id: 21
       name: job_title
@@ -176,9 +176,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Team Lead''}'
-      - '{''id'': 3, ''label'': ''Individual''}'
+      - Manager
+      - Team Lead
+      - Individual
       required: false
     - id: 24
       name: team_size

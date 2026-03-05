@@ -63,8 +63,8 @@ inputSchema:
       hint: Essential worker status
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: essential_worker
@@ -72,8 +72,8 @@ inputSchema:
       hint: Essential industry employee
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 10
       name: underlying_conditions
@@ -114,8 +114,8 @@ inputSchema:
       hint: Current symptoms
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 13
       name: symptom_list
@@ -152,8 +152,8 @@ inputSchema:
       hint: Recent test history
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - I have not been tested
       required: true
     - id: 16
@@ -163,8 +163,8 @@ inputSchema:
       hint: Recent exposure
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       required: true
     - id: 17
@@ -225,8 +225,8 @@ inputSchema:
       hint: Childcare needs
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: false
     - id: 23
       name: language_preference

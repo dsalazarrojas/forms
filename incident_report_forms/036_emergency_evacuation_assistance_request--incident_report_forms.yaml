@@ -16,10 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Evacuation'', ''value'': ''Evacuation''}'
-      - '{''id'': 2, ''label'': ''Evacuation due to weather'', ''value'': ''Evacuation
-        due to weather''}'
-      - '{''id'': 3, ''label'': ''Emergency assistance'', ''value'': ''Emergency assistance''}'
+      - Evacuation
+      - Evacuation due to weather
+      - Emergency assistance
       required: false
     - id: 3
       name: incident_location
@@ -62,11 +61,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Transportation'', ''value'': ''Transportation''}'
-      - '{''id'': 2, ''label'': ''Shelter'', ''value'': ''Shelter''}'
-      - '{''id'': 3, ''label'': ''Food'', ''value'': ''Food''}'
-      - '{''id'': 4, ''label'': ''Clothing'', ''value'': ''Clothing''}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': ''Other''}'
+      - Transportation
+      - Shelter
+      - Food
+      - Clothing
+      - Other
       required: false
     - id: 9
       name: incident_assistance_notes

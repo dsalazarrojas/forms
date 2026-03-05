@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Focusing on breath''}'
-      - '{''label'': ''Not focusing on breath''}'
-      - '{''label'': ''Mindful movement''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Focusing on breath
+      - Not focusing on breath
+      - Mindful movement
+      - Other (please specify)
       required: true
     - id: 4
       name: meditation_date
@@ -62,11 +62,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mindfulness meditation''}'
-      - '{''label'': ''Loving-Kindness meditation''}'
-      - '{''label'': ''Movement meditation''}'
-      - '{''label'': ''Guided meditation''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Mindfulness meditation
+      - Loving-Kindness meditation
+      - Movement meditation
+      - Guided meditation
+      - Other (please specify)
       required: true
     - id: 9
       name: session_goal
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Reduce stress''}'
-      - '{''label'': ''Increase focus''}'
-      - '{''label'': ''Improve mood''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Reduce stress
+      - Increase focus
+      - Improve mood
+      - Other (please specify)
       required: false
     - id: 10
       name: session_frequency
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Daily''}'
-      - '{''label'': ''Weekly''}'
-      - '{''label'': ''Monthly''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Other (please specify)
       required: false
     - id: 11
       name: consistency
@@ -96,10 +96,10 @@ inputSchema:
       hint: How consistent are you with this meditation practice?
       type: select_one
       options:
-      - '{''label'': ''Very consistent''}'
-      - '{''label'': ''Moderately consistent''}'
-      - '{''label'': ''Somewhat inconsistent''}'
-      - '{''label'': ''Not at all consistent''}'
+      - Very consistent
+      - Moderately consistent
+      - Somewhat inconsistent
+      - Not at all consistent
       required: true
     - id: 12
       name: progress
@@ -107,9 +107,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Made progress''}'
-      - '{''label'': "Didn''t make progress"}'
-      - '{''label'': ''Neutral''}'
+      - Made progress
+      - Didn't make progress
+      - Neutral
       required: true
     - id: 13
       name: obstacles
@@ -117,9 +117,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Lack of time''}'
-      - '{''label'': ''Distractions''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Lack of time
+      - Distractions
+      - Other (please specify)
       required: false
     - id: 14
       name: benefits
@@ -127,11 +127,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Reduced stress''}'
-      - '{''label'': ''Improved focus''}'
-      - '{''label'': ''Improved mood''}'
-      - '{''label'': ''Improved sleep''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Reduced stress
+      - Improved focus
+      - Improved mood
+      - Improved sleep
+      - Other (please specify)
       required: false
     - id: 15
       name: comments
@@ -167,10 +167,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Myself''}'
-      - '{''label'': ''A coach or therapist''}'
-      - '{''label'': ''Someone I know''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Myself
+      - A coach or therapist
+      - Someone I know
+      - Other (please specify)
       required: false
     - id: 20
       name: assigned_by
@@ -178,10 +178,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Myself''}'
-      - '{''label'': ''A coach or therapist''}'
-      - '{''label'': ''Someone I know''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Myself
+      - A coach or therapist
+      - Someone I know
+      - Other (please specify)
       required: false
     - id: 21
       name: comments

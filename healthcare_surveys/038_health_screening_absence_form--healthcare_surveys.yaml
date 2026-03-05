@@ -37,7 +37,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''label'': ''Chat'', ''value'': ''chatjimmy''}'
+      - Chat
       - Other
       required: true
     - id: 6
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''label'': False, ''value'': False}'
-      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - 'False'
+      - 'True'
       required: true
     - id: 8
       name: medical_certificate_date

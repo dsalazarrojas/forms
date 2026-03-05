@@ -1,225 +1,214 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Health Behavior Change Survey
     pages:
-      - id: 1
-        name: participant_name
-        label: Name (Optional)
-        hint: Your name if you wish to share
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: email_address
-        label: Email Address
-        hint: For program communications
-        type: email
-        options: []
-        required: false
-      - id: 3
-        name: age_group
-        label: Age Group
-        hint: Your age range
-        type: select_one
-        options:
-          - 18-24
-          - 25-34
-          - 35-44
-          - 45-54
-          - 55-64
-          - 65 or Older
-        required: true
-      - id: 4
-        name: program_participation
-        label: Program Participation
-        hint: Which program did you complete?
-        type: select_one
-        options:
-          - Weight Loss Program
-          - Smoking Cessation
-          - Nutrition Education
-          - Exercise Program
-          - Stress Management
-          - Diabetes Prevention
-          - Multiple Programs
-        required: true
-      - id: 5
-        name: program_completion
-        label: Did You Complete the Program
-        hint: Completion status
-        type: select_one
-        options:
-          - Yes, Completed
-          - Partially Completed
-          - Did Not Complete
-        required: true
-      - id: 6
-        name: behavior_changes_made
-        label: Behavior Changes Made
-        hint: What changes did you make?
-        type: select_multiple
-        options:
-          - Improved Diet
-          - Increased Exercise
-          - Quit Smoking
-          - Reduced Alcohol
-          - Better Sleep Habits
-          - Stress Reduction
-          - Medication Adherence
-          - None
-        required: true
-      - id: 7
-        name: diet_changes
-        label: Dietary Changes
-        hint: Describe diet improvements
-        type: text
-        options: []
-        required: false
-      - id: 8
-        name: exercise_changes
-        label: Exercise Changes
-        hint: Describe activity improvements
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: confidence_level
-        label: Confidence in Maintaining Changes
-        hint: How confident are you?
-        type: select_one
-        options:
-          - Very Confident
-          - Confident
-          - Somewhat Confident
-          - Not Very Confident
-          - Not Confident
-        required: true
-      - id: 10
-        name: motivation_level
-        label: Motivation Level
-        hint: How motivated are you?
-        type: select_one
-        options:
-          - Very Motivated
-          - Motivated
-          - Somewhat Motivated
-          - Not Very Motivated
-          - Not Motivated
-        required: true
-      - id: 11
-        name: support_system
-        label: Support System
-        hint: Do you have support for changes?
-        type: select_one
-        options:
-          - Strong Support
-          - Some Support
-          - Little Support
-          - No Support
-        required: true
-      - id: 12
-        name: barriers_faced
-        label: Barriers to Change
-        hint: What obstacles did you face?
-        type: select_multiple
-        options:
-          - Lack of Time
-          - Cost
-          - Lack of Support
-          - Health Issues
-          - Stress
-          - Lack of Knowledge
-          - Environmental Factors
-          - None
-        required: true
-      - id: 13
-        name: program_helpfulness
-        label: Program Helpfulness
-        hint: How helpful was the program?
-        type: select_one
-        options:
-          - Very Helpful
-          - Helpful
-          - Somewhat Helpful
-          - Not Very Helpful
-          - Not Helpful
-        required: true
-      - id: 14
-        name: health_improvements
-        label: Health Improvements Noticed
-        hint: What improvements have you seen?
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: weight_change
-        label: Weight Change
-        hint: Approximate change in pounds
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: energy_level
-        label: Energy Level Change
-        hint: How has your energy changed?
-        type: select_one
-        options:
-          - Much Better
-          - Better
-          - No Change
-          - Worse
-          - Much Worse
-        required: true
-      - id: 17
-        name: mood_improvement
-        label: Mood Improvement
-        hint: How has your mood changed?
-        type: select_one
-        options:
-          - Much Better
-          - Better
-          - No Change
-          - Worse
-          - Much Worse
-        required: true
-      - id: 18
-        name: would_recommend
-        label: Would You Recommend Program
-        hint: Likelihood to recommend
-        type: select_one
-        options:
-          - Very Likely
-          - Likely
-          - Neutral
-          - Unlikely
-          - Very Unlikely
-        required: true
-      - id: 19
-        name: additional_services
-        label: Additional Services Needed
-        hint: What else would help you?
-        type: text
-        options: []
-        required: false
-      - id: 20
-        name: continued_participation
-        label: Interested in Continued Programs
-        hint: Would you join another program?
-        type: select_one
-        options:
-          - Yes, Definitely
-          - Maybe
-          - No
-        required: true
+    - id: 1
+      name: participant_name
+      label: Name (Optional)
+      hint: Your name if you wish to share
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For program communications
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: Your age range
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or Older
+      required: true
+    - id: 4
+      name: program_participation
+      label: Program Participation
+      hint: Which program did you complete?
+      type: select_one
+      options:
+      - Weight Loss Program
+      - Smoking Cessation
+      - Nutrition Education
+      - Exercise Program
+      - Stress Management
+      - Diabetes Prevention
+      - Multiple Programs
+      required: true
+    - id: 5
+      name: program_completion
+      label: Did You Complete the Program
+      hint: Completion status
+      type: select_one
+      options:
+      - Yes, Completed
+      - Partially Completed
+      - Did Not Complete
+      required: true
+    - id: 6
+      name: behavior_changes_made
+      label: Behavior Changes Made
+      hint: What changes did you make?
+      type: select_multiple
+      options:
+      - Improved Diet
+      - Increased Exercise
+      - Quit Smoking
+      - Reduced Alcohol
+      - Better Sleep Habits
+      - Stress Reduction
+      - Medication Adherence
+      - None
+      required: true
+    - id: 7
+      name: diet_changes
+      label: Dietary Changes
+      hint: Describe diet improvements
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: exercise_changes
+      label: Exercise Changes
+      hint: Describe activity improvements
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: confidence_level
+      label: Confidence in Maintaining Changes
+      hint: How confident are you?
+      type: select_one
+      options:
+      - Very Confident
+      - Confident
+      - Somewhat Confident
+      - Not Very Confident
+      - Not Confident
+      required: true
+    - id: 10
+      name: motivation_level
+      label: Motivation Level
+      hint: How motivated are you?
+      type: select_one
+      options:
+      - Very Motivated
+      - Motivated
+      - Somewhat Motivated
+      - Not Very Motivated
+      - Not Motivated
+      required: true
+    - id: 11
+      name: support_system
+      label: Support System
+      hint: Do you have support for changes?
+      type: select_one
+      options:
+      - Strong Support
+      - Some Support
+      - Little Support
+      - No Support
+      required: true
+    - id: 12
+      name: barriers_faced
+      label: Barriers to Change
+      hint: What obstacles did you face?
+      type: select_multiple
+      options:
+      - Lack of Time
+      - Cost
+      - Lack of Support
+      - Health Issues
+      - Stress
+      - Lack of Knowledge
+      - Environmental Factors
+      - None
+      required: true
+    - id: 13
+      name: program_helpfulness
+      label: Program Helpfulness
+      hint: How helpful was the program?
+      type: select_one
+      options:
+      - Very Helpful
+      - Helpful
+      - Somewhat Helpful
+      - Not Very Helpful
+      - Not Helpful
+      required: true
+    - id: 14
+      name: health_improvements
+      label: Health Improvements Noticed
+      hint: What improvements have you seen?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: weight_change
+      label: Weight Change
+      hint: Approximate change in pounds
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: energy_level
+      label: Energy Level Change
+      hint: How has your energy changed?
+      type: select_one
+      options:
+      - Much Better
+      - Better
+      - No Change
+      - Worse
+      - Much Worse
+      required: true
+    - id: 17
+      name: mood_improvement
+      label: Mood Improvement
+      hint: How has your mood changed?
+      type: select_one
+      options:
+      - Much Better
+      - Better
+      - No Change
+      - Worse
+      - Much Worse
+      required: true
+    - id: 18
+      name: would_recommend
+      label: Would You Recommend Program
+      hint: Likelihood to recommend
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 19
+      name: additional_services
+      label: Additional Services Needed
+      hint: What else would help you?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: continued_participation
+      label: Interested in Continued Programs
+      hint: Would you join another program?
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Maybe
+      - 'False'
+      required: true

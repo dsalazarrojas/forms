@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal Skin''}'
-      - '{''id'': 2, ''label'': ''Sensitive Skin''}'
-      - '{''id'': 3, ''label'': ''Rosacea Skin''}'
+      - Normal Skin
+      - Sensitive Skin
+      - Rosacea Skin
       required: true
     - id: 3
       name: health_details
@@ -33,10 +33,10 @@ inputSchema:
       hint: How often would you like to have skin treatments?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Once a month''}'
-      - '{''id'': 2, ''label'': ''Twice a month''}'
-      - '{''id'': 3, ''label'': ''Weekly''}'
-      - '{''id'': 4, ''label'': ''Daily''}'
+      - Once a month
+      - Twice a month
+      - Weekly
+      - Daily
       required: true
     - id: 5
       name: treatment_consent
@@ -100,8 +100,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Initial Consultation''}'
-      - '{''id'': 2, ''label'': ''Initial and Future Treatments''}'
+      - Initial Consultation
+      - Initial and Future Treatments
       required: true
     - id: 14
       name: consent_note

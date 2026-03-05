@@ -5,176 +5,210 @@ inputSchema:
     pages:
     - id: 1
       name: guest_info_form
-      label: Guest Information Form
+      label: Guest Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: preferences_form
+      name: room_services_form
       label: Room And Services
-      hint: null
-      type: text
-      options: []
-      required: false
+      hint: Select the type of room and services you require.
+      type: select_one
+      options:
+      - Double Room
+      - Single Room
+      - Suite
+      required: true
     - id: 3
       name: payment_info_form
       label: Payment Information
-      hint: null
+      hint: Select the payment method and provide details.
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 4
+      name: payment_details_form
+      label: Payment Details
+      hint: Enter the payment details below.
       type: text
       options: []
-      required: false
-    - id: 4
-      name: confirm_form
+      required: true
+    - id: 5
+      name: confirm_booking_form
       label: Confirm Booking
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: contact_form
-      label: Contact Us
-      hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 6
-      name: additional_info_form
-      label: Additional Information
-      hint: null
+      name: contact_us_form
+      label: Contact Us
+      hint: We'd love to know about any special requests or questions you have.
       type: text
       options: []
       required: false
     - id: 7
-      name: confirm_phone
-      label: Confirm Phone Number
-      hint: null
+      name: phone_number_form
+      label: Phone Number
+      hint: Please enter your phone number.
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: confirm_email
-      label: Confirm Email
-      hint: null
+      name: email_form
+      label: Email
+      hint: Please enter your email address.
       type: email
       options: []
-      required: false
+      required: true
     - id: 9
-      name: confirm_date
+      name: date_form
       label: Date
-      hint: null
+      hint: Please select the date of your stay.
       type: date
       options: []
-      required: false
+      required: true
     - id: 10
-      name: confirm_time
+      name: time_form
       label: Time
-      hint: null
+      hint: Please select the time of your stay.
       type: time
       options: []
-      required: false
+      required: true
     - id: 11
-      name: confirm_note
+      name: note_form
       label: Note
-      hint: null
+      hint: Any special requests or notes?
       type: note
       options: []
       required: false
     - id: 12
-      name: confirm_phone
-      label: Phone Number
-      hint: null
+      name: confirm_phone_form
+      label: Confirm Phone Number
+      hint: Confirm the phone number.
       type: text
       options: []
-      required: false
+      required: true
     - id: 13
-      name: confirm_email
-      label: Email
-      hint: null
+      name: confirm_email_form
+      label: Confirm Email
+      hint: Confirm the email address.
       type: email
       options: []
-      required: false
+      required: true
     - id: 14
-      name: confirm_date
-      label: Date
-      hint: null
+      name: confirm_date_form
+      label: Confirm Date
+      hint: Confirm the date.
       type: date
       options: []
-      required: false
+      required: true
     - id: 15
-      name: confirm_time
-      label: Time
-      hint: null
+      name: confirm_time_form
+      label: Confirm Time
+      hint: Confirm the time.
       type: time
       options: []
-      required: false
+      required: true
     - id: 16
-      name: confirm_note
-      label: Note
-      hint: null
+      name: confirm_note_form
+      label: Confirm Note
+      hint: Confirm any special requests or notes.
       type: note
       options: []
       required: false
     - id: 17
-      name: confirm_phone
-      label: Phone Number
-      hint: null
+      name: room_type_form
+      label: Room Type
+      hint: Select the room type you require.
+      type: select_multiple
+      options:
+      - Double Room
+      - Single Room
+      - Suite
+      required: true
+    - id: 18
+      name: bed_type_form
+      label: Bed Type
+      hint: Select the bed type you require.
+      type: select_multiple
+      options:
+      - Single Bed
+      - Double Bed
+      - King Bed
+      required: true
+    - id: 19
+      name: meal_plan_form
+      label: Meal Plan
+      hint: Select the meal plan you require.
+      type: select_one
+      options:
+      - Full Board
+      - Half Board
+      - No Meals
+      required: true
+    - id: 20
+      name: payment_method_form
+      label: Payment Method
+      hint: Select the payment method.
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
+      required: true
+    - id: 21
+      name: card_number_form
+      label: Card Number
+      hint: Enter the card number.
       type: text
       options: []
-      required: false
-    - id: 18
-      name: confirm_email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: confirm_date
-      label: Date
-      hint: null
+      required: true
+    - id: 22
+      name: expiration_date_form
+      label: Expiration Date
+      hint: Enter the expiration date.
       type: date
       options: []
-      required: false
-    - id: 20
-      name: confirm_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: confirm_note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: confirm_phone
-      label: Phone Number
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 23
-      name: confirm_email
-      label: Email
-      hint: null
-      type: email
+      name: special_requests_form
+      label: Special Requests
+      hint: Any special requests or notes?
+      type: text
       options: []
       required: false
     - id: 24
-      name: confirm_date
-      label: Date
-      hint: null
+      name: confirm_payment_method_form
+      label: Confirm Payment Method
+      hint: Confirm the payment method.
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: confirm_card_number_form
+      label: Confirm Card Number
+      hint: Confirm the card number.
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: confirm_expiration_date_form
+      label: Confirm Expiration Date
+      hint: Confirm the expiration date.
       type: date
       options: []
-      required: false
-    - id: 25
-      name: confirm_time
-      label: Time
-      hint: null
-      type: time
+      required: true
+    - id: 27
+      name: confirm_special_requests_form
+      label: Confirm Special Requests
+      hint: Confirm any special requests or notes.
+      type: text
       options: []
       required: false

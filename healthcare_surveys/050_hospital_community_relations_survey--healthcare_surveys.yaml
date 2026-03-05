@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,12 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Service 1''}'
-      - '{''label'': ''Service 2''}'
-      - '{''label'': ''Service 3''}'
-      - '{''label'': ''Service 4''}'
-      - '{''label'': ''Service 5''}'
-      - '{''label'': ''Other (please specify)''}'
+      - Service 1
+      - Service 2
+      - Service 3
+      - Service 4
+      - Service 5
+      - Other (please specify)
       required: true
     - id: 4
       name: service_used_other
@@ -54,12 +43,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Newsletter''}'
-      - '{''label'': ''Social Media''}'
-      - '{''label'': ''Phone''}'
-      - '{''label'': ''Email''}'
-      - '{''label'': ''Text Message''}'
-      - '{''label'': ''In Person''}'
+      - Newsletter
+      - Social Media
+      - Phone
+      - Email
+      - Text Message
+      - In Person
       required: false
     - id: 6
       name: satisfaction_with_communication
@@ -67,11 +56,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Strongly Agree''}'
-      - '{''label'': ''Somewhat Agree''}'
-      - '{''label'': ''Neither Agree nor Disagree''}'
-      - '{''label'': ''Somewhat Disagree''}'
-      - '{''label'': ''Strongly Disagree''}'
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
       required: true
     - id: 7
       name: submission

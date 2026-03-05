@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''North America''}'
-      - '{''id'': ''2'', ''label'': ''South America''}'
-      - '{''id'': 3, ''label'': ''Europe''}'
+      - North America
+      - South America
+      - Europe
       required: false
     - id: 3
       name: incident_date
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Network''}'
-      - '{''id'': ''2'', ''label'': ''Server''}'
-      - '{''id'': 3, ''label'': ''System''}'
+      - Network
+      - Server
+      - System
       required: false
     - id: 6
       name: incident_description
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Open''}'
-      - '{''id'': ''2'', ''label'': ''Closed''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - Open
+      - Closed
+      - In Progress
       required: false
     - id: 8
       name: incident_resolution_time
@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''label'': ''John''}'
-      - '{''id'': ''2'', ''label'': ''Jane''}'
-      - '{''id'': 3, ''label'': ''Bob''}'
+      - John
+      - Jane
+      - Bob
       required: false
     - id: 10
       name: incident_notes
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Success''}'
-      - '{''id'': ''2'', ''label'': ''Failure''}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - Success
+      - Failure
+      - Unknown
       required: false
     - id: 12
       name: incident_uploads
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''1'', ''label'': ''Report 1''}'
-      - '{''id'': ''2'', ''label'': ''Report 2''}'
-      - '{''id'': 3, ''label'': ''Report 3''}'
+      - Report 1
+      - Report 2
+      - Report 3
       required: false
     - id: 14
       name: incident_uploads
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''Category 1''}'
-      - '{''id'': ''2'', ''label'': ''Category 2''}'
-      - '{''id'': 3, ''label'': ''Category 3''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: false
     - id: 23
       name: assigned_to
@@ -184,9 +184,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''1'', ''label'': ''chatjimmy''}'
-      - '{''id'': ''2'', ''label'': ''chatjimmy1''}'
-      - '{''id'': 3, ''label'': ''chatjimmy2''}'
+      - chatjimmy
+      - chatjimmy1
+      - chatjimmy2
       required: false
     - id: 24
       name: assigned_to

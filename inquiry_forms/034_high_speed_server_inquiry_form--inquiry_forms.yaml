@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''dedicated'', ''label'': ''Dedicated''}'
-      - '{''value'': ''virtual'', ''label'': ''Virtual''}'
-      - '{''value'': ''managed'', ''label'': ''Managed''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Dedicated
+      - Virtual
+      - Managed
+      - Other
       required: false
     - id: 3
       name: server_type_other
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''annually'', ''label'': ''Annually''}'
-      - '{''value'': ''one_time'', ''label'': ''One-time''}'
+      - Monthly
+      - Annually
+      - One-time
       required: false
     - id: 7
       name: budget_frequency_other
@@ -163,10 +163,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''not_started'', ''label'': ''Not Started''}'
-      - '{''value'': ''in_progress'', ''label'': ''In Progress''}'
-      - '{''value'': ''completed'', ''label'': ''Completed''}'
-      - '{''value'': ''declined'', ''label'': ''Declined''}'
+      - Not Started
+      - In Progress
+      - Completed
+      - Declined
       required: false
     - id: 23
       name: lead_status_other

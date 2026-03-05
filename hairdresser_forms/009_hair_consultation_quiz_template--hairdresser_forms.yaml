@@ -15,176 +15,167 @@ inputSchema:
     title: Hair Consultation Quiz Template
     pages:
     - id: 1
-      name: first_page
-      label: client_details
+      name: page_1
+      label: Client Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: second_page
-      label: hair_goals
+      name: page_2
+      label: Hair Goals
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Short
+      - Medium
+      - Long
       required: false
     - id: 3
-      name: third_page
-      label: stylist_details
+      name: page_3
+      label: Services Required
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Cut
+      - Color
+      - Treatment
       required: false
     - id: 4
-      name: fourth_page
-      label: additional_questions
+      name: page_4
+      label: Hair Concerns
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Dandruff
+      - Itching
+      - Baldness
       required: false
     - id: 5
-      name: fifth_page
-      label: quiz_summary
+      name: page_5
+      label: Appointment Time
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 6
-      name: sixth_page
-      label: stylist_recommendations
+      name: page_6
+      label: Preferred Appointment Time
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 7
-      name: seventh_page
-      label: client_preferences
+      name: page_7
+      label: Medical Conditions
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: eighth_page
-      label: stylist_questions
+      name: page_8
+      label: Allergies
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: ninth_page
-      label: stylist_notes
+      name: page_9
+      label: Medications
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: tenth_page
-      label: additional_questions
+      name: page_10
+      label: Previous Medical Conditions
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: eleventh_page
-      label: stylist_recommendations
+      name: page_11
+      label: Contact Method
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
       required: false
     - id: 12
-      name: twelfth_page
-      label: quiz_summary
+      name: page_12
+      label: Additional Comments or Questions
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: thirteenth_page
-      label: client_notes
+      name: page_13
+      label: Additional Questions
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: fourteenth_page
-      label: stylist_notes
+      name: page_14
+      label: Stylist Feedback
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: fifteenth_page
-      label: stylist_feedback
+      name: page_15
+      label: Page 15
       hint: null
       type: text
       options: []
       required: false
     - id: 16
-      name: sixteenth_page
-      label: quiz_summary
+      name: page_16
+      label: Stylist Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: seventeenth_page
-      label: additional_questions
+      name: page_17
+      label: Client Feedback
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: eighteenth_page
-      label: stylist_recommendations
+      name: page_18
+      label: Page 18
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: nineteenth_page
-      label: client_feedback
+      name: page_19
+      label: Quiz Summary
       hint: null
       type: text
       options: []
       required: false
     - id: 20
-      name: twentieth_page
-      label: quiz_summary
+      name: page_20
+      label: Page 20
       hint: null
       type: text
       options: []
       required: false
     - id: 21
-      name: twenty_first_page
-      label: stylist_notes
+      name: page_21
+      label: Stylist Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: twenty_second_page
-      label: client_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: twenty_third_page
-      label: quiz_summary
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: twenty_fourth_page
-      label: stylist_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: twenty_fifth_page
-      label: stylist_feedback
+      name: page_22
+      label: Client Comments
       hint: null
       type: text
       options: []

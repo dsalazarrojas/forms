@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Neutral''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
-      - '{''id'': 4, ''label'': "Don''t Know"}'
+      - Excellent
+      - Neutral
+      - Poor
+      - Don't Know
       required: false
     - id: 4
       name: communication
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Needs Improvement''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
+      - Excellent
+      - Needs Improvement
+      - Poor
       required: false
     - id: 5
       name: benefits
@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Needs Improvement''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
+      - Excellent
+      - Needs Improvement
+      - Poor
       required: false
     - id: 8
       name: job_security
@@ -68,10 +68,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Excellent''}'
-      - '{''id'': 2, ''label'': ''Needs Improvement''}'
-      - '{''id'': 3, ''label'': ''Poor''}'
-      - '{''id'': 4, ''label'': ''Very Poor''}'
+      - Excellent
+      - Needs Improvement
+      - Poor
+      - Very Poor
       required: false
     - id: 9
       name: feedback

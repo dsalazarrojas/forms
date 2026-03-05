@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''available''}'
-      - '{''value'': ''unavailable''}'
-      - '{''value'': ''on_leave''}'
+      - available
+      - unavailable
+      - on leave
       required: true
     - id: 4
       name: health_status
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''healthy''}'
-      - '{''value'': ''sick''}'
-      - '{''value'': ''absent''}'
+      - healthy
+      - sick
+      - absent
       required: true
     - id: 5
       name: medical_condition
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''none''}'
-      - '{''value'': ''injury''}'
-      - '{''value'': ''illness''}'
+      - none
+      - injury
+      - illness
       required: false
     - id: 6
       name: work_ergonomic
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''normal''}'
-      - '{''value'': ''uncomfortable''}'
-      - '{''value'': ''difficult''}'
+      - normal
+      - uncomfortable
+      - difficult
       required: false
     - id: 7
       name: employee_pre_return_protocol
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''protocol_1''}'
-      - '{''value'': ''protocol_2''}'
+      - protocol 1
+      - protocol 2
       required: false
     - id: 8
       name: health_insurance
@@ -72,8 +72,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 9
       name: supervisor_name
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: return_date_protocol
@@ -146,8 +146,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: employee_pre_return_date
@@ -190,8 +190,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 25
       name: employee_signature

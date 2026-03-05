@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Classroom''}'
-      - '{''label'': ''Online''}'
-      - '{''label'': ''In-person''}'
-      - '{''label'': ''Other''}'
+      - Classroom
+      - Online
+      - In-person
+      - Other
       required: false
     - id: 7
       name: training_hours
@@ -62,10 +62,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''On leave''}'
-      - '{''label'': ''Terminated''}'
-      - '{''label'': ''Retired''}'
+      - Active
+      - On leave
+      - Terminated
+      - Retired
       required: false
     - id: 9
       name: department
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Approve''}'
-      - '{''label'': ''Reject''}'
-      - '{''label'': ''Not approve''}'
+      - Approve
+      - Reject
+      - Not approve
       required: false
     - id: 14
       name: approval_date
@@ -132,10 +132,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''New''}'
-      - '{''label'': ''Pending''}'
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Rejected''}'
+      - New
+      - Pending
+      - Approved
+      - Rejected
       required: false
     - id: 18
       name: submitter
@@ -157,9 +157,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''HR''}'
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Other''}'
+      - HR
+      - Manager
+      - Other
       required: false
     - id: 21
       name: submitter_email
@@ -195,7 +195,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Approve''}'
-      - '{''label'': ''Reject''}'
-      - '{''label'': ''Not approve''}'
+      - Approve
+      - Reject
+      - Not approve
       required: false

@@ -20,7 +20,7 @@ inputSchema:
     - id: 3
       name: email
       label: Email
-      hint: Enter the guest's email address
+      hint: null
       type: email
       options: []
       required: false
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''John''}'
-      - '{''label'': ''Jane''}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: last_name_confirmation
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: email_confirmation
@@ -106,83 +106,51 @@ inputSchema:
       options: []
       required: false
     - id: 15
-      name: first_name_confirmation_2
-      label: First Name
+      name: first_name_2
+      label: First Name 2
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 16
-      name: last_name_confirmation_2
-      label: Last Name
+      name: last_name_2
+      label: Last Name 2
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 17
-      name: email_confirmation_2
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 18
-      name: phone_confirmation_2
-      label: Phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 19
-      name: date_of_attendance_confirmation_2
-      label: Date of Attendance
+      name: date_of_attendance_2
+      label: Date Of Attendance 2
       hint: null
       type: date
       options: []
       required: false
     - id: 20
-      name: time_of_attendance_confirmation_2
-      label: Time of Attendance
+      name: time_of_attendance_2
+      label: Time Of Attendance 2
       hint: null
       type: time
       options: []
       required: false
     - id: 21
-      name: note_confirmation_2
-      label: Note
+      name: note_2
+      label: Note 2
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 22
-      name: first_name_2
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: last_name_2
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: email_2
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: phone_2
-      label: Phone
-      hint: null
-      type: text
       options: []
       required: false

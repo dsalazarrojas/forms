@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''Excellent'', ''label'': ''Excellent''}'
-      - '{''id'': 1, ''name'': ''Good'', ''label'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair'', ''label'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Poor'', ''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 9
       name: overall_experience
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''name'': True, ''label'': True}'
-      - '{''id'': 1, ''name'': False, ''label'': False}'
-      - '{''id'': 2, ''name'': ''Undecided'', ''label'': ''Undecided''}'
+      - 'True'
+      - 'False'
+      - Undecided
       required: true
     - id: 11
       name: email
@@ -107,13 +107,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 0, ''name'': ''Less than once a month'', ''label'': ''Less than
-        once a month''}'
-      - '{''id'': 1, ''name'': ''Once a month'', ''label'': ''Once a month''}'
-      - '{''id'': 2, ''name'': ''Multiple times a month'', ''label'': ''Multiple times
-        a month''}'
-      - '{''id'': 3, ''name'': ''More than once a week'', ''label'': ''More than once
-        a week''}'
+      - Less than once a month
+      - Once a month
+      - Multiple times a month
+      - More than once a week
       required: false
     - id: 15
       name: assigned_to
@@ -121,9 +118,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 0, ''name'': ''Primary Care Physician'', ''label'': ''Primary Care
-        Physician''}'
-      - '{''id'': 1, ''name'': ''Specialist'', ''label'': ''Specialist''}'
-      - '{''id'': 2, ''name'': ''Other'', ''label'': ''Other''}'
-      - '{''id'': 3, ''name'': ''Multiple'', ''label'': ''Multiple''}'
+      - Primary Care Physician
+      - Specialist
+      - Other
+      - Multiple
       required: false

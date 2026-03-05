@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sedentary''}'
-      - '{''id'': 2, ''label'': ''Light''}'
-      - '{''id'': 3, ''label'': ''Moderate''}'
-      - '{''id'': 4, ''label'': ''High''}'
-      - '{''id'': 5, ''label'': ''Very High''}'
+      - Sedentary
+      - Light
+      - Moderate
+      - High
+      - Very High
       required: false
     - id: 3
       name: medical_history
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Good''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Bad''}'
-      - '{''id'': 4, ''label'': ''Very Bad''}'
+      - Good
+      - Fair
+      - Bad
+      - Very Bad
       required: false
     - id: 5
       name: sleep_quality
@@ -53,11 +53,11 @@ inputSchema:
       hint: How often do you exercise?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Rarely''}'
-      - '{''id'': 3, ''label'': ''Occasionally''}'
-      - '{''id'': 4, ''label'': ''Often''}'
-      - '{''id'': 5, ''label'': ''Very Often''}'
+      - Never
+      - Rarely
+      - Occasionally
+      - Often
+      - Very Often
       required: false
     - id: 7
       name: nutrition_info
@@ -65,10 +65,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Poor''}'
-      - '{''id'': 2, ''label'': ''Fair''}'
-      - '{''id'': 3, ''label'': ''Good''}'
-      - '{''id'': 4, ''label'': ''Very Good''}'
+      - Poor
+      - Fair
+      - Good
+      - Very Good
       required: false
     - id: 8
       name: health_insurance
@@ -76,8 +76,8 @@ inputSchema:
       hint: Do you have any health insurance?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: emergency_contact
@@ -92,7 +92,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Landline''}'
-      - '{''id'': 2, ''label'': ''Cellphone''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Landline
+      - Cellphone
+      - Other
       required: false

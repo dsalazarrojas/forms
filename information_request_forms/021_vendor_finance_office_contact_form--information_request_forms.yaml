@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Jimmy''}'
-      - '{''id'': 2, ''name'': ''Jane''}'
-      - '{''id'': 3, ''name'': ''John''}'
+      - Jimmy
+      - Jane
+      - John
       required: true
     - id: 5
       name: finance_department
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Accounting''}'
-      - '{''id'': 2, ''name'': ''Accounts Payable''}'
-      - '{''id'': 3, ''name'': ''Budgeting''}'
+      - Accounting
+      - Accounts Payable
+      - Budgeting
       required: false
     - id: 6
       name: inquiry_type
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Request for Payment''}'
-      - '{''id'': 2, ''name'': ''Credit Inquiry''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Request for Payment
+      - Credit Inquiry
+      - Other
       required: true
     - id: 7
       name: message

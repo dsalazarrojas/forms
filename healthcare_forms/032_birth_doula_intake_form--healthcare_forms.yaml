@@ -107,7 +107,7 @@ inputSchema:
       hint: Any C-sections
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - One
       - Yes - Multiple
       required: false
@@ -117,8 +117,8 @@ inputSchema:
       hint: Vaginal birth after cesarean
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Undecided
       - Not Applicable
       required: false
@@ -206,8 +206,8 @@ inputSchema:
       hint: Have you taken classes
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Planning To
       required: false
     - id: 28
@@ -223,8 +223,8 @@ inputSchema:
       hint: Previous doula experience
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 30
       name: support_expectations
@@ -264,8 +264,8 @@ inputSchema:
       hint: Doula support after birth
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Maybe
       required: false
     - id: 35

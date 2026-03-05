@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': True}'
-      - '{''value'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: communication_channels
@@ -32,13 +32,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Phone''}'
-      - '{''value'': 2, ''label'': ''Email''}'
-      - '{''value'': 3, ''label'': ''Social Media''}'
-      - '{''value'': 4, ''label'': ''Print Newspaper''}'
-      - '{''value'': 5, ''label'': ''Television''}'
-      - '{''value'': 6, ''label'': ''Radio''}'
-      - '{''value'': 7, ''label'': ''None''}'
+      - Phone
+      - Email
+      - Social Media
+      - Print Newspaper
+      - Television
+      - Radio
+      - None
       required: true
     - id: 5
       name: contact_info
@@ -46,13 +46,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Daily''}'
-      - '{''value'': 2, ''label'': ''2-3 times a week''}'
-      - '{''value'': 3, ''label'': ''1 time a week''}'
-      - '{''value'': 4, ''label'': ''2 times a week''}'
-      - '{''value'': 5, ''label'': ''1 time a month''}'
-      - '{''value'': 6, ''label'': ''Less than 1 time a month''}'
-      - '{''value'': 7, ''label'': ''Never''}'
+      - Daily
+      - 2-3 times a week
+      - 1 time a week
+      - 2 times a week
+      - 1 time a month
+      - Less than 1 time a month
+      - Never
       required: true
     - id: 6
       name: gender
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Male''}'
-      - '{''value'': 2, ''label'': ''Female''}'
-      - '{''value'': 3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: true
     - id: 7
       name: race_ethnicity
@@ -70,13 +70,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''American Indian/Alaska Native''}'
-      - '{''value'': 2, ''label'': ''Asian''}'
-      - '{''value'': 3, ''label'': ''Native Hawaiian/Pacific Islander''}'
-      - '{''value'': 4, ''label'': ''White''}'
-      - '{''value'': 5, ''label'': ''Black or African American''}'
-      - '{''value'': 6, ''label'': ''Some other race/ethnicity''}'
-      - '{''value'': 7, ''label'': ''Prefer not to report''}'
+      - American Indian/Alaska Native
+      - Asian
+      - Native Hawaiian/Pacific Islander
+      - White
+      - Black or African American
+      - Some other race/ethnicity
+      - Prefer not to report
       required: true
     - id: 8
       name: preferred_language
@@ -84,6 +84,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''English''}'
-      - '{''value'': 2, ''label'': ''Spanish''}'
+      - English
+      - Spanish
       required: true

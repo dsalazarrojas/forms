@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Category A'', ''value'': ''category_a''}'
-      - '{''label'': ''Category B'', ''value'': ''category_b''}'
-      - '{''label'': ''Category C'', ''value'': ''category_c''}'
+      - Category A
+      - Category B
+      - Category C
       required: true
     - id: 5
       name: page_tags
@@ -51,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Tag A'', ''value'': ''tag_a''}'
-      - '{''label'': ''Tag B'', ''value'': ''tag_b''}'
-      - '{''label'': ''Tag C'', ''value'': ''tag_c''}'
+      - Tag A
+      - Tag B
+      - Tag C
       required: false
     - id: 6
       name: page_date
@@ -75,9 +64,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''status_a'', ''value'': ''status_a''}'
-      - '{''label'': ''status_b'', ''value'': ''status_b''}'
-      - '{''label'': ''status_c'', ''value'': ''status_c''}'
+      - status a
+      - status b
+      - status c
       required: true
     - id: 9
       name: page_priority

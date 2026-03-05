@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Car''}'
-      - '{''id'': 2, ''name'': ''Airplane''}'
-      - '{''id'': 3, ''name'': ''Bus''}'
+      - Car
+      - Airplane
+      - Bus
       required: false
     - id: 5
       name: travel_reason
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Manager''}'
-      - '{''id'': 2, ''name'': ''HR''}'
-      - '{''id'': 3, ''name'': ''Accounting''}'
+      - Manager
+      - HR
+      - Accounting
       required: true
     - id: 9
       name: travel_expense_date
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 13
       name: submitted_user
@@ -101,8 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 14
       name: category
@@ -131,9 +131,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Business''}'
-      - '{''id'': 2, ''name'': ''Personal''}'
-      - '{''id'': 3, ''name'': ''Company''}'
+      - Business
+      - Personal
+      - Company
       required: false
     - id: 18
       name: submitted_at
@@ -155,48 +155,48 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 21
-      name: form_id
-      label: Form ID
+      name: form_id_2
+      label: Form Id 2
       hint: null
       type: number
       options: []
       required: false
     - id: 22
-      name: submitted_at
-      label: Submitted At
+      name: submitted_at_2
+      label: Submitted At 2
       hint: null
       type: time
       options: []
       required: true
     - id: 23
-      name: submitted_user
-      label: Submitted User
+      name: submitted_user_2
+      label: Submitted User 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other''}'
+      - chatjimmy
+      - other
       required: true
     - id: 24
-      name: travel_class
-      label: Travel Class
+      name: travel_class_2
+      label: Travel Class 2
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Business''}'
-      - '{''id'': 2, ''name'': ''Personal''}'
-      - '{''id'': 3, ''name'': ''Company''}'
+      - Business
+      - Personal
+      - Company
       required: false
     - id: 25
-      name: submitted_user
-      label: Submitted User
+      name: submitted_user_3
+      label: Submitted User 3
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy'', ''value'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other''}'
+      - chatjimmy
+      - other
       required: true

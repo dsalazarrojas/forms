@@ -15,48 +15,38 @@ inputSchema:
     title: Team Leadership Assessment Form
     pages:
     - id: 1
-      name: team_leadership_assessment_form_page_1
-      label: Team Members
+      name: team_leadership_style
+      label: What is the team's leadership style?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - John
-      - Jane
-      - Joe
+      - Autocratic
+      - Democratic
+      - Laissez-faire
       required: true
     - id: 2
-      name: team_leadership_assessment_form_page_1_question_1
-      label: Leadership Style
+      name: team_dynamics
+      label: How do team members collaborate with each other?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - Autocratic
-      - Laissez-faire
-      - Democratic
+      - Communication
+      - Collaboration
+      - Adaptability
       required: true
     - id: 3
-      name: team_leadership_assessment_form_page_1_question_2
-      label: Team Work
+      name: team_members
+      label: List the team members
       hint: null
       type: select_multiple
       options:
-      - Communication
-      - Collaboration
-      - Adaptability
+      - John
+      - Jane
+      - Joe
       required: true
     - id: 4
-      name: team_leadership_assessment_form_page_2
-      label: Team Members
-      hint: null
-      type: select_multiple
-      options:
-      - John
-      - Jane
-      - Joe
-      required: true
-    - id: 5
-      name: team_leadership_assessment_form_page_2_question_1
-      label: Leadership Style
+      name: leadership_style
+      label: What leadership style works best for this team?
       hint: null
       type: select_one
       options:
@@ -64,9 +54,9 @@ inputSchema:
       - Laissez-faire
       - Democratic
       required: true
-    - id: 6
-      name: team_leadership_assessment_form_page_2_question_2
-      label: Team Work
+    - id: 5
+      name: teamwork
+      label: How do team members work together?
       hint: null
       type: select_multiple
       options:
@@ -74,23 +64,20 @@ inputSchema:
       - Collaboration
       - Adaptability
       required: true
+    - id: 6
+      name: team_strengths_and_challenges
+      label: What are the team's strengths and challenges?
+      hint: Please provide a brief description
+      type: note
+      options: []
+      required: true
     - id: 7
-      name: team_leadership_assessment_form_page_3
-      label: Team Members
+      name: influential_member
+      label: Who do you think is the most influential team member?
       hint: null
       type: select_multiple
       options:
       - John
       - Jane
       - Joe
-      required: true
-    - id: 8
-      name: team_leadership_assessment_form_page_3_question_1
-      label: Leadership Style
-      hint: null
-      type: select_one
-      options:
-      - Autocratic
-      - Laissez-faire
-      - Democratic
       required: true

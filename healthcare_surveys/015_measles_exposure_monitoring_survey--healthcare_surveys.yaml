@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Direct Contact''}'
-      - '{''label'': ''Indirect Contact''}'
-      - '{''label'': ''Unknown Contact''}'
+      - Direct Contact
+      - Indirect Contact
+      - Unknown Contact
       required: false
     - id: 6
       name: contact_info
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': "Don''t Know"}'
+      - 'True'
+      - 'False'
+      - Don't Know
       required: false
     - id: 10
       name: travel_info
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Confirmed''}'
-      - '{''label'': ''Suspected''}'
-      - '{''label'': ''Not Suspected''}'
+      - Confirmed
+      - Suspected
+      - Not Suspected
       required: false
     - id: 17
       name: exposure_risk_level
@@ -130,9 +130,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 18
       name: reporting_source
@@ -140,9 +140,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Public Health Agency''}'
-      - '{''label'': ''School''}'
-      - '{''label'': ''Work''}'
+      - Public Health Agency
+      - School
+      - Work
       required: false
     - id: 19
       name: exposure_date

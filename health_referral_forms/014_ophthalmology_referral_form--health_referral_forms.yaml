@@ -5,705 +5,131 @@ inputSchema:
     pages:
     - id: 1
       name: patient_info
-      label: patient_info
+      label: Patient Info
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: medical_history
-      label: medical_history
+      label: Medical History
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: diagnosis
-      label: diagnosis
+      label: Diagnosis
       hint: null
       type: text
       options: []
       required: false
     - id: 4
-      name: ophthalmologist_name
-      label: ophthalmologist_name
+      name: ophthalmologist
+      label: Ophthalmologist
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: referral_type
-      label: referral_type
+      label: Referral Type
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - I agree
+      - I do not agree
       required: false
     - id: 6
       name: referral_destination
-      label: referral_destination
+      label: Referral Destination
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: patient_phone
-      label: patient_phone
+      label: Patient Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: date_of_visit
-      label: date_of_visit
+      label: Date of Visit
       hint: null
       type: date
       options: []
       required: false
     - id: 9
       name: time_of_visit
-      label: time_of_visit
+      label: Time of Visit
       hint: null
       type: time
       options: []
       required: false
     - id: 10
       name: doctor_name
-      label: doctor_name
+      label: Doctor Name
       hint: null
       type: text
       options: []
       required: false
     - id: 11
       name: doctor_phone
-      label: doctor_phone
+      label: Doctor Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 12
       name: doctor_email
-      label: doctor_email
+      label: Doctor Email
       hint: null
       type: email
       options: []
       required: false
     - id: 13
       name: doctor_notes
-      label: doctor_notes
+      label: Doctor Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 14
       name: patient_notes
-      label: patient_notes
+      label: Patient Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 15
       name: referral_notes
-      label: referral_notes
+      label: Referral Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 16
       name: ophthalmologist_notes
-      label: ophthalmologist_notes
+      label: Ophthalmologist Notes
       hint: null
       type: note
       options: []
       required: false
     - id: 17
       name: patient_address
-      label: patient_address
+      label: Patient Address
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: doctor_address
-      label: doctor_address
+      label: Doctor Address
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 19
-      name: patient_date_of_birth
-      label: patient_date_of_birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: patient_time_of_visit
-      label: patient_time_of_visit
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: patient_date_of_visit
-      label: patient_date_of_visit_2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: referral_date
-      label: referral_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: referral_time
-      label: referral_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: doctor_phone_2
-      label: doctor_phone_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: doctor_email_2
-      label: doctor_email_2
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 26
-      name: doctor_notes_2
-      label: doctor_notes_2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 27
-      name: patient_notes_2
-      label: patient_notes_2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 28
-      name: referral_notes_2
-      label: referral_notes_2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 29
-      name: ophthalmologist_notes_2
-      label: ophthalmologist_notes_2
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 30
-      name: doctor_address_2
-      label: doctor_address_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: patient_address_2
-      label: patient_address_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 32
-      name: patient_phone_2
-      label: patient_phone_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: patient_email
-      label: patient_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 34
-      name: patient_relationship
-      label: patient_relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 35
-      name: ophthalmologist
-      label: ophthalmologist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: ophthalmologist_phone
-      label: ophthalmologist_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: ophthalmologist_email
-      label: ophthalmologist_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 38
-      name: ophthalmologist_address
-      label: ophthalmologist_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 39
-      name: ophthalmologist_notes
-      label: ophthalmologist_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 40
-      name: patient_notes_3
-      label: patient_notes_3
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 41
-      name: doctor_phone_3
-      label: doctor_phone_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: doctor_email_3
-      label: doctor_email_3
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 43
-      name: doctor_notes_3
-      label: doctor_notes_3
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 44
-      name: patient_address_3
-      label: patient_address_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: patient_phone_3
-      label: patient_phone_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: doctor_address_3
-      label: doctor_address_3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: patient_notes_4
-      label: patient_notes_4
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 48
-      name: ophthalmologist_address_2
-      label: ophthalmologist_address_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: doctor_phone_4
-      label: doctor_phone_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: doctor_email_4
-      label: doctor_email_4
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 51
-      name: doctor_notes_4
-      label: doctor_notes_4
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 52
-      name: patient_address_4
-      label: patient_address_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 53
-      name: patient_phone_4
-      label: patient_phone_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 54
-      name: patient_email_2
-      label: patient_email_2
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 55
-      name: patient_relationship_2
-      label: patient_relationship_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 56
-      name: ophthalmologist
-      label: ophthalmologist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 57
-      name: ophthalmologist_phone
-      label: ophthalmologist_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 58
-      name: ophthalmologist_email
-      label: ophthalmologist_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 59
-      name: ophthalmologist_address
-      label: ophthalmologist_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 60
-      name: ophthalmologist_notes
-      label: ophthalmologist_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 61
-      name: patient_notes_5
-      label: patient_notes_5
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 62
-      name: doctor_phone
-      label: doctor_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 63
-      name: doctor_email
-      label: doctor_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 64
-      name: doctor_notes
-      label: doctor_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 65
-      name: patient_address
-      label: patient_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 66
-      name: patient_phone
-      label: patient_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 67
-      name: patient_email
-      label: patient_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 68
-      name: patient_relationship
-      label: patient_relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 69
-      name: ophthalmologist
-      label: ophthalmologist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 70
-      name: ophthalmologist_phone
-      label: ophthalmologist_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 71
-      name: ophthalmologist_email
-      label: ophthalmologist_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 72
-      name: ophthalmologist_address
-      label: ophthalmologist_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 73
-      name: ophthalmologist_notes
-      label: ophthalmologist_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 74
-      name: patient_notes
-      label: patient_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 75
-      name: doctor_phone
-      label: doctor_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 76
-      name: doctor_email
-      label: doctor_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 77
-      name: doctor_notes
-      label: doctor_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 78
-      name: patient_address
-      label: patient_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 79
-      name: patient_phone
-      label: patient_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 80
-      name: patient_email
-      label: patient_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 81
-      name: patient_relationship
-      label: patient_relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 82
-      name: ophthalmologist
-      label: ophthalmologist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 83
-      name: ophthalmologist_phone
-      label: ophthalmologist_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 84
-      name: ophthalmologist_email
-      label: ophthalmologist_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 85
-      name: ophthalmologist_address
-      label: ophthalmologist_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 86
-      name: ophthalmologist_notes
-      label: ophthalmologist_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 87
-      name: patient_notes
-      label: patient_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 88
-      name: doctor_phone
-      label: doctor_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 89
-      name: doctor_email
-      label: doctor_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 90
-      name: doctor_notes
-      label: doctor_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 91
-      name: patient_address
-      label: patient_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 92
-      name: patient_phone
-      label: patient_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 93
-      name: patient_email
-      label: patient_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 94
-      name: patient_relationship
-      label: patient_relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 95
-      name: ophthalmologist
-      label: ophthalmologist
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 96
-      name: ophthalmologist_phone
-      label: ophthalmologist_phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 97
-      name: ophthalmologist_email
-      label: ophthalmologist_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 98
-      name: ophthalmologist_address
-      label: ophthalmologist_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 99
-      name: ophthalmologist_notes
-      label: ophthalmologist_notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 100
-      name: patient_notes
-      label: patient_notes
-      hint: null
-      type: note
       options: []
       required: false

@@ -58,10 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''PC''}'
-      - '{''id'': 2, ''label'': ''XBOX''}'
-      - '{''id'': 3, ''label'': ''PS4''}'
-      - '{''id'': 4, ''label'': ''Switch''}'
+      - PC
+      - XBOX
+      - PS4
+      - Switch
       required: true
     - id: 9
       name: playtime
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Weekdays''}'
-      - '{''id'': 2, ''label'': ''Weekends''}'
-      - '{''id'': 3, ''label'': ''Anytime''}'
+      - Weekdays
+      - Weekends
+      - Anytime
       required: true
     - id: 12
       name: preferred_playtime
@@ -100,14 +100,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''English''}'
-      - '{''id'': 2, ''label'': ''Spanish''}'
-      - '{''id'': 3, ''label'': ''French''}'
-      - '{''id'': 4, ''label'': ''German''}'
-      - '{''id'': 5, ''label'': ''Chinese''}'
-      - '{''id'': 6, ''label'': ''Japanese''}'
-      - '{''id'': 7, ''label'': ''Korean''}'
-      - '{''id'': 8, ''label'': ''Russian''}'
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Japanese
+      - Korean
+      - Russian
       required: false
     - id: 14
       name: notes

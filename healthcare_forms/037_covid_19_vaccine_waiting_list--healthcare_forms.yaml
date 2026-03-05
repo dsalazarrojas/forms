@@ -5,21 +5,21 @@ inputSchema:
     pages:
     - id: 1
       name: customer_info
-      label: Customer Info
+      label: Customer Information
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: contact_info
-      label: Contact Info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 3
       name: vaccine_info
-      label: Vaccine Info
+      label: Vaccine Information
       hint: null
       type: text
       options: []
@@ -30,9 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - Available to receive vaccine immediately
+      - Available to receive vaccine after 1 week
+      - Available to receive vaccine after 2 weeks
+      - Not available
       required: false
     - id: 5
       name: date
@@ -42,148 +43,113 @@ inputSchema:
       options: []
       required: false
     - id: 6
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 7
       name: email
       label: Email
       hint: null
       type: email
       options: []
       required: false
-    - id: 8
+    - id: 7
       name: phone
       label: Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 9
+    - id: 8
       name: message
       label: Message
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 11
+    - id: 9
       name: select_multiple
       label: Select Multiple
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
-    - id: 12
-      name: text
-      label: Text
+    - id: 10
+      name: text_entry
+      label: Text Entry
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
+    - id: 11
       name: integer
       label: Integer
       hint: null
       type: number
       options: []
       required: false
-    - id: 14
+    - id: 12
       name: decimal
       label: Decimal
       hint: null
       type: number
       options: []
       required: false
-    - id: 15
-      name: date
-      label: Date
+    - id: 13
+      name: date_2
+      label: Date 2
       hint: null
       type: date
       options: []
       required: false
-    - id: 16
+    - id: 14
       name: time
       label: Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 17
-      name: email
-      label: Email
+    - id: 15
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
-    - id: 18
-      name: phone
-      label: Phone
+    - id: 16
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: false
-    - id: 19
+    - id: 17
       name: select_one
       label: Select One
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
+    - id: 18
+      name: text_entry_2
+      label: Text Entry 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: integer_2
+      label: Integer 2
+      hint: null
+      type: number
+      options: []
       required: false
     - id: 20
-      name: text
-      label: Text
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: integer
-      label: Integer
+      name: decimal_2
+      label: Decimal 2
       hint: null
       type: number
-      options: []
-      required: false
-    - id: 22
-      name: decimal
-      label: Decimal
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: phone
-      label: Phone
-      hint: null
-      type: text
       options: []
       required: false

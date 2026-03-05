@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pdf''}'
-      - '{''value'': ''docx''}'
-      - '{''value'': ''xls''}'
-      - '{''value'': ''zip''}'
+      - pdf
+      - docx
+      - xls
+      - zip
       required: false
     - id: 6
       name: particle_description
@@ -139,10 +139,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''submitted''}'
-      - '{''value'': ''reviewed''}'
-      - '{''value'': ''rejected''}'
-      - '{''value'': ''accepted''}'
+      - submitted
+      - reviewed
+      - rejected
+      - accepted
       required: false
     - id: 20
       name: file_url

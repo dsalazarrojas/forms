@@ -15,86 +15,97 @@ inputSchema:
     title: Flight Details Inquiry Form
     pages:
     - id: 1
-      name: flight_details
-      label: Flight Details
+      name: flight_type
+      label: What type of flight is this?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Flight
+      - Non-flight (e.g. train, bus)
+      required: true
     - id: 2
-      name: passenger_details
-      label: Passenger Details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
       name: travel_dates
-      label: Travel Dates
+      label: When were you planning to travel?
       hint: null
       type: date
       options: []
-      required: false
-    - id: 4
-      name: flight_numbers
-      label: Flight Numbers
+      required: true
+    - id: 3
+      name: number_of_travelers
+      label: How many travelers?
       hint: null
-      type: select_multiple
-      options:
-      - Flight Number
-      - Alternate Flight Number
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: passenger_details
+      label: Passenger Names and IDs
+      hint: null
+      type: text
+      options: []
       required: true
     - id: 5
-      name: flight_numbers
-      label: Flight Numbers
+      name: special_requests
+      label: Are there any special requests?
       hint: null
-      type: select_multiple
-      options:
-      - Flight Number
-      - Alternate Flight Number
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 6
       name: flight_numbers
-      label: Flight Numbers
+      label: Which flight numbers do you have?
       hint: null
       type: select_multiple
       options:
-      - Flight Number
-      - Alternate Flight Number
+      - Flight Number 1
+      - Alternate Flight Number 1
       required: true
     - id: 7
-      name: flight_numbers
-      label: Flight Numbers
+      name: seats_needed
+      label: How many seats do you need?
       hint: null
-      type: select_multiple
-      options:
-      - Flight Number
-      - Alternate Flight Number
-      required: true
+      type: number
+      options: []
+      required: false
     - id: 8
-      name: flight_numbers
-      label: Flight Numbers
+      name: travel_class
+      label: What is the travel class?
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Flight Number
-      - Alternate Flight Number
+      - Economy
+      - Business
+      - First Class
       required: true
     - id: 9
-      name: flight_numbers
-      label: Flight Numbers
+      name: boarding_assistance
+      label: Do you need assistance with boarding?
       hint: null
-      type: select_multiple
+      type: checkbox
       options:
-      - Flight Number
-      - Alternate Flight Number
-      required: true
+      - Option A
+      - Option B
+      required: false
     - id: 10
-      name: flight_numbers
-      label: Flight Numbers
+      name: special_requirements
+      label: Do you have any special requirements?
       hint: null
-      type: select_multiple
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: flight_details
+      label: Add any flight details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirmation
+      label: Confirm
+      hint: null
+      type: radio
       options:
-      - Flight Number
-      - Alternate Flight Number
+      - 'True'
+      - 'False'
       required: true

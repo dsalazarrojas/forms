@@ -23,170 +23,236 @@ inputSchema:
       required: false
     - id: 2
       name: page_2
-      label: Section 1 - General Attitudes
+      label: General Attitudes
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Informed consent is essential in patient care.
+      - Informed consent is not essential in patient care.
       required: false
     - id: 3
       name: page_3
-      label: Section 2 - Specific Scenarios
+      label: Challenging Situations
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - A patient requesting a treatment that I don't recommend but is requested by
+        their family members.
+      - A healthcare provider's professional opinion is not in line with my own.
+      - A colleague's advice influences my decision.
+      - A conflict between patient care and administrative priorities.
       required: false
     - id: 4
       name: page_4
-      label: Section 3 - Clinical Scenarios
+      label: Patient-Reported Outcomes
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Patient wishes are not aligned with my own.
+      - Patient cultural values are not aligned with my own.
+      - Patient medical condition affects my own well-being.
+      - I have to prioritize one patient over another.
       required: false
     - id: 5
       name: page_5
-      label: Section 4 - Patient-Reported Outcomes
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 6
-      name: page_6
-      label: Section 5 - Clinician-Reported Outcomes
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 7
-      name: page_7
-      label: Section 6 - Team-Based Outcomes
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 8
-      name: page_8
-      label: Section 7 - Team-Based Scenarios
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 9
-      name: page_9
-      label: Section 8 - Team-Based Scenarios
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 10
-      name: page_10
-      label: Section 9 - Team-Based Outcomes
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 11
-      name: page_11
-      label: Section 10 - Final Outcomes
+      label: Handling Conflicts
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Educate and empower the patient.
+      - Seek input from colleagues or superiors.
+      - Involve the patient's family or caregivers.
+      - Involve other healthcare providers.
+      - Ignore the issue.
+      required: false
+    - id: 6
+      name: page_6
+      label: Decision-Making Process
+      hint: null
+      type: select_one
+      options:
+      - Rely on patient's autonomy and self-determination.
+      - Rely on clinical evidence and best practices.
+      - Rely on team-based decision-making.
+      - Rely on personal values and principles.
+      - Rely on administrative priorities.
+      required: false
+    - id: 7
+      name: page_7
+      label: Patient Education
+      hint: null
+      type: select_multiple
+      options:
+      - Provide information and support.
+      - Encourage patient involvement in the decision-making process.
+      - Involve patients' family or caregivers.
+      - Leave decision-making to patients.
+      - Leave decision-making to healthcare providers.
+      required: false
+    - id: 8
+      name: page_8
+      label: Burnout and Compassion Fatigue
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 9
+      name: page_9
+      label: Technology Use
+      hint: null
+      type: select_one
+      options:
+      - It's an essential tool for patient care.
+      - It's a useful tool for patient care.
+      - It's a potential tool for patient care.
+      - It's not relevant to patient care.
+      required: false
+    - id: 10
+      name: page_10
+      label: Technology Use Examples
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: Technology's Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Technology is an effective tool for supporting patient care.
+      - Technology is an inefficient tool for supporting patient care.
+      - Technology is a necessary evil for patient care.
+      - Technology is not necessary for patient care.
       required: false
     - id: 12
       name: page_12
-      label: Thank you for participating
+      label: Difficult Decision
       hint: null
-      type: note
+      type: text
       options: []
       required: false
     - id: 13
       name: page_13
-      label: None
+      label: Difficult Decision Examples
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: page_14
-      label: None
+      label: Biggest Concern
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Patient safety and well-being.
+      - Clinical outcomes.
+      - Team-based collaboration.
+      - Administrative priorities.
       required: false
     - id: 15
       name: page_15
-      label: None
+      label: Biggest Concern Examples
       hint: null
       type: text
       options: []
       required: false
     - id: 16
       name: page_16
-      label: None
+      label: Personal Values
       hint: null
       type: text
       options: []
       required: false
     - id: 17
       name: page_17
-      label: None
+      label: Value Alignment
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Patient wishes are aligned with my own.
+      - Patient cultural values are aligned with my own.
+      - Patient medical condition does not affect my own well-being.
+      - I do not have to prioritize one patient over another.
       required: false
     - id: 18
       name: page_18
-      label: None
+      label: Decision-Making Priorities
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Patient autonomy and self-determination.
+      - Clinical evidence and best practices.
+      - Team-based decision-making.
+      - Administrative priorities.
       required: false
     - id: 19
       name: page_19
-      label: None
+      label: Priorities Examples
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: page_20
+      label: Value-Based Decisions
+      hint: null
+      type: select_one
+      options:
+      - I follow my personal values and principles.
+      - I follow my employer's policies.
+      - I follow my colleagues' advice.
+      - I follow administrative priorities.
+      required: false
+    - id: 21
+      name: page_21
+      label: Value-Based Decisions Examples
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: page_22
+      label: Final Thoughts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: page_23
       label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: page_24
+      label: Page 24
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: page_25
+      label: Page 25
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: page_26
+      label: Page 26
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: page_27
+      label: Page 27
       hint: null
       type: text
       options: []

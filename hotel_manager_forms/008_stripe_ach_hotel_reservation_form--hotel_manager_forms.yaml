@@ -58,9 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''room_rate_1'', ''label'': ''Single''}'
-      - '{''id'': 2, ''name'': ''room_rate_2'', ''label'': ''Double''}'
-      - '{''id'': 3, ''name'': ''room_rate_3'', ''label'': ''Suite''}'
+      - Single
+      - Double
+      - Suite
       required: true
     - id: 9
       name: base_info
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''room_rate_1'', ''label'': ''Single''}'
-      - '{''id'': 2, ''name'': ''room_rate_2'', ''label'': ''Double''}'
-      - '{''id'': 3, ''name'': ''Suite'', ''label'': ''Suite''}'
+      - Single
+      - Double
+      - Suite
       required: true
     - id: 10
       name: base_info

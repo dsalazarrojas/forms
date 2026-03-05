@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Cardiology''}'
-      - '{''value'': ''General Medicine''}'
-      - '{''value'': ''Neurology''}'
-      - '{''value'': ''Oncology''}'
+      - Cardiology
+      - General Medicine
+      - Neurology
+      - Oncology
       required: false
     - id: 6
       name: healthcare_provider
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Dr. Smith''}'
-      - '{''value'': ''Dr. Johnson''}'
-      - '{''value'': ''Dr. Wilson''}'
+      - Dr. Smith
+      - Dr. Johnson
+      - Dr. Wilson
       required: false
     - id: 7
       name: visit_date
@@ -79,7 +79,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Positive''}'
-      - '{''value'': ''Negative''}'
-      - '{''value'': ''Neutral''}'
+      - Positive
+      - Negative
+      - Neutral
       required: false

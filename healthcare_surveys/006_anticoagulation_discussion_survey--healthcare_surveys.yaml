@@ -1,228 +1,217 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Anticoagulation Discussion Survey
     pages:
-      - id: 1
-        name: respondent_name
-        label: Your full name
-        hint: Patient or caregiver name
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: respondent_type
-        label: Are you responding as a
-        hint: null
-        type: select_one
-        options:
-          - Patient
-          - Caregiver
-          - Healthcare provider
-          - Family member
-        required: true
-      - id: 3
-        name: discussion_date
-        label: When did you discuss anticoagulation therapy?
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: provider_type
-        label: Type of healthcare provider who discussed anticoagulation
-        hint: null
-        type: select_one
-        options:
-          - Cardiologist
-          - Primary care physician
-          - Pharmacist
-          - Nurse
-          - Other specialist
-          - Combination of above
-        required: true
-      - id: 5
-        name: discussion_clarity
-        label: How clear was the discussion about anticoagulation therapy?
-        hint: null
-        type: select_one
-        options:
-          - Very clear
-          - Mostly clear
-          - Somewhat unclear
-          - Very unclear
-          - Unable to assess
-        required: true
-      - id: 6
-        name: topics_covered
-        label: Which topics were discussed?
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Why anticoagulation is needed
-          - How the medication works
-          - Side effects and risks
-          - Diet and lifestyle changes
-          - Drug interactions
-          - Monitoring requirements
-          - Emergency warning signs
-        required: true
-      - id: 7
-        name: medication_options
-        label: Were different anticoagulation options discussed?
-        hint: null
-        type: select_one
-        options:
-          - Yes, thoroughly
-          - Yes, briefly
-          - No, one option recommended
-          - Unsure
-        required: true
-      - id: 8
-        name: understanding_level
-        label: How well do you understand your anticoagulation therapy?
-        hint: null
-        type: select_one
-        options:
-          - Very well
-          - Fairly well
-          - Somewhat
-          - Not very well
-          - Not at all
-        required: true
-      - id: 9
-        name: side_effects_discussed
-        label: Were potential side effects adequately explained?
-        hint: null
-        type: select_one
-        options:
-          - Yes, thoroughly
-          - Yes, adequately
-          - Partially explained
-          - No, not discussed
-        required: true
-      - id: 10
-        name: diet_restrictions
-        label: Were dietary restrictions or considerations discussed?
-        hint: null
-        type: select_one
-        options:
-          - Yes, detailed information
-          - Yes, basic information
-          - No
-          - Not applicable
-        required: true
-      - id: 11
-        name: monitoring_plan
-        label: Was a monitoring plan explained?
-        hint: Lab tests and follow-ups
-        type: select_one
-        options:
-          - Yes, clear schedule provided
-          - Yes, general guidelines provided
-          - Partially explained
-          - No
-        required: true
-      - id: 12
-        name: questions_answered
-        label: Were all your questions answered satisfactorily?
-        hint: null
-        type: select_one
-        options:
-          - Yes, all answered
-          - Most answered
-          - Some answered
-          - Few answered
-          - No, questions remain
-        required: true
-      - id: 13
-        name: unanswered_questions
-        label: If questions remain, what were they about?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 14
-        name: medication_adherence
-        label: Do you feel confident taking this medication as prescribed?
-        hint: null
-        type: select_one
-        options:
-          - Very confident
-          - Somewhat confident
-          - Neutral
-          - Not very confident
-          - Not at all confident
-        required: true
-      - id: 15
-        name: barrier_adherence
-        label: What, if any, barriers might prevent adherence?
-        hint: null
-        type: select_multiple
-        options:
-          - Cost of medication
-          - Side effects
-          - Complexity of regimen
-          - Difficulty remembering
-          - Fear of complications
-          - Other
-          - No barriers
-        required: false
-      - id: 16
-        name: communication_improvements
-        label: How could the discussion have been improved?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 17
-        name: provider_knowledge
-        label: Did the provider demonstrate good knowledge about anticoagulation?
-        hint: null
-        type: select_one
-        options:
-          - Yes, very knowledgeable
-          - Yes, adequately knowledgeable
-          - Somewhat knowledgeable
-          - Not knowledgeable
-        required: true
-      - id: 18
-        name: follow_up_plan
-        label: Was a follow-up plan discussed?
-        hint: null
-        type: select_one
-        options:
-          - Yes, with appointment scheduled
-          - Yes, general follow-up mentioned
-          - No follow-up discussed
-        required: true
-      - id: 19
-        name: overall_satisfaction
-        label: Overall satisfaction with the anticoagulation discussion
-        hint: null
-        type: select_one
-        options:
-          - Very satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very dissatisfied
-        required: true
-      - id: 20
-        name: additional_feedback
-        label: Additional feedback or comments
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: respondent_name
+      label: Your full name
+      hint: Patient or caregiver name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_type
+      label: Are you responding as a
+      hint: null
+      type: select_one
+      options:
+      - Patient
+      - Caregiver
+      - Healthcare provider
+      - Family member
+      required: true
+    - id: 3
+      name: discussion_date
+      label: When did you discuss anticoagulation therapy?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: provider_type
+      label: Type of healthcare provider who discussed anticoagulation
+      hint: null
+      type: select_one
+      options:
+      - Cardiologist
+      - Primary care physician
+      - Pharmacist
+      - Nurse
+      - Other specialist
+      - Combination of above
+      required: true
+    - id: 5
+      name: discussion_clarity
+      label: How clear was the discussion about anticoagulation therapy?
+      hint: null
+      type: select_one
+      options:
+      - Very clear
+      - Mostly clear
+      - Somewhat unclear
+      - Very unclear
+      - Unable to assess
+      required: true
+    - id: 6
+      name: topics_covered
+      label: Which topics were discussed?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Why anticoagulation is needed
+      - How the medication works
+      - Side effects and risks
+      - Diet and lifestyle changes
+      - Drug interactions
+      - Monitoring requirements
+      - Emergency warning signs
+      required: true
+    - id: 7
+      name: medication_options
+      label: Were different anticoagulation options discussed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, briefly
+      - No, one option recommended
+      - Unsure
+      required: true
+    - id: 8
+      name: understanding_level
+      label: How well do you understand your anticoagulation therapy?
+      hint: null
+      type: select_one
+      options:
+      - Very well
+      - Fairly well
+      - Somewhat
+      - Not very well
+      - Not at all
+      required: true
+    - id: 9
+      name: side_effects_discussed
+      label: Were potential side effects adequately explained?
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly
+      - Yes, adequately
+      - Partially explained
+      - No, not discussed
+      required: true
+    - id: 10
+      name: diet_restrictions
+      label: Were dietary restrictions or considerations discussed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, detailed information
+      - Yes, basic information
+      - 'False'
+      - Not applicable
+      required: true
+    - id: 11
+      name: monitoring_plan
+      label: Was a monitoring plan explained?
+      hint: Lab tests and follow-ups
+      type: select_one
+      options:
+      - Yes, clear schedule provided
+      - Yes, general guidelines provided
+      - Partially explained
+      - 'False'
+      required: true
+    - id: 12
+      name: questions_answered
+      label: Were all your questions answered satisfactorily?
+      hint: null
+      type: select_one
+      options:
+      - Yes, all answered
+      - Most answered
+      - Some answered
+      - Few answered
+      - No, questions remain
+      required: true
+    - id: 13
+      name: unanswered_questions
+      label: If questions remain, what were they about?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_adherence
+      label: Do you feel confident taking this medication as prescribed?
+      hint: null
+      type: select_one
+      options:
+      - Very confident
+      - Somewhat confident
+      - Neutral
+      - Not very confident
+      - Not at all confident
+      required: true
+    - id: 15
+      name: barrier_adherence
+      label: What, if any, barriers might prevent adherence?
+      hint: null
+      type: select_multiple
+      options:
+      - Cost of medication
+      - Side effects
+      - Complexity of regimen
+      - Difficulty remembering
+      - Fear of complications
+      - Other
+      - No barriers
+      required: false
+    - id: 16
+      name: communication_improvements
+      label: How could the discussion have been improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: provider_knowledge
+      label: Did the provider demonstrate good knowledge about anticoagulation?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very knowledgeable
+      - Yes, adequately knowledgeable
+      - Somewhat knowledgeable
+      - Not knowledgeable
+      required: true
+    - id: 18
+      name: follow_up_plan
+      label: Was a follow-up plan discussed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, with appointment scheduled
+      - Yes, general follow-up mentioned
+      - No follow-up discussed
+      required: true
+    - id: 19
+      name: overall_satisfaction
+      label: Overall satisfaction with the anticoagulation discussion
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Additional feedback or comments
+      hint: null
+      type: text
+      options: []
+      required: false

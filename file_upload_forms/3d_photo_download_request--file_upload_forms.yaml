@@ -1,18 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-
-
 inputSchema:
   type: object
   properties:
@@ -20,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: section_header_request
-      label: "--- Requester & Asset Information ---"
+      label: '--- Requester & Asset Information ---'
       hint: null
       type: note
       options: []
@@ -73,11 +58,11 @@ inputSchema:
       hint: Select the primary permitted use
       type: select_one
       options:
-        - Personal / internal use
-        - Commercial (paid product/service)
-        - Editorial / news
-        - Educational / research
-        - Advertising / marketing
+      - Personal / internal use
+      - Commercial (paid product/service)
+      - Editorial / news
+      - Educational / research
+      - Advertising / marketing
       required: true
     - id: 9
       name: distribution_channels
@@ -85,11 +70,11 @@ inputSchema:
       hint: Where will the asset be published or shared?
       type: select_multiple
       options:
-        - Website / web app
-        - Social media
-        - Print / publication
-        - Broadcast / TV
-        - VR/AR platform
+      - Website / web app
+      - Social media
+      - Print / publication
+      - Broadcast / TV
+      - VR/AR platform
       required: false
     - id: 10
       name: delivery_format
@@ -97,11 +82,11 @@ inputSchema:
       hint: Choose best-fit output format
       type: select_one
       options:
-        - GLTF / GLB
-        - OBJ
-        - STL
-        - PLY
-        - USDZ
+      - GLTF / GLB
+      - OBJ
+      - STL
+      - PLY
+      - USDZ
       required: true
     - id: 11
       name: resolution_and_textures
@@ -116,10 +101,10 @@ inputSchema:
       hint: Standard licenses cover most uses
       type: select_one
       options:
-        - Standard (non-exclusive)
-        - Extended (commercial distribution)
-        - Editorial only
-        - Custom terms (contact required)
+      - Standard (non-exclusive)
+      - Extended (commercial distribution)
+      - Editorial only
+      - Custom terms (contact required)
       required: true
     - id: 13
       name: requested_delivery_date
@@ -134,8 +119,8 @@ inputSchema:
       hint: Select Yes to proceed with processing
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: requester_notes

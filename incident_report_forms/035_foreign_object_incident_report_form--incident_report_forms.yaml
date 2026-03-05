@@ -16,43 +16,43 @@ inputSchema:
     pages:
     - id: 1
       name: incident_date
-      label: Date
+      label: Date of Incident
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 2
       name: incident_time
-      label: Time
+      label: Time of Incident
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 3
       name: incident_location
       label: Location
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: incident_description
-      label: Description
+      label: Description of Incident
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
       name: object_type
       label: Object Type
       hint: null
       type: select_one
       options:
-      - Object Type
-      - Object Part
-      - Object Sub-Part
+      - Object
+      - Part
+      - Sub-Part
       - Other
-      required: false
+      required: true
     - id: 6
       name: object_condition
       label: Object Condition
@@ -63,14 +63,14 @@ inputSchema:
       - Damaged
       - Broken
       - Other
-      required: false
+      required: true
     - id: 7
       name: reported_by
       label: Reported By
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
       name: reported_by_title
       label: Reported By Title
@@ -86,129 +86,22 @@ inputSchema:
       options: []
       required: false
     - id: 10
-      name: incident_date
+      name: incident_date_2
       label: Date
       hint: null
       type: date
       options: []
       required: false
     - id: 11
-      name: incident_time
+      name: incident_time_2
       label: Time
       hint: null
       type: time
       options: []
       required: false
     - id: 12
-      name: incident_location
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: incident_description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: object_type
-      label: Object Type
-      hint: null
-      type: select_one
-      options:
-      - Object Type
-      - Object Part
-      - Object Sub-Part
-      - Other
-      required: false
-    - id: 15
-      name: object_condition
-      label: Object Condition
-      hint: null
-      type: select_one
-      options:
-      - In good condition
-      - Damaged
-      - Broken
-      - Other
-      required: false
-    - id: 16
-      name: reported_by
-      label: Reported By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: reported_by_title
-      label: Reported By Title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: reported_by_organization
-      label: Reported By Organization
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: incident_date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 20
-      name: incident_time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 21
-      name: incident_location
-      label: Location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: incident_description
-      label: Description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: object_type
-      label: Object Type
-      hint: null
-      type: select_one
-      options:
-      - Object Type
-      - Object Part
-      - Object Sub-Part
-      - Other
-      required: false
-    - id: 24
-      name: object_condition
-      label: Object Condition
-      hint: null
-      type: select_one
-      options:
-      - In good condition
-      - Damaged
-      - Broken
-      - Other
-      required: false
-    - id: 25
-      name: reported_by
-      label: Reported By
+      name: incident_location_2
+      label: Incident Location 2
       hint: null
       type: text
       options: []

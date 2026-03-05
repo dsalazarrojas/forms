@@ -1,128 +1,145 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Client Medical History Form
     pages:
-      - id: 1
-        name: patient_name
-        label: Patient Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: dob
-        label: Date of Birth
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: section_medical_background
-        label: -- Medical Background --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: hospitalization_history
-        label: Have you ever been hospitalized for a serious illness or surgery?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 5
-        name: surgery_list
-        label: Please list any previous surgeries and approximate dates
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: section_family_history
-        label: -- Family History --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: family_medical_history
-        label: Do any immediate family members have a history of the following?
-        hint: Select all that apply
-        type: select_multiple
-        options: [Diabetes, Cancer, Heart Disease, Hypertension, Stroke, Glaucoma]
-        required: false
-      - id: 8
-        name: section_social_history
-        label: -- Social History --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: alcohol_consumption
-        label: Frequency of alcohol consumption
-        hint: null
-        type: select_one
-        options: [None, Occasional, Moderate, Frequent]
-        required: false
-      - id: 10
-        name: recreational_drug_use
-        label: Do you use any recreational drugs?
-        hint: null
-        type: select_one
-        options: [Yes, No]
-        required: false
-      - id: 11
-        name: exercise_frequency
-        label: How often do you exercise?
-        hint: null
-        type: select_one
-        options: [Daily, 2-3 times a week, Weekly, Monthly, Never]
-        required: false
-      - id: 12
-        name: section_review_systems
-        label: -- Review of Systems --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 13
-        name: current_symptoms
-        label: Are you currently experiencing any of the following symptoms?
-        hint: null
-        type: select_multiple
-        options: [Chest Pain, Shortness of Breath, Chronic Cough, Vision Changes, Dizziness, Fatigue]
-        required: false
-      - id: 14
-        name: other_health_concerns
-        label: Any other health concerns you wish to discuss with the doctor?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: information_certification
-        label: I certify that the information provided above is correct to the best of my knowledge
-        hint: null
-        type: select_one
-        options: [Yes, I certify]
-        required: true
-      - id: 16
-        name: signature
-        label: Digital Signature - Type Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: section_medical_background
+      label: -- Medical Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: hospitalization_history
+      label: Have you ever been hospitalized for a serious illness or surgery?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: surgery_list
+      label: Please list any previous surgeries and approximate dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_family_history
+      label: -- Family History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: family_medical_history
+      label: Do any immediate family members have a history of the following?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Diabetes
+      - Cancer
+      - Heart Disease
+      - Hypertension
+      - Stroke
+      - Glaucoma
+      required: false
+    - id: 8
+      name: section_social_history
+      label: -- Social History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: alcohol_consumption
+      label: Frequency of alcohol consumption
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Occasional
+      - Moderate
+      - Frequent
+      required: false
+    - id: 10
+      name: recreational_drug_use
+      label: Do you use any recreational drugs?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: exercise_frequency
+      label: How often do you exercise?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - 2-3 times a week
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 12
+      name: section_review_systems
+      label: -- Review of Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_symptoms
+      label: Are you currently experiencing any of the following symptoms?
+      hint: null
+      type: select_multiple
+      options:
+      - Chest Pain
+      - Shortness of Breath
+      - Chronic Cough
+      - Vision Changes
+      - Dizziness
+      - Fatigue
+      required: false
+    - id: 14
+      name: other_health_concerns
+      label: Any other health concerns you wish to discuss with the doctor?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: information_certification
+      label: I certify that the information provided above is correct to the best
+        of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I certify
+      required: true
+    - id: 16
+      name: signature
+      label: Digital Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

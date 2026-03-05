@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Verbal Warning''}'
-      - '{''label'': ''Written Warning''}'
-      - '{''label'': ''Suspension''}'
-      - '{''label'': ''Termination''}'
+      - Verbal Warning
+      - Written Warning
+      - Suspension
+      - Termination
       required: false
     - id: 5
       name: disciplinary_action_reason
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Employee Acknowledged Incidents''}'
-      - '{''label'': ''Incident Resolved''}'
-      - '{''label'': ''Incident Not Resolved''}'
+      - Employee Acknowledged Incidents
+      - Incident Resolved
+      - Incident Not Resolved
       required: false
     - id: 8
       name: incident_outcome_details

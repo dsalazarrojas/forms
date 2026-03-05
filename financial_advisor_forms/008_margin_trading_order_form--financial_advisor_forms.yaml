@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''BTC/USD''}'
-      - '{''id'': 2, ''label'': ''ETH/USD''}'
-      - '{''id'': 3, ''label'': ''XRP/USD''}'
+      - BTC/USD
+      - ETH/USD
+      - XRP/USD
       required: false
     - id: 4
       name: margin_amount
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Aggressive''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Conservative''}'
+      - Aggressive
+      - Medium
+      - Conservative
       required: false
     - id: 9
       name: submit_form

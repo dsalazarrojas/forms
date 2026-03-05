@@ -25,12 +25,12 @@ inputSchema:
       hint: Select any dietary restrictions or preferences
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Vegan''}'
-      - '{''id'': 3, ''label'': ''Vegetarian''}'
-      - '{''id'': 4, ''label'': ''Gluten Free''}'
-      - '{''id'': 5, ''label'': ''Low-Fat''}'
-      - '{''id'': 6, ''label'': ''Other''}'
+      - None
+      - Vegan
+      - Vegetarian
+      - Gluten Free
+      - Low-Fat
+      - Other
       required: false
     - id: 4
       name: special_allergies
@@ -156,11 +156,11 @@ inputSchema:
       hint: Select event type
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Party''}'
-      - '{''id'': 2, ''label'': ''Conference''}'
-      - '{''id'': 3, ''label'': ''Workshop''}'
-      - '{''id'': 4, ''label'': ''Wedding''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Party
+      - Conference
+      - Workshop
+      - Wedding
+      - Other
       required: false
     - id: 21
       name: event_budget
@@ -175,9 +175,9 @@ inputSchema:
       hint: Select payment method
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Cash''}'
-      - '{''id'': 2, ''label'': ''Credit''}'
-      - '{''id'': 3, ''label'': ''Check''}'
+      - Cash
+      - Credit
+      - Check
       required: false
     - id: 23
       name: assigned_tool

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,10 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''I understand the risks of refusal of medical treatment'', ''text'':
-        ''I understand the risks of refusal of medical treatment''}'
-      - '{''value'': ''I do not understand the risks of refusal of medical treatment'',
-        ''text'': ''I do not understand the risks of refusal of medical treatment''}'
+      - I understand the risks of refusal of medical treatment
+      - I do not understand the risks of refusal of medical treatment
       required: false
     - id: 4
       name: employer_acknowledgement
@@ -45,10 +32,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''I am the line manager for this employee'', ''text'': ''I am
-        the line manager for this employee''}'
-      - '{''value'': ''I am not the line manager for this employee'', ''text'': ''I
-        am not the line manager for this employee''}'
+      - I am the line manager for this employee
+      - I am not the line manager for this employee
       required: false
     - id: 5
       name: comments

@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male'', ''label'': ''Male''}'
-      - '{''value'': ''female'', ''label'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 5
       name: case_age
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''male'', ''label'': ''Male''}'
-      - '{''value'': ''female'', ''label'': ''Female''}'
+      - Male
+      - Female
       required: true
     - id: 8
       name: patient_age
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''pending'', ''label'': ''Pending''}'
-      - '{''value'': ''positive'', ''label'': ''Positive''}'
-      - '{''value'': ''negative'', ''label'': ''Negative''}'
+      - Pending
+      - Positive
+      - Negative
       required: true
     - id: 11
       name: investigation_date
@@ -107,8 +107,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 15
       name: case_note
@@ -141,8 +141,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''low'', ''label'': ''Low''}'
-      - '{''value'': ''high'', ''label'': ''High''}'
+      - Low
+      - High
       required: true
     - id: 19
       name: case_symptoms
@@ -157,8 +157,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''monkeypox'', ''label'': ''Monkeypox''}'
-      - '{''value'': ''other'', ''label'': ''Other''}'
+      - Monkeypox
+      - Other
       required: true
     - id: 21
       name: case_treatment
@@ -166,8 +166,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: case_outcome
@@ -175,9 +175,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''recovered'', ''label'': ''Recovered''}'
-      - '{''value'': ''deceased'', ''label'': ''Deceased''}'
-      - '{''value'': ''unknown'', ''label'': ''Unknown''}'
+      - Recovered
+      - Deceased
+      - Unknown
       required: true
     - id: 23
       name: contact_symptoms

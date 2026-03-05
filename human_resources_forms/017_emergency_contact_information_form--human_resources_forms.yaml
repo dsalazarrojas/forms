@@ -4,15 +4,15 @@ inputSchema:
     title: emergency_contact_information_form
     pages:
     - id: 1
-      name: emergency_contact_name
-      label: Emergency Contact Name
-      hint: Enter participant's name
+      name: emergency_contact_info_1
+      label: Participant's Emergency Contact 1
+      hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: relationship
-      label: Relationship
+      name: participant_relationship_1
+      label: Relationship to Participant 1
       hint: null
       type: select_one
       options:
@@ -26,36 +26,36 @@ inputSchema:
       - Other
       required: true
     - id: 3
-      name: contact_phone
-      label: Contact Phone
-      hint: Enter phone number
+      name: contact_phone_1
+      label: Emergency Contact 1 Phone
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: contact_email
-      label: Contact Email
-      hint: Enter participant's email
+      name: contact_email_1
+      label: Emergency Contact 1 Email
+      hint: null
       type: email
       options: []
       required: true
     - id: 5
-      name: contact_address
-      label: Contact Address
-      hint: Enter participant's address
+      name: contact_address_1
+      label: Emergency Contact 1 Address
+      hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: emergency_contact_name_2
-      label: Emergency Contact Name
-      hint: Enter emergency contact's name
+      name: emergency_contact_info_2
+      label: Another Emergency Contact
+      hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: relationship_2
-      label: Relationship
+      name: participant_relationship_2
+      label: Relationship to Participant 2
       hint: null
       type: select_one
       options:
@@ -70,22 +70,22 @@ inputSchema:
       required: false
     - id: 8
       name: contact_phone_2
-      label: Contact Phone
-      hint: Enter emergency contact's phone number
+      label: Emergency Contact 2 Phone
+      hint: null
       type: text
       options: []
       required: false
     - id: 9
       name: contact_email_2
-      label: Contact Email
-      hint: Enter emergency contact's email
+      label: Emergency Contact 2 Email
+      hint: null
       type: email
       options: []
       required: false
     - id: 10
       name: contact_address_2
-      label: Contact Address
-      hint: Enter emergency contact's address
+      label: Emergency Contact 2 Address
+      hint: null
       type: text
       options: []
       required: false

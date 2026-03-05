@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Wallet''}'
-      - '{''value'': ''Watch''}'
-      - '{''value'': ''Glasses''}'
+      - Phone
+      - Wallet
+      - Watch
+      - Glasses
       required: false
     - id: 3
       name: belonging_description
@@ -34,9 +34,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Available''}'
-      - '{''value'': ''Missing''}'
-      - '{''value'': ''Damaged''}'
+      - Available
+      - Missing
+      - Damaged
       required: false
     - id: 5
       name: belonging_location
@@ -44,10 +44,10 @@ inputSchema:
       hint: Where the belonging is located
       type: select_one
       options:
-      - '{''value'': ''Room''}'
-      - '{''value'': ''Ward''}'
-      - '{''value'': ''Closet''}'
-      - '{''value'': ''Other''}'
+      - Room
+      - Ward
+      - Closet
+      - Other
       required: false
     - id: 6
       name: belonging_security_measure
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Locked''}'
-      - '{''value'': ''Tagged''}'
-      - '{''value'': ''Identified''}'
+      - Locked
+      - Tagged
+      - Identified
       required: false
     - id: 7
       name: belonging_value

@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''One-time'', ''label'': ''One-time''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''Annually'', ''label'': ''Annually''}'
+      - One-time
+      - Monthly
+      - Annually
       required: true
     - id: 3
       name: campaign
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Campaign 1'', ''label'': ''Campaign 1''}'
-      - '{''value'': ''Campaign 2'', ''label'': ''Campaign 2''}'
-      - '{''value'': ''Campaign 3'', ''label'': ''Campaign 3''}'
+      - Campaign 1
+      - Campaign 2
+      - Campaign 3
       required: true
     - id: 4
       name: amount_frequency_relationship
@@ -36,9 +36,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''One-time Donations'', ''label'': ''One-time Donations''}'
-      - '{''value'': ''Recurring Donations (e.g., monthly, annuity)'', ''label'':
-        ''Recurring Donations (e.g., monthly, annuity)''}'
+      - One-time Donations
+      - Recurring Donations (e.g., monthly, annuity)
       required: true
     - id: 5
       name: gift_frequency
@@ -46,9 +45,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''One-time'', ''label'': ''One-time''}'
-      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''value'': ''Annually'', ''label'': ''Annually''}'
+      - One-time
+      - Monthly
+      - Annually
       required: false
     - id: 6
       name: gift_purpose

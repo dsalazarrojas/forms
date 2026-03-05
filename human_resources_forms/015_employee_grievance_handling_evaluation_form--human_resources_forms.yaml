@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Category'', ''comment'': ''Category''}'
-      - '{''value'': 2, ''label'': ''Subcategory'', ''comment'': ''Subcategory''}'
+      - Category
+      - Subcategory
       required: false
     - id: 3
       name: grievance_description
@@ -60,11 +60,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1, ''label'': ''Not Satisfied'', ''comment'': ''Not Satisfied''}'
-      - '{''value'': 2, ''label'': ''Somewhat Satisfied'', ''comment'': ''Somewhat
-        Satisfied''}'
-      - '{''value'': 3, ''label'': ''Satisfied'', ''comment'': ''Satisfied''}'
-      - '{''value'': 4, ''label'': ''Very Satisfied'', ''comment'': ''Very Satisfied''}'
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Satisfied
+      - Very Satisfied
       required: false
     - id: 9
       name: employee_rating
@@ -114,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''A'', ''comment'': ''A''}'
-      - '{''value'': 2, ''label'': ''B'', ''comment'': ''B''}'
-      - '{''value'': 3, ''label'': ''C'', ''comment'': ''C''}'
-      - '{''value'': 4, ''label'': ''D'', ''comment'': ''D''}'
+      - A
+      - B
+      - C
+      - D
       required: false

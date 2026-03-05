@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: employment_info
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: investment_goals
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: financial_assets
@@ -174,8 +174,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 22
-      name: financial_planner
-      label: Financial Planner
+      name: financial_planner_2
+      label: Financial Planner 2
       hint: null
       type: select_one
       options:
@@ -183,8 +183,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 23
-      name: financial_advisor
-      label: Financial Advisor
+      name: financial_advisor_2
+      label: Financial Advisor 2
       hint: null
       type: select_one
       options:
@@ -192,8 +192,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 24
-      name: financial_institution
-      label: Financial Institution
+      name: financial_institution_2
+      label: Financial Institution 2
       hint: null
       type: select_one
       options:
@@ -201,8 +201,8 @@ inputSchema:
       - 'No'
       required: false
     - id: 25
-      name: other_investments
-      label: Other Investments
+      name: other_investments_2
+      label: Other Investments 2
       hint: null
       type: select_multiple
       options:

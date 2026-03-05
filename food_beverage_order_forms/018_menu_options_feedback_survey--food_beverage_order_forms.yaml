@@ -5,186 +5,93 @@ inputSchema:
     pages:
     - id: 1
       name: main_page
-      label: Main Page
+      label: What would you like to do?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: main_page
-      label: Main Page
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: menu_preferences
-      label: Menu Preferences
-      hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      - Other
+      required: true
+    - id: 2
+      name: vegetarian_options
+      label: Do you prefer vegetarian options?
+      hint: null
+      type: select_multiple
+      options:
+      - Vegetarian option 1
+      - Vegetarian option 2
+      - 'No'
+      required: true
+    - id: 3
+      name: visit_frequency
+      label: How many times have you visited our restaurant in the past month?
+      hint: null
+      type: number
+      options: []
+      required: true
     - id: 4
-      name: menu_preferences
-      label: Menu Preferences
+      name: contact_info
+      label: Contact Info
       hint: null
-      type: text
+      type: email
       options: []
-      required: false
+      required: true
     - id: 5
-      name: menu_preferences
-      label: Menu Preferences
+      name: promo_email
+      label: Do you want to receive promotional emails from us?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
     - id: 6
-      name: menu_preferences
-      label: Menu Preferences
+      name: menu_rating
+      label: How would you rate our menu?
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Rating 1
+      - Rating 2
+      - Poor
+      - Excellent
+      required: true
     - id: 7
-      name: menu_preferences
-      label: Menu Preferences
+      name: phone_number
+      label: What is your phone number?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 8
-      name: menu_preferences
-      label: Menu Preferences
+      name: allergies
+      label: Do you have any food allergies?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Allergies 1
+      - Allergies 2
+      - Allergies 3
       required: false
     - id: 9
-      name: menu_preferences
-      label: Menu Preferences
+      name: food_taste
+      label: How would you rate the taste of our food?
       hint: null
-      type: text
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: menu_preferences
-      label: Menu Preferences
+      name: additional_comments
+      label: Do you have any additional comments or feedback?
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 11
-      name: menu_preferences
-      label: Menu Preferences
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: menu_preferences
-      label: Menu Preferences
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 14
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 16
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: contact_info
-      label: Contact Info
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
       name: submit
       label: Submit
       hint: null
       type: text
       options: []
-      required: false
+      required: true

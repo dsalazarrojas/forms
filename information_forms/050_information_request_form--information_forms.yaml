@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''street'', ''label'': ''Street''}'
-      - '{''value'': ''city'', ''label'': ''City''}'
-      - '{''value'': ''state'', ''label'': ''State''}'
-      - '{''value'': ''zip'', ''label'': ''Zip''}'
+      - Street
+      - City
+      - State
+      - Zip
       required: false
     - id: 5
       name: select_multiple
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''address'', ''label'': ''Address''}'
-      - '{''value'': ''phone'', ''label'': ''Phone''}'
-      - '{''value'': ''email'', ''label'': ''Email''}'
+      - Address
+      - Phone
+      - Email
       required: false
     - id: 6
       name: date_time

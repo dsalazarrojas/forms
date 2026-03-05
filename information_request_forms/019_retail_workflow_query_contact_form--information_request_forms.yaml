@@ -9,10 +9,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
-      - '{''id'': 2, ''label'': ''Service'', ''value'': ''service''}'
-      - '{''id'': 3, ''label'': ''Product'', ''value'': ''product''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      - Sales
+      - Service
+      - Product
+      - Other
       required: false
     - id: 2
       name: customer_name
@@ -27,8 +27,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email''}'
+      - Phone
+      - Email
       required: false
     - id: 4
       name: query_details
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
-      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
-      - '{''id'': 3, ''label'': ''Jim'', ''value'': ''jim''}'
+      - John
+      - Jane
+      - Jim
       required: false
     - id: 8
       name: email

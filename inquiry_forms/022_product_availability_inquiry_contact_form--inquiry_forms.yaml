@@ -37,10 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
-      - '4'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: availability_status_label
@@ -83,9 +82,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: contact_method
@@ -93,9 +92,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: customer_message
@@ -147,7 +146,7 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: availability_status_label
+      name: availability_status_label_2
       label: Availability Status Label
       hint: Availability status label
       type: text
@@ -161,8 +160,8 @@ inputSchema:
       options: []
       required: false
     - id: 21
-      name: availability_status
-      label: Availability
+      name: availability_status_2
+      label: Availability Status 2
       hint: null
       type: select_one
       options:
@@ -172,29 +171,29 @@ inputSchema:
       - Discontinued
       required: false
     - id: 22
-      name: availability_status_label
-      label: Availability Status Label
+      name: availability_status_label_3
+      label: Availability Status Label 3
       hint: Availability status label
       type: text
       options: []
       required: false
     - id: 23
-      name: availability_status_options
-      label: Availability Status Options
+      name: availability_status_options_2
+      label: Availability Status Options 2
       hint: Availability status options
       type: text
       options: []
       required: false
     - id: 24
       name: product_description_label
-      label: Product Description
+      label: Product Description Label
       hint: Product description label
       type: text
       options: []
       required: false
     - id: 25
-      name: product_description
-      label: Product Description
+      name: product_description_2
+      label: Product Description 2
       hint: Product description
       type: text
       options: []

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Office 1''}'
-      - '{''id'': 2, ''value'': ''Office 2''}'
+      - Office 1
+      - Office 2
       required: false
     - id: 3
       name: reason_for_replacement_request
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''John Doe''}'
-      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 10
       name: assigned_user_note
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Pending''}'
-      - '{''id'': 2, ''value'': ''In Progress''}'
-      - '{''id'': 3, ''value'': ''Completed''}'
+      - Pending
+      - In Progress
+      - Completed
       required: false
     - id: 12
       name: status_note
@@ -121,8 +121,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''John Doe''}'
-      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      - John Doe
+      - Jane Doe
       required: true
     - id: 17
       name: reviewer_name_note
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Approved''}'
-      - '{''id'': 2, ''value'': ''Rejected''}'
-      - '{''id'': 4, ''value'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 19
       name: submission_status_notes
@@ -175,8 +175,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''User 1''}'
-      - '{''id'': 2, ''value'': ''User 2''}'
+      - User 1
+      - User 2
       required: true
     - id: 24
       name: submitted_by_note

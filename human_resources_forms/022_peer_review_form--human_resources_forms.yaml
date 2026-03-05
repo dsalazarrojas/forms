@@ -4,196 +4,75 @@ inputSchema:
     title: Peer Review Form
     pages:
     - id: 1
-      name: review_form
-      label: review_form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: reviewer_name
-      label: reviewer_name
-      hint: null
+      label: Reviewer Name
+      hint: Please enter your name
       type: text
       options: []
-      required: false
-    - id: 3
+      required: true
+    - id: 2
       name: review_date
-      label: review_date
-      hint: null
+      label: Review Date
+      hint: Date of the review
       type: date
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: rating
+      label: Rating
+      hint: Rate the submission out of 5
+      type: select_one
+      options:
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
     - id: 4
-      name: review_time
-      label: review_time
-      hint: null
-      type: time
+      name: comments
+      label: Comments
+      hint: Add any comments
+      type: note
       options: []
       required: false
     - id: 5
-      name: review_rating
-      label: rating
-      hint: null
-      type: select_one
-      options:
-      - rating_1
-      - rating_2
-      - rating_3
-      - rating_4
-      - rating_5
-      required: false
-    - id: 6
-      name: review_comment
-      label: comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 7
       name: reviewer_email
-      label: email
-      hint: null
+      label: Reviewer Email
+      hint: Enter your email
       type: email
       options: []
-      required: false
-    - id: 8
-      name: reviewer_phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: reviewed_work
-      label: work
-      hint: null
-      type: select_multiple
-      options:
-      - work_1
-      - work_2
-      - work_3
-      - work_4
-      required: false
-    - id: 10
-      name: reviewed_by
-      label: reviewed_by
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: review_subject
-      label: subject
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 6
       name: submission_date
-      label: submission_date
-      hint: null
+      label: Submission Date
+      hint: Date of the submission
       type: date
       options: []
-      required: false
-    - id: 13
-      name: review_status
-      label: status
-      hint: null
-      type: select_one
-      options:
-      - status_1
-      - status_2
-      - status_3
-      required: false
-    - id: 14
-      name: reviewer_note
-      label: reviewer_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 15
+      required: true
+    - id: 7
       name: submission_status
-      label: submission_status
-      hint: null
+      label: Submission Status
+      hint: Status of the submission
       type: select_one
       options:
-      - submission_status_1
-      - submission_status_2
-      - submission_status_3
-      required: false
-    - id: 16
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: submission_status_note
-      label: submission_status_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 19
-      name: reviewer_comments
-      label: reviewer_comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: submission_status_note
-      label: submission_status_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: submission_date
-      label: submission_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 22
-      name: submission_time
-      label: submission_time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: submission_status_note
-      label: submission_status_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
+      - pending
+      - approved
+      - rejected
+      required: true
+    - id: 8
+      name: work_reviewed
+      label: Work Reviewed
+      hint: Choose the work being reviewed
+      type: select_multiple
+      options:
+      - work 1
+      - work 2
+      - work 3
+      - work 4
+      required: true
+    - id: 9
       name: reviewer_signature
-      label: reviewer_signature
+      label: Reviewer Signature
       hint: null
       type: text
       options: []
-      required: false
-    - id: 25
-      name: reviewed_work
-      label: work
-      hint: null
-      type: select_multiple
-      options:
-      - work_1
-      - work_2
-      - work_3
-      - work_4
       required: false

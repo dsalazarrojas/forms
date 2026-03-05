@@ -144,7 +144,7 @@ inputSchema:
       options:
       - Yes - In Honor
       - Yes - In Memory
-      - false
+      - 'False'
       required: true
     - id: 17
       name: honoree_name
@@ -159,8 +159,8 @@ inputSchema:
       hint: Should family be notified of tribute
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: notification_address
@@ -175,8 +175,8 @@ inputSchema:
       hint: Will your employer match donation
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 21
@@ -192,8 +192,8 @@ inputSchema:
       hint: Would you like to volunteer
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: volunteer_areas
@@ -244,8 +244,8 @@ inputSchema:
       hint: Are you a returning donor
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 27
       name: additional_comments
@@ -260,8 +260,8 @@ inputSchema:
       hint: Do you need a tax receipt
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 29
       name: donor_signature

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -90,12 +79,12 @@ inputSchema:
       hint: What group are you in
       type: select_one
       options:
-        - Healthcare worker
-        - Essential worker
-        - Age 65 or older
-        - Age 50-64
-        - Underlying medical condition
-        - General population
+      - Healthcare worker
+      - Essential worker
+      - Age 65 or older
+      - Age 50-64
+      - Underlying medical condition
+      - General population
       required: true
     - id: 12
       name: waitlist_age_group
@@ -103,11 +92,11 @@ inputSchema:
       hint: Your age category
       type: select_one
       options:
-        - Under 18
-        - 18-49
-        - 50-64
-        - 65-74
-        - 75+
+      - Under 18
+      - 18-49
+      - 50-64
+      - 65-74
+      - 75+
       required: true
     - id: 13
       name: waitlist_medical_conditions
@@ -129,11 +118,11 @@ inputSchema:
       hint: Do you have health insurance
       type: select_one
       options:
-        - Yes, insured
-        - No, uninsured
-        - Medicare
-        - Medicaid
-        - Other
+      - Yes, insured
+      - No, uninsured
+      - Medicare
+      - Medicaid
+      - Other
       required: false
     - id: 16
       name: waitlist_primary_provider
@@ -141,9 +130,9 @@ inputSchema:
       hint: Regular doctor or clinic
       type: select_one
       options:
-        - Yes
-        - No
-        - Unsure
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 17
       name: waitlist_vaccine_history_header
@@ -165,14 +154,14 @@ inputSchema:
       hint: What vaccine did you receive
       type: select_one
       options:
-        - Pfizer-BioNTech
-        - Moderna
-        - Johnson & Johnson
-        - AstraZeneca
-        - Novavax
-        - Mixed types
-        - Unsure
-        - Have not been vaccinated
+      - Pfizer-BioNTech
+      - Moderna
+      - Johnson & Johnson
+      - AstraZeneca
+      - Novavax
+      - Mixed types
+      - Unsure
+      - Have not been vaccinated
       required: false
     - id: 20
       name: waitlist_covid_status_header
@@ -187,9 +176,9 @@ inputSchema:
       hint: Any previous COVID-19 infection
       type: select_one
       options:
-        - Yes
-        - No
-        - Unsure
+      - 'True'
+      - 'False'
+      - Unsure
       required: true
     - id: 22
       name: waitlist_covid_date
@@ -211,11 +200,11 @@ inputSchema:
       hint: How should we notify you
       type: select_one
       options:
-        - Email
-        - Phone Call
-        - Text Message
-        - Mail
-        - No preference
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - No preference
       required: true
     - id: 25
       name: waitlist_confirmation
@@ -223,6 +212,6 @@ inputSchema:
       hint: All provided information is correct and true
       type: select_one
       options:
-        - Confirmed accurate
-        - Needs correction
+      - Confirmed accurate
+      - Needs correction
       required: true

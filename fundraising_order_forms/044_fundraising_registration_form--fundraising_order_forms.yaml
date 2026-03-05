@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Weekly''}'
-      - '{''id'': 2, ''name'': ''Monthly''}'
-      - '{''id'': 3, ''name'': ''One-time''}'
+      - Weekly
+      - Monthly
+      - One-time
       required: true
     - id: 5
       name: donation_method
@@ -40,8 +40,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Online Payments''}'
-      - '{''id'': 2, ''name'': ''Offline Payments''}'
+      - Online Payments
+      - Offline Payments
       required: true
     - id: 6
       name: payment_date

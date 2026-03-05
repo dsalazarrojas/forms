@@ -4,198 +4,98 @@ inputSchema:
     title: Employee Onboarding Experience Survey
     pages:
     - id: 1
-      name: employee_onboarding_experience_survey
-      label: Employee Onboarding Experience Survey
+      name: first_impression
+      label: First impression of company culture
       hint: null
       type: text
       options: []
       required: true
     - id: 2
-      name: new_hire_survey
-      label: New Hire Survey
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 3
-      name: feedback_on_the_new_hire_experience
-      label: Feedback on the New Hire Experience
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 4
-      name: department
-      label: Department
+      name: onboarding_process
+      label: Onboarding process
       hint: null
       type: select_one
       options:
-      - HR
-      - Marketing
-      - Sales
+      - Excellent
+      - Good
+      - Fair
       required: true
-    - id: 5
-      name: supervisor_name
-      label: Supervisor Name
+    - id: 3
+      name: onboarding_process_gaps
+      label: Gaps in the onboarding process
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: suggestions
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
     - id: 6
-      name: date_of_hire
-      label: Date of Hire
-      hint: null
-      type: date
-      options: []
-      required: true
-    - id: 7
-      name: time_of_hire
-      label: Time of Hire
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 8
-      name: onboarding_process_rating
-      label: Onboarding Process Rating
+      name: efficiency_effectiveness
+      label: Efficiency and effectiveness
       hint: null
       type: number
       options: []
       required: true
-    - id: 9
-      name: onboarding_process_improvements
-      label: Onboarding Process Improvements
+    - id: 7
+      name: onboarding_process_gaps_2
+      label: Gaps in the onboarding process (2)
       hint: null
       type: text
       options: []
       required: true
+    - id: 8
+      name: suggestions_2
+      label: Suggestions for improvement (2)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: overall_experience_2
+      label: Overall experience (2)
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
     - id: 10
-      name: onboarding_process_gaps
-      label: Onboarding Process Gaps
+      name: issues_challenges
+      label: Issues and challenges
       hint: null
       type: text
       options: []
       required: true
     - id: 11
-      name: employee_experience
-      label: Employee Experience
+      name: suggestions_3
+      label: Suggestions for improvement (3)
       hint: null
-      type: note
+      type: text
       options: []
       required: true
     - id: 12
-      name: suggestions_for_improvement
-      label: Suggestions for Improvement
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 13
-      name: overall_onboarding_experience
-      label: Overall Onboarding Experience
+      name: quality
+      label: Quality of the onboarding process
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 14
-      name: onboarding_process_rating
-      label: Onboarding Process Rating
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 15
-      name: onboarding_process_improvements
-      label: Onboarding Process Improvements
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 16
-      name: onboarding_process_gaps
-      label: Onboarding Process Gaps
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: employee_experience
-      label: Employee Experience
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 18
-      name: suggestions_for_improvement
-      label: Suggestions for Improvement
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: overall_onboarding_experience
-      label: Overall Onboarding Experience
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 20
-      name: onboarding_process_rating
-      label: Onboarding Process Rating
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      required: true
-    - id: 21
-      name: onboarding_process_improvements
-      label: Onboarding Process Improvements
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 22
-      name: onboarding_process_gaps
-      label: Onboarding Process Gaps
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 23
-      name: employee_experience
-      label: Employee Experience
-      hint: null
-      type: note
-      options: []
-      required: true
-    - id: 24
-      name: suggestions_for_improvement
-      label: Suggestions for Improvement
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 25
-      name: onboarding_process_rating
-      label: Onboarding Process Rating
-      hint: null
-      type: select_one
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
+      - Excellent
+      - Good
+      - Fair
       required: true

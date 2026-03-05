@@ -1,342 +1,331 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Chronic Disease Prevention Policy Evaluation Form
     pages:
-      - id: 1
-        name: respondent_name
-        label: Full Name
-        hint: Optional - your name
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: email_address
-        label: Email Address
-        hint: For survey follow-up
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: organization
-        label: Organization
-        hint: Name of your organization
-        type: text
-        options: []
-        required: false
-      - id: 4
-        name: organization_type
-        label: Organization Type
-        hint: What type of organization
-        type: select_one
-        options:
-          - Government Agency
-          - Healthcare Organization
-          - Non-Profit NGO
-          - Academic Institution
-          - Private Company
-          - Community Organization
-          - Other
-        required: true
-      - id: 5
-        name: role
-        label: Your Role
-        hint: Your position or title
-        type: select_one
-        options:
-          - Policy Maker
-          - Healthcare Provider
-          - Public Health Professional
-          - Researcher
-          - Administrator
-          - Community Advocate
-          - Other
-        required: true
-      - id: 6
-        name: section_respondent_info
-        label: -- Respondent Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: policy_awareness
-        label: Policy Awareness
-        hint: How aware are you of current policies
-        type: select_one
-        options:
-          - Very aware
-          - Somewhat aware
-          - Neutral
-          - Not very aware
-          - Not aware at all
-        required: true
-      - id: 8
-        name: policy_types_familiar
-        label: Policy Types Familiar With
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Screening programs
-          - Vaccination policies
-          - Lifestyle intervention programs
-          - Healthcare access policies
-          - Insurance coverage mandates
-          - Public health campaigns
-          - School-based programs
-          - Workplace wellness policies
-          - None
-        required: true
-      - id: 9
-        name: section_policy_awareness
-        label: -- Policy Awareness --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: policy_effectiveness
-        label: Policy Effectiveness
-        hint: How effective are current policies
-        type: select_one
-        options:
-          - Very effective
-          - Somewhat effective
-          - Neutral
-          - Not very effective
-          - Not effective at all
-        required: true
-      - id: 11
-        name: policy_access
-        label: Policy Accessibility
-        hint: How accessible are policies to those who need them
-        type: select_one
-        options:
-          - Very accessible
-          - Somewhat accessible
-          - Neutral
-          - Not very accessible
-          - Not accessible at all
-        required: true
-      - id: 12
-        name: policy_equity
-        label: Health Equity Impact
-        hint: Do policies address health disparities
-        type: select_one
-        options:
-          - Very well
-          - Somewhat well
-          - Neutral
-          - Not very well
-          - Not at all
-        required: true
-      - id: 13
-        name: section_policy_evaluation
-        label: -- Policy Evaluation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: implementation_barriers
-        label: Implementation Barriers
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Lack of funding
-          - Insufficient staffing
-          - Limited resources
-          - Poor coordination
-          - Lack of training
-          - Resistance to change
-          - Cultural barriers
-          - Language barriers
-          - Geographic barriers
-          - None
-        required: true
-      - id: 15
-        name: stakeholder_engagement
-        label: Stakeholder Engagement
-        hint: How well are stakeholders engaged
-        type: select_one
-        options:
-          - Very well engaged
-          - Somewhat engaged
-          - Neutral
-          - Not very engaged
-          - Not engaged at all
-        required: true
-      - id: 16
-        name: community_involvement
-        label: Community Involvement
-        hint: How involved is the community
-        type: select_one
-        options:
-          - Very involved
-          - Somewhat involved
-          - Neutral
-          - Not very involved
-          - Not involved at all
-        required: true
-      - id: 17
-        name: section_implementation
-        label: -- Implementation --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 18
-        name: data_collection
-        label: Data Collection Quality
-        hint: How good is current data collection
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 19
-        name: outcome_measurement
-        label: Outcome Measurement
-        hint: How well are outcomes measured
-        type: select_one
-        options:
-          - Very well
-          - Somewhat well
-          - Neutral
-          - Not very well
-          - Not at all
-        required: true
-      - id: 20
-        name: evidence_based
-        label: Evidence-Based Approach
-        hint: Are policies based on evidence
-        type: select_one
-        options:
-          - Always
-          - Most of the time
-          - Sometimes
-          - Rarely
-          - Never
-        required: true
-      - id: 21
-        name: section_data_and_evidence
-        label: -- Data and Evidence --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 22
-        name: funding_adequacy
-        label: Funding Adequacy
-        hint: Is funding sufficient
-        type: select_one
-        options:
-          - Very sufficient
-          - Somewhat sufficient
-          - Neutral
-          - Not very sufficient
-          - Not sufficient at all
-        required: true
-      - id: 23
-        name: sustainability
-        label: Program Sustainability
-        hint: How sustainable are current programs
-        type: select_one
-        options:
-          - Very sustainable
-          - Somewhat sustainable
-          - Neutral
-          - Not very sustainable
-          - Not sustainable at all
-        required: true
-      - id: 24
-        name: section_resources
-        label: -- Resources --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 25
-        name: priority_areas
-        label: Priority Areas for Improvement
-        hint: Select top priorities
-        type: select_multiple
-        options:
-          - Early detection and screening
-          - Patient education
-          - Provider training
-          - Community outreach
-          - Technology integration
-          - Care coordination
-          - Health equity
-          - Policy enforcement
-          - Research and evaluation
-        required: true
-      - id: 26
-        name: recommendations
-        label: Key Recommendations
-        hint: What changes would you recommend
-        type: text
-        options: []
-        required: false
-      - id: 27
-        name: section_recommendations
-        label: -- Recommendations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 28
-        name: successful_examples
-        label: Successful Policy Examples
-        hint: Share what has worked well
-        type: text
-        options: []
-        required: false
-      - id: 29
-        name: lessons_learned
-        label: Lessons Learned
-        hint: What lessons have been learned
-        type: text
-        options: []
-        required: false
-      - id: 30
-        name: future_directions
-        label: Future Directions
-        hint: Where should policy focus next
-        type: text
-        options: []
-        required: false
-      - id: 31
-        name: section_additional
-        label: -- Additional Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 32
-        name: willing_to_participate
-        label: Willing to Participate Further
-        hint: Would you participate in follow-up
-        type: select_one
-        options:
-          - Yes definitely
-          - Yes probably
-          - Maybe
-          - Probably not
-          - No
-        required: true
+    - id: 1
+      name: respondent_name
+      label: Full Name
+      hint: Optional - your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For survey follow-up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization
+      type: select_one
+      options:
+      - Government Agency
+      - Healthcare Organization
+      - Non-Profit NGO
+      - Academic Institution
+      - Private Company
+      - Community Organization
+      - Other
+      required: true
+    - id: 5
+      name: role
+      label: Your Role
+      hint: Your position or title
+      type: select_one
+      options:
+      - Policy Maker
+      - Healthcare Provider
+      - Public Health Professional
+      - Researcher
+      - Administrator
+      - Community Advocate
+      - Other
+      required: true
+    - id: 6
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: policy_awareness
+      label: Policy Awareness
+      hint: How aware are you of current policies
+      type: select_one
+      options:
+      - Very aware
+      - Somewhat aware
+      - Neutral
+      - Not very aware
+      - Not aware at all
+      required: true
+    - id: 8
+      name: policy_types_familiar
+      label: Policy Types Familiar With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Screening programs
+      - Vaccination policies
+      - Lifestyle intervention programs
+      - Healthcare access policies
+      - Insurance coverage mandates
+      - Public health campaigns
+      - School-based programs
+      - Workplace wellness policies
+      - None
+      required: true
+    - id: 9
+      name: section_policy_awareness
+      label: -- Policy Awareness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: policy_effectiveness
+      label: Policy Effectiveness
+      hint: How effective are current policies
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Neutral
+      - Not very effective
+      - Not effective at all
+      required: true
+    - id: 11
+      name: policy_access
+      label: Policy Accessibility
+      hint: How accessible are policies to those who need them
+      type: select_one
+      options:
+      - Very accessible
+      - Somewhat accessible
+      - Neutral
+      - Not very accessible
+      - Not accessible at all
+      required: true
+    - id: 12
+      name: policy_equity
+      label: Health Equity Impact
+      hint: Do policies address health disparities
+      type: select_one
+      options:
+      - Very well
+      - Somewhat well
+      - Neutral
+      - Not very well
+      - Not at all
+      required: true
+    - id: 13
+      name: section_policy_evaluation
+      label: -- Policy Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: implementation_barriers
+      label: Implementation Barriers
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of funding
+      - Insufficient staffing
+      - Limited resources
+      - Poor coordination
+      - Lack of training
+      - Resistance to change
+      - Cultural barriers
+      - Language barriers
+      - Geographic barriers
+      - None
+      required: true
+    - id: 15
+      name: stakeholder_engagement
+      label: Stakeholder Engagement
+      hint: How well are stakeholders engaged
+      type: select_one
+      options:
+      - Very well engaged
+      - Somewhat engaged
+      - Neutral
+      - Not very engaged
+      - Not engaged at all
+      required: true
+    - id: 16
+      name: community_involvement
+      label: Community Involvement
+      hint: How involved is the community
+      type: select_one
+      options:
+      - Very involved
+      - Somewhat involved
+      - Neutral
+      - Not very involved
+      - Not involved at all
+      required: true
+    - id: 17
+      name: section_implementation
+      label: -- Implementation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: data_collection
+      label: Data Collection Quality
+      hint: How good is current data collection
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: outcome_measurement
+      label: Outcome Measurement
+      hint: How well are outcomes measured
+      type: select_one
+      options:
+      - Very well
+      - Somewhat well
+      - Neutral
+      - Not very well
+      - Not at all
+      required: true
+    - id: 20
+      name: evidence_based
+      label: Evidence-Based Approach
+      hint: Are policies based on evidence
+      type: select_one
+      options:
+      - Always
+      - Most of the time
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 21
+      name: section_data_and_evidence
+      label: -- Data and Evidence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: funding_adequacy
+      label: Funding Adequacy
+      hint: Is funding sufficient
+      type: select_one
+      options:
+      - Very sufficient
+      - Somewhat sufficient
+      - Neutral
+      - Not very sufficient
+      - Not sufficient at all
+      required: true
+    - id: 23
+      name: sustainability
+      label: Program Sustainability
+      hint: How sustainable are current programs
+      type: select_one
+      options:
+      - Very sustainable
+      - Somewhat sustainable
+      - Neutral
+      - Not very sustainable
+      - Not sustainable at all
+      required: true
+    - id: 24
+      name: section_resources
+      label: -- Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: priority_areas
+      label: Priority Areas for Improvement
+      hint: Select top priorities
+      type: select_multiple
+      options:
+      - Early detection and screening
+      - Patient education
+      - Provider training
+      - Community outreach
+      - Technology integration
+      - Care coordination
+      - Health equity
+      - Policy enforcement
+      - Research and evaluation
+      required: true
+    - id: 26
+      name: recommendations
+      label: Key Recommendations
+      hint: What changes would you recommend
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: successful_examples
+      label: Successful Policy Examples
+      hint: Share what has worked well
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: lessons_learned
+      label: Lessons Learned
+      hint: What lessons have been learned
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: future_directions
+      label: Future Directions
+      hint: Where should policy focus next
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: section_additional
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: willing_to_participate
+      label: Willing to Participate Further
+      hint: Would you participate in follow-up
+      type: select_one
+      options:
+      - Yes definitely
+      - Yes probably
+      - Maybe
+      - Probably not
+      - 'False'
+      required: true

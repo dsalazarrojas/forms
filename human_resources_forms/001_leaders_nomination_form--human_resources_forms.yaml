@@ -15,229 +15,203 @@ inputSchema:
     title: Leaders Nomination Form
     pages:
     - id: 1
-      name: leaders_nomination_form_page_1
-      label: Leaders Nomination Form
+      name: leader_name
+      label: Leader's Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: leaders_nomination_form_page_2
-      label: Nomination Information
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: leaders_nomination_form_page_3
+      name: leadership_position
       label: Leadership Position
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 3
+      name: leader_expertise
+      label: Leader's Expertise
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 4
-      name: leaders_nomination_form_page_4
-      label: Leadership Expertise
+      name: nomination_justification
+      label: Nomination Justification
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: leaders_nomination_form_page_5
-      label: Nomination Justification
+      name: leader_contact
+      label: Leader's Contact Info
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: leaders_nomination_form_page_6
-      label: Nominee Bio
+      name: nomination_reasons
+      label: Nomination Reasons
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: leaders_nomination_form_page_7
-      label: Nominee Contact
+      name: submission_date
+      label: Form Submission Date
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 8
-      name: leaders_nomination_form_page_8
-      label: Nomination Justification
+      name: form_submission_time
+      label: Form Submission Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 9
-      name: leaders_nomination_form_page_9
-      label: Nominee Leadership Position
+      name: leader_strengths
+      label: Leader's Strengths
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: leaders_nomination_form_page_10
-      label: Nominee Expertise
+      name: leader_areas_of_improvement
+      label: Leader's Areas of Improvement
       hint: null
       type: text
       options: []
       required: false
     - id: 11
-      name: leaders_nomination_form_page_11
-      label: Nomination Status
+      name: nomination_review
+      label: Nomination Review
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
+      - Approved
+      - Rejected
+      - Pending
+      required: true
     - id: 12
-      name: leaders_nomination_form_page_12
+      name: form_submission
       label: Form Submission
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
+      - Submitted
+      - Rejected
+      - Pending
+      required: true
     - id: 13
-      name: form_submission_page_13
-      label: Nomination Status
-      hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
-    - id: 14
-      name: form_submission_page_14
+      name: nomination_type
       label: Nomination Type
       hint: null
       type: select_one
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
-    - id: 15
-      name: form_submission_page_15
-      label: Form Submission Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: form_submission_page_16
-      label: Form Submission Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: form_submission_page_17
+      - Type 1
+      - Type 2
+      - Type 3
+      - Type 4
+      required: true
+    - id: 14
+      name: nomination_status
       label: Nomination Status
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - Active
+      - Inactive
+      - Pending
+      required: true
+    - id: 15
+      name: leader_bio
+      label: Leader's Bio
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: leader_nomination_form
+      label: Leader's Nomination Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 17
+      name: leader_leadership_position
+      label: Leader's Leadership Position
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 18
-      name: form_submission_page_18
-      label: Nomination Type
+      name: leader_expertise_area
+      label: Leader's Expertise Area
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      type: text
+      options: []
       required: false
     - id: 19
-      name: form_submission_page_19
-      label: Form Submission
+      name: submission_review
+      label: Form Submission Review
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
+      - Reviewed
+      - Unreviewed
+      - Rejected
+      required: true
     - id: 20
-      name: form_submission_page_20
-      label: Form Submission
+      name: submission_type
+      label: Form Submission Type
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
+      - Type 1
+      - Type 2
+      - Type 3
+      - Type 4
+      required: true
     - id: 21
-      name: form_submission_page_21
-      label: Leaders Nomination Form
+      name: leader_contact_info
+      label: Leader Contact Info
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 22
-      name: leaders_nomination_form
-      label: Leaders Nomination Form
+      name: form_submission_page_1
+      label: Form Submission Page 1
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      type: text
+      options: []
       required: false
     - id: 23
-      name: leaders_nomination_form
-      label: Leaders Nomination Form
+      name: leader_organizational_position
+      label: Leader's Organizational Position
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      type: text
+      options: []
       required: false
     - id: 24
-      name: form_submission_page_24
-      label: Nomination Status
+      name: form_submission_page_2
+      label: Form Submission Page 2
       hint: null
       type: select_multiple
       options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 25
-      name: form_submission_page_25
-      label: Nomination Type
+      name: leaders_nominated
+      label: Leaders Nominated
       hint: null
-      type: select_multiple
-      options:
-      - Option 1
-      - Option 2
-      - Option 3
-      - Option 4
-      required: false
+      type: text
+      options: []
+      required: true

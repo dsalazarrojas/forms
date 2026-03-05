@@ -18,65 +18,55 @@ inputSchema:
       options: []
       required: false
     - id: 3
-      name: activities
-      label: Activities
-      hint: null
-      type: select_one
-      options:
-      - Activities 1
-      - Activities 2
-      - Activities 3
-      required: false
-    - id: 4
-      name: feedback
-      label: Feedback
+      name: session_notes
+      label: Session Notes
       hint: null
       type: text
       options: []
-      required: false
-    - id: 5
-      name: signature
-      label: Signature
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
+    - id: 5
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 6
       name: supervisee_signature
       label: Supervisee Signature
       hint: null
-      type: note
+      type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: supervisor_signature
-      label: Supervisor Signature
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
       name: date_submitted
       label: Date Submitted
       hint: null
       type: date
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 8
       name: created_by
       label: Created By
       hint: null
       type: text
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 9
       name: assigned_to
       label: Assigned to
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 10
       name: status
       label: Status
       hint: null
@@ -85,101 +75,52 @@ inputSchema:
       - Approved
       - In Progress
       - Completed
-      required: false
-    - id: 12
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+      required: true
+    - id: 11
       name: submitted_by
       label: Submitted by
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 15
-      name: phone
-      label: Phone
+      required: true
+    - id: 12
+      name: supervisor_comments
+      label: Supervisor Comments
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 13
+      name: supervisee_comments
+      label: Supervisee Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: true
     - id: 16
-      name: comments2
-      label: Comments 2
+      name: comments_1
+      label: Comments 1
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: comments_3
-      label: Comments 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: comments_4
-      label: Comments 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: comments_5
-      label: Comments 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: comments_6
-      label: Comments 6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: comments_7
-      label: Comments 7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: comments_8
-      label: Comments 8
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: created_by
-      label: Created By
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: assigned_to
-      label: Assigned to
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: status
-      label: Status
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []

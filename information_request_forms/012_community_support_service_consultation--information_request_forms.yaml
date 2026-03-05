@@ -1,65 +1,64 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Community Support Service Consultation
     pages:
-      - id: 1
-        name: requester_name
-        label: Requester full name
-        hint: Individual or organization requesting support
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: contact_email
-        label: Contact email
-        hint: For scheduling and follow up
-        type: email
-        options: []
-        required: true
-      - id: 3
-        name: service_requested
-        label: Service requested
-        hint: Select the type of support needed
-        type: select_one
-        options: [Counseling, Case management, Benefits assistance, Emergency support, Other]
-        required: true
-      - id: 4
-        name: brief_description
-        label: Brief description of needs
-        hint: Provide context for the request
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: preferred_contact_time
-        label: Preferred contact time
-        hint: Best day and time to reach you
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: urgency
-        label: Urgency of request
-        hint: Select the urgency for response
-        type: select_one
-        options: [Routine, Urgent, Immediate]
-        required: true
-      - id: 7
-        name: consent_info_sharing
-        label: Consent to share information with partners
-        hint: For coordinated support
-        type: select_one
-        options: [Yes, No]
-        required: false
+    - id: 1
+      name: requester_name
+      label: Requester full name
+      hint: Individual or organization requesting support
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For scheduling and follow up
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: service_requested
+      label: Service requested
+      hint: Select the type of support needed
+      type: select_one
+      options:
+      - Counseling
+      - Case management
+      - Benefits assistance
+      - Emergency support
+      - Other
+      required: true
+    - id: 4
+      name: brief_description
+      label: Brief description of needs
+      hint: Provide context for the request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: Best day and time to reach you
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: urgency
+      label: Urgency of request
+      hint: Select the urgency for response
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - Immediate
+      required: true
+    - id: 7
+      name: consent_info_sharing
+      label: Consent to share information with partners
+      hint: For coordinated support
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

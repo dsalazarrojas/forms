@@ -1,156 +1,145 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contraceptive Use Assessment
     pages:
-      - id: 1
-        name: assessment_intro_header
-        label: -- Contraceptive Use Assessment Questionnaire --
-        hint: Helping us understand access and usage patterns
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: age_group_respondent
-        label: Your Age Group
-        hint: null
-        type: select_one
-        options:
-          - Under 18
-          - 18-24
-          - 25-34
-          - 35-44
-          - 45 plus
-        required: true
-      - id: 3
-        name: current_usage_status_header
-        label: -- Current Contraceptive Status --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 4
-        name: currently_using_contraception
-        label: Are you currently using any form of contraception
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 5
-        name: current_primary_method
-        label: If YES, what is your primary method
-        hint: Select the one you use most consistently
-        type: select_one
-        options:
-          - Oral Pill
-          - Barrier Method (Condoms)
-          - LARC (IUD or Implant)
-          - Sterilization (Tubal or Vasectomy)
-          - Natural Family Planning
-          - Other
-          - N/A (Not currently using)
-        required: true
-      - id: 6
-        name: length_of_current_use
-        label: How long have you used this method
-        hint: null
-        type: select_one
-        options:
-          - Less than 6 months
-          - 6 months to 2 years
-          - More than 2 years
-          - N/A
-        required: true
-      - id: 7
-        name: barriers_and_reasons_header
-        label: -- Barriers and Motivations --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 8
-        name: primary_reason_for_method
-        label: What is your primary motivation for using contraception
-        hint: null
-        type: select_multiple
-        options:
-          - Preventing Pregnancy
-          - Regulating Menstrual Cycle
-          - Managing Skin/Acne
-          - Reducing Period Pain
-          - Treating a medical condition (Endo/PCOS)
-        required: false
-      - id: 9
-        name: reasons_for_non_use
-        label: If NOT using, what are the primary reasons
-        hint: Select all that apply
-        type: select_multiple
-        options:
-          - Currently pregnant or trying to conceive
-          - Concern about side effects/hormones
-          - Religious or cultural reasons
-          - Cost or access barriers
-          - Not currently sexually active
-        required: false
-      - id: 10
-        name: information_sources_header
-        label: -- Information and Counseling --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 11
-        name: source_of_contraceptive_info
-        label: Where do you get most of your information on contraception
-        hint: null
-        type: select_one
-        options:
-          - Healthcare Professional (Doctor/Nurse)
-          - Internet/Social Media
-          - Friends or Family
-          - School/Sexual Health Education
-        required: true
-      - id: 12
-        name: counseling_needs_identified
-        label: Would you like additional counseling or info on specific methods
-        hint: Select methods you want to learn more about
-        type: select_multiple
-        options:
-          - Long-acting Reversible Contraception (LARC)
-          - Emergency Contraception
-          - Non-hormonal Options
-          - Permanent Methods
-          - None needed at this time
-        required: true
-      - id: 13
-        name: satisfaction_with_current_care
-        label: How satisfied are you with your access to contraceptive care
-        hint: 1 = Not satisfied, 5 = Very satisfied
-        type: select_one
-        options:
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-        required: true
-      - id: 14
-        name: assessment_submission_date
-        label: Date of Assessment
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: assessment_intro_header
+      label: -- Contraceptive Use Assessment Questionnaire --
+      hint: Helping us understand access and usage patterns
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group_respondent
+      label: Your Age Group
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45 plus
+      required: true
+    - id: 3
+      name: current_usage_status_header
+      label: -- Current Contraceptive Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: currently_using_contraception
+      label: Are you currently using any form of contraception
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: current_primary_method
+      label: If YES, what is your primary method
+      hint: Select the one you use most consistently
+      type: select_one
+      options:
+      - Oral Pill
+      - Barrier Method (Condoms)
+      - LARC (IUD or Implant)
+      - Sterilization (Tubal or Vasectomy)
+      - Natural Family Planning
+      - Other
+      - N/A (Not currently using)
+      required: true
+    - id: 6
+      name: length_of_current_use
+      label: How long have you used this method
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 2 years
+      - More than 2 years
+      - N/A
+      required: true
+    - id: 7
+      name: barriers_and_reasons_header
+      label: -- Barriers and Motivations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_reason_for_method
+      label: What is your primary motivation for using contraception
+      hint: null
+      type: select_multiple
+      options:
+      - Preventing Pregnancy
+      - Regulating Menstrual Cycle
+      - Managing Skin/Acne
+      - Reducing Period Pain
+      - Treating a medical condition (Endo/PCOS)
+      required: false
+    - id: 9
+      name: reasons_for_non_use
+      label: If NOT using, what are the primary reasons
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Currently pregnant or trying to conceive
+      - Concern about side effects/hormones
+      - Religious or cultural reasons
+      - Cost or access barriers
+      - Not currently sexually active
+      required: false
+    - id: 10
+      name: information_sources_header
+      label: -- Information and Counseling --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: source_of_contraceptive_info
+      label: Where do you get most of your information on contraception
+      hint: null
+      type: select_one
+      options:
+      - Healthcare Professional (Doctor/Nurse)
+      - Internet/Social Media
+      - Friends or Family
+      - School/Sexual Health Education
+      required: true
+    - id: 12
+      name: counseling_needs_identified
+      label: Would you like additional counseling or info on specific methods
+      hint: Select methods you want to learn more about
+      type: select_multiple
+      options:
+      - Long-acting Reversible Contraception (LARC)
+      - Emergency Contraception
+      - Non-hormonal Options
+      - Permanent Methods
+      - None needed at this time
+      required: true
+    - id: 13
+      name: satisfaction_with_current_care
+      label: How satisfied are you with your access to contraceptive care
+      hint: 1 = Not satisfied, 5 = Very satisfied
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 14
+      name: assessment_submission_date
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: true

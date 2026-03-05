@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Undetermined''}'
+      - 'True'
+      - 'False'
+      - Undetermined
       required: false
     - id: 2
       name: gestation_week
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: hospitalization_length
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Normal Delivery''}'
-      - '{''label'': ''C-Section''}'
-      - '{''label'': ''Induced Labor''}'
+      - Normal Delivery
+      - C-Section
+      - Induced Labor
       required: false
     - id: 7
       name: complications
@@ -87,8 +87,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Alive''}'
-      - '{''label'': ''Dead''}'
+      - Alive
+      - Dead
       required: false
     - id: 12
       name: maternal_care_provider
@@ -103,8 +103,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Public Hospital''}'
-      - '{''label'': ''Private Hospital''}'
+      - Public Hospital
+      - Private Hospital
       required: false
     - id: 14
       name: medical_history
@@ -126,8 +126,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: insurance_provider
@@ -142,8 +142,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Public''}'
-      - '{''label'': ''Private''}'
+      - Public
+      - Private
       required: false
     - id: 19
       name: health_insurance_type
@@ -151,8 +151,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Public''}'
-      - '{''label'': ''Private''}'
+      - Public
+      - Private
       required: false
     - id: 20
       name: insurance_provider_phone

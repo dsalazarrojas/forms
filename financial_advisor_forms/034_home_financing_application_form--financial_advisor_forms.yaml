@@ -23,12 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Employed''}'
-      - '{''id'': 2, ''name'': ''Self-Employed''}'
-      - '{''id'': 3, ''name'': ''Unemployed''}'
-      - '{''id'': 4, ''name'': ''Retired''}'
-      - '{''id'': 5, ''name'': ''Disabled''}'
-      - '{''id'': 6, ''name'': ''Other''}'
+      - Employed
+      - Self-Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      - Other
       required: false
     - id: 4
       name: income
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Monthly''}'
-      - '{''id'': 2, ''name'': ''Quarterly''}'
-      - '{''id'': 3, ''name'': ''Annually''}'
-      - '{''id'': 4, ''name'': ''Never''}'
+      - Monthly
+      - Quarterly
+      - Annually
+      - Never
       required: false
     - id: 6
       name: employment_history
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Spouse''}'
-      - '{''id'': 2, ''name'': ''Family''}'
-      - '{''id'': 3, ''name'': ''Others''}'
+      - Spouse
+      - Family
+      - Others
       required: false
     - id: 8
       name: property_type
@@ -71,10 +71,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Primary Residence''}'
-      - '{''id'': 2, ''name'': ''Second Home''}'
-      - '{''id'': 3, ''name'': ''Investment Property''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Primary Residence
+      - Second Home
+      - Investment Property
+      - Other
       required: false
     - id: 9
       name: property_type_other
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Spouse''}'
-      - '{''id'': 2, ''name'': ''Family''}'
-      - '{''id'': 3, ''name'': ''Others''}'
+      - Spouse
+      - Family
+      - Others
       required: false
     - id: 13
       name: property_location
@@ -162,11 +162,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Poor''}'
-      - '{''id'': 5, ''name'': ''N/A''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - N/A
       required: false
     - id: 21
       name: income_verification
@@ -195,11 +195,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Excellent''}'
-      - '{''id'': 2, ''name'': ''Good''}'
-      - '{''id'': 3, ''name'': ''Fair''}'
-      - '{''id'': 4, ''name'': ''Poor''}'
-      - '{''id'': 5, ''name'': ''N/A''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - N/A
       required: false
     - id: 25
       name: co_borrower_credit_score_other

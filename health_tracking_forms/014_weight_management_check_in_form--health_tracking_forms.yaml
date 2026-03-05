@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 4
       name: exercise_level
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Beginner''}'
-      - '{''value'': ''Intermediate''}'
-      - '{''value'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 5
       name: sleep
@@ -57,8 +57,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': True}'
+      - None
+      - 'True'
       required: false
     - id: 8
       name: supplements
@@ -66,8 +66,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': True}'
+      - None
+      - 'True'
       required: false
     - id: 9
       name: food_diet
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': True}'
+      - None
+      - 'True'
       required: false
     - id: 10
       name: note

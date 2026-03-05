@@ -4,143 +4,25 @@ inputSchema:
     title: Obesity Quiz
     pages:
     - id: 1
-      name: demographic_info
-      label: demographic_info
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: height_and_weight
-      label: height_and_weight
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: waist_circumference
-      label: waist_circumference
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 4
-      name: height
-      label: height
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
-      name: weight
-      label: weight
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: body_mass_index_bmi
-      label: body_mass_index_bmi
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: body_mass_category
-      label: body_mass_category
-      hint: null
-      type: select_one
-      options:
-      - Underweight
-      - Normal
-      - Overweight
-      - Obese Class 1
-      - Obese Class 2
-      - Obese Class 3
-      required: false
-    - id: 8
-      name: body_mass_index_bmi_category
-      label: body_mass_index_bmi_category
-      hint: null
-      type: select_one
-      options:
-      - Underweight
-      - Normal
-      - Overweight
-      - Obese Class 1
-      - Obese Class 2
-      - Obese Class 3
-      required: false
-    - id: 9
-      name: date_of_birth
-      label: date_of_birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: height_unit
-      label: height_unit
-      hint: null
-      type: select_one
-      options:
-      - ft
-      - in
-      - cm
-      - m
-      required: false
-    - id: 11
-      name: weight_unit
-      label: weight_unit
-      hint: null
-      type: select_one
-      options:
-      - lb
-      - kg
-      - st
-      required: false
-    - id: 12
-      name: waist_circumference_unit
-      label: waist_circumference_unit
-      hint: null
-      type: select_one
-      options:
-      - in
-      - cm
-      required: false
-    - id: 13
       name: age
-      label: age
+      label: Age
       hint: null
       type: number
       options: []
-      required: false
-    - id: 14
+      required: true
+    - id: 2
       name: sex
-      label: sex
+      label: Sex
       hint: null
       type: select_one
       options:
       - Male
       - Female
       - Other
-      required: false
-    - id: 15
-      name: ethnicity
-      label: ethnicity
-      hint: null
-      type: select_multiple
-      options:
-      - African American
-      - American Indian
-      - Asian
-      - Black or African American
-      - White
-      - Other
-      required: false
-    - id: 16
+      required: true
+    - id: 3
       name: education_level
-      label: education_level
+      label: Education Level
       hint: null
       type: select_multiple
       options:
@@ -150,21 +32,9 @@ inputSchema:
       - Bachelor's degree
       - Master's or more
       required: true
-    - id: 17
-      name: marital_status
-      label: marital_status
-      hint: null
-      type: select_one
-      options:
-      - Single
-      - Married
-      - Divorced
-      - Widowed
-      - Separated
-      required: false
-    - id: 18
+    - id: 4
       name: occupation
-      label: occupation
+      label: Occupation
       hint: null
       type: select_multiple
       options:
@@ -173,26 +43,87 @@ inputSchema:
       - Student
       - Other
       required: true
-    - id: 19
-      name: income
-      label: income
+    - id: 5
+      name: height
+      label: Height
       hint: null
       type: number
       options: []
-      required: false
-    - id: 20
-      name: income_frequency
-      label: income_frequency
+      required: true
+    - id: 6
+      name: height_unit
+      label: Height Unit
       hint: null
       type: select_one
       options:
-      - Annually
-      - Monthly
-      - Weekly
+      - ft
+      - in
+      - cm
+      - m
       required: true
-    - id: 21
+    - id: 7
+      name: weight
+      label: Weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: weight_unit
+      label: Weight Unit
+      hint: null
+      type: select_one
+      options:
+      - lb
+      - kg
+      - st
+      required: true
+    - id: 9
+      name: waist_circumference
+      label: Waist Circumference
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: waist_circumference_unit
+      label: Waist Circumference Unit
+      hint: null
+      type: select_one
+      options:
+      - in
+      - cm
+      required: true
+    - id: 11
+      name: body_mass_index_bmi
+      label: Body Mass Index (BMI)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: body_mass_category
+      label: Body Mass Category
+      hint: null
+      type: select_one
+      options:
+      - Underweight
+      - Normal
+      - Overweight
+      - Obese Class 1
+      - Obese Class 2
+      - Obese Class 3
+      required: true
+    - id: 13
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
       name: smoking_status
-      label: smoking_status
+      label: Smoking Status
       hint: null
       type: select_one
       options:
@@ -200,31 +131,61 @@ inputSchema:
       - Former
       - Current
       required: true
-    - id: 22
-      name: height
-      label: height
+    - id: 15
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: income_frequency
+      label: Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Monthly
+      - Weekly
+      required: true
+    - id: 17
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: true
+    - id: 18
+      name: income_frequency_2
+      label: Income Frequency 2
       hint: null
       type: number
       options: []
       required: false
-    - id: 23
-      name: weight
-      label: weight
+    - id: 19
+      name: ethnicity
+      label: Ethnicity
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: waist_circumference
-      label: waist_circumference
+      type: select_multiple
+      options:
+      - African American
+      - American Indian
+      - Asian
+      - Black or African American
+      - Other
+      required: true
+    - id: 20
+      name: smoking_status_2
+      label: Smoking Status 2
       hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: body_mass_index_bmi
-      label: body_mass_index_bmi
-      hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Never
+      - Former
+      - Current
       required: false

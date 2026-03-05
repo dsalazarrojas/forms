@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 100, ''label'': ''Full Coverage''}'
-      - '{''id'': 200, ''label'': ''Partial Coverage''}'
+      - Full Coverage
+      - Partial Coverage
       required: true
     - id: 4
       name: payment_terms
@@ -39,8 +39,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 50, ''label'': ''ACH (Automated Clearing House)''}'
-      - '{''id'': 51, ''label'': ''EFT (Electronic Funds Transfer)''}'
+      - ACH (Automated Clearing House)
+      - EFT (Electronic Funds Transfer)
       required: true
     - id: 6
       name: payment_term
@@ -48,10 +48,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 300, ''label'': ''Immediate''}'
-      - '{''id'': 301, ''label'': ''30 Days''}'
-      - '{''id'': 302, ''label'': ''60 Days''}'
-      - '{''id'': 303, ''label'': ''Other (Specify)''}'
+      - Immediate
+      - 30 Days
+      - 60 Days
+      - Other (Specify)
       required: false
     - id: 7
       name: notes

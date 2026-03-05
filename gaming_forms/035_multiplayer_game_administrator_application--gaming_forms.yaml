@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''admin'', ''label'': ''Admin''}'
-      - '{''id'': 2, ''name'': ''moderator'', ''label'': ''Moderator''}'
-      - '{''id'': 3, ''name'': ''staff'', ''label'': ''Staff''}'
+      - Admin
+      - Moderator
+      - Staff
       required: false
     - id: 6
       name: application_link
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''submit'', ''label'': ''Submit''}'
-      - '{''id'': 2, ''name'': ''reset'', ''label'': ''Reset''}'
+      - Submit
+      - Reset
       required: false
     - id: 8
       name: date

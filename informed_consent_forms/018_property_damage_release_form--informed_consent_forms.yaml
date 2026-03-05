@@ -4,179 +4,130 @@ inputSchema:
     title: Property Damage Release Form
     pages:
     - id: 1
-      name: property_damage_release_form_1
-      label: property_damage
+      name: property_damage_description
+      label: What is the description of the property damage?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: property_damage_release_form_2
-      label: damage_description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: property_damage_release_form_3
-      label: party_liable
+      name: party_liable
+      label: Who is the party liable for the damage?
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 4
+    - id: 3
       name: release_date
-      label: release_date
+      label: What is the release date?
       hint: null
       type: date
       options: []
       required: false
-    - id: 5
+    - id: 4
       name: party_name
-      label: party_name
+      label: What is the name of the party responsible?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_type
+      label: What type of property is damaged?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: party_contact
-      label: party_contact
+      name: damage_type
+      label: What type of damage has occurred?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: our_party_contact
-      label: our_party_contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: property_damage_release_form_8
-      label: release_amount
+      name: release_amount
+      label: What is the release amount?
       hint: null
       type: number
       options: []
       required: false
-    - id: 9
-      name: property_damage_release_form_9
-      label: release_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: property_damage_release_form_10
-      label: party_name
+    - id: 8
+      name: party_contact
+      label: Who can we contact for more information?
       hint: null
       type: text
       options: []
       required: false
+    - id: 9
+      name: our_contact
+      label: What is our contact information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: our_email
+      label: What is our email address?
+      hint: null
+      type: email
+      options: []
+      required: false
     - id: 11
-      name: property_damage_release_form_11
-      label: property_type
+      name: our_address
+      label: What is our address?
       hint: null
       type: text
       options: []
       required: false
     - id: 12
-      name: property_damage_release_form_12
-      label: damage_type
+      name: party_address
+      label: What is the party's address?
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: property_damage_release_form_13
-      label: release_date
+      name: release_date_2
+      label: Release Date 2
       hint: null
       type: date
       options: []
       required: false
     - id: 14
-      name: property_damage_release_form_14
-      label: party_responsible
+      name: party_signature
+      label: Party Signature
       hint: null
       type: text
       options: []
       required: false
     - id: 15
-      name: property_damage_release_form_15
-      label: our_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 16
-      name: property_damage_release_form_16
-      label: party_signature
+      name: our_signature
+      label: Our Signature
       hint: null
       type: text
       options: []
       required: false
+    - id: 16
+      name: our_email_2
+      label: Our Email
+      hint: null
+      type: email
+      options: []
+      required: false
     - id: 17
-      name: property_damage_release_form_17
-      label: our_signature
+      name: our_address_2
+      label: Our Address
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: property_damage_release_form_18
-      label: email
+      name: party_email
+      label: Party Email
       hint: null
       type: email
-      options: []
-      required: false
-    - id: 19
-      name: property_damage_release_form_19
-      label: our_email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 20
-      name: property_damage_release_form_20
-      label: our_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: property_damage_release_form_21
-      label: party_address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: property_damage_release_form_22
-      label: release_date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: property_damage_release_form_23
-      label: party_contact
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: property_damage_release_form_24
-      label: our_note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: property_damage_release_form_25
-      label: our_signature
-      hint: null
-      type: text
       options: []
       required: false

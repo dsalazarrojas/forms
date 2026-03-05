@@ -5,406 +5,166 @@ inputSchema:
     pages:
     - id: 1
       name: partnership_details
-      label: partnership_details
+      label: Partnership Details
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: brand_partnership_preferences
-      label: brand_partnership_preferences
-      hint: Select one
+      label: Brand Partnership Type
+      hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Partner as a brand''}'
-      - '{''id'': 2, ''label'': ''Partner as a content creator''}'
+      - Partner as a brand
+      - Partner as a content creator
       required: true
     - id: 3
       name: audience_characteristics
-      label: audience_characteristics
+      label: Audience Characteristics
       hint: null
       type: text
       options: []
       required: false
     - id: 4
       name: contact_info
-      label: contact_info
+      label: Contact Info
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: brand_requirements
-      label: brand_requirements
+      name: verification_documents
+      label: Verification Documents
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - Instagram
+      - YouTube
+      - TikTok
+      - Twitch
+      - Twitter
+      - Facebook
+      - Discord
+      - LinkedIn
+      - Snapchat
+      required: true
     - id: 6
-      name: partnership_history
-      label: partnership_history
+      name: additional_notes
+      label: Additional Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: verification_documents
-      label: verification_documents
-      hint: Select all that apply
-      type: select_multiple
-      options:
-      - '{''id'': 1, ''label'': ''Instagram''}'
-      - '{''id'': 2, ''label'': ''YouTube''}'
-      - '{''id'': 3, ''label'': ''TikTok''}'
-      - '{''id'': 4, ''label'': ''Twitch''}'
-      required: true
-    - id: 8
-      name: additional_notes
-      label: additional_notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
       name: email
-      label: email
-      hint: your email@example.com
+      label: Email
+      hint: null
       type: email
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 8
       name: phone
-      label: phone
-      hint: 123-456-7890
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: address
-      label: address
+      label: Phone Number
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 9
       name: social_media
-      label: social_media
+      label: Social Media
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 10
+      name: number_of_streams
+      label: Number of Streams
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: stream_url
+      label: Stream URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: discord_server
+      label: Discord Server
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 13
-      name: linkedin
-      label: linkedin
+      name: discord_username
+      label: Discord Username
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: twitter
-      label: twitter
+      name: pinterest_channel
+      label: Pinterest Channel
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 15
-      name: instagram
-      label: instagram
+      name: pinterest_profile_url
+      label: Pinterest Profile URL
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 16
-      name: pinterest
-      label: pinterest
+      name: pinterest_board
+      label: Pinterest Board
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: tiktok
-      label: tiktok
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: discord
-      label: discord
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: youtube
-      label: youtube
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: snapchat
-      label: snapchat
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: twitch
-      label: twitch
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: twitch_channel
-      label: twitch_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: twitch_username
-      label: twitch_username
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: twitch_stream_url
-      label: twitch_stream_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: twitch_streams
-      label: twitch_streams
-      hint: How many streams
-      type: text
-      options: []
-      required: true
-    - id: 26
-      name: tiktok_channel
-      label: tiktok_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: tiktok_stream_url
-      label: tiktok_stream_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 28
-      name: tiktok_streams
-      label: tiktok_streams
-      hint: How many streams
-      type: text
-      options: []
-      required: true
-    - id: 29
-      name: youtube_channel
-      label: youtube_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: youtube_stream_url
-      label: youtube_stream_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
-      name: youtube_streams
-      label: youtube_streams
-      hint: How many streams
-      type: text
-      options: []
-      required: true
-    - id: 32
-      name: instagram_channel
-      label: instagram_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 33
-      name: instagram_stream_url
-      label: instagram_stream_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 34
-      name: instagram_streams
-      label: instagram_streams
-      hint: How many streams
-      type: text
-      options: []
-      required: true
-    - id: 35
-      name: snapchat_channel
-      label: snapchat_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 36
-      name: snapchat_stream_url
-      label: snapchat_stream_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 37
-      name: snapchat_streams
-      label: snapchat_streams
-      hint: How many streams
-      type: text
-      options: []
-      required: true
-    - id: 38
       name: twitch_twitch_streams
-      label: twitch_twitch_streams
-      hint: Twitch/Twitch Streams
+      label: Twitch/Twitch Streams
+      hint: null
       type: text
       options: []
       required: true
-    - id: 39
-      name: discord_server
-      label: discord_server
+    - id: 18
+      name: snapchat_channel
+      label: Snapchat Channel
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: discord_username
-      label: discord_username
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 41
-      name: discord_tag
-      label: discord_tag
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: linkedin
-      label: linkedin
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: twitter_channel
-      label: twitter_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 44
-      name: twitter_username
-      label: twitter_username
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: tiktok_channel
-      label: tiktok_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: tiktok_stream_url
-      label: tiktok_stream_url
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: instagram_channel
-      label: instagram_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: instagram_tag
-      label: instagram_tag
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: pinterest_channel
-      label: pinterest_channel
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: pinterest_board
-      label: pinterest_board
-      hint: Pinterest Board
       type: text
       options: []
       required: true
-    - id: 51
-      name: pinterest_profile_url
-      label: pinterest_profile_url
-      hint: Pinterest Profile URL
-      type: text
-      options: []
-      required: true
-    - id: 52
-      name: discord_channel
-      label: discord_channel
+    - id: 19
+      name: snapchat_stream_url
+      label: Snapchat Stream URL
       hint: null
       type: text
       options: []
-      required: false
-    - id: 53
+      required: true
+    - id: 20
       name: youtube_channel
-      label: youtube_channel
+      label: YouTube Channel
       hint: null
       type: text
       options: []
-      required: false
-    - id: 54
-      name: youtube_tag
-      label: youtube_tag
+      required: true
+    - id: 21
+      name: youtube_stream_url
+      label: YouTube Stream URL
       hint: null
       type: text
       options: []
-      required: false
-    - id: 55
-      name: tiktok_profile_url
-      label: tiktok_profile_url
-      hint: TikTok Profile URL
-      type: text
-      options: []
       required: true
-    - id: 56
-      name: snapchat_profile_url
-      label: snapchat_profile_url
-      hint: your snapchat.com/username
-      type: text
-      options: []
-      required: true
-    - id: 57
-      name: youtube_profile_url
-      label: youtube_profile_url
-      hint: your channel.com/username
+    - id: 22
+      name: youtube_streams
+      label: YouTube Streams
+      hint: null
       type: text
       options: []
       required: true

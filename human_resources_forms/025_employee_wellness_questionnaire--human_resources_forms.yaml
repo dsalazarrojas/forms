@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Never''}'
-      - '{''id'': 2, ''label'': ''Rarely''}'
-      - '{''id'': 3, ''label'': ''Sometimes''}'
-      - '{''id'': 4, ''label'': ''Often''}'
-      - '{''id'': 5, ''label'': ''Every day''}'
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Every day
       required: true
     - id: 5
       name: emotional_wellness_level
@@ -57,11 +57,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Therapy''}'
-      - '{''id'': 2, ''label'': ''Counseling''}'
-      - '{''id'': 3, ''label'': ''Support group''}'
-      - '{''id'': 4, ''label'': ''Online resources''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Therapy
+      - Counseling
+      - Support group
+      - Online resources
+      - Other
       required: true
     - id: 8
       name: physical_health_services_needed
@@ -69,10 +69,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Doctor visit''}'
-      - '{''id'': 2, ''label'': ''Medication''}'
-      - '{''id'': 3, ''label'': ''Therapy''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Doctor visit
+      - Medication
+      - Therapy
+      - Other
       required: true
     - id: 9
       name: manager_name
@@ -171,9 +171,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - 'True'
+      - 'False'
+      - Unknown
       required: true
     - id: 23
       name: work_life_balance

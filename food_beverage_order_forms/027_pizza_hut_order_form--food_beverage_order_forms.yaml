@@ -9,8 +9,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Delivery''}'
-      - '{''id'': 2, ''label'': ''Carryout''}'
+      - Delivery
+      - Carryout
       required: false
     - id: 2
       name: customer_name
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Small 2-topping pizza''}'
-      - '{''id'': 2, ''label'': ''Medium 2-topping''}'
-      - '{''id'': 3, ''label'': ''Large 2-topping''}'
+      - Small 2-topping pizza
+      - Medium 2-topping
+      - Large 2-topping
       required: false
     - id: 7
       name: quantity
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''30 min''}'
-      - '{''id'': 2, ''label'': ''60 min''}'
-      - '{''id'': 3, ''label'': ''90 min''}'
+      - 30 min
+      - 60 min
+      - 90 min
       required: false
     - id: 9
       name: payment_method
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Credit Card''}'
-      - '{''id'': 2, ''label'': ''Cash''}'
-      - '{''id'': 3, ''label'': ''Bank Transfer''}'
+      - Credit Card
+      - Cash
+      - Bank Transfer
       required: false
     - id: 10
       name: note

@@ -4,451 +4,90 @@ inputSchema:
     title: Pilates Client Information Form
     pages:
     - id: 1
-      name: first_name
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 3
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 4
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: medical_history
-      label: Medical History
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: goals
-      label: Goals
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: emergency_contact_first_name
-      label: Emergency Contact First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: emergency_contact_last_name
-      label: Emergency Contact Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: emergency_contact_email
-      label: Emergency Contact Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 10
-      name: emergency_contact_phone
-      label: Emergency Contact Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: emergency_contact_relationship
-      label: Relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: date_of_birth
-      label: Date of Birth
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: medical_conditions
-      label: Medical Conditions
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: emergency_contact_address_1
-      label: Emergency Contact Address 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: emergency_contact_address_2
-      label: Emergency Contact Address 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: emergency_contact_address_3
-      label: Emergency Contact Address 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: emergency_contact_city
-      label: Emergency Contact City
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: emergency_contact_state
-      label: Emergency Contact State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: emergency_contact_postal_code
-      label: Emergency Contact Postal Code
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: emergency_contact_country
-      label: Emergency Contact Country
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: emergency_contact_relationship_type
-      label: Relationship Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: medical_history_important
-      label: Medical History Important
-      hint: null
-      type: select_multiple
-      options:
-      - Allergies
-      - Chronic Illnesses
-      - Medical Device
-      - Other
-      required: false
-    - id: 23
-      name: medical_history_other
-      label: Medical History Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: medical_history_allergies
-      label: Medical History Allergies
-      hint: null
-      type: select_multiple
-      options:
-      - Penicillin
-      - Aspirin
-      - Other
-      - None
-      required: false
-    - id: 25
       name: medical_history_important_other
       label: Medical History Important Other
       hint: null
       type: text
       options: []
       required: false
-    - id: 26
-      name: emergency_contact_other
-      label: Emergency Contact Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 27
-      name: medical_history_chronic_illnesses
-      label: Medical History Chronic Illnesses
-      hint: null
-      type: select_multiple
-      options:
-      - Diabetes
-      - Heart Condition
-      - Other
-      - None
-      required: false
-    - id: 28
+    - id: 2
       name: medical_history_device
-      label: Medical Device
+      label: Medical History Device
       hint: null
       type: select_multiple
       options:
-      - Pacemaker
+      - Hearing Aid
       - Prosthetic
       - Other
       - None
       required: false
-    - id: 29
-      name: emergency_contact_phone_extension
-      label: Emergency Contact Phone Extension
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 30
-      name: emergency_contact_phone_type
-      label: Emergency Contact Phone Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 31
+    - id: 3
       name: emergency_contact_address_4
       label: Emergency Contact Address 4
       hint: null
       type: text
       options: []
       required: false
-    - id: 32
+    - id: 4
+      name: emergency_contact_address_5
+      label: Emergency Contact Address 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact_address_6
+      label: Emergency Contact Address 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
       name: emergency_contact_relationship_other
       label: Emergency Contact Relationship Other
       hint: null
       type: text
       options: []
       required: false
-    - id: 33
+    - id: 7
       name: medical_history_device_other
       label: Medical History Device Other
       hint: null
       type: text
       options: []
       required: false
-    - id: 34
-      name: medical_history_device
-      label: Medical History Device
+    - id: 8
+      name: medical_history_important_other_2
+      label: Medical History Important Other 2
       hint: null
-      type: select_multiple
-      options:
-      - Hearing Aid
-      - Prosthetic
-      - Other
-      - None
+      type: text
+      options: []
       required: false
-    - id: 35
+    - id: 9
       name: emergency_contact_city_2
       label: Emergency Contact City
       hint: null
       type: text
       options: []
       required: false
-    - id: 36
+    - id: 10
       name: emergency_contact_state_2
       label: Emergency Contact State
       hint: null
       type: text
       options: []
       required: false
-    - id: 37
+    - id: 11
       name: emergency_contact_postal_code_2
       label: Emergency Contact Postal Code
       hint: null
       type: text
       options: []
       required: false
-    - id: 38
+    - id: 12
       name: emergency_contact_country_2
       label: Emergency Contact Country
       hint: null
       type: text
       options: []
-      required: false
-    - id: 39
-      name: medical_history_chronic_illnesses_other
-      label: Medical History Chronic Illnesses Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 40
-      name: medical_history_chronic_illnesses
-      label: Medical History Chronic Illnesses
-      hint: null
-      type: select_multiple
-      options:
-      - Arthritis
-      - Asthma
-      - Other
-      - None
-      required: false
-    - id: 41
-      name: emergency_contact_relationship_2
-      label: Emergency Contact Relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 42
-      name: medical_history_device_other_2
-      label: Medical History Device Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 43
-      name: medical_history_device_2
-      label: Medical History Device
-      hint: null
-      type: select_multiple
-      options:
-      - Hearing Aid
-      - Prosthetic
-      - Other
-      - None
-      required: false
-    - id: 44
-      name: emergency_contact_address_5
-      label: Emergency Contact Address 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 45
-      name: emergency_contact_address_6
-      label: Emergency Contact Address 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 46
-      name: emergency_contact_address_7
-      label: Emergency Contact Address 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 47
-      name: emergency_contact_address_8
-      label: Emergency Contact Address 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 48
-      name: medical_history_allergies_other
-      label: Medical History Allergies Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 49
-      name: medical_history_device_other_2
-      label: Medical History Device Other
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 50
-      name: medical_history_device_2
-      label: Medical History Device
-      hint: null
-      type: select_multiple
-      options:
-      - Hearing Aid
-      - Prosthetic
-      - Other
-      - None
-      required: false
-    - id: 51
-      name: emergency_contact_phone_extension_2
-      label: Emergency Contact Phone Extension
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 52
-      name: emergency_contact_phone_type_2
-      label: Emergency Contact Phone Type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 53
-      name: emergency_contact_city_3
-      label: Emergency Contact City
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 54
-      name: emergency_contact_state_3
-      label: Emergency Contact State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 55
-      name: emergency_contact_postal_code_3
-      label: Emergency Contact Postal Code
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 56
-      name: emergency_contact_country_3
-      label: Emergency Contact Country
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 57
-      name: emergency_contact_relationship_3
-      label: Emergency Contact Relationship
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 58
-      name: medical_history_other_important
-      label: Medical History Other Important
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 59
-      name: medical_history_allergies
-      label: Medical History Allergies
-      hint: null
-      type: select_multiple
-      options:
-      - Penicillin
-      - Aspirin
-      - Other
-      - None
       required: false

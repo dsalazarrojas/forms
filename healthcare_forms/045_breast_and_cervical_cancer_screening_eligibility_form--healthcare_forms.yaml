@@ -68,7 +68,7 @@ inputSchema:
       options:
       - Yes, Mother or Sister
       - Yes, Other Relative
-      - false
+      - 'False'
       - Unknown
       required: true
     - id: 9
@@ -79,7 +79,7 @@ inputSchema:
       options:
       - Yes, Mother or Sister
       - Yes, Other Relative
-      - false
+      - 'False'
       - Unknown
       required: true
     - id: 10
@@ -88,8 +88,8 @@ inputSchema:
       hint: Have you ever had cancer
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 11
       name: previous_mammogram
@@ -143,7 +143,7 @@ inputSchema:
       options:
       - Yes, Complete Series
       - Yes, Partial Series
-      - false
+      - 'False'
       - Not Sure
       required: true
     - id: 16

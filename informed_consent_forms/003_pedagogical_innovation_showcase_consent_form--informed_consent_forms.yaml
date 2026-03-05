@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''School A''}'
-      - '{''value'': ''School B''}'
-      - '{''value'': ''School C''}'
+      - School A
+      - School B
+      - School C
       required: false
     - id: 4
       name: school_info_1
@@ -33,13 +33,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Project A''}'
-      - '{''value'': ''Project B''}'
-      - '{''value'': ''Project C''}'
+      - Project A
+      - Project B
+      - Project C
       required: false
     - id: 5
-      name: school_info_1
-      label: Project
+      name: school_info_1_2
+      label: School Info 1 2
       hint: null
       type: number
       options: []
@@ -52,14 +52,14 @@ inputSchema:
       options: []
       required: false
     - id: 7
-      name: school_info_2
-      label: Project Type
+      name: school_info_2_2
+      label: School Info 2 2
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Project Type A''}'
-      - '{''value'': ''Project Type B''}'
-      - '{''value'': ''Project Type C''}'
+      - Project Type A
+      - Project Type B
+      - Project Type C
       required: false
     - id: 8
       name: school_info_3
@@ -67,19 +67,19 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Student Work A''}'
-      - '{''value'': ''Student Work B''}'
-      - '{''value'': ''Student Work C''}'
+      - Student Work A
+      - Student Work B
+      - Student Work C
       required: false
     - id: 9
       name: student_work_1
-      label: Student Work
+      label: Student Work 1
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Student Work A''}'
-      - '{''value'': ''Student Work B''}'
-      - '{''value'': ''Student Work C''}'
+      - Student Work A
+      - Student Work B
+      - Student Work C
       required: false
     - id: 10
       name: student_work_2
@@ -87,12 +87,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Project Category A''}'
-      - '{''value'': ''Project Category B''}'
-      - '{''value'': ''Project Category C''}'
+      - Project Category A
+      - Project Category B
+      - Project Category C
       required: false
     - id: 11
-      name: student_work_2
+      name: student_work_2_2
       label: Category
       hint: null
       type: text
@@ -100,13 +100,13 @@ inputSchema:
       required: false
     - id: 12
       name: category
-      label: Category
+      label: Category (2)
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Category A''}'
-      - '{''value'': ''Category B''}'
-      - '{''value'': ''Category C''}'
+      - Category A
+      - Category B
+      - Category C
       required: false
     - id: 13
       name: consent
@@ -114,8 +114,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 14
       name: email
@@ -147,7 +147,7 @@ inputSchema:
       required: false
     - id: 18
       name: project
-      label: Project
+      label: Project (3)
       hint: null
       type: number
       options: []

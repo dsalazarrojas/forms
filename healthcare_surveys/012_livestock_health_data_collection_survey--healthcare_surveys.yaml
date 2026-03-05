@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''ID'': 1, ''label'': ''Healthy''}'
-      - '{''ID'': 2, ''label'': ''Diseased''}'
-      - '{''ID'': 3, ''label'': ''Dead''}'
+      - Healthy
+      - Diseased
+      - Dead
       required: false
     - id: 6
       name: disease_treatment
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''ID'': 1, ''label'': ''Antibiotics''}'
-      - '{''ID'': 2, ''label'': ''Surgery''}'
-      - '{''ID'': 3, ''label'': ''Other''}'
+      - Antibiotics
+      - Surgery
+      - Other
       required: false
     - id: 7
       name: health_care_services_used
@@ -64,8 +64,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''ID'': 1, ''label'': True}'
-      - '{''ID'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: farm_info
@@ -87,10 +87,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''ID'': 1, ''label'': ''North''}'
-      - '{''ID'': 2, ''label'': ''South''}'
-      - '{''ID'': 3, ''label'': ''East''}'
-      - '{''ID'': 4, ''label'': ''West''}'
+      - North
+      - South
+      - East
+      - West
       required: false
     - id: 12
       name: region
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''ID'': 1, ''label'': ''Urban''}'
-      - '{''ID'': 2, ''label'': ''Rural''}'
+      - Urban
+      - Rural
       required: false
     - id: 13
       name: date_of_data_collection

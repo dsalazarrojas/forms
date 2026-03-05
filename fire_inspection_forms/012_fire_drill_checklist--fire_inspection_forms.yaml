@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2.1, ''label'': ''Manager'', ''value'': ''manager''}'
-      - '{''id'': 2.2, ''label'': ''HR'', ''value'': ''hr''}'
-      - '{''id'': 2.3, ''label'': ''Fire Marshal'', ''value'': ''fire_marshal''}'
+      - Manager
+      - HR
+      - Fire Marshal
       required: false
     - id: 3
       name: fire_drill_scheduling
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 4.1, ''label'': ''Fire Marshal'', ''value'': ''fire_marshal''}'
-      - '{''id'': 4.2, ''label'': ''Fire Chief'', ''value'': ''fire_chief''}'
-      - '{''id'': 4.3, ''label'': ''Fire Captain'', ''value'': ''fire_captain''}'
+      - Fire Marshal
+      - Fire Chief
+      - Fire Captain
       required: false
     - id: 5
       name: fire_drill_responders
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 5.1, ''label'': ''Fire Marshal'', ''value'': ''fire_marshal''}'
-      - '{''id'': 5.2, ''label'': ''Fire Chief'', ''value'': ''fire_chief''}'
-      - '{''id'': 5.3, ''label'': ''Fire Captain'', ''value'': ''fire_captain''}'
+      - Fire Marshal
+      - Fire Chief
+      - Fire Captain
       required: false
     - id: 6
       name: fire_drill_responder_training_status
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 6.1, ''label'': ''Trained'', ''value'': ''trained''}'
-      - '{''id'': 6.2, ''label'': ''Needs Refresher Training'', ''value'': ''needs_refresher_training''}'
-      - '{''id'': 6.3, ''label'': ''Untrained'', ''value'': ''untrained''}'
+      - Trained
+      - Needs Refresher Training
+      - Untrained
       required: false
     - id: 7
       name: fire_drill_procedures_reviewed
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 7.1, ''label'': True, ''value'': True}'
-      - '{''id'': 7.2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: fire_drill_fire_extinguishers
@@ -72,9 +72,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8.1, ''label'': ''Fire Extinguisher A'', ''value'': ''fire_extinguisher_a''}'
-      - '{''id'': 8.2, ''label'': ''Fire Extinguisher B'', ''value'': ''fire_extinguisher_b''}'
-      - '{''id'': 8.3, ''label'': ''Fire Extinguisher C'', ''value'': ''fire_extinguisher_c''}'
+      - Fire Extinguisher A
+      - Fire Extinguisher B
+      - Fire Extinguisher C
       required: false
     - id: 9
       name: fire_drill_evacuation_plan
@@ -96,8 +96,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11.1, ''label'': True, ''value'': True}'
-      - '{''id'': 11.2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 12
       name: fire_drill_reporting_frequency
@@ -105,9 +105,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 12.1, ''label'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''id'': 12.2, ''label'': ''Quarterly'', ''value'': ''quarterly''}'
-      - '{''id'': 12.3, ''label'': ''Annually'', ''value'': ''annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 13
       name: fire_drill_testing_method
@@ -115,9 +115,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 13.1, ''label'': ''Roll Call'', ''value'': ''roll_call''}'
-      - '{''id'': 13.2, ''label'': ''Written Test'', ''value'': ''written_test''}'
-      - '{''id'': 13.3, ''label'': ''Simulation'', ''value'': ''simulation''}'
+      - Roll Call
+      - Written Test
+      - Simulation
       required: false
     - id: 14
       name: fire_drill_testing_frequency
@@ -125,9 +125,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 14.1, ''label'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''id'': 14.2, ''label'': ''Quarterly'', ''value'': ''quarterly''}'
-      - '{''id'': 14.3, ''label'': ''Annually'', ''value'': ''annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 15
       name: fire_drill_annual_testing_frequency
@@ -135,9 +135,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 15.1, ''label'': ''Every 1 year'', ''value'': ''every_1_year''}'
-      - '{''id'': 15.2, ''label'': ''Every 2 years'', ''value'': ''every_2_years''}'
-      - '{''id'': 15.3, ''label'': ''Never'', ''value'': ''never''}'
+      - Every 1 year
+      - Every 2 years
+      - Never
       required: false
     - id: 16
       name: fire_drill_test_result
@@ -145,9 +145,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 16.1, ''label'': ''Passed'', ''value'': ''passed''}'
-      - '{''id'': 16.2, ''label'': ''Failed'', ''value'': ''failed''}'
-      - '{''id'': 16.2, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - Passed
+      - Failed
+      - In Progress
       required: false
     - id: 17
       name: fire_drill_testing_result
@@ -155,9 +155,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 17.1, ''label'': ''Pass'', ''value'': ''pass''}'
-      - '{''id'': 17.2, ''label'': ''Fail'', ''value'': ''fail''}'
-      - '{''id'': 17.3, ''label'': ''In Progress'', ''value'': ''in_progress''}'
+      - Pass
+      - Fail
+      - In Progress
       required: false
     - id: 18
       name: fire_drill_testing_completed
@@ -165,8 +165,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 18.1, ''label'': True, ''value'': True}'
-      - '{''id'': 18.2, ''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: fire_drill_testing_completed_status
@@ -174,9 +174,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 19.1, ''label'': ''Completed'', ''value'': ''completed''}'
-      - '{''id'': 19.2, ''label'': ''Partially Completed'', ''value'': ''partially_completed''}'
-      - '{''id'': 19.3, ''label'': ''Not Completed'', ''value'': ''not_completed''}'
+      - Completed
+      - Partially Completed
+      - Not Completed
       required: false
     - id: 20
       name: fire_drill_testers
@@ -184,9 +184,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 20.1, ''label'': ''Fire Marshal'', ''value'': ''fire_marshal''}'
-      - '{''id'': 20.2, ''label'': ''Fire Chief'', ''value'': ''fire_chief''}'
-      - '{''id'': 20.3, ''label'': ''Fire Captain'', ''value'': ''fire_captain''}'
+      - Fire Marshal
+      - Fire Chief
+      - Fire Captain
       required: false
     - id: 21
       name: fire_drill_testing_status
@@ -194,8 +194,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 21.1, ''label'': ''Completed'', ''value'': ''completed''}'
-      - '{''id'': 21.2, ''label'': ''Not Completed'', ''value'': ''not_completed''}'
+      - Completed
+      - Not Completed
       required: false
     - id: 22
       name: fire_drill_training_frequency
@@ -203,7 +203,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 22.1, ''label'': ''Monthly'', ''value'': ''monthly''}'
-      - '{''id'': 22.2, ''label'': ''Quarterly'', ''value'': ''quarterly''}'
-      - '{''id'': 22.3, ''label'': ''Annually'', ''value'': ''annually''}'
+      - Monthly
+      - Quarterly
+      - Annually
       required: false

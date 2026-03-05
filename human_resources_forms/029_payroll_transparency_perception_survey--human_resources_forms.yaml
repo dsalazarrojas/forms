@@ -30,10 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
-      - option4
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: pay_frequency
@@ -41,10 +40,9 @@ inputSchema:
       hint: Please select the frequency with which you are paid.
       type: select_one
       options:
-      - option5
-      - option6
-      - option7
-      - option8
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: pay_amount
@@ -59,9 +57,9 @@ inputSchema:
       hint: Do you receive benefits?
       type: select_multiple
       options:
-      - option9
-      - option10
-      - option11
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: benefits_frequency
@@ -69,9 +67,9 @@ inputSchema:
       hint: Please select the frequency with which you receive benefits.
       type: select_multiple
       options:
-      - option12
-      - option13
-      - option14
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: job_description
@@ -86,9 +84,9 @@ inputSchema:
       hint: How would you rate your communication with your manager?
       type: select_one
       options:
-      - option15
-      - option16
-      - option17
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 11
       name: trust
@@ -96,9 +94,9 @@ inputSchema:
       hint: How much do you trust your company's leadership?
       type: select_multiple
       options:
-      - option18
-      - option19
-      - option20
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: transparency
@@ -107,9 +105,9 @@ inputSchema:
         pay and benefits?
       type: select_one
       options:
-      - option21
-      - option22
-      - option23
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 13
       name: satisfaction
@@ -155,35 +153,35 @@ inputSchema:
       required: false
     - id: 19
       name: job_title_supervisor
-      label: Job Title
+      label: Job Title Supervisor
       hint: null
       type: text
       options: []
       required: false
     - id: 20
       name: job_title_department
-      label: Job Title
+      label: Job Title Department
       hint: null
       type: text
       options: []
       required: false
     - id: 21
       name: supervisor_email
-      label: Email
+      label: Supervisor Email
       hint: null
       type: email
       options: []
       required: false
     - id: 22
       name: supervisor_phone
-      label: Phone
+      label: Supervisor Phone
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: supervisor_department
-      label: Department
+      label: Supervisor Department
       hint: null
       type: text
       options: []

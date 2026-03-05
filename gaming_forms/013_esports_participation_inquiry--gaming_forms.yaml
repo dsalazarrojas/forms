@@ -5,7 +5,7 @@ inputSchema:
     pages:
     - id: 1
       name: player_interest
-      label: Player Interest
+      label: Are you interested in participating in esports events?
       hint: null
       type: select_one
       options:
@@ -13,15 +13,15 @@ inputSchema:
       - 'No'
       required: false
     - id: 2
-      name: team_details
-      label: Team Details
+      name: player_details
+      label: Player Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: individual_details
-      label: Individual Details
+      name: team_details
+      label: Team Details
       hint: null
       type: text
       options: []
@@ -29,68 +29,21 @@ inputSchema:
     - id: 4
       name: event_availability
       label: Event Availability
-      hint: When would you be available for an event?
-      type: date
+      hint: null
+      type: text
       options: []
       required: false
     - id: 5
-      name: event_availability
-      label: Event Availability
+      name: follow_up_preferences
+      label: Follow-up Preferences
       hint: null
-      type: time
+      type: text
       options: []
       required: false
     - id: 6
-      name: follow_up_method
-      label: Follow up Method
+      name: additional_details
+      label: Additional Details
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 7
-      name: follow_up_method
-      label: Follow up Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: follow_up_method
-      label: Follow up Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: follow_up_method
-      label: Follow up Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 10
-      name: follow_up_method
-      label: Follow up Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: follow_up_method
-      label: Follow up Method
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false

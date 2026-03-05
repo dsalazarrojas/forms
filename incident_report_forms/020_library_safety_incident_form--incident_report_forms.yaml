@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: incident_location
@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 6
       name: incident_reported_by_other
@@ -68,27 +68,27 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 8
       name: incident_safety_measure_other
-      label: Other
+      label: Incident Safety Measure Other
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: incident_safety_measure_other
-      label: Incident Safety Measure
+      name: incident_safety_measure_other_2
+      label: Incident Safety Measure Other 2
       hint: null
       type: text
       options: []
       required: false
     - id: 10
       name: incident_safety_measure_other_description
-      label: Other
+      label: Incident Safety Measure Other Description
       hint: null
       type: text
       options: []
@@ -99,27 +99,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 12
       name: incident_investigation_result_other
-      label: Other
+      label: Incident Investigation Result Other
       hint: null
       type: text
       options: []
       required: false
     - id: 13
-      name: incident_investigation_result_other
-      label: Incident Investigation Result
+      name: incident_investigation_result_other_2
+      label: Incident Investigation Result Other 2
       hint: null
       type: text
       options: []
       required: false
     - id: 14
       name: incident_investigation_result_other_description
-      label: Other
+      label: Incident Investigation Result Other Description
       hint: null
       type: text
       options: []
@@ -130,27 +130,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 16
       name: incident_outcome_other
-      label: Other
+      label: Incident Outcome Other
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: incident_outcome_other
-      label: Incident Outcome
+      name: incident_outcome_other_2
+      label: Incident Outcome Other 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: incident_outcome_other_description
-      label: Other
+      label: Incident Outcome Other Description
       hint: null
       type: text
       options: []
@@ -168,27 +168,27 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 21
       name: incident_follow_up_other
-      label: Other
+      label: Incident Follow Up Other
       hint: null
       type: text
       options: []
       required: false
     - id: 22
-      name: incident_follow_up_other
-      label: Follow-up
+      name: incident_follow_up_other_2
+      label: Incident Follow Up Other 2
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: incident_follow_up_other_description
-      label: Other
+      label: Incident Follow Up Other Description
       hint: null
       type: text
       options: []

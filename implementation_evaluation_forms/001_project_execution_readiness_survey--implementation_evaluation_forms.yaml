@@ -5,96 +5,134 @@ inputSchema:
     pages:
     - id: 1
       name: project_execution_readiness_survey_1
-      label: project_execution_readiness_survey
+      label: Project Description
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: project_execution_readiness_survey_2
-      label: project_execution_readiness
+      label: Team Lead's Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
       name: project_execution_readiness_survey_3
-      label: project_execution_readiness
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: project_execution_readiness_survey_4
-      label: project_execution_readiness
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 5
-      name: project_execution_readiness_survey_5
-      label: project_execution_readiness
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: project_execution_readiness_survey_6
-      label: project_execution_readiness
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: project_execution_readiness_survey_7
-      label: project_execution_readiness
+      label: Project Start Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
+    - id: 4
+      name: project_execution_readiness_survey_4
+      label: Number of Projects Executed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: project_execution_readiness_survey_5
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Waterfall
+      - Agile
+      - Hybrid
+      required: true
+    - id: 6
+      name: project_execution_readiness_survey_6
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: project_execution_readiness_survey_7
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - On Track
+      - Delayed
+      - Completed
+      required: true
     - id: 8
       name: project_execution_readiness_survey_8
-      label: project_execution_readiness
+      label: Team Size
       hint: null
-      type: time
+      type: number
       options: []
-      required: false
+      required: true
     - id: 9
       name: project_execution_readiness_survey_9
-      label: project_execution
+      label: Project Lead's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: project_execution_readiness_survey_10
+      label: Project Lead's Phone Number
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: project_execution_readiness_survey_10
-      label: project_execution_readiness_survey
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
     - id: 11
       name: project_execution_readiness_survey_11
-      label: project_execution_readiness
+      label: Project Lead's Availability
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 12
       name: project_execution_readiness_survey_12
-      label: project_execution_readiness_survey
+      label: Project Execution Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: project_execution_readiness_survey_13
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: project_execution_readiness_survey_14
+      label: Project Timeline
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: project_execution_readiness_survey_13
-      label: project_execution
+    - id: 15
+      name: project_execution_readiness_survey_15
+      label: Project Goals
       hint: null
-      type: number
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_execution_readiness_survey_16
+      label: Project Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_execution_readiness_survey_17
+      label: Project Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_execution_readiness_survey_18
+      label: Additional Comments
+      hint: null
+      type: note
       options: []
       required: false

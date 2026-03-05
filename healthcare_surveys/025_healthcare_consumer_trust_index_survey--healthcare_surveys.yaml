@@ -6,13 +6,13 @@ inputSchema:
     - id: 1
       name: patient_identifier
       label: Patient Identifier
-      hint: null
+      hint: Unique identifier for the patient
       type: number
       options: []
       required: false
     - id: 2
       name: patient_dob
-      label: Patient Dob
+      label: Patient Date of Birth
       hint: null
       type: date
       options: []
@@ -20,7 +20,7 @@ inputSchema:
     - id: 3
       name: provider_identifier
       label: Provider Identifier
-      hint: null
+      hint: Unique identifier for the provider
       type: number
       options: []
       required: false
@@ -37,54 +37,6 @@ inputSchema:
       - Undecided
       required: false
     - id: 5
-      name: trust_question_2
-      label: How likely are you to recommend this provider to others?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 6
-      name: trust_question_3
-      label: How likely are you to recommend this provider?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 7
-      name: trust_question_4
-      label: How likely are you to recommend this provider?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 8
-      name: trust_question_5
-      label: How likely are you to recommend this provider?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 9
       name: patient_gender
       label: Patient Gender
       hint: null
@@ -94,7 +46,7 @@ inputSchema:
       - Female
       - Other
       required: false
-    - id: 10
+    - id: 6
       name: provider_gender
       label: Provider Gender
       hint: null
@@ -104,69 +56,9 @@ inputSchema:
       - Female
       - Other
       required: false
-    - id: 11
-      name: trust_question_6
-      label: How likely are you to recommend this provider?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 12
-      name: trust_question_7
-      label: How likely are you to recommend this provider?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 13
-      name: trust_question_8
-      label: How likely are you to recommend this provider?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 14
-      name: trust_question_9
-      label: How likely are you to recommend this provider?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 15
-      name: trust_question_10
-      label: How likely are you to recommend this provider?
-      hint: null
-      type: select_one
-      options:
-      - Provider is very likely to recommend
-      - Somewhat likely
-      - Not very likely
-      - Not at all likely
-      - Undecided
-      required: false
-    - id: 16
+    - id: 7
       name: provider_type
-      label: Type of provider
+      label: Type of Provider
       hint: null
       type: select_multiple
       options:
@@ -176,8 +68,8 @@ inputSchema:
       - Hospitalist
       - Other
       required: false
-    - id: 17
-      name: trust_level
+    - id: 8
+      name: trust_question_2
       label: What is the level of trust you have with this provider?
       hint: null
       type: select_one
@@ -188,98 +80,7 @@ inputSchema:
       - Low
       - Very Low
       required: false
-    - id: 18
-      name: trust_level_2
-      label: What is the level of trust you have with this provider?
-      hint: null
-      type: select_one
-      options:
-      - Very high
-      - High
-      - Medium
-      - Low
-      - Very Low
-      required: false
-    - id: 19
-      name: trust_level_3
-      label: What is the level of trust you have with this provider?
-      hint: null
-      type: select_one
-      options:
-      - Very high
-      - High
-      - Medium
-      - Low
-      - Very Low
-      required: false
-    - id: 20
-      name: trust_level_4
-      label: What is the level of trust you have with this provider?
-      hint: null
-      type: select_one
-      options:
-      - Very high
-      - High
-      - Medium
-      - Low
-      - Very Low
-      required: false
-    - id: 21
-      name: trust_level_5
-      label: What is the level of trust you have with this provider?
-      hint: null
-      type: select_one
-      options:
-      - Very high
-      - High
-      - Medium
-      - Low
-      - Very Low
-      required: false
-    - id: 22
-      name: trust_level_6
-      label: What is the level of trust you have with this provider?
-      hint: null
-      type: select_one
-      options:
-      - Very high
-      - High
-      - Medium
-      - Low
-      - Very Low
-      required: false
-    - id: 23
-      name: trust_level_7
-      label: What is the level of trust you have with this provider?
-      hint: null
-      type: select_one
-      options:
-      - Very high
-      - High
-      - Medium
-      - Low
-      - Very Low
-      required: false
-    - id: 24
-      name: trust_level_8
-      label: What is the level of trust you have with this provider?
-      hint: null
-      type: select_one
-      options:
-      - Very high
-      - High
-      - Medium
-      - Low
-      - Very Low
-      required: false
-    - id: 25
-      name: additional_comments
-      label: Additional Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 26
+    - id: 9
       name: provider_experience
       label: Provider Experience
       hint: How long have you been a patient of this provider?
@@ -292,7 +93,7 @@ inputSchema:
       - 5-10 years
       - More than 10 years
       required: false
-    - id: 27
+    - id: 10
       name: patient_race
       label: What race/ethnicity do you identify with?
       hint: null
@@ -307,4 +108,59 @@ inputSchema:
       - Some other combination of races
       - Hispanic or Latino
       - Decline to state
+      required: false
+    - id: 11
+      name: trust_question_3
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: trust_question_4
+      label: Trust Question 4
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 13
+      name: trust_question_5
+      label: Trust Question 5
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 14
+      name: trust_question_6
+      label: Trust Question 6
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
+      required: false
+    - id: 15
+      name: trust_question_7
+      label: Trust Question 7
+      hint: null
+      type: select_one
+      options:
+      - Provider is very likely to recommend
+      - Somewhat likely
+      - Not very likely
+      - Not at all likely
+      - Undecided
       required: false

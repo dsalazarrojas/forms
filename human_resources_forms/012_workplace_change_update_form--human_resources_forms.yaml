@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,9 +23,9 @@ inputSchema:
       hint: Select manager
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Approve''}'
-      - '{''value'': 2, ''label'': ''Reject''}'
-      - '{''value'': 3, ''label'': ''Pending''}'
+      - Approve
+      - Reject
+      - Pending
       required: false
     - id: 4
       name: updated_by
@@ -44,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Employee''}'
-      - '{''value'': 2, ''label'': ''Manager''}'
-      - '{''value'': 3, ''label'': ''System''}'
+      - Employee
+      - Manager
+      - System
       required: false
     - id: 5
       name: updated_on
@@ -68,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 1, ''label'': ''Manager 1''}'
-      - '{''value'': 2, ''label'': ''Manager 2''}'
-      - '{''value'': 3, ''label'': ''Manager 3''}'
+      - Manager 1
+      - Manager 2
+      - Manager 3
       required: false
     - id: 8
       name: old_location

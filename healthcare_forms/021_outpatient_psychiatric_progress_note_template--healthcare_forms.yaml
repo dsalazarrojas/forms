@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Initial''}'
-      - '{''id'': 2, ''name'': ''Follow-up''}'
+      - Initial
+      - Follow-up
       required: false
     - id: 5
       name: patient_caregiver_relationship
@@ -39,11 +39,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Father''}'
-      - '{''id'': 2, ''name'': ''Mother''}'
-      - '{''id'': 3, ''name'': ''Son''}'
-      - '{''id'': 4, ''name'': ''Daughter''}'
-      - '{''id'': 5, ''name'': ''Other''}'
+      - Father
+      - Mother
+      - Son
+      - Daughter
+      - Other
       required: false
     - id: 6
       name: chief_complaint
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''No''}'
-      - '{''id'': 2, ''name'': ''Yes''}'
+      - 'No'
+      - 'Yes'
       required: false
     - id: 9
       name: plan_for_treatment

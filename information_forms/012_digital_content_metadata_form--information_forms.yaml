@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Image''}'
-      - '{''text'': ''Audio''}'
-      - '{''text'': ''Video''}'
+      - Image
+      - Audio
+      - Video
       required: false
     - id: 6
       name: content_url
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''Public Domain''}'
-      - '{''text'': ''All Rights Reserved''}'
+      - Public Domain
+      - All Rights Reserved
       required: false
     - id: 11
       name: metadata_license
@@ -84,15 +84,15 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''text'': ''No license applied''}'
-      - '{''text'': ''CC0 1.0''}'
-      - '{''text'': ''CC BY 1.0''}'
-      - '{''text'': ''CC BY 2.0''}'
-      - '{''text'': ''CC BY 4.0''}'
-      - '{''text'': ''CC BY-NC 1.0''}'
-      - '{''text'': ''CC BY-ND 1.0''}'
-      - '{''text'': ''CC BY-PD 1.0''}'
-      - '{''text'': ''CC BY-SA 4.0''}'
+      - No license applied
+      - CC0 1.0
+      - CC BY 1.0
+      - CC BY 2.0
+      - CC BY 4.0
+      - CC BY-NC 1.0
+      - CC BY-ND 1.0
+      - CC BY-PD 1.0
+      - CC BY-SA 4.0
       required: false
     - id: 12
       name: rights_holder

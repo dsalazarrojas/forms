@@ -1,91 +1,80 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Color Street Sample And Information Request Form
     pages:
-      - id: 1
-        name: header
-        label: -- Sample Request --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: requester_name
-        label: Requester name
-        hint: Full name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: contact_email
-        label: Contact email
-        hint: Where samples will be mailed
-        type: email
-        options: []
-        required: true
-      - id: 4
-        name: product_samples_requested
-        label: Product samples requested
-        hint: List products or SKUs
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: shipping_address
-        label: Shipping address
-        hint: Full address for sample delivery
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: stylist_information
-        label: Stylist information
-        hint: Host or stylist details if applicable
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: sample_use_case
-        label: Sample use case
-        hint: Personal use or demonstration
-        type: select_one
-        options:
-          - Personal
-          - Demonstration
-          - Event
-        required: false
-      - id: 8
-        name: preferred_delivery_date
-        label: Preferred delivery date
-        hint: YYYY-MM-DD
-        type: date
-        options: []
-        required: false
-      - id: 9
-        name: subscribe_newsletter
-        label: Subscribe to newsletter
-        hint: Receive updates and promotions
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 10
-        name: additional_requests
-        label: Additional requests
-        hint: Any special sample requests
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: header
+      label: -- Sample Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Where samples will be mailed
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_samples_requested
+      label: Product samples requested
+      hint: List products or SKUs
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: shipping_address
+      label: Shipping address
+      hint: Full address for sample delivery
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: stylist_information
+      label: Stylist information
+      hint: Host or stylist details if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sample_use_case
+      label: Sample use case
+      hint: Personal use or demonstration
+      type: select_one
+      options:
+      - Personal
+      - Demonstration
+      - Event
+      required: false
+    - id: 8
+      name: preferred_delivery_date
+      label: Preferred delivery date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: subscribe_newsletter
+      label: Subscribe to newsletter
+      hint: Receive updates and promotions
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: additional_requests
+      label: Additional requests
+      hint: Any special sample requests
+      type: text
+      options: []
+      required: false

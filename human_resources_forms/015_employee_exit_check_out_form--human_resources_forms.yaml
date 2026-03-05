@@ -16,91 +16,56 @@ inputSchema:
     pages:
     - id: 1
       name: first_name
-      label: first_name
+      label: First Name
       hint: null
       type: text
       options: []
       required: true
     - id: 2
       name: last_name
-      label: last_name
+      label: Last Name
       hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: job_title
-      label: job_title
+      name: job_title_before_departure
+      label: Job Title Before Departure
       hint: null
       type: text
       options: []
       required: true
     - id: 4
-      name: date_of_departure
-      label: date_of_departure
+      name: reason_for_departure
+      label: Reason for Departure
       hint: null
-      type: date
+      type: text
       options: []
       required: true
     - id: 5
-      name: reason_for_departure
-      label: reason_for_departure
+      name: manager_name
+      label: Manager Name
       hint: null
       type: text
       options: []
       required: true
     - id: 6
-      name: job_title_before_departure
-      label: job_title_before_departure
+      name: manager_phone
+      label: Manager Phone
       hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: job_title_after_departure
-      label: job_title_after_departure
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: manager_name
-      label: manager_name
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 9
-      name: manager_phone
-      label: manager_phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
       name: manager_email
-      label: manager_email
+      label: Manager Email
       hint: null
       type: email
       options: []
       required: true
-    - id: 11
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: comments
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
+    - id: 8
       name: department
-      label: department
+      label: Department
       hint: null
       type: select_multiple
       options:
@@ -110,9 +75,9 @@ inputSchema:
       - Sales
       - Support
       required: false
-    - id: 14
+    - id: 9
       name: location
-      label: location
+      label: Location
       hint: null
       type: select_multiple
       options:
@@ -121,65 +86,79 @@ inputSchema:
       - Office
       - Home
       required: false
-    - id: 15
+    - id: 10
       name: supervisor_name
-      label: supervisor_name
+      label: Supervisor Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 11
       name: supervisor_phone
-      label: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date_prophets
+      label: Date of Prophets
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: date_joined
+      label: Date Joined
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: supervisor_email
-      label: supervisor_email
+      name: comments
+      label: Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: date_prophets
-      label: date_prophets
+      name: department_1
+      label: Previous Department
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 19
-      name: date_joined
-      label: date_joined
+      name: location_1
+      label: Previous Location
       hint: null
-      type: date
+      type: text
       options: []
       required: false
     - id: 20
-      name: employee_number
-      label: employee_number
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 21
-      name: department_1
-      label: department
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: location_1
-      label: location
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
       name: job_title_1
-      label: job_title
+      label: Job Title Before
       hint: null
       type: text
       options: []

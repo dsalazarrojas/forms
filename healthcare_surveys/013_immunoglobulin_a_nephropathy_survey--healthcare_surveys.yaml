@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Other (Specify)''}'
+      - 'True'
+      - 'False'
+      - Other (Specify)
       required: true
     - id: 5
       name: healthcare_experience
@@ -40,10 +40,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 6
       name: symptoms_duration
@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Hospital''}'
-      - '{''label'': ''Other''}'
-      - '{''label'': ''Home care''}'
+      - Doctor
+      - Hospital
+      - Other
+      - Home care
       required: true
     - id: 11
       name: healthcare_access_barriers
@@ -118,10 +118,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Family''}'
-      - '{''label'': ''Support Group''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Family
+      - Support Group
+      - Other
       required: true
     - id: 16
       name: support_needs_frequency

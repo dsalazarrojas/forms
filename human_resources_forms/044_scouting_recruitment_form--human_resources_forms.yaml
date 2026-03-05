@@ -4,57 +4,43 @@ inputSchema:
     title: Scouting Recruitment Form
     pages:
     - id: 1
-      name: scouting_recruitment_form
-      label: scouting_recruitment_plan
-      hint: null
+      name: scouting_recruitment_plan
+      label: What is the unit's scouting recruitment plan?
+      hint: Describe the unit's scouting recruitment plan
       type: text
       options: []
       required: false
     - id: 2
       name: unit_id
-      label: unit
-      hint: null
+      label: What is the unit's ID?
+      hint: Unit ID
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
       name: unit_name
-      label: unit
-      hint: null
+      label: What is the unit's name?
+      hint: Unit name
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: unit_name
-      label: unit
-      hint: null
+      name: contact_information
+      label: Unit contact information
+      hint: Contact information for the unit
       type: text
       options: []
       required: false
     - id: 5
-      name: contact_information
-      label: contact
-      hint: Contact information for unit
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: contact_email
-      label: contact_email
-      hint: Contact email
+      label: Unit contact email
+      hint: Unit contact email
       type: email
       options: []
       required: false
-    - id: 7
-      name: contact_phone
-      label: contact_phone
-      hint: Contact phone
-      type: text
-      options: []
-      required: false
-    - id: 8
+    - id: 6
       name: unit_type
-      label: unit_type
+      label: What is the unit's type?
       hint: Type of unit
       type: select_one
       options:
@@ -62,104 +48,79 @@ inputSchema:
       - Senior
       - Venture
       required: false
-    - id: 9
-      name: unit_type_other
-      label: unit_type
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
+    - id: 7
       name: unit_level
-      label: unit_level
+      label: Unit level
       hint: Unit level
       type: select_multiple
       options:
       - Senior
       - Junior
       required: false
-    - id: 11
+    - id: 8
       name: recruitment_goal
-      label: recruitment_goal
+      label: What is the unit's recruitment goal?
       hint: Recruitment goal
       type: text
       options: []
       required: false
-    - id: 12
+    - id: 9
       name: target_start_date
-      label: start_date
-      hint: Target start date
+      label: Target start date
+      hint: Target start date for the recruitment campaign
       type: date
       options: []
       required: false
-    - id: 13
+    - id: 10
       name: target_end_date
-      label: end_date
-      hint: Target end date
+      label: Target end date
+      hint: Target end date for the recruitment campaign
       type: date
       options: []
       required: false
-    - id: 14
+    - id: 11
       name: event_dates
-      label: dates
-      hint: Dates for events
+      label: Dates for events
+      hint: Dates for events related to the recruitment campaign
       type: time
       options: []
       required: false
-    - id: 15
+    - id: 12
       name: notes
-      label: notes
-      hint: null
+      label: Notes
+      hint: Additional notes
       type: text
       options: []
       required: false
-    - id: 16
-      name: scouting_recruiters
-      label: recruiter
-      hint: Scouting recruiters for unit
+    - id: 13
+      name: recruiter
+      label: Scouting recruiters for the unit
+      hint: Scouting recruiters for the unit
       type: select_one
       options:
       - John
       - Jane
       - Joe
       required: false
-    - id: 17
+    - id: 14
       name: other_recruiters
-      label: recruiter
-      hint: Other recruiters
+      label: Other scouting recruiters
+      hint: Other scouting recruiters for the unit
       type: text
       options: []
       required: false
-    - id: 18
+    - id: 15
       name: unit_officer
-      label: unit_officer
+      label: Unit officer
       hint: Unit officer
       type: select_one
       options:
       - 'True'
       - 'False'
       required: false
-    - id: 19
+    - id: 16
       name: flyer_request
-      label: request_flyer
-      hint: Do you need a flyer?
-      type: select_multiple
-      options:
-      - 'True'
-      - 'False'
-      required: false
-    - id: 20
-      name: flyer_request
-      label: request_flyer
-      hint: Do you need a flyer?
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: flyer_request
-      label: flyer_request
+      label: Do you need a flyer?
       hint: Do you need a flyer?
       type: select_multiple
       options:

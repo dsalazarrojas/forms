@@ -1,44 +1,80 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Self Report Measures Assessment Form
     pages:
     - id: 1
-      name: self_report_measures_assessment_form_1_page
-      label: self_report_measures_assessment_form_page
+      name: introduction_page
+      label: Introduction
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: self_report_measures_assessment_form_2_page
-      label: self_report_measures_assessment_form_page
+      name: symptoms_page
+      label: Symptoms
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 3
-      name: self_report_measures_assessment_form_3_page
-      label: self_report_measures_assessment_form_page
+      name: physical_activity_page
+      label: Physical Activity
       hint: null
-      type: text
+      type: number
       options: []
       required: false
     - id: 4
-      name: self_report_measures_assessment_form_4_page
-      label: self_report_measures_assessment_form_page
+      name: social_support_page
+      label: Social and Mental Health
       hint: null
-      type: text
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 5
+      name: mental_health_page
+      label: Mental Health
+      hint: null
+      type: radio
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 6
+      name: self_care_support_page
+      label: Self-Care and Support
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 7
+      name: support_network_page
+      label: Support Network
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 8
+      name: additional_info_page
+      label: Additional Information
+      hint: null
+      type: note
       options: []
       required: false

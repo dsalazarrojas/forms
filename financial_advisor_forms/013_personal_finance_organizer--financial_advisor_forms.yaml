@@ -4,129 +4,78 @@ inputSchema:
     title: Personal Finance Organizer
     pages:
     - id: 1
-      name: income
-      label: income
+      name: income_earnings
+      label: Monthly income
       hint: null
       type: number
       options: []
       required: false
     - id: 2
-      name: expenses
-      label: expenses
+      name: expenses_spendings
+      label: Monthly expenses
       hint: null
       type: number
       options: []
       required: false
     - id: 3
-      name: savings_goals
-      label: savings_goals
+      name: savings_targets
+      label: Monthly savings
       hint: null
       type: number
       options: []
       required: false
     - id: 4
-      name: savings_priority
-      label: savings_priority
+      name: save_priority
+      label: Saving priority
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - Always
+      - Sometimes
+      - Rarely
       required: false
     - id: 5
       name: income
-      label: income
+      label: Income amount
       hint: null
       type: number
       options: []
       required: false
     - id: 6
-      name: expenses
-      label: expenses
+      name: expenses_amount
+      label: Expenses amount
       hint: null
       type: number
       options: []
       required: false
     - id: 7
-      name: savings_goals
-      label: savings_goals
+      name: savings_goal
+      label: Savings goal
       hint: null
       type: number
       options: []
       required: false
     - id: 8
-      name: savings_priority
-      label: savings_priority
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 9
-      name: date
-      label: date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: time
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 12
-      name: phone
-      label: phone
+      name: save_phone
+      label: Phone number
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: money_priority
-      label: money_priority
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: income
-      label: income
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: expenses
-      label: expenses
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: savings_goals
-      label: savings_goals
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: savings_priority
-      label: savings_priority
+    - id: 9
+      name: savings_priority_important
+      label: Savings priority importance
       hint: null
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
       required: false

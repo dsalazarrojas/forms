@@ -5,178 +5,135 @@ inputSchema:
     pages:
     - id: 1
       name: treatment_outcome
-      label: treatment_outcome
-      hint: null
+      label: What was the outcome of your skin treatment?
+      hint: Select one
       type: select_one
       options:
-      - '1'
-      - '2'
-      - '3'
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 2
       name: overall_experience
-      label: overall_experience
-      hint: null
+      label: Rate your overall experience
+      hint: 1-5
       type: number
       options: []
       required: false
     - id: 3
       name: satisfaction
-      label: satisfaction
-      hint: null
+      label: How satisfied are you with the service?
+      hint: 1-5
       type: number
       options: []
       required: false
     - id: 4
-      name: none
-      label: None
+      name: treatment_issues
+      label: Were there any issues with your treatment?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
-      name: none
-      label: None
+      name: feedback_treatment
+      label: Do you have any feedback about your treatment?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: none
-      label: None
+      name: improvement_service
+      label: How can we improve our service?
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: none
-      label: None
+      name: additional_comments
+      label: Additional comments
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: none
-      label: None
+      name: treatment_recommendation
+      label: Do you have any recommendations for us?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: none
-      label: None
+      name: contact_info
+      label: How can we contact you?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: none
-      label: None
+      name: contact_method
+      label: Contact method
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - email
+      - phone
       required: false
     - id: 11
-      name: none
-      label: None
+      name: follow_up_contact
+      label: Would you like to be contacted for follow-up questions?
       hint: null
-      type: text
-      options: []
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false
     - id: 12
-      name: none
-      label: None
+      name: follow_up_method
+      label: How would you like to be contacted?
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - email
+      - phone
       required: false
     - id: 13
-      name: none
-      label: None
+      name: follow_up_date
+      label: When would you like to be contacted?
       hint: null
-      type: text
+      type: date
       options: []
       required: false
     - id: 14
-      name: none
-      label: None
+      name: follow_up_time
+      label: What time would you like to be contacted?
       hint: null
-      type: text
+      type: time
       options: []
       required: false
     - id: 15
-      name: none
-      label: None
+      name: follow_up_note
+      label: Additional information
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 16
-      name: none
-      label: None
+      name: follow_up_email
+      label: Follow-up email address
       hint: null
       type: text
       options: []
       required: false
     - id: 17
-      name: none
-      label: None
+      name: follow_up_phone
+      label: Follow-up phone number
       hint: null
       type: text
       options: []
       required: false
     - id: 18
-      name: none
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: none
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: none
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: none
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: none
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: none
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: none
-      label: None
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: none
-      label: None
+      name: follow_up_message
+      label: Follow-up message
       hint: null
       type: text
       options: []

@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Healthcare Forms''}'
-      - '{''value'': ''Research Forms''}'
+      - Healthcare Forms
+      - Research Forms
       required: false
     - id: 3
       name: description
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''yes''}'
-      - '{''value'': ''no''}'
-      - '{''value'': ''not sure''}'
+      - 'yes'
+      - 'no'
+      - not sure
       required: false
     - id: 5
       name: participant_questions
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Q1''}'
-      - '{''value'': ''Q2''}'
-      - '{''value'': ''Q3''}'
+      - Q1
+      - Q2
+      - Q3
       required: false
     - id: 6
       name: submit
@@ -101,8 +101,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''self''}'
-      - '{''value'': ''researcher''}'
+      - self
+      - researcher
       required: false
     - id: 14
       name: submitter_phone
@@ -124,8 +124,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''self''}'
-      - '{''value'': ''team''}'
+      - self
+      - team
       required: false
     - id: 17
       name: researcher_phone
@@ -147,8 +147,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''self''}'
-      - '{''value'': ''other''}'
+      - self
+      - other
       required: false
     - id: 20
       name: participant_phone
@@ -191,7 +191,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''M''}'
-      - '{''value'': ''F''}'
-      - '{''value'': ''O''}'
+      - M
+      - F
+      - O
       required: false

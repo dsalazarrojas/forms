@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Casual''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Casual
+      - Intermediate
+      - Advanced
       required: true
     - id: 3
       name: skill_level
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Beginner''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Beginner
+      - Intermediate
+      - Advanced
       required: false
     - id: 4
       name: availability
@@ -43,11 +43,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Monday''}'
-      - '{''id'': 2, ''label'': ''Tuesday''}'
-      - '{''id'': 3, ''label'': ''Wednesday''}'
-      - '{''id'': 4, ''label'': ''Thursday''}'
-      - '{''id'': 5, ''label'': ''Friday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
       required: false
     - id: 6
       name: team_members
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''League of Legends''}'
-      - '{''id'': 2, ''label'': ''Fortnite''}'
-      - '{''id'': 3, ''label'': ''Overwatch''}'
+      - League of Legends
+      - Fortnite
+      - Overwatch
       required: false
     - id: 10
       name: game_experience
@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Casual''}'
-      - '{''id'': 2, ''label'': ''Intermediate''}'
-      - '{''id'': 3, ''label'': ''Advanced''}'
+      - Casual
+      - Intermediate
+      - Advanced
       required: false
     - id: 11
       name: availability_time
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''America/Los_Angeles''}'
-      - '{''id'': 2, ''label'': ''New York''}'
-      - '{''id'': 3, ''label'': ''Tokyo''}'
+      - America/Los Angeles
+      - New York
+      - Tokyo
       required: false
     - id: 13
       name: availability_duration

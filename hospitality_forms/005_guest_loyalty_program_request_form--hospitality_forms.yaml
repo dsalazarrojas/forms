@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Email''}'
-      - '{''id'': 2, ''label'': ''Phone''}'
-      - '{''id'': 3, ''label'': ''SMS''}'
-      - '{''id'': 4, ''label'': ''In-app''}'
+      - Email
+      - Phone
+      - SMS
+      - In-app
       required: true
     - id: 3
       name: communication_preferences
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''What are your favorite destinations?''}'
-      - '{''id'': 2, ''label'': ''What is your preferred method of communication?''}'
-      - '{''id'': 3, ''label'': ''Can we help you with something else?''}'
+      - What are your favorite destinations?
+      - What is your preferred method of communication?
+      - Can we help you with something else?
       required: false
     - id: 7
       name: loyalty_program_requests
@@ -72,7 +72,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Hospitality''}'
-      - '{''id'': 2, ''label'': ''Sales''}'
-      - '{''id'': 3, ''label'': ''Marketing''}'
+      - Hospitality
+      - Sales
+      - Marketing
       required: true

@@ -1,140 +1,129 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CASA Supervisor Weekly Progress Report
     pages:
-      - id: 1
-        name: progress_report_header
-        label: -- Weekly Site Staff Progress Report --
-        hint: Completed by Site Supervisors to track staff productivity and challenges.
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: supervisor_name_report
-        label: Supervisor Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: reporting_site_location
-        label: Reporting Site Location
-        hint: null
-        type: select_one
-        options:
-          - Site A - Central
-          - Site B - North
-          - Site C - South
-          - Site D - West
-          - Remote/Virtual Office
-        required: true
-      - id: 4
-        name: week_ending_date
-        label: Week Ending Date (Friday)
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 5
-        name: staff_member_under_review
-        label: Staff Member Name
-        hint: Who are you reporting on?
-        type: text
-        options: []
-        required: true
-      - id: 6
-        name: key_tasks_completed
-        label: Key Tasks Completed This Week
-        hint: List the main achievements or projects finalized.
-        type: text
-        options: []
-        required: true
-      - id: 7
-        name: percent_weekly_goal_met
-        label: Percentage of Weekly Goals Achieved
-        hint: null
-        type: select_one
-        options:
-          - 0-25%
-          - 26-50%
-          - 51-75%
-          - 76-100%
-          - Exceeded Goals
-        required: true
-      - id: 8
-        name: challenge_identification
-        label: Primary Challenges Encountered
-        hint: Obstacles that hindered progress.
-        type: text
-        options: []
-        required: true
-      - id: 9
-        name: supervisor_support_provided
-        label: Support Provided by Supervisor
-        hint: How did you assist the staff member this week?
-        type: text
-        options: []
-        required: true
-      - id: 10
-        name: staff_development_needs
-        label: Identified Training or Development Needs
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 11
-        name: next_week_priorities
-        label: Top Priorities for Next Week
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 12
-        name: attendance_check
-        label: Were there any attendance or punctuality issues?
-        hint: null
-        type: select_one
-        options:
-          - No Issues
-          - Minor Issues (addressed)
-          - Major Issues (documented)
-        required: true
-      - id: 13
-        name: performance_rating_weekly
-        label: Overall Weekly Performance Rating
-        hint: null
-        type: select_one
-        options:
-          - Unsatisfactory
-          - Satisfactory
-          - Commendable
-          - Outstanding
-        required: true
-      - id: 14
-        name: supervisor_final_comments
-        label: Additional Comments
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 15
-        name: report_submission_confirmation
-        label: I have discussed this report with the staff member
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No (planned for next week)
-        required: true
+    - id: 1
+      name: progress_report_header
+      label: -- Weekly Site Staff Progress Report --
+      hint: Completed by Site Supervisors to track staff productivity and challenges.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name_report
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_site_location
+      label: Reporting Site Location
+      hint: null
+      type: select_one
+      options:
+      - Site A - Central
+      - Site B - North
+      - Site C - South
+      - Site D - West
+      - Remote/Virtual Office
+      required: true
+    - id: 4
+      name: week_ending_date
+      label: Week Ending Date (Friday)
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: staff_member_under_review
+      label: Staff Member Name
+      hint: Who are you reporting on?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: key_tasks_completed
+      label: Key Tasks Completed This Week
+      hint: List the main achievements or projects finalized.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: percent_weekly_goal_met
+      label: Percentage of Weekly Goals Achieved
+      hint: null
+      type: select_one
+      options:
+      - 0-25%
+      - 26-50%
+      - 51-75%
+      - 76-100%
+      - Exceeded Goals
+      required: true
+    - id: 8
+      name: challenge_identification
+      label: Primary Challenges Encountered
+      hint: Obstacles that hindered progress.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_support_provided
+      label: Support Provided by Supervisor
+      hint: How did you assist the staff member this week?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: staff_development_needs
+      label: Identified Training or Development Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_week_priorities
+      label: Top Priorities for Next Week
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: attendance_check
+      label: Were there any attendance or punctuality issues?
+      hint: null
+      type: select_one
+      options:
+      - No Issues
+      - Minor Issues (addressed)
+      - Major Issues (documented)
+      required: true
+    - id: 13
+      name: performance_rating_weekly
+      label: Overall Weekly Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Unsatisfactory
+      - Satisfactory
+      - Commendable
+      - Outstanding
+      required: true
+    - id: 14
+      name: supervisor_final_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_submission_confirmation
+      label: I have discussed this report with the staff member
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - No (planned for next week)
+      required: true

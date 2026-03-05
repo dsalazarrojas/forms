@@ -74,9 +74,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Other''}'
+      - Nurse
+      - Doctor
+      - Other
       required: false
     - id: 11
       name: incident_location
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Ward''}'
-      - '{''label'': ''Clinic''}'
-      - '{''label'': ''Other''}'
+      - Ward
+      - Clinic
+      - Other
       required: false
     - id: 12
       name: incident_nature
@@ -94,9 +94,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Error''}'
-      - '{''label'': ''Near-Miss''}'
-      - '{''label'': ''Other''}'
+      - Error
+      - Near-Miss
+      - Other
       required: false
     - id: 13
       name: incident_cause
@@ -104,9 +104,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''System''}'
-      - '{''label'': ''Human''}'
-      - '{''label'': ''Equipment''}'
+      - System
+      - Human
+      - Equipment
       required: false
     - id: 14
       name: incident_outcome
@@ -114,7 +114,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Harm to Patient''}'
-      - '{''label'': ''Harm to Staff''}'
-      - '{''label'': ''No Harm''}'
+      - Harm to Patient
+      - Harm to Staff
+      - No Harm
       required: false

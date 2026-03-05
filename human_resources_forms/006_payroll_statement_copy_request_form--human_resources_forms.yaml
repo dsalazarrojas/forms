@@ -30,9 +30,9 @@ inputSchema:
       hint: Select department
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accounting''}'
-      - '{''id'': 2, ''label'': ''Operations''}'
-      - '{''id'': 3, ''label'': ''Management''}'
+      - Accounting
+      - Operations
+      - Management
       required: false
     - id: 5
       name: manager_name
@@ -61,9 +61,9 @@ inputSchema:
       hint: Select all that apply
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Requesting a copy for my records''}'
-      - '{''id'': 2, ''label'': ''Requesting for my manager''}'
-      - '{''id'': 3, ''label'': ''Requesting for HR''}'
+      - Requesting a copy for my records
+      - Requesting for my manager
+      - Requesting for HR
       required: false
     - id: 9
       name: signature
@@ -78,8 +78,8 @@ inputSchema:
       hint: Submit or save for later
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Submit Form''}'
-      - '{''id'': 2, ''label'': ''Save for Later''}'
+      - Submit Form
+      - Save for Later
       required: false
     - id: 11
       name: employee_email
@@ -143,9 +143,9 @@ inputSchema:
       hint: Select department
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Accounting''}'
-      - '{''id'': 2, ''label'': ''Operations''}'
-      - '{''id'': 3, ''label'': ''Management''}'
+      - Accounting
+      - Operations
+      - Management
       required: false
     - id: 20
       name: job_title
@@ -181,8 +181,8 @@ inputSchema:
       hint: Select submitter
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employee''}'
-      - '{''id'': 2, ''label'': ''Manager''}'
+      - Employee
+      - Manager
       required: false
     - id: 25
       name: date_submitted

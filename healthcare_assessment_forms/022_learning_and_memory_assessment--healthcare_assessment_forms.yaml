@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''High School''}'
-      - '{''id'': 3, ''label'': ''Some college''}'
-      - '{''id'': 4, ''label'': ''College''}'
+      - None
+      - High School
+      - Some college
+      - College
       required: true
     - id: 5
       name: background_question_2
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 6
       name: background_question_3
@@ -55,10 +55,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employed''}'
-      - '{''id'': 2, ''label'': ''Unemployed''}'
-      - '{''id'': 3, ''label'': ''Retired''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Employed
+      - Unemployed
+      - Retired
+      - Other
       required: true
     - id: 7
       name: self_rating_1
@@ -157,8 +157,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: background_question_11
@@ -166,10 +166,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Morning''}'
-      - '{''id'': 2, ''label'': ''Afternoon''}'
-      - '{''id'': 3, ''label'': ''Evening''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Morning
+      - Afternoon
+      - Evening
+      - Other
       required: false
     - id: 21
       name: background_question_12
@@ -177,9 +177,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Clinic''}'
-      - '{''id'': 2, ''label'': ''Home''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Clinic
+      - Home
+      - Other
       required: false
     - id: 22
       name: background_question_13
@@ -187,9 +187,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Drive''}'
-      - '{''id'': 2, ''label'': ''Public transportation''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Drive
+      - Public transportation
+      - Other
       required: false
     - id: 23
       name: background_question_14
@@ -197,8 +197,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 24
       name: background_question_15
@@ -213,6 +213,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true

@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 4
       name: allergies
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Penicillin''}'
-      - '{''label'': ''Latex''}'
-      - '{''label'': ''Shellfish''}'
+      - Penicillin
+      - Latex
+      - Shellfish
       required: false
     - id: 5
       name: medical_conditions
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Normal''}'
-      - '{''label'': ''Abnormal''}'
+      - Normal
+      - Abnormal
       required: false
     - id: 7
       name: patient_status
@@ -58,8 +58,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Stable''}'
-      - '{''label'': ''Unstable''}'
+      - Stable
+      - Unstable
       required: true
     - id: 8
       name: nurse_signature
@@ -74,7 +74,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Signature''}'
+      - Signature
       - Other
       required: true
     - id: 10
@@ -92,8 +92,8 @@ inputSchema:
       options: []
       required: false
     - id: 12
-      name: lab_results
-      label: Lab Results
+      name: lab_results_2
+      label: Lab Results 2
       hint: null
       type: date
       options: []
@@ -111,8 +111,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''90-100''}'
-      - '{''label'': ''< 90''}'
+      - 90-100
+      - < 90
       required: false
     - id: 15
       name: patient_name
@@ -157,42 +157,42 @@ inputSchema:
       options: []
       required: true
     - id: 21
-      name: medication_administered
-      label: Medication Administered
+      name: medication_administered_2
+      label: Medication Administered 2
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Aspirin''}'
-      - '{''label'': ''Penicillin''}'
+      - Aspirin
+      - Penicillin
       required: false
     - id: 22
-      name: lab_results
-      label: Lab Results
+      name: lab_results_3
+      label: Lab Results 3
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Normal''}'
-      - '{''label'': ''Abnormal''}'
+      - Normal
+      - Abnormal
       required: false
     - id: 23
-      name: patient_status
-      label: Patient Status
+      name: patient_status_2
+      label: Patient Status 2
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Stable''}'
-      - '{''label'': ''Unstable''}'
+      - Stable
+      - Unstable
       required: true
     - id: 24
-      name: comments
-      label: Comments
+      name: comments_2
+      label: Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 25
-      name: patient_name
-      label: Patient Name
+      name: patient_name_2
+      label: Patient Name 2
       hint: null
       type: text
       options: []

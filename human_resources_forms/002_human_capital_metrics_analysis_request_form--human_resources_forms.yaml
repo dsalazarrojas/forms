@@ -5,14 +5,14 @@ inputSchema:
     pages:
     - id: 1
       name: employee_id
-      label: Employee ID
+      label: What is the employee ID?
       hint: null
       type: number
       options: []
       required: true
     - id: 2
       name: department
-      label: department
+      label: What is the department the employee belongs to?
       hint: null
       type: select_multiple
       options:
@@ -20,181 +20,88 @@ inputSchema:
       - Operations
       - Finance
       - Admin
-      required: false
+      required: true
     - id: 3
       name: metric_1
-      label: Metric 1
+      label: What is the number of employees in the team?
       hint: null
       type: number
       options: []
       required: true
     - id: 4
       name: metric_2
-      label: Metric 2
+      label: What is the average salary of the team?
       hint: null
       type: number
       options: []
       required: true
     - id: 5
       name: metric_3
-      label: Metric 3
+      label: What is the percentage of employees on leave?
       hint: null
       type: number
       options: []
       required: true
     - id: 6
       name: date
-      label: Date
+      label: What is the date of this analysis?
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 7
       name: time
-      label: Time
+      label: What is the time of this analysis?
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 8
       name: email
-      label: Email
+      label: What is the email address of the employee?
       hint: null
       type: email
       options: []
-      required: false
+      required: true
     - id: 9
       name: phone
-      label: Phone
+      label: What is the phone number of the employee?
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 10
-      name: metric_4
-      label: Metric 4
+      name: metric_7
+      label: What is the number of years of service?
       hint: null
       type: number
       options: []
       required: true
     - id: 11
-      name: metric_5
-      label: Metric 5
+      name: metric_8
+      label: What is the number of certifications achieved?
       hint: null
       type: number
       options: []
       required: true
     - id: 12
-      name: metric_6
-      label: Metric 6
+      name: metric_9
+      label: What is the number of awards received?
       hint: null
       type: number
       options: []
       required: true
     - id: 13
-      name: metric_7
-      label: Metric 7
+      name: metric_10
+      label: What is the overall rating of the employee?
       hint: null
       type: number
       options: []
       required: true
     - id: 14
-      name: metric_8
-      label: Metric 8
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 15
-      name: metric_9
-      label: Metric 9
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 16
-      name: metric_10
-      label: Metric 10
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 17
       name: note
-      label: Note
+      label: Is there any additional note about the employee?
       hint: null
       type: note
-      options: []
-      required: false
-    - id: 18
-      name: chat_jimmy
-      label: chat_jimmy
-      hint: null
-      type: select_one
-      options:
-      - chat_jimmy
-      - another_option
-      required: false
-    - id: 19
-      name: department
-      label: Department
-      hint: null
-      type: select_multiple
-      options:
-      - HR
-      - Operations
-      - Finance
-      - Admin
-      required: false
-    - id: 20
-      name: employee
-      label: Employee
-      hint: null
-      type: select_multiple
-      options:
-      - John Doe
-      - Jane Doe
-      - Another Employee
-      required: false
-    - id: 21
-      name: employee_status
-      label: Employee Status
-      hint: null
-      type: select_one
-      options:
-      - Active
-      - Inactive
-      - On Leave
-      required: false
-    - id: 22
-      name: department
-      label: Department
-      hint: null
-      type: select_one
-      options:
-      - HR
-      - Operations
-      - Finance
-      - Admin
-      required: false
-    - id: 23
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 24
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 25
-      name: metric_1
-      label: Metric 1
-      hint: null
-      type: number
       options: []
       required: true

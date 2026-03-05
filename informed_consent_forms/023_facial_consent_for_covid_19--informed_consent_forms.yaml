@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': "Client''s Choice"}'
-      - '{''id'': 2, ''name'': "Salon''s Choice"}'
-      - '{''id'': 3, ''name'': "Spa''s Choice"}'
+      - Client's Choice
+      - Salon's Choice
+      - Spa's Choice
       required: false
     - id: 3
       name: client_consent
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facial''}'
-      - '{''id'': 2, ''name'': ''Haircut''}'
-      - '{''id'': 3, ''name'': ''Massage''}'
+      - Facial
+      - Haircut
+      - Massage
       required: true
     - id: 10
       name: contact_method
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
+      - Email
+      - Phone
       required: true
     - id: 11
       name: email

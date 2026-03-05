@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mild''}'
-      - '{''value'': ''Moderate''}'
-      - '{''value'': ''Severe''}'
+      - Mild
+      - Moderate
+      - Severe
       required: false
     - id: 3
       name: pain_duration
@@ -37,10 +26,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Less than a day''}'
-      - '{''value'': ''1-4 days''}'
-      - '{''value'': ''5-7 days''}'
-      - '{''value'': ''More than 7 days''}'
+      - Less than a day
+      - 1-4 days
+      - 5-7 days
+      - More than 7 days
       required: false
     - id: 4
       name: pain_location
@@ -48,10 +37,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Front of neck''}'
-      - '{''value'': ''Back of neck''}'
-      - '{''value'': ''Sides of neck''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Front of neck
+      - Back of neck
+      - Sides of neck
+      - Other (please specify)
       required: false
     - id: 5
       name: pain_intensity
@@ -59,9 +48,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Slight''}'
-      - '{''value'': ''Moderate''}'
-      - '{''value'': ''Severe''}'
+      - Slight
+      - Moderate
+      - Severe
       required: false
     - id: 6
       name: treatment_options
@@ -69,12 +58,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Physical therapy''}'
-      - '{''value'': ''Pain management''}'
-      - '{''value'': ''Rest and relaxation''}'
-      - '{''value'': ''Medication''}'
-      - '{''value'': ''Surgery''}'
-      - '{''value'': ''Other (please specify)''}'
+      - Physical therapy
+      - Pain management
+      - Rest and relaxation
+      - Medication
+      - Surgery
+      - Other (please specify)
       required: false
     - id: 7
       name: medical_history
@@ -131,10 +120,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''None''}'
-      - '{''value'': ''Family history of neck pain''}'
-      - '{''value'': ''Family history of other medical condition''}'
-      - '{''value'': ''Family history of other''}'
+      - None
+      - Family history of neck pain
+      - Family history of other medical condition
+      - Family history of other
       required: false
     - id: 15
       name: previous_surgeries
@@ -152,7 +141,7 @@ inputSchema:
       required: false
     - id: 17
       name: doctor_suggestions
-      label: "Doctor\u2019s Suggestions"
+      label: Doctor’s Suggestions
       hint: null
       type: text
       options: []

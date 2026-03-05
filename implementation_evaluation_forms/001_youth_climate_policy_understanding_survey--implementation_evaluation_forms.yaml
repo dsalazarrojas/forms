@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''high''}'
-      - '{''value'': ''medium''}'
-      - '{''value'': ''low''}'
+      - high
+      - medium
+      - low
       required: false
     - id: 3
       name: climate_policies
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''national''}'
-      - '{''value'': ''local''}'
-      - '{''value'': ''global''}'
+      - national
+      - local
+      - global
       required: false
     - id: 4
       name: sources_of_info
@@ -36,12 +36,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''family''}'
-      - '{''value'': ''friends''}'
-      - '{''value'': ''school''}'
-      - '{''value'': ''social media''}'
-      - '{''value'': ''internet''}'
-      - '{''value'': ''government''}'
+      - family
+      - friends
+      - school
+      - social media
+      - internet
+      - government
       required: false
     - id: 5
       name: climate_policy
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''strong''}'
-      - '{''value'': ''weak''}'
+      - strong
+      - weak
       required: false
     - id: 6
       name: policy_priority
@@ -65,11 +65,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''reduce consumption''}'
-      - '{''value'': ''change consumption habits''}'
-      - '{''value'': ''invest in re''}'
-      - '{''value'': ''transition to renew''}'
-      - '{''value'': ''other''}'
+      - reduce consumption
+      - change consumption habits
+      - invest in re
+      - transition to renew
+      - other
       required: false
     - id: 8
       name: policy_support
@@ -77,8 +77,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: communication
@@ -86,11 +86,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''government''}'
-      - '{''value'': ''social media''}'
-      - '{''value'': ''school''}'
-      - '{''value'': ''family''}'
-      - '{''value'': ''friends''}'
+      - government
+      - social media
+      - school
+      - family
+      - friends
       required: false
     - id: 10
       name: policy_implementation
@@ -98,8 +98,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''good''}'
-      - '{''value'': ''bad''}'
+      - good
+      - bad
       required: false
     - id: 11
       name: policy_effectiveness
@@ -177,8 +177,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''positive''}'
-      - '{''value'': ''negative''}'
+      - positive
+      - negative
       required: false
     - id: 22
       name: climate_policy_satisfaction

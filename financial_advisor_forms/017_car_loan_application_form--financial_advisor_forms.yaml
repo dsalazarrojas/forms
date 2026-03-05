@@ -295,8 +295,8 @@ inputSchema:
       hint: Do you have a trade-in?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 37
       name: trade_in_year
@@ -339,8 +339,8 @@ inputSchema:
       hint: Do you have a checking account?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 43
       name: savings_account
@@ -348,8 +348,8 @@ inputSchema:
       hint: Do you have a savings account?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 44
       name: monthly_debt_obligations
@@ -364,8 +364,8 @@ inputSchema:
       hint: Do you have existing loans?
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 46
       name: bankruptcy_history
@@ -373,7 +373,7 @@ inputSchema:
       hint: Any bankruptcies filed?
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes - within 3 years
       - Yes - over 3 years ago
       required: true

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''I am fit and able to work''}'
-      - '{''id'': 2, ''name'': ''I am not fit and able to work''}'
-      - '{''id'': 3, ''name'': ''I am not sure if I am fit and able to work''}'
+      - I am fit and able to work
+      - I am not fit and able to work
+      - I am not sure if I am fit and able to work
       required: false
     - id: 4
       name: health_risk
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''I am ready to work''}'
-      - '{''id'': 2, ''name'': ''I am not ready to work''}'
-      - '{''id'': 3, ''name'': ''I am partially ready to work''}'
+      - I am ready to work
+      - I am not ready to work
+      - I am partially ready to work
       required: false
     - id: 6
       name: safety_declaration
@@ -71,9 +71,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Not Required''}'
+      - 'True'
+      - 'False'
+      - Not Required
       required: false
     - id: 10
       name: medical_certification
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
-      - '{''id'': 3, ''name'': ''Not Required''}'
+      - 'True'
+      - 'False'
+      - Not Required
       required: false
     - id: 11
       name: medical_test
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Required''}'
-      - '{''id'': 2, ''name'': ''Not Required''}'
-      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      - Required
+      - Not Required
+      - Not Applicable
       required: false
     - id: 12
       name: medical_record
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Required''}'
-      - '{''id'': 2, ''name'': ''Not Required''}'
-      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      - Required
+      - Not Required
+      - Not Applicable
       required: false
     - id: 13
       name: emergency_contact
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Primary''}'
-      - '{''id'': 2, ''name'': ''Secondary''}'
-      - '{''id'': 3, ''name'': ''Not Applicable''}'
+      - Primary
+      - Secondary
+      - Not Applicable
       required: false
     - id: 15
       name: medical_provider_name

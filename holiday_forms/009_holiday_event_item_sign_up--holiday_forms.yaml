@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -55,10 +44,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Vegetarian''}'
-      - '{''id'': 3, ''label'': ''Vegan''}'
-      - '{''id'': 4, ''label'': ''Gluten Free''}'
+      - None
+      - Vegetarian
+      - Vegan
+      - Gluten Free
       required: false
     - id: 7
       name: food_items
@@ -66,12 +55,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''None''}'
-      - '{''id'': 2, ''label'': ''Fruits''}'
-      - '{''id'': 3, ''label'': ''Vegetables''}'
-      - '{''id'': 4, ''label'': ''Dairy''}'
-      - '{''id'': 5, ''label'': ''Meats''}'
-      - '{''id'': 6, ''label'': ''Desserts''}'
+      - None
+      - Fruits
+      - Vegetables
+      - Dairy
+      - Meats
+      - Desserts
       required: false
     - id: 8
       name: contribution_type
@@ -79,9 +68,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Host''}'
-      - '{''id'': 2, ''label'': ''Guest''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Host
+      - Guest
+      - Both
       required: false
     - id: 9
       name: notes

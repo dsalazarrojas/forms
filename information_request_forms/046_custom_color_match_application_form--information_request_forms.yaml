@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Fair''}'
-      - '{''id'': 2, ''label'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Dark''}'
+      - Fair
+      - Medium
+      - Dark
       required: false
     - id: 5
       name: skin_tone
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: tan_type

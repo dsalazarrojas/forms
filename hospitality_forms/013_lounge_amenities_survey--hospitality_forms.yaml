@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''1''}'
-      - '{''value'': ''2''}'
-      - '{''value'': ''3''}'
-      - '{''value'': ''4''}'
-      - '{''value'': ''5''}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: true
     - id: 3
       name: rating_scale
@@ -28,9 +28,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1-2''}'
-      - '{''value'': ''3-4''}'
-      - '{''value'': ''5-6''}'
+      - 1-2
+      - 3-4
+      - 5-6
       required: true
     - id: 4
       name: rating_food
@@ -59,8 +59,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Positive''}'
-      - '{''value'': ''Negative''}'
+      - Positive
+      - Negative
       required: true
     - id: 8
       name: amenity_list
@@ -68,11 +68,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Wi-Fi''}'
-      - '{''value'': ''Comfortable Seating''}'
-      - '{''value'': ''Power Outlets''}'
-      - '{''value'': ''Charging Station''}'
-      - '{''value'': ''Food/Drink Service''}'
+      - Wi-Fi
+      - Comfortable Seating
+      - Power Outlets
+      - Charging Station
+      - Food/Drink Service
       required: true
     - id: 9
       name: additional_comments

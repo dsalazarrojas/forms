@@ -1,121 +1,123 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Co-Operative Board Election Voting Form
     pages:
-      - id: 1
-        name: member_name
-        label: Member Full Name
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: membership_id
-        label: Membership ID Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: property_address
-        label: Property Address or Unit Number
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: section_verification
-        label: -- Voter Verification --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 5
-        name: good_standing_cert
-        label: I certify that I am a member in good standing of the co-operative
-        hint: null
-        type: select_one
-        options: [Yes, I certify]
-        required: true
-      - id: 6
-        name: section_ballot
-        label: -- Board Election Ballot --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 7
-        name: candidate_selection
-        label: Select your candidates for Board of Directors - Choose up to 3
-        hint: Select up to 3 individuals
-        type: select_multiple
-        options: [Alice Thompson, Brian Miller, Carlos Rodriguez, Diana Chen, Edward Norton]
-        required: true
-      - id: 8
-        name: section_resolutions
-        label: -- Special Resolutions --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 9
-        name: budget_resolution
-        label: Resolution 1 - Annual Operating Budget Approval
-        hint: null
-        type: select_one
-        options: [Approve, Reject, Abstain]
-        required: true
-      - id: 10
-        name: bylaws_resolution
-        label: Resolution 2 - Proposed Amendment to Co-operative Bylaws
-        hint: null
-        type: select_one
-        options: [Approve, Reject, Abstain]
-        required: true
-      - id: 11
-        name: section_feedback
-        label: -- Feedback --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 12
-        name: leadership_comments
-        label: Any comments for the board candidates or current leadership?
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 13
-        name: section_authentication
-        label: -- Authentication --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 14
-        name: ballot_signature
-        label: Digital Signature for ballot verification
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 15
-        name: vote_date
-        label: Date of Vote
-        hint: null
-        type: date
-        options: []
-        required: true
+    - id: 1
+      name: member_name
+      label: Member Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: membership_id
+      label: Membership ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address or Unit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_verification
+      label: -- Voter Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: good_standing_cert
+      label: I certify that I am a member in good standing of the co-operative
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - I certify
+      required: true
+    - id: 6
+      name: section_ballot
+      label: -- Board Election Ballot --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: candidate_selection
+      label: Select your candidates for Board of Directors - Choose up to 3
+      hint: Select up to 3 individuals
+      type: select_multiple
+      options:
+      - Alice Thompson
+      - Brian Miller
+      - Carlos Rodriguez
+      - Diana Chen
+      - Edward Norton
+      required: true
+    - id: 8
+      name: section_resolutions
+      label: -- Special Resolutions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: budget_resolution
+      label: Resolution 1 - Annual Operating Budget Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      - Abstain
+      required: true
+    - id: 10
+      name: bylaws_resolution
+      label: Resolution 2 - Proposed Amendment to Co-operative Bylaws
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Reject
+      - Abstain
+      required: true
+    - id: 11
+      name: section_feedback
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: leadership_comments
+      label: Any comments for the board candidates or current leadership?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_authentication
+      label: -- Authentication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ballot_signature
+      label: Digital Signature for ballot verification
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: vote_date
+      label: Date of Vote
+      hint: null
+      type: date
+      options: []
+      required: true

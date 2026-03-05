@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Booklet 1''}'
-      - '{''id'': 2, ''label'': ''Booklet 2''}'
-      - '{''id'': 3, ''label'': ''Booklet 3''}'
+      - Booklet 1
+      - Booklet 2
+      - Booklet 3
       required: true
     - id: 6
       name: shipping
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Standard''}'
-      - '{''id'': 2, ''label'': ''Express''}'
-      - '{''id'': 3, ''label'': ''UPS''}'
+      - Standard
+      - Express
+      - UPS
       required: true
     - id: 7
       name: address
@@ -162,10 +162,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''A3''}'
-      - '{''id'': 2, ''label'': ''Letter''}'
-      - '{''id'': 3, ''label'': ''Legal''}'
-      - '{''id'': 4, ''label'': ''Tabloid''}'
+      - A3
+      - Letter
+      - Legal
+      - Tabloid
       required: false
     - id: 23
       name: custom_booklet_layout
@@ -173,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''2-up''}'
-      - '{''id'': 2, ''label'': ''3-up''}'
-      - '{''id'': 3, ''label'': ''4-up''}'
+      - 2-up
+      - 3-up
+      - 4-up
       required: false
     - id: 24
       name: payment_terms
@@ -190,6 +190,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Accept''}'
-      - '{''id'': 2, ''label'': ''Decline''}'
+      - Accept
+      - Decline
       required: true

@@ -15,183 +15,45 @@ inputSchema:
     title: Ultrasound Cavitation Consent Form
     pages:
     - id: 1
-      name: form_title
-      label: Ultrasound Cavitation Consent Form
+      name: patient_info
+      label: Patient Info
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: form_description
-      label: Description
+      name: medical_history
+      label: Medical History
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: form_category
-      label: Category
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Healthcare Forms''}'
-      - '{''label'': ''Other Forms''}'
-      required: false
-    - id: 4
-      name: form_category_value
-      label: Healthcare Forms
+      name: allergies
+      label: Allergies and Medical Conditions
       hint: null
       type: text
       options: []
       required: false
+    - id: 4
+      name: consent
+      label: Consent
+      hint: null
+      type: checkbox
+      options:
+      - I agree
+      - I do not agree
+      required: false
     - id: 5
-      name: form_description
-      label: Description
+      name: contact_info
+      label: Contact Information
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: form_required
-      label: Required
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 7
-      name: form_version
-      label: Version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: form_last_updated
-      label: Last Updated
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 9
-      name: form_last_updated_time
-      label: Last Updated Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 10
-      name: form_version
-      label: Version
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: form_last_updated
-      label: Last Updated
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: form_last_updated_time
-      label: Last Updated Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: form_last_updated_timestamp
-      label: Last Updated Timestamp
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: form_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: form_last_updated_timestamp
-      label: Last Updated Timestamp
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: form_last_updated_date
-      label: Last Updated
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: form_status
-      label: Status
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_required
-      label: Required
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: form_last_updated_date
-      label: Last Updated Date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: form_version
-      label: Version
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': ''Latest''}'
-      - '{''label'': ''All''}'
-      - '{''label'': 1}'
-      required: false
-    - id: 21
-      name: form_last_updated
-      label: Last Updated
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: form_last_updated_time
-      label: Last Updated Time
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: form_last_updated_timestamp
-      label: Last Updated Timestamp
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: form_last_updated_date
-      label: Last Updated Date
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_status
-      label: Status
+      name: emergency_contact
+      label: Emergency Contact
       hint: null
       type: text
       options: []

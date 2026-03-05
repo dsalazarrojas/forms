@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Almost Always''}'
+      - Rarely
+      - Occasionally
+      - Often
+      - Almost Always
       required: false
     - id: 3
       name: satisfaction
@@ -27,11 +27,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Very Dissatisfied''}'
-      - '{''label'': ''Somewhat Dissatisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat Satisfied''}'
-      - '{''label'': ''Very Satisfied''}'
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
       required: false
     - id: 4
       name: suggestions
@@ -60,13 +60,13 @@ inputSchema:
       hint: Which social media platforms do you use for gaming related activities?
       type: select_multiple
       options:
-      - '{''label'': ''Facebook''}'
-      - '{''label'': ''Instagram''}'
-      - '{''label'': ''Twitter''}'
-      - '{''label'': ''YouTube''}'
-      - '{''label'': ''Twitch''}'
-      - '{''label'': ''Reddit''}'
-      - '{''label'': ''Discord''}'
+      - Facebook
+      - Instagram
+      - Twitter
+      - YouTube
+      - Twitch
+      - Reddit
+      - Discord
       required: false
     - id: 8
       name: follow_streams
@@ -74,10 +74,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': ''Sometimes''}'
-      - '{''label'': ''Often''}'
-      - '{''label'': ''Always''}'
+      - 'False'
+      - Sometimes
+      - Often
+      - Always
       required: false
     - id: 9
       name: follow_channels
@@ -85,10 +85,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': False}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Occasionally''}'
-      - '{''label'': ''Often''}'
+      - 'False'
+      - Rarely
+      - Occasionally
+      - Often
       required: false
     - id: 10
       name: follow_shoutouts
@@ -104,10 +104,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''One''}'
-      - '{''label'': ''Two''}'
-      - '{''label'': ''Three''}'
+      - None
+      - One
+      - Two
+      - Three
       required: false
     - id: 12
       name: follow_streamer_channels
@@ -115,10 +115,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''One''}'
-      - '{''label'': ''Two''}'
-      - '{''label'': ''Three''}'
+      - None
+      - One
+      - Two
+      - Three
       required: false
     - id: 13
       name: follow_streamer_shoutouts
@@ -126,10 +126,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''One''}'
-      - '{''label'': ''Two''}'
-      - '{''label'': ''Three''}'
+      - None
+      - One
+      - Two
+      - Three
       required: false
     - id: 14
       name: follow_streamer_tips
@@ -151,10 +151,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Game Mechanics''}'
-      - '{''label'': ''Game Strategies''}'
-      - '{''label'': ''Game Setting''}'
-      - '{''label'': ''Other (Please specify)''}'
+      - Game Mechanics
+      - Game Strategies
+      - Game Setting
+      - Other (Please specify)
       required: false
     - id: 17
       name: game_studio_preferences
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Important''}'
-      - '{''label'': ''Somewhat Important''}'
-      - '{''label'': ''Not Important at All''}'
+      - Very Important
+      - Somewhat Important
+      - Not Important at All
       required: false
     - id: 18
       name: community_preferences
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Important''}'
-      - '{''label'': ''Somewhat Important''}'
-      - '{''label'': ''Not Important at All''}'
+      - Very Important
+      - Somewhat Important
+      - Not Important at All
       required: false
     - id: 19
       name: platform_preferences
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Important''}'
-      - '{''label'': ''Somewhat Important''}'
-      - '{''label'': ''Not Important at All''}'
+      - Very Important
+      - Somewhat Important
+      - Not Important at All
       required: false
     - id: 20
       name: game_developer_preferences
@@ -192,9 +192,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very Important''}'
-      - '{''label'': ''Somewhat Important''}'
-      - '{''label'': ''Not Important at All''}'
+      - Very Important
+      - Somewhat Important
+      - Not Important at All
       required: false
     - id: 21
       name: game_developer_favourite_language
@@ -202,12 +202,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''C++''}'
-      - '{''label'': ''Java''}'
-      - '{''label'': ''C''}'
-      - '{''label'': ''JavaScript''}'
-      - '{''label'': ''Python''}'
-      - '{''label'': ''Other (Please specify)''}'
+      - C++
+      - Java
+      - C
+      - JavaScript
+      - Python
+      - Other (Please specify)
       required: false
     - id: 22
       name: game_developer_favourite_language_type
@@ -215,11 +215,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''C++''}'
-      - '{''label'': ''C''}'
-      - '{''label'': ''Java''}'
-      - '{''label'': ''JavaScript''}'
-      - '{''label'': ''Other (Please specify)''}'
+      - C++
+      - C
+      - Java
+      - JavaScript
+      - Other (Please specify)
       required: false
     - id: 23
       name: game_developer_favourite_language_framework
@@ -227,10 +227,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Unity''}'
-      - '{''label'': ''Unreal Engine''}'
-      - '{''label'': ''Godot''}'
-      - '{''label'': ''Cocos2d-x''}'
+      - Unity
+      - Unreal Engine
+      - Godot
+      - Cocos2d-x
       required: false
     - id: 24
       name: game_developer_favourite_language_engine
@@ -238,9 +238,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''C#''}'
-      - '{''label'': ''C++''}'
-      - '{''label'': ''C''}'
+      - C#
+      - C++
+      - C
       required: false
     - id: 25
       name: comments

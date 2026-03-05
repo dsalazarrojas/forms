@@ -1,184 +1,173 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Character Search And Filter Form
     pages:
-      - id: 1
-        name: search_query
-        label: Search by Name
-        hint: Enter character name or partial name
-        type: text
-        options: []
-        required: false
-      - id: 2
-        name: character_gender
-        label: Filter by Gender
-        hint: Select gender identity
-        type: select_one
-        options:
-          - Any
-          - Male
-          - Female
-          - Non-binary
-          - Other
-        required: false
-      - id: 3
-        name: character_role
-        label: Filter by Role
-        hint: Primary story role
-        type: select_one
-        options:
-          - Any
-          - Protagonist
-          - Antagonist
-          - Supporting
-          - Minor
-          - Cameo
-        required: false
-      - id: 4
-        name: character_alignment
-        label: Filter by Alignment
-        hint: Moral alignment
-        type: select_one
-        options:
-          - Any
-          - Good
-          - Neutral
-          - Evil
-          - Unknown
-        required: false
-      - id: 5
-        name: character_class
-        label: Filter by Class
-        hint: Character class or profession
-        type: select_one
-        options:
-          - Any
-          - Warrior
-          - Mage
-          - Rogue
-          - Cleric
-          - Ranger
-          - Noble
-          - Commoner
-        required: false
-      - id: 6
-        name: character_race
-        label: Filter by Race
-        hint: Species or ancestry
-        type: select_one
-        options:
-          - Any
-          - Human
-          - Elf
-          - Dwarf
-          - Orc
-          - Halfling
-          - Dragonborn
-          - Other
-        required: false
-      - id: 7
-        name: age_range
-        label: Filter by Age Range
-        hint: Character age category
-        type: select_one
-        options:
-          - Any
-          - Child
-          - Teenager
-          - Young adult
-          - Adult
-          - Middle aged
-          - Elderly
-        required: false
-      - id: 8
-        name: status_filter
-        label: Filter by Status
-        hint: Current story status
-        type: select_one
-        options:
-          - Any
-          - Alive
-          - Deceased
-          - Missing
-          - Unknown
-        required: false
-      - id: 9
-        name: personality_traits
-        label: Filter by Personality Traits
-        hint: Select traits to match
-        type: select_multiple
-        options:
-          - Brave
-          - Intelligent
-          - Loyal
-          - Cunning
-          - Compassionate
-          - Ambitious
-          - Rebellious
-          - Wise
-        required: false
-      - id: 10
-        name: abilities_filter
-        label: Filter by Abilities
-        hint: Special powers or skills
-        type: select_multiple
-        options:
-          - Magic
-          - Combat
-          - Stealth
-          - Leadership
-          - Healing
-          - Technology
-          - Persuasion
-          - None
-        required: false
-      - id: 11
-        name: story_arc
-        label: Filter by Story Arc
-        hint: Which arc they appear in
-        type: select_one
-        options:
-          - Any
-          - Arc 1
-          - Arc 2
-          - Arc 3
-          - Arc 4
-          - Arc 5
-          - Multiple arcs
-        required: false
-      - id: 12
-        name: sort_by
-        label: Sort Results By
-        hint: Ordering preference
-        type: select_one
-        options:
-          - Name ascending
-          - Name descending
-          - Importance
-          - First appearance
-          - Last appearance
-          - Popularity
-        required: false
-      - id: 13
-        name: results_per_page
-        label: Results per Page
-        hint: Number of results to show
-        type: select_one
-        options:
-          - 10
-          - 25
-          - 50
-          - 100
-        required: false
+    - id: 1
+      name: search_query
+      label: Search by Name
+      hint: Enter character name or partial name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: character_gender
+      label: Filter by Gender
+      hint: Select gender identity
+      type: select_one
+      options:
+      - Any
+      - Male
+      - Female
+      - Non-binary
+      - Other
+      required: false
+    - id: 3
+      name: character_role
+      label: Filter by Role
+      hint: Primary story role
+      type: select_one
+      options:
+      - Any
+      - Protagonist
+      - Antagonist
+      - Supporting
+      - Minor
+      - Cameo
+      required: false
+    - id: 4
+      name: character_alignment
+      label: Filter by Alignment
+      hint: Moral alignment
+      type: select_one
+      options:
+      - Any
+      - Good
+      - Neutral
+      - Evil
+      - Unknown
+      required: false
+    - id: 5
+      name: character_class
+      label: Filter by Class
+      hint: Character class or profession
+      type: select_one
+      options:
+      - Any
+      - Warrior
+      - Mage
+      - Rogue
+      - Cleric
+      - Ranger
+      - Noble
+      - Commoner
+      required: false
+    - id: 6
+      name: character_race
+      label: Filter by Race
+      hint: Species or ancestry
+      type: select_one
+      options:
+      - Any
+      - Human
+      - Elf
+      - Dwarf
+      - Orc
+      - Halfling
+      - Dragonborn
+      - Other
+      required: false
+    - id: 7
+      name: age_range
+      label: Filter by Age Range
+      hint: Character age category
+      type: select_one
+      options:
+      - Any
+      - Child
+      - Teenager
+      - Young adult
+      - Adult
+      - Middle aged
+      - Elderly
+      required: false
+    - id: 8
+      name: status_filter
+      label: Filter by Status
+      hint: Current story status
+      type: select_one
+      options:
+      - Any
+      - Alive
+      - Deceased
+      - Missing
+      - Unknown
+      required: false
+    - id: 9
+      name: personality_traits
+      label: Filter by Personality Traits
+      hint: Select traits to match
+      type: select_multiple
+      options:
+      - Brave
+      - Intelligent
+      - Loyal
+      - Cunning
+      - Compassionate
+      - Ambitious
+      - Rebellious
+      - Wise
+      required: false
+    - id: 10
+      name: abilities_filter
+      label: Filter by Abilities
+      hint: Special powers or skills
+      type: select_multiple
+      options:
+      - Magic
+      - Combat
+      - Stealth
+      - Leadership
+      - Healing
+      - Technology
+      - Persuasion
+      - None
+      required: false
+    - id: 11
+      name: story_arc
+      label: Filter by Story Arc
+      hint: Which arc they appear in
+      type: select_one
+      options:
+      - Any
+      - Arc 1
+      - Arc 2
+      - Arc 3
+      - Arc 4
+      - Arc 5
+      - Multiple arcs
+      required: false
+    - id: 12
+      name: sort_by
+      label: Sort Results By
+      hint: Ordering preference
+      type: select_one
+      options:
+      - Name ascending
+      - Name descending
+      - Importance
+      - First appearance
+      - Last appearance
+      - Popularity
+      required: false
+    - id: 13
+      name: results_per_page
+      label: Results per Page
+      hint: Number of results to show
+      type: select_one
+      options:
+      - '10'
+      - '25'
+      - '50'
+      - '100'
+      required: false

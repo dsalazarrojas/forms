@@ -97,8 +97,8 @@ inputSchema:
       hint: Have you received vaccines here before
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 13
       name: medical_conditions
@@ -129,7 +129,7 @@ inputSchema:
       options:
       - Yes, pregnant
       - Yes, planning
-      - false
+      - 'False'
       - Not applicable
       required: false
     - id: 17
@@ -138,8 +138,8 @@ inputSchema:
       hint: Do you have a weakened immune system
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Not sure
       required: true
     - id: 18
@@ -148,8 +148,8 @@ inputSchema:
       hint: Have you been ill in the past 2 weeks
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 19
       name: previous_vaccine_reactions
@@ -157,8 +157,8 @@ inputSchema:
       hint: Have you had reactions to vaccines before
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: reaction_details
@@ -196,7 +196,7 @@ inputSchema:
       type: select_one
       options:
       - Yes, I consent
-      - false
+      - 'False'
       required: true
     - id: 24
       name: additional_comments

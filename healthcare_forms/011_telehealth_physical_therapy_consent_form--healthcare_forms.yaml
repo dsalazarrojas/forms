@@ -51,9 +51,8 @@ inputSchema:
       hint: Select telehealth provider
       type: select_one
       options:
-      - '{''value'': ''Physical Therapist''}'
-      - '{''value'': ''Doctor''}'
-      - '{''value'': ''Physical Therapist''}'
+      - Physical Therapist
+      - Doctor
       required: true
     - id: 8
       name: consent
@@ -68,9 +67,9 @@ inputSchema:
       hint: Select payment method
       type: select_one
       options:
-      - '{''value'': ''Card''}'
-      - '{''value'': ''PayPal''}'
-      - '{''value'': ''Bank Transfer''}'
+      - Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 10
       name: amount

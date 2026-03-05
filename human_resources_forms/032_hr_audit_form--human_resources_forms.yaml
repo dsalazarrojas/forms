@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HR'', ''value'': ''HR''}'
-      - '{''id'': 2, ''label'': ''Finance'', ''value'': ''Finance''}'
-      - '{''id'': 3, ''label'': ''Operations'', ''value'': ''Operations''}'
+      - HR
+      - Finance
+      - Operations
       required: false
     - id: 4
       name: employee_id
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager'', ''value'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Non-Manager'', ''value'': ''Non-Manager''}'
+      - Manager
+      - Non-Manager
       required: false
     - id: 7
       name: reporting_manager
@@ -56,8 +56,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''John Smith'', ''value'': ''John Smith''}'
-      - '{''id'': 2, ''label'': ''Jane Doe'', ''value'': ''Jane Doe''}'
+      - John Smith
+      - Jane Doe
       required: false
     - id: 8
       name: date_of_birth
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Pass'', ''value'': ''Pass''}'
-      - '{''id'': 2, ''label'': ''Fail'', ''value'': ''Fail''}'
+      - Pass
+      - Fail
       required: false
     - id: 12
       name: last_review_comments
@@ -123,11 +123,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Health'', ''value'': ''Health''}'
-      - '{''id'': 2, ''label'': ''Dental'', ''value'': ''Dental''}'
-      - '{''id'': 3, ''label'': ''Vision'', ''value'': ''Vision''}'
-      - '{''id'': 4, ''label'': ''401(k)'', ''value'': ''401(k)''}'
-      - '{''id'': 5, ''label'': ''Life'', ''value'': ''Life''}'
+      - Health
+      - Dental
+      - Vision
+      - 401(k)
+      - Life
       required: false
     - id: 17
       name: benefits_start_date
@@ -184,8 +184,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Mandatory'', ''value'': ''Mandatory''}'
-      - '{''id'': 2, ''label'': ''Optional'', ''value'': ''Optional''}'
+      - Mandatory
+      - Optional
       required: false
     - id: 25
       name: training_start_date

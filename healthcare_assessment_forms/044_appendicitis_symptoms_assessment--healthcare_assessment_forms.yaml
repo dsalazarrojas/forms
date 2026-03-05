@@ -168,8 +168,8 @@ inputSchema:
       hint: Feeling sick to stomach
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: vomiting
@@ -177,7 +177,7 @@ inputSchema:
       hint: Vomiting episodes
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, once
       - Yes, 2 to 3 times
       - Yes, 4 or more times
@@ -206,7 +206,7 @@ inputSchema:
       hint: Elevated temperature
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, low grade
       - Yes, high grade
       - Not sure
@@ -248,7 +248,7 @@ inputSchema:
       hint: Bloating or distension
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, mild
       - Yes, moderate
       - Yes, severe
@@ -276,8 +276,8 @@ inputSchema:
       hint: Previous episodes
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Had appendix removed
       required: true
     - id: 29
@@ -286,8 +286,8 @@ inputSchema:
       hint: Surgical history
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 30
       name: surgery_details
@@ -324,8 +324,8 @@ inputSchema:
       type: select_one
       options:
       - Not applicable
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Not sure
       required: true
     - id: 35

@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Allergies''}'
-      - '{''id'': 2, ''label'': ''Asthma''}'
-      - '{''id'': 3, ''label'': ''Diabetes''}'
+      - Allergies
+      - Asthma
+      - Diabetes
       required: false
     - id: 7
       name: medications
@@ -54,10 +54,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Amlodipine''}'
-      - '{''id'': 2, ''label'': ''Aspirin''}'
-      - '{''id'': 3, ''label'': ''Clobetasol''}'
-      - '{''id'': 4, ''label'': ''Lisinopril''}'
+      - Amlodipine
+      - Aspirin
+      - Clobetasol
+      - Lisinopril
       required: false
     - id: 8
       name: medical_facility
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Child''}'
-      - '{''id'': 2, ''label'': ''Parent''}'
-      - '{''id'': 3, ''label'': ''Spouse''}'
+      - Child
+      - Parent
+      - Spouse
       required: false
     - id: 11
       name: contact_number_2

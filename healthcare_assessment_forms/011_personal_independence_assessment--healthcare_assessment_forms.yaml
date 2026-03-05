@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Independent''}'
-      - '{''id'': 2, ''label'': ''Dependent''}'
-      - '{''id'': 3, ''label'': ''Partially Dependent''}'
-      - '{''id'': 4, ''label'': ''Unable to perform''}'
+      - Independent
+      - Dependent
+      - Partially Dependent
+      - Unable to perform
       required: false
     - id: 6
       name: social_interaction
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Very Often''}'
-      - '{''id'': 2, ''label'': ''Often''}'
-      - '{''id'': 3, ''label'': ''Sometimes''}'
-      - '{''id'': 4, ''label'': ''Rarely''}'
-      - '{''id'': 5, ''label'': ''Never''}'
+      - Very Often
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
       required: false
     - id: 7
       name: assessment_date

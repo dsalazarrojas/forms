@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Manager''}'
-      - '{''id'': 2, ''label'': ''Team Lead''}'
-      - '{''id'': 3, ''label'': ''Employee''}'
+      - Manager
+      - Team Lead
+      - Employee
       required: true
     - id: 3
       name: document_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''ID Card''}'
-      - '{''id'': 2, ''label'': ''Benefits Card''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - ID Card
+      - Benefits Card
+      - Other
       required: true
     - id: 4
       name: request_date
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Rejected''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 6
       name: reason_for_rejection
@@ -67,9 +67,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HR''}'
-      - '{''id'': 2, ''label'': ''Manager''}'
-      - '{''id'': 3, ''label'': ''Director''}'
+      - HR
+      - Manager
+      - Director
       required: false
     - id: 9
       name: approved_by
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HR''}'
-      - '{''id'': 2, ''label'': ''Manager''}'
-      - '{''id'': 3, ''label'': ''Director''}'
+      - HR
+      - Manager
+      - Director
       required: false
     - id: 10
       name: document_date
@@ -136,9 +136,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''HR''}'
-      - '{''id'': 2, ''label'': ''Marketing''}'
-      - '{''id'': 3, ''label'': ''Sales''}'
+      - HR
+      - Marketing
+      - Sales
       required: true
     - id: 18
       name: location
@@ -167,7 +167,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - Jimmy
       - Other
       required: false
     - id: 22
@@ -176,7 +176,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - Jimmy
       - Other
       required: false
     - id: 23

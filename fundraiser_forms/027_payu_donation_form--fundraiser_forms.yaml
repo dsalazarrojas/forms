@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''creditcard''}'
-      - '{''id'': 2, ''name'': ''paypal''}'
-      - '{''id'': 3, ''name'': ''banktransfer''}'
+      - creditcard
+      - paypal
+      - banktransfer
       required: true
     - id: 7
       name: donation_status
@@ -54,8 +54,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''pending''}'
-      - '{''id'': 2, ''name'': ''accepted''}'
-      - '{''id'': 3, ''name'': ''declined''}'
-      - '{''id'': 4, ''name'': ''canceled''}'
+      - pending
+      - accepted
+      - declined
+      - canceled
       required: true

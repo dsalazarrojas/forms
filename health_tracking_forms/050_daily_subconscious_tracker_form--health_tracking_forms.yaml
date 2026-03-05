@@ -16,203 +16,109 @@ inputSchema:
     pages:
     - id: 1
       name: thoughts
-      label: thoughts
+      label: Thoughts today
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: dreams
-      label: dreams
+      name: emotions
+      label: How did I feel today?
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: behaviors
-      label: behaviors
+      name: goals
+      label: What is my top goal?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Work
+      - Personal
+      - Hobbies
       required: false
     - id: 4
-      name: feelings
-      label: feelings
+      name: fears
+      label: What is my biggest fear?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Fear of Failure
+      - Fear of Success
+      - Fear of the Unknown
       required: false
     - id: 5
-      name: thoughts_2
-      label: recurring_thoughts
+      name: anxieties
+      label: What is my biggest anxiety?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Anxiety of Failure
+      - Anxiety of Success
+      - Anxiety of the Unknown
       required: false
     - id: 6
-      name: emotions
-      label: emotions
+      name: sleep
+      label: Did I get enough sleep?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some
       required: false
     - id: 7
-      name: goals
-      label: goals
+      name: exercise
+      label: Did I exercise?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Some
       required: false
     - id: 8
-      name: fears
-      label: fears
+      name: hydration
+      label: How much water did I drink?
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: anxieties
-      label: anxieties
+      name: social_contacts
+      label: Who did I contact today?
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: sleep
-      label: sleep
+      name: goals_2
+      label: Did I achieve my goals today?
       hint: null
-      type: time
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Some
       required: false
     - id: 11
-      name: focus
-      label: focus
+      name: fears_2
+      label: Did I face any fears today?
       hint: null
-      type: time
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Some
       required: false
     - id: 12
-      name: exercise
-      label: exercise
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: nutrition
-      label: nutrition
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: hydration
-      label: hydration
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: social_contacts
-      label: social_contacts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: goals
-      label: goals
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 17
-      name: fears
-      label: fears
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 18
-      name: anxieties
-      label: anxieties
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: goals
-      label: goals
+      name: anxieties_2
+      label: Did I face any anxieties today?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 20
-      name: fears
-      label: fears
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: anxieties
-      label: anxieties
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: sleep
-      label: sleep
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: exercise
-      label: exercise
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: hydration
-      label: hydration
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 25
-      name: social_contacts
-      label: social_contacts
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Some
       required: false

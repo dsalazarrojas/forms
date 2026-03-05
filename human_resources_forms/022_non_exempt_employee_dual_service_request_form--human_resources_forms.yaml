@@ -4,217 +4,101 @@ inputSchema:
     title: Non Exempt Employee Dual Service Request Form
     pages:
     - id: 1
-      name: dual_service_request_form
-      label: Non-Exempt Employee Dual Service Request Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
       name: category
-      label: Human-Resources Forms
+      label: Category
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Human Resources Forms''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 3
+      - Human-Resources Forms
+      - Other
+      required: true
+    - id: 2
       name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: description
-      label: description
+      label: Description
       hint: Briefly describe the dual service request
       type: text
       options: []
-      required: false
-    - id: 5
+      required: true
+    - id: 3
       name: assigned_to
-      label: assigned_to
+      label: Assigned to
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 6
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_multiple
-      options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 7
-      name: created_by
-      label: created_by
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 8
+      - John
+      - Jane
+      - Other
+      required: true
+    - id: 4
       name: date
-      label: date
+      label: Date
       hint: Enter date in YYYY-MM-DD format
       type: date
       options: []
-      required: false
-    - id: 9
+      required: true
+    - id: 5
       name: time
-      label: time
-      hint: null
+      label: Time
+      hint: 24h format
       type: time
       options: []
-      required: false
-    - id: 10
+      required: true
+    - id: 6
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Other
+      required: true
+    - id: 7
       name: note
-      label: note
+      label: Note
       hint: Additional comments
       type: note
       options: []
-      required: false
-    - id: 11
+      required: true
+    - id: 8
       name: email
-      label: email
+      label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 12
+      required: true
+    - id: 9
       name: phone
-      label: phone
+      label: Phone
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: submitted_by
-      label: submitted_by
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 14
-      name: submitted
-      label: submitted
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      required: false
-    - id: 15
+      required: true
+    - id: 10
       name: status
-      label: status
+      label: Status
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
-      required: false
-    - id: 16
-      name: created_by
-      label: created_by
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 17
-      name: date
-      label: date
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Today''}'
-      - '{''value'': ''Yesterday''}'
-      - '{''value'': ''Last Week''}'
-      required: false
-    - id: 18
-      name: time
-      label: time
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''AM''}'
-      - '{''value'': ''PM''}'
-      required: false
-    - id: 19
-      name: note
-      label: note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 11
       name: output_file
       label: Output File
       hint: null
       type: select_one
       options:
-      - '{''value'': ''022_non_exempt_employee_dual_service_request_form--human_resources_forms.yaml''}'
-      - '{''value'': ''022_non_exempt_employee_dual_service_request_form--hrforms.yaml''}'
-      required: false
-    - id: 21
+      - 022 non exempt employee dual service request form--human resources forms.yaml
+      - 022 non exempt employee dual service request form--hrforms.yaml
+      required: true
+    - id: 12
       name: assigned_tool
-      label: assigned_tool
+      label: Assigned Tool
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''chatjimmy''}'
-      - '{''value'': ''other''}'
-      required: false
-    - id: 22
-      name: created_by
-      label: created_by
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''John''}'
-      - '{''value'': ''Jane''}'
-      - '{''value'': ''Other''}'
-      required: false
-    - id: 23
-      name: date
-      label: date
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''Today''}'
-      - '{''value'': ''Yesterday''}'
-      - '{''value'': ''Last Week''}'
-      required: false
-    - id: 24
-      name: time
-      label: time
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': ''AM''}'
-      - '{''value'': ''PM''}'
-      required: false
-    - id: 25
-      name: submitted
-      label: submitted
-      hint: null
-      type: select_one
-      options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      required: false
+      - chatjimmy
+      - other
+      required: true

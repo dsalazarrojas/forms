@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One-Shot''}'
-      - '{''id'': 2, ''label'': ''Campaign''}'
-      - '{''id'': 3, ''label'': ''Community Event''}'
+      - One-Shot
+      - Campaign
+      - Community Event
       required: false
     - id: 4
       name: character_class
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Fighter''}'
-      - '{''id'': 2, ''label'': ''Rogue''}'
-      - '{''id'': 3, ''label'': ''Wizard''}'
+      - Fighter
+      - Rogue
+      - Wizard
       required: false
     - id: 5
       name: character_age
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Male''}'
-      - '{''id'': 2, ''label'': ''Female''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false
     - id: 7
       name: character_race
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Human''}'
-      - '{''id'': 2, ''label'': ''Elf''}'
-      - '{''id'': 3, ''label'': ''Dwarf''}'
+      - Human
+      - Elf
+      - Dwarf
       required: false
     - id: 8
       name: character_alignment
@@ -70,10 +70,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Chaotic''}'
-      - '{''id'': 2, ''label'': ''Lawful''}'
-      - '{''id'': 3, ''label'': ''Neutral''}'
-      - '{''id'': 4, ''label'': ''Balanced''}'
+      - Chaotic
+      - Lawful
+      - Neutral
+      - Balanced
       required: false
     - id: 9
       name: player_id

@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Very Satisfied''}'
-      - '{''label'': ''2 - Somewhat Satisfied''}'
-      - '{''label'': ''3 - Neutral''}'
-      - '{''label'': ''4 - Somewhat Dissatisfied''}'
-      - '{''label'': ''5 - Very Dissatisfied''}'
+      - 1 - Very Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Neutral
+      - 4 - Somewhat Dissatisfied
+      - 5 - Very Dissatisfied
       required: false
     - id: 5
       name: question2
@@ -42,10 +42,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 - Excellent''}'
-      - '{''label'': ''2 - Good''}'
-      - '{''label'': ''3 - Fair''}'
-      - '{''label'': ''4 - Poor''}'
+      - 1 - Excellent
+      - 2 - Good
+      - 3 - Fair
+      - 4 - Poor
       required: false
     - id: 6
       name: question3
@@ -53,11 +53,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1 - Very Clean''}'
-      - '{''label'': ''2 - Somewhat Clean''}'
-      - '{''label'': ''3 - Neutral''}'
-      - '{''label'': ''4 - Somewhat Dirty''}'
-      - '{''label'': ''5 - Very Dirty''}'
+      - 1 - Very Clean
+      - 2 - Somewhat Clean
+      - 3 - Neutral
+      - 4 - Somewhat Dirty
+      - 5 - Very Dirty
       required: false
     - id: 7
       name: question4
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: feedback
@@ -102,7 +102,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: false

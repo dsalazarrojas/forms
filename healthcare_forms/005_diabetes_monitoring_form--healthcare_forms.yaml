@@ -69,7 +69,6 @@ inputSchema:
       type: select_multiple
       options:
       - mmHg
-      - mmHg
       - mmhg
       required: true
     - id: 10
@@ -80,7 +79,6 @@ inputSchema:
       options:
       - lbs
       - kg
-      - lbs
       required: true
     - id: 11
       name: medication_frequency
@@ -101,7 +99,7 @@ inputSchema:
       required: true
     - id: 13
       name: diet_frequency
-      label: Diet
+      label: Diet Frequency
       hint: null
       type: select_multiple
       options:
@@ -111,7 +109,7 @@ inputSchema:
       required: true
     - id: 14
       name: exercise_frequency
-      label: Exercise
+      label: Exercise Frequency
       hint: null
       type: select_multiple
       options:
@@ -165,7 +163,7 @@ inputSchema:
       required: true
     - id: 21
       name: weight_frequency
-      label: Weight
+      label: Weight Frequency
       hint: null
       type: select_multiple
       options:
@@ -175,7 +173,7 @@ inputSchema:
       required: true
     - id: 22
       name: weight_time
-      label: Weight
+      label: Weight Time
       hint: null
       type: time
       options: []
@@ -195,8 +193,8 @@ inputSchema:
       options: []
       required: false
     - id: 25
-      name: notes
-      label: Notes
+      name: notes_2
+      label: Notes 2
       hint: null
       type: text
       options: []

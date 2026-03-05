@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Pay in full today'', ''value'': 1}'
-      - '{''label'': ''Pay over 3 months'', ''value'': 2}'
-      - '{''label'': ''Pay over 6 months'', ''value'': 3}'
+      - Pay in full today
+      - Pay over 3 months
+      - Pay over 6 months
       required: false
     - id: 3
       name: provider_name
@@ -68,9 +68,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Cash'', ''value'': 1}'
-      - '{''label'': ''Credit Card'', ''value'': 2}'
-      - '{''label'': ''Other'', ''value'': 3}'
+      - Cash
+      - Credit Card
+      - Other
       required: false
     - id: 10
       name: note
@@ -92,6 +92,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Self funded'', ''value'': 1}'
-      - '{''label'': ''Not Self funded'', ''value'': 2}'
+      - Self funded
+      - Not Self funded
       required: false

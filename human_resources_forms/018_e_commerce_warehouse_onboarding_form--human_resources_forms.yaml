@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''stock_manager'', ''label'': ''Stock Manager''}'
-      - '{''value'': ''floor_stocker'', ''label'': ''Floor Stocker''}'
-      - '{''value'': ''inventory_receiver'', ''label'': ''Inventory Receiver''}'
+      - Stock Manager
+      - Floor Stocker
+      - Inventory Receiver
       required: false
     - id: 3
       name: shift_preferences
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''morning'', ''label'': ''Morning Shift''}'
-      - '{''value'': ''afternoon'', ''label'': ''Afternoon Shift''}'
-      - '{''value'': ''overnight'', ''label'': ''Overnight Shift''}'
+      - Morning Shift
+      - Afternoon Shift
+      - Overnight Shift
       required: false
     - id: 4
       name: safety_acknowledgments
@@ -113,8 +113,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 30, ''label'': 30}'
-      - '{''value'': 60, ''label'': 60}'
+      - '30'
+      - '60'
       required: false
     - id: 16
       name: shift_duration
@@ -122,8 +122,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 4, ''label'': ''4 hours''}'
-      - '{''value'': 8, ''label'': ''8 hours''}'
+      - 4 hours
+      - 8 hours
       required: false
     - id: 17
       name: start_date
@@ -145,8 +145,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 20
       name: manager_phone_alternate

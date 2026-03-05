@@ -44,10 +44,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Medical''}'
-      - '{''id'': 2, ''label'': ''Personal''}'
-      - '{''id'': 3, ''label'': ''Family''}'
-      - '{''id'': 4, ''label'': ''Vacation''}'
+      - Medical
+      - Personal
+      - Family
+      - Vacation
       required: true
     - id: 7
       name: leave_days
@@ -118,8 +118,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 17
       name: comments
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Rejected''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 23
       name: comments_approved

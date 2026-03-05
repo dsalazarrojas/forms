@@ -4,22 +4,48 @@ inputSchema:
     title: disney_dining_magical_makeover_requests_allie_dbd
     pages:
     - id: 1
-      name: first_prophets
-      label: First Prophets
+      name: first_name
+      label: First Name
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: make_overprophets
-      label: Make Overprophets
+      name: last_name
+      label: Last Name
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_dish
+      label: Favorite Dish
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: special_dietary_requirements
+      label: Special Dietary Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
       name: magical_moment
       label: Magical Moment
       hint: null
@@ -29,84 +55,51 @@ inputSchema:
       - Marvel
       - Star Wars
       required: false
-    - id: 4
+    - id: 8
       name: date_of_visit
       label: Date of Visit
       hint: null
       type: date
       options: []
       required: false
-    - id: 5
+    - id: 9
       name: time_of_visit
       label: Time of Visit
       hint: null
       type: time
       options: []
       required: false
-    - id: 6
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 7
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
+    - id: 10
       name: note
       label: Note
       hint: null
       type: note
       options: []
       required: false
-    - id: 9
-      name: first_name
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 11
+      name: make_overprophets_1
+      label: Make Overprophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
       name: age
       label: Age
       hint: null
       type: number
       options: []
       required: false
-    - id: 12
+    - id: 13
       name: height
       label: Height
       hint: null
       type: text
       options: []
       required: false
-    - id: 13
-      name: favorite_dish
-      label: Favorite Dish
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 14
-      name: special_dietary_requirements
-      label: Special Dietary Requirements
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
       name: make_overprophets_2
       label: Make Overprophets 2
       hint: null
@@ -116,73 +109,17 @@ inputSchema:
       - Marvel
       - Star Wars
       required: false
-    - id: 16
+    - id: 15
       name: date_of_visit_2
       label: Date of Visit 2
       hint: null
       type: date
       options: []
       required: false
-    - id: 17
+    - id: 16
       name: time_of_visit_2
       label: Time of Visit 2
       hint: null
       type: time
-      options: []
-      required: false
-    - id: 18
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 19
-      name: phone
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: note
-      label: Note
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: first_name
-      label: First Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: last_name
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: age
-      label: Age
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 24
-      name: height
-      label: Height
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: special_dietary_requirements
-      label: Special Dietary Requirements
-      hint: null
-      type: text
       options: []
       required: false

@@ -121,7 +121,7 @@ inputSchema:
       options:
       - Yes - Attached
       - Yes - Will Provide
-      - false
+      - 'False'
       - Not Applicable
       required: false
     - id: 16
@@ -167,7 +167,7 @@ inputSchema:
       options:
       - Yes - Fully Understood
       - Yes - Generally Understood
-      - false
+      - 'False'
       required: true
     - id: 21
       name: risks_acknowledged
@@ -176,7 +176,7 @@ inputSchema:
       type: select_one
       options:
       - Yes - I Acknowledge Risks
-      - false
+      - 'False'
       required: true
     - id: 22
       name: school_policy_understood
@@ -184,8 +184,8 @@ inputSchema:
       hint: Do you understand school policies
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: comply_with_other_measures
@@ -193,8 +193,8 @@ inputSchema:
       hint: Will you follow other school safety rules
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 24
       name: emergency_contact_name

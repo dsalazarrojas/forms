@@ -1,86 +1,82 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Appliance Security Inspection Checklist
     pages:
-      - id: 1
-        name: inspector_name
-        label: Inspector name
-        hint: Full name of the inspector
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: inspection_date
-        label: Inspection date
-        hint: Date of the inspection
-        type: date
-        options: []
-        required: true
-      - id: 3
-        name: location
-        label: Location
-        hint: Facility or address where inspection took place
-        type: text
-        options: []
-        required: true
-      - id: 4
-        name: appliance_model
-        label: Appliance model
-        hint: Model or serial number
-        type: text
-        options: []
-        required: true
-      - id: 5
-        name: tamper_seals_ok
-        label: Tamper seals intact
-        hint: Visual check for tamper evidence
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 6
-        name: grounding_check
-        label: Grounding and electrical safety
-        hint: Verify proper grounding and wiring
-        type: select_one
-        options: [Pass, Fail, Not applicable]
-        required: true
-      - id: 7
-        name: safety_labels_present
-        label: Safety labels present
-        hint: Check for required warning labels
-        type: select_one
-        options: [Yes, No]
-        required: true
-      - id: 8
-        name: observed_hazards
-        label: Observed hazards
-        hint: Describe any hazards found
-        type: text
-        options: []
-        required: false
-      - id: 9
-        name: corrective_action_required
-        label: Corrective action required
-        hint: Brief description of corrective steps
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: follow_up_date
-        label: Follow up date
-        hint: Date for reinspection if needed
-        type: date
-        options: []
-        required: false
+    - id: 1
+      name: inspector_name
+      label: Inspector name
+      hint: Full name of the inspector
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: inspection_date
+      label: Inspection date
+      hint: Date of the inspection
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: Facility or address where inspection took place
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: appliance_model
+      label: Appliance model
+      hint: Model or serial number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tamper_seals_ok
+      label: Tamper seals intact
+      hint: Visual check for tamper evidence
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: grounding_check
+      label: Grounding and electrical safety
+      hint: Verify proper grounding and wiring
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      - Not applicable
+      required: true
+    - id: 7
+      name: safety_labels_present
+      label: Safety labels present
+      hint: Check for required warning labels
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: observed_hazards
+      label: Observed hazards
+      hint: Describe any hazards found
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: corrective_action_required
+      label: Corrective action required
+      hint: Brief description of corrective steps
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow up date
+      hint: Date for reinspection if needed
+      type: date
+      options: []
+      required: false

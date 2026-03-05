@@ -4,187 +4,121 @@ inputSchema:
     title: Vividness Of Visual Imaginary Questionnaire (VVIQ)
     pages:
     - id: 1
-      name: intro
-      label: intro
+      name: vividness_score_1
+      label: How often do you experience vivid dreams about visual scenes?
       hint: null
-      type: note
+      type: number
       options: []
-      required: false
+      required: true
     - id: 2
-      name: question_1
-      label: vividness_score_1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 3
-      name: question_1_answer_1
-      label: 3pts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: question_1_answer_2
-      label: 3pts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
       name: question_2
-      label: vividness_score_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 6
-      name: question_2_answer_1
-      label: 3pts
+      label: Can you recall a visual image that you had in childhood?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 7
+      required: true
+    - id: 3
       name: question_3
-      label: vividness_score_3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: question_3_answer_1
-      label: 3pts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: question_3_answer_2
-      label: 3pts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: question_4
-      label: vividness_score_4
+      label: Do you experience visual imagery when falling asleep?
       hint: null
       type: select_one
       options:
-      - 1pt
-      - 2pt
-      - 3pt
-      - 4pt
+      - 'True'
+      - 'False'
+      - rarely
+      - never
       required: true
-    - id: 11
-      name: question_4_answer_1
-      label: vividness_score_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: question_4_answer_2
-      label: vividness_score_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: question_4_answer_3
-      label: vividness_score_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: question_4_answer_4
-      label: vividness_score_4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: question_5
-      label: vividness_score_5
+    - id: 4
+      name: question_4
+      label: How often do you see mental images when daydreaming?
       hint: null
       type: select_multiple
       options:
-      - 1pt
-      - 2pt
-      - 3pt
-      - 4pt
+      - frequently
+      - occasionally
+      - rarely
+      - never
       required: true
-    - id: 16
-      name: question_5_answer_1
-      label: vividness_score_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: question_5_answer_2
-      label: vividness_score_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: question_5_answer_3
-      label: vividness_score_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: question_5_answer_4
-      label: vividness_score_5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: question_6
-      label: vividness_score_6
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 21
-      name: question_6_answer_1
-      label: vividness_score_6
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: question_7
-      label: vividness_score_7
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 23
-      name: question_7_answer_1
-      label: vividness_score_7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: question_7_answer_2
-      label: vividness_score_7
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit
-      label: submit
+    - id: 5
+      name: question_5
+      label: Have you ever had a vivid visual hallucination during sleep?
       hint: null
       type: select_one
       options:
-      - submit
-      - cancel
+      - 'True'
+      - 'False'
+      - rarely
+      - never
+      required: true
+    - id: 6
+      name: question_6
+      label: Do you experience visual imagery when listening to music?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - rarely
+      - never
+      required: true
+    - id: 7
+      name: question_7
+      label: Can you recall a time when you had a vivid visual memory?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: question_8
+      label: How often do you see mental images when thinking about a specific task
+        or problem?
+      hint: null
+      type: select_multiple
+      options:
+      - frequently
+      - occasionally
+      - rarely
+      - never
+      required: true
+    - id: 9
+      name: question_9
+      label: Have you had a vivid mental image that interfered with your ability to
+        fall asleep?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - rarely
+      - never
+      required: true
+    - id: 10
+      name: question_10
+      label: Have you experienced a change in your visual imagination during periods
+        of stress or anxiety?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - rarely
+      - never
+      required: true
+    - id: 11
+      name: question_11
+      label: Do you experience mental images when your eyes are closed?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - rarely
+      - never
+      required: true
+    - id: 12
+      name: question_12
+      label: Can you recall a vivid mental image that was very intense?
+      hint: null
+      type: text
+      options: []
       required: true

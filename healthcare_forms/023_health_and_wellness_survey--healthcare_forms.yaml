@@ -25,10 +25,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Heart conditions''}'
-      - '{''id'': 2, ''label'': ''Diabetes''}'
-      - '{''id'': 3, ''label'': ''Cancer''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Heart conditions
+      - Diabetes
+      - Cancer
+      - Other
       required: false
     - id: 4
       name: lifestyle_questions
@@ -43,10 +43,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Less than 1 time per week''}'
-      - '{''id'': 2, ''label'': ''1-2 times per week''}'
-      - '{''id'': 3, ''label'': ''3-4 times per week''}'
-      - '{''id'': 4, ''label'': ''5-6 times per week''}'
+      - Less than 1 time per week
+      - 1-2 times per week
+      - 3-4 times per week
+      - 5-6 times per week
       required: false
     - id: 6
       name: diet_questions
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: medical_history

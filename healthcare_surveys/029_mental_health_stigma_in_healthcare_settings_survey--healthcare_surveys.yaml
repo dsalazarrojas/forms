@@ -12,224 +12,239 @@ inputSchema:
       required: false
     - id: 2
       name: healthcare_surveys_survey_form_page_1_1
-      label: Have you experienced stigma from a healthcare provider
+      label: Do you feel comfortable talking about mental health topics?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Yes, frequently''}'
-      - '{''label'': ''Yes, sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
     - id: 3
       name: healthcare_surveys_survey_form_page_1_2
-      label: How often have you experienced stigma from a healthcare provider
+      label: Do you feel comfortable sharing mental health information with healthcare
+        providers?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
+      required: false
+    - id: 4
+      name: healthcare_surveys_survey_form_page_1_3
+      label: How often do you feel comfortable sharing mental health information with
+        healthcare providers?
       hint: null
       type: number
       options: []
       required: false
-    - id: 4
-      name: healthcare_surveys_survey_form_page_1_3
-      label: How often have you experienced stigma from a healthcare provider
-      hint: null
-      type: date
-      options: []
-      required: false
     - id: 5
       name: healthcare_surveys_survey_form_page_1_4
-      label: How often have you experienced stigma from a healthcare provider
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 6
-      name: healthcare_surveys_survey_form_page_1_5
-      label: Have you experienced stigma from a healthcare provider at work
+      label: Do healthcare providers ask how you are doing?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Yes, frequently''}'
-      - '{''label'': ''Yes, sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
-    - id: 7
-      name: healthcare_surveys_survey_form_page_1_6
-      label: Have you experienced stigma from a healthcare provider at work
+    - id: 6
+      name: healthcare_surveys_survey_form_page_1_5
+      label: Do you feel comfortable telling healthcare providers if you are experiencing
+        mental health issues?
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: do_you_feel_uncomfortable_asking_a_healthcare_provider_about_your_mental_health_issues
+      label: healthcare_surveys_survey_form_page_1_6
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
       required: false
     - id: 8
       name: healthcare_surveys_survey_form_page_1_7
-      label: How often have you experienced stigma from a healthcare provider at work
+      label: How often do you feel comfortable telling healthcare providers about
+        your mental health issues?
       hint: null
       type: number
       options: []
       required: false
     - id: 9
       name: healthcare_surveys_survey_form_page_1_8
-      label: Have you experienced stigma from a healthcare provider at home
-      hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Yes, frequently''}'
-      - '{''label'': ''Yes, sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
-      required: false
-    - id: 10
-      name: healthcare_surveys_survey_form_page_1_9
-      label: Have you experienced stigma from a healthcare provider at home
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 11
-      name: healthcare_surveys_survey_form_page_1_10
-      label: How often have you experienced stigma from a healthcare provider at home
+      label: How often do you feel uncomfortable asking a healthcare provider about
+        your mental health issues?
       hint: null
       type: number
       options: []
       required: false
+    - id: 10
+      name: healthcare_surveys_survey_form_page_1_9
+      label: Do you feel uncomfortable telling healthcare providers about your mental
+        health issues?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: do_you_feel_uncomfortable_asking_a_healthcare_provider_about_your_mental_health_issues_2
+      label: healthcare_surveys_survey_form_page_1_10
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
     - id: 12
       name: healthcare_surveys_survey_form_page_1_11
-      label: Have you experienced stigma from a healthcare provider in the community
+      label: Healthcare Surveys Survey Form Page 1 11
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Yes, frequently''}'
-      - '{''label'': ''Yes, sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      type: number
+      options: []
       required: false
     - id: 13
       name: healthcare_surveys_survey_form_page_1_12
-      label: Have you experienced stigma from a healthcare provider in the community
+      label: How often do you feel uncomfortable sharing mental health information
+        with healthcare providers?
       hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      type: number
+      options: []
       required: false
     - id: 14
       name: healthcare_surveys_survey_form_page_1_13
-      label: Have you experienced stigma from a healthcare provider in public settings
+      label: Healthcare Surveys Survey Form Page 1 13
       hint: null
-      type: select_multiple
-      options:
-      - '{''label'': ''Yes, frequently''}'
-      - '{''label'': ''Yes, sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      type: note
+      options: []
       required: false
     - id: 15
       name: healthcare_surveys_survey_form_page_1_14
-      label: Have you experienced stigma from a healthcare provider in public settings
+      label: Do healthcare providers ask about your mental health?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
     - id: 16
       name: healthcare_surveys_survey_form_page_1_15
-      label: Do you feel comfortable talking about mental health topics
+      label: Do you feel comfortable talking about mental health issues with healthcare
+        providers?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Yes, frequently''}'
-      - '{''label'': ''Yes, sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
     - id: 17
       name: healthcare_surveys_survey_form_page_1_16
-      label: Do you feel comfortable talking about mental health topics
-      hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      required: false
-    - id: 18
-      name: healthcare_surveys_survey_form_page_1_17
-      label: Do you feel comfortable sharing mental health information with healthcare
-        providers
+      label: Do you feel comfortable asking healthcare providers about your mental
+        health issues?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Yes, frequently''}'
-      - '{''label'': ''Yes, sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
-    - id: 19
-      name: healthcare_surveys_survey_form_page_1_18
-      label: Do you feel comfortable sharing mental health information with healthcare
-        providers
+    - id: 18
+      name: healthcare_surveys_survey_form_page_1_17
+      label: Do you feel uncomfortable sharing mental health information with healthcare
+        providers?
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: healthcare_surveys_survey_form_page_1_18
+      label: Healthcare Surveys Survey Form Page 1 18
+      hint: null
+      type: note
+      options: []
       required: false
     - id: 20
       name: healthcare_surveys_survey_form_page_1_19
-      label: How often do you share mental health information with healthcare providers
+      label: What are some of the reasons why you may not have shared mental health
+        information with healthcare providers?
       hint: null
-      type: number
+      type: note
       options: []
       required: false
     - id: 21
       name: healthcare_surveys_survey_form_page_1_20
-      label: Do healthcare providers ask how you are doing
+      label: Do healthcare providers have a way to ask about your mental health issues?
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Yes, frequently''}'
-      - '{''label'': ''Yes, sometimes''}'
-      - '{''label'': ''Rarely''}'
-      - '{''label'': ''Never''}'
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
     - id: 22
       name: healthcare_surveys_survey_form_page_1_21
-      label: Do healthcare providers ask how you are doing
+      label: Do you feel comfortable discussing mental health issues with healthcare
+        providers?
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
     - id: 23
       name: healthcare_surveys_survey_form_page_1_22
-      label: How often do you feel comfortable telling healthcare providers if you
-        are experiencing mental health issues
+      label: Do you feel comfortable talking about mental health topics with healthcare
+        providers?
       hint: null
-      type: number
-      options: []
+      type: select_multiple
+      options:
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
     - id: 24
       name: healthcare_surveys_survey_form_page_1_23
-      label: Do you feel comfortable telling healthcare providers about your mental
-        health issues
+      label: Healthcare Surveys Survey Form Page 1 23
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - Yes, frequently
+      - Yes, sometimes
+      - Rarely
+      - Never
       required: false
     - id: 25
       name: healthcare_surveys_survey_form_page_1_24
-      label: Do you feel uncomfortable asking a healthcare provider about your mental
-        health issues
+      label: Healthcare Surveys Survey Form Page 1 24
       hint: null
-      type: select_one
-      options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: healthcare_surveys_survey_form_page_1_25
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
       required: false

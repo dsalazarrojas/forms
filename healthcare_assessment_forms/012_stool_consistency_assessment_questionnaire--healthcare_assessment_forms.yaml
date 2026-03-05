@@ -23,12 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Normal''}'
-      - '{''id'': 2, ''label'': ''Loose''}'
-      - '{''id'': 3, ''label'': ''Pellet''}'
-      - '{''id'': 4, ''label'': ''Mucous''}'
-      - '{''id'': 5, ''label'': ''Undigested''}'
-      - '{''id'': 6, ''label'': ''Other''}'
+      - Normal
+      - Loose
+      - Pellet
+      - Mucous
+      - Undigested
+      - Other
       required: false
     - id: 4
       name: symptoms
@@ -43,11 +43,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Diarrhea''}'
-      - '{''id'': 2, ''label'': ''Constipation''}'
-      - '{''id'': 3, ''label'': ''Blood in stool''}'
-      - '{''id'': 4, ''label'': ''Mucous''}'
-      - '{''id'': 5, ''label'': ''Other''}'
+      - Diarrhea
+      - Constipation
+      - Blood in stool
+      - Mucous
+      - Other
       required: false
     - id: 6
       name: medication
@@ -55,9 +55,9 @@ inputSchema:
       hint: Are you taking any medication that may affect bowel health?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Unsure''}'
+      - 'True'
+      - 'False'
+      - Unsure
       required: false
     - id: 7
       name: follow_up
@@ -93,11 +93,11 @@ inputSchema:
       hint: How often do you have been submitting stool forms in the past 30 days?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than 10''}'
-      - '{''id'': 2, ''label'': ''10-20''}'
-      - '{''id'': 3, ''label'': ''21-30''}'
-      - '{''id'': 4, ''label'': ''More than 30''}'
-      - '{''id'': 5, ''label'': ''None''}'
+      - Less than 10
+      - 10-20
+      - 21-30
+      - More than 30
+      - None
       required: false
     - id: 12
       name: bowel_movement_frequency
@@ -105,10 +105,10 @@ inputSchema:
       hint: How often do you experience bowel movements in the past 24 hours?
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Less than 2 times''}'
-      - '{''id'': 2, ''label'': ''2-3 times''}'
-      - '{''id'': 3, ''label'': ''4-6 times''}'
-      - '{''id'': 4, ''label'': ''More than 6 times''}'
+      - Less than 2 times
+      - 2-3 times
+      - 4-6 times
+      - More than 6 times
       required: false
     - id: 13
       name: blood_test_results
@@ -116,10 +116,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Positive''}'
-      - '{''id'': 2, ''label'': ''Negative''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Positive
+      - Negative
+      - Pending
+      - Other
       required: false
     - id: 14
       name: blood_test_date

@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Public'', ''label'': ''Public''}'
-      - '{''id'': 2, ''name'': ''Private'', ''label'': ''Private''}'
-      - '{''id'': 3, ''name'': ''Both'', ''label'': ''Both''}'
-      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      - Public
+      - Private
+      - Both
+      - Other
       required: false
     - id: 6
       name: school_level
@@ -48,9 +48,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Primary'', ''label'': ''Primary''}'
-      - '{''id'': 2, ''name'': ''Secondary'', ''label'': ''Secondary''}'
-      - '{''id'': 3, ''name'': ''Tertiary'', ''label'': ''Tertiary''}'
+      - Primary
+      - Secondary
+      - Tertiary
       required: false
     - id: 7
       name: school_address
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Active'', ''label'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive'', ''label'': ''Inactive''}'
+      - Active
+      - Inactive
       required: false
     - id: 12
       name: school_url

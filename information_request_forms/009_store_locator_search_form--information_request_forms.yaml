@@ -16,11 +16,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Retail Stores''}'
-      - '{''label'': ''Service Centers''}'
-      - '{''label'': ''Pharmacies''}'
-      - '{''label'': ''Banks''}'
-      - '{''label'': ''Restaurants''}'
+      - Retail Stores
+      - Service Centers
+      - Pharmacies
+      - Banks
+      - Restaurants
       required: false
     - id: 3
       name: select_location
@@ -28,10 +28,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Downtown''}'
-      - '{''label'': ''Uptown''}'
-      - '{''label'': ''Mall''}'
-      - '{''label'': ''Online''}'
+      - Downtown
+      - Uptown
+      - Mall
+      - Online
       required: false
     - id: 4
       name: store_name
@@ -46,8 +46,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Alphabetically''}'
-      - '{''label'': ''Distance''}'
+      - Alphabetically
+      - Distance
       required: false
     - id: 6
       name: select_distance
@@ -55,9 +55,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1-5 Miles''}'
-      - '{''label'': ''6-10 Miles''}'
-      - '{''label'': ''More Than 10 Miles''}'
+      - 1-5 Miles
+      - 6-10 Miles
+      - More Than 10 Miles
       required: false
     - id: 7
       name: select_distance_unit
@@ -65,8 +65,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Kilometers''}'
-      - '{''label'': ''Miles''}'
+      - Kilometers
+      - Miles
       required: false
     - id: 8
       name: store_hours

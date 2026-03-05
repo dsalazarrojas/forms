@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Facility Energy Data'', ''label'': ''Publish''}'
-      - '{''id'': 2, ''name'': ''Facility Energy Data'', ''label'': ''Do Not Publish''}'
+      - Publish
+      - Do Not Publish
       required: false
     - id: 3
       name: research_benchmarking
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Research'', ''label'': ''Research''}'
-      - '{''id'': 2, ''name'': ''Benchmarking'', ''label'': ''Benchmarking''}'
-      - '{''id'': 3, ''name'': ''Both'', ''label'': ''Both''}'
+      - Research
+      - Benchmarking
+      - Both
       required: false
     - id: 4
       name: publishing_method
@@ -35,9 +35,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Reporting'', ''label'': ''Reporting''}'
-      - '{''id'': 2, ''name'': ''Benchmarking'', ''label'': ''Benchmarking''}'
-      - '{''id'': 3, ''name'': ''Research'', ''label'': ''Research''}'
+      - Reporting
+      - Benchmarking
+      - Research
       required: false
     - id: 5
       name: reporting_frequency
@@ -45,11 +45,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Daily'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''id'': 3, ''name'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''id'': 4, ''name'': ''Quarterly'', ''label'': ''Quarterly''}'
-      - '{''id'': 5, ''name'': ''Annually'', ''label'': ''Annually''}'
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
       required: false
     - id: 6
       name: data_ending
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Authorized Person'', ''label'': ''Authorized Person''}'
-      - '{''id'': 2, ''name'': ''Facility Manager'', ''label'': ''Facility Manager''}'
-      - '{''id'': 3, ''name'': ''Data Analyst'', ''label'': ''Data Analyst''}'
+      - Authorized Person
+      - Facility Manager
+      - Data Analyst
       required: false
     - id: 18
       name: facility_representative_additional_notes

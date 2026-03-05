@@ -30,11 +30,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''2.1.1'', ''label'': ''High School''}'
-      - '{''id'': ''2.1.2'', ''label'': ''Some College''}'
-      - '{''id'': ''2.1.3'', ''label'': "Bachelor''s"}'
-      - '{''id'': ''2.1.4'', ''label'': "Master''s"}'
-      - '{''id'': ''2.1.5'', ''label'': ''Doctoral''}'
+      - High School
+      - Some College
+      - Bachelor's
+      - Master's
+      - Doctoral
       required: false
     - id: 5
       name: field_of_study
@@ -49,8 +49,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''3.1.1'', ''label'': True}'
-      - '{''id'': ''3.1.2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: expiration_date
@@ -79,8 +79,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': ''5.1.1'', ''label'': True}'
-      - '{''id'': ''5.1.2'', ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: relevant_certifications
@@ -97,9 +97,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': ''6.1.1'', ''label'': ''Peer Evaluation''}'
-      - '{''id'': ''6.1.2'', ''label'': ''Managerial Evaluation''}'
-      - '{''id'': ''6.1.3'', ''label'': ''Self-Evaluation''}'
+      - Peer Evaluation
+      - Managerial Evaluation
+      - Self-Evaluation
       required: false
     - id: 13
       name: evaluation_frequency

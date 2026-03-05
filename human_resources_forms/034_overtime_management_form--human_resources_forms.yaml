@@ -37,8 +37,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Approve''}'
-      - '{''label'': ''Reject''}'
+      - Approve
+      - Reject
       required: false
     - id: 6
       name: comment
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Business''}'
-      - '{''label'': ''Personal''}'
-      - '{''label'': ''Other''}'
+      - Business
+      - Personal
+      - Other
       required: false
     - id: 8
       name: overtime_type
@@ -63,8 +63,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Regular''}'
-      - '{''label'': ''Emergency''}'
+      - Regular
+      - Emergency
       required: false
     - id: 9
       name: start_time
@@ -86,8 +86,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''New''}'
-      - '{''label'': ''In Progress''}'
-      - '{''label'': ''Approved''}'
-      - '{''label'': ''Rejected''}'
+      - New
+      - In Progress
+      - Approved
+      - Rejected
       required: false

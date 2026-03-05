@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''curly'', ''label'': ''Curly''}'
-      - '{''id'': 2, ''name'': ''straight'', ''label'': ''Straight''}'
-      - '{''id'': 3, ''name'': ''wavy'', ''label'': ''Wavy''}'
+      - Curly
+      - Straight
+      - Wavy
       required: false
     - id: 3
       name: hair_texture
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fine'', ''label'': ''Fine''}'
-      - '{''id'': 2, ''name'': ''medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''coarse'', ''label'': ''Coarse''}'
+      - Fine
+      - Medium
+      - Coarse
       required: false
     - id: 4
       name: preferred_style
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''bob'', ''label'': ''Bob''}'
-      - '{''id'': 2, ''name'': ''pixie'', ''label'': ''Pixie''}'
-      - '{''id'': 3, ''name'': ''pixie_cut'', ''label'': ''Pixie Cut''}'
+      - Bob
+      - Pixie
+      - Pixie Cut
       required: false
     - id: 5
       name: preferred_length
@@ -53,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''roots'', ''label'': ''Roots''}'
-      - '{''id'': 2, ''name'': ''length'', ''label'': ''Length''}'
-      - '{''id'': 3, ''name'': ''color'', ''label'': ''Color''}'
+      - Roots
+      - Length
+      - Color
       required: false
     - id: 7
       name: preferred_color
@@ -63,9 +63,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''natural'', ''label'': ''Natural''}'
-      - '{''id'': 2, ''name'': ''artificial'', ''label'': ''Artificial''}'
-      - '{''id'': 3, ''name'': ''balayage'', ''label'': ''Balayage''}'
+      - Natural
+      - Artificial
+      - Balayage
       required: false
     - id: 8
       name: face_shape
@@ -73,9 +73,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''round'', ''label'': ''Round''}'
-      - '{''id'': 2, ''name'': ''oval'', ''label'': ''Oval''}'
-      - '{''id'': 3, ''name'': ''heart'', ''label'': ''Heart''}'
+      - Round
+      - Oval
+      - Heart
       required: false
     - id: 9
       name: neck_shape
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''oval'', ''label'': ''Oval''}'
-      - '{''id'': 2, ''name'': ''heart'', ''label'': ''Heart''}'
-      - '{''id'': 3, ''name'': ''square'', ''label'': ''Square''}'
+      - Oval
+      - Heart
+      - Square
       required: false
     - id: 10
       name: skin_tone
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''fair'', ''label'': ''Fair''}'
-      - '{''id'': 2, ''name'': ''medium'', ''label'': ''Medium''}'
-      - '{''id'': 3, ''name'': ''olive'', ''label'': ''Olive''}'
+      - Fair
+      - Medium
+      - Olive
       required: false
     - id: 11
       name: eye_color
@@ -103,9 +103,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''blue'', ''label'': ''Blue''}'
-      - '{''id'': 2, ''name'': ''brown'', ''label'': ''Brown''}'
-      - '{''id'': 3, ''name'': ''green'', ''label'': ''Green''}'
+      - Blue
+      - Brown
+      - Green
       required: false
     - id: 12
       name: hair_problem
@@ -127,8 +127,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: treatment_preferences
@@ -150,8 +150,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 18
       name: submit_form
@@ -159,8 +159,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True, ''label'': True}'
-      - '{''id'': 2, ''name'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 19
       name: form_id

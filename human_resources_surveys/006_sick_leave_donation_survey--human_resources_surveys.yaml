@@ -25,11 +25,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''strongly_support'', ''value'': ''strong_support''}'
-      - '{''label'': ''somewhat_support'', ''value'': ''somewhat_support''}'
-      - '{''label'': ''neutral'', ''value'': ''neutral''}'
-      - '{''label'': ''somewhat_opposed'', ''value'': ''somewhat_opposed''}'
-      - '{''label'': ''strongly_opposed'', ''value'': ''strong_opposed''}'
+      - strongly support
+      - somewhat support
+      - neutral
+      - somewhat opposed
+      - strongly opposed
       required: true
     - id: 4
       name: concerns
@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''lack_of_transparency'', ''value'': ''lack_of_transparency''}'
-      - '{''label'': ''unclear_policies'', ''value'': ''unclear_policies''}'
-      - '{''label'': ''unequal_access'', ''value'': ''unequal_access''}'
-      - '{''label'': ''other'', ''value'': ''other''}'
+      - lack of transparency
+      - unclear policies
+      - unequal access
+      - other
       required: true
     - id: 5
       name: suggestion

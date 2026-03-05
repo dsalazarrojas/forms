@@ -23,22 +23,12 @@ inputSchema:
       required: false
     - id: 2
       name: event_date
-      label: event Date
+      label: Event Date
       hint: null
       type: date
       options: []
       required: false
     - id: 3
-      name: loading_tasks
-      label: Loading Tasks
-      hint: null
-      type: select_multiple
-      options:
-      - Preventive Maintenance
-      - Corrective Maintenance
-      - Pre Loading Checklist Tasks
-      required: false
-    - id: 4
       name: loading_status
       label: Loading Status
       hint: null
@@ -48,37 +38,72 @@ inputSchema:
       - Incomplete
       - No Load
       required: false
+    - id: 4
+      name: loading_tasks
+      label: Loading Tasks
+      hint: null
+      type: select_multiple
+      options:
+      - Preventive Maintenance
+      - Corrective Maintenance
+      - Pre Loading Checklist Tasks
+      required: false
     - id: 5
-      name: comments
-      label: Comments
+      name: comments_event
+      label: Comments (Event)
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: comments
-      label: Comments
+      name: comments_overall
+      label: Comments (Overall)
       hint: null
       type: text
       options: []
       required: false
     - id: 7
-      name: comments
-      label: Comments
+      name: additional_comments
+      label: Additional Comments
       hint: null
       type: text
       options: []
       required: false
     - id: 8
-      name: comments
-      label: Comments
+      name: pre_loading_checklist_completion_status
+      label: Pre-Loading Checklist Completion Status
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
       required: false
     - id: 9
-      name: comments
-      label: Comments
+      name: pre_loading_checklist_completion_date
+      label: Pre-Loading Checklist Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 12
+      name: additional_review_comments
+      label: Additional Review Comments
       hint: null
       type: text
       options: []

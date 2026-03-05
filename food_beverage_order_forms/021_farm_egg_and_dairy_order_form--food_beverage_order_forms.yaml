@@ -15,100 +15,91 @@ inputSchema:
     title: Farm Egg And Dairy Order Form
     pages:
     - id: 1
-      name: farm_egg_and_dairy_order_form_page_1
-      label: Farm Egg and Dairy Order Form
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 2
-      name: farm_egg_and_dairy_order_form_page_2
+      name: customer_info
       label: Customer Information
       hint: null
       type: text
       options: []
-      required: false
-    - id: 3
-      name: farm_egg_and_dairy_order_form_page_3
+      required: true
+    - id: 2
+      name: contact_info
       label: Contact Information
       hint: null
       type: text
       options: []
+      required: true
+    - id: 3
+      name: order_items_1
+      label: Select Items 1
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Orange
       required: false
     - id: 4
-      name: farm_egg_and_dairy_order_form_page_4
-      label: Order Information
+      name: order_items_2
+      label: Select Items 2
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Item 1
-      - Item 2
-      - Item 3
+      - Apple
+      - Banana
+      - Orange
       required: false
     - id: 5
-      name: farm_egg_and_dairy_order_form_page_5
-      label: Order Information
+      name: order_items_3
+      label: Select Items 3
       hint: null
-      type: select_multiple
+      type: select_one
       options:
-      - Item 1
-      - Item 2
-      - Item 3
+      - Apple
+      - Banana
+      - Orange
       required: false
     - id: 6
-      name: farm_egg_and_dairy_order_form_page_6
-      label: Order Information
+      name: order_description
+      label: Order Description
       hint: null
-      type: select_multiple
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 7
-      name: farm_egg_and_dairy_order_form_page_7
-      label: Order Information
+      name: delivery_date
+      label: Delivery Date
       hint: null
-      type: select_multiple
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
+      type: date
+      options: []
+      required: true
     - id: 8
-      name: farm_egg_and_dairy_order_form_page_8
-      label: Order Information
-      hint: null
-      type: select_multiple
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
-    - id: 9
-      name: farm_egg_and_dairy_order_form_page_9
-      label: Order Information
-      hint: null
-      type: select_multiple
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
-    - id: 10
-      name: farm_egg_and_dairy_order_form_page_10
-      label: Order Information
-      hint: null
-      type: select_multiple
-      options:
-      - Item 1
-      - Item 2
-      - Item 3
-      required: false
-    - id: 11
-      name: farm_egg_and_dairy_order_form_page_11
-      label: None
+      name: delivery_time
+      label: Delivery Time
       hint: null
       type: time
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Credit Card
+      - Debit Card
+      required: false
+    - id: 10
+      name: order_total
+      label: Order Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
       options: []
       required: false

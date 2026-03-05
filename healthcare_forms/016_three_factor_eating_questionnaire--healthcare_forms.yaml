@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Rarely''}'
+      - 'True'
+      - 'False'
+      - Rarely
       required: true
     - id: 3
       name: eating_frequency
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 5
       name: eating_frequency_scale_type
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 6
       name: eating_frequency_scale_description
@@ -60,10 +60,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Carbohydrates''}'
-      - '{''label'': ''Fats''}'
-      - '{''label'': ''Sugary Foods''}'
-      - '{''label'': ''Protein''}'
+      - Carbohydrates
+      - Fats
+      - Sugary Foods
+      - Protein
       required: true
     - id: 8
       name: food_groups_description
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 10
       name: food_groups_scale_type
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Carbohydrates''}'
-      - '{''label'': ''Fats''}'
-      - '{''label'': ''Sugary Foods''}'
-      - '{''label'': ''Protein''}'
+      - Carbohydrates
+      - Fats
+      - Sugary Foods
+      - Protein
       required: false
     - id: 11
       name: patient_goals
@@ -113,9 +113,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Low''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 14
       name: patient_goals_scale_type
@@ -123,10 +123,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Carbohydrates''}'
-      - '{''label'': ''Fats''}'
-      - '{''label'': ''Sugary Foods''}'
-      - '{''label'': ''Protein''}'
+      - Carbohydrates
+      - Fats
+      - Sugary Foods
+      - Protein
       required: false
     - id: 15
       name: healthcare_provider_name

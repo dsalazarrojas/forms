@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''wheelchair'', ''label'': ''Wheelchair''}'
-      - '{''value'': ''visual-impaired'', ''label'': ''Visual Impairment''}'
-      - '{''value'': ''hearing-impaired'', ''label'': ''Hearing Impairment''}'
-      - '{''value'': ''none'', ''label'': ''None''}'
+      - Wheelchair
+      - Visual Impairment
+      - Hearing Impairment
+      - None
       required: false
     - id: 3
       name: accessibility_accommodations
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''wheelchair-accessibility'', ''label'': ''Wheelchair Accessibility''}'
-      - '{''value'': ''american-sign-language'', ''label'': ''American Sign Language''}'
-      - '{''value'': ''large-print'', ''label'': ''Large Print''}'
-      - '{''value'': ''braille'', ''label'': ''Braille''}'
+      - Wheelchair Accessibility
+      - American Sign Language
+      - Large Print
+      - Braille
       required: false
     - id: 4
       name: consent

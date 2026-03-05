@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -90,9 +79,9 @@ inputSchema:
       hint: Do your duties involve working with campers
       type: select_one
       options:
-        - Yes, direct contact
-        - No direct contact
-        - Minimal contact
+      - Yes, direct contact
+      - No direct contact
+      - Minimal contact
       required: true
     - id: 12
       name: camp_covid_understanding_header
@@ -107,9 +96,9 @@ inputSchema:
       hint: You understand transmission methods
       type: select_one
       options:
-        - Yes, I understand
-        - I have questions
-        - No
+      - Yes, I understand
+      - I have questions
+      - 'False'
       required: true
     - id: 14
       name: camp_understand_precautions
@@ -117,9 +106,9 @@ inputSchema:
       hint: You understand camp safety measures
       type: select_one
       options:
-        - Yes, I understand
-        - I have questions
-        - No
+      - Yes, I understand
+      - I have questions
+      - 'False'
       required: true
     - id: 15
       name: camp_symptoms_acknowledgment_header
@@ -134,9 +123,9 @@ inputSchema:
       hint: You have no fever, cough, etc.
       type: select_one
       options:
-        - No symptoms
-        - Have symptoms
-        - Unsure
+      - No symptoms
+      - Have symptoms
+      - Unsure
       required: true
     - id: 17
       name: camp_no_covid_exposure
@@ -144,9 +133,9 @@ inputSchema:
       hint: No recent exposure to positive cases
       type: select_one
       options:
-        - No recent exposure
-        - Yes, exposed
-        - Unsure
+      - No recent exposure
+      - Yes, exposed
+      - Unsure
       required: true
     - id: 18
       name: camp_vaccination_status_camp
@@ -154,11 +143,11 @@ inputSchema:
       hint: Your vaccination status
       type: select_one
       options:
-        - Fully vaccinated and boosted
-        - Fully vaccinated, not boosted
-        - Partially vaccinated
-        - Not vaccinated
-        - Prefer not to disclose
+      - Fully vaccinated and boosted
+      - Fully vaccinated, not boosted
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
       required: true
     - id: 19
       name: camp_health_conditions_camp
@@ -180,8 +169,8 @@ inputSchema:
       hint: Agreement to follow camp rules
       type: select_one
       options:
-        - I commit
-        - I cannot commit
+      - I commit
+      - I cannot commit
       required: true
     - id: 22
       name: camp_report_symptoms
@@ -189,8 +178,8 @@ inputSchema:
       hint: Agreement to report symptoms
       type: select_one
       options:
-        - I agree
-        - I do not agree
+      - I agree
+      - I do not agree
       required: true
     - id: 23
       name: camp_quarantine_if_exposed
@@ -198,8 +187,8 @@ inputSchema:
       hint: Agreement to quarantine as needed
       type: select_one
       options:
-        - I agree
-        - I do not agree
+      - I agree
+      - I do not agree
       required: true
     - id: 24
       name: camp_consent_acknowledgment
@@ -207,8 +196,8 @@ inputSchema:
       hint: Full understanding and agreement
       type: select_one
       options:
-        - I have read and understand
-        - I do not fully understand
+      - I have read and understand
+      - I do not fully understand
       required: true
     - id: 25
       name: camp_consent_date

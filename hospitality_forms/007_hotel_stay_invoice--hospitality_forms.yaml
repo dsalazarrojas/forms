@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 4
       name: services_rendered
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Credit Card''}'
-      - '{''id'': 2, ''name'': ''Pay Pal''}'
-      - '{''id'': 3, ''name'': ''Bank Transfer''}'
+      - Credit Card
+      - Pay Pal
+      - Bank Transfer
       required: true
     - id: 9
       name: notes

@@ -4,195 +4,104 @@ inputSchema:
     title: Summer Intern Application Form
     pages:
     - id: 1
-      name: summer_intern_application_form_1
-      label: Summer Intern Application
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 2
-      name: summer_intern_application_form_2
+      name: name
       label: Name
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: summer_intern_application_form_3
-      label: Last Name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 4
-      name: summer_intern_application_form_4
+    - id: 2
+      name: email
       label: Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 5
-      name: summer_intern_application_form_5
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
-      name: summer_intern_application_form_6
-      label: Major or Field of Study
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: summer_intern_application_form_7
+      required: true
+    - id: 3
+      name: expected_graduation_date
       label: Expected Graduation Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 8
-      name: summer_intern_application_form_8
+    - id: 4
+      name: availability
       label: Availability
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 9
-      name: summer_intern_application_form_9
-      label: Resume
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
-      name: summer_intern_application_form_10
-      label: Transcripts
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: summer_intern_application_form_11
-      label: References
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 12
-      name: summer_intern_application_form_12
-      label: Availability Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: summer_intern_application_form_13
-      label: Availability End Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 14
-      name: summer_intern_application_form_14
-      label: Availability Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 15
-      name: summer_intern_application_form_15
-      label: Availability End Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: summer_intern_application_form_16
-      label: Availability Duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 17
-      name: summer_intern_application_form_17
-      label: Availability Period
       hint: null
       type: select_one
       options:
       - Full-time
       - Part-time
-      required: false
-    - id: 18
-      name: summer_intern_application_form_18
-      label: Availability Period
+      required: true
+    - id: 5
+      name: major_or_field_of_study
+      label: Major or Field of Study
       hint: null
-      type: select_multiple
-      options:
-      - Summer
-      - Fall
+      type: text
+      options: []
       required: false
-    - id: 19
-      name: summer_intern_application_form_19
-      label: Availability Period
+    - id: 6
+      name: start_date
+      label: Start Date
       hint: null
-      type: select_multiple
-      options:
-      - Winter
-      - Spring
+      type: date
+      options: []
       required: false
-    - id: 20
-      name: summer_intern_application_form_20
-      label: Availability Period
+    - id: 7
+      name: end_date
+      label: End Date
       hint: null
-      type: select_multiple
-      options:
-      - Summer
-      - Fall
+      type: date
+      options: []
       required: false
-    - id: 21
-      name: summer_intern_application_form_21
-      label: Availability Period
+    - id: 8
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: period
+      label: Period
       hint: null
       type: select_one
       options:
-      - Winter
-      - Other
-      required: false
-    - id: 22
-      name: summer_intern_application_form_22
-      label: Availability Period
-      hint: null
-      type: select_multiple
-      options:
-      - Spring
       - Summer
-      required: false
-    - id: 23
-      name: summer_intern_application_form_23
-      label: Availability Period
-      hint: null
-      type: select_multiple
-      options:
-      - Winter
       - Fall
-      required: false
-    - id: 24
-      name: summer_intern_application_form_24
-      label: Availability Period
+      required: true
+    - id: 12
+      name: references
+      label: References
       hint: null
-      type: select_multiple
-      options:
-      - Fall
-      - Spring
+      type: note
+      options: []
       required: false
-    - id: 25
-      name: summer_intern_application_form_25
-      label: Availability Period
+    - id: 13
+      name: resume
+      label: Resume
       hint: null
-      type: select_multiple
-      options:
-      - Spring
-      - Other
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: transcripts
+      label: Transcripts
+      hint: null
+      type: text
+      options: []
       required: false

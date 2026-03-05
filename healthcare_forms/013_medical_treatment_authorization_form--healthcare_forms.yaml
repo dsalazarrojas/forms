@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Active''}'
-      - '{''label'': ''Not Active''}'
-      - '{''label'': ''Completed''}'
+      - Active
+      - Not Active
+      - Completed
       required: false
     - id: 8
       name: medical_staff
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Other''}'
+      - Doctor
+      - Nurse
+      - Other
       required: false
     - id: 9
       name: consent
@@ -71,6 +71,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
+      - 'True'
+      - 'False'
       required: false

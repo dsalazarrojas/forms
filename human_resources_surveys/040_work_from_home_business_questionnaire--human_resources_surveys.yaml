@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''full_time''}'
-      - '{''value'': ''part_time''}'
-      - '{''value'': ''freelance''}'
+      - full time
+      - part time
+      - freelance
       required: false
     - id: 3
       name: work_setup
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''home''}'
-      - '{''value'': ''co_work''}'
+      - home
+      - co work
       required: false
     - id: 5
       name: team_size
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''email''}'
-      - '{''value'': ''phone''}'
-      - '{''value'': ''chat''}'
+      - email
+      - phone
+      - chat
       required: false
     - id: 8
       name: work_from_home_frequency
@@ -66,10 +66,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''daily''}'
-      - '{''value'': ''weekly''}'
-      - '{''value'': ''bi_weekly''}'
-      - '{''value'': ''less_than_once_a_week''}'
+      - daily
+      - weekly
+      - bi weekly
+      - less than once a week
       required: false
     - id: 9
       name: work_hours_of_operation
@@ -77,10 +77,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''morning''}'
-      - '{''value'': ''afternoon''}'
-      - '{''value'': ''evening''}'
-      - '{''value'': ''night''}'
+      - morning
+      - afternoon
+      - evening
+      - night
       required: false
     - id: 10
       name: work_from_home_duration
@@ -88,10 +88,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''less_than_3_months''}'
-      - '{''value'': ''3_6_months''}'
-      - '{''value'': ''6_12_months''}'
-      - '{''value'': ''more_than_12_months''}'
+      - less than 3 months
+      - 3 6 months
+      - 6 12 months
+      - more than 12 months
       required: false
     - id: 11
       name: work_arrangement_justification
@@ -113,10 +113,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''laptop''}'
-      - '{''value'': ''smartphone''}'
-      - '{''value'': ''headset''}'
-      - '{''value'': ''webcam''}'
+      - laptop
+      - smartphone
+      - headset
+      - webcam
       required: false
     - id: 14
       name: work_from_home_equipment_description
@@ -131,8 +131,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''dedicated''}'
-      - '{''value'': ''shared''}'
+      - dedicated
+      - shared
       required: false
     - id: 16
       name: home_office_equipment
@@ -140,12 +140,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''desk''}'
-      - '{''value'': ''chair''}'
-      - '{''value'': ''monitor''}'
-      - '{''value'': ''keyboard''}'
-      - '{''value'': ''mouse''}'
-      - '{''value'': ''webcam''}'
+      - desk
+      - chair
+      - monitor
+      - keyboard
+      - mouse
+      - webcam
       required: false
     - id: 17
       name: work_from_home_equipment_description

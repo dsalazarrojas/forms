@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Medication''}'
-      - '{''value'': ''Surgery''}'
-      - '{''value'': ''Therapy''}'
+      - Medication
+      - Surgery
+      - Therapy
       required: true
     - id: 7
       name: treatment_notes
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Complete''}'
+      - Active
+      - Inactive
+      - Complete
       required: true
     - id: 13
       name: patient_status
@@ -99,9 +99,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Discharged''}'
+      - Active
+      - Inactive
+      - Discharged
       required: true
     - id: 14
       name: medical_record_notes
@@ -137,8 +137,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Updated''}'
-      - '{''value'': ''Not Updated''}'
+      - Updated
+      - Not Updated
       required: false
     - id: 19
       name: patient_update_reason
@@ -160,9 +160,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Discharged''}'
+      - Active
+      - Inactive
+      - Discharged
       required: false
     - id: 22
       name: medical_record_close
@@ -170,8 +170,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Closed''}'
-      - '{''value'': ''Not Closed''}'
+      - Closed
+      - Not Closed
       required: false
     - id: 23
       name: medical_record_close_reason
@@ -193,6 +193,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Closed''}'
-      - '{''value'': ''Open''}'
+      - Closed
+      - Open
       required: false

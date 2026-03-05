@@ -16,17 +16,17 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Allergies''}'
-      - '{''label'': ''High Blood Pressure''}'
-      - '{''label'': ''High Cholesterol''}'
-      - '{''label'': ''Diabetes''}'
-      - '{''label'': ''Epilepsy''}'
-      - '{''label'': ''Severe Headaches''}'
-      - '{''label'': ''Severe Migraines''}'
-      - '{''label'': ''Seizures''}'
-      - '{''label'': ''Asthma''}'
-      - '{''label'': ''Chronic Back Pain''}'
+      - None
+      - Allergies
+      - High Blood Pressure
+      - High Cholesterol
+      - Diabetes
+      - Epilepsy
+      - Severe Headaches
+      - Severe Migraines
+      - Seizures
+      - Asthma
+      - Chronic Back Pain
       required: false
     - id: 3
       name: waiver
@@ -41,10 +41,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mother''}'
-      - '{''label'': ''Father''}'
-      - '{''label'': ''Spouse''}'
-      - '{''label'': ''Other''}'
+      - Mother
+      - Father
+      - Spouse
+      - Other
       required: false
     - id: 5
       name: medical_insurance
@@ -87,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''None''}'
-      - '{''label'': ''Provided''}'
-      - '{''label'': ''Not Provided''}'
+      - None
+      - Provided
+      - Not Provided
       required: false
     - id: 11
       name: yoga_experience

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Full-time'', ''value'': ''full-time''}'
-      - '{''id'': 2, ''label'': ''Part-time'', ''value'': ''part-time''}'
-      - '{''id'': 3, ''label'': ''Temporary'', ''value'': ''temporary''}'
+      - Full-time
+      - Part-time
+      - Temporary
       required: false
     - id: 6
       name: job_description
@@ -61,11 +61,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High School'', ''value'': ''high_school''}'
-      - '{''id'': 2, ''label'': "Bachelor''s Degree", ''value'': ''bachelors_degree''}'
-      - '{''id'': 3, ''label'': "Master''s Degree", ''value'': ''masters_degree''}'
-      - '{''id'': 4, ''label'': ''Ph.D.'', ''value'': ''phd''}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': ''other''}'
+      - High School
+      - Bachelor's Degree
+      - Master's Degree
+      - Ph.D.
+      - Other
       required: false
     - id: 9
       name: skills
@@ -87,10 +87,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employed'', ''value'': ''employed''}'
-      - '{''id'': 2, ''label'': ''Self-Employed'', ''value'': ''self-employed''}'
-      - '{''id'': 3, ''label'': ''Unemployed'', ''value'': ''unemployed''}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      - Employed
+      - Self-Employed
+      - Unemployed
+      - Other
       required: false
     - id: 12
       name: job_start_date

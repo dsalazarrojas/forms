@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Mild'', ''value'': 1}'
-      - '{''label'': ''Moderate'', ''value'': 2}'
-      - '{''label'': ''Severe'', ''value'': 3}'
+      - Mild
+      - Moderate
+      - Severe
       required: false
     - id: 3
       name: daily_impact
@@ -26,11 +26,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Not at all'', ''value'': 1}'
-      - '{''label'': ''A lot'', ''value'': 2}'
-      - '{''label'': ''A moderate amount'', ''value'': 3}'
-      - '{''label'': ''A lot'', ''value'': 4}'
-      - '{''label'': ''A small amount'', ''value'': 5}'
+      - Not at all
+      - A lot
+      - A moderate amount
+      - A small amount
       required: false
     - id: 4
       name: voice_samples
@@ -45,6 +44,6 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Upload 1'', ''value'': 1}'
+      - Upload 1
       - Other
       required: false

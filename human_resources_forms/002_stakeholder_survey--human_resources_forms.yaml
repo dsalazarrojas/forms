@@ -30,10 +30,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Leadership and management''}'
-      - '{''id'': 2, ''label'': ''Communication and collaboration''}'
-      - '{''id'': 3, ''label'': ''Performance and productivity''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Leadership and management
+      - Communication and collaboration
+      - Performance and productivity
+      - Other
       required: false
     - id: 5
       name: question_2
@@ -42,14 +42,14 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Leadership and management''}'
-      - '{''id'': 2, ''label'': ''Communication and collaboration''}'
-      - '{''id'': 3, ''label'': ''Performance and productivity''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Leadership and management
+      - Communication and collaboration
+      - Performance and productivity
+      - Other
       required: false
     - id: 6
-      name: name
-      label: stakeholder_name
+      name: name_2
+      label: Name 2
       hint: null
       type: text
       options: []
@@ -88,8 +88,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 12
       name: question_4
@@ -97,19 +97,19 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High''}'
-      - '{''id'': 2, ''label'': ''Low''}'
+      - High
+      - Low
       required: false
     - id: 13
-      name: name
-      label: stakeholder_name
+      name: name_3
+      label: Name 3
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: phone
-      label: phone
+      name: phone_2
+      label: Phone 2
       hint: null
       type: text
       options: []

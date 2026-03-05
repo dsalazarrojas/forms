@@ -86,9 +86,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 121, ''label'': ''I have read and understood the consent form''}'
-      - '{''id'': 122}'
-      - '{''id'': 123, ''label'': ''I have not read and understood the consent form''}'
+      - I have read and understood the consent form
+      - Option 2
+      - I have not read and understood the consent form
       required: true
     - id: 13
       name: medical_specialist
@@ -96,11 +96,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 131, ''label'': ''Gynecologist''}'
-      - '{''id'': 132, ''label'': ''Urologist''}'
-      - '{''id'': 133, ''label'': ''Cardiologist''}'
-      - '{''id'': 134, ''label'': ''Nephrologist''}'
-      - '{''id'': 135, ''label'': ''Gastroenterologist''}'
+      - Gynecologist
+      - Urologist
+      - Cardiologist
+      - Nephrologist
+      - Gastroenterologist
       required: true
     - id: 14
       name: medical_insurance
@@ -108,9 +108,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 141, ''label'': ''Private Insurance''}'
-      - '{''id'': 142, ''label'': ''Public Insurance''}'
-      - '{''id'': 143, ''label'': ''No Insurance''}'
+      - Private Insurance
+      - Public Insurance
+      - No Insurance
       required: true
     - id: 15
       name: medical_test
@@ -118,9 +118,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 151, ''label'': ''Ultrasound''}'
-      - '{''id'': 152, ''label'': ''Blood test''}'
-      - '{''id'': 153, ''label'': ''X-ray''}'
+      - Ultrasound
+      - Blood test
+      - X-ray
       required: true
     - id: 16
       name: blood_group
@@ -128,10 +128,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 161, ''label'': ''A''}'
-      - '{''id'': 162, ''label'': ''B''}'
-      - '{''id'': 163, ''label'': ''AB''}'
-      - '{''id'': 164, ''label'': ''O''}'
+      - A
+      - B
+      - AB
+      - O
       required: true
     - id: 17
       name: height
@@ -174,11 +174,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 221, ''label'': ''Gynecologist 2''}'
-      - '{''id'': 222, ''label'': ''Urologist 2''}'
-      - '{''id'': 223, ''label'': ''Cardiologist 2''}'
-      - '{''id'': 224, ''label'': ''Nephrologist 2''}'
-      - '{''id'': 225, ''label'': ''Gastroenterologist 2''}'
+      - Gynecologist 2
+      - Urologist 2
+      - Cardiologist 2
+      - Nephrologist 2
+      - Gastroenterologist 2
       required: true
     - id: 23
       name: medical_test_2
@@ -186,9 +186,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 231, ''label'': ''Ultrasound 2''}'
-      - '{''id'': 232, ''label'': ''Blood test 2''}'
-      - '{''id'': 233, ''label'': ''X-ray 2''}'
+      - Ultrasound 2
+      - Blood test 2
+      - X-ray 2
       required: true
     - id: 24
       name: medical_specialist_3

@@ -1,93 +1,82 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Color Match Assessment
     pages:
-      - id: 1
-        name: header
-        label: -- Color Match Assessment --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: client_name
-        label: Client name
-        hint: Full name
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: assessment_date
-        label: Assessment date
-        hint: YYYY-MM-DD
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: skin_tone
-        label: Skin tone description
-        hint: Warm, cool, neutral
-        type: select_one
-        options:
-          - Warm
-          - Cool
-          - Neutral
-        required: true
-      - id: 5
-        name: hair_color
-        label: Hair color
-        hint: Natural or current color
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: eye_color
-        label: Eye color
-        hint: Natural eye color
-        type: text
-        options: []
-        required: false
-      - id: 7
-        name: recommended_palette
-        label: Recommended color palette
-        hint: List of suggested colors
-        type: text
-        options: []
-        required: true
-      - id: 8
-        name: photos_attached
-        label: Photos attached
-        hint: Indicate if photos are provided
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: false
-      - id: 9
-        name: additional_recommendations
-        label: Additional recommendations
-        hint: Styling or product suggestions
-        type: text
-        options: []
-        required: false
-      - id: 10
-        name: consent
-        label: Consent to use images and data
-        hint: Client consent for use of photos
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: header
+      label: -- Color Match Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_date
+      label: Assessment date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: skin_tone
+      label: Skin tone description
+      hint: Warm, cool, neutral
+      type: select_one
+      options:
+      - Warm
+      - Cool
+      - Neutral
+      required: true
+    - id: 5
+      name: hair_color
+      label: Hair color
+      hint: Natural or current color
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: eye_color
+      label: Eye color
+      hint: Natural eye color
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommended_palette
+      label: Recommended color palette
+      hint: List of suggested colors
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: photos_attached
+      label: Photos attached
+      hint: Indicate if photos are provided
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: additional_recommendations
+      label: Additional recommendations
+      hint: Styling or product suggestions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent
+      label: Consent to use images and data
+      hint: Client consent for use of photos
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

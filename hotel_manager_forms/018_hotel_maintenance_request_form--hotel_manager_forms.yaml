@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General'', ''value'': ''general''}'
-      - '{''id'': 2, ''label'': ''Maintenance'', ''value'': ''maintenance''}'
-      - '{''id'': 3, ''label'': ''Repair'', ''value'': ''repair''}'
+      - General
+      - Maintenance
+      - Repair
       required: false
     - id: 3
       name: issue_description
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''High'', ''value'': ''high''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''id'': 3, ''label'': ''Low'', ''value'': ''low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
       name: maintenance_request
@@ -57,11 +57,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Hallway'', ''value'': ''hall''}'
-      - '{''id'': 2, ''label'': ''Bathroom'', ''value'': ''bathroom''}'
-      - '{''id'': 3, ''label'': ''Bedroom'', ''value'': ''bedroom''}'
-      - '{''id'': 4, ''label'': ''Lobby'', ''value'': ''lobby''}'
-      - '{''id'': 5, ''label'': ''Elevator'', ''value'': ''elevator''}'
+      - Hallway
+      - Bathroom
+      - Bedroom
+      - Lobby
+      - Elevator
       required: false
     - id: 8
       name: submit

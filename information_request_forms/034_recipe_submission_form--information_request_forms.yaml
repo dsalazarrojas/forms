@@ -4,203 +4,88 @@ inputSchema:
     title: Recipe Submission Form
     pages:
     - id: 1
-      name: submission_form
-      label: Submit Your Recipe
+      name: recipe_name
+      label: What is the recipe name?
       hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: true
     - id: 2
-      name: recipe_name
-      label: Recipe Name
-      hint: Enter recipe name
+      name: description
+      label: How would you describe your recipe?
+      hint: null
       type: text
       options: []
       required: true
     - id: 3
-      name: description
-      label: Description
-      hint: Briefly describe your recipe
-      type: text
+      name: cooking_time
+      label: How long does it take to cook this recipe?
+      hint: null
+      type: number
       options: []
       required: true
     - id: 4
-      name: cooking_time
-      label: Cooking Time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 5
       name: cooking_temp
-      label: Cooking Temp
+      label: What is the cooking temperature?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 6
+      required: true
+    - id: 5
       name: ingredients
-      label: Ingredients
-      hint: List all ingredients
+      label: List all the ingredients used in this recipe.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: method
+      label: Describe the cooking method.
+      hint: null
       type: text
       options: []
       required: true
     - id: 7
-      name: method
-      label: Method
-      hint: Describe the cooking method
-      type: text
-      options: []
-      required: true
-    - id: 8
       name: tags
-      label: Tags
+      label: What are the tags for this recipe?
       hint: null
       type: select_one
       options:
       - Tag 1
       - Tag 2
-      - Tag 3
       required: true
-    - id: 9
-      name: submitter_details
-      label: Submitter Details
-      hint: Your name and contact info
+    - id: 8
+      name: submitters_details
+      label: What is your name and contact information?
+      hint: null
       type: note
       options: []
       required: true
-    - id: 10
+    - id: 9
       name: email
-      label: Email
-      hint: Your email
+      label: What is your email address?
+      hint: null
       type: email
       options: []
       required: true
-    - id: 11
+    - id: 10
       name: phone
-      label: Phone
-      hint: Your phone number
+      label: What is your phone number?
+      hint: null
       type: text
       options: []
       required: true
-    - id: 12
-      name: tags_2
-      label: Tags
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
+    - id: 11
       name: file
-      label: File
+      label: What file (e.g., image, video) do you want to attach to this recipe?
       hint: null
       type: text
       options: []
       required: false
-    - id: 14
-      name: image
-      label: Image
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
+    - id: 12
       name: notes
-      label: Notes
+      label: Do you have any notes about this recipe?
       hint: null
       type: text
       options: []
-      required: false
-    - id: 16
-      name: submitter_comments
-      label: Submitter Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: tags_3
-      label: Tags
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 18
-      name: tags_4
-      label: Tags
-      hint: null
-      type: select_one
-      options:
-      - Tag 1
-      - Tag 2
-      required: false
-    - id: 19
-      name: tags_5
-      label: Tags
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: tags_6
-      label: Tags
-      hint: null
-      type: select_one
-      options:
-      - Tag 1
-      - Tag 2
-      required: false
-    - id: 21
-      name: tags_7
-      label: Tags
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: tags_8
-      label: Tags
-      hint: null
-      type: select_one
-      options:
-      - Tag 1
-      - Tag 2
-      required: false
-    - id: 23
-      name: tags_9
-      label: Tags
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 24
-      name: tags_10
-      label: Tags
-      hint: null
-      type: select_one
-      options:
-      - Tag 1
-      - Tag 2
-      - Tag 3
-      required: false
-    - id: 25
-      name: tags_11
-      label: Tags
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
       required: false

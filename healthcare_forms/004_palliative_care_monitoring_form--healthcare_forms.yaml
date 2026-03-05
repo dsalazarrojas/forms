@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very High''}'
-      - '{''label'': ''High''}'
-      - '{''label'': ''Medium''}'
-      - '{''label'': ''Low''}'
+      - Very High
+      - High
+      - Medium
+      - Low
       required: true
     - id: 3
       name: pain_management
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Mild''}'
-      - '{''label'': ''Moderate''}'
-      - '{''label'': ''Severe''}'
+      - Mild
+      - Moderate
+      - Severe
       required: true
     - id: 4
       name: medication
@@ -51,8 +51,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes''}'
-      - '{''label'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: true
     - id: 7
       name: vital_signs
@@ -74,8 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes''}'
-      - '{''label'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 10
       name: patient_progress
@@ -83,9 +83,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Improved''}'
-      - '{''label'': ''Stable''}'
-      - '{''label'': ''Decreased''}'
+      - Improved
+      - Stable
+      - Decreased
       required: true
     - id: 11
       name: discharge_status
@@ -93,8 +93,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Discharged''}'
-      - '{''label'': ''Not Discharged''}'
+      - Discharged
+      - Not Discharged
       required: true
     - id: 12
       name: care_team
@@ -102,9 +102,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Therapist''}'
+      - Nurse
+      - Doctor
+      - Therapist
       required: true
     - id: 13
       name: patient_status
@@ -112,9 +112,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Admitted''}'
-      - '{''label'': ''Discharged''}'
-      - '{''label'': ''Unknown''}'
+      - Admitted
+      - Discharged
+      - Unknown
       required: true
     - id: 14
       name: patient_condition
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Yes''}'
-      - '{''label'': ''No''}'
+      - 'Yes'
+      - 'No'
       required: false
     - id: 18
       name: medical_care
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Cardiology''}'
-      - '{''label'': ''Oncology''}'
-      - '{''label'': ''Pulmonology''}'
+      - Cardiology
+      - Oncology
+      - Pulmonology
       required: true
     - id: 19
       name: patient_family
@@ -169,8 +169,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Palliative Care''}'
-      - '{''label'': ''Hospice Care''}'
+      - Palliative Care
+      - Hospice Care
       required: true
     - id: 21
       name: medical_specialties
@@ -178,9 +178,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Dermatology''}'
-      - '{''label'': ''Cardiology''}'
-      - '{''label'': ''Neurology''}'
+      - Dermatology
+      - Cardiology
+      - Neurology
       required: true
     - id: 22
       name: treatment_plan
@@ -195,9 +195,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Improved''}'
-      - '{''label'': ''Stable''}'
-      - '{''label'': ''Decreased''}'
+      - Improved
+      - Stable
+      - Decreased
       required: false
     - id: 24
       name: care_team_update
@@ -205,9 +205,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Nurse''}'
-      - '{''label'': ''Doctor''}'
-      - '{''label'': ''Therapist''}'
+      - Nurse
+      - Doctor
+      - Therapist
       required: false
     - id: 25
       name: notes

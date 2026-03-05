@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''On Site''}'
-      - '{''id'': 2, ''label'': ''Off Site''}'
+      - On Site
+      - Off Site
       required: true
     - id: 3
       name: work_type
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Full Time''}'
-      - '{''id'': 2, ''label'': ''Part Time''}'
-      - '{''id'': 3, ''label'': ''Freelance''}'
+      - Full Time
+      - Part Time
+      - Freelance
       required: true
     - id: 4
       name: work_location

@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''John Doe'', ''label'': ''John Doe''}'
-      - '{''value'': ''Jane Doe'', ''label'': ''Jane Doe''}'
-      - '{''value'': ''Jim Smith'', ''label'': ''Jim Smith''}'
+      - John Doe
+      - Jane Doe
+      - Jim Smith
       required: false
     - id: 6
       name: select_narrators
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''John Doe'', ''label'': ''John Doe''}'
-      - '{''value'': ''Jane Doe'', ''label'': ''Jane Doe''}'
-      - '{''value'': ''Jim Smith'', ''label'': ''Jim Smith''}'
+      - John Doe
+      - Jane Doe
+      - Jim Smith
       required: false
     - id: 7
       name: date
@@ -78,6 +78,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false

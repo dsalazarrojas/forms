@@ -9,9 +9,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Residential''}'
-      - '{''value'': ''Commercial''}'
-      - '{''value'': ''Other''}'
+      - Residential
+      - Commercial
+      - Other
       required: false
     - id: 2
       name: property_owner
@@ -19,8 +19,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Owner''}'
-      - '{''value'': ''Tenant''}'
+      - Owner
+      - Tenant
       required: false
     - id: 3
       name: owner_name
@@ -70,7 +70,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 10

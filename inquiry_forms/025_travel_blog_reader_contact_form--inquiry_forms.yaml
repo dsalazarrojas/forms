@@ -16,9 +16,9 @@ inputSchema:
       hint: Select one
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Question''}'
-      - '{''id'': 2, ''name'': ''Feedback''}'
-      - '{''id'': 3, ''name'': ''Collaboration''}'
+      - Question
+      - Feedback
+      - Collaboration
       required: true
     - id: 3
       name: user_email
@@ -61,6 +61,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Mobile''}'
-      - '{''id'': 2, ''name'': ''Landline''}'
+      - Mobile
+      - Landline
       required: false

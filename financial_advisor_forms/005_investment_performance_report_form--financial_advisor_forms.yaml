@@ -4,100 +4,96 @@ inputSchema:
     title: investment_performance_report_form
     pages:
     - id: 1
-      name: investment_performance
-      label: investment_performance
-      hint: null
-      type: text
+      name: investment_start_date
+      label: What is the start date of the investment?
+      hint: Please enter the start date of the investment
+      type: date
       options: []
-      required: false
+      required: true
     - id: 2
-      name: investment_return
-      label: investment_return
-      hint: null
-      type: number
+      name: investment_end_date
+      label: What is the end date of the investment?
+      hint: Please enter the end date of the investment
+      type: date
       options: []
       required: true
     - id: 3
-      name: investment_return_rate
-      label: investment_return_rate
-      hint: null
+      name: investment_start_value
+      label: What was the initial investment value?
+      hint: Enter the initial investment value
       type: number
       options: []
       required: true
     - id: 4
-      name: investment_duration
-      label: investment_duration
-      hint: null
+      name: investment_end_value
+      label: What was the final investment value?
+      hint: Enter the final investment value
       type: number
       options: []
       required: true
     - id: 5
-      name: investment_start_date
-      label: investment_start_date
-      hint: null
-      type: date
+      name: investment_net_value
+      label: What is the net value of the investment?
+      hint: Enter the net value of the investment
+      type: number
       options: []
       required: true
     - id: 6
-      name: investment_start_date
-      label: investment_start_date
-      hint: null
-      type: date
+      name: investment_return_rate
+      label: What is the return rate of the investment?
+      hint: Enter the return rate of the investment
+      type: number
       options: []
-      required: false
+      required: true
     - id: 7
-      name: investment_end_date
-      label: investment_end_date
-      hint: null
-      type: date
+      name: investment_duration
+      label: How long was the investment duration?
+      hint: Enter the investment duration in days
+      type: number
       options: []
       required: true
     - id: 8
-      name: investment_start_value
-      label: investment_start_value
-      hint: null
-      type: number
+      name: notes
+      label: Are there any additional comments or concerns?
+      hint: Please share any additional comments or concerns
+      type: note
       options: []
-      required: true
+      required: false
     - id: 9
-      name: investment_end_value
-      label: investment_end_value
-      hint: null
-      type: number
-      options: []
-      required: true
+      name: investment_compare
+      label: How does this investment compare to others of similar type?
+      hint: Compare to similar investments
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
     - id: 10
-      name: investment_net_value
-      label: investment_net_value
-      hint: null
+      name: investment_return
+      label: What is the total return on investment?
+      hint: Enter the total return on investment
       type: number
       options: []
-      required: true
+      required: false
     - id: 11
-      name: investment_return_rate
-      label: investment_return_rate
-      hint: null
-      type: number
-      options: []
+      name: investment_expectation
+      label: How does this investment's performance compare to your expectations?
+      hint: Compare to your expectations
+      type: select_one
+      options:
+      - Significantly Better
+      - Somewhat Better
+      - As Expected
+      - Somewhat Worse
+      - Significantly Worse
       required: false
     - id: 12
-      name: investment_duration
-      label: investment_duration
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 13
-      name: investment_total_return
-      label: investment_total_return
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: notes
-      label: notes
-      hint: null
-      type: note
+      name: investment_comments
+      label: Any additional comments or concerns?
+      hint: Please share any additional comments or concerns
+      type: text
       options: []
       required: false

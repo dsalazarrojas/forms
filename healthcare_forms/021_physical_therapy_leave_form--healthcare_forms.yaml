@@ -20,55 +20,57 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: availability
-      label: availability
+      label: Availability
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 3
-      name: date_requesting
-      label: Date Requesting
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 4
-      name: time_requesting
-      label: Time Requesting
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 5
       name: employer_educational_institution
       label: Employer/Educational Institution
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 6
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
       name: reason_for_absence
       label: Reason for Absence
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
+    - id: 6
+      name: availability_2
+      label: Availability 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
-      name: comments
-      label: Comments
+      name: comments_2
+      label: Comments 2
       hint: null
       type: note
       options: []
@@ -79,122 +81,4 @@ inputSchema:
       hint: null
       type: text
       options: []
-      required: false
-    - id: 9
-      name: date_requesting
-      label: Date Requesting
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 10
-      name: time_requesting
-      label: Time Requesting
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 11
-      name: availability
-      label: Availability
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 12
-      name: employer_educational_institution
-      label: Employer/Educational Institution
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 13
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 14
-      name: reason_for_absence
-      label: Reason for Absence
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
-      name: submit_form
-      label: Submit Form
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: date_requesting
-      label: Date Requesting
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: time_requesting
-      label: Time Requesting
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: employer_educational_institution
-      label: Employer/Educational Institution
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      - option4
-      required: false
-    - id: 19
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: availability
-      label: Availability
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: reason_for_absence
-      label: Reason for Absence
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 22
-      name: submit_form
-      label: Submit Form
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

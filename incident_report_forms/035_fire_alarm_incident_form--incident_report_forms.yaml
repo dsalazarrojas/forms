@@ -23,12 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3.1, ''name'': ''Test''}'
-      - '{''id'': 3.1, ''name'': ''Test''}'
-      - '{''id'': 3.2, ''name'': ''Smoke Detector''}'
-      - '{''id'': 3.3, ''name'': ''Fire Alarm Panel''}'
-      - '{''id'': 3.4, ''name'': ''Emergency Exit''}'
-      - '{''id'': 3.5, ''name'': ''Other''}'
+      - Test
+      - Smoke Detector
+      - Fire Alarm Panel
+      - Emergency Exit
+      - Other
       required: false
     - id: 4
       name: description
@@ -50,9 +49,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 6.1, ''name'': ''Low''}'
-      - '{''id'': 6.2, ''name'': ''Medium''}'
-      - '{''id'': 6.3, ''name'': ''High''}'
+      - Low
+      - Medium
+      - High
       required: false
     - id: 7
       name: alarm_source
@@ -60,9 +59,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 7.1, ''name'': ''Fire Alarm Panel''}'
-      - '{''id'': 7.2, ''name'': ''Emergency Exit''}'
-      - '{''id'': 7.3, ''name'': ''Other''}'
+      - Fire Alarm Panel
+      - Emergency Exit
+      - Other
       required: false
     - id: 8
       name: response_time
@@ -77,11 +76,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 9.1, ''name'': ''Fire Extinguisher''}'
-      - '{''id'': 9.2, ''name'': ''Fire Extinguisher''}'
-      - '{''id'': 9.3, ''name'': ''Foam''}'
-      - '{''id'': 9.4, ''name'': ''Fire Blanket''}'
-      - '{''id'': 9.5, ''name'': ''Other''}'
+      - Fire Extinguisher
+      - Foam
+      - Fire Blanket
+      - Other
       required: false
     - id: 10
       name: cause
@@ -89,9 +87,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 10.1, ''name'': ''System Test''}'
-      - '{''id'': 10.2, ''name'': ''Human Error''}'
-      - '{''id'': 10.3, ''name'': ''Equipment Failure''}'
+      - System Test
+      - Human Error
+      - Equipment Failure
       required: false
     - id: 11
       name: number_of_floors
@@ -120,9 +118,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 14.1, ''name'': ''Near Fire Alarm Panel''}'
-      - '{''id'': 14.2, ''name'': ''Near Fire Exit''}'
-      - '{''id'': 14.3, ''name'': ''Other''}'
+      - Near Fire Alarm Panel
+      - Near Fire Exit
+      - Other
       required: false
     - id: 15
       name: evacuation_procedure
@@ -130,9 +128,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 15.1, ''name'': ''Evacuation by Elevator''}'
-      - '{''id'': 15.2, ''name'': ''Evacuation by Stairs''}'
-      - '{''id'': 15.3, ''name'': ''Other''}'
+      - Evacuation by Elevator
+      - Evacuation by Stairs
+      - Other
       required: false
     - id: 16
       name: number_of_fire_fighting_equipment
@@ -175,9 +173,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 21.1, ''name'': ''Effective''}'
-      - '{''id'': 21.2, ''name'': ''Ineffective''}'
-      - '{''id'': 21.3, ''name'': ''Not Evaluated''}'
+      - Effective
+      - Ineffective
+      - Not Evaluated
       required: false
     - id: 22
       name: incident_status
@@ -185,9 +183,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 22.1, ''name'': ''Open''}'
-      - '{''id'': 22.2, ''name'': ''Closed''}'
-      - '{''id'': 22.3, ''name'': ''In Progress''}'
+      - Open
+      - Closed
+      - In Progress
       required: false
     - id: 23
       name: incident_type
@@ -195,9 +193,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 23.1, ''name'': ''Fire Alarm''}'
-      - '{''id'': 23.2, ''name'': ''Fire Extinguisher''}'
-      - '{''id'': 23.3, ''name'': ''Other''}'
+      - Fire Alarm
+      - Fire Extinguisher
+      - Other
       required: false
     - id: 24
       name: incident_description

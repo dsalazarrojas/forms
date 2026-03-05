@@ -58,8 +58,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: question4_answer
@@ -86,14 +87,14 @@ inputSchema:
       required: false
     - id: 12
       name: question6
-      label: How long did you experience symptoms
+      label: Question6
       hint: null
       type: number
       options: []
       required: false
     - id: 13
       name: question6_answer
-      label: '0'
+      label: Question6 Answer
       hint: null
       type: number
       options: []
@@ -107,7 +108,7 @@ inputSchema:
       required: false
     - id: 15
       name: question7_answer
-      label: '0'
+      label: Question7 Answer
       hint: null
       type: number
       options: []

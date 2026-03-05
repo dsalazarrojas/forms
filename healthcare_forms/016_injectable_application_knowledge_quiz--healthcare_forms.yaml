@@ -16,209 +16,146 @@ inputSchema:
     pages:
     - id: 1
       name: introduction
-      label: introduction
+      label: What is the purpose of this quiz?
       hint: null
       type: note
       options: []
       required: false
     - id: 2
       name: injectable_medications
-      label: injectable_medications
+      label: List all injectable medications used in your practice
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Anaphylaxis
+      - Pain relief
+      - Sedation
+      - Antibiotics
       required: false
     - id: 3
       name: correct_injection_technique
-      label: correct_injection_technique
+      label: What is the correct injection technique for each medication?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Subcutaneous
+      - Intramuscular
       required: false
     - id: 4
       name: patient_consent
-      label: patient_consent
+      label: What is the patient consent process?
       hint: null
       type: text
       options: []
       required: false
     - id: 5
       name: injection_site
-      label: injection_site
+      label: What is the injection site?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
       name: allergies
-      label: allergies
+      label: List all patient allergies
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: medical_conditions
-      label: medical_conditions
+      label: List all patient medical conditions
       hint: null
       type: text
       options: []
       required: false
     - id: 8
       name: safety_precautions
-      label: safety_precautions
+      label: What are the safety precautions to take?
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Warning signs
+      - Dosage
+      - Side effects
       required: false
     - id: 9
       name: emergency_procedures
-      label: emergency_procedures
+      label: What are the emergency procedures to follow?
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - CPR
+      - Tourniquet
+      - Anaphylaxis protocol
       required: false
     - id: 10
       name: post_injection
-      label: post_injection
+      label: What post-injection instructions are given to the patient?
       hint: null
       type: note
       options: []
       required: false
     - id: 11
-      name: additional_comments
-      label: additional_comments
+      name: final_questions
+      label: Is there anything else you'd like to add?
       hint: null
       type: note
       options: []
       required: false
     - id: 12
-      name: assessment
-      label: assessment
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 13
-      name: review
-      label: review
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 14
-      name: final_questions
-      label: final_questions
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 15
       name: submit
-      label: submit
+      label: Submit your answers
       hint: null
       type: text
       options: []
       required: false
-    - id: 16
+    - id: 13
+      name: assessment
+      label: Assessment
+      hint: null
+      type: select_one
+      options:
+      - Pass
+      - Fail
+      required: false
+    - id: 14
       name: review
-      label: review
+      label: Is there anything you'd like to review before submission?
       hint: null
       type: note
       options: []
       required: false
-    - id: 17
-      name: additional_comments
-      label: additional_comments
+    - id: 15
+      name: submission
+      label: Submission
       hint: null
-      type: note
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: 16_final_questions
+      label: Do you have any additional comments?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other (please specify)
+      required: false
+    - id: 17
+      name: 17_submit_answers
+      label: Please type 'submit' to finish the survey
+      hint: null
+      type: text
       options: []
       required: false
     - id: 18
-      name: final_questions
-      label: final_questions
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 19
-      name: submit
-      label: submit
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: submission
-      label: submission
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 21
-      name: review
-      label: review
+      name: 18_review
+      label: Please review your answers before submitting
       hint: null
       type: note
       options: []
-      required: false
-    - id: 22
-      name: review
-      label: review
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: final_questions
-      label: final_questions
-      hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
-    - id: 24
-      name: review
-      label: review
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: submission
-      label: submission
-      hint: null
-      type: select_one
-      options:
-      - option1
-      - option2
-      - option3
       required: false

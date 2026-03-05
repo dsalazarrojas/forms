@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Group A''}'
-      - '{''id'': 2, ''name'': ''Group B''}'
-      - '{''id'': 3, ''name'': ''Group C''}'
-      - '{''id'': 4, ''name'': ''Group D''}'
+      - Group A
+      - Group B
+      - Group C
+      - Group D
       required: false
     - id: 6
       name: income
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - '{''id'': 2, ''name'': ''other''}'
+      - chatjimmy
+      - other
       required: false
     - id: 12
       name: financial_aid
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': True}'
-      - '{''id'': 2, ''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 13
       name: financial_aid_description

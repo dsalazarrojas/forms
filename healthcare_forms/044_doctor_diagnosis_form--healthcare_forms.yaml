@@ -58,12 +58,12 @@ inputSchema:
       hint: Please select your specialty
       type: select_one
       options:
-      - '{''value'': ''Cardiologist''}'
-      - '{''value'': ''Dermatologist''}'
-      - '{''value'': ''Endocrinologist''}'
-      - '{''value'': ''Gastroenterologist''}'
-      - '{''value'': ''General Practitioner''}'
-      - '{''value'': ''Nephrologist''}'
+      - Cardiologist
+      - Dermatologist
+      - Endocrinologist
+      - Gastroenterologist
+      - General Practitioner
+      - Nephrologist
       required: true
     - id: 9
       name: patient_gender
@@ -71,9 +71,9 @@ inputSchema:
       hint: Please select patient gender
       type: select_one
       options:
-      - '{''value'': ''Male''}'
-      - '{''value'': ''Female''}'
-      - '{''value'': ''Non-Binary''}'
+      - Male
+      - Female
+      - Non-Binary
       required: true
     - id: 10
       name: patient_age
@@ -146,9 +146,9 @@ inputSchema:
       hint: Please select your signature status
       type: select_multiple
       options:
-      - '{''value'': ''Signed''}'
-      - '{''value'': ''Unsighed''}'
-      - '{''value'': ''Not Signed''}'
+      - Signed
+      - Unsighed
+      - Not Signed
       required: true
     - id: 20
       name: patient_signature
@@ -156,9 +156,9 @@ inputSchema:
       hint: Please select patient signature status
       type: select_multiple
       options:
-      - '{''value'': ''Signed''}'
-      - '{''value'': ''Unsighed''}'
-      - '{''value'': ''Not Signed''}'
+      - Signed
+      - Unsighed
+      - Not Signed
       required: true
     - id: 21
       name: doctor_approval
@@ -166,9 +166,9 @@ inputSchema:
       hint: Please select your approval status
       type: select_multiple
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 22
       name: patient_approval
@@ -176,9 +176,9 @@ inputSchema:
       hint: Please select patient approval status
       type: select_multiple
       options:
-      - '{''value'': ''Approved''}'
-      - '{''value'': ''Rejected''}'
-      - '{''value'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 23
       name: date_of_diagnosis

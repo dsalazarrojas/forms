@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Camera''}'
-      - '{''id'': 2, ''value'': ''Smartphone''}'
-      - '{''id'': 3, ''value'': ''Laptop''}'
+      - Camera
+      - Smartphone
+      - Laptop
       required: true
     - id: 3
       name: serial_number
@@ -54,9 +54,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Cosmetic''}'
-      - '{''id'': 2, ''value'': ''Functional''}'
-      - '{''id'': 3, ''value'': ''Mechanical''}'
+      - Cosmetic
+      - Functional
+      - Mechanical
       required: false
     - id: 8
       name: user_id
@@ -85,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Morning''}'
-      - '{''id'': 2, ''value'': ''Afternoon''}'
-      - '{''id'': 3, ''value'': ''Night''}'
+      - Morning
+      - Afternoon
+      - Night
       required: true
     - id: 12
       name: inspection_result
@@ -95,8 +95,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Pass''}'
-      - '{''id'': 2, ''value'': ''Fail''}'
+      - Pass
+      - Fail
       required: true
     - id: 13
       name: comments
@@ -118,8 +118,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Certificate of Inspection''}'
-      - '{''id'': 2, ''value'': ''Production Report''}'
+      - Certificate of Inspection
+      - Production Report
       required: false
     - id: 16
       name: notes
@@ -134,9 +134,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Temperature Control''}'
-      - '{''id'': 2, ''value'': ''Pressure Control''}'
-      - '{''id'': 3, ''value'': ''Humidity Control''}'
+      - Temperature Control
+      - Pressure Control
+      - Humidity Control
       required: false
     - id: 18
       name: production_site
@@ -165,8 +165,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': True}'
-      - '{''id'': 2, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 22
       name: production_line

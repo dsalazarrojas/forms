@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Excellent''}'
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: mental_health
@@ -27,10 +27,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Excellent''}'
-      - '{''value'': ''Good''}'
-      - '{''value'': ''Fair''}'
-      - '{''value'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 4
       name: wellness_programs
@@ -38,9 +38,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false
     - id: 5
       name: job_satisfaction
@@ -76,7 +76,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
-      - '{''value'': ''Maybe''}'
+      - 'True'
+      - 'False'
+      - Maybe
       required: false

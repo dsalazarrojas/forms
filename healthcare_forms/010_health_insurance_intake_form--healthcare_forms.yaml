@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Medicare'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Medicaid'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Private Insurance'', ''value'': 3}'
+      - Medicare
+      - Medicaid
+      - Private Insurance
       required: false
     - id: 3
       name: medical_history
@@ -61,9 +61,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Cardiology'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Neurology'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Primary Care'', ''value'': 3}'
+      - Cardiology
+      - Neurology
+      - Primary Care
       required: false
     - id: 9
       name: submitted_by

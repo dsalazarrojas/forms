@@ -51,9 +51,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Male''}'
-      - '{''label'': ''Female''}'
-      - '{''label'': ''Other''}'
+      - Male
+      - Female
+      - Other
       required: true
     - id: 8
       name: military_id
@@ -68,11 +68,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Army''}'
-      - '{''label'': ''Navy''}'
-      - '{''label'': ''Air Force''}'
-      - '{''label'': ''Marine Corps''}'
-      - '{''label'': ''Coast Guard''}'
+      - Army
+      - Navy
+      - Air Force
+      - Marine Corps
+      - Coast Guard
       required: true
     - id: 10
       name: unit
@@ -80,10 +80,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''1st Special Forces''}'
-      - '{''label'': ''2nd Special Forces''}'
-      - '{''label'': ''3rd Special Forces''}'
-      - '{''label'': ''Other''}'
+      - 1st Special Forces
+      - 2nd Special Forces
+      - 3rd Special Forces
+      - Other
       required: false
     - id: 11
       name: duty_location
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Location 1''}'
-      - '{''label'': ''Location 2''}'
-      - '{''label'': ''Location 3''}'
+      - Location 1
+      - Location 2
+      - Location 3
       required: true
     - id: 12
       name: deployment_date
@@ -108,7 +108,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Operation''}'
-      - '{''label'': ''Training''}'
-      - '{''label'': ''Deployment''}'
+      - Operation
+      - Training
+      - Deployment
       required: true

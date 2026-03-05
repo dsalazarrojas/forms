@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''specialist1'', ''label'': ''Specialist 1''}'
-      - '{''name'': ''specialist2'', ''label'': ''Specialist 2''}'
-      - '{''name'': ''specialist3'', ''label'': ''Specialist 3''}'
-      - '{''name'': ''other_specialist'', ''label'': ''Other Specialist''}'
+      - Specialist 1
+      - Specialist 2
+      - Specialist 3
+      - Other Specialist
       required: true
     - id: 4
       name: specialist_selected
@@ -34,10 +34,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''specialist1'', ''label'': ''Specialist 1''}'
-      - '{''name'': ''specialist2'', ''label'': ''Specialist 2''}'
-      - '{''name'': ''specialist3'', ''label'': ''Specialist 3''}'
-      - '{''name'': ''other_specialist'', ''label'': ''Other Specialist''}'
+      - Specialist 1
+      - Specialist 2
+      - Specialist 3
+      - Other Specialist
       required: true
     - id: 5
       name: referral_info
@@ -94,11 +94,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''pending'', ''label'': ''Pending''}'
-      - '{''name'': ''accepted'', ''label'': ''Accepted''}'
-      - '{''name'': ''rejected'', ''label'': ''Rejected''}'
-      - '{''name'': ''cancelled'', ''label'': ''Cancelled''}'
-      - '{''name'': ''completed'', ''label'': ''Completed''}'
+      - Pending
+      - Accepted
+      - Rejected
+      - Cancelled
+      - Completed
       required: true
     - id: 13
       name: notes

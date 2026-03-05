@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''1-7''}'
-      - '{''value'': ''7-14''}'
-      - '{''value'': ''14+''}'
+      - 1-7
+      - 7-14
+      - 14+
       required: false
     - id: 4
       name: special_diet
@@ -33,8 +33,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False}'
-      - '{''value'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 5
       name: accommodation_preferences
@@ -42,9 +42,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Hotel''}'
-      - '{''value'': ''Resort''}'
-      - '{''value'': ''Vacation Home''}'
+      - Hotel
+      - Resort
+      - Vacation Home
       required: false
     - id: 6
       name: arrival_date

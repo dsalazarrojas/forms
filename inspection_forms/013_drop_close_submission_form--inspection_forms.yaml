@@ -15,190 +15,167 @@ inputSchema:
     title: Drop Close Submission Form
     pages:
     - id: 1
-      name: drop_close_submission_form_1
-      label: submission_date
+      name: submission_date
+      label: Submission Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 2
-      name: drop_close_submission_form_2
-      label: submission_time
+      name: submission_time
+      label: Submission Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 3
-      name: drop_close_submission_form_3
-      label: facility_name
+      name: facility_name
+      label: Facility Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
-      name: drop_close_submission_form_4
-      label: close_reason
+      name: close_reason
+      label: Close Reason
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 5
-      name: drop_close_submission_form_5
-      label: closure_details
+      name: closure_details
+      label: Closure Details
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
-      name: drop_close_submission_form_6
-      label: supporting_evidence
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
-      name: drop_close_submission_form_7
-      label: facility_type
+      name: facility_type
+      label: Facility Type
       hint: null
       type: select_one
       options:
-      - options1
-      - options2
-      - options3
-      - options4
-      - options5
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
+    - id: 7
+      name: facility_area
+      label: Facility Area
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 8
-      name: drop_close_submission_form_8
-      label: facility_area
+      name: operations_team
+      label: Operations Team
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 9
-      name: drop_close_submission_form_9
-      label: facility_subtype
+      name: logistics_team
+      label: Logistics Team
       hint: null
-      type: text
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 10
-      name: drop_close_submission_form_10
-      label: operations_team
+      name: supporting_documents
+      label: Supporting Documents
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
-      required: true
+      - 'Yes'
+      - 'No'
+      - Other
+      required: false
     - id: 11
-      name: drop_close_submission_form_11
-      label: logistics_team
+      name: comments
+      label: Comments
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: true
+      type: text
+      options: []
+      required: false
     - id: 12
-      name: drop_close_submission_form_12
-      label: supporting_documents
+      name: signature
+      label: Signature
       hint: null
-      type: select_multiple
-      options:
-      - option1
-      - option2
-      - option3
-      required: false
+      type: text
+      options: []
+      required: true
     - id: 13
-      name: drop_close_submission_form_13
-      label: comments
+      name: submitter
+      label: Submitter
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 14
-      name: drop_close_submission_form_14
-      label: signature
+      name: submitted_by
+      label: Submitted By
       hint: null
-      type: text
+      type: date
       options: []
-      required: false
+      required: true
     - id: 15
-      name: drop_close_submission_form_15
-      label: submitter
+      name: submitted_time
+      label: Submitted Time
       hint: null
-      type: text
+      type: time
       options: []
-      required: false
+      required: true
     - id: 16
-      name: drop_close_submission_form_16
-      label: submitted_by
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: drop_close_submission_form_17
-      label: submitted_at
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 18
-      name: drop_close_submission_form_18
-      label: submitted_by_name
+      name: submitted_by_name
+      label: Submitted By Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 19
-      name: drop_close_submission_form_19
-      label: submitted_at_time
+      required: true
+    - id: 17
+      name: submitted_at_time
+      label: Submitted At Time
       hint: null
       type: time
       options: []
-      required: false
-    - id: 20
-      name: drop_close_submission_form_20
-      label: submitted_at_date
+      required: true
+    - id: 18
+      name: submitted_at_date
+      label: Submitted At Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 21
-      name: drop_close_submission_form_21
-      label: submitted_by_email
+      required: true
+    - id: 19
+      name: submitted_by_email
+      label: Submitted By Email
       hint: null
       type: email
       options: []
+      required: true
+    - id: 20
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_2
+      label: Submitter 2
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 22
-      name: drop_close_submission_form_22
-      label: drop_close_submission_form_22
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: drop_close_submission_form_23
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: drop_close_submission_form_24
-      label: signature
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: drop_close_submission_form_25
-      label: submitter
+      name: submitted_by_2
+      label: Submitted By 2
       hint: null
       type: text
       options: []

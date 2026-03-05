@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Vacation''}'
-      - '{''id'': 2, ''value'': ''Sick''}'
-      - '{''id'': 3, ''value'': ''Bereavement''}'
-      - '{''id'': 4, ''value'': ''Family Event''}'
-      - '{''id'': 5, ''value'': ''Other''}'
+      - Vacation
+      - Sick
+      - Bereavement
+      - Family Event
+      - Other
       required: false
     - id: 4
       name: hours_absent
@@ -56,9 +56,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Vacation''}'
-      - '{''id'': 2, ''value'': ''Bereavement''}'
-      - '{''id'': 3, ''value'': ''Other''}'
+      - Vacation
+      - Bereavement
+      - Other
       required: false
     - id: 8
       name: coverage
@@ -66,9 +66,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''John''}'
-      - '{''id'': 2, ''value'': ''Jane''}'
-      - '{''id'': 3, ''value'': ''Alice''}'
+      - John
+      - Jane
+      - Alice
       required: false
     - id: 9
       name: approval_status
@@ -76,9 +76,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Approved''}'
-      - '{''id'': 2, ''value'': ''Denied''}'
-      - '{''id'': 3, ''value'': ''In Progress''}'
+      - Approved
+      - Denied
+      - In Progress
       required: false
     - id: 10
       name: comments

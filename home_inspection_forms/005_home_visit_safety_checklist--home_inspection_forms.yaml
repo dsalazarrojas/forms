@@ -9,219 +9,285 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 2
       name: home_visit_safety_checklist_2
-      label: Has a clear path
+      label: Are there obstacles in the path
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 3
       name: home_visit_safety_checklist_3
-      label: Clear of clutter
+      label: Are there cluttered conditions
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 4
       name: home_visit_safety_checklist_4
-      label: Are stairs safe
+      label: Are the stairs safe
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 5
       name: home_visit_safety_checklist_5
-      label: Is the home clean
+      label: Are there areas that are not well-ventilated
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 6
       name: home_visit_safety_checklist_6
-      label: Are exits clear
+      label: Are there signs of pests or rodents
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 7
       name: home_visit_safety_checklist_7
-      label: Are electrical outlets covered
+      label: Is the home clean
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 8
       name: home_visit_safety_checklist_8
-      label: Are stairs handrails secure
+      label: Are electrical outlets covered
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 9
       name: home_visit_safety_checklist_9
-      label: Are smoke alarms installed
+      label: Are there sharp objects or hazards
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 10
       name: home_visit_safety_checklist_10
-      label: Is the home clean
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 11
-      name: home_visit_safety_checklist_11
-      label: Is the home well-ventilated
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 12
-      name: home_visit_safety_checklist_12
-      label: Is the home quiet
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: home_visit_safety_checklist_13
-      label: Is the home warm
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 14
-      name: home_visit_safety_checklist_14
-      label: Date of visit
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 15
-      name: home_visit_safety_checklist_15
-      label: Time of visit
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 16
-      name: home_visit_safety_checklist_16
-      label: Notes
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 17
-      name: home_visit_safety_checklist_17
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 18
-      name: home_visit_safety_checklist_18
-      label: Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: home_visit_safety_checklist_19
-      label: Are there emergency contact numbers on the wall
+      label: Is the home well-maintained
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 11
+      name: home_visit_safety_checklist_11
+      label: Are there exposed wiring or electrical hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 12
+      name: home_visit_safety_checklist_12
+      label: Are there areas that are well-maintained
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 13
+      name: home_visit_safety_checklist_13
+      label: Are there tripping hazards on the stairs
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 14
+      name: home_visit_safety_checklist_14
+      label: Are there areas that are hot or cold
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 15
+      name: home_visit_safety_checklist_15
+      label: Are there emergency exit paths or signs
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 16
+      name: home_visit_safety_checklist_16
+      label: Is the home quiet
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 17
+      name: home_visit_safety_checklist_17
+      label: Are there exposed sharp objects or edges
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 18
+      name: home_visit_safety_checklist_18
+      label: Are there other safety concerns or hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 19
+      name: home_visit_safety_checklist_19
+      label: Is the home in good condition
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 20
       name: home_visit_safety_checklist_20
-      label: Is the home well-maintained
+      label: Is the home safe for visitors
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 21
       name: home_visit_safety_checklist_21
-      label: Is the home well-maintained
+      label: Home Visit Safety Checklist 21
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 22
       name: home_visit_safety_checklist_22
-      label: Are there emergency exit paths
+      label: Are there any other safety concerns or hazards
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       - Unknown
       required: false
     - id: 23
       name: home_visit_safety_checklist_23
-      label: Is the home well-maintained
+      label: Home Visit Safety Checklist 23
       hint: null
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 24
       name: home_visit_safety_checklist_24
-      label: Is the home well-maintained
+      label: Home Visit Safety Checklist 24
       hint: null
-      type: select_one
+      type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
+      - Unknown
       required: false
     - id: 25
       name: home_visit_safety_checklist_25
-      label: Is the home well-maintained
+      label: Home Visit Safety Checklist 25
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 26
+      name: home_visit_safety_checklist_26
+      label: Is there a date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: home_visit_safety_checklist_27
+      label: Is there a time of visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 28
+      name: home_visit_safety_checklist_28
+      label: Are there any contact numbers on the wall
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unknown
+      required: false
+    - id: 29
+      name: home_visit_safety_checklist_29
+      label: Are there any contact numbers
       hint: null
       type: text
       options: []
       required: false
+    - id: 30
+      name: home_visit_safety_checklist_30
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true

@@ -4,191 +4,86 @@ inputSchema:
     title: Logistics Vehicle Roadworthiness Inspection
     pages:
     - id: 1
-      name: vehicle_1
-      label: vehicle_number
+      name: vehicle_number
+      label: Vehicle Number
       hint: null
       type: text
       options: []
       required: false
     - id: 2
-      name: driver_1
-      label: driver_details
+      name: driver_details
+      label: Driver Details
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: vehicle_type_1
-      label: vehicle_type
+      name: vehicle_type
+      label: Vehicle Type
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Bus''}'
-      - '{''id'': 3, ''label'': ''Lorry''}'
-      - '{''id'': 4, ''label'': ''Van''}'
+      - Car
+      - Bus
+      - Lorry
+      - Van
       required: false
     - id: 4
-      name: vehicle_mileage_1
-      label: mileage
+      name: vehicle_mileage
+      label: Vehicle Mileage
       hint: null
       type: number
       options: []
       required: false
     - id: 5
-      name: vehicle_last_service_1
-      label: last_service_date
+      name: last_service_date
+      label: Last Service Date
       hint: null
       type: date
       options: []
       required: false
     - id: 6
-      name: vehicle_next_service_1
-      label: next_service_date
+      name: next_service_date
+      label: Next Service Date
       hint: null
       type: date
       options: []
       required: false
     - id: 7
-      name: safety_check_1
-      label: safety_check
+      name: safety_check
+      label: Safety Check
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Partially''}'
+      - 'True'
+      - 'False'
+      - Partially
       required: false
     - id: 8
-      name: notes_1
-      label: notes
+      name: notes
+      label: Notes
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: vehicle_image_1
-      label: vehicle_image
+      name: vehicle_image
+      label: Vehicle Image
       hint: Upload a photo of the vehicle
       type: note
       options: []
       required: false
     - id: 10
-      name: driver_signature_1
-      label: driver_signature
+      name: driver_signature
+      label: Driver Signature
       hint: Upload a copy of the driver's signature
       type: note
       options: []
       required: false
     - id: 11
-      name: manager_signature_1
-      label: manager_signature
+      name: manager_signature
+      label: Manager Signature
       hint: Upload a copy of the manager's signature
       type: note
-      options: []
-      required: false
-    - id: 12
-      name: vehicle_number_2
-      label: vehicle_number_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: vehicle_type_2
-      label: vehicle_type_2
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': ''Car''}'
-      - '{''id'': 2, ''label'': ''Bus''}'
-      - '{''id'': 3, ''label'': ''Lorry''}'
-      - '{''id'': 4, ''label'': ''Van''}'
-      required: false
-    - id: 14
-      name: vehicle_mileage_2
-      label: mileage_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 15
-      name: vehicle_last_service_2
-      label: last_service_date_2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 16
-      name: vehicle_next_service_2
-      label: next_service_date_2
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 17
-      name: safety_check_2
-      label: safety_check_2
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
-      - '{''id'': 3, ''label'': ''Partially''}'
-      required: false
-    - id: 18
-      name: notes_2
-      label: notes_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: vehicle_image_2
-      label: vehicle_image_2
-      hint: Upload a photo of the vehicle
-      type: note
-      options: []
-      required: false
-    - id: 20
-      name: driver_signature_2
-      label: driver_signature_2
-      hint: Upload a copy of the driver's signature
-      type: note
-      options: []
-      required: false
-    - id: 21
-      name: manager_signature_2
-      label: manager_signature_2
-      hint: Upload a copy of the manager's signature
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: vehicle_2
-      label: vehicle_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: vehicle_2
-      label: vehicle_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: vehicle_2
-      label: vehicle_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: vehicle_2
-      label: vehicle_2
-      hint: null
-      type: text
       options: []
       required: false

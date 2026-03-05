@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Address''}'
-      - '{''value'': ''Fax''}'
+      - Phone
+      - Email
+      - Address
+      - Fax
       required: false
     - id: 3
       name: donation_frequency
@@ -27,9 +27,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''One-time''}'
-      - '{''value'': ''Repeating''}'
-      - '{''value'': ''Annual''}'
+      - One-time
+      - Repeating
+      - Annual
       required: false
     - id: 4
       name: outreach_methods
@@ -37,10 +37,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mail''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''In-person''}'
+      - Mail
+      - Email
+      - Phone
+      - In-person
       required: false
     - id: 5
       name: communication_channels
@@ -48,11 +48,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Facebook''}'
-      - '{''value'': ''Twitter''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''In-person''}'
+      - Facebook
+      - Twitter
+      - Email
+      - Phone
+      - In-person
       required: false
     - id: 6
       name: donor_segment
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Individual''}'
-      - '{''value'': ''Family''}'
-      - '{''value'': ''Organization''}'
+      - Individual
+      - Family
+      - Organization
       required: false
     - id: 7
       name: donor_relationship
@@ -70,11 +70,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Friend''}'
-      - '{''value'': ''Volunteer''}'
-      - '{''value'': ''Family Friend''}'
-      - '{''value'': ''Donor''}'
-      - '{''value'': ''Board Member''}'
+      - Friend
+      - Volunteer
+      - Family Friend
+      - Donor
+      - Board Member
       required: false
     - id: 8
       name: follow_up_methods
@@ -82,10 +82,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Mail''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''In-person''}'
+      - Mail
+      - Email
+      - Phone
+      - In-person
       required: false
     - id: 9
       name: communication_style
@@ -93,9 +93,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Formal''}'
-      - '{''value'': ''Informal''}'
-      - '{''value'': ''Casual''}'
+      - Formal
+      - Informal
+      - Casual
       required: false
     - id: 10
       name: communication_frequency
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 12
       name: follow_up_style
@@ -120,9 +120,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Call''}'
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Mail''}'
+      - Call
+      - Email
+      - Mail
       required: false
     - id: 13
       name: follow_up_note
@@ -137,9 +137,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Pending''}'
-      - '{''value'': ''Ongoing''}'
-      - '{''value'': ''Completed''}'
+      - Pending
+      - Ongoing
+      - Completed
       required: false
     - id: 15
       name: follow_up_date
@@ -161,9 +161,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Individual''}'
-      - '{''value'': ''Family''}'
-      - '{''value'': ''Organization''}'
+      - Individual
+      - Family
+      - Organization
       required: false
     - id: 18
       name: relationship_status
@@ -171,9 +171,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''Inactive''}'
-      - '{''value'': ''Unknown''}'
+      - Active
+      - Inactive
+      - Unknown
       required: false
     - id: 19
       name: relationship_notes
@@ -209,9 +209,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 24
       name: follow_up_schedule_date

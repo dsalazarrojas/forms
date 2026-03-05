@@ -23,11 +23,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': 1}'
-      - '{''label'': 2}'
-      - '{''label'': 3}'
-      - '{''label'': 4}'
-      - '{''label'': 5}'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
       required: false
     - id: 4
       name: evaluation_notes
@@ -77,9 +77,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Manager''}'
-      - '{''label'': ''Team Manager''}'
-      - '{''label'': ''Other''}'
+      - Manager
+      - Team Manager
+      - Other
       required: false
     - id: 11
       name: candidate_score_weightage

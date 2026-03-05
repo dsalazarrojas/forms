@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''poor_compensation'', ''label'': ''poor_compensation''}'
-      - '{''value'': ''lack_of_challenge'', ''label'': ''lack_of_challenge''}'
-      - '{''value'': ''poor_management'', ''label'': ''poor_management''}'
+      - poor compensation
+      - lack of challenge
+      - poor management
       required: false
     - id: 4
       name: job_did_not_fit
@@ -44,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''lack_of_growth_opportunities'', ''label'': ''lack_of_growth_opportunities''}'
-      - '{''value'': ''lack_of_challenge'', ''label'': ''lack_of_challenge''}'
-      - '{''value'': ''no_match_with_team'', ''label'': ''no_match_with_team''}'
+      - lack of growth opportunities
+      - lack of challenge
+      - no match with team
       required: false
     - id: 5
       name: company_values
@@ -54,9 +43,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''no_clear_goals'', ''label'': ''no_clear_goals''}'
-      - '{''value'': ''poor_communication'', ''label'': ''poor_communication''}'
-      - '{''value'': ''conflicting_priorities'', ''label'': ''conflicting_priorities''}'
+      - no clear goals
+      - poor communication
+      - conflicting priorities
       required: false
     - id: 6
       name: employee_feedback

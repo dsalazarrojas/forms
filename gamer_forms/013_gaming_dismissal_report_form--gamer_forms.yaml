@@ -5,184 +5,89 @@ inputSchema:
     pages:
     - id: 1
       name: dismissal_reason
-      label: dismissal_reason
+      label: Dismissal Reason
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
       name: dismissed_player_id
-      label: dismissed_player_id
+      label: Player ID
       hint: null
       type: number
       options: []
-      required: false
+      required: true
     - id: 3
-      name: dismissed_player_name
-      label: dismissed_player_name
+      name: player_name
+      label: Player Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 4
       name: dismissal_date
-      label: dismissal_date
+      label: Dismissal Date
       hint: null
       type: date
       options: []
-      required: false
+      required: true
     - id: 5
       name: dismissal_time
-      label: dismissal_time
+      label: Dismissal Time
       hint: null
       type: time
       options: []
-      required: false
+      required: true
     - id: 6
-      name: dismissal_reason_other
-      label: other_dismissal_reason
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 7
       name: dismissal_cause
-      label: dismissal_cause
+      label: Dismissal Cause
       hint: null
       type: text
       options: []
-      required: false
-    - id: 8
+      required: true
+    - id: 7
       name: dismissal_notes
-      label: dismissal_notes
+      label: Dismissal Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: dismissal_cause_other
+      label: Other Dismissal Reason
       hint: null
       type: text
       options: []
       required: false
     - id: 9
-      name: dismissal_cause_other
-      label: other_dismissal_cause
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: team_id
-      label: team_id
+      label: Team ID
       hint: null
       type: text
       options: []
-      required: false
+      required: true
+    - id: 10
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: true
     - id: 11
-      name: team_name
-      label: team_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: division
-      label: division
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: league_id
-      label: league_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: season
-      label: season
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: player_id
-      label: player_id
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 16
-      name: player_name
-      label: player_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: team_name
-      label: team_name
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
       name: player_status
-      label: player_status
+      label: Player Status
       hint: null
       type: select_one
       options:
       - Active
       - Inactive
-      required: false
-    - id: 19
-      name: division_id
-      label: division_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: player_name_1
-      label: player_name_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: division_id_1
-      label: division_id_1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
+      required: true
+    - id: 12
       name: division
-      label: division
+      label: Division
       hint: null
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 23
-      name: division_id
-      label: division_id
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: player_id_1
-      label: player_id_1
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 25
-      name: division
-      label: division
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
+      required: true

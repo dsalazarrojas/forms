@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''General Ledger''}'
-      - '{''id'': 2, ''label'': ''Account Balance''}'
-      - '{''id'': 3, ''label'': ''Transaction History''}'
+      - General Ledger
+      - Account Balance
+      - Transaction History
       required: true
     - id: 3
       name: start_date
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Last 7 days''}'
-      - '{''id'': 2, ''label'': ''Last 30 days''}'
-      - '{''id'': 3, ''label'': ''Last 90 days''}'
+      - Last 7 days
+      - Last 30 days
+      - Last 90 days
       required: false
     - id: 6
       name: output_format
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Excel''}'
-      - '{''id'': 2, ''label'': ''CSV''}'
-      - '{''id'': 3, ''label'': ''PDF''}'
+      - Excel
+      - CSV
+      - PDF
       required: true
     - id: 7
       name: review_status
@@ -60,8 +60,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': True}'
-      - '{''id'': 2, ''label'': False}'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
       name: review_date
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Rejected''}'
-      - '{''id'': 3, ''label'': ''In Progress''}'
+      - Approved
+      - Rejected
+      - In Progress
       required: false
     - id: 15
       name: review_type
@@ -121,9 +121,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Internal''}'
-      - '{''id'': 2, ''label'': ''External''}'
-      - '{''id'': 3, ''label'': ''Both''}'
+      - Internal
+      - External
+      - Both
       required: false
     - id: 16
       name: export_date
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Chatjimmy''}'
-      - '{''id'': 2, ''label'': ''ChatJimmy''}'
-      - '{''id'': 3, ''label'': ''Default''}'
+      - Chatjimmy
+      - ChatJimmy
+      - Default
       required: true
     - id: 20
       name: review_by
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Finance''}'
-      - '{''id'': 2, ''label'': ''Audit''}'
-      - '{''id'': 3, ''label'': ''Operations''}'
+      - Finance
+      - Audit
+      - Operations
       required: true
     - id: 21
       name: review_by
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Finance''}'
-      - '{''id'': 2, ''label'': ''Audit''}'
-      - '{''id'': 3, ''label'': ''Operations''}'
+      - Finance
+      - Audit
+      - Operations
       required: true
     - id: 22
       name: review_comments
@@ -196,9 +196,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Exported''}'
-      - '{''id'': 2, ''label'': ''Not Exported''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Exported
+      - Not Exported
+      - Pending
       required: true
     - id: 25
       name: export_file_name

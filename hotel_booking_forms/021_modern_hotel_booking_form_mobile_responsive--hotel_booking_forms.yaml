@@ -4,72 +4,47 @@ inputSchema:
     title: modern_hotel_booking_form_mobile_responsive
     pages:
     - id: 1
-      name: customer
-      label: customer
+      name: customer_info
+      label: Customer Information
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 2
-      name: customer
-      label: customer
+      name: booking_details
+      label: Booking Details
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 3
-      name: customer
-      label: customer
+      name: special_requests
+      label: Special Requests
       hint: null
       type: text
       options: []
-      required: true
+      required: false
     - id: 4
-      name: customer
-      label: customer
+      name: payment_method
+      label: Payment Method
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - Credit Card
+      - PayPal
+      - Bank Transfer
       required: true
     - id: 5
-      name: customer
-      label: customer
+      name: arrival_date
+      label: Arrival Date
       hint: null
-      type: text
+      type: date
       options: []
       required: true
     - id: 6
-      name: booking
-      label: booking
+      name: departure_date
+      label: Departure Date
       hint: null
-      type: text
+      type: date
       options: []
       required: true
-    - id: 7
-      name: booking
-      label: booking
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 8
-      name: customer_email
-      label: customer_email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 9
-      name: customer_phone
-      label: customer_phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 10
-      name: customer_notes
-      label: customer_notes
-      hint: null
-      type: note
-      options: []
-      required: false

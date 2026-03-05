@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -55,14 +44,14 @@ inputSchema:
       hint: Primary diagnosis for treatment
       type: select_one
       options:
-        - Major depressive disorder
-        - Persistent depressive disorder
-        - Generalized anxiety disorder
-        - Panic disorder
-        - Obsessive-compulsive disorder
-        - Post-traumatic stress disorder
-        - Other anxiety disorder
-        - Other
+      - Major depressive disorder
+      - Persistent depressive disorder
+      - Generalized anxiety disorder
+      - Panic disorder
+      - Obsessive-compulsive disorder
+      - Post-traumatic stress disorder
+      - Other anxiety disorder
+      - Other
       required: true
     - id: 7
       name: medication_name
@@ -70,17 +59,17 @@ inputSchema:
       hint: Name of antidepressant
       type: select_one
       options:
-        - Sertraline
-        - Fluoxetine
-        - Escitalopram
-        - Citalopram
-        - Paroxetine
-        - Venlafaxine
-        - Duloxetine
-        - Bupropion
-        - Mirtazapine
-        - Trazodone
-        - Other
+      - Sertraline
+      - Fluoxetine
+      - Escitalopram
+      - Citalopram
+      - Paroxetine
+      - Venlafaxine
+      - Duloxetine
+      - Bupropion
+      - Mirtazapine
+      - Trazodone
+      - Other
       required: true
     - id: 8
       name: medication_class
@@ -88,12 +77,12 @@ inputSchema:
       hint: Type of antidepressant
       type: select_one
       options:
-        - SSRI
-        - SNRI
-        - Atypical antidepressant
-        - TCA
-        - MAOI
-        - Other
+      - SSRI
+      - SNRI
+      - Atypical antidepressant
+      - TCA
+      - MAOI
+      - Other
       required: true
     - id: 9
       name: purpose_section
@@ -136,17 +125,17 @@ inputSchema:
       hint: Select all that were discussed
       type: select_multiple
       options:
-        - Nausea
-        - Headache
-        - Insomnia
-        - Drowsiness
-        - Dry mouth
-        - Weight changes
-        - Sexual dysfunction
-        - Dizziness
-        - Sweating
-        - Constipation
-        - None discussed
+      - Nausea
+      - Headache
+      - Insomnia
+      - Drowsiness
+      - Dry mouth
+      - Weight changes
+      - Sexual dysfunction
+      - Dizziness
+      - Sweating
+      - Constipation
+      - None discussed
       required: true
     - id: 15
       name: serious_risks
@@ -154,14 +143,14 @@ inputSchema:
       hint: Select all that were discussed
       type: select_multiple
       options:
-        - Suicidal thoughts
-        - Serotonin syndrome
-        - Increased bleeding risk
-        - Hyponatremia
-        - Manic episodes
-        - Withdrawal symptoms
-        - Allergic reactions
-        - None discussed
+      - Suicidal thoughts
+      - Serotonin syndrome
+      - Increased bleeding risk
+      - Hyponatremia
+      - Manic episodes
+      - Withdrawal symptoms
+      - Allergic reactions
+      - None discussed
       required: true
     - id: 16
       name: black_box_warning
@@ -169,8 +158,8 @@ inputSchema:
       hint: Suicidal thoughts warning
       type: select_one
       options:
-        - Yes, discussed
-        - No, not discussed
+      - Yes, discussed
+      - No, not discussed
       required: true
     - id: 17
       name: interactions_section
@@ -185,9 +174,9 @@ inputSchema:
       hint: Were all medications reviewed
       type: select_one
       options:
-        - Yes, all reviewed
-        - Partially reviewed
-        - No, not reviewed
+      - Yes, all reviewed
+      - Partially reviewed
+      - No, not reviewed
       required: true
     - id: 19
       name: substance_use_discussed
@@ -195,8 +184,8 @@ inputSchema:
       hint: Were interactions discussed
       type: select_one
       options:
-        - Yes
-        - No
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: dietary_restrictions
@@ -204,9 +193,9 @@ inputSchema:
       hint: Any food restrictions
       type: select_one
       options:
-        - Yes, discussed
-        - No restrictions
-        - Not discussed
+      - Yes, discussed
+      - No restrictions
+      - Not discussed
       required: true
     - id: 21
       name: monitoring_section
@@ -235,8 +224,8 @@ inputSchema:
       hint: How to stop medication safely
       type: select_one
       options:
-        - Yes, discussed
-        - No, not discussed
+      - Yes, discussed
+      - No, not discussed
       required: true
     - id: 25
       name: alternatives_section
@@ -251,13 +240,13 @@ inputSchema:
       hint: What other options were reviewed
       type: select_multiple
       options:
-        - Psychotherapy
-        - Cognitive behavioral therapy
-        - Exercise
-        - Light therapy
-        - Other medications
-        - Lifestyle changes
-        - No alternatives discussed
+      - Psychotherapy
+      - Cognitive behavioral therapy
+      - Exercise
+      - Light therapy
+      - Other medications
+      - Lifestyle changes
+      - No alternatives discussed
       required: true
     - id: 27
       name: patient_questions
@@ -265,10 +254,10 @@ inputSchema:
       hint: Were all questions answered
       type: select_one
       options:
-        - Yes, all answered
-        - Most answered
-        - Some unanswered
-        - No questions asked
+      - Yes, all answered
+      - Most answered
+      - Some unanswered
+      - No questions asked
       required: true
     - id: 28
       name: patient_understanding
@@ -276,11 +265,11 @@ inputSchema:
       hint: Does patient understand
       type: select_one
       options:
-        - Yes, completely
-        - Yes, mostly
-        - Somewhat
-        - Not really
-        - Not at all
+      - Yes, completely
+      - Yes, mostly
+      - Somewhat
+      - Not really
+      - Not at all
       required: true
     - id: 29
       name: voluntary_consent
@@ -288,8 +277,8 @@ inputSchema:
       hint: Is consent given voluntarily
       type: select_one
       options:
-        - Yes, voluntary
-        - No, under pressure
+      - Yes, voluntary
+      - No, under pressure
       required: true
     - id: 30
       name: patient_consent
@@ -297,9 +286,9 @@ inputSchema:
       hint: Do you consent to treatment
       type: select_one
       options:
-        - Yes, I consent
-        - No, I do not consent
-        - I need more time to decide
+      - Yes, I consent
+      - No, I do not consent
+      - I need more time to decide
       required: true
     - id: 31
       name: patient_signature

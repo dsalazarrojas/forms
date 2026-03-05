@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': [''Falls'', ''Infection'', ''Medication Error'', ''Other'']}'
-      - '{''Other (Specify)'': None}'
-      - '{''options'': []}'
+      - Option 1
+      - Option 2
+      - Option 3
       required: true
     - id: 3
       name: incident_date
@@ -47,13 +47,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': [''None'', ''Alert'', ''Restless'', ''Confused'', {''options'':
-        []}]}'
+      - Option 1
       - None
       - Alert
       - Restless
       - Confused
-      - '{''options'': []}'
+      - Option 6
       required: true
     - id: 7
       name: incident_narrative
@@ -75,10 +74,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': [''None'', ''Minor injury'', ''Moderate injury'', ''Severe
-        injury'', {''options'': []}, ''None'', ''Minor injury'', ''Moderate injury'',
-        ''Severe injury'', {''options'': []}]}'
-      - '{''required'': True}'
+      - Option 1
+      - Option 2
       required: false
     - id: 10
       name: incident_reported_by
@@ -184,9 +181,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': [''None'', ''In Review'', ''Review Complete'', {''options'':
-        []}, ''None'', ''In Review'', ''Review Complete'', {''options'': []}]}'
-      - '{''required'': True}'
+      - Option 1
+      - Option 2
       required: false
     - id: 25
       name: incident_status
@@ -194,7 +190,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''options'': [''None'', ''Active'', ''Inactive'', {''options'': []}, ''None'',
-        ''Active'', ''Inactive'', {''options'': []}]}'
-      - '{''required'': True}'
+      - Option 1
+      - Option 2
       required: false

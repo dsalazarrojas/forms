@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -69,9 +58,9 @@ inputSchema:
       hint: 'Choose one: Email, Phone, Other'
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Email
+      - Phone
+      - Other
       required: false
     - id: 9
       name: customer_notes
@@ -86,10 +75,10 @@ inputSchema:
       hint: Multiple selections allowed
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Single Family''}'
-      - '{''id'': 2, ''name'': ''Townhouse''}'
-      - '{''id'': 3, ''name'': ''Condo''}'
-      - '{''id'': 4, ''name'': ''Other''}'
+      - Single Family
+      - Townhouse
+      - Condo
+      - Other
       required: false
     - id: 11
       name: property_address
@@ -174,9 +163,9 @@ inputSchema:
       hint: 'Choose one: Email, Phone, Other'
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Email
+      - Phone
+      - Other
       required: false
     - id: 23
       name: follow_up_method
@@ -184,9 +173,9 @@ inputSchema:
       hint: 'Choose one: Email, Phone, Other'
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Email''}'
-      - '{''id'': 2, ''name'': ''Phone''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Email
+      - Phone
+      - Other
       required: false
     - id: 24
       name: follow_up_time
@@ -201,7 +190,7 @@ inputSchema:
       hint: Multiple selections allowed
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Active''}'
-      - '{''id'': 2, ''name'': ''Inactive''}'
-      - '{''id'': 3, ''name'': ''Sold''}'
+      - Active
+      - Inactive
+      - Sold
       required: false

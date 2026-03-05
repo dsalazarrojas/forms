@@ -44,9 +44,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''High'', ''value'': 5}'
-      - '{''label'': ''Medium'', ''value'': 3}'
-      - '{''label'': ''Low'', ''value'': 1}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 7
       name: fuel_consumption_rate
@@ -61,11 +61,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Gallons'', ''value'': ''Gallons''}'
-      - '{''label'': ''Kiloliters'', ''value'': ''Kiloliters''}'
-      - '{''label'': ''Liters'', ''value'': ''Liters''}'
-      - '{''label'': ''Ounces'', ''value'': ''Ounces''}'
-      - '{''label'': ''Tonnes'', ''value'': ''Tonnes''}'
+      - Gallons
+      - Kiloliters
+      - Liters
+      - Ounces
+      - Tonnes
       required: false
     - id: 9
       name: fuel_consumption_type
@@ -73,10 +73,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Diesel'', ''value'': ''diesel''}'
-      - '{''label'': ''Electric'', ''value'': ''electric''}'
-      - '{''label'': ''Gasoline'', ''value'': ''gasoline''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Diesel
+      - Electric
+      - Gasoline
+      - Other
       required: false
     - id: 10
       name: consumption_type
@@ -84,9 +84,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Directly Injected'', ''value'': ''direct_injected''}'
-      - '{''label'': ''Indirectly Injected'', ''value'': ''indirectly_injected''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Directly Injected
+      - Indirectly Injected
+      - Other
       required: true
     - id: 11
       name: estimated_cost
@@ -108,10 +108,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Diesel'', ''value'': ''diesel''}'
-      - '{''label'': ''Electric'', ''value'': ''electric''}'
-      - '{''label'': ''Gasoline'', ''value'': ''gasoline''}'
-      - '{''label'': ''Other'', ''value'': ''other''}'
+      - Diesel
+      - Electric
+      - Gasoline
+      - Other
       required: false
     - id: 14
       name: fuel_consumption
@@ -119,9 +119,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Low'', ''value'': ''low''}'
-      - '{''label'': ''Medium'', ''value'': ''medium''}'
-      - '{''label'': ''High'', ''value'': ''high''}'
+      - Low
+      - Medium
+      - High
       required: true
     - id: 15
       name: fuel_price_per_unit

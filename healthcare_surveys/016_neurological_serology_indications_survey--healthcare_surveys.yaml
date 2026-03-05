@@ -5,22 +5,22 @@ inputSchema:
     pages:
     - id: 1
       name: symptoms_page
-      label: Symptoms
-      hint: null
+      label: What are the patient's current symptoms?
+      hint: Please describe the patient's current symptoms.
       type: text
       options: []
       required: true
     - id: 2
       name: history_page
-      label: History
-      hint: null
+      label: Provide the patient's medical history.
+      hint: Please describe the patient's medical history.
       type: note
       options: []
       required: true
     - id: 3
       name: neurological_serology_testing_page
-      label: Neurological Serology Testing
-      hint: null
+      label: Which type of serology test is ordered?
+      hint: Select all that apply.
       type: select_multiple
       options:
       - Blood tests
@@ -28,167 +28,131 @@ inputSchema:
       - Physical exam
       required: true
     - id: 4
-      name: symptoms_page_2
-      label: Symptoms
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: history_page_2
-      label: History
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 6
-      name: neurological_serology_testing_page_2
-      label: Neurological Serology Testing
-      hint: null
+      name: frequency_page
+      label: How often is the serology test performed?
+      hint: Select one option.
       type: select_one
       options:
-      - Blood tests
-      - Imaging studies
-      - Physical exam
-      required: false
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 5
+      name: time_page
+      label: What is the patient's preferred time for the test?
+      hint: Select one option.
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: true
+    - id: 6
+      name: results_page
+      label: What are the patient's serology test results?
+      hint: Select one option.
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      required: true
     - id: 7
-      name: neurological_serology_testing_page_3
-      label: Serology Test
-      hint: null
-      type: date
-      options: []
+      name: frequency_page_2
+      label: How many times has the patient undergone a serology test?
+      hint: Select one option.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 8
-      name: neurological_serology_testing_page_4
-      label: Serology Test
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 9
-      name: neurological_serology_testing_page_5
-      label: Serology Test
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 10
-      name: neurological_serology_testing_page_6
-      label: Serology Test
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 11
-      name: neurological_serology_testing_page_7
-      label: Serology Test
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: neurological_serology_testing_page_8
-      label: Serology Test
-      hint: null
+      name: age_group_page
+      label: What is the patient's age group?
+      hint: Select one option.
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 13
-      name: neurological_serology_testing_page_9
-      label: Serology Test
-      hint: null
+      - 0-10 years
+      - 11-20 years
+      - 21-30 years
+      required: true
+    - id: 9
+      name: medical_specialty_page
+      label: What is the patient's medical specialty?
+      hint: Select one option.
+      type: select_one
+      options:
+      - Neurologist
+      - Primary care physician
+      - Specialist
+      required: true
+    - id: 10
+      name: symptoms_page_2
+      label: Which of the following symptoms have the patient experienced?
+      hint: Select all that apply.
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: neurological_serology_testing_page_10
-      label: Serology Test
-      hint: null
+      - Headache
+      - Dizziness
+      - Numbness
+      - Tingling sensation in hands and feet
+      - Fatigue
+      - Weakness
+      - Confusion or disorientation
+      - Vision changes
+      - Hearing loss
+      - Speech or language changes
+      - Memory loss
+      required: true
+    - id: 11
+      name: last_serology_test_date
+      label: What is the date of the last serology test?
+      hint: Format is MM/DD/YY.
       type: date
       options: []
-      required: false
-    - id: 15
-      name: neurological_serology_testing_page_11
-      label: Serology Test
-      hint: null
+      required: true
+    - id: 12
+      name: last_serology_test_time
+      label: What is the time of the last serology test?
+      hint: Format is HH -MM AM/PM.
       type: time
       options: []
       required: true
-    - id: 16
-      name: neurological_serology_testing_page_12
-      label: Serology Test
-      hint: null
+    - id: 13
+      name: last_serology_test_note
+      label: Additional information about the last serology test.
+      hint: Please provide any additional information about the last serology test.
       type: note
       options: []
       required: false
-    - id: 17
-      name: neurological_serology_testing_page_13
-      label: Serology Test
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: neurological_serology_testing_page_14
-      label: Serology Test
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 19
-      name: neurological_serology_testing_page_15
-      label: Serology Test
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 20
-      name: neurological_serology_testing_page_16
-      label: Serology Test
-      hint: null
+    - id: 14
+      name: total_serology_tests
+      label: How many serology tests has the patient undergone?
+      hint: Select one option.
       type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
-    - id: 21
-      name: neurological_serology_testing_page_17
-      label: Serology Test
-      hint: null
-      type: select_multiple
+      - Other
+      required: true
+    - id: 15
+      name: total_serology_tests_2
+      label: What is the total number of serology tests undergone?
+      hint: Select one option.
+      type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 22
-      name: neurological_serology_testing_page_18
-      label: Serology Test
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: neurological_serology_testing_page_19
-      label: Serology Test
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: neurological_serology_testing_page_20
-      label: Serology Test
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 25
-      name: neurological_serology_testing_page_21
-      label: Serology Test
-      hint: null
-      type: text
-      options: []
-      required: false
+      - 1-5
+      - 6-10
+      - 11-15
+      required: true
+    - id: 16
+      name: total_serology_tests_3
+      label: Total Serology Tests 3
+      hint: Select one option.
+      type: select_one
+      options:
+      - 1-10
+      - 11-20
+      - 21 or more
+      required: true

@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''1 day''}'
-      - '{''label'': ''2 days''}'
-      - '{''label'': ''3 days''}'
+      - 1 day
+      - 2 days
+      - 3 days
       required: false
     - id: 4
       name: package_choice
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Deluxe''}'
-      - '{''label'': ''Standard''}'
-      - '{''label'': ''Suite''}'
+      - Deluxe
+      - Standard
+      - Suite
       required: false
     - id: 5
       name: email

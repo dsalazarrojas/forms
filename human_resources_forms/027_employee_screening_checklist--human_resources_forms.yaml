@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1001, ''label'': ''Manager''}'
-      - '{''id'': 1002, ''label'': ''Team Lead''}'
-      - '{''id'': 1003, ''label'': ''Individual Contributor''}'
+      - Manager
+      - Team Lead
+      - Individual Contributor
       required: false
     - id: 3
       name: job_description
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 2001, ''label'': ''Software Development''}'
-      - '{''id'': 2002, ''label'': ''Marketing''}'
-      - '{''id'': 2003, ''label'': ''Customer Service''}'
+      - Software Development
+      - Marketing
+      - Customer Service
       required: false
     - id: 5
       name: job_status
@@ -43,9 +43,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 3001, ''label'': ''Active''}'
-      - '{''id'': 3002, ''label'': ''On Leave''}'
-      - '{''id'': 3003, ''label'': ''Inactive''}'
+      - Active
+      - On Leave
+      - Inactive
       required: false
     - id: 6
       name: employee_id
@@ -81,9 +81,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4001, ''label'': ''Scheduled''}'
-      - '{''id'': 4002, ''label'': ''Due Today''}'
-      - '{''id'': 4003, ''label'': ''Past Due''}'
+      - Scheduled
+      - Due Today
+      - Past Due
       required: false
     - id: 11
       name: employee_notes
@@ -112,8 +112,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 5001, ''label'': True}'
-      - '{''id'': 5002, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 15
       name: review_outcome
@@ -156,9 +156,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 6001, ''label'': ''Annually''}'
-      - '{''id'': 6002, ''label'': ''Semi-Annually''}'
-      - '{''id'': 6003, ''label'': ''Quarterly''}'
+      - Annually
+      - Semi-Annually
+      - Quarterly
       required: false
     - id: 21
       name: review_frequency_interval
@@ -180,9 +180,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 7001, ''label'': ''Daily''}'
-      - '{''id'': 7002, ''label'': ''Weekly''}'
-      - '{''id'': 7003, ''label'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 24
       name: follow_up_frequency_interval

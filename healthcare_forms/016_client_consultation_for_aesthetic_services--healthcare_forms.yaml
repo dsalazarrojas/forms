@@ -135,8 +135,8 @@ inputSchema:
       hint: Previous procedures
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 16
       name: previous_treatments_detail
@@ -161,7 +161,7 @@ inputSchema:
       hint: Affects treatment options
       type: select_one
       options:
-      - false
+      - 'False'
       - Yes, Pregnant
       - Yes, Breastfeeding
       - Not Applicable
@@ -172,8 +172,8 @@ inputSchema:
       hint: Affects treatment safety
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       - Not Sure
       required: true
     - id: 20
@@ -182,8 +182,8 @@ inputSchema:
       hint: Affects treatment eligibility
       type: select_one
       options:
-      - false
-      - true
+      - 'False'
+      - 'True'
       required: true
     - id: 21
       name: treatment_goals

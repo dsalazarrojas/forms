@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -34,20 +23,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 4, ''name'': ''programming'', ''label'': ''Programming'', ''type'':
-        ''select_one'', ''options'': [{''id'': 5, ''name'': ''programming_language_1'',
-        ''label'': ''Python'', ''type'': ''select_one'', ''options'': [], ''required'':
-        True}, {''id'': 6, ''name'': ''programming_language_2'', ''label'': ''Java'',
-        ''type'': ''select_one'', ''options'': [], ''required'': True}, {''id'': 7,
-        ''name'': ''programming_language_3'', ''label'': ''C++'', ''type'': ''select_one'',
-        ''options'': [], ''required'': False}]}'
-      - '{''id'': 8, ''name'': ''soft_skills'', ''label'': ''Soft Skills'', ''type'':
-        ''select_multiple'', ''options'': [{''id'': 9, ''name'': ''teamwork'', ''label'':
-        ''Teamwork'', ''type'': ''select_one'', ''options'': [], ''required'': False},
-        {''id'': 10, ''name'': ''communication'', ''label'': ''Communication'', ''type'':
-        ''select_one'', ''options'': [], ''required'': False}, {''id'': 11, ''name'':
-        ''time_management'', ''label'': ''Time Management'', ''type'': ''select_one'',
-        ''options'': [], ''required'': False}]}'
+      - Programming
+      - Soft Skills
       required: false
     - id: 4
       name: experience
@@ -62,10 +39,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13, ''name'': True, ''label'': True, ''type'': ''select_one'', ''options'':
-        [], ''required'': True}'
-      - '{''id'': 14, ''name'': False, ''label'': False, ''type'': ''select_one'',
-        ''options'': [], ''required'': True}'
+      - 'True'
+      - 'False'
       required: false
     - id: 6
       name: masters_degree
@@ -73,10 +48,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 16, ''name'': True, ''label'': True, ''type'': ''select_one'', ''options'':
-        [], ''required'': False}'
-      - '{''id'': 17, ''name'': False, ''label'': False, ''type'': ''select_one'',
-        ''options'': [], ''required'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 7
       name: phone

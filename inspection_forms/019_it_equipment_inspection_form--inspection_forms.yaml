@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''IT equipment 1''}'
-      - '{''id'': 2, ''name'': ''IT equipment 2''}'
+      - IT equipment 1
+      - IT equipment 2
       required: true
     - id: 3
       name: inspection_date
@@ -32,9 +32,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Issue 1''}'
-      - '{''id'': 2, ''name'': ''Issue 2''}'
-      - '{''id'': 3, ''name'': ''Issue 3''}'
+      - Issue 1
+      - Issue 2
+      - Issue 3
       required: false
     - id: 5
       name: notes
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Repairing''}'
-      - '{''id'': 2, ''name'': ''Repaired''}'
-      - '{''id'': 3, ''name'': ''Not Repairing''}'
+      - Repairing
+      - Repaired
+      - Not Repairing
       required: true
     - id: 10
       name: equipment_type
@@ -80,8 +80,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Hardware''}'
-      - '{''id'': 2, ''name'': ''Software''}'
+      - Hardware
+      - Software
       required: true
     - id: 11
       name: condition
@@ -89,9 +89,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Good''}'
-      - '{''id'': 2, ''name'': ''Fair''}'
-      - '{''id'': 3, ''name'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: true
     - id: 12
       name: last_inspection_date

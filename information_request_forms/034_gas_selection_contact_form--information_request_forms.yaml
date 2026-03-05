@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''In-person'', ''value'': ''in_person''}'
+      - Phone
+      - Email
+      - In-person
       required: false
     - id: 6
       name: contact_method_selected
@@ -47,9 +47,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Phone'', ''value'': ''phone''}'
-      - '{''label'': ''Email'', ''value'': ''email''}'
-      - '{''label'': ''In-person'', ''value'': ''in_person''}'
+      - Phone
+      - Email
+      - In-person
       required: false
     - id: 7
       name: address
@@ -92,8 +92,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Fuel'', ''value'': ''fuel''}'
-      - '{''label'': ''Gas'', ''value'': ''gas''}'
+      - Fuel
+      - Gas
       required: false
     - id: 13
       name: contact_person_name
@@ -185,6 +185,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True, ''value'': True}'
-      - '{''label'': False, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false

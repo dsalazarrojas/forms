@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''always'', ''label'': ''Always''}'
-      - '{''value'': ''rarely'', ''label'': ''Rarely''}'
-      - '{''value'': ''occasionally'', ''label'': ''Occasionally''}'
-      - '{''value'': ''never'', ''label'': ''Never''}'
+      - Always
+      - Rarely
+      - Occasionally
+      - Never
       required: false
     - id: 3
       name: reasons_for_returning
@@ -27,11 +27,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''commute_time'', ''label'': ''Commute time''}'
-      - '{''value'': ''work_life_balance'', ''label'': ''Work life balance''}'
-      - '{''value'': ''social_interaction'', ''label'': ''Social interaction''}'
-      - '{''value'': ''job_security'', ''label'': ''Job security''}'
-      - '{''value'': ''personal_purpose'', ''label'': ''Personal purpose''}'
+      - Commute time
+      - Work life balance
+      - Social interaction
+      - Job security
+      - Personal purpose
       required: false
     - id: 4
       name: return_to_office
@@ -46,9 +46,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''remote'', ''label'': ''Remote''}'
-      - '{''value'': ''hybrid'', ''label'': ''Hybrid''}'
-      - '{''value'': ''in_office'', ''label'': ''In office''}'
+      - Remote
+      - Hybrid
+      - In office
       required: false
     - id: 6
       name: impact_of_returning
@@ -56,11 +56,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''increased_productivity'', ''label'': ''Increased productivity''}'
-      - '{''value'': ''improved_culture'', ''label'': ''Improved culture''}'
-      - '{''value'': ''increased_satisfaction'', ''label'': ''Increased satisfaction''}'
-      - '{''value'': ''decreased_turnover'', ''label'': ''Decreased turnover''}'
-      - '{''value'': ''improved_communication'', ''label'': ''Improved communication''}'
+      - Increased productivity
+      - Improved culture
+      - Increased satisfaction
+      - Decreased turnover
+      - Improved communication
       required: false
     - id: 7
       name: return_on_investment

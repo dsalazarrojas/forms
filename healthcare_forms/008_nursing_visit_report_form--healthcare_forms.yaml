@@ -23,9 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Condition Managed'', ''value'': ''Condition Managed''}'
-      - '{''id'': 2, ''label'': ''Condition Not Managed'', ''value'': ''Condition
-        Not Managed''}'
+      - Condition Managed
+      - Condition Not Managed
       required: false
     - id: 4
       name: patient_assessment
@@ -36,24 +35,24 @@ inputSchema:
       required: false
     - id: 5
       name: nursing_visit_report_form_section_2
-      label: Nursing Visit Report
+      label: Nursing Visit Report Form Section 2
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Pain'', ''value'': ''Pain''}'
-      - '{''id'': 2, ''label'': ''Fatigue'', ''value'': ''Fatigue''}'
-      - '{''id'': 3, ''label'': ''Sleep'', ''value'': ''Sleep''}'
+      - Pain
+      - Fatigue
+      - Sleep
       required: false
     - id: 6
       name: nursing_visit_report_form_section_3
-      label: Nursing Visit Report
+      label: Nursing Visit Report Form Section 3
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: nursing_visit_report_form_section_4
-      label: Nursing Visit Report
+      label: Nursing Visit Report Form Section 4
       hint: null
       type: text
       options: []

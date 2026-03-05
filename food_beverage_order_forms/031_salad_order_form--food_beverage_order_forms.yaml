@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''small_salad'', ''label'': ''small_salad''}'
-      - '{''id'': 2, ''name'': ''large_salad'', ''label'': ''large_salad''}'
-      - '{''id'': 3, ''name'': ''extra_large_salad'', ''label'': ''extra_large_salad''}'
+      - small salad
+      - large salad
+      - extra large salad
       required: false
     - id: 3
       name: protein_selection
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''chicken'', ''label'': ''chicken''}'
-      - '{''id'': 2, ''name'': ''steak'', ''label'': ''steak''}'
-      - '{''id'': 3, ''name'': ''salmon'', ''label'': ''salmon''}'
-      - '{''id'': 4, ''name'': ''tofu'', ''label'': ''tofu''}'
+      - chicken
+      - steak
+      - salmon
+      - tofu
       required: false
     - id: 4
       name: size
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''small'', ''label'': ''small''}'
-      - '{''id'': 2, ''name'': ''medium'', ''label'': ''medium''}'
-      - '{''id'': 3, ''name'': ''large'', ''label'': ''large''}'
+      - small
+      - medium
+      - large
       required: false
     - id: 5
       name: total_price

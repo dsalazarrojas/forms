@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Confirm''}'
-      - '{''id'': 2, ''name'': ''Do not confirm''}'
+      - Confirm
+      - Do not confirm
       required: true
     - id: 5
       name: objective_description
@@ -53,8 +53,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''In Progress''}'
-      - '{''id'': 2, ''name'': ''Completed''}'
+      - In Progress
+      - Completed
       required: true
     - id: 8
       name: objective_start_date
@@ -153,8 +153,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Confirmed''}'
-      - '{''id'': 2, ''name'': ''Not Confirmed''}'
+      - Confirmed
+      - Not Confirmed
       required: false
     - id: 22
       name: objective_confirmation_notes

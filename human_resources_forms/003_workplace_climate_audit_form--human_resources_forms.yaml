@@ -16,8 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 3
       name: work_environment_page
@@ -32,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: true
     - id: 5
       name: notes_page
@@ -84,9 +85,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 12
       name: feedback
@@ -115,9 +116,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 16
       name: suggestions
@@ -127,8 +128,8 @@ inputSchema:
       options: []
       required: false
     - id: 17
-      name: work_phone
-      label: Work Phone
+      name: work_phone_2
+      label: Work Phone 2
       hint: null
       type: text
       options: []
@@ -141,35 +142,35 @@ inputSchema:
       options: []
       required: false
     - id: 19
-      name: email
-      label: Email
+      name: email_2
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 20
-      name: workplace_climate_score
-      label: Workplace Climate Score
+      name: workplace_climate_score_2
+      label: Workplace Climate Score 2
       hint: null
       type: number
       options: []
       required: false
     - id: 21
       name: overall_satisfaction
-      label: Overall Satisfaction
+      label: Overall Satisfaction (2)
       hint: null
       type: number
       options: []
       required: false
     - id: 22
-      name: climate_survey
-      label: Climate Survey
+      name: climate_survey_2
+      label: Climate Survey 2
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 23
       name: climate_satisfaction
@@ -177,9 +178,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: true
     - id: 24
       name: work_place_climate
@@ -187,9 +188,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: true
     - id: 25
       name: overall_climate_satisfaction
@@ -197,7 +198,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - Very satisfied
+      - Neutral
+      - Dissatisfied
       required: true

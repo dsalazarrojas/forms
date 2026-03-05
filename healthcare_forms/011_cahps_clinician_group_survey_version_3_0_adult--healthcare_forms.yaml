@@ -1,174 +1,165 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: CAHPS Clinician & Group Survey Version 3.0 (Adult)
     pages:
-      - id: 1
-        name: health_provider_info
-        label: -- Provider and Visit Details --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: clinician_name
-        label: Name of the doctor or clinician you saw
-        hint: null
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: visit_type
-        label: Type of visit
-        hint: null
-        type: select_one
-        options:
-          - Routine Check-up
-          - Urgent Care
-          - Specialist Consultation
-          - Follow-up Visit
-        required: true
-      - id: 4
-        name: timely_appointments
-        label: How often did you get an appointment as soon as you needed?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 5
-        name: office_wait_time
-        label: How long did you wait in the office past your appointment time?
-        hint: null
-        type: select_one
-        options:
-          - Less than 15 minutes
-          - 15-30 minutes
-          - 31-60 minutes
-          - More than 60 minutes
-        required: true
-      - id: 6
-        name: communication_clarity
-        label: Did the clinician explain things in a way that was easy to understand?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 7
-        name: active_listening
-        label: Did the clinician listen carefully to you?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 8
-        name: records_knowledge
-        label: Did the clinician seem to know the important information about your medical history?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 9
-        name: respect_and_dignity
-        label: Did the clinician show respect for what you had to say?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 10
-        name: staff_courtesy
-        label: Were the clerks and receptionists as helpful as you thought they should be?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 11
-        name: staff_respect
-        label: Did the office staff treat you with courtesy and respect?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: true
-      - id: 12
-        name: health_info_access
-        label: Did you get information about what to do if you needed care after hours?
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: coordination_care
-        label: Did the clinician follow up with you to give results of tests?
-        hint: null
-        type: select_one
-        options:
-          - Never
-          - Sometimes
-          - Usually
-          - Always
-        required: false
-      - id: 14
-        name: clinician_rating
-        label: Overall rating of this clinician
-        hint: 0 is worst, 10 is best
-        type: select_one
-        options:
-          - 0
-          - 1
-          - 2
-          - 3
-          - 4
-          - 5
-          - 6
-          - 7
-          - 8
-          - 9
-          - 10
-        required: true
-      - id: 15
-        name: additional_visit_comments
-        label: Please share any other comments about your visit
-        hint: null
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: health_provider_info
+      label: -- Provider and Visit Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: clinician_name
+      label: Name of the doctor or clinician you saw
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visit_type
+      label: Type of visit
+      hint: null
+      type: select_one
+      options:
+      - Routine Check-up
+      - Urgent Care
+      - Specialist Consultation
+      - Follow-up Visit
+      required: true
+    - id: 4
+      name: timely_appointments
+      label: How often did you get an appointment as soon as you needed?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 5
+      name: office_wait_time
+      label: How long did you wait in the office past your appointment time?
+      hint: null
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 31-60 minutes
+      - More than 60 minutes
+      required: true
+    - id: 6
+      name: communication_clarity
+      label: Did the clinician explain things in a way that was easy to understand?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 7
+      name: active_listening
+      label: Did the clinician listen carefully to you?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 8
+      name: records_knowledge
+      label: Did the clinician seem to know the important information about your medical
+        history?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 9
+      name: respect_and_dignity
+      label: Did the clinician show respect for what you had to say?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 10
+      name: staff_courtesy
+      label: Were the clerks and receptionists as helpful as you thought they should
+        be?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 11
+      name: staff_respect
+      label: Did the office staff treat you with courtesy and respect?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 12
+      name: health_info_access
+      label: Did you get information about what to do if you needed care after hours?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: coordination_care
+      label: Did the clinician follow up with you to give results of tests?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Sometimes
+      - Usually
+      - Always
+      required: false
+    - id: 14
+      name: clinician_rating
+      label: Overall rating of this clinician
+      hint: 0 is worst, 10 is best
+      type: select_one
+      options:
+      - '0'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 15
+      name: additional_visit_comments
+      label: Please share any other comments about your visit
+      hint: null
+      type: text
+      options: []
+      required: false

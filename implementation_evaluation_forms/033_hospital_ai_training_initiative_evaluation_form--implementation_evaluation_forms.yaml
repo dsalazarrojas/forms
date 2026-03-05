@@ -4,96 +4,151 @@ inputSchema:
     title: Hospital AI Training Initiative Evaluation Form
     pages:
     - id: 1
-      name: page1
-      label: None
+      name: overall_experience
+      label: Overall Experience
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: page1
-      label: None
+      name: primary_goals
+      label: Primary Goals and Objectives
       hint: null
-      type: select_multiple
-      options:
-      - AI Model
-      - Model 1
-      - Model 2
+      type: text
+      options: []
       required: true
     - id: 3
-      name: page1
-      label: None
+      name: ai_model_performance
+      label: AI Model Performance
       hint: null
-      type: number
-      options: []
+      type: select_one
+      options:
+      - AI Model 1
+      - AI Model 2
       required: false
     - id: 4
-      name: page4
-      label: None
+      name: note1
+      label: Note
       hint: null
-      type: text
+      type: note
       options: []
       required: false
     - id: 5
-      name: page4
-      label: None
+      name: note2
+      label: Note2
       hint: null
       type: note
       options: []
       required: false
     - id: 6
-      name: page4
-      label: None
+      name: note3
+      label: Note3
       hint: null
       type: note
       options: []
       required: false
     - id: 7
-      name: page4
-      label: None
+      name: note4
+      label: Note4
       hint: null
       type: note
       options: []
       required: false
     - id: 8
-      name: page4
-      label: None
+      name: note5
+      label: Note5
       hint: null
       type: note
       options: []
       required: false
     - id: 9
-      name: page2
-      label: None
+      name: note6
+      label: Note6
       hint: null
       type: note
       options: []
       required: false
     - id: 10
-      name: page2
-      label: None
+      name: ai_model_comparison
+      label: AI Model Comparison
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_multiple
+      options:
+      - AI Model 1
+      - AI Model 2
+      required: true
     - id: 11
-      name: page2
-      label: None
+      name: selected_model
+      label: Selected Model
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - AI Model 1
+      - AI Model 2
+      required: true
     - id: 12
-      name: page3
-      label: None
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 13
-      name: page3
-      label: None
+      name: note7
+      label: Note7
       hint: null
       type: note
       options: []
+      required: false
+    - id: 13
+      name: ai_model_satisfactory
+      label: AI Model Performance Satisfactory
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: false
+    - id: 14
+      name: documentation_clarity
+      label: Documentation Clarity
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: false
+    - id: 15
+      name: success_rating
+      label: Overall Success
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Unsatisfactory
+      required: true
+    - id: 16
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
+      required: true
+    - id: 17
+      name: improvement_suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: interaction_frequency
+      label: Interaction Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: model_recommendation
+      label: Model Recommendation
+      hint: null
+      type: checkbox
+      options:
+      - Option A
+      - Option B
       required: false

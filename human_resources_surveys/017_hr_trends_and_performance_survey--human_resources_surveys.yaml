@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': 1}'
-      - '{''id'': 2, ''value'': 2}'
-      - '{''id'': 3, ''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 4
       name: feedback_frequency
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Weekly''}'
-      - '{''id'': 2, ''value'': ''Bi-Weekly''}'
-      - '{''id'': 3, ''value'': ''Monthly''}'
+      - Weekly
+      - Bi-Weekly
+      - Monthly
       required: false
     - id: 5
       name: date_submitted
@@ -78,9 +78,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''Category 1''}'
-      - '{''id'': 2, ''value'': ''Category 2''}'
-      - '{''id'': 3, ''value'': ''Category 3''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: false
     - id: 11
       name: category_2
@@ -88,7 +88,7 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''Category 1''}'
-      - '{''id'': 2, ''value'': ''Category 2''}'
-      - '{''id'': 3, ''value'': ''Category 3''}'
+      - Category 1
+      - Category 2
+      - Category 3
       required: false

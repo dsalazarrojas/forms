@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''condition1''}'
-      - '{''id'': 2, ''name'': ''condition2''}'
-      - '{''id'': 3, ''name'': ''condition3''}'
+      - condition1
+      - condition2
+      - condition3
       required: false
     - id: 5
       name: medication_list
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''medicine1''}'
-      - '{''id'': 2, ''name'': ''medicine2''}'
-      - '{''id'': 3, ''name'': ''medicine3''}'
+      - medicine1
+      - medicine2
+      - medicine3
       required: false
     - id: 6
       name: allergies
@@ -50,8 +50,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''allergy1''}'
-      - '{''id'': 2, ''name'': ''allergy2''}'
+      - allergy1
+      - allergy2
       required: false
     - id: 7
       name: medical_history_verification_2

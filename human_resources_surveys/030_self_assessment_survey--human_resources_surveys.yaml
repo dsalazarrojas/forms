@@ -51,10 +51,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Average''}'
-      - '{''label'': ''Needs improvement''}'
+      - Excellent
+      - Good
+      - Average
+      - Needs improvement
       required: false
     - id: 8
       name: department
@@ -62,9 +62,9 @@ inputSchema:
       hint: Select department
       type: select_multiple
       options:
-      - '{''label'': ''Human Resources''}'
-      - '{''label'': ''Training and Development''}'
-      - '{''label'': ''Other''}'
+      - Human Resources
+      - Training and Development
+      - Other
       required: false
     - id: 9
       name: training_programs
@@ -72,10 +72,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Leadership and Management''}'
-      - '{''label'': ''Communication and Interpersonal Relations''}'
-      - '{''label'': ''Time Management''}'
-      - '{''label'': ''Other''}'
+      - Leadership and Management
+      - Communication and Interpersonal Relations
+      - Time Management
+      - Other
       required: false
     - id: 10
       name: job_title

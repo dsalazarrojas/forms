@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Dog''}'
-      - '{''id'': 2, ''label'': ''Cat''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Dog
+      - Cat
+      - Other
       required: true
     - id: 3
       name: owner_info
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Up-to-date''}'
-      - '{''id'': 2, ''label'': ''Out of date''}'
-      - '{''id'': 3, ''label'': ''Unknown''}'
+      - Up-to-date
+      - Out of date
+      - Unknown
       required: true
     - id: 5
       name: medical_condition

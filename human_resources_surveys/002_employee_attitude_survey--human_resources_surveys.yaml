@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -41,13 +30,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_good''}'
-      - '{''value'': ''good''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''poor''}'
-      - '{''value'': ''very_poor''}'
-      - '{''value'': ''unsure''}'
-      - '{''value'': ''does_not_apply''}'
+      - very good
+      - good
+      - neutral
+      - poor
+      - very poor
+      - unsure
+      - does not apply
       required: false
     - id: 5
       name: communication
@@ -55,12 +44,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_frequently''}'
-      - '{''value'': ''frequently''}'
-      - '{''value'': ''sometimes''}'
-      - '{''value'': ''rarely''}'
-      - '{''value'': ''almost_never''}'
-      - '{''value'': ''not_applicable''}'
+      - very frequently
+      - frequently
+      - sometimes
+      - rarely
+      - almost never
+      - not applicable
       required: false
     - id: 6
       name: team_support
@@ -82,13 +71,13 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_diverse''}'
-      - '{''value'': ''moderately_diverse''}'
-      - '{''value'': ''fairly_diverse''}'
-      - '{''value'': ''somewhat_diverse''}'
-      - '{''value'': ''not_diverse''}'
-      - '{''value'': ''unsure''}'
-      - '{''value'': ''does_not_apply''}'
+      - very diverse
+      - moderately diverse
+      - fairly diverse
+      - somewhat diverse
+      - not diverse
+      - unsure
+      - does not apply
       required: false
     - id: 9
       name: employee_diversity_harassment
@@ -96,11 +85,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''often''}'
-      - '{''value'': ''sometimes''}'
-      - '{''value'': ''rarely''}'
-      - '{''value'': ''almost_never''}'
-      - '{''value'': ''not_applicable''}'
+      - often
+      - sometimes
+      - rarely
+      - almost never
+      - not applicable
       required: false
     - id: 10
       name: job_security_concerns
@@ -122,12 +111,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''very_satisfied''}'
-      - '{''value'': ''satisfied''}'
-      - '{''value'': ''neutral''}'
-      - '{''value'': ''dissatisfied''}'
-      - '{''value'': ''very_dissatisfied''}'
-      - '{''value'': ''does_not_apply''}'
+      - very satisfied
+      - satisfied
+      - neutral
+      - dissatisfied
+      - very dissatisfied
+      - does not apply
       required: false
     - id: 13
       name: performance_feedback_frequency

@@ -118,7 +118,7 @@ inputSchema:
       options:
       - Yes, fully compliant
       - Yes, with accommodations
-      - false
+      - 'False'
       - Partial
       required: true
     - id: 16
@@ -129,7 +129,7 @@ inputSchema:
       options:
       - Yes, adequate spaces
       - Yes, limited spaces
-      - false
+      - 'False'
       required: true
     - id: 17
       name: ramp_availability
@@ -166,7 +166,7 @@ inputSchema:
       options:
       - Yes, all floors
       - Yes, some floors
-      - false
+      - 'False'
       required: true
     - id: 21
       name: accessible_parking_interior
@@ -176,7 +176,7 @@ inputSchema:
       options:
       - Yes, comprehensive
       - Yes, partial
-      - false
+      - 'False'
       required: true
     - id: 22
       name: braille_signage
@@ -184,8 +184,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 23
       name: visual_aids
@@ -195,7 +195,7 @@ inputSchema:
       options:
       - Yes, comprehensive
       - Yes, limited
-      - false
+      - 'False'
       required: true
     - id: 24
       name: emergency_procedures
@@ -212,7 +212,7 @@ inputSchema:
       options:
       - Yes, fully accessible
       - Yes, partial accessibility
-      - false
+      - 'False'
       required: true
     - id: 26
       name: emergency_alarms
@@ -222,7 +222,7 @@ inputSchema:
       options:
       - Yes, both present
       - Yes, one type
-      - false
+      - 'False'
       required: true
     - id: 27
       name: accessibility_coordinator
@@ -232,7 +232,7 @@ inputSchema:
       options:
       - Yes, named staff member
       - Yes, shared responsibility
-      - false
+      - 'False'
       required: false
     - id: 28
       name: recent_modifications
@@ -272,5 +272,5 @@ inputSchema:
       type: select_one
       options:
       - Yes, authorized
-      - false
+      - 'False'
       required: true

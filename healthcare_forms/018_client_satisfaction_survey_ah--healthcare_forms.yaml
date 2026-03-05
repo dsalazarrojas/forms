@@ -1,304 +1,293 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Client Satisfaction Survey AH
     pages:
-      - id: 1
-        name: survey_intro
-        label: Client Satisfaction Survey
-        hint: Your feedback helps us improve our healthcare services
-        type: note
-        options: []
-        required: false
-      - id: 2
-        name: patient_id
-        label: Patient ID
-        hint: Optional
-        type: text
-        options: []
-        required: false
-      - id: 3
-        name: visit_date
-        label: Date of Visit
-        hint: null
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: department
-        label: Department Visited
-        hint: null
-        type: select_one
-        options:
-          - Primary Care
-          - Emergency
-          - Cardiology
-          - Orthopedics
-          - Pediatrics
-          - Obstetrics
-          - Oncology
-          - Neurology
-          - Mental Health
-          - Physical Therapy
-          - Laboratory
-          - Radiology
-          - Pharmacy
-          - Other
-        required: true
-      - id: 5
-        name: provider_name
-        label: Healthcare Provider Name
-        hint: If known
-        type: text
-        options: []
-        required: false
-      - id: 6
-        name: appointment_type
-        label: Appointment Type
-        hint: null
-        type: select_one
-        options:
-          - First Visit
-          - Follow-up
-          - Routine Check-up
-          - Urgent Care
-          - Emergency
-          - Procedure
-          - Consultation
-          - Other
-        required: true
-      - id: 7
-        name: wait_time_rating
-        label: How Would You Rate the Wait Time
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 8
-        name: actual_wait_time
-        label: Approximate Wait Time
-        hint: null
-        type: select_one
-        options:
-          - Less than 15 minutes
-          - 15-30 minutes
-          - 31-45 minutes
-          - 46-60 minutes
-          - Over 1 hour
-        required: true
-      - id: 9
-        name: facility_cleanliness
-        label: How Would You Rate Facility Cleanliness
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 10
-        name: staff_friendliness
-        label: How Would You Rate Staff Friendliness
-        hint: Reception nurses and other staff
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 11
-        name: staff_professionalism
-        label: How Would You Rate Staff Professionalism
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 12
-        name: provider_listening
-        label: Did the Provider Listen to Your Concerns
-        hint: null
-        type: select_one
-        options:
-          - Yes Completely
-          - Yes Mostly
-          - Somewhat
-          - Not Really
-          - No Not at All
-        required: true
-      - id: 13
-        name: provider_explanation
-        label: Did the Provider Explain Things Clearly
-        hint: Diagnosis treatment options etc.
-        type: select_one
-        options:
-          - Yes Completely
-          - Yes Mostly
-          - Somewhat
-          - Not Really
-          - No Not at All
-        required: true
-      - id: 14
-        name: provider_respect
-        label: Did the Provider Treat You with Respect
-        hint: null
-        type: select_one
-        options:
-          - Yes Always
-          - Yes Mostly
-          - Somewhat
-          - Not Really
-          - No Not at All
-        required: true
-      - id: 15
-        name: time_with_provider
-        label: Did You Feel You Had Enough Time with the Provider
-        hint: null
-        type: select_one
-        options:
-          - Yes More Than Enough
-          - Yes Just Right
-          - Somewhat Rushed
-          - Yes Rushed
-          - Very Rushed
-        required: true
-      - id: 16
-        name: care_quality
-        label: How Would You Rate the Overall Quality of Care
-        hint: null
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-        required: true
-      - id: 17
-        name: pain_management
-        label: How Well Was Your Pain or Discomfort Managed
-        hint: If applicable
-        type: select_one
-        options:
-          - Excellent
-          - Very Good
-          - Good
-          - Fair
-          - Poor
-          - Not Applicable
-        required: false
-      - id: 18
-        name: discharge_instructions
-        label: Were Discharge Instructions Clear
-        hint: Medications follow-up care etc.
-        type: select_one
-        options:
-          - Yes Very Clear
-          - Yes Clear
-          - Somewhat Clear
-          - Unclear
-          - Did Not Receive Instructions
-        required: false
-      - id: 19
-        name: billing_clarity
-        label: How Clear Was the Billing Information
-        hint: null
-        type: select_one
-        options:
-          - Very Clear
-          - Clear
-          - Somewhat Clear
-          - Unclear
-          - Very Unclear
-          - Did Not Discuss Billing
-        required: false
-      - id: 20
-        name: overall_satisfaction
-        label: Overall How Satisfied Are You with Your Visit
-        hint: null
-        type: select_one
-        options:
-          - Very Satisfied
-          - Satisfied
-          - Neutral
-          - Dissatisfied
-          - Very Dissatisfied
-        required: true
-      - id: 21
-        name: likelihood_to_return
-        label: How Likely Are You to Return for Future Care
-        hint: null
-        type: select_one
-        options:
-          - Very Likely
-          - Likely
-          - Neutral
-          - Unlikely
-          - Very Unlikely
-        required: true
-      - id: 22
-        name: likelihood_to_recommend
-        label: How Likely Are You to Recommend Our Facility to Others
-        hint: null
-        type: select_one
-        options:
-          - Very Likely
-          - Likely
-          - Neutral
-          - Unlikely
-          - Very Unlikely
-        required: true
-      - id: 23
-        name: best_aspect
-        label: What Was the Best Aspect of Your Visit
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 24
-        name: areas_for_improvement
-        label: What Areas Need Improvement
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 25
-        name: additional_comments
-        label: Additional Comments or Concerns
-        hint: null
-        type: text
-        options: []
-        required: false
-      - id: 26
-        name: follow_up_permission
-        label: May We Contact You for Follow-up
-        hint: Regarding your feedback
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
+    - id: 1
+      name: survey_intro
+      label: Client Satisfaction Survey
+      hint: Your feedback helps us improve our healthcare services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department Visited
+      hint: null
+      type: select_one
+      options:
+      - Primary Care
+      - Emergency
+      - Cardiology
+      - Orthopedics
+      - Pediatrics
+      - Obstetrics
+      - Oncology
+      - Neurology
+      - Mental Health
+      - Physical Therapy
+      - Laboratory
+      - Radiology
+      - Pharmacy
+      - Other
+      required: true
+    - id: 5
+      name: provider_name
+      label: Healthcare Provider Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appointment_type
+      label: Appointment Type
+      hint: null
+      type: select_one
+      options:
+      - First Visit
+      - Follow-up
+      - Routine Check-up
+      - Urgent Care
+      - Emergency
+      - Procedure
+      - Consultation
+      - Other
+      required: true
+    - id: 7
+      name: wait_time_rating
+      label: How Would You Rate the Wait Time
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: actual_wait_time
+      label: Approximate Wait Time
+      hint: null
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 31-45 minutes
+      - 46-60 minutes
+      - Over 1 hour
+      required: true
+    - id: 9
+      name: facility_cleanliness
+      label: How Would You Rate Facility Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: staff_friendliness
+      label: How Would You Rate Staff Friendliness
+      hint: Reception nurses and other staff
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: staff_professionalism
+      label: How Would You Rate Staff Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: provider_listening
+      label: Did the Provider Listen to Your Concerns
+      hint: null
+      type: select_one
+      options:
+      - Yes Completely
+      - Yes Mostly
+      - Somewhat
+      - Not Really
+      - No Not at All
+      required: true
+    - id: 13
+      name: provider_explanation
+      label: Did the Provider Explain Things Clearly
+      hint: Diagnosis treatment options etc.
+      type: select_one
+      options:
+      - Yes Completely
+      - Yes Mostly
+      - Somewhat
+      - Not Really
+      - No Not at All
+      required: true
+    - id: 14
+      name: provider_respect
+      label: Did the Provider Treat You with Respect
+      hint: null
+      type: select_one
+      options:
+      - Yes Always
+      - Yes Mostly
+      - Somewhat
+      - Not Really
+      - No Not at All
+      required: true
+    - id: 15
+      name: time_with_provider
+      label: Did You Feel You Had Enough Time with the Provider
+      hint: null
+      type: select_one
+      options:
+      - Yes More Than Enough
+      - Yes Just Right
+      - Somewhat Rushed
+      - Yes Rushed
+      - Very Rushed
+      required: true
+    - id: 16
+      name: care_quality
+      label: How Would You Rate the Overall Quality of Care
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: pain_management
+      label: How Well Was Your Pain or Discomfort Managed
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 18
+      name: discharge_instructions
+      label: Were Discharge Instructions Clear
+      hint: Medications follow-up care etc.
+      type: select_one
+      options:
+      - Yes Very Clear
+      - Yes Clear
+      - Somewhat Clear
+      - Unclear
+      - Did Not Receive Instructions
+      required: false
+    - id: 19
+      name: billing_clarity
+      label: How Clear Was the Billing Information
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      - Very Unclear
+      - Did Not Discuss Billing
+      required: false
+    - id: 20
+      name: overall_satisfaction
+      label: Overall How Satisfied Are You with Your Visit
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 21
+      name: likelihood_to_return
+      label: How Likely Are You to Return for Future Care
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 22
+      name: likelihood_to_recommend
+      label: How Likely Are You to Recommend Our Facility to Others
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 23
+      name: best_aspect
+      label: What Was the Best Aspect of Your Visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: areas_for_improvement
+      label: What Areas Need Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: follow_up_permission
+      label: May We Contact You for Follow-up
+      hint: Regarding your feedback
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

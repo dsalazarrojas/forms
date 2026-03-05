@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''good'', ''label'': ''Good''}'
-      - '{''value'': ''fair'', ''label'': ''Fair''}'
-      - '{''value'': ''poor'', ''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 3
       name: section1_1
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''patient_name'', ''label'': ''Patient Name''}'
-      - '{''value'': ''patient_age'', ''label'': ''Patient Age''}'
-      - '{''value'': ''patient_gender'', ''label'': ''Patient Gender''}'
-      - '{''value'': ''patient_weight'', ''label'': ''Patient Weight''}'
+      - Patient Name
+      - Patient Age
+      - Patient Gender
+      - Patient Weight
       required: false
     - id: 4
       name: section1_2
@@ -37,9 +37,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''good'', ''label'': ''Good''}'
-      - '{''value'': ''fair'', ''label'': ''Fair''}'
-      - '{''value'': ''poor'', ''label'': ''Poor''}'
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 5
       name: section2
@@ -47,8 +47,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': False, ''label'': False}'
-      - '{''value'': True, ''label'': True}'
+      - 'False'
+      - 'True'
       required: false
     - id: 6
       name: section2_1

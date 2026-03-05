@@ -5,178 +5,84 @@ inputSchema:
     pages:
     - id: 1
       name: attendee_details
-      label: attendee_details
+      label: What is your name?
       hint: null
       type: text
       options: []
       required: false
     - id: 2
       name: participation_type
-      label: participation_type
+      label: What type of participation are you registering for?
+      hint: null
+      type: select_multiple
+      options:
+      - Attendee
+      - Sponsor
+      - Speaker
+      required: true
+    - id: 3
+      name: special_needs
+      label: Do you have any special needs or requests for accommodations?
       hint: null
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
       required: false
-    - id: 3
-      name: special_needs
-      label: special_needs
-      hint: null
-      type: text
-      options: []
-      required: false
     - id: 4
-      name: attendee_details
-      label: attendee_details
+      name: email
+      label: Email
       hint: null
-      type: note
+      type: email
       options: []
-      required: false
+      required: true
     - id: 5
-      name: participant_details
-      label: participant_details
+      name: phone
+      label: What is your phone number?
       hint: null
       type: text
       options: []
       required: false
     - id: 6
-      name: email
-      label: email
+      name: participant_details
+      label: Please provide a detailed description of your participant details.
       hint: null
-      type: email
+      type: text
       options: []
       required: false
     - id: 7
-      name: phone
-      label: phone
+      name: special_needs_2
+      label: Special Needs 2
       hint: null
-      type: text
-      options: []
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 8
-      name: participant_details
-      label: participant_details
+      name: first_time_attending
+      label: Is this your first time attending the conference?
       hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false
     - id: 9
-      name: participant_details
-      label: participant_details
+      name: previous_experience
+      label: Please describe your previous experience with the HR Operational Excellence
+        Conference.
       hint: null
       type: text
       options: []
       required: false
     - id: 10
-      name: special_needs
-      label: special_needs
+      name: committee_interest
+      label: Are you interested in serving on a conference committee or helping with
+        logistics?
       hint: null
-      type: text
-      options: []
-      required: false
-    - id: 11
-      name: special_needs
-      label: special_needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 12
-      name: special_needs
-      label: special_needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: special_needs
-      label: special_needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: special_needs
-      label: special_needs
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: participant_details
-      label: participant_details
-      hint: null
-      type: text
-      options: []
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
       required: false

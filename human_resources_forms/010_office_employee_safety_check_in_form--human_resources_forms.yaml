@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Office''}'
-      - '{''id'': 2, ''label'': ''Home''}'
-      - '{''id'': 3, ''label'': ''Remote''}'
+      - Office
+      - Home
+      - Remote
       required: false
     - id: 3
       name: status
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Onsite''}'
-      - '{''id'': 2, ''label'': ''Remote''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Onsite
+      - Remote
+      - Other
       required: false
     - id: 4
       name: emergency_contact

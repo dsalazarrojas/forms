@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Day off''}'
-      - '{''id'': 2, ''label'': ''Short term''}'
-      - '{''id'': 3, ''label'': ''Long term''}'
+      - Day off
+      - Short term
+      - Long term
       required: true
     - id: 3
       name: leave_type
@@ -26,10 +26,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Vacation''}'
-      - '{''id'': 2, ''label'': ''Sick''}'
-      - '{''id'': 3, ''label'': ''Family and medical''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Vacation
+      - Sick
+      - Family and medical
+      - Other
       required: true
     - id: 4
       name: start_date
@@ -65,9 +65,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Approved''}'
-      - '{''id'': 2, ''label'': ''Rejected''}'
-      - '{''id'': 3, ''label'': ''Pending''}'
+      - Approved
+      - Rejected
+      - Pending
       required: true
     - id: 9
       name: manager_comment
@@ -82,8 +82,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Team Member''}'
-      - '{''id'': 2, ''label'': ''Other''}'
+      - Team Member
+      - Other
       required: true
     - id: 11
       name: coverage_members

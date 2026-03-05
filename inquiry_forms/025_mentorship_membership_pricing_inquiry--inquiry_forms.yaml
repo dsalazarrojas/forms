@@ -31,9 +31,9 @@ inputSchema:
       type: select_one
       options:
       - value:ประก
-      - '{''value'': ''Basic''}'
-      - '{''value'': ''Premium''}'
-      - '{''value'': ''Ultimate''}'
+      - Basic
+      - Premium
+      - Ultimate
       required: false
     - id: 5
       name: pricing
@@ -69,12 +69,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''low''}'
+      - low
       - value:ประก
-      - '{''value'': ''medium''}'
-      - value:ประก
+      - medium
       - valueประก
-      - '{''value'': ''high''}'
+      - high
       required: false
     - id: 10
       name: preferred_mentor
@@ -82,12 +81,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Tier 1''}'
-      - '{''value'': ''Tier 2''}'
-      - '{''value'': ''Tier 3''}'
-      - '{''value'': ''Tier 4''}'
+      - Tier 1
+      - Tier 2
+      - Tier 3
+      - Tier 4
       - value:ประก
-      - '{''value'': ''Tier 6''}'
+      - Tier 6
       required: false
     - id: 11
       name: notes
@@ -102,8 +101,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Email''}'
-      - '{''value'': ''Phone''}'
-      - '{''value'': ''Video call''}'
-      - '{''value'': ''In-person''}'
+      - Email
+      - Phone
+      - Video call
+      - In-person
       required: false

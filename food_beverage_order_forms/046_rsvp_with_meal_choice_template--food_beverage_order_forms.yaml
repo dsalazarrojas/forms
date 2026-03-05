@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 3
       name: guest_1
@@ -33,9 +33,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 5
       name: guest_2
@@ -46,13 +46,13 @@ inputSchema:
       required: false
     - id: 6
       name: guest_2_meal
-      label: Meal
+      label: Guest 2 Meal
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 7
       name: guest_3
@@ -63,13 +63,13 @@ inputSchema:
       required: false
     - id: 8
       name: guest_3_meal
-      label: Meal
+      label: Guest 3 Meal
       hint: null
       type: select_multiple
       options:
-      - option1
-      - option2
-      - option3
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
       name: comments
@@ -122,28 +122,28 @@ inputSchema:
       required: false
     - id: 16
       name: email_2
-      label: Email
+      label: Email 2
       hint: null
       type: email
       options: []
       required: false
     - id: 17
       name: phone_2
-      label: Phone
+      label: Phone 2
       hint: null
       type: text
       options: []
       required: false
     - id: 18
       name: email_3
-      label: Email
+      label: Email 3
       hint: null
       type: email
       options: []
       required: false
     - id: 19
       name: phone_3
-      label: Phone
+      label: Phone 3
       hint: null
       type: text
       options: []
@@ -164,21 +164,21 @@ inputSchema:
       required: false
     - id: 22
       name: comments_1
-      label: Comments
+      label: Comments 1
       hint: null
       type: text
       options: []
       required: false
     - id: 23
       name: comments_2
-      label: Comments
+      label: Comments 2
       hint: null
       type: text
       options: []
       required: false
     - id: 24
       name: comments_3
-      label: Comments
+      label: Comments 3
       hint: null
       type: text
       options: []

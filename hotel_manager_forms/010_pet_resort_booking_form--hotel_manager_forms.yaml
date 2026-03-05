@@ -23,9 +23,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''dog''}'
-      - '{''name'': ''cat''}'
-      - '{''name'': ''other''}'
+      - dog
+      - cat
+      - other
       required: false
     - id: 4
       name: owner_name
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': True}'
-      - '{''name'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 11
       name: owner_phone

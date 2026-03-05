@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': True}'
-      - '{''label'': False}'
-      - '{''label'': ''Maybe''}'
-      - '{''label'': ''Other (explain in notes)''}'
+      - 'True'
+      - 'False'
+      - Maybe
+      - Other (explain in notes)
       required: false
     - id: 3
       name: anxious_thoughts
@@ -62,9 +62,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''tag1''}'
-      - '{''label'': ''tag2''}'
-      - '{''label'': ''tag3''}'
+      - tag1
+      - tag2
+      - tag3
       required: false
     - id: 9
       name: tags_other

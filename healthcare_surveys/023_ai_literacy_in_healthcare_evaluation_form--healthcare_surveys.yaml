@@ -23,18 +23,12 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Physician / Specialist
-        value: physician
-      - label: Registered Nurse / Practitioner
-        value: nurse
-      - label: Medical Technician / Radiographer
-        value: technician
-      - label: Healthcare Administrator / Management
-        value: admin
-      - label: Researcher / Academic
-        value: researcher
-      - label: Pharmacist
-        value: pharmacist
+      - Physician / Specialist
+      - Registered Nurse / Practitioner
+      - Medical Technician / Radiographer
+      - Healthcare Administrator / Management
+      - Researcher / Academic
+      - Pharmacist
       required: true
     - id: 4
       name: department_unit
@@ -64,14 +58,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Not familiar at all
-        value: none
-      - label: Slightly familiar (Heard terms)
-        value: low
-      - label: Moderately familiar (Understand basic concepts)
-        value: moderate
-      - label: Very familiar (Can explain to others)
-        value: high
+      - Not familiar at all
+      - Slightly familiar (Heard terms)
+      - Moderately familiar (Understand basic concepts)
+      - Very familiar (Can explain to others)
       required: true
     - id: 8
       name: clinical_ai_usage_freq
@@ -79,16 +69,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Never
-        value: never
-      - label: Rarely (Few times a year)
-        value: rarely
-      - label: Occasionally (Monthly)
-        value: occasionally
-      - label: Frequently (Weekly)
-        value: frequently
-      - label: Daily
-        value: daily
+      - Never
+      - Rarely (Few times a year)
+      - Occasionally (Monthly)
+      - Frequently (Weekly)
+      - Daily
       required: true
     - id: 9
       name: ai_application_types
@@ -96,18 +81,12 @@ inputSchema:
       hint: Select all that apply.
       type: select_multiple
       options:
-      - label: AI-assisted Diagnostic Imaging (e.g., X-ray/MRI analysis)
-        value: imaging
-      - label: Predictive Risk Analytics (e.g., Sepsis prediction)
-        value: predictive_risk
-      - label: Clinical Decision Support Systems (CDSS)
-        value: cdss
-      - label: AI Virtual Assistants / Chatbots for Patients
-        value: patient_chatbots
-      - label: Automated Transcription / Scribes
-        value: scribes
-      - label: Robotic Surgery Assistance
-        value: robotic_surgery
+      - AI-assisted Diagnostic Imaging (e.g., X-ray/MRI analysis)
+      - Predictive Risk Analytics (e.g., Sepsis prediction)
+      - Clinical Decision Support Systems (CDSS)
+      - AI Virtual Assistants / Chatbots for Patients
+      - Automated Transcription / Scribes
+      - Robotic Surgery Assistance
       required: false
     - id: 10
       name: comfort_decision_making
@@ -129,16 +108,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Increased Diagnostic Accuracy
-        value: accuracy
-      - label: Reduced Administrative Burden
-        value: reduced_admin
-      - label: Early Detection of Diseases
-        value: early_detection
-      - label: Personalized Treatment Plans
-        value: personalization
-      - label: Faster Processing of Lab Results
-        value: speed
+      - Increased Diagnostic Accuracy
+      - Reduced Administrative Burden
+      - Early Detection of Diseases
+      - Personalized Treatment Plans
+      - Faster Processing of Lab Results
       required: true
     - id: 13
       name: primary_concerns
@@ -146,16 +120,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - label: Patient Data Privacy & Security
-        value: privacy
-      - label: Algorithmic Bias & Inequality
-        value: bias
-      - label: Liability & Accountability for Errors
-        value: liability
-      - label: Loss of the 'Human Touch' in care
-        value: human_touch
-      - label: Over-reliance on Technology
-        value: overreliance
+      - Patient Data Privacy & Security
+      - Algorithmic Bias & Inequality
+      - Liability & Accountability for Errors
+      - Loss of the 'Human Touch' in care
+      - Over-reliance on Technology
       required: true
     - id: 14
       name: training_interest
@@ -163,14 +132,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Yes, definitely
-        value: true
-      - label: Yes, if provided during work hours
-        value: yes_conditional
-      - label: Maybe (Need more information)
-        value: maybe
-      - label: false
-        value: false
+      - Yes, definitely
+      - Yes, if provided during work hours
+      - Maybe (Need more information)
+      - 'False'
       required: true
     - id: 15
       name: open_feedback_training
@@ -186,16 +151,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - label: Strongly Disagree
-        value: 1
-      - label: Disagree
-        value: 2
-      - label: Neutral
-        value: 3
-      - label: Agree
-        value: 4
-      - label: Strongly Agree
-        value: 5
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
       required: true
     - id: 17
       name: evaluation_date

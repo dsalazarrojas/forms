@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Running''}'
-      - '{''value'': ''Hiking''}'
-      - '{''value'': ''Biking''}'
+      - Running
+      - Hiking
+      - Biking
       required: false
     - id: 3
       name: preference_page
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Morning''}'
-      - '{''value'': ''Evening''}'
-      - '{''value'': ''Afternoon''}'
+      - Morning
+      - Evening
+      - Afternoon
       required: false
     - id: 4
       name: time_page
@@ -50,9 +50,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Daily''}'
-      - '{''value'': ''Weekly''}'
-      - '{''value'': ''Monthly''}'
+      - Daily
+      - Weekly
+      - Monthly
       required: false
     - id: 7
       name: availability_page
@@ -60,13 +60,13 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Monday''}'
-      - '{''value'': ''Tuesday''}'
-      - '{''value'': ''Wednesday''}'
-      - '{''value'': ''Thursday''}'
-      - '{''value'': ''Friday''}'
-      - '{''value'': ''Saturday''}'
-      - '{''value'': ''Sunday''}'
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
       required: false
     - id: 8
       name: duration_page
@@ -81,8 +81,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: note_page

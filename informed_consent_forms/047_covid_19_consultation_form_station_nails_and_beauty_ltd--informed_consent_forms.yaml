@@ -99,8 +99,8 @@ inputSchema:
       hint: In past 14 days
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 12
@@ -109,8 +109,8 @@ inputSchema:
       hint: In past 10 days
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       - Unsure
       required: true
     - id: 13
@@ -131,7 +131,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 15
       name: safety_measures
@@ -140,7 +140,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Will Comply
-      - false
+      - 'False'
       required: true
     - id: 16
       name: mask_requirement
@@ -159,7 +159,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Agree
-      - false
+      - 'False'
       required: true
     - id: 18
       name: liability_waiver
@@ -168,7 +168,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Release
-      - false
+      - 'False'
       required: true
     - id: 19
       name: assumption_of_risk
@@ -177,7 +177,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Assume
-      - false
+      - 'False'
       required: true
     - id: 20
       name: rescheduling_policy
@@ -186,7 +186,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 21
       name: cancellation_fee
@@ -195,7 +195,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Understand
-      - false
+      - 'False'
       required: true
     - id: 22
       name: medical_conditions
@@ -239,7 +239,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Consent
-      - false
+      - 'False'
       required: true
     - id: 28
       name: photo_consent
@@ -247,8 +247,8 @@ inputSchema:
       hint: OK to photograph nails
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: false
     - id: 29
       name: client_signature

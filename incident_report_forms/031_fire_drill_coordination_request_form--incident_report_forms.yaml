@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Central Office'', ''label'': ''Central Office''}'
-      - '{''value'': ''Main Building'', ''label'': ''Main Building''}'
-      - '{''value'': ''Training Room'', ''label'': ''Training Room''}'
+      - Central Office
+      - Main Building
+      - Training Room
       required: false
     - id: 3
       name: fire_type
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Fire Alarm'', ''label'': ''Fire Alarm''}'
-      - '{''value'': ''Emergency Response'', ''label'': ''Emergency Response''}'
-      - '{''value'': ''Evacuation'', ''label'': ''Evacuation''}'
+      - Fire Alarm
+      - Emergency Response
+      - Evacuation
       required: false
     - id: 4
       name: fire_date

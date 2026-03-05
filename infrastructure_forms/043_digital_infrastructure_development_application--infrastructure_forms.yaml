@@ -4,183 +4,95 @@ inputSchema:
     title: Digital Infrastructure Development Application
     pages:
     - id: 1
-      name: project_details
-      label: project_details
-      hint: null
+      name: project_title
+      label: Project Title
+      hint: Enter a brief title for the project.
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
+      name: project_description
+      label: Project Description
+      hint: Describe the project in a few sentences.
+      type: text
+      options: []
+      required: true
+    - id: 3
       name: technical_requirements
-      label: technical_requirements
-      hint: null
+      label: Technical Requirements
+      hint: Select the technical requirements of the project.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''option_1''}'
-      - '{''id'': 2, ''name'': ''option_2''}'
-      required: false
-    - id: 3
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 4
       name: project_timelines
-      label: project_timelines
-      hint: null
+      label: Project Timelines
+      hint: Enter the project timelines.
       type: date
       options: []
-      required: false
-    - id: 4
-      name: project_documents
-      label: project_documents
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true
     - id: 5
       name: organization
-      label: organization
-      hint: null
+      label: Organization
+      hint: Enter the name of the organization.
       type: text
       options: []
-      required: false
+      required: true
     - id: 6
       name: contact_person
-      label: contact_person
-      hint: null
+      label: Contact Person
+      hint: Enter the contact person's name.
       type: text
       options: []
-      required: false
+      required: true
     - id: 7
-      name: email
-      label: email
-      hint: null
+      name: contact_email
+      label: Contact Email
+      hint: Enter the contact person's email.
       type: email
       options: []
-      required: false
+      required: true
     - id: 8
-      name: phone
-      label: phone
-      hint: null
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter the contact person's phone number.
       type: text
       options: []
-      required: false
+      required: true
     - id: 9
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 10
       name: review_notes
-      label: review_notes
-      hint: null
+      label: Review Notes
+      hint: Enter any review notes.
       type: note
       options: []
       required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: Select the category of the project.
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 11
-      name: category
-      label: category
-      hint: null
+      name: assigned_tool
+      label: Assigned Tool
+      hint: Select the assigned tool for the project.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Infrastructure Forms''}'
-      - '{''id'': 2, ''name'': ''Infrastructure Forms''}'
-      required: false
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
     - id: 12
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: select_one
-      options:
-      - '{''id'': 1, ''name'': ''chatjimmy''}'
-      - Other
-      required: false
-    - id: 13
       name: output_file
-      label: output_file
-      hint: null
+      label: Output File
+      hint: Upload the output file.
       type: text
       options: []
-      required: false
-    - id: 14
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: title
-      label: title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: description
-      label: description
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: category
-      label: category
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: assigned_tool
-      label: assigned_tool
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: output_file
-      label: output_file
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: form_ids
-      label: form_ids
-      hint: null
-      type: text
-      options: []
-      required: false
+      required: true

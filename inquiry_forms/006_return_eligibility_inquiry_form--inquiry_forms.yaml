@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Order 1''}'
-      - '{''id'': 2, ''name'': ''Order 2''}'
+      - Order 1
+      - Order 2
       required: false
     - id: 3
       name: return_eligibility_inquiry_form_order_id
@@ -46,9 +46,9 @@ inputSchema:
       hint: Please select the return reason
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Item was not as described''}'
-      - '{''id'': 2, ''name'': ''Item was damaged''}'
-      - '{''id'': 3, ''name'': ''I changed my mind''}'
+      - Item was not as described
+      - Item was damaged
+      - I changed my mind
       required: false
     - id: 7
       name: return_eligibility_inquiry_form_notes
@@ -63,8 +63,8 @@ inputSchema:
       hint: Select a status for the return request
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Eligible''}'
-      - '{''id'': 2, ''name'': ''Not Eligible''}'
+      - Eligible
+      - Not Eligible
       required: false
     - id: 9
       name: return_eligibility_inquiry_form_comments

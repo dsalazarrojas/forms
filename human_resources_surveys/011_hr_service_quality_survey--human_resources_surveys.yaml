@@ -4,187 +4,125 @@ inputSchema:
     title: HR Service Quality Survey
     pages:
     - id: 1
-      name: hr_service_quality_survey_form_1
-      label: employee_survey
-      hint: null
+      name: employee_survey
+      label: Do you feel that the HR department has provided good quality services?
+      hint: Please select all that apply
       type: select_multiple
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 2
       name: employee_survey_department
-      label: department
-      hint: null
+      label: Which department did you interact with recently?
+      hint: Select only one
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
+      - HR
+      - Finance
+      - Marketing
+      required: true
     - id: 3
-      name: hr_service_quality_survey_form_2
-      label: comments_and_suggestions
-      hint: null
+      name: comments_and_suggestions
+      label: Comments and suggestions for improvement?
+      hint: Please provide any comments or suggestions
       type: text
       options: []
       required: false
     - id: 4
-      name: rating
-      label: overall_satisfaction
-      hint: null
+      name: overall_satisfaction
+      label: How would you rate your overall satisfaction with the HR service?
+      hint: Rate from 1 to 5
       type: number
       options: []
-      required: false
+      required: true
     - id: 5
-      name: hr_service_quality_survey_form_3
-      label: rating_comments
-      hint: null
+      name: rating_comments
+      label: Do you have any comments about your rating?
+      hint: Please provide any comments about your rating
       type: text
       options: []
       required: false
     - id: 6
-      name: hr_service_quality_survey_form_4
-      label: satisfaction_across_departments
-      hint: null
+      name: satisfaction_across_departments
+      label: Are you satisfied with the services provided by the HR department across
+        all departments?
+      hint: Select all that apply
       type: select_multiple
       options:
       - Satisfied
       - Dissatisfied
-      required: false
+      required: true
     - id: 7
       name: next_steps
-      label: next_steps
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 8
-      name: hr_service_quality_survey_form_5
-      label: comments_and_feedback
-      hint: null
+      label: What are the next steps for the HR department to improve services?
+      hint: Please provide any suggestions
       type: text
       options: []
       required: false
-    - id: 9
-      name: hr_service_quality_survey_form_6
-      label: email
-      hint: null
+    - id: 8
+      name: email
+      label: Have you had any contact with the HR department recently?
+      hint: If yes, please provide email address
       type: email
       options: []
       required: false
-    - id: 10
+    - id: 9
       name: phone_number
-      label: phone_number
-      hint: null
+      label: What is your phone number?
+      hint: Optional
       type: text
       options: []
       required: false
+    - id: 10
+      name: name
+      label: What is your name?
+      hint: Please provide your name
+      type: text
+      options: []
+      required: true
     - id: 11
-      name: hr_service_quality_survey_form_7
-      label: name
-      hint: null
+      name: job_title
+      label: What is your job title?
+      hint: Please provide your job title
       type: text
       options: []
-      required: false
+      required: true
     - id: 12
-      name: hr_service_quality_survey_form_8
-      label: job_title
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: hr_service_quality_survey_form_9
-      label: department
-      hint: null
+      name: department
+      label: Which department do you work in?
+      hint: Select only one
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 14
-      name: hr_service_quality_survey_form_10
-      label: date
-      hint: null
+      - HR
+      - Finance
+      - Marketing
+      required: true
+    - id: 13
+      name: time
+      label: What date and time did you interact with the HR department?
+      hint: Optional
       type: time
       options: []
       required: false
-    - id: 15
-      name: hr_service_quality_survey_form_11
-      label: date
-      hint: null
+    - id: 14
+      name: date
+      label: What date did you interact with the HR department?
+      hint: Optional
       type: date
       options: []
       required: false
+    - id: 15
+      name: time_taken
+      label: How long did you take to respond?
+      hint: Optional
+      type: number
+      options: []
+      required: false
     - id: 16
-      name: hr_service_quality_survey_form_12
-      label: time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 17
-      name: hr_service_quality_survey_form_13
-      label: time
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 18
-      name: hr_service_quality_survey_form_14
-      label: comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: hr_service_quality_survey_form_15
-      label: hr_service_quality_survey_form_15
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: rating_2
-      label: overall_satisfaction_2
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 21
-      name: rating_2_comments
-      label: overall_satisfaction_2_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 22
-      name: rating_3
-      label: overall_satisfaction_3
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 23
-      name: rating_3_comments
-      label: overall_satisfaction_3_comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: hr_service_quality_survey_form_16
-      label: comments_2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: submit
-      label: submit
-      hint: null
+      name: comments
+      label: Do you have any comments or feedback?
+      hint: Please provide any comments or feedback
       type: text
       options: []
       required: false

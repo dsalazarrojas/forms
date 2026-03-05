@@ -72,11 +72,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''name'': ''Inpatient'', ''label'': ''Hospice Inpatient''}'
-      - '{''name'': ''Outpatient'', ''label'': ''Hospice Outpatient''}'
-      - '{''name'': ''Both'', ''label'': ''Both inpatient and outpatient''}'
-      - '{''name'': ''Other'', ''label'': ''Other''}'
-      - '{''name'': ''None'', ''label'': ''None''}'
+      - Hospice Inpatient
+      - Hospice Outpatient
+      - Both inpatient and outpatient
+      - Other
+      - None
       required: false
     - id: 11
       name: care_frequency
@@ -84,12 +84,12 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''name'': ''Daily'', ''label'': ''Daily''}'
-      - '{''name'': ''Weekly'', ''label'': ''Weekly''}'
-      - '{''name'': ''Biweekly'', ''label'': ''Biweekly''}'
-      - '{''name'': ''Monthly'', ''label'': ''Monthly''}'
-      - '{''name'': ''Other'', ''label'': ''Other''}'
-      - '{''name'': ''None'', ''label'': ''None''}'
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Other
+      - None
       required: false
     - id: 12
       name: care_duration

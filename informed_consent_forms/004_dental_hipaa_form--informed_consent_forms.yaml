@@ -9,10 +9,10 @@ inputSchema:
       hint: Please provide the following information.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Patient Information''}'
-      - '{''id'': 2, ''name'': ''Name''}'
-      - '{''id'': 3, ''name'': ''Phone Number''}'
-      - '{''id'': 4, ''name'': ''Address''}'
+      - Patient Information
+      - Name
+      - Phone Number
+      - Address
       required: true
     - id: 2
       name: medical_history
@@ -27,17 +27,17 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''Anesthesia''}'
-      - '{''id'': 2, ''name'': ''Biopsy''}'
-      - '{''id'': 3, ''name'': ''Cast''}'
-      - '{''id'': 4, ''name'': ''Cleaning''}'
-      - '{''id'': 5, ''name'': ''Consultation''}'
-      - '{''id'': 6, ''name'': ''Diagnostic Imaging''}'
-      - '{''id'': 7, ''name'': ''Extraction''}'
-      - '{''id'': 8, ''name'': ''Fluoride''}'
-      - '{''id'': 9, ''name'': ''General Anesthesia''}'
-      - '{''id'': 10, ''name'': ''Oral Surgery''}'
-      - '{''id'': 11, ''name'': ''Restorative''}'
+      - Anesthesia
+      - Biopsy
+      - Cast
+      - Cleaning
+      - Consultation
+      - Diagnostic Imaging
+      - Extraction
+      - Fluoride
+      - General Anesthesia
+      - Oral Surgery
+      - Restorative
       required: false
     - id: 4
       name: medical_history_details
@@ -52,12 +52,12 @@ inputSchema:
       hint: Please select all that apply.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''None''}'
-      - '{''id'': 2, ''name'': ''Allergies''}'
-      - '{''id'': 3, ''name'': ''Chronic Disease''}'
-      - '{''id'': 4, ''name'': ''Medical Condition 1''}'
-      - '{''id'': 5, ''name'': ''Medical Condition 2''}'
-      - '{''id'': 6, ''name'': ''Other''}'
+      - None
+      - Allergies
+      - Chronic Disease
+      - Medical Condition 1
+      - Medical Condition 2
+      - Other
       required: true
     - id: 6
       name: emergency_contact
@@ -79,7 +79,7 @@ inputSchema:
       hint: Please select the relationship of the emergency contact.
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''Parent''}'
-      - '{''id'': 2, ''name'': ''Spouse''}'
-      - '{''id'': 3, ''name'': ''Other''}'
+      - Parent
+      - Spouse
+      - Other
       required: true

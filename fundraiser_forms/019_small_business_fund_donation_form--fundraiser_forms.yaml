@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''One-time''}'
-      - '{''id'': 2, ''label'': ''Recurring''}'
+      - One-time
+      - Recurring
       required: true
     - id: 3
       name: donation_frequency_other
@@ -109,9 +109,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Small Business''}'
-      - '{''id'': 2, ''label'': ''Medium Business''}'
-      - '{''id'': 3, ''label'': ''Large Business''}'
+      - Small Business
+      - Medium Business
+      - Large Business
       required: true
     - id: 16
       name: business_description
@@ -126,9 +126,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Check''}'
-      - '{''id'': 2, ''label'': ''Online''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Check
+      - Online
+      - Other
       required: true
     - id: 18
       name: payment_terms
@@ -143,8 +143,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''I agree''}'
-      - '{''id'': 2, ''label'': ''I do not agree''}'
+      - I agree
+      - I do not agree
       required: true
     - id: 20
       name: donation_date
@@ -156,7 +156,7 @@ inputSchema:
     - id: 21
       name: donation_time
       label: Time
-      hint: "12:HH/HH"
+      hint: 12:HH/HH
       type: time
       options: []
       required: false
@@ -187,6 +187,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Continue to Application Form''}'
-      - '{''id'': 2, ''label'': ''Finish''}'
+      - Continue to Application Form
+      - Finish
       required: true

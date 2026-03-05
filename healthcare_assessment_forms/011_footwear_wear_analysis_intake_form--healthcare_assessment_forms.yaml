@@ -23,10 +23,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''name'': ''front_left_foot'', ''label'': ''Front Left Foot''}'
-      - '{''id'': 2, ''name'': ''back_left_foot'', ''label'': ''Back Left Foot''}'
-      - '{''id'': 3, ''name'': ''front_right_foot'', ''label'': ''Front Right Foot''}'
-      - '{''id'': 4, ''name'': ''back_right_foot'', ''label'': ''Back Right Foot''}'
+      - Front Left Foot
+      - Back Left Foot
+      - Front Right Foot
+      - Back Right Foot
       required: false
     - id: 4
       name: gait_assessment
@@ -41,9 +41,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''daily_wear'', ''label'': ''Daily''}'
-      - '{''id'': 2, ''name'': ''occasional_use'', ''label'': ''Occasional''}'
-      - '{''id'': 3, ''name'': ''rarely'', ''label'': ''Rarely''}'
+      - Daily
+      - Occasional
+      - Rarely
       required: false
     - id: 6
       name: shoe_wear
@@ -79,9 +79,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''name'': ''custom'', ''label'': ''Custom''}'
-      - '{''id'': 2, ''name'': ''stock'', ''label'': ''Stock''}'
-      - '{''id'': 3, ''name'': ''other'', ''label'': ''Other''}'
+      - Custom
+      - Stock
+      - Other
       required: false
     - id: 11
       name: follow_up_info

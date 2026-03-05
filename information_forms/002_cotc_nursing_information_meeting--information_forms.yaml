@@ -30,8 +30,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True, ''label'': True}'
-      - '{''value'': False, ''label'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 5
       name: select_multiple
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''first_aide'', ''label'': ''First Aide''}'
-      - '{''value'': ''cpr'', ''label'': ''CPR''}'
-      - '{''value'': ''medical_record_keeper'', ''label'': ''Medical Record Keeper''}'
+      - First Aide
+      - CPR
+      - Medical Record Keeper
       required: false
     - id: 6
       name: date

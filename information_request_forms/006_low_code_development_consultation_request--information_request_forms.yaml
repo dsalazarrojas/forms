@@ -16,8 +16,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New Project''}'
-      - '{''value'': ''Existing Project''}'
+      - New Project
+      - Existing Project
       required: true
     - id: 3
       name: schedule_consultation
@@ -25,9 +25,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Phone Call''}'
-      - '{''value'': ''Meeting''}'
-      - '{''value'': ''Email''}'
+      - Phone Call
+      - Meeting
+      - Email
       required: true
     - id: 4
       name: project_type
@@ -35,10 +35,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New Application''}'
-      - '{''value'': ''Existing Application''}'
-      - '{''value'': ''New Service''}'
-      - '{''value'': ''Existing Service''}'
+      - New Application
+      - Existing Application
+      - New Service
+      - Existing Service
       required: true
     - id: 5
       name: expected_outcome
@@ -46,10 +46,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Project Completion''}'
-      - '{''value'': ''Project Continuation''}'
-      - '{''value'': ''Project Closure''}'
-      - '{''value'': ''Project Delay''}'
+      - Project Completion
+      - Project Continuation
+      - Project Closure
+      - Project Delay
       required: true
     - id: 6
       name: project_status
@@ -57,10 +57,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Active''}'
-      - '{''value'': ''In Progress''}'
-      - '{''value'': ''Completed''}'
-      - '{''value'': ''Closed''}'
+      - Active
+      - In Progress
+      - Completed
+      - Closed
       required: true
     - id: 7
       name: project_deadline
@@ -75,8 +75,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''New''}'
-      - '{''value'': ''Existing''}'
+      - New
+      - Existing
       required: true
     - id: 9
       name: project_manager
@@ -140,10 +140,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Front-end''}'
-      - '{''value'': ''Back-end''}'
-      - '{''value'': ''Full-stack''}'
-      - '{''value'': ''Other''}'
+      - Front-end
+      - Back-end
+      - Full-stack
+      - Other
       required: true
     - id: 18
       name: project_size
@@ -151,10 +151,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Small''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Large''}'
-      - '{''value'': ''Extra Large''}'
+      - Small
+      - Medium
+      - Large
+      - Extra Large
       required: true
     - id: 19
       name: project_team
@@ -169,9 +169,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''High''}'
-      - '{''value'': ''Medium''}'
-      - '{''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: true
     - id: 21
       name: project_deadline_date
@@ -193,8 +193,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''UTC''}'
-      - '{''value'': ''Local''}'
+      - UTC
+      - Local
       required: true
     - id: 24
       name: submission

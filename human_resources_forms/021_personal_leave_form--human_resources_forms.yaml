@@ -1,188 +1,100 @@
 inputSchema:
   type: object
   properties:
-    title: <string>
+    title: Personal Leave Form
     pages:
     - id: 1
       name: title
-      label: title
-      hint: null
+      label: Title
+      hint: Please enter a brief title for the leave request
       type: text
       options: []
       required: true
     - id: 2
-      name: date
-      label: date
-      hint: null
+      name: start_date
+      label: Date
+      hint: Enter the start date of the leave
       type: date
       options: []
       required: true
     - id: 3
-      name: time
-      label: time
-      hint: null
+      name: start_time
+      label: Time
+      hint: Enter the start time of the leave
       type: time
       options: []
       required: true
     - id: 4
       name: reason
-      label: reason
-      hint: null
+      label: Reason
+      hint: Please enter a brief reason for the leave request
       type: text
       options: []
       required: true
     - id: 5
       name: duration
-      label: duration
-      hint: null
+      label: Duration
+      hint: Enter the number of days for the leave
       type: number
       options: []
       required: true
     - id: 6
       name: frequency
-      label: frequency
-      hint: null
+      label: Frequency
+      hint: Will this be a one-time leave or a recurring request?
       type: select_one
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 7
-      name: frequency
-      label: frequency
-      hint: null
+      name: frequency_2
+      label: Multiple Leave Days
+      hint: Will you be taking multiple leave days during this period?
       type: select_multiple
       options:
-      - 'Yes'
-      - 'No'
+      - 'True'
+      - 'False'
       required: true
     - id: 8
-      name: frequency
-      label: frequency
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
+      name: start_date_2
+      label: Start Date
+      hint: Enter the start date of the leave period
+      type: date
+      options: []
       required: true
     - id: 9
-      name: frequency
-      label: frequency
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      name: end_date
+      label: End Date
+      hint: Enter the end date of the leave period
+      type: date
+      options: []
       required: true
     - id: 10
-      name: start_date
-      label: start-date
-      hint: null
-      type: date
+      name: end_time
+      label: End Time
+      hint: Enter the end time of the leave
+      type: time
       options: []
       required: true
     - id: 11
-      name: end_date
-      label: end-date
-      hint: null
-      type: date
+      name: notes
+      label: Notes
+      hint: Enter any additional comments or requests regarding the leave
+      type: text
       options: []
-      required: true
+      required: false
     - id: 12
-      name: end_date
-      label: end-date
-      hint: null
-      type: date
+      name: phone
+      label: Phone
+      hint: Enter your phone number
+      type: text
       options: []
-      required: true
+      required: false
     - id: 13
-      name: end_time
-      label: end-time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 14
-      name: end_time
-      label: end-time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 15
-      name: end_time
-      label: end-time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 16
-      name: start_time
-      label: start-time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 17
-      name: end_time
-      label: end-time
-      hint: null
-      type: time
-      options: []
-      required: true
-    - id: 18
-      name: notes
-      label: notes
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 19
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 20
       name: email
-      label: email
-      hint: null
-      type: email
-      options: []
-      required: true
-    - id: 21
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 22
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 23
-      name: notes
-      label: notes
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 24
-      name: phone
-      label: phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: email
-      label: email
-      hint: null
+      label: Email
+      hint: Enter your email address
       type: email
       options: []
       required: false

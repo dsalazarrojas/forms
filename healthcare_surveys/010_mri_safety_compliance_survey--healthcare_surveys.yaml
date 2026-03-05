@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: false
     - id: 3
       name: medications
@@ -26,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Aspirin''}'
-      - '{''value'': ''Insulin''}'
-      - '{''value'': ''Other''}'
+      - Aspirin
+      - Insulin
+      - Other
       required: true
     - id: 4
       name: medical_devices
@@ -36,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': ''Pacemaker''}'
-      - '{''value'': ''Implantable Cardioverter-Defibrillator (ICD)''}'
-      - '{''value'': ''Cochlear Implant''}'
+      - Pacemaker
+      - Implantable Cardioverter-Defibrillator (ICD)
+      - Cochlear Implant
       required: true
     - id: 5
       name: mri_safety
@@ -60,9 +60,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 10}'
-      - '{''value'': 15}'
-      - '{''value'': 30}'
+      - '10'
+      - '15'
+      - '30'
       required: true
     - id: 8
       name: safety_acknowledgements
@@ -70,9 +70,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''value'': 1}'
-      - '{''value'': 2}'
-      - '{''value'': 3}'
+      - '1'
+      - '2'
+      - '3'
       required: true
     - id: 9
       name: safety_risks_acknowledged
@@ -80,6 +80,6 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': 0}'
-      - '{''value'': 1}'
+      - '0'
+      - '1'
       required: true

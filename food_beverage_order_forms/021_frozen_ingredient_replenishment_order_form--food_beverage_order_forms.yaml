@@ -23,8 +23,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Frozen'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Non-Frozen'', ''value'': 2}'
+      - Frozen
+      - Non-Frozen
       required: true
     - id: 4
       name: quantity
@@ -39,9 +39,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Daily'', ''value'': 1}'
-      - '{''id'': 2, ''label'': ''Weekly'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''Monthly'', ''value'': 3}'
+      - Daily
+      - Weekly
+      - Monthly
       required: true
     - id: 6
       name: reorder_date
@@ -128,8 +128,8 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': True, ''value'': 1}'
-      - '{''id'': 2, ''label'': False, ''value'': 2}'
+      - 'True'
+      - 'False'
       required: true
     - id: 18
       name: comments

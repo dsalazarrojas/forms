@@ -16,10 +16,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2, ''value'': ''None''}'
-      - '{''id'': 3, ''value'': ''Mild''}'
-      - '{''id'': 4, ''value'': ''Moderate''}'
-      - '{''id'': 5, ''value'': ''Severe''}'
+      - None
+      - Mild
+      - Moderate
+      - Severe
       required: false
     - id: 3
       name: property_type
@@ -27,8 +27,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 6, ''value'': ''Residential''}'
-      - '{''id'': 7, ''value'': ''Commercial''}'
+      - Residential
+      - Commercial
       required: false
     - id: 4
       name: property_location
@@ -57,9 +57,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 8, ''value'': ''Well-maintained''}'
-      - '{''id'': 9, ''value'': ''Poor''}'
-      - '{''id'': 10, ''value'': ''Needs Improvement''}'
+      - Well-maintained
+      - Poor
+      - Needs Improvement
       required: false
     - id: 8
       name: follow_up
@@ -67,8 +67,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 11, ''value'': True}'
-      - '{''id'': 12, ''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 9
       name: notes
@@ -83,8 +83,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 13, ''value'': ''Black''}'
-      - '{''id'': 14, ''value'': ''Green''}'
+      - Black
+      - Green
       required: false
     - id: 11
       name: email

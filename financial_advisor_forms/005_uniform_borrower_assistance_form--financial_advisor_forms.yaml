@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Financially Stable''}'
-      - '{''id'': 2, ''label'': ''Financially Struggling''}'
-      - '{''id'': 3, ''label'': ''Financially Distressed''}'
+      - Financially Stable
+      - Financially Struggling
+      - Financially Distressed
       required: false
     - id: 3
       name: income_earned
@@ -33,10 +33,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Employment Income''}'
-      - '{''id'': 2, ''label'': ''Social Security''}'
-      - '{''id'': 3, ''label'': ''Pensions''}'
-      - '{''id'': 4, ''label'': ''Other''}'
+      - Employment Income
+      - Social Security
+      - Pensions
+      - Other
       required: false
     - id: 5
       name: expenses_paid
@@ -48,7 +48,7 @@ inputSchema:
     - id: 6
       name: income_expenses_ratio
       label: Income-to-Expenses Ratio
-      hint: "Enter a ratio (e.g., 10:1, 20:1)"
+      hint: Enter a ratio (e.g., 10:1, 20:1)
       type: number
       options: []
       required: false
@@ -58,10 +58,10 @@ inputSchema:
       hint: Are you currently employed?
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Employed''}'
-      - '{''id'': 2, ''label'': ''Not Employed''}'
-      - '{''id'': 3, ''label'': ''Retiree''}'
-      - '{''id'': 4, ''label'': ''Disabled''}'
+      - Employed
+      - Not Employed
+      - Retiree
+      - Disabled
       required: false
     - id: 8
       name: income_qualified
@@ -69,9 +69,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Income Qualified''}'
-      - '{''id'': 2, ''label'': ''Income Ineligible''}'
-      - '{''id'': 3, ''label'': ''Not Applicable''}'
+      - Income Qualified
+      - Income Ineligible
+      - Not Applicable
       required: false
     - id: 9
       name: financial_institution
@@ -79,9 +79,9 @@ inputSchema:
       hint: Enter the name of your financial institution
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Bank of America''}'
-      - '{''id'': 2, ''label'': ''Wells Fargo''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Bank of America
+      - Wells Fargo
+      - Other
       required: false
     - id: 10
       name: mortgage_balance
@@ -110,9 +110,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Primary Residence''}'
-      - '{''id'': 2, ''label'': ''Second Home''}'
-      - '{''id'': 3, ''label'': ''Investment Property''}'
+      - Primary Residence
+      - Second Home
+      - Investment Property
       required: false
     - id: 14
       name: property_value
@@ -176,9 +176,9 @@ inputSchema:
       hint: The loan payment terms
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Monthly''}'
-      - '{''id'': 2, ''label'': ''Bi-Weekly''}'
-      - '{''id'': 3, ''label'': ''Quarterly''}'
+      - Monthly
+      - Bi-Weekly
+      - Quarterly
       required: false
     - id: 23
       name: loan_security_type
@@ -186,9 +186,9 @@ inputSchema:
       hint: The type of security for the loan
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Collateral''}'
-      - '{''id'': 2, ''label'': ''Unsecured''}'
-      - '{''id'': 3, ''label'': ''Other''}'
+      - Collateral
+      - Unsecured
+      - Other
       required: false
     - id: 24
       name: loan_status
@@ -196,9 +196,9 @@ inputSchema:
       hint: The loan status
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Active''}'
-      - '{''id'': 2, ''label'': ''Inactive''}'
-      - '{''id'': 3, ''label'': ''Closed''}'
+      - Active
+      - Inactive
+      - Closed
       required: false
     - id: 25
       name: additional_information

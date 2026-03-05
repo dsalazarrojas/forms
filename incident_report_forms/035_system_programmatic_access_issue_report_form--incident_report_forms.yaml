@@ -30,9 +30,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Technical Issue'', ''value'': ''Technical''}'
-      - '{''id'': 2, ''label'': ''Access Issue'', ''value'': ''Access''}'
-      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      - Technical Issue
+      - Access Issue
+      - Other
       required: false
     - id: 5
       name: impact_level
@@ -40,9 +40,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
-      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''Medium''}'
-      - '{''id'': 3, ''label'': ''Low'', ''value'': ''Low''}'
+      - High
+      - Medium
+      - Low
       required: false
     - id: 6
       name: report_date
@@ -64,7 +64,7 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - chatjimmy
       - Other
       required: false
     - id: 9

@@ -1,14 +1,3 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
@@ -27,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 2, ''name'': ''Video''}'
-      - '{''id'': 3, ''name'': ''Audio''}'
-      - '{''id'': 4, ''name'': ''Document''}'
+      - Video
+      - Audio
+      - Document
       required: true
     - id: 3
       name: training_needs_assessment
@@ -37,9 +26,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 5, ''name'': ''Needs Assessment''}'
-      - '{''id'': 6, ''name'': ''Needs Analysis''}'
-      - '{''id'': 7, ''name'': ''Needs Analysis and Assessment''}'
+      - Needs Assessment
+      - Needs Analysis
+      - Needs Analysis and Assessment
       required: true
     - id: 4
       name: content_requests
@@ -47,9 +36,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 8, ''name'': ''Request 1''}'
-      - '{''id'': 9, ''name'': ''Request 2''}'
-      - '{''id'': 10, ''name'': ''Request 3''}'
+      - Request 1
+      - Request 2
+      - Request 3
       required: true
     - id: 5
       name: content_distribution_request
@@ -64,9 +53,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 11, ''name'': ''Email''}'
-      - '{''id'': 12, ''name'': ''Phone''}'
-      - '{''id'': 13, ''name'': ''Phone and Email''}'
+      - Email
+      - Phone
+      - Phone and Email
       required: true
     - id: 7
       name: submission_date
@@ -81,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 14, ''name'': ''Form Completed By''}'
-      - '{''id'': 15, ''name'': ''Not Given''}'
+      - Form Completed By
+      - Not Given
       required: false
     - id: 9
       name: submission_time

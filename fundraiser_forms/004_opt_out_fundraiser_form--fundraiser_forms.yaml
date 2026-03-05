@@ -4,202 +4,112 @@ inputSchema:
     title: Opt Out Fundraiser Form
     pages:
     - id: 1
-      name: opt_out_fundraiser_form_1
+      name: fundraiser_name
       label: Fundraiser Name
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 2
-      name: fundraiser_name
+      name: donor
       label: Donor
       hint: null
       type: text
       options: []
       required: false
     - id: 3
-      name: donor_name
-      label: Donor
-      hint: null
-      type: text
-      options: []
-      required: true
-    - id: 4
-      name: amount
-      label: Donation
-      hint: null
-      type: number
-      options: []
-      required: true
-    - id: 5
-      name: amount
-      label: Donation
+      name: donation_amount
+      label: Donation Amount
       hint: null
       type: select_one
       options:
-      - '{''option'': ''$100''}'
-      - '{''option'': ''$250''}'
-      - '{''option'': ''$500''}'
-      - '{''option'': ''$1000''}'
-      - '{''option'': ''$5000''}'
+      - $100
+      - $250
+      - $500
+      - $1000
+      - $5000
       required: true
-    - id: 6
+    - id: 4
       name: comments
       label: Comments
       hint: null
       type: text
       options: []
       required: false
-    - id: 7
-      name: comments
-      label: Comments
-      hint: null
-      type: note
-      options: []
-      required: false
-    - id: 8
+    - id: 5
       name: donor_type
       label: Type of Donor
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Individual''}'
-      - '{''option'': ''Parent''}'
-      - '{''option'': ''School''}'
-      - '{''option'': ''Organization''}'
+      - Individual
+      - Parent
+      - School
+      - Organization
       required: true
-    - id: 9
+    - id: 6
       name: fundraiser_type
       label: Type of Fundraiser
       hint: null
       type: select_multiple
       options:
-      - '{''option'': ''Fundraiser 1''}'
-      - '{''option'': ''Fundraiser 2''}'
-      - '{''option'': ''Fundraiser 3''}'
-      - '{''option'': ''Fundraiser 4''}'
+      - Fundraiser 1
+      - Fundraiser 2
+      - Fundraiser 3
+      - Fundraiser 4
       required: true
-    - id: 10
-      name: date
-      label: Date
+    - id: 7
+      name: event_date
+      label: Event Date
       hint: null
       type: date
       options: []
       required: false
-    - id: 11
-      name: time
-      label: Time
+    - id: 8
+      name: event_time
+      label: Event Time
       hint: null
       type: time
       options: []
       required: false
-    - id: 12
-      name: email
-      label: Email
+    - id: 9
+      name: donor_email
+      label: Donor Email
       hint: null
       type: email
       options: []
       required: true
+    - id: 10
+      name: donor_phone
+      label: Donor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: donor_address
+      label: Donor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: donor_city
+      label: Donor City
+      hint: null
+      type: text
+      options: []
+      required: false
     - id: 13
-      name: phone
-      label: Phone
+      name: donor_state
+      label: Donor State
       hint: null
       type: text
       options: []
       required: false
     - id: 14
-      name: address
-      label: Address
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: city
-      label: City
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 16
-      name: state
-      label: State
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: zip
-      label: Zip
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: amount
-      label: Donation
-      hint: null
-      type: select_one
-      options:
-      - '{''option'': ''$100''}'
-      - '{''option'': ''$250''}'
-      - '{''option'': ''$500''}'
-      - '{''option'': ''$1000''}'
-      - '{''option'': ''$5000''}'
-      required: false
-    - id: 19
-      name: comments
-      label: Comments
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 20
-      name: donor_type
-      label: Type of Donor
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option'': ''Individual''}'
-      - '{''option'': ''Parent''}'
-      - '{''option'': ''School''}'
-      - '{''option'': ''Organization''}'
-      required: false
-    - id: 21
-      name: fundraiser_type
-      label: Type of Fundraiser
-      hint: null
-      type: select_multiple
-      options:
-      - '{''option'': ''Fundraiser 1''}'
-      - '{''option'': ''Fundraiser 2''}'
-      - '{''option'': ''Fundraiser 3''}'
-      - '{''option'': ''Fundraiser 4''}'
-      required: false
-    - id: 22
-      name: date
-      label: Date
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 23
-      name: time
-      label: Time
-      hint: null
-      type: time
-      options: []
-      required: false
-    - id: 24
-      name: email
-      label: Email
-      hint: null
-      type: email
-      options: []
-      required: false
-    - id: 25
-      name: phone
-      label: Phone
+      name: donor_zip
+      label: Donor Zip
       hint: null
       type: text
       options: []

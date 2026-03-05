@@ -37,11 +37,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''single-family_residence'', ''label'': ''single_family_residence''}'
-      - '{''id'': 2, ''value'': ''condominium'', ''label'': ''condominium''}'
-      - '{''id'': 3, ''value'': ''townhouse'', ''label'': ''townhouse''}'
-      - '{''id'': 4, ''value'': ''apartment'', ''label'': ''apartment''}'
-      - '{''id'': 5, ''value'': ''land'', ''label'': ''land''}'
+      - single family residence
+      - condominium
+      - townhouse
+      - apartment
+      - land
       required: false
     - id: 6
       name: property_location
@@ -49,9 +49,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''urban'', ''label'': ''urban''}'
-      - '{''id'': 2, ''value'': ''suburban'', ''label'': ''suburban''}'
-      - '{''id'': 3, ''value'': ''rural'', ''label'': ''rural''}'
+      - urban
+      - suburban
+      - rural
       required: false
     - id: 7
       name: investment_period
@@ -122,9 +122,9 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''value'': ''residential'', ''label'': ''residential''}'
-      - '{''id'': 2, ''value'': ''commercial'', ''label'': ''commercial''}'
-      - '{''id'': 3, ''value'': ''industrial'', ''label'': ''industrial''}'
+      - residential
+      - commercial
+      - industrial
       required: true
     - id: 17
       name: investor_experience
@@ -132,9 +132,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''value'': ''beginner'', ''label'': ''beginner''}'
-      - '{''id'': 2, ''value'': ''intermediate'', ''label'': ''intermediate''}'
-      - '{''id'': 3, ''value'': ''advanced'', ''label'': ''advanced''}'
+      - beginner
+      - intermediate
+      - advanced
       required: false
     - id: 18
       name: investor_investment_amount

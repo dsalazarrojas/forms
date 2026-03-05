@@ -14,11 +14,11 @@ inputSchema:
       name: financial_audit_form_2
       label: Financial Compliance
       hint: null
-      type: select_multiple
+      type: select_one
       options:
       - 'Yes'
       - 'No'
-      required: false
+      required: true
     - id: 3
       name: financial_audit_form_3
       label: Financial Data Collection
@@ -37,152 +37,104 @@ inputSchema:
       name: financial_audit_form_5
       label: Auditing Process
       hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
+      type: text
+      options: []
       required: false
     - id: 6
       name: financial_audit_form_6
-      label: Financial Advisor
+      label: Contact Person
       hint: null
       type: text
       options: []
       required: false
     - id: 7
       name: financial_audit_form_7
-      label: Contact Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 8
-      name: financial_audit_form_8
       label: Contact Person Email
       hint: null
       type: email
       options: []
-      required: false
-    - id: 9
-      name: financial_audit_form_9
+      required: true
+    - id: 8
+      name: financial_audit_form_8
       label: Contact Person Phone
       hint: null
       type: text
       options: []
       required: false
-    - id: 10
-      name: financial_audit_form_10
+    - id: 9
+      name: financial_audit_form_9
       label: Company Name
       hint: null
       type: text
       options: []
-      required: false
-    - id: 11
-      name: financial_audit_form_11
+      required: true
+    - id: 10
+      name: financial_audit_form_10
       label: Company Address
       hint: null
       type: text
       options: []
-      required: false
-    - id: 12
-      name: financial_audit_form_12
+      required: true
+    - id: 11
+      name: financial_audit_form_11
       label: Financial Institution
       hint: null
       type: text
       options: []
-      required: false
-    - id: 13
-      name: financial_audit_form_13
+      required: true
+    - id: 12
+      name: financial_audit_form_12
       label: Company Location
       hint: null
       type: text
       options: []
-      required: false
-    - id: 14
-      name: financial_audit_form_14
-      label: Financial Data Analysis
+      required: true
+    - id: 13
+      name: financial_audit_form_13
+      label: Financial Data Analysis Date
       hint: null
       type: date
       options: []
-      required: false
-    - id: 15
-      name: financial_audit_form_15
+      required: true
+    - id: 14
+      name: financial_audit_form_14
       label: Financial Audit Date
       hint: null
       type: date
       options: []
+      required: true
+    - id: 15
+      name: financial_audit_form_15
+      label: Non-Compliance Issues
+      hint: null
+      type: text
+      options: []
       required: false
     - id: 16
       name: financial_audit_form_16
-      label: Auditing Process
+      label: Company Status
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 17
       name: financial_audit_form_17
-      label: Financial Advisor
+      label: Financial Audit Result
       hint: null
       type: text
       options: []
-      required: false
+      required: true
     - id: 18
       name: financial_audit_form_18
-      label: Financial Data Collection
+      label: Financial Advisor
       hint: null
       type: text
       options: []
       required: false
     - id: 19
       name: financial_audit_form_19
-      label: Compliance
-      hint: null
-      type: select_multiple
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 20
-      name: financial_audit_form_20
-      label: Financial Audit
-      hint: null
-      type: select_one
-      options:
-      - 'Yes'
-      - 'No'
-      required: false
-    - id: 21
-      name: financial_audit_form_21
-      label: Company Status
+      label: Financial Audit Form 19
       hint: null
       type: text
-      options: []
-      required: false
-    - id: 22
-      name: financial_audit_form_22
-      label: Financial Audit Result
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: financial_audit_form_23
-      label: Contact Person
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: financial_audit_form_24
-      label: Contact Person Phone
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: financial_audit_form_25
-      label: Contact Person Email
-      hint: null
-      type: email
       options: []
       required: false

@@ -5,98 +5,121 @@ inputSchema:
     pages:
     - id: 1
       name: risk_tolerance
-      label: Risk Tolerance
+      label: What is your risk tolerance level?
+      hint: null
+      type: select_one
+      options:
+      - Very Conservative
+      - Moderate
+      - Aggressive
+      - Neutral
+      required: true
+    - id: 2
+      name: investment_goals
+      label: What are your short-term and long-term investment goals?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: risk_level
+      label: How would you describe your current investment risk level?
+      hint: null
+      type: select_one
+      options:
+      - Very Conservative
+      - Moderate
+      - Aggressive
+      - Neutral
+      required: true
+    - id: 4
+      name: investment_type
+      label: Which investments would you like to consider?
+      hint: null
+      type: select_multiple
+      options:
+      - Stocks
+      - Bonds
+      - Real Estate
+      - Commodities
+      - Cash
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: asset_allocation
+      label: Please choose your asset allocation strategy -
+      hint: null
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      - Balanced
+      required: true
+    - id: 6
+      name: investment_frequency
+      label: How often do you plan to invest?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 7
+      name: investment_amount
+      label: How much do you plan to invest each time?
       hint: null
       type: number
       options: []
-      required: false
-    - id: 2
-      name: investment_goals
-      label: Investment Goals
+      required: true
+    - id: 8
+      name: investment_frequency_2
+      label: How often do you plan to invest in the next month?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      required: true
+    - id: 9
+      name: investment_amount_2
+      label: How much do you plan to invest in the next month?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: other_invest_types
+      label: Are there any other investment types you'd like to consider?
       hint: null
       type: text
       options: []
       required: false
-    - id: 3
-      name: risk_level
-      label: Risk Level
-      hint: null
-      type: select_one
-      options:
-      - Very Conservative
-      - Moderate
-      - Aggressive
-      - Neutral
-      required: false
-    - id: 4
-      name: investment_type
-      label: Investment Type
-      hint: null
-      type: select_multiple
-      options:
-      - Stocks
-      - Bonds
-      - Real Estate
-      - Commodities
-      - Cash
-      - Other (please specify)
-      required: false
-    - id: 5
-      name: asset_allocation
-      label: Asset Allocation
-      hint: null
-      type: date
-      options: []
-      required: false
-    - id: 6
-      name: investment_frequency
-      label: Investment Frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 7
-      name: investment_amount
-      label: Investment Amount
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 8
-      name: investment_frequency
-      label: Investment Frequency
-      hint: null
-      type: number
-      options: []
-      required: false
-    - id: 9
-      name: risk_level
-      label: Risk Level
-      hint: null
-      type: select_one
-      options:
-      - Very Conservative
-      - Moderate
-      - Aggressive
-      - Neutral
-      required: false
-    - id: 10
-      name: investment_type
-      label: Investment Type
-      hint: null
-      type: select_multiple
-      options:
-      - Stocks
-      - Bonds
-      - Real Estate
-      - Commodities
-      - Cash
-      - Other (please specify)
-      required: false
     - id: 11
-      name: asset_allocation
-      label: Asset Allocation
+      name: asset_allocation_2
+      label: How do you plan to allocate your assets for this investment?
       hint: null
-      type: date
-      options: []
-      required: false
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      - Balanced
+      required: true
+    - id: 12
+      name: risk_level_2
+      label: How would you describe your risk level for this investment?
+      hint: null
+      type: select_one
+      options:
+      - Very Conservative
+      - Moderate
+      - Aggressive
+      - Neutral
+      required: true

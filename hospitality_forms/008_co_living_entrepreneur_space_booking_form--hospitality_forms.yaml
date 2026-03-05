@@ -192,8 +192,8 @@ inputSchema:
       hint: Have you booked with us previously
       type: select_one
       options:
-      - true
-      - false
+      - 'True'
+      - 'False'
       required: true
     - id: 20
       name: networking_interest
@@ -212,7 +212,7 @@ inputSchema:
       type: select_one
       options:
       - Yes I Accept
-      - false
+      - 'False'
       required: true
     - id: 22
       name: payment_method

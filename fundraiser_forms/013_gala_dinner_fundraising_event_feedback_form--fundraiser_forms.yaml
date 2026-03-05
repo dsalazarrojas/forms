@@ -79,10 +79,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Donor''}'
-      - '{''label'': ''Attendee''}'
-      - '{''label'': ''Volunteer''}'
-      - '{''label'': ''Other''}'
+      - Donor
+      - Attendee
+      - Volunteer
+      - Other
       required: false
     - id: 12
       name: select_multiple
@@ -90,10 +90,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Food''}'
-      - '{''label'': ''Entertainment''}'
-      - '{''label'': ''Music''}'
-      - '{''label'': ''Other''}'
+      - Food
+      - Entertainment
+      - Music
+      - Other
       required: false
     - id: 13
       name: date_range
@@ -122,10 +122,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''label'': ''Music''}'
-      - '{''label'': ''Food''}'
-      - '{''label'': ''Dancing''}'
-      - '{''label'': ''Other''}'
+      - Music
+      - Food
+      - Dancing
+      - Other
       required: false
     - id: 17
       name: select_one
@@ -133,10 +133,10 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Excellent''}'
-      - '{''label'': ''Good''}'
-      - '{''label'': ''Fair''}'
-      - '{''label'': ''Poor''}'
+      - Excellent
+      - Good
+      - Fair
+      - Poor
       required: false
     - id: 18
       name: select_one
@@ -153,9 +153,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''label'': ''Very satisfied''}'
-      - '{''label'': ''Somewhat satisfied''}'
-      - '{''label'': ''Neutral''}'
-      - '{''label'': ''Somewhat dissatisfied''}'
-      - '{''label'': ''Very dissatisfied''}'
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
       required: false

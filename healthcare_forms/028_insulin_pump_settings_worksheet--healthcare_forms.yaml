@@ -16,9 +16,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Insulet'', ''value'': ''Insulet''}'
-      - '{''id'': 2, ''label'': ''Medtronic'', ''value'': ''Medtronic''}'
-      - '{''id'': 3, ''label'': ''Omron'', ''value'': ''Omron''}'
+      - Insulet
+      - Medtronic
+      - Omron
       required: true
     - id: 3
       name: provider_notes
@@ -47,11 +47,11 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Continuous'', ''value'': ''Continuous''}'
-      - '{''id'': 2, ''label'': ''1hr'', ''value'': 1}'
-      - '{''id'': 3, ''label'': ''2hr'', ''value'': 2}'
-      - '{''id'': 4, ''label'': ''3hr'', ''value'': 3}'
-      - '{''id'': 5, ''label'': ''Other'', ''value'': ''Other''}'
+      - Continuous
+      - 1hr
+      - 2hr
+      - 3hr
+      - Other
       required: true
     - id: 7
       name: basal_frequencies
@@ -59,10 +59,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Continuous'', ''value'': ''Continuous''}'
-      - '{''id'': 2, ''label'': ''2hr'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''3hr'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Continuous
+      - 2hr
+      - 3hr
+      - Other
       required: true
     - id: 8
       name: basal_settings_frequency
@@ -91,9 +91,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 12
       name: basal_units
@@ -101,9 +101,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 13
       name: basal_settings_unit
@@ -111,9 +111,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 14
       name: bolus_settings_unit
@@ -121,9 +121,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 15
       name: basal_settings_frequency_2
@@ -152,9 +152,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 19
       name: basal_units_2
@@ -162,9 +162,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 20
       name: basal_settings_unit_2
@@ -172,9 +172,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 21
       name: bolus_settings_unit_2
@@ -182,9 +182,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 22
       name: basal_frequencies_2
@@ -192,10 +192,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Continuous'', ''value'': ''Continuous''}'
-      - '{''id'': 2, ''label'': ''2hr'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''3hr'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Continuous
+      - 2hr
+      - 3hr
+      - Other
       required: true
     - id: 23
       name: basal_frequencies_2_2
@@ -203,10 +203,10 @@ inputSchema:
       hint: null
       type: select_multiple
       options:
-      - '{''id'': 1, ''label'': ''Continuous'', ''value'': ''Continuous''}'
-      - '{''id'': 2, ''label'': ''2hr'', ''value'': 2}'
-      - '{''id'': 3, ''label'': ''3hr'', ''value'': 3}'
-      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      - Continuous
+      - 2hr
+      - 3hr
+      - Other
       required: true
     - id: 24
       name: basal_dose_units_2
@@ -214,9 +214,9 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''id'': 1, ''label'': ''Units'', ''value'': ''Units''}'
-      - '{''id'': 2, ''label'': ''ml'', ''value'': ''ml''}'
-      - '{''id'': 3, ''label'': ''mcg'', ''value'': ''mcg''}'
+      - Units
+      - ml
+      - mcg
       required: true
     - id: 25
       name: basal_dose_2

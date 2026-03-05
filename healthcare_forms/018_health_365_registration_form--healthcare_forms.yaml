@@ -44,11 +44,11 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': ''Diabetes''}'
-      - '{''value'': ''Hypertension''}'
-      - '{''value'': ''Heart Disease''}'
-      - '{''value'': ''Cancer''}'
-      - '{''value'': ''Other''}'
+      - Diabetes
+      - Hypertension
+      - Heart Disease
+      - Cancer
+      - Other
       required: false
     - id: 7
       name: medication
@@ -70,8 +70,8 @@ inputSchema:
       hint: null
       type: select_one
       options:
-      - '{''value'': True}'
-      - '{''value'': False}'
+      - 'True'
+      - 'False'
       required: false
     - id: 10
       name: doctor_referral

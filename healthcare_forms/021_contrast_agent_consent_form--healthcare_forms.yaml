@@ -1,306 +1,295 @@
-# AI-Generated Form
-# Not affiliated with, endorsed by, or derived from any form platform
-# This form was created by AI using only public survey topic metadata
-# (title + industry/category) as inspiration. It is an original adaptation
-# and does not copy, extract, or use proprietary content from Jotform,
-# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
-# form creation, data collection, or survey platform.
-# Released under CC BY 4.0. You are free to use, modify, and even sell
-# forms derived from it - just give credit.
-# Contact: form@gic.mx
-
 inputSchema:
   type: object
   properties:
     title: Contrast Agent Consent Form
     pages:
-      - id: 1
-        name: patient_name
-        label: Patient Full Name
-        hint: Legal name of the patient
-        type: text
-        options: []
-        required: true
-      - id: 2
-        name: patient_id
-        label: Patient ID Number
-        hint: Medical record number
-        type: text
-        options: []
-        required: true
-      - id: 3
-        name: date_of_birth
-        label: Date of Birth
-        hint: Patient birth date
-        type: date
-        options: []
-        required: true
-      - id: 4
-        name: gender
-        label: Gender
-        hint: Patient gender
-        type: select_one
-        options:
-          - Male
-          - Female
-          - Other
-          - Prefer not to say
-        required: true
-      - id: 5
-        name: section_procedure_info
-        label: -- Procedure Information --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 6
-        name: procedure_type
-        label: Type of Procedure
-        hint: Imaging procedure planned
-        type: select_one
-        options:
-          - CT Scan with Contrast
-          - MRI with Contrast
-          - X-Ray with Contrast
-          - Ultrasound with Contrast
-          - Angiography
-          - Other
-        required: true
-      - id: 7
-        name: contrast_agent_type
-        label: Contrast Agent Type
-        hint: Type of contrast to be used
-        type: select_one
-        options:
-          - Iodine-Based
-          - Gadolinium-Based
-          - Barium-Based
-          - Microbubble
-          - Not Yet Determined
-        required: true
-      - id: 8
-        name: procedure_date
-        label: Scheduled Procedure Date
-        hint: When is the procedure scheduled
-        type: date
-        options: []
-        required: true
-      - id: 9
-        name: section_medical_history
-        label: -- Medical History --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 10
-        name: kidney_disease
-        label: Do you have kidney disease or problems
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Sure
-        required: true
-      - id: 11
-        name: diabetes
-        label: Do you have diabetes
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 12
-        name: high_blood_pressure
-        label: Do you have high blood pressure
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 13
-        name: asthma
-        label: Do you have asthma or allergies
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 14
-        name: previous_contrast_reaction
-        label: Have you had a reaction to contrast before
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-          - Not Sure
-        required: true
-      - id: 15
-        name: previous_reaction_description
-        label: Describe the Previous Reaction
-        hint: What symptoms did you experience
-        type: text
-        options: []
-        required: false
-      - id: 16
-        name: section_allergies
-        label: -- Allergies --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 17
-        name: medication_allergies
-        label: Do you have any medication allergies
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 18
-        name: allergy_details
-        label: List Your Allergies
-        hint: Describe all known allergies
-        type: text
-        options: []
-        required: false
-      - id: 19
-        name: section_current_medications
-        label: -- Current Medications --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 20
-        name: current_medications
-        label: List Current Medications
-        hint: Include dosages if possible
-        type: text
-        options: []
-        required: true
-      - id: 21
-        name: metformin_use
-        label: Are you taking metformin for diabetes
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 22
-        name: section_risks
-        label: -- Risks and Benefits --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 23
-        name: risks_explained
-        label: Have the risks been explained to you
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 24
-        name: benefits_explained
-        label: Have the benefits been explained to you
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 25
-        name: alternatives_explained
-        label: Have alternative options been explained
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 26
-        name: section_consent
-        label: -- Consent --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 27
-        name: consent_given
-        label: I consent to the administration of contrast agent
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 28
-        name: understand_risks
-        label: I understand the potential risks and side effects
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 29
-        name: opportunity_for_questions
-        label: I have had the opportunity to ask questions
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 30
-        name: questions_answered
-        label: All my questions have been answered
-        hint: null
-        type: select_one
-        options:
-          - Yes
-          - No
-        required: true
-      - id: 31
-        name: section_signature
-        label: -- Signature --
-        hint: null
-        type: note
-        options: []
-        required: false
-      - id: 32
-        name: patient_signature_date
-        label: Signature Date
-        hint: Date of patient signature
-        type: date
-        options: []
-        required: true
-      - id: 33
-        name: witness_name
-        label: Witness Name
-        hint: Name of healthcare provider witness
-        type: text
-        options: []
-        required: true
-      - id: 34
-        name: witness_signature_date
-        label: Witness Signature Date
-        hint: Date of witness signature
-        type: date
-        options: []
-        required: true
-      - id: 35
-        name: additional_notes
-        label: Additional Notes or Concerns
-        hint: Any other relevant information
-        type: text
-        options: []
-        required: false
+    - id: 1
+      name: patient_name
+      label: Patient Full Name
+      hint: Legal name of the patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID Number
+      hint: Medical record number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Patient gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: section_procedure_info
+      label: -- Procedure Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: procedure_type
+      label: Type of Procedure
+      hint: Imaging procedure planned
+      type: select_one
+      options:
+      - CT Scan with Contrast
+      - MRI with Contrast
+      - X-Ray with Contrast
+      - Ultrasound with Contrast
+      - Angiography
+      - Other
+      required: true
+    - id: 7
+      name: contrast_agent_type
+      label: Contrast Agent Type
+      hint: Type of contrast to be used
+      type: select_one
+      options:
+      - Iodine-Based
+      - Gadolinium-Based
+      - Barium-Based
+      - Microbubble
+      - Not Yet Determined
+      required: true
+    - id: 8
+      name: procedure_date
+      label: Scheduled Procedure Date
+      hint: When is the procedure scheduled
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_medical_history
+      label: -- Medical History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: kidney_disease
+      label: Do you have kidney disease or problems
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 11
+      name: diabetes
+      label: Do you have diabetes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: high_blood_pressure
+      label: Do you have high blood pressure
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: asthma
+      label: Do you have asthma or allergies
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: previous_contrast_reaction
+      label: Have you had a reaction to contrast before
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 15
+      name: previous_reaction_description
+      label: Describe the Previous Reaction
+      hint: What symptoms did you experience
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_allergies
+      label: -- Allergies --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: medication_allergies
+      label: Do you have any medication allergies
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: allergy_details
+      label: List Your Allergies
+      hint: Describe all known allergies
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_current_medications
+      label: -- Current Medications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: current_medications
+      label: List Current Medications
+      hint: Include dosages if possible
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: metformin_use
+      label: Are you taking metformin for diabetes
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 22
+      name: section_risks
+      label: -- Risks and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: risks_explained
+      label: Have the risks been explained to you
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: benefits_explained
+      label: Have the benefits been explained to you
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: alternatives_explained
+      label: Have alternative options been explained
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 26
+      name: section_consent
+      label: -- Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: consent_given
+      label: I consent to the administration of contrast agent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 28
+      name: understand_risks
+      label: I understand the potential risks and side effects
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 29
+      name: opportunity_for_questions
+      label: I have had the opportunity to ask questions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 30
+      name: questions_answered
+      label: All my questions have been answered
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 31
+      name: section_signature
+      label: -- Signature --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: patient_signature_date
+      label: Signature Date
+      hint: Date of patient signature
+      type: date
+      options: []
+      required: true
+    - id: 33
+      name: witness_name
+      label: Witness Name
+      hint: Name of healthcare provider witness
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: witness_signature_date
+      label: Witness Signature Date
+      hint: Date of witness signature
+      type: date
+      options: []
+      required: true
+    - id: 35
+      name: additional_notes
+      label: Additional Notes or Concerns
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

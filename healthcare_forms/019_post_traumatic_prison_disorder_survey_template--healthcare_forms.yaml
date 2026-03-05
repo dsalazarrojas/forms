@@ -12,192 +12,133 @@
 inputSchema:
   type: object
   properties:
-    title: post-traumatic-prison-disorder-survey-template
+    title: Post-Traumatic Prison Disorder Survey
     pages:
     - id: 1
       name: introduction
-      label: Post Traumatic Prison Disorder Survey
-      hint: null
+      label: Introduction
+      hint: Please take a few minutes to answer the following questions about your
+        experiences with post-traumatic stress disorder.
       type: text
       options: []
       required: true
     - id: 2
-      name: introduction_subsection_1
-      label: introduction Subsection 1
-      hint: null
+      name: name
+      label: Name
+      hint: Please provide your name for this survey.
       type: text
       options: []
-      required: false
+      required: true
     - id: 3
-      name: symptoms
-      label: Symptoms
-      hint: null
-      type: select_multiple
-      options:
-      - item1
-      - item2
-      - item3
-      required: false
+      name: duration_of_symptoms
+      label: Duration of Symptoms
+      hint: How long have you been experiencing symptoms of post-traumatic stress
+        disorder?
+      type: number
+      options: []
+      required: true
     - id: 4
-      name: symptoms_subsection_1
-      label: symptoms Subsection 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 5
-      name: introduction_subsection_2
-      label: introduction Subsection 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 6
       name: trauma_history
       label: Trauma History
-      hint: null
-      type: text
+      hint: Do you have a history of trauma?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 5
+      name: type_of_trauma
+      label: Type of Trauma
+      hint: What type of trauma have you experienced?
+      type: select_multiple
+      options:
+      - Physical Abuse
+      - Emotional Abuse
+      - Neglect
+      - Sexual Assault
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: severity_of_symptoms
+      label: Severity of Symptoms
+      hint: How severe are your symptoms of post-traumatic stress disorder?
+      type: number
       options: []
       required: true
     - id: 7
-      name: trauma_history_subsection_1
-      label: trauma History Subsection 1
-      hint: null
-      type: text
-      options: []
-      required: false
+      name: symptoms_1
+      label: Symptoms
+      hint: What are your symptoms of post-traumatic stress disorder?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 8
-      name: trauma_history_subsection_2
-      label: trauma History Subsection 2
-      hint: null
-      type: text
-      options: []
+      name: symptoms_2
+      label: Symptoms while Incarcerated
+      hint: Have you experienced any of the following symptoms while incarcerated?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other
       required: false
     - id: 9
-      name: introduction
-      label: Introduction
-      hint: null
-      type: text
+      name: duration_incarceration
+      label: Duration of Incarceration
+      hint: How long have you been experiencing symptoms of post-traumatic stress
+        disorder while incarcerated?
+      type: number
       options: []
-      required: false
+      required: true
     - id: 10
-      name: symptoms_subsection
-      label: Symptoms Subsection
-      hint: null
+      name: symptoms_incarcerated_1
+      label: Symptoms Incarcerated 1
+      hint: What are your symptoms of post-traumatic stress disorder while incarcerated?
       type: select_multiple
       options:
-      - item4
-      - item5
-      - item6
-      required: false
+      - 'Yes'
+      - 'No'
+      - Other
+      required: true
     - id: 11
-      name: trauma_subsection_1
-      label: Trauma Subsection 1
-      hint: null
-      type: text
+      name: severity_incarcerated
+      label: Severity of Symptoms while Incarcerated
+      hint: How severe are your symptoms of post-traumatic stress disorder while incarcerated?
+      type: number
       options: []
-      required: false
+      required: true
     - id: 12
-      name: trauma_subsection_2
-      label: Trauma Subsection 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 13
-      name: trauma_subsection_3
-      label: Trauma Subsection 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 14
-      name: introduction_subsection
-      label: Introduction Subsection
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 15
-      name: symptoms_subsection_2
-      label: Symptoms Subsection 2
-      hint: null
-      type: select_multiple
-      options:
-      - item7
-      - item8
-      - item9
-      required: false
-    - id: 16
-      name: introduction_subsection_3
-      label: introduction Subsection 3
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 17
-      name: trauma_subsection_4
-      label: Trauma Subsection 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 18
-      name: introduction_subsection_4
-      label: introduction Subsection 4
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 19
-      name: symptoms
-      label: Symptoms
-      hint: null
+      name: stressors
+      label: Stressors
+      hint: What has made you feel more anxious or stressed while incarcerated?
       type: text
       options: []
       required: true
-    - id: 20
-      name: trauma
-      label: Trauma
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 21
-      name: symptoms_subsection_3
-      label: Symptoms Subsection 3
-      hint: null
+    - id: 13
+      name: trauma_history_incarcerated
+      label: Trauma History while Incarcerated
+      hint: Have you experienced trauma while incarcerated?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: comfort_disclosure
+      label: Comfort with Disclosure
+      hint: Do you feel comfortable disclosing the following information?
       type: select_multiple
       options:
-      - item10
-      - item11
-      - item12
-      required: false
-    - id: 22
-      name: trauma_subsection_1
-      label: Trauma Subsection 1
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 23
-      name: introduction_subsection_5
-      label: introduction Subsection 5
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 24
-      name: trauma_subsection_2
-      label: Trauma Subsection 2
-      hint: null
-      type: text
-      options: []
-      required: false
-    - id: 25
-      name: symptoms_subsection_4
-      label: Symptoms Subsection 4
-      hint: null
+      - 'True'
+      - 'False'
+      required: true
+    - id: 15
+      name: other
+      label: Other
+      hint: Is there anything else you would like to share or add to this survey?
       type: text
       options: []
       required: false
