@@ -1,0 +1,30 @@
+<thinking>
+
+The Self-Esteem Questionnaire is designed to help individuals identify and reflect on their self-esteem levels, confidence levels, and progress tracking. It's essential to take this questionnaire seriously and answer honestly, as it may help you understand your strengths and weaknesses, set realistic goals, and work on developing a more positive self-image. 
+
+Please note that this questionnaire is only meant for personal use and should not be used in place of professional help-seeking services. 
+
+If you've already taken this questionnaire in the past, please refrain from completing it again unless you've experienced significant changes in your life or circumstances that may affect your self-esteem levels.
+
+</thinking>
+
+# Self-Esteem Questionnaire - Help Guide
+
+## Purpose
+The Self-Esteem Questionnaire is a tool designed to help you explore your self-esteem levels, confidence levels, and progress tracking. It consists of three sections, each with specific questions that aim to help you better understand your thoughts and feelings about yourself.
+
+## How To Complete This Form
+To complete the questionnaire, follow these steps:
+
+* Read each question carefully and answer it to the best of your ability.
+* Choose the most accurate option for each question that reflects your current thoughts and feelings.
+* Take your time to answer each question thoroughly, but try to complete the questionnaire in one session.
+
+## Field-by-Field Explanation
+
+* **Self Esteem Questionnaire Page 1**
+	+ **Self Esteem Questionnaire Page 1** (`self_esteem_questionnaire_page_1`, text, optional): This section is a space for you to write down any thoughts, feelings, or reflections related to your self-esteem. Please be honest and as detailed as possible.
+* **Self-Esteem Confidence Levels** (`self_esteem_confidence_levels`, select_one, optional): Please choose one option from the list that best describes your current self-esteem levels:
+	+ High: You feel confident and positive about yourself most of the time.
+	+ Low: You often feel uncertain or negative about yourself.
+* **Self-Esteem Progress Tracking** (`self_esteem_progress_tracking`, text, optional): This section is for you to track your progress or any notable changes in your self-esteem levels. Please write down any significant events, milestones, or achievements that have impacted your self-esteem.
