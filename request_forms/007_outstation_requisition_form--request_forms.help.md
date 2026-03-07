@@ -1,0 +1,125 @@
+<thinking>... This form is designed to support the process of requesting outstation, an employee-initiated trip that is not part of the regular daily commute, but rather a one-time trip for an approved purpose. The form is meant to gather relevant information about the trip, including employee ID, name, department, and the nature of the trip. Each section of the form will guide you through the various fields that need to be filled in order to ensure a smooth and efficient outstation process...</thinking>
+
+# Outstation Requisition Form - Help Guide
+## Purpose
+This form is used to request approval for an outstation, a one-time trip outside of the regular work hours or location. It helps to track and manage outstation requests in a centralized manner.
+
+## How To Complete This Form
+- Ensure you have the necessary information and approvals before submitting the form.
+- Fill in the employee ID and name in the first and second fields.
+- Select the department from the drop-down menu, if applicable.
+- Choose the outstation date.
+- Select the start and end times of the trip.
+- Enter the purpose of the trip.
+- Choose the mode of travel, if applicable.
+- Enter the travel destination and outstation type.
+- Select the employee traveling and mode of transportation.
+- Enter the number of travelers.
+- Choose the outstation date return and mode of travel return, if applicable.
+- Enter the travel return destination and outstation type return, if applicable.
+- Select the employee returning and mode of transportation return, if applicable.
+- Enter the number of travelers return, if applicable.
+- Enter any remarks or additional comments.
+- Finally, confirm the approval and outstation status, if applicable.
+
+## Field-by-Field Explanation
+- **Employee ID**: The unique identifier of the employee requesting the outstation.
+  - Type: text
+  - Required: true
+  - Explanation: A unique identifier assigned to each employee.
+- **Employee Name**: The name of the employee requesting the outstation.
+  - Type: text
+  - Required: true
+  - Explanation: The full name of the employee.
+- **Department**: The department the employee belongs to.
+  - Type: select_one
+  - Required: false
+  - Explanation: The department the employee is assigned to.
+- **Outstation Date**: The date of the outstation.
+  - Type: date
+  - Required: true
+  - Explanation: The date the employee will be on outstation.
+- **Start Time**: The start time of the outstation.
+  - Type: time
+  - Required: true
+  - Explanation: The time when the employee will start the outstation.
+- **End Time**: The end time of the outstation.
+  - Type: time
+  - Required: true
+  - Explanation: The time when the employee will end the outstation.
+- **Purpose**: The reason for the outstation.
+  - Type: text
+  - Required: true
+  - Explanation: A brief description of the outstation purpose.
+- **Mode of Travel**: The mode of transportation used for the outstation.
+  - Type: select_multiple
+  - Required: false
+  - Explanation: The mode of travel the employee will use.
+- **Travel Destination**: The destination of the outstation.
+  - Type: text
+  - Required: true
+  - Explanation: The location the employee is traveling to.
+- **Outstation Type**: The type of outstation.
+  - Type: text
+  - Required: true
+  - Explanation: The nature of the outstation.
+- **Employee Traveling**: The name of the employee traveling.
+  - Type: select_one
+  - Required: true
+  - Explanation: The name of the employee on outstation.
+- **Mode of Transportation**: The mode of transportation used for the outstation.
+  - Type: select_multiple
+  - Required: true
+  - Explanation: The type of transportation used for the outstation.
+- **Number of Travelers**: The number of employees traveling.
+  - Type: number
+  - Required: true
+  - Explanation: The number of employees on the outstation.
+- **Outstation Date Return**: The date the employee returns from the outstation.
+  - Type: date
+  - Required: true
+  - Explanation: The date the employee will return from the outstation.
+- **Mode of Travel Return**: The mode of transportation used for the return journey.
+  - Type: select_multiple
+  - Required: false
+  - Explanation: The mode of transportation used for the return journey.
+- **Travel Return Destination**: The destination the employee returns to.
+  - Type: text
+  - Required: true
+  - Explanation: The location the employee returns to.
+- **Outstation Type Return**: The type of outstation return.
+  - Type: text
+  - Required: true
+  - Explanation: The nature of the return outstation.
+- **Employee Returning**: The name of the employee returning.
+  - Type: select_one
+  - Required: true
+  - Explanation: The name of the employee returning.
+- **Mode of Transportation Return**: The mode of transportation used for the return journey.
+  - Type: select_multiple
+  - Required: true
+  - Explanation: The type of transportation used for the return journey.
+- **Number of Travelers Return**: The number of employees returning.
+  - Type: number
+  - Required: true
+  - Explanation: The number of employees returning.
+- **Remarks**: Any additional comments or remarks.
+  - Type: text
+  - Required: true
+  - Explanation: Any additional comments or remarks.
+- **Approval**: Whether the outstation is approved or not.
+  - Type: select_one
+  - Required: false
+  - Explanation: Indicates whether the outstation is approved or not.
+- **Outstation Approval Date**: The date of outstation approval.
+  - Type: date
+  - Required: true
+  - Explanation: The date when the outstation was approved.
+- **Outstation Status**: The status of the outstation.
+  - Type: select_one
+  - Required: false
+  - Explanation: Indicates the status of the outstation.
+- **Remarks2**: Any additional comments or remarks.
+  - Type: text
+  - Required: true
+  - Explanation: Any additional comments or remarks.
