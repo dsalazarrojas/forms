@@ -1,0 +1,74 @@
+# Member Interest Survey - Help Guide
+## Purpose
+The Member Interest Survey is designed to gather information about your preferences and habits. This survey aims to understand your interests, frequency of event attendance, and other personal details to help us better serve you.
+
+### <thinking>Internal Note: This form is for gathering survey responses and is not intended for internal use. It is assumed that this form will be filled out by actual users.</thinking>
+
+## How To Complete This Form
+- Fill out the form completely, making sure to answer all required questions.
+- Enter your name and email address in the respective fields.
+- Choose your preferences for each question by selecting the relevant options.
+- Submit the form once you have completed all the fields.
+
+## Field-by-Field Explanation
+- **What is your name** (text, Required): Enter your full name as it appears on your identification.
+  - This will be used to address you in subsequent communication.
+  - Please use the format "Last Name, First Name".
+- **How often do you attend events** (Select One, Required): Choose how often you attend events, such as meetings or gatherings.
+  - Select 'Yes' if you regularly attend events.
+  - Select 'No' if you do not attend events.
+- **What is your email** (email, Required): Enter your valid email address.
+  - This will be used for communication and updates.
+  - Please use a valid email address that you regularly check.
+- **Do you have a phone number** (text, Optional): Enter your phone number if you wish to be contacted via phone.
+  - This will be used for additional communication.
+- **What is the date of your last event attendance** (date, Optional): Enter the date of your last event attendance, if applicable.
+  - This will help us track your event attendance history.
+- **What is the time of your last event attendance** (time, Optional): Enter the time of your last event attendance, if applicable.
+  - This will help us track your event attendance history.
+- **What is your favorite color** (text, Optional): Enter your favorite color.
+  - This is for informational purposes only.
+  - Please enter a color name.
+- **What time prophets do you have** (number, Optional): Enter the number of time prophets you have.
+  - This is for informational purposes only.
+  - Please enter a numerical value.
+- **Do you like ice cream** (Select Multiple, Optional): Choose your preferred ice cream flavors.
+  - Select one or more of the options: Chocolate, Vanilla, Strawberry.
+- **How many events do you attend a month** (number, Optional): Enter the number of events you attend per month.
+  - This will help us track your event attendance frequency.
+- **What is the best time to call** (time, Optional): Enter the time you prefer to be called.
+  - This will help us schedule optimal communication.
+- **Do you have a preferred phone type** (Select Multiple, Optional): Choose your preferred phone type.
+  - Select one or more of the options: 'Yes', 'No'.
+- **What is your preferred time of day** (time, Optional): Enter your preferred time of day.
+  - This will help us schedule optimal communication.
+- **Do you have ice cream** (Select Multiple, Optional): Choose your ice cream preferences.
+  - Select one or more of the options: Chocolate, Vanilla, Strawberry.
+- **What is your time preference** (time, Optional): Enter your preferred time.
+  - This will help us schedule optimal communication.
+- **Do you have a time** (time, Optional): Enter the time you have available.
+  - This will help us schedule optimal communication.
+- **What is your best time** (time, Optional): Enter your preferred time.
+  - This will help us schedule optimal communication.
+- **Do you have a phone** (Select Multiple, Optional): Choose your phone preferences.
+  - Select one or more of the options: 'Yes', 'No'.
+- **What is your time preference** (time, Optional): Enter your preferred time.
+  - This will help us schedule optimal communication.
+- **Survey Question16** (Select Multiple, Optional): Choose your preferences.
+  - Select one or more of the options: Chocolate, Vanilla, Strawberry.
+- **Survey Question17** (time, Optional): Enter your preferred time.
+  - This will help us schedule optimal communication.
+- **Survey Question18** (Select Multiple, Optional): Choose your preferences.
+  - Select one or more of the options: Chocolate, Vanilla, Strawberry.
+- **What time do you like best** (time, Optional): Enter your preferred time.
+  - This will help us schedule optimal communication.
+- **Do you have time** (time, Optional): Enter your available time.
+  - This will help us schedule optimal communication.
+- **Survey Question21** (Select Multiple, Optional): Choose your preferences.
+  - Select one or more of the options: Chocolate, Vanilla, Strawberry.
+- **What is your best time** (time, Optional): Enter your preferred time.
+  - This will help us schedule optimal communication.
+- **Do you have ice cream** (Select Multiple, Optional): Choose your ice cream preferences.
+  - Select one or more of the options: Chocolate, Vanilla, Strawberry.
+- **What is your time preference** (time, Optional): Enter your preferred time.
+  - This will help us schedule optimal communication.

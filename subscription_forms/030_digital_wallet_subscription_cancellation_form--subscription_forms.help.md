@@ -1,0 +1,29 @@
+<thinking>
+This form is designed to be a tool for users to cancel their digital wallet subscription. The purpose of this form is to gather information from users about why they are cancelling their subscription, their email address, and their billing address. This form is intended to be a simple and straightforward way for users to communicate their cancellation reasons, which can help the company understand their customers' needs and preferences better.
+
+When a user fills out this form, they will be asked to select a reason for cancellation, enter their email address, and optionally provide their billing address. This information will help the company understand the user's motivations for cancelling their subscription and potentially improve their services accordingly.
+
+The main goal of this form is to collect accurate and complete information from users in an efficient and user-friendly way.
+</thinking>
+
+# Digital Wallet Subscription Cancellation Form - Help Guide
+## Purpose
+The Digital Wallet Subscription Cancellation Form is designed to be completed by users who want to cancel their digital wallet subscription. This form collects information about the reason for cancellation and the user's contact details.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1. Select a reason for cancellation from the list of options provided. You can choose one of the pre-defined reasons or select "Other" and provide a custom reason.
+2. Enter your email address in the format of `username@example.com`. This is an optional field, but providing it will help us contact you regarding your cancellation.
+3. If you would like to provide your billing address for record-keeping purposes, you can enter it in the text field. This is also an optional field.
+
+## Field-by-Field Explanation
+### Why are you cancelling
+* **Why are you cancelling** (`cancellation_reason`, `select_one`, required: `false`): Select a reason for cancellation from the list of options or choose "Other" to provide a custom reason.
+* **Email** (`user_email`, `email`, required: `false`): Enter your email address in the format `username@example.com`. This is an optional field.
+* **Address** (`billing_address`, `text`, required: `false`): If you want to provide your billing address for record-keeping purposes, enter it here. This is also an optional field.
+
+## Tips
+* Make sure to select a reason for cancellation that accurately reflects your decision.
+* If you have any further questions or concerns, please contact us at [support email].
+* We appreciate your feedback and will use it to improve our services.

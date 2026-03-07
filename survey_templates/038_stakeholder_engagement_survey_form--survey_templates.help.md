@@ -1,0 +1,126 @@
+<thinking>
+This form is used to collect information from stakeholders regarding their engagement and participation in a survey. The purpose of this form is to determine the scope, frequency, and methodology of the survey, as well as the expected outcomes and results. This information is necessary to ensure that the survey is effective and relevant to the stakeholders' needs. It is essential to fill out this form accurately and completely to provide a clear understanding of the survey's objectives and goals. Please ensure that you have read and understood the form carefully before proceeding.
+</thinking>
+
+# stakeholder_engagement_survey_form - Help Guide
+## Purpose
+This form is designed to collect information from stakeholders about their engagement and participation in a survey. The survey aims to gather details about the survey's purpose, target audience, questions, strategy, and expected outcomes.
+
+## How To Complete This Form
+To complete this form, simply fill out the sections below, providing as much detail as possible. If you have any questions or concerns, please don't hesitate to reach out to the survey administrator.
+
+## Field-by-Field Explanation
+- **Survey Purpose**: A brief description of the survey's objective and goals.
+  - Type: text
+  - Required: No
+  - Hint: Provide a concise explanation of the survey's purpose.
+- **Target Audience**: Select one or more of the following options for the target audience:
+  - Stakeholders
+  - Decision Makers
+  - Project Managers
+  - Type: select_multiple
+  - Required: No
+  - Hint: Choose the group you believe the survey is intended for.
+- **What is the purpose of the survey?**: A brief explanation of the survey's objective and goals.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey's purpose.
+- **Who is the target audience for this survey?**: A brief description of the people or groups the survey is intended for.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the target audience.
+- **What are the survey questions?**: Select one or more of the following options for the survey questions:
+  - Yes, I will answer the questions
+  - No, I will not answer the questions
+  - Yes, I will answer the questions and provide feedback
+  - Type: select_multiple
+  - Required: No
+  - Hint: Choose how you plan to answer the questions.
+- **Additional Comments**: Any additional information about the survey or its objectives.
+  - Type: note
+  - Required: No
+  - Hint: Use this field to provide any further details or information about the survey.
+- **Date**: The date you plan to complete the survey.
+  - Type: date
+  - Required: No
+  - Hint: Enter the date you plan to complete the survey.
+- **Time**: The time you plan to complete the survey.
+  - Type: time
+  - Required: No
+  - Hint: Enter the time you plan to complete the survey.
+- **E-mail**: Your email address.
+  - Type: email
+  - Required: No
+  - Hint: Enter your email address.
+- **Phone**: Your phone number.
+  - Type: text
+  - Required: No
+  - Hint: Enter your phone number.
+- **Survey Purpose 2**: A brief description of the survey's objective and goals.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey's purpose.
+- **Survey Purpose 3**: A brief description of the survey's objective and goals.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey's purpose.
+- **Survey Purpose 4**: A brief description of the survey's objective and goals.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey's purpose.
+- **Target Audience 2**: Select one or more of the following options for the target audience:
+  - Stakeholders
+  - Decision Makers
+  - Project Managers
+  - Type: select_multiple
+  - Required: No
+  - Hint: Choose the group you believe the survey is intended for.
+- **What is the survey strategy?**: A brief description of how you plan to use the survey results.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey strategy.
+- **How do you plan to use the survey results?**: A brief description of how you plan to use the survey results.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of how you plan to use the survey results.
+- **Will you participate in the survey?**: Yes or no, do you plan to participate in the survey.
+  - Type: select_one
+  - Required: No
+  - Hint: Choose whether you will participate in the survey.
+- **How will you use the survey results?**: A brief description of how you plan to use the survey results.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of how you plan to use the survey results.
+- **What is the survey frequency?**: Select one of the following options for the survey frequency:
+  - Once a year
+  - Every 6 months
+  - Every 3 months
+  - Every week
+  - Never
+  - Type: select_one
+  - Required: No
+  - Hint: Choose the frequency of the survey.
+- **What is the survey schedule?**: A brief description of the survey's schedule.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey schedule.
+- **How do you plan to use the survey results?**: A brief description of how you plan to use the survey results.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of how you plan to use the survey results.
+- **What is the survey duration?**: A brief description of the survey's duration.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey duration.
+- **What is the survey scope?**: A brief description of the survey's scope.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey scope.
+- **What is the survey methodology?**: A brief description of the survey's methodology.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey methodology.
+- **What is the survey objective?**: A brief description of the survey's objective.
+  - Type: text
+  - Required: No
+  - Hint: Provide a clear and concise explanation of the survey objective.

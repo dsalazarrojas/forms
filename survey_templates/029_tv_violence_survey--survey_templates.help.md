@@ -1,0 +1,55 @@
+<thinking>... (internal reasoning block)
+This form is designed to gather information about a traumatic event involving violence. The purpose of the survey is to collect detailed descriptions of the violence experienced, which can help inform responses and actions. This form is not intended for use in emergency situations or for reporting severe physical harm.
+
+The form is divided into 7 questions, each with a specific type and format:
+* Question 1 is a text field asking about the respondent's feelings.
+* Question 2 is also a text field asking about what the respondent saw.
+* Question 3 is a multiple selection field (select multiple options) asking about what the respondent felt.
+* Question 4 is a time field asking about the duration of the event.
+* Question 5 is a single selection field (select one option) asking about who was involved in the event.
+* Question 6 is a text field for the respondent to provide additional information.
+* Question 7 is a text field asking about the respondent's feelings, which is similar to Question 1.
+
+The respondent is asked to answer each question as truthfully and thoroughly as possible.
+
+</thinking>
+
+# tv_violence_survey - Help Guide
+## Purpose
+The purpose of this form is to gather detailed descriptions of a traumatic event involving violence, to inform responses and actions.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+1. Review each question carefully and answer truthfully.
+2. For text fields, provide a detailed description.
+3. For multiple selection fields, select all relevant options.
+4. For time fields, select the duration of the event.
+5. For single selection fields, select one option.
+6. For note fields, provide any additional information.
+
+## Field-by-Field Explanation
+### Question 1: how_did_you_feel
+* **How you felt** (text field): Describe your feelings about the event.
+
+### Question 2: what_did_you_see
+* **What you saw** (text field): Describe what you saw during the event.
+
+### Question 3: what_did_you_feel
+* **What you felt** (select multiple): Select all options that apply to your feelings about the event.
+	+ Option 1
+	+ Option 2
+	+ Option 3
+
+### Question 4: what_did_you_do
+* **What you did** (time field): Select the duration of the event.
+
+### Question 5: who_was_involved
+* **Who was involved** (select one): Select one option about who was involved in the event.
+	+ Option 1
+	+ Option 2
+
+### Question 6: what_did_you_feel
+* **What you felt** (text field): Provide a description of your feelings about the event.
+
+### Question 7: why_did_you_feel
+* **Why you felt** (text field): Describe why you felt this way about the event.
