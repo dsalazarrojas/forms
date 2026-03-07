@@ -249,6 +249,66 @@
     }
   }
 
+  function editYaml() {
+    const pre = document.getElementById('yaml-pre');
+    const editContainer = document.getElementById('yaml-edit-container');
+    const textarea = document.getElementById('yaml-textarea');
+    const editBtn = document.getElementById('edit-yaml-btn');
+    const errorDiv = document.getElementById('yaml-edit-error');
+    if (!pre || !editContainer || !textarea) return;
+    textarea.value = currentYaml || '';
+    errorDiv.classList.add('hidden');
+    errorDiv.textContent = '';
+    pre.classList.add('hidden');
+    editContainer.classList.remove('hidden');
+    editBtn.classList.add('hidden');
+    textarea.focus();
+  }
+
+  async function saveYamlEdit() {
+    const pre = document.getElementById('yaml-pre');
+    const editContainer = document.getElementById('yaml-edit-container');
+    const textarea = document.getElementById('yaml-textarea');
+    const editBtn = document.getElementById('edit-yaml-btn');
+    const errorDiv = document.getElementById('yaml-edit-error');
+    if (!textarea) return;
+    const newYaml = textarea.value;
+    try {
+      // Validate by parsing
+      const parsed = codec().parse(newYaml);
+      if (!parsed) throw new Error('Empty or invalid YAML.');
+      await loadYamlDocument(newYaml, {
+        formPath: currentFormPath,
+        localFormId: currentLocalFormId,
+        updateUrl: false,
+        markOriginal: false,
+        editorStatus: 'YAML source edited and applied.'
+      });
+      // Restore read-only view
+      pre.classList.remove('hidden');
+      editContainer.classList.add('hidden');
+      editBtn.classList.remove('hidden');
+    } catch (err) {
+      errorDiv.textContent = `Parse error: ${err.message || String(err)}`;
+      errorDiv.classList.remove('hidden');
+    }
+  }
+
+  function cancelYamlEdit() {
+    const pre = document.getElementById('yaml-pre');
+    const editContainer = document.getElementById('yaml-edit-container');
+    const editBtn = document.getElementById('edit-yaml-btn');
+    const errorDiv = document.getElementById('yaml-edit-error');
+    if (!pre || !editContainer) return;
+    pre.classList.remove('hidden');
+    editContainer.classList.add('hidden');
+    editBtn.classList.remove('hidden');
+    if (errorDiv) {
+      errorDiv.classList.add('hidden');
+      errorDiv.textContent = '';
+    }
+  }
+
   function downloadFile(path, content, mimeType) {
     const blob = new Blob([content], { type: mimeType || 'text/plain' });
     const url = URL.createObjectURL(blob);
@@ -466,6 +526,41 @@
     }
   }
 
+  async function fetchAndRenderHelpMd(formPath) {
+    const card = document.getElementById('help-md-card');
+    const contentEl = document.getElementById('help-md-content');
+    if (!card || !contentEl) return;
+    card.classList.add('hidden');
+    contentEl.innerHTML = '';
+    if (!formPath) return;
+    const helpUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${formPath.replace(/\.(yaml|yml)$/i, '.help.md')}`;
+    try {
+      const res = await fetch(helpUrl);
+      if (!res.ok) return;
+      let text = await res.text();
+      // Remove thinking blocks
+      text = text.replace(/<thinking>[\s\S]*?<\/thinking>/g, '').trim();
+      if (!text) return;
+      // Simple markdown-to-HTML conversion (headers, bold, lists, paragraphs)
+      const html = text
+        .replace(/^#### (.+)$/gm, '<h4 class="text-sm font-semibold text-slate-800 dark:text-slate-200 mt-4 mb-1">$1</h4>')
+        .replace(/^### (.+)$/gm, '<h3 class="text-base font-semibold text-slate-800 dark:text-slate-200 mt-5 mb-1">$1</h3>')
+        .replace(/^## (.+)$/gm, '<h2 class="text-lg font-semibold text-slate-900 dark:text-slate-100 mt-6 mb-2">$1</h2>')
+        .replace(/^# (.+)$/gm, '<h1 class="text-xl font-bold text-slate-900 dark:text-slate-100 mt-0 mb-3">$1</h1>')
+        .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.+?)\*/g, '<em>$1</em>')
+        .replace(/^[-*] (.+)$/gm, '<li class="ml-4 list-disc">$1</li>')
+        .replace(/^\d+\. (.+)$/gm, '<li class="ml-4 list-decimal">$1</li>')
+        .replace(/(<li[\s\S]*?<\/li>\n?)+/g, m => `<ul class="space-y-1 my-2">${m}</ul>`)
+        .replace(/\n\n+/g, '</p><p class="mb-3">')
+        .replace(/^(?!<[hul])(.+)$/gm, '<p class="mb-3">$1</p>');
+      contentEl.innerHTML = html;
+      card.classList.remove('hidden');
+    } catch (_) {
+      // If fetch fails, silently skip
+    }
+  }
+
   async function updateRelatedForms(categorySlug, currentPath) {
     const container = document.getElementById('seo-related');
     if (!container) {
@@ -647,6 +742,7 @@
     updateStats(pages);
     updateSeoContent(title, categorySlug, pages, language);
     await updateRelatedForms(categorySlug, currentFormPath);
+    fetchAndRenderHelpMd(currentFormPath);
     renderMyForms();
     updateDeploySummary();
 
@@ -1137,6 +1233,9 @@
   window.toggleDark = toggleDark;
   window.setViewMode = setViewMode;
   window.copyYaml = copyYaml;
+  window.editYaml = editYaml;
+  window.saveYamlEdit = saveYamlEdit;
+  window.cancelYamlEdit = cancelYamlEdit;
   window.downloadXlsx = downloadXlsx;
   window.saveCurrentFormToMyForms = saveCurrentFormToMyForms;
   window.createNewBlankForm = createNewBlankForm;

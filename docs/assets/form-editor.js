@@ -48,6 +48,8 @@
       this.draggingQuestionIndex = null;
       this.draggingOption = null;
       this.bound = false;
+      this.yamlEditMode = false;
+      this.yamlEditError = '';
 
       this.attachDelegatedEvents();
       this.render();
@@ -672,6 +674,15 @@
           <section class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-900">
             <div class="flex flex-col gap-4">
               <div class="flex flex-wrap gap-2">
+                ${this.yamlEditMode ? `
+                <button type="button" data-action="back-to-editor" class="${BUTTON_OUTLINE}">
+                  <span class="material-symbols-outlined text-[18px]">arrow_back</span>
+                  Back to Editor
+                </button>
+                <button type="button" data-action="apply-yaml-edit" class="${BUTTON_PRIMARY}">
+                  <span class="material-symbols-outlined text-[18px]">check_circle</span>
+                  Apply Changes
+                </button>` : `
                 <button type="button" data-action="apply" class="${BUTTON_PRIMARY}">
                   <span class="material-symbols-outlined text-[18px]">check_circle</span>
                   Apply Changes
@@ -704,6 +715,10 @@
                   <span class="material-symbols-outlined text-[18px]">download</span>
                   Download YAML
                 </button>
+                <button type="button" data-action="edit-yaml" class="${BUTTON_OUTLINE}">
+                  <span class="material-symbols-outlined text-[18px]">code</span>
+                  Edit YAML
+                </button>`}
               </div>
 
               <div class="flex flex-wrap items-center gap-2 text-xs">
@@ -714,19 +729,24 @@
 
               <p data-editor-status class="text-sm ${this.statusIsError ? 'text-red-500' : 'text-slate-500 dark:text-slate-400'}">${escapeHtml(this.statusMessage)}</p>
 
-              <div>
+              ${!this.yamlEditMode ? `<div>
                 <label class="mb-1 block text-sm font-medium text-slate-700 dark:text-slate-300">Form title</label>
                 <input type="text" class="preview-input" data-role="title" value="${escapeHtml(this.form.title)}" placeholder="Survey Title">
                 <p data-error-for="title" class="mt-1 text-xs text-red-500 ${validation.fieldErrors.title ? '' : 'hidden'}">${escapeHtml(validation.fieldErrors.title || '')}</p>
-              </div>
+              </div>` : ''}
             </div>
           </section>
 
+          ${this.yamlEditMode ? `
+          <section class="space-y-3">
+            <div data-yaml-edit-error class="hidden rounded-xl border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-700 dark:border-red-900 dark:bg-red-950/40 dark:text-red-300"></div>
+            <textarea data-role="yaml-edit" spellcheck="false" class="w-full font-mono text-sm bg-slate-950 text-slate-100 rounded-xl border border-slate-700 p-4 focus:outline-none focus:ring-2 focus:ring-primary resize-none" style="min-height:520px;">${escapeHtml(this.buildYaml())}</textarea>
+          </section>` : `
           <div data-validation-summary></div>
 
           <section class="space-y-4">
             ${this.form.questions.length ? this.form.questions.map((question, index) => this.renderQuestion(question, index, validation)).join('') : emptyState}
-          </section>
+          </section>`}
         </div>`;
 
       this.refreshHeader();
@@ -932,6 +952,38 @@
             this.setStatus(error.message || 'Clipboard import failed.', true);
           }
           return;
+        case 'edit-yaml':
+          this.yamlEditMode = true;
+          this.yamlEditError = '';
+          this.render();
+          return;
+        case 'back-to-editor':
+          this.yamlEditMode = false;
+          this.yamlEditError = '';
+          this.render();
+          return;
+        case 'apply-yaml-edit': {
+          const yamlTextarea = this.container.querySelector('[data-role="yaml-edit"]');
+          if (!yamlTextarea) return;
+          try {
+            const parsed = this.codec.parse(yamlTextarea.value);
+            this.yamlEditMode = false;
+            this.yamlEditError = '';
+            this.setForm(parsed, {
+              markClean: false,
+              statusMessage: 'YAML applied successfully.',
+              documentMeta: parsed.metadata || {}
+            });
+            this.notifyStateChange();
+          } catch (error) {
+            const errorEl = this.container.querySelector('[data-yaml-edit-error]');
+            if (errorEl) {
+              errorEl.textContent = error.message || 'Invalid YAML — please check the syntax.';
+              errorEl.classList.remove('hidden');
+            }
+          }
+          return;
+        }
         default:
           return;
       }

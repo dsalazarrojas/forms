@@ -415,6 +415,15 @@
             </div>
           </div>
 
+          <!-- Help.md card (shown when form has a .help.md file) -->
+          <div id="help-md-card" class="hidden bg-white dark:bg-slate-900 rounded-xl shadow-sm border border-slate-200 dark:border-slate-800 p-6 sm:p-8">
+            <div class="flex items-center gap-2 mb-4">
+              <span class="material-symbols-outlined text-primary" style="font-size:22px;">menu_book</span>
+              <h2 class="text-xl font-semibold text-slate-900 dark:text-slate-100">Form Guide</h2>
+            </div>
+            <div id="help-md-content" class="prose prose-sm dark:prose-invert max-w-none text-slate-600 dark:text-slate-400 text-sm leading-relaxed"></div>
+          </div>
+
           <article id="seo-content" class="bg-white dark:bg-slate-900 rounded-xl shadow-sm border border-slate-200 dark:border-slate-800 p-6 sm:p-8">
             <h1 id="seo-h1" class="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900 dark:text-slate-100 mb-3">
               Free Form Template
@@ -461,12 +470,31 @@
           <div class="relative rounded-xl overflow-hidden border border-slate-200 dark:border-slate-700">
             <div class="flex items-center justify-between px-4 py-2 bg-slate-800 dark:bg-slate-950 border-b border-slate-700">
               <span class="text-xs font-mono text-slate-400">form.yaml</span>
-              <button id="copy-yaml-inner" class="text-xs text-slate-400 hover:text-white flex items-center gap-1 transition-colors" onclick="copyYaml()">
-                <span class="material-symbols-outlined icon-sm">content_copy</span>
-                Copy
-              </button>
+              <div class="flex items-center gap-2">
+                <button id="edit-yaml-btn" class="text-xs text-slate-400 hover:text-white flex items-center gap-1 transition-colors" onclick="editYaml()">
+                  <span class="material-symbols-outlined icon-sm">edit</span>
+                  Edit
+                </button>
+                <button id="copy-yaml-inner" class="text-xs text-slate-400 hover:text-white flex items-center gap-1 transition-colors" onclick="copyYaml()">
+                  <span class="material-symbols-outlined icon-sm">content_copy</span>
+                  Copy
+                </button>
+              </div>
             </div>
-            <pre class="max-h-[calc(100vh-14rem)] overflow-auto m-0 rounded-b-xl"><code id="yaml-code" class="language-yaml text-sm"></code></pre>
+            <pre id="yaml-pre" class="max-h-[calc(100vh-14rem)] overflow-auto m-0 rounded-b-xl"><code id="yaml-code" class="language-yaml text-sm"></code></pre>
+            <!-- YAML edit mode -->
+            <div id="yaml-edit-container" class="hidden flex flex-col">
+              <textarea id="yaml-textarea" class="w-full font-mono text-sm bg-slate-900 text-slate-100 border-0 outline-none resize-none p-4 min-h-[calc(100vh-18rem)]" spellcheck="false" autocomplete="off" autocorrect="off" autocapitalize="off"></textarea>
+              <div id="yaml-edit-error" class="hidden px-4 py-2 bg-red-900/80 text-red-200 text-xs border-t border-red-700"></div>
+              <div class="flex items-center gap-2 px-4 py-2 bg-slate-800 dark:bg-slate-950 border-t border-slate-700">
+                <button onclick="saveYamlEdit()" class="text-xs bg-primary text-white rounded-lg px-3 py-1.5 font-semibold hover:bg-orange-600 transition-colors flex items-center gap-1">
+                  <span class="material-symbols-outlined icon-sm">save</span>Save
+                </button>
+                <button onclick="cancelYamlEdit()" class="text-xs text-slate-400 hover:text-white flex items-center gap-1 transition-colors">
+                  <span class="material-symbols-outlined icon-sm">cancel</span>Cancel
+                </button>
+              </div>
+            </div>
           </div>
         </div>
       </div>

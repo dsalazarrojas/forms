@@ -449,6 +449,9 @@
     }
 
     function generateDescription(form) {
+      if (form.helpSnippet) {
+        return form.helpSnippet;
+      }
       const typeMap = {
         text: 'text', email: 'email', number: 'number', date: 'date',
         select_one: 'single-choice', select_multiple: 'multi-choice',

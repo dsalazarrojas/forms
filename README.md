@@ -11,6 +11,12 @@ Browse the full library at: **[forms.gic.mx](https://forms.gic.mx)** 🌐
 
 ---
 
+## 👉 [Browse All Categories →](https://forms.gic.mx/browse.html)
+
+Explore 7,460+ templates across 40+ categories — filter, preview, and deploy instantly.
+
+---
+
 ## 🚀 Quick Start
 
 ### Browse & Preview Forms
