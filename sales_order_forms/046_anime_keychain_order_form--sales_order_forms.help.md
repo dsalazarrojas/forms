@@ -1,0 +1,190 @@
+<thinking>...</thinking>
+
+# Anime Keychain Order Form - Help Guide
+## Purpose
+This form is designed to help you order anime-themed keychains. You can customize your order with various options, including keychain style, size, and character name. The form gathers information for shipping and payment details, as well as any additional requests you might have.
+
+## How To Complete This Form
+
+- Fill out your name, email, and phone number to ensure we can contact you for order confirmation and any future communications.
+- Select the shipping address where you want the keychain to be sent to.
+- Choose the anime series and character for the keychain.
+- Select the style and size of the keychain.
+- Indicate the number of keychains you want to order.
+- Provide a price per keychain.
+- Choose any customization options, such as text, colors, or packaging.
+- If you're ordering as a gift, provide a message for the gift recipient.
+- Select the payment method and provide any required details, such as card type and expiration date.
+- If your shipping address is different from your billing address, provide the billing address.
+- Apply any promo codes you have.
+- Review the calculated order total, including tax and shipping.
+- Confirm that you accept the terms and conditions and understand the refund policy.
+- Add any additional comments or special requests.
+- Sign your order electronically.
+
+## Field-by-Field Explanation
+- **Full Name**: Enter your full name to allow us to contact you for order confirmation and any future communications.
+  - **Label**: Full Name
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: First and last name
+- **Email Address**: Enter your email address for order confirmation and any updates.
+  - **Label**: Email Address
+  - **Type**: email
+  - **Required**: True
+  - **Hint**: For order confirmation
+- **Phone Number**: Enter your contact phone number for order confirmation and any future communications.
+  - **Label**: Phone Number
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: Contact phone
+- **Shipping Address**: Enter the address where the keychain will be shipped to.
+  - **Label**: Shipping Address
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: Street address
+- **City**: Enter the city for the shipping address.
+  - **Label**: City
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: null
+- **State or Province**: Enter the state or province for the shipping address.
+  - **Label**: State or Province
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: null
+- **ZIP or Postal Code**: Enter the ZIP or postal code for the shipping address.
+  - **Label**: ZIP or Postal Code
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: null
+- **Country**: Enter the country for the shipping address.
+  - **Label**: Country
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: null
+- **Anime Series**: Select the anime series for the keychain.
+  - **Label**: Anime Series
+  - **Type**: select_one
+  - **Required**: True
+  - **Hint**: Which anime series
+- **Character Name**: Enter the character name for the keychain.
+  - **Label**: Character Name
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: Which character
+- **Keychain Style**: Select the style of the keychain.
+  - **Label**: Keychain Style
+  - **Type**: select_one
+  - **Required**: True
+  - **Hint**: null
+- **Keychain Size**: Select the size of the keychain.
+  - **Label**: Keychain Size
+  - **Type**: select_one
+  - **Required**: True
+  - **Hint**: null
+- **Quantity**: Enter the number of keychains you want to order.
+  - **Label**: Quantity
+  - **Type**: number
+  - **Required**: True
+  - **Hint**: Number of keychains
+- **Price Per Keychain**: Enter the price per keychain.
+  - **Label**: Price Per Keychain
+  - **Type**: number
+  - **Required**: True
+  - **Hint**: In dollars
+- **Customization Options**: Select any customization options for the keychain.
+  - **Label**: Customization Options
+  - **Type**: select_multiple
+  - **Required**: False
+  - **Hint**: Select all that apply
+- **Customization Details**: Describe any additional customization details.
+  - **Label**: Customization Details
+  - **Type**: text
+  - **Required**: False
+  - **Hint**: Describe your customizations
+- **Shipping Method**: Select the shipping method.
+  - **Label**: Shipping Method
+  - **Type**: select_one
+  - **Required**: True
+  - **Hint**: null
+- **Shipping Cost**: This will be calculated automatically.
+  - **Label**: Shipping Cost
+  - **Type**: number
+  - **Required**: False
+  - **Hint**: Calculated at checkout
+- **Is This a Gift Order**: Indicate if the order is a gift.
+  - **Label**: Is This a Gift Order
+  - **Type**: select_one
+  - **Required**: False
+  - **Hint**: null
+- **Gift Message**: Provide a message for the gift recipient.
+  - **Label**: Gift Message
+  - **Type**: text
+  - **Required**: False
+  - **Hint**: Optional message to include
+- **Payment Method**: Select the payment method.
+  - **Label**: Payment Method
+  - **Type**: select_one
+  - **Required**: True
+  - **Hint**: null
+- **Card Type**: Select the type of card used for payment.
+  - **Label**: Card Type
+  - **Type**: select_one
+  - **Required**: False
+  - **Hint**: If paying by card
+- **Card Number**: Enter the card number for payment.
+  - **Label**: Card Number
+  - **Type**: text
+  - **Required**: False
+  - **Hint**: Enter card number
+- **Expiration Date**: Enter the expiration date for the card.
+  - **Label**: Expiration Date
+  - **Type**: text
+  - **Required**: False
+  - **Hint**: MM-YYYY
+- **Security Code**: Enter the security code for the card.
+  - **Label**: Security Code
+  - **Type**: text
+  - **Required**: False
+  - **Hint**: CVV on back of card
+- **Billing Address**: Enter the billing address if different from shipping.
+  - **Label**: Billing Address
+  - **Type**: text
+  - **Required**: False
+  - **Hint**: If different from shipping
+- **Promo Code**: Enter any promo codes you have.
+  - **Label**: Promo Code
+  - **Type**: text
+  - **Required**: False
+  - **Hint**: If you have one
+- **Order Total**: This will be calculated automatically.
+  - **Label**: Order Total
+  - **Type**: number
+  - **Required**: False
+  - **Hint**: Including tax and shipping
+- **I Accept the Terms and Conditions**: Confirm acceptance of terms and conditions.
+  - **Label**: I Accept the Terms and Conditions
+  - **Type**: select_one
+  - **Required**: True
+  - **Hint**: null
+- **I Understand the Refund Policy**: Confirm understanding of refund policy.
+  - **Label**: I Understand the Refund Policy
+  - **Type**: select_one
+  - **Required**: True
+  - **Hint**: Custom items are non-refundable
+- **Additional Comments or Special Requests**: Add any additional comments or special requests.
+  - **Label**: Additional Comments or Special Requests
+  - **Type**: text
+  - **Required**: False
+  - **Hint**: Optional
+- **Electronic Signature**: Type your full name for electronic signature.
+  - **Label**: Electronic Signature
+  - **Type**: text
+  - **Required**: True
+  - **Hint**: Type your full name
+- **Order Date**: This will be automatically calculated.
+  - **Label**: Order Date
+  - **Type**: date
+  - **Required**: True
+  - **Hint**: null

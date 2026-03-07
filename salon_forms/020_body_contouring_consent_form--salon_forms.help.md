@@ -1,0 +1,116 @@
+<thinking>
+This form is intended to obtain informed consent from patients prior to undergoing body contouring procedures. This form will help you understand the process and ensure that you have all necessary information before proceeding. Please answer all questions honestly and accurately to provide a complete picture of your situation. If you have any doubts or concerns, please discuss them with the healthcare provider before completing this form. 
+</thinking>
+
+# Body Contouring Consent Form - Help Guide
+## Purpose
+The Body Contouring Consent Form is a document that ensures you have a clear understanding of the body contouring procedure and its associated risks, benefits, and expectations. Completing this form will help you make an informed decision about whether to proceed with the procedure.
+
+## How To Complete This Form
+To complete this form, simply select the appropriate answers to each question based on your own experiences and understanding. If you're unsure about any question, please discuss it with your healthcare provider before proceeding.
+
+## Field-by-Field Explanation
+- **Patient Name** (`patient_name`, text, required): Enter your full name as it appears on your identification documents.
+- **Date of Birth** (`patient_date_of_birth`, date, required): Enter your date of birth in the format MM/DD/YYYY.
+- **Email Address** (`patient_email`, email, required): Enter your contact email address.
+- **Phone Number** (`patient_phone`, text, required): Enter your phone number.
+- **Type of Body Contouring Procedure** (`procedure_type`, select_one, required): Choose the type of body contouring procedure you are considering:
+  - Non-Invasive Contouring
+  - Surgical Contouring
+  - Laser Treatment
+  - Radiofrequency
+  - Ultrasound
+  - Cryotherapy
+  - Chemical Peels
+  - Other
+- **Specific Procedure Name** (`specific_procedure_name`, text, required): Describe the specific body contouring procedure you are considering.
+- **Areas to be Treated** (`treatment_areas`, select_multiple, required): Select all areas to be treated:
+  - Face
+  - Neck
+  - Chest
+  - Abdomen
+  - Flanks
+  - Back
+  - Arms
+  - Thighs
+  - Buttocks
+  - Legs
+  - Multiple Areas
+- **The procedure has been explained to me** (`procedure_explained`, select_one, required): Check if you have been fully explained the procedure:
+  - Yes, thoroughly
+  - Yes, adequately
+  - Partially
+  - False
+- **I understand the procedure and its steps** (`procedure_understanding`, select_one, required): Check if you understand the procedure:
+  - True
+  - Mostly
+  - Somewhat
+  - False
+- **Expected results have been discussed** (`expected_results`, select_one, required): Check if expected results have been discussed:
+  - True
+  - Partially
+  - False
+- **I have realistic expectations about results** (`results_expectations`, select_one, required): Check if you have realistic expectations about results:
+  - True
+  - Mostly
+  - Somewhat
+  - False
+- **Recovery time has been explained** (`recovery_time`, select_one, required): Check if recovery time has been explained:
+  - True
+  - False
+  - Partially
+- **I understand the recovery process** (`recovery_understanding`, select_one, required): Check if you understand the recovery process:
+  - True
+  - Mostly
+  - Somewhat
+  - False
+- **Risks and complications have been discussed** (`risks_discussed`, select_one, required): Check if risks and complications have been discussed:
+  - Yes, thoroughly
+  - Yes, briefly
+  - False
+- **I understand the risks and complications** (`risks_understanding`, select_one, required): Check if you understand the risks and complications:
+  - True
+  - Mostly
+  - Somewhat
+  - False
+- **Common side effects explained** (`common_side_effects`, select_one, required): Check if common side effects have been explained:
+  - True
+  - Partially
+  - False
+- **Downtime requirements have been explained** (`downtime_requirements`, select_one, required): Check if downtime requirements have been explained:
+  - True
+  - False
+  - Partially
+- **I have disclosed my complete medical history** (`medical_history_disclosure`, select_one, required): Check if you have disclosed your complete medical history:
+  - True
+  - False
+  - Mostly
+- **I have disclosed all current medications** (`medications_disclosed`, select_one, required): Check if you have disclosed all current medications:
+  - True
+  - False
+  - Partially
+- **I have disclosed all known allergies** (`allergies_disclosed`, select_one, required): Check if you have disclosed all known allergies:
+  - True
+  - False
+  - Have No Known Allergies
+- **I am not pregnant or nursing** (`pregnancy_status`, select_one, required): Check if you are not pregnant or nursing:
+  - Correct - Not Pregnant
+  - Incorrect - I am Pregnant
+  - Incorrect - I am Nursing
+  - Not Applicable
+- **Alternative treatment options have been discussed** (`alternative_options_discussed`, select_one, required): Check if alternative treatment options have been discussed:
+  - True
+  - False
+  - Not Applicable
+- **All my questions have been answered** (`questions_answered`, select_one, required): Check if all your questions have been answered:
+  - True
+  - False
+  - Have No Further Questions
+- **I give informed consent for this procedure** (`informed_consent`, select_one, required): Check if you give your informed consent:
+  - I Consent
+  - I Do Not Consent
+
+## Tips
+- Answer all questions honestly and accurately to provide a complete picture of your situation.
+- If you have any doubts or concerns, please discuss them with your healthcare provider before proceeding.
+- This form is intended to be a starting point for your understanding, not a substitute for a thorough consultation with your healthcare provider.

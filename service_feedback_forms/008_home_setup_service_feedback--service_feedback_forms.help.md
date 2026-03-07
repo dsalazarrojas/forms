@@ -1,0 +1,81 @@
+<thinking>
+To create a comprehensive user-facing help guide for the "Home Setup Service Feedback" form, we need to consider the purpose of the form and what information it aims to collect from the user. Given the form's structure and fields, it appears to be a feedback collection form for a home setup service, likely to gauge user satisfaction and experiences with the service.
+
+The form likely serves the following purposes:
+
+*   To collect feedback on the home setup service provided, allowing the service provider to identify areas of improvement.
+*   To provide a contact point for users to share their experiences and opinions about the service.
+*   To collect demographic and contact information for follow-up or future communication.
+*   To gather feedback on the rating of the service.
+
+To determine if this form is being filled out by a new user or if it's a repeated submission, we can use techniques such as:
+*   IP blocking or cookie-based tracking.
+*   User agent detection and device fingerprinting.
+*   Unique identifiers such as tokenized session IDs.
+
+We should also ensure that the form isn't filled out multiple times by the same user, which can be achieved through:
+*   Using a combination of techniques mentioned above.
+*   Session management through cookies.
+
+Before proceeding, we need to make sure the fields and their labels are clear and intuitive for the user.
+
+</thinking>
+
+# Home Setup Service Feedback - Help Guide
+
+## Purpose
+
+This guide will walk you through the purpose and usage of the Home Setup Service Feedback form.
+
+## How To Complete This Form
+
+1.  To complete this form, please provide feedback on your recent experience with the home setup service.
+2.  Fill out all required fields (if any) and any other fields as prompted.
+3.  Once you've filled out all necessary fields, submit the form.
+
+## Field-by-Field Explanation
+
+### Home Setup Service Feedback
+
+*   **Home Setup Service Feedback** (`id: 1`, `type: text`, required: false`):
+    This is the main feedback field, where you can describe your experience with the service.
+
+### Feedback
+
+*   **Feedback** (`id: 2`, `type: text`, required: false`):
+    In this field, you can elaborate on your experience with the service, providing details about what you liked or didn't like.
+
+### Rating
+
+*   **Rating** (`id: 3`, `type: number`, required: false`):
+    This field allows you to rate your experience with the service. Please select a number that best represents your satisfaction.
+
+### Category
+
+*   **Category** (`id: 4`, `type: select_one`, required: false`):
+    Please choose a category that best describes your experience with the service.
+
+### Contact Info
+
+*   **Contact Info** (`id: 5`, `type: email`, required: false`):
+    This is your contact information, where you can provide your email address for future communication or follow-up.
+
+### Contact Number
+
+*   **Contact Number** (`id: 6`, `type: text`, required: false`):
+    This is your contact number for future communication or follow-up.
+
+### Date
+
+*   **Date** (`id: 7`, `type: date`, required: false`):
+    This field is to record the date you experienced the service.
+
+### Time
+
+*   **Time** (`id: 8`, `type: time`, required: false`):
+    This field is to record the time you experienced the service.
+
+### Note
+
+*   **Note** (`id: 9`, `type: note`, required: false`):
+    In this field, you can provide any additional comments or information about your experience.

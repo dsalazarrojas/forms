@@ -1,0 +1,40 @@
+<thinking>
+This form is designed for requesting sponsorship for presentations. The purpose of this form is to collect information from speakers for sponsorship opportunities. The form will be reviewed internally to ensure that it is filled out correctly and to prevent duplication of sponsorship requests.
+The speaker will be asked to provide information such as session id, name, slot start time, duration, sponsorship request information, start time, end time, and session type. This form will help the speaker to request sponsorship for their presentation slot effectively.
+Before proceeding, make sure to double-check that you are not duplicating a sponsorship request. If you have already submitted a sponsorship request, do not submit another.
+</thinking>
+
+# Sponsor Presentation Slot Request Form - Help Guide
+## Purpose
+The sponsor_presentation_slot_request_form is used to request sponsorship for a presentation slot. This form helps the speaker to submit their sponsorship request in a structured and organized way.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1. Fill out all the fields marked as required.
+2. Make sure to select the correct options for each field.
+3. Review your form before submission to ensure that everything is correct.
+
+## Field-by-Field Explanation
+
+* **Session ID** (text, optional):
+    This field should be filled with the session ID where you are presenting.
+* **Speaker Name** (text, optional):
+    This field should be filled with your name as a speaker.
+* **Slot Start Time** (date, optional):
+    This field should be filled with the start time of your presentation slot.
+* **Duration** (number, optional):
+    This field should be filled with the duration of your presentation.
+* **Sponsor Request Info** (select multiple, optional):
+    Choose the sponsors you are requesting information from.
+* **Start Time** (time, optional):
+    This field should be filled with the start time of your presentation.
+* **End Time** (time, optional):
+    This field should be filled with the end time of your presentation.
+* **Session Type** (select one, optional):
+    Choose the type of session you are presenting.
+
+## Tips
+- Please make sure to fill out all the required fields to ensure that your submission is processed correctly.
+- Review your form before submission to ensure that all fields are correct.
+- If you have already submitted a sponsorship request, do not submit another.

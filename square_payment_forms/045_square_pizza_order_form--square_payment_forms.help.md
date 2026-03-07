@@ -1,0 +1,47 @@
+<thinking>
+This help guide is for the Square Pizza Order Form, which is used to collect information for a pizza order. The form is used for internal purposes only and is not intended for public use. This form is part of the "square_payment_forms" category.
+
+This form has 11 fields and is divided into two main sections: personal details and order details. The form can be completed in the following steps:
+
+1. Fill in your address.
+2. Enter your name.
+3. Provide your email address.
+4. Enter your phone number.
+5. Select the date of your order.
+6. Choose the time of your order.
+7. Add any notes about your order.
+8. Select one option from the available options.
+9. Select multiple options from the available options.
+10. Enter a decimal value for any additional information.
+11. Enter an integer value for any additional information.
+
+Each field has a unique label and a corresponding explanation. The fields are not mandatory, unless otherwise specified. The form is designed to be user-friendly and easy to complete.
+
+</thinking>
+
+# Square Pizza Order Form - Help Guide
+## Purpose
+The Square Pizza Order Form is used to collect personal and order details for a pizza order. The form is used for internal purposes only and is not intended for public use.
+
+## How To Complete This Form
+1. Fill out the form with the required information.
+2. Complete the form in a step-by-step manner.
+
+## Field-by-Field Explanation
+
+* **Address** (`address`, text, required/optional): This is your address, where the order will be delivered.
+* **Name** (`name`, text, required/optional): Please enter your name as it appears on your identification card.
+* **Email** (`email`, email, required/optional): Enter your email address for communication purposes.
+* **Phone** (`phone`, text, required/optional): Enter your phone number for communication purposes.
+* **Date** (`date`, date, required/optional): Select the date of your order.
+* **Time** (`time`, time, required/optional): Select the time of your order.
+* **Note** (`note`, note, required/optional): Add any additional comments or notes about your order.
+* **Select One** (`select_one`, select_one, required): Choose one option from the available options.
+* **Select Multiple** (`select_multiple`, select_multiple, required): Choose multiple options from the available options.
+* **Decimal Value** (`decimal`, number, required/optional): Enter a decimal value if required for additional information.
+* **Integer Value** (`integer`, number, required/optional): Enter an integer value if required for additional information.
+
+## Tips
+- Make sure to fill out all required fields.
+- Double-check your information before submitting the form.
+- If you have any questions or issues, contact your local pizza shop.

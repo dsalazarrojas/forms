@@ -1,0 +1,30 @@
+<thinking>
+The purpose of this form is to enable students to enroll in extra lessons, allowing them to access additional educational resources. This form is designed to collect relevant information about the student, including their name, email, phone number, the topic of the extra lesson, and the date they would like to take the extra lesson.
+
+Before proceeding, ensure you have the necessary information and permissions to enroll in extra lessons. This form should not be used for administrative tasks or other purposes. If you're unsure about the form's purpose or need to make changes, please consult with the appropriate authorities to avoid duplication of effort.
+</thinking>
+
+# extra_lessons_enrollment_form - Help Guide
+## Purpose
+The extra lessons enrollment form is designed for students to access additional educational resources. It collects relevant student information and preferences for extra lessons.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1. Enter your name as per your identity.
+2. Provide your email address for contact.
+3. Enter your phone number (if applicable) for communication.
+4. Specify the topic of the extra lesson you're interested in.
+5. Choose a date for the extra lesson.
+
+## Field-by-Field Explanation
+- **Student Name** (text, required): Enter your name as per your identity.
+- **Student Email** (email, required): Enter your valid email address for contact purposes.
+- **Student Phone** (text, optional): Enter your phone number for communication (if applicable).
+- **Lesson Topic** (text, required): Specify the topic of the extra lesson you're interested in.
+- **Extra Lessons Date** (date, required): Choose a date for the extra lesson.
+
+## Tips
+- Ensure you have the necessary permissions and information to enroll in extra lessons.
+- Double-check your input for accuracy before submission.
+- If you need help or have questions, contact the relevant authorities.
