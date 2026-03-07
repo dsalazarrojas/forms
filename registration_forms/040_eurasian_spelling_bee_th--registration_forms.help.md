@@ -1,0 +1,26 @@
+<thinking>Form purpose: This form is for individuals to provide registration information for the Eurasian Spelling Bee TH. Form fields include First Name, Last Name, Eurasian ID, and Date of Birth. This form will be used for registration purposes only. No data is being collected for marketing or spamming. This form is not affiliated with or endorsed by any form creation platform. It is an AI-generated form released under CC BY 4.0 license. You are free to use, modify, or even sell this form, just give credit.
+
+</thinking>
+
+# eurasian spelling bee th - Help Guide
+## Purpose
+The "Eurasian Spelling Bee TH" form is designed for individuals to register their information for the Eurasian Spelling Bee event. This form collects basic personal details that will be used for registration purposes only.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1. Enter your First Name in the "First Name" field.
+2. Enter your Last Name in the "Last Name" field.
+3. Enter your Eurasian ID in the "Eurasian ID" field.
+4. Enter your Date of Birth in the "Date of Birth" field using the date format (e.g., YYYY-MM-DD).
+
+## Field-by-Field Explanation
+* **First Name** (`First Name`, text, required/optional): Enter your given name.
+* **Last Name** (`Last Name`, text, required/optional): Enter your surname.
+* **Eurasian ID** (`Eurasian ID`, text, required/optional): Enter your Eurasian identification number or any unique identifier.
+* **Date of Birth** (`Date of Birth`, date, required/optional): Enter your birth date in the YYYY-MM-DD format (e.g., 1990-01-01).
+
+## Tips
+* Make sure to enter accurate information to avoid any registration issues.
+* If you're experiencing any issues, contact the event organizers directly.
+* You can modify or sell this form under the CC BY 4.0 license.

@@ -1,0 +1,65 @@
+<thinking>
+This form is designed to collect information from individuals or organizations seeking to register for a renewable process engineering program or service. The form is intended to gather personal, contact, course, program, and payment details from registrants. The form is used to streamline the registration process, ensuring that all necessary information is collected in a single, user-friendly interface.
+
+Before filling out the form, please note that it is not necessary to complete all fields, as some are optional. However, providing accurate and complete information will help ensure a smooth registration process.
+
+To complete this form, follow the steps below:
+
+## Purpose
+The Renewable Process Engineering Registration Form is designed to collect registration information from individuals or organizations seeking to participate in a renewable process engineering program or service.
+
+## How To Complete This Form
+
+1. **Personal Details** (personal_details, text, required)
+	* This field is intended to collect your basic personal information, such as your name and address.
+2. **Contact Information** (contact_information, text, required)
+	* Provide your contact information, including your email address and phone number, to ensure we can reach you regarding your registration status.
+3. **Course Details** (course_details, text, required)
+	* If you are registering for a course, please provide a brief description of the course you are interested in.
+4. **Program Details** (program_details, text, required)
+	* Describe the program you are interested in registering for, including any relevant details such as dates or locations.
+5. **Payment Details** (payment_details, text, required)
+	* If applicable, provide your payment information or any relevant payment details.
+
+## Tips
+
+* Please be accurate and complete in your responses to ensure a smooth registration process.
+* If you have any questions or concerns, do not hesitate to contact us.
+* We appreciate your patience and cooperation in filling out this form.
+
+</thinking>
+
+# Renewable Process Engineering Registration Form - Help Guide
+## Purpose
+The Renewable Process Engineering Registration Form is designed to collect registration information from individuals or organizations seeking to participate in a renewable process engineering program or service.
+## How To Complete This Form
+
+1. **Personal Details**
+	* This field is intended to collect your basic personal information, such as your name and address.
+2. **Contact Information**
+	* Provide your contact information, including your email address and phone number, to ensure we can reach you regarding your registration status.
+3. **Course Details**
+	* If you are registering for a course, please provide a brief description of the course you are interested in.
+4. **Program Details**
+	* Describe the program you are interested in registering for, including any relevant details such as dates or locations.
+5. **Payment Details**
+	* If applicable, provide your payment information or any relevant payment details.
+
+## Field-by-Field Explanation
+
+* **Personal Details**
+	* This field is required and is intended to collect your basic personal information, such as your name and address.
+* **Contact Information**
+	* This field is required and is intended to collect your contact information, including your email address and phone number.
+* **Course Details**
+	* This field is intended to collect a brief description of the course you are interested in.
+* **Program Details**
+	* This field is intended to collect a description of the program you are interested in registering for.
+* **Payment Details**
+	* This field is intended to collect your payment information or any relevant payment details.
+
+## Tips
+
+* Please be accurate and complete in your responses to ensure a smooth registration process.
+* If you have any questions or concerns, do not hesitate to contact us.
+* We appreciate your patience and cooperation in filling out this form.
