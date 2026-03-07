@@ -1,0 +1,23 @@
+<thinking>
+To create this form, I need to understand the purpose and requirements of the form. From the provided YAML, I see that the form is called "Fast Line Service Request". It has three pages: First Page, Second Page, and Third Page. The Second Page has a select_one type field with options "Yes" and "No", and the Third Page has a text field. This suggests that the form might be used to request a specific service or support, and the user needs to select whether they want it or not, and then provide some additional information if needed.
+
+To confirm, I will create a help guide based on this understanding, making sure to not invent any unsupported business logic and focusing on explaining each field in a clear and concise way.
+
+</thinking>
+
+# Fast Line Service Request - Help Guide
+## Purpose
+This form is used to request a service or support from the team. Please fill it out to submit your request.
+
+## How To Complete This Form
+To complete this form, follow these steps:
+
+1. Go through each page, and make sure you are on the correct page.
+2. For the Second Page, select "Yes" if you need the service or support, and "No" otherwise.
+3. If you selected "Yes" on the Second Page, go to the Third Page and provide any additional information needed.
+4. Review your answers before submitting the form.
+
+## Field-by-Field Explanation
+* **First Page**: This page is just an introduction page.
+* **Second Page** (`select_one`, required/optional): Select "Yes" if you need the service or support, and "No" otherwise.
+* **Third Page** (`text`, required/optional): Provide any additional information needed if you selected "Yes" on the Second Page.

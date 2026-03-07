@@ -1,0 +1,50 @@
+<thinking>
+Is this form used for scheduling preventive maintenance tasks for vehicles or equipment at a station location? The fields seem to be a mix of dates, times, service types, and other relevant information that would be required for such a task. I'm assuming this form is used by maintenance personnel to plan and coordinate maintenance schedules. I'll review the fields carefully to make sure I'm not duplicating any information.
+
+- `date` fields seem to be used for scheduling dates. There are multiple instances of `date` fields, but they might be used to collect different aspects of the maintenance schedule (e.g., start and end dates). 
+- `station_location` and `station_location2` fields are likely used to store information about the station where the maintenance is being performed. 
+- `vehicle_info` and `vehicle_info2` fields might be used to collect specific details about the vehicle or equipment being maintained. 
+- `service_requirements` and `service_requirements2` fields seem to be used to collect specific requirements or notes about the maintenance task. 
+- `images_with_signature` and `images_with_signature2` fields might be used to upload images or photos related to the maintenance task.
+- `service_type` and `service_type2` fields are used to select the type of service or maintenance being performed.
+- `schedule_time` and `schedule_time2` fields are likely used to store the time scheduled for the maintenance task.
+- `notes` and `notes2` fields are used to collect any additional notes or comments about the task.
+- `email` and `email2` fields might be used to store contact information for personnel or contacts related to the maintenance task.
+- `phone` and `phone2` fields could be used to store phone numbers for contact information.
+- `signature1` and `signature2` fields are likely used for signing off on the maintenance task.
+- `confirm` field is used to confirm that the form has been filled out correctly.
+
+It seems like the form is well-structured and doesn't have any duplicate information. I'll proceed with creating the help guide now.</thinking>
+
+# Preventive Maintenance Scheduling Form - Help Guide
+## Purpose
+The Preventive Maintenance Scheduling Form is used to schedule and plan preventive maintenance tasks for vehicles or equipment at a station location. This form is filled out by maintenance personnel to collect all necessary information for coordinating and performing maintenance tasks efficiently.
+
+## How To Complete This Form
+
+1. Fill out the form in the following order:
+	* Date fields: `Schedule Date`, `Schedule Date2`, and `Schedule Time` fields are used to schedule the maintenance task. Please select the start and end dates, and choose the scheduled time for the task.
+	* Station Location: Select the station location where the maintenance task will be performed from the `Station Location` and `Station Location2` fields.
+	* Vehicle Information: Enter specific details about the vehicle or equipment being maintained in the `Vehicle Information` and `Vehicle Info2` fields.
+	* Service Requirements: Enter the specific service or maintenance requirements in the `Service Requirements` and `Service Requirements2` fields.
+	* Images With Signature: You can upload images or photos related to the maintenance task in the `Images With Signature` and `Images With Signature2` fields.
+	* Service Type: Select the type of service or maintenance being performed in the `Service Type` and `Service Type2` fields.
+	* Schedule Time: Enter the scheduled time for the maintenance task in the `Schedule Time` field.
+	* Notes: Add any additional notes or comments about the task in the `Notes` and `Notes2` fields.
+	* Contact Information: Enter contact information in the `Email` and `Email2` fields, and phone numbers in the `Phone` and `Phone2` fields.
+	* Sign Off: Add your signature to confirm that the form has been filled out correctly in the `Signature 1` and `Signature 2` fields.
+	* Confirm: Finally, type your confirmation in the `Confirm` field to verify that the form has been filled out correctly.
+
+## Field-by-Field Explanation
+
+* **Date** (`Schedule Date`, `Schedule Date2`, `Schedule Time`): These fields are used to schedule the maintenance task. Select the start and end dates, and choose the scheduled time for the task.
+* **Station Location** (`Station Location`, `Station Location2`): These fields are used to store information about the station where the maintenance task will be performed.
+* **Vehicle Information** (`Vehicle Information`, `Vehicle Info2`): These fields are used to collect specific details about the vehicle or equipment being maintained.
+* **Service Requirements** (`Service Requirements`, `Service Requirements2`): These fields are used to collect specific requirements or notes about the maintenance task.
+* **Images With Signature** (`Images With Signature`, `Images With Signature2`): These fields are used to upload images or photos related to the maintenance task.
+* **Service Type** (`Service Type`, `Service Type2`): These fields are used to select the type of service or maintenance being performed.
+* **Schedule Time** (`Schedule Time`): This field is used to store the time scheduled for the maintenance task.
+* **Notes** (`Notes`, `Notes2`): These fields are used to collect any additional notes or comments about the task.
+* **Contact Information** (`Email`, `Email2`, `Phone`, `Phone2`): These fields are used to store contact information for personnel or contacts related to the maintenance task.
+* **Signature** (`Signature 1`, `Signature 2`): These fields are used for signing off on the maintenance task.
+* **Confirm** (`Confirm`): This field is used to confirm that the form has been filled out correctly.

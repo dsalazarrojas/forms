@@ -1,0 +1,212 @@
+<thinking>...this form is designed to collect feedback from users about their experience with Apple AirPods. The form is meant to elicit responses about the user's demographic information, device ownership, and usage habits. This data will be used to improve the design and functionality of future AirPods products. Please ensure that you fill out the form accurately and honestly, and do not provide any sensitive or personal information that could identify you or other individuals. If you have already completed this survey, you will not be able to submit the same responses. Thank you for taking the time to help us improve AirPods!
+
+</thinking>
+
+# Apple Airpods Survey - Help Guide
+## Purpose
+This guide is designed to walk you through the AirPods survey, a series of questions that will help us understand your experience with Apple AirPods.
+
+## How To Complete This Form
+1. Read through each question carefully.
+2. Select your answers based on your honest responses.
+3. For select multiple questions, choose all that apply.
+
+## Field-by-Field Explanation
+- **Respondent ID** (Respondent ID, Text, Optional): This is an optional identifier for internal purposes. If you don't want to provide your name, you can leave this field blank.
+- **Survey Date** (Survey Date, Date, Required): Please enter the date you completed this survey.
+- **Age Group** (Age Group, Select One, Required): Select the age group that best matches your age.
+  - Under 18
+  - 18 to 24
+  - 25 to 34
+  - 35 to 44
+  - 45 to 54
+  - 55 to 64
+  - 65 or older
+- **Gender** (Gender, Select One, Optional): Select your gender identity.
+  - Male
+  - Female
+  - Non-binary
+  - Prefer to self-describe
+  - Prefer not to say
+- **Occupation** (Occupation, Select One, Optional): Select your current occupation.
+  - Student
+  - Employed full-time
+  - Employed part-time
+  - Self-employed
+  - Unemployed
+  - Retired
+  - Other
+- **Do you own Apple AirPods?** (Do you own Apple AirPods, Select One, Required): Select whether you currently own Apple AirPods.
+  - Yes, current owner
+  - Owned in the past
+  - No, never owned
+- **Which AirPods model do you own?** (Which AirPods model do you own, Select Multiple, Required): Select all models of AirPods you own.
+  - AirPods 1st generation
+  - AirPods 2nd generation
+  - AirPods 3rd generation
+  - AirPods Pro 1st generation
+  - AirPods Pro 2nd generation
+  - AirPods Max
+  - None
+- **When did you purchase your AirPods?** (When did you purchase your AirPods, Select One, Optional): Select the approximate date you purchased your AirPods.
+  - Within last 6 months
+  - 6 months to 1 year ago
+  - 1 to 2 years ago
+  - 2 to 3 years ago
+  - More than 3 years ago
+- **Why did you purchase AirPods?** (Why did you purchase AirPods, Select One, Required): Select the main reason you purchased AirPods.
+  - Sound quality
+  - Convenience
+  - Apple ecosystem
+  - Design
+  - Brand loyalty
+  - Gift
+  - Replacement
+  - Recommendation
+  - Other
+- **How often do you use your AirPods?** (How often do you use your AirPods, Select One, Required): Select how often you use your AirPods.
+  - Multiple times daily
+  - Once daily
+  - Several times weekly
+  - Once weekly
+  - Rarely
+  - No longer use
+- **What do you primarily use AirPods for?** (What do you primarily use AirPods for, Select Multiple, Required): Select all that you use AirPods for.
+  - Music listening
+  - Phone calls
+  - Video calls
+  - Podcasts
+  - Audiobooks
+  - Gaming
+  - Working out
+  - Commuting
+  - Other
+- **Sound Quality Rating** (Sound Quality Rating, Select One, Required): Rate the sound quality of your AirPods.
+  - Excellent
+  - Good
+  - Average
+  - Poor
+  - Very poor
+- **Comfort Rating** (Comfort Rating, Select One, Required): Rate how comfortable your AirPods are.
+  - Very comfortable
+  - Comfortable
+  - Neutral
+  - Uncomfortable
+  - Very uncomfortable
+- **Security** (Security, Select One, Required): Select how secure you feel with the fit.
+  - Very secure
+  - Secure
+  - Somewhat secure
+  - Loose
+  - Fall out easily
+- **Battery Life Rating** (Battery Life Rating, Select One, Required): Rate the battery performance of your AirPods.
+  - Excellent
+  - Good
+  - Average
+  - Poor
+  - Very poor
+- **Noise Cancellation** (Noise Cancellation, Select One, Required): Select how effective you find noise cancellation.
+  - Very effective
+  - Effective
+  - Somewhat effective
+  - Not effective
+  - Not applicable
+- **Transparency Mode** (Transparency Mode, Select One, Required): Select how useful you find transparency mode.
+  - Very useful
+  - Useful
+  - Somewhat useful
+  - Not useful
+  - Not applicable
+- **Call Quality Rating** (Call Quality Rating, Select One, Required): Rate the microphone performance for phone calls.
+  - Excellent
+  - Good
+  - Average
+  - Poor
+  - Very poor
+- **Connectivity Rating** (Connectivity Rating, Select One, Required): Rate the Bluetooth connection.
+  - Excellent
+  - Good
+  - Average
+  - Poor
+  - Very poor
+- **Ease of Use** (Ease of Use, Select One, Required): Select how easy you find using AirPods.
+  - Very easy
+  - Easy
+  - Neutral
+  - Difficult
+  - Very difficult
+- **Build Quality Rating** (Build Quality Rating, Select One, Required): Rate the durability of your AirPods.
+  - Excellent
+  - Good
+  - Average
+  - Poor
+  - Very poor
+- **Charging Case Rating** (Charging Case Rating, Select One, Required): Rate the quality of the charging case.
+  - Excellent
+  - Good
+  - Average
+  - Poor
+  - Very poor
+- **Value for Money** (Value for Money, Select One, Required): Select how you feel about the value of AirPods.
+  - Excellent value
+  - Good value
+  - Fair value
+  - Poor value
+  - Very poor value
+- **How do AirPods compare to other earbuds?** (How do AirPods compare to other earbuds, Select One, Required): Select how you feel about the comparison to other earbuds.
+  - Much better
+  - Better
+  - About the same
+  - Worse
+  - Much worse
+  - Have not used others
+- **Favorite Features** (Favorite Features, Select Multiple, Required): Select all features you like about AirPods.
+  - Seamless pairing
+  - Sound quality
+  - Comfort
+  - Battery life
+  - Noise cancellation
+  - Transparency mode
+  - Siri integration
+  - Find My feature
+  - Wireless charging
+  - None
+- **Least Favorite Features** (Least Favorite Features, Select Multiple, Required): Select what you would like to see improved in AirPods.
+  - Price
+  - Battery life
+  - Fit
+  - Sound quality
+  - Case size
+  - Touch controls
+  - Durability
+  - Nothing
+  - Other
+- **Issues Experienced** (Issues Experienced, Select Multiple, Required): Select any issues you experienced with AirPods.
+  - None
+  - Connectivity issues
+  - Battery degradation
+  - Fit problems
+  - Sound quality issues
+  - Case damage
+  - Charging issues
+  - One earbud stopped working
+  - Other
+- **Would you Recommend AirPods?** (Would you Recommend AirPods, Select One, Required): Select if you would recommend AirPods to friends or family.
+  - Definitely yes
+  - Probably yes
+  - Undecided
+  - Probably no
+  - Definitely no
+- **Would you Buy AirPods Again?** (Would you Buy AirPods Again, Select One, Required): Select if you would buy AirPods again.
+  - Definitely yes
+  - Probably yes
+  - Undecided
+  - Probably no
+  - Definitely no
+- **Next Purchase Intent** (Next Purchase Intent, Select One, Required): Select if you plan to upgrade to AirPods in the future.
+  - Yes, definitely
+  - Probably yes
+  - Undecided
+  - Probably no
+  - Definitely no
+- **Additional Comments** (Additional Comments, Text, Optional): If you have any additional comments or thoughts, please enter them here.
