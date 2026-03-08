@@ -1,13 +1,3 @@
-<thinking>
-The "Health Screening Check Out Form" is used to gather information about a patient's medical history, current health issues, and discharge information for follow-up care. This form is designed to be completed by a medical professional or authorized staff member. The form consists of various fields that ask for patient information, medical history, and additional details about the patient's health and treatment.
-
-Before proceeding, check if this form has been created or updated recently, to avoid duplication of work. If the form has been modified, consider reviewing the updated version.
-
-This form is intended for use by healthcare providers to collect information for follow-up care. The collected data will be used to ensure accurate and safe discharge procedures.
-
-Please refer to the form instructions carefully and answer all questions truthfully to provide comprehensive patient information.
-</thinking>
-
 # Health Screening Check Out Form - Help Guide
 ## Purpose
 The Health Screening Check Out Form is a medical form used to gather comprehensive information about a patient's health status, medical history, and discharge instructions for follow-up care.

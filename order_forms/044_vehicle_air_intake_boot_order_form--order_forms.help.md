@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from customers to place a vehicle order. The form requires customers to provide details about their vehicle, including make, model, and year, and also asks for contact information and payment details. The form is designed to be completed by customers who are looking to order a new vehicle.
-
-To avoid duplication of effort and ensure accurate order intake, the form is designed to be completed in a specific order. This guide will walk you through each section of the form and help you understand what information is required for a successful vehicle order.
-</thinking>
-
 # vehicle_air_intake_boot_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers to place a vehicle order. It is designed to be completed in a specific order to ensure accurate order intake and avoid duplication of effort.

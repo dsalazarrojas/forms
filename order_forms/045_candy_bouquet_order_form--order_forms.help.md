@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I want to ensure I understand the form's purpose and relevance. It seems like this form is for customers to order a custom candy bouquet, choosing options such as size, candy types, color theme, container, occasion, and more. The form also collects customer and recipient details, delivery information, and payment methods. It appears to be a multi-page form with various sections for different aspects of the order. Is this correct?</thinking>
-
 # Candy Bouquet Order Form - Help Guide
 ## Purpose
 This form is designed for customers to order a custom candy bouquet with various customization options, including size, candy selection, color theme, container type, occasion, and more. Please follow these steps to complete the form accurately.

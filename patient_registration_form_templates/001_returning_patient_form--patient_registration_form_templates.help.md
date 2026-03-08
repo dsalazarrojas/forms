@@ -1,10 +1,6 @@
 # Returning Patient Form - Help Guide
 
 ## Purpose
-<thinking>
-This form is used for returning patients to provide updated information and history. It helps us to keep track of patient's medical history, allergies, medications, and other relevant details. Please ensure that you only submit this form if you are a returning patient. If you are a new patient, please use the new patient form.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, follow these steps:
 

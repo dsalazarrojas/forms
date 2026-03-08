@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the team recognition process by allowing users to provide information about their team and the order details. It is intended to be completed by team leaders or administrators. Please ensure that you are not ordering a team recognition plaque for a team that has already been recognized in the past to avoid duplication of efforts. Please review the form carefully and provide accurate information to ensure the order is processed correctly.
-</thinking>
-
 # Team Recognition Plaque Order Form - Help Guide
 ## Purpose
 The Team Recognition Plaque Order Form is designed to help team leaders order recognition plaques for their teams. This form captures essential information about the team and the order details.

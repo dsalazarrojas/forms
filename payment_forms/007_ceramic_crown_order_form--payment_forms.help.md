@@ -1,17 +1,3 @@
-<thinking>
-
-The Ceramic Crown Order Form is used to submit an order for ceramic dental crowns. This form requires relevant information from the dentist and patient to fulfill the order accurately and efficiently. This form should only be completed by authorized personnel from a dental practice or office.
-
-To determine if this form is relevant, consider the following:
-
-* Are you a dentist or authorized representative from a dental practice or office?
-* Are you submitting an order for ceramic dental crowns?
-* Do you have all necessary information and approvals to complete this form?
-
-If you answered "yes" to the above questions, then this form is relevant and should be completed carefully. If you're unsure, please contact your practice or office manager for guidance.
-
-</thinking>
-
 # Ceramic Crown Order Form - Help Guide
 ## Purpose
 The Ceramic Crown Order Form is used to submit an order for ceramic dental crowns, ensuring accurate and efficient fulfillment of the order.

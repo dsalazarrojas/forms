@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for sports apparel. It's a straightforward form with several sections to collect customer, shipping, order, payment, and review information. The form is divided into 8 fields, each with a specific label and purpose. The form requires customer information, shipping information, order details, payment information, and review information. The review section is optional but contains several fields to gather feedback and ratings. This form is meant for internal use and doesn't require any external affiliations or dependencies. The form is released under a Creative Commons license, allowing users to adapt and modify it as needed.
-</thinking>
-
 # Sports Apparel Order Form - Help Guide
 ## Purpose
 This form is used for customers to place orders for sports apparel. It collects necessary information to fulfill orders and gather feedback for improvement.

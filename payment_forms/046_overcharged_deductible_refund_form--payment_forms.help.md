@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by customers who have been overcharged by an insurance provider and are seeking a refund. It captures information necessary for processing their refund request, including the date of the claim, claim number, amount overcharged, amount refund, customer contact information, insurance provider, reason for refund, and supporting documents. It is crucial to complete this form accurately and thoroughly, ensuring that all relevant details are provided. Duplicate or incomplete submissions may lead to delays in processing the refund.
-</thinking>
-
 # Overcharged Deductible Refund Form - Help Guide
 
 ## Purpose

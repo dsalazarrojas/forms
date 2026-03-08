@@ -1,7 +1,3 @@
-<thinking>
-The Synagogue Donation Form is designed to allow individuals to contribute financially to the synagogue's activities and events. This form should be used for new, one-time, or recurring donations. The form is intended for end-users who want to support the synagogue's programs, events, and services. The purpose of this form is to gather information about the donation, including the type of donation, amount, and payment frequency. The form is not intended for existing members to update their recurring donation information.
-</thinking>
-
 # Synagogue Donation Form - Help Guide
 ## Purpose
 The Synagogue Donation Form is a tool designed to help individuals contribute financially to the synagogue's activities and events.

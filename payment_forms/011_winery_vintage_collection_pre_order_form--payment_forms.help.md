@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers interested in pre-ordering a winery's vintage collection. The purpose of the form is to gather essential details from customers to fulfill their orders efficiently and ensure a smooth pre-ordering experience. The form fields are intentionally designed to be simple and user-friendly, reducing the likelihood of duplication and ensuring that customers can easily provide the necessary information. This guide will walk you through each field to help you complete the form accurately and successfully.
-
-</thinking>
-
 # winery_vintage_collection_pre_order_form - Help Guide
 ## Purpose
 The winery's vintage collection pre-order form is designed to collect order and customer information for customers interested in pre-ordering a selection of wines. This form helps the winery gather essential details to fulfill orders efficiently and effectively.

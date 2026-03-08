@@ -1,5 +1,3 @@
-<thinking>...This form is designed to allow users to place an order for a placemat. The form consists of several fields that collect relevant information for the order, including first name, last name, email address, phone number, placemat type, quantity, color, size, any additional message, and the date of the order. This form is intended to be completed by customers or users who want to place an order for a custom-made placemat. It is not intended for internal use within the company, but rather for external customers. To prevent duplicate orders, the form may not allow multiple submissions with the same email address or phone number. Please ensure that the form is completed accurately and thoroughly to ensure that the order is processed correctly...</thinking>
-
 # placemat_order_form - Help Guide
 ## Purpose
 The placemat_order_form is a form designed to collect information for placing an order for a custom-made placemat. It is intended for customers or users who want to place an order for a placemat.

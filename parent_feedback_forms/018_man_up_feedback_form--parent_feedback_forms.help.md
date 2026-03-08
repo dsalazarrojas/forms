@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather feedback from users after an event or meeting. The purpose of this form is to collect information about the event, including the event name, date, location, and details, as well as feedback from the user. This form is intended to be completed by the person who attended the event or a representative of the event organizer. The form will not be submitted multiple times for the same event.
-
-</thinking>
-
 # man_up_feedback_form - Help Guide
 ## Purpose
 This guide provides instructions on how to complete the man_up_feedback_form, a form designed to gather feedback from users after events or meetings.

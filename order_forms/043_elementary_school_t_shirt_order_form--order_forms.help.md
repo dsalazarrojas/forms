@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed to gather information from students and parents for placing an order for elementary school t-shirts. The purpose of this form is to collect contact and order details from the users, including first and last names, school name, quantity of t-shirts, and other relevant information. The form is intended to be completed by students or parents on behalf of students, and the information collected will be used to fulfill the order.
 
 # Elementary School T Shirt Order Form - Help Guide

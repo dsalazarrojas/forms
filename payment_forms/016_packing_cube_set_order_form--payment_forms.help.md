@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for packing cube set orders. This form likely serves as a sales or order management system, allowing customers to provide their details and payment information for the order. To avoid duplication, it's essential to ensure that the form is only used for this specific purpose and not for other orders or customer interactions. The form's design and field layout suggest it's intended for a B2B or B2C sales environment.
-</thinking>
-
 # Packing Cube Set Order Form - Help Guide
 ## Purpose
 This form is used to collect order details and payment information from customers for packing cube set orders.

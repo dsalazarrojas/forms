@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to allow customers to pre-order a Blender appliance, providing necessary information for processing the order. To confirm, this form is intended for customers to secure their place in the queue for a Blender product before its general release. By filling out this form, customers will be able to choose their preferred Blender model, color, and other options for their pre-order.
-
-Before proceeding, please note that this form is not a purchase confirmation, and customers will receive a follow-up email to confirm their pre-order details and final payment instructions.
-
-To ensure accurate and efficient processing of your pre-order, please carefully review each field and provide the required information.
-
-</thinking>
-
 # Blender Pre Order Form - Help Guide
 
 ## Purpose

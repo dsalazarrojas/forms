@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for frozen food truck accessories orders. It is crucial to ensure that all required fields are completed accurately to avoid any errors or discrepancies in the order processing. The form is intended for internal use and will be reviewed by the assigned user, so it's essential to fill it out correctly to avoid delays or miscommunication. Please make sure you're submitting the correct order total and that the assigned user and order status are accurately selected.
-
-</thinking>
-
 # frozen_food_truck_accessory_order_form - Help Guide
 ## Purpose
 This form is used to record orders for frozen food truck accessories. It captures essential details such as order total, assigned user, order date, and order status to ensure smooth processing and tracking of orders.

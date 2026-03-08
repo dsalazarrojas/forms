@@ -1,14 +1,3 @@
-<thinking> 
-**Form Purpose and Relevance Check**
-
-This form is designed to handle vaccine distribution quotations, which are agreements between customers and suppliers for the delivery of vaccines. 
-
-The form should only be used for this specific purpose, and any other use case may lead to inaccurate data or miscommunication between parties. Please make sure the form is not used for other types of agreements or transactions. 
-
-This form is intended to gather necessary information for vaccine distribution, including customer and supplier details, quote date and time, vaccine order, and delivery information. If you are unsure whether this form is suitable for your use case, please consult with the relevant authorities or experts in the field.
-
-</thinking>
-
 # vaccine_distribution_quotation_form - Help Guide
 ## Purpose
 The vaccine distribution quotation form is designed to facilitate the process of creating and managing vaccine distribution agreements between customers and suppliers. It collects essential information for a smooth and efficient distribution process.

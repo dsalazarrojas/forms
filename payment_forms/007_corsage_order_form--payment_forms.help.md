@@ -1,11 +1,3 @@
-<thinking>
-This form's primary purpose is to collect information from customers for the placement and management of corsage orders. It's designed to be used by customers to submit their orders and associated details. The form's fields are divided into four main sections: customer, delivery, corsage, and shipping information.
-
-The form's design is focused on gathering the necessary data for efficient order processing while avoiding unnecessary complexity. Each field has been carefully considered for its relevance and importance in facilitating order placement and shipping. The form's structure and field types are informed by standard practices in the payment and order management industry.
-
-Before proceeding, please make sure you're familiar with the form's purpose, and that you haven't used it for a duplicate or similar request in the past. If you have any questions or concerns, please contact form@gic.mx.
-</thinking>
-
 # Corsage Order Form - Help Guide
 
 ## Purpose

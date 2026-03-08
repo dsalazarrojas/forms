@@ -1,10 +1,3 @@
-<thinking>
-This form purpose is to collect customer information and order details for Scentsy's holiday collection. The form is meant to be a simple and straightforward way to capture key data from customers. Before creating this guide, ensure that you are not using this form for a different purpose, and that you are not duplicating existing documentation. 
-
-The following guide assumes that you are familiar with the provided form fields. If you have any doubts or concerns, please refer to the form's YAML metadata for further clarification.
-
-</thinking>
-
 # Scentsy Holiday Collection Order Form - Help Guide
 ## Purpose
 The Scentsy Holiday Collection Order Form is designed to collect customer information and order details for the holiday season. This form is meant to be a simple and straightforward way to capture key data from customers.

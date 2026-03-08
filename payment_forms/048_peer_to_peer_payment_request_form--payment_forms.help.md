@@ -1,9 +1,3 @@
-<thinking>...
-
-The goal of this form is to enable users to request payments from their peers in a peer-to-peer payment system. This form is intended for users to enter their details, including name, email, and payment information, and then choose how to send the payment request. The form should not be duplicated for the same user within a certain time frame, and users can choose to send the request via email or SMS. After submitting the form, users can confirm or cancel their payment request.
-
-</thinking>
-
 # Peer To Peer Payment Request Form - Help Guide
 ## Purpose
 This form is used to request payments from other users in a peer-to-peer payment system. It's essential to fill out the form accurately and carefully to ensure the payment request is sent successfully.

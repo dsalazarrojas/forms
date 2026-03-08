@@ -1,5 +1,3 @@
-<thinking>Before creating the user-facing help guide, I'll review the form purpose and fields to ensure I understand the context. The form seems to be for patients to give their consent to share their health story with various entities, including organizations, family, friends, and healthcare providers. I'll make sure to explain each field in a way that's concrete, concise, and practical. I'll also check for any potential duplication of explanations and provide clear guidance on how to complete the form.</thinking>
-
 # Health Story Sharing Authorization Form - Help Guide
 ## Purpose
 The Health Story Sharing Authorization Form is a patient feedback form designed to collect your consent for sharing your health story with organizations, family, friends, and healthcare providers. This form helps us understand your preferences for sharing your health story and ensures that we respect your boundaries while sharing your sensitive information.

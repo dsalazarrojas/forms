@@ -1,7 +1,3 @@
-<thinking>
-The form "race_event_tent_graphic_printing_order_form" is designed to collect information for printing orders related to race events. This form is likely used by organizers or staff members of the event to submit orders for printing services such as banners, posters, or other graphical materials. The form should provide all relevant details of the event and the printing requirements for the graphics used in the event. Each field in the form should be filled in accordance with the specific information needed for the printing order.
-</thinking>
-
 # race_event_tent_graphic_printing_order_form - Help Guide
 ## Purpose
 This form is used for submitting orders for printing services related to race events. It requires details such as event information, printing requirements, and contact information.

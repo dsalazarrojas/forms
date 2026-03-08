@@ -1,13 +1,3 @@
-<thinking>
-This form is used for creating personalized e-commerce orders. It's a collection of fields that allow users to input information about the customer, order details, payment method, and order status. This form is designed to be user-friendly and adaptable to the specific needs of your e-commerce business. Before creating this form, it is essential to review the following questions:
-
-*   What is the purpose of this form?
-*   Is this form a duplicate or similar to another form in our system?
-*   Does this form cover all the necessary fields for creating a personalized e-commerce order?
-
-If you're still unsure, please review the form's fields and options below.
-</thinking>
-
 # Personalized E Commerce Order Form - Help Guide
 ## Purpose
 This form is used to create personalized e-commerce orders, allowing users to input customer and order information, as well as payment details.

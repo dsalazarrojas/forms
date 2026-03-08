@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect essential information about a patient undergoing orthopedic surgery. The form is designed to gather details about the patient's medical history, contacts, and outcome expectations. Before filling out this form, please ensure that it is not already completed for the same patient. The form is not intended for patients who have undergone the same type of surgery, and it is essential to check with the healthcare team to avoid duplication of effort.
-</thinking>
-
 # Orthopedic Surgery Patient Summary - Help Guide
 ## Purpose
 The Orthopedic Surgery Patient Summary form is a vital document that helps the healthcare team to quickly gather and review critical information about patients undergoing orthopedic surgery. This form ensures that the necessary details are collected efficiently, allowing the medical team to provide the best possible care.

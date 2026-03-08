@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the referral process for payment processing services. Its purpose is to collect information from users about their partners and partners' payment processing needs.
-</thinking>
-
 # Payment Processing Referral Form - Help Guide
 ## Purpose
 This form is a tool to help our team identify potential partners for our payment processing services. By providing us with essential details about your partners and their payment processing needs, we can assess their suitability and potential for collaboration.

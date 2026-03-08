@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a requisition for field equipment. It is likely used in a business or organizational setting, where users need to request equipment for work or tasks. This form is used to gather information about the equipment requested, the quantity required, and other relevant details. The purpose of this form is to streamline the process of requesting and managing field equipment, ensuring that the right equipment is available when and where it is needed. It is also possible that this form is used to track and update the status of equipment requests, ensuring that all necessary information is captured and up-to-date.
-</thinking>
-
 # Field Equipment Requisition Form - Help Guide
 ## Purpose
 The Field Equipment Requisition Form is used to request field equipment for work or tasks.

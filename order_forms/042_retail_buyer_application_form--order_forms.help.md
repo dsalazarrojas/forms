@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to be used by retail buyers to place orders, providing their contact information and delivery preferences for the store. The fields are mostly optional, except for the buyer's name and email, which are required. The form is divided into multiple pages to break up the information into manageable sections.
-</thinking>
-
 # Retail Buyer Application Form - Help Guide
 ## Purpose
 The form is used by retail buyers to provide information about their orders, including their name, contact email, phone number, delivery preferences, and any additional comments or instructions.

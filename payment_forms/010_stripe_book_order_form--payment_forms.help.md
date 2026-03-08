@@ -1,12 +1,3 @@
-<thinking>
-**Internal reasoning:**
-
-This form is designed to process information related to book orders. It appears to collect information on books, such as book title, author, price, quantity, and various book identifier fields (ISBN, ISBNS, etc.). It also collects customer email and phone number, as well as payment method preferences. The form has several fields for customer notes and form tokens. This form likely serves as a payment form for books, allowing customers to input book and payment information.
-
-To confirm, we will assume the form is used for a simple book payment processing.
-
-</thinking>
-
 # Stripe Book Order Form - Help Guide
 ## Purpose
 The Stripe Book Order Form is a form designed to help users process book orders. This form collects necessary book and payment information to facilitate a smooth and efficient booking experience.

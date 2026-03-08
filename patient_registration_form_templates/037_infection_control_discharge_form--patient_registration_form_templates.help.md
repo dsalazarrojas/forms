@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Infection Control Discharge Form - Help Guide
 ## Purpose
 The Infection Control Discharge Form is designed to document the necessary information for the discharge of a patient from care or treatment. This form helps healthcare providers ensure that patients are properly discharged and that their discharge is compliant with infection control measures.

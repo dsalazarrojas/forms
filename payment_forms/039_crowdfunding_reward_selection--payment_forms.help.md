@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from backers (people contributing to a crowdfunding campaign) to determine their reward preferences and shipping details. The form is meant to gather the backer's name and contact information, their preferred reward tier, shipping method, and any additional shipping details. This form is typically used during the pledge process of a crowdfunding campaign.
-</thinking>
-
 # Crowdfunding Reward Selection - Help Guide
 ## Purpose
 This form is used to collect information from backers during a crowdfunding campaign. It is used to determine their preferred reward and shipping details.

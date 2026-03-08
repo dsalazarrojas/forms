@@ -1,5 +1,3 @@
-<thinking>As a parent, you're an essential stakeholder in your child's education. This form is designed to collect your opinions and feedback about your child's education experience. Before filling out this form, please ensure that you've reviewed the provided options and that you're providing feedback for the current academic year. Additionally, please note that this form is meant for individual feedback, and responses should be based on your personal experience and feelings. If you've already filled out this form previously, please review your previous responses and update your answers as necessary. If you're unsure about any of the questions, please contact the school administration for further guidance.</thinking>
-
 # Education Parent Opinion Information Collection Form - Help Guide
 ## Purpose
 This form collects your opinions and feedback about your child's education experience, providing valuable insights for school administrators to make informed decisions.

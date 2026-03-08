@@ -1,10 +1,3 @@
-<thinking>
-To prevent duplication, I will first check if there is already a payment form with a similar purpose in the product catalog before creating this guide. Upon inspection, I found a "Basic Payment Form" which is not similar enough to this "Contract Installment Payment Form", so I am creating this guide.
-
-This guide will cover how to complete the "Contract Installment Payment Form" and provide detailed explanations for each field. Please note that this form is designed for clients or users to provide payment information for their contracts, and the purpose of this form is to gather essential details for processing and managing payments.
-
-</thinking>
-
 # Contract Installment Payment Form - Help Guide
 ## Purpose
 The Contract Installment Payment Form is used by clients or users to provide payment information for their contracts. This form helps process and manage payments by gathering essential details such as payment method, amount, and frequency.

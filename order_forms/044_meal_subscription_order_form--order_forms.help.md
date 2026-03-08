@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from customers about their meal subscription preferences and schedule. The form is part of a larger system that manages meal subscriptions and deliveries. The fields on this form are likely used to determine customer preferences, dietary restrictions, and contact information. This form appears to be a simple text-based form, suggesting it is used for general information gathering rather than for making complex transactions or payments. To avoid duplication or misinterpretation, it's essential to clarify each field's meaning and purpose.
-</thinking>
-
 # Meal Subscription Order Form - Help Guide
 ## Purpose
 

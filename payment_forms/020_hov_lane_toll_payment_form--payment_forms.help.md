@@ -1,10 +1,3 @@
-<thinking>
-To provide clear and concise help documentation for the HOV Lane Toll Payment Form, we should first understand its purpose and requirements. The form is designed to collect information from users related to High-Occupancy Vehicle (HOV) lane toll payments, including vehicle information, payment details, and submission status. Each field should be explained clearly to guide users through the completion process.
-
-The form has 25 fields, which can be categorized into several sections: Vehicle Information (fields 6, 7, 16, 20, 21), Payment Information (fields 10, 11, 12, 13, 17, 22, 23, 24), and Submission Status (fields 18, 19, 25). Some fields are required, while others are optional.
-
-Before creating the form, we should ensure that all required fields are properly filled out and that users understand the purpose of each field.</thinking>
-
 # HOV Lane Toll Payment Form - Help Guide
 ## Purpose
 The HOV Lane Toll Payment Form is designed to collect information related to High-Occupancy Vehicle (HOV) lane toll payments, including vehicle information, payment details, and submission status.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who want to make a donation to support cancer research at a hospital. The form is intended to gather details about the donor's payment method, donation status, and other relevant information for administrative purposes. The form is likely to be used by hospital staff to process donations and acknowledge the donor's contribution. 
-
-The form has multiple fields that are divided into sections: Payment Details, Donor Information, and Donor Preferences. The Payment Method field is a select_one field that allows the donor to choose between different payment options. The Donation Status field is a select_multiple field that allows the donor to select multiple statuses related to their donation. The form also has fields for Donor Name, Email, Phone, Address, and Recognition Preferences.
-
-</thinking>
-
 # Hospital Cancer Research Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to make a donation to support cancer research at the hospital.

@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used to gather post-surgery patient feedback and evaluate their physiotherapy progress. The fields likely aim to assess the patient's current state, including pain levels, mobility, and other relevant factors. Before filling out this form, it's essential to review and understand each field to ensure accurate and meaningful input.
-
-This form may be completed by patients or healthcare professionals, and its purpose is to provide valuable insights for post-surgery rehabilitation plans and patient care. However, it's possible that this form might not be relevant or might have been previously filled out. Review and confirmation of form completion status would be beneficial before proceeding.
-
-To confirm the form's relevance and avoid duplication, ensure you have not already completed this form for the same patient or similar procedures. If you've completed this form before, please disregard the instructions.
-
-</thinking>
 # Post-Surgery Physiotherapy Evaluation Form - Help Guide
 
 ## Purpose

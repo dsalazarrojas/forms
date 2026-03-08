@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from patients for treatment documentation. Before we dive into the form details, let's consider a few things to ensure this form meets our needs:
-
-- Is this form for new patients or follow-up treatments?
-- Are there any specific medical conditions we should prioritize or include in the medical history section?
-- Are there any required fields that we should add or remove for our clinical workflow?
-
-</thinking>
-
 # Patient Treatment Documentation Form - Help Guide
 ## Purpose
 

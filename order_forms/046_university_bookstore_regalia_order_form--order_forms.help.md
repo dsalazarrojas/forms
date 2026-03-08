@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create this form, I'll first analyze the provided YAML fields and extract the key information to create a clear and concise user-facing help guide.
 
 **University Bookstore Regalia Order Form - Help Guide**

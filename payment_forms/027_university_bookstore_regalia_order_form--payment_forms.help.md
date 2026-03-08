@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Bookstore Regalia Order Form - Help Guide
 ## Purpose
 This form is designed for ordering regalia, which includes academic regalia, such as gowns, hoods, and caps, from the university bookstore. The form collects information for both the user and the order details. This form is intended for university staff, students, and faculty who wish to purchase regalia for official ceremonies and events.

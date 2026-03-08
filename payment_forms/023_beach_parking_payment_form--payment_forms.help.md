@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information from beach-goers for parking payment purposes. The form is divided into several sections, including vehicle information, parking details, payment method, and additional services. The form requires the following fields to be filled out: vehicle license plate, vehicle state or province, vehicle type, parking date, arrival time, parking duration, parking zone, parking rate, total amount due, payment method, email address for receipt, season pass holder status, season pass number, additional services, and terms of acceptance.
-
-To avoid duplication and non-relevant responses, please ensure that:
-* Vehicle information (license plate, state, and type) matches the actual vehicle being parked.
-* Parking date and time should match the actual parking duration.
-* The parking zone and rate selection should be based on the parking duration.
-* Payment method should be selected from the available options.
-* If applicable, provide the season pass number.
-* If applicable, select additional services.
-* Accept the terms and conditions.
-
-</thinking>
-
 # Beach Parking Payment Form - Help Guide
 ## Purpose
 This form collects information from beach-goers for parking payment purposes.

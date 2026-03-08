@@ -1,7 +1,3 @@
-<thinking>
-Refund Appeal Request Form: An internal form to facilitate communication between customer and customer service team to request a refund for a particular order. Before proceeding, please ensure that you have reviewed the applicable refund policies and guidelines. Additionally, ensure that you have not already submitted a refund request for this order as it will not be processed again. If you are unsure, please contact our customer service team before filling out this form.
-</thinking>
-
 # Refund Appeal Request Form - Help Guide
 ## Purpose
 This form is used to request a refund for a specific order. It serves as a channel of communication between the customer and our customer service team to process the refund request.

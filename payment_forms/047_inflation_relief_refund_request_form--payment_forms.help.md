@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-## Inflation Relief Refund Request Form - Help Guide
+> ## Inflation Relief Refund Request Form - Help Guide
 
 ## Purpose
 This form is designed to process Inflation Relief Refund requests from customers who wish to claim reimbursement for inflation-related financial difficulties. To be eligible for a refund, applicants must submit a valid reason for their request and supporting documents to prove their claim.

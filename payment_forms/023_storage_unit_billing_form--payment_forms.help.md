@@ -1,8 +1,3 @@
-<thinking>
-The Storage Unit Billing Form is used to process payments for storage units. This form is crucial for managing storage unit payments, ensuring that the payment process is efficient and accurate.
-The form has multiple pages, but this guide will focus on the first page, which is the main form.
-</thinking>
-
 # Storage Unit Billing Form - Help Guide
 ## Purpose
 The Storage Unit Billing Form is used to process payments for storage units.

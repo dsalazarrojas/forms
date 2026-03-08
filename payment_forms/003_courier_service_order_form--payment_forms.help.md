@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Courier Service Order Form - Help Guide
 
 ## Purpose

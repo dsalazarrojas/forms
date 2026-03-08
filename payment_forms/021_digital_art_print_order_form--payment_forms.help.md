@@ -1,8 +1,3 @@
-<thinking>
-**Note:**
-The form is designed to collect information for digital art print orders. It appears to be a generic form with various fields for collecting customer information, payment details, and custom fields. This form might be used in a business-to-consumer or business-to-business setting, where customers or clients are purchasing digital art prints. The form's structure suggests that it is intended to be flexible, allowing for custom fields to be added or modified as needed.
-</thinking>
-
 # Digital Art Print Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for digital art print orders. It includes fields for customer contact details, payment information, and custom fields for specific order requirements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a Remedial Massage Intake Form designed to collect information from clients who need to book a remedial massage session. The purpose of this form is to gather essential details about the client and their needs, as well as any medical information that may be relevant to the massage therapist. This form is intended for use in a clinical or spa setting where massage therapy is being provided. It is not intended for use in other contexts, such as marketing or entertainment purposes. Please ensure that you are using this form in an appropriate setting and for the intended purpose.
-</thinking>
-
 # Remedial Massage Intake Form - Help Guide
 ## Purpose
 The Remedial Massage Intake Form is designed to collect information from clients to ensure they receive the best possible experience during their remedial massage session. This form gathers details about the client, their session preferences, and any medical information that may be relevant to the massage therapist.

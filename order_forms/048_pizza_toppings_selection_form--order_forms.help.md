@@ -1,7 +1,3 @@
-<thinking>
-This form will be used to collect information from customers for ordering pizzas. The form will have multiple pages, each with a different set of fields. The purpose of this form is to gather customer information, order details, special requests, selected toppings, order summary, and confirmation of the order.
-</thinking>
-
 # Pizza Toppings Selection Form - Help Guide
 ## Purpose
 The Pizza Toppings Selection Form is designed to collect order information from customers. It is a multi-page form with several sections to ensure all necessary details are captured accurately.

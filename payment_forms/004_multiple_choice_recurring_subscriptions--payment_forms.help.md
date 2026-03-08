@@ -1,11 +1,3 @@
-<thinking>
-This form is used to collect information for recurring subscription payments. The purpose of this form is to provide an option for customers to select their preferred payment method, subscription term, payment cycle, price, frequency of payment, order date and time, and any additional notes or contact information. This form is designed to be completed by customers who wish to set up recurring subscription payments with the organization.
-
-This form is not intended for customers who are making one-time payments. Customers who have already set up recurring subscription payments should not complete this form, as it will overwrite their existing payment information.
-
-To complete this form, please follow the instructions below.
-</thinking>
-
 # multiple_choice_recurring_subscriptions - Help Guide
 ## Purpose
 This form is used to collect information for recurring subscription payments. The form is intended to be completed by customers who wish to set up automatic payments with the organization.

@@ -1,6 +1,3 @@
-<thinking>As a telehealth intake and signature form, this form is designed to collect essential patient information for virtual consultations. The form aims to gather details about the patient's contact information, medical history, and other relevant data. It's crucial to fill out this form accurately and completely to ensure that healthcare providers have the necessary information to deliver effective care.
-This form should only be completed by patients or authorized individuals on behalf of patients. Repeatedly using this form for the same patient is not recommended, as it may cause unnecessary duplication of work and potential errors.</thinking>
-
 # Telehealth Intake And Signature Form - Help Guide
 
 ## Purpose

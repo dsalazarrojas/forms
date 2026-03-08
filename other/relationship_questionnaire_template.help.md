@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information on personal relationships, focusing on aspects such as satisfaction, connection frequency, important qualities, and effort put into relationships. This form is intended for individuals to reflect on their current relationships and provide insights on areas they would like to improve. It is crucial to ensure that users complete this form with their genuine thoughts and feelings, providing accurate and honest answers.
-</thinking>
-
 # Relationship Questionnaire - Help Guide
 ## Purpose
 The purpose of this form is to collect information on personal relationships, focusing on aspects such as satisfaction, connection frequency, important qualities, and effort put into relationships.

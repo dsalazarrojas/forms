@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to collect payment information from employees, including their name, pay cycle, pay period, date last pay, time last pay, gross pay, taxes (federal, state, and local), net pay, benefits, insurance information, address, zip, pay frequency, pay method, pay type, pay status, bank information, account details, and more. The form is meant to gather accurate and up-to-date payment records for employee benefits, tax compliance, and financial analysis. 
-
-Please ensure to complete the form with accurate and consistent data to maintain precise and correct records. The pay frequency, method, and status fields are optional. The pay period field allows multiple selections. 
-
-Before filling out this form, you may want to review the options carefully to ensure your selections are correct. This form can be completed independently or in conjunction with other relevant forms. Please ask your HR representative or manager for any questions or concerns.
-
-</thinking>
-
 # pay_stub_information_collection_form - Help Guide
 ## Purpose
 

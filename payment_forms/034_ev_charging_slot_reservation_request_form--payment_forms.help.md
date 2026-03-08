@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be related to electric vehicle charging slots, likely for a parking lot or charging station. The purpose of this form is to reserve a charging slot for a vehicle, allowing users to provide their first name, email, phone number, reservation date, desired time slot, and other relevant details. The form is designed to cater to the needs of users who want to charge their vehicles and need to reserve a specific time slot.
-
-To avoid duplication, a user can only reserve a time slot if it is not already occupied. Users can select multiple charging points (if available) for their vehicle. The form also allows users to specify their vehicle's model and type. The reservation date and time slot selection are likely used to determine the availability of the charging slot.
-
-</thinking>
-
 # ev_charging_slot_reservation_request_form - Help Guide
 ## Purpose
 This form is used to reserve a charging slot for an electric vehicle. Please fill out the form with your details to ensure a successful reservation.

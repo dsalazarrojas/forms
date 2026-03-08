@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To provide a clear and user-friendly help guide for the Frozen Ingredient Replenishment Order Form, we need to ensure that it's easy to understand the form's purpose and how to complete it. Here's the internal reasoning block:
 
 The Frozen Ingredient Replenishment Order Form is designed to help users order frozen ingredients with a specific frequency. The form should only be accessed by authorized personnel who need to place orders for their team or department. This form is not intended to be used for personal or external purposes.

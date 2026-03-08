@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registration purposes, specifically for students to enroll in a Paint and Sip class. The goal is to collect essential information from the student, including their name, contact details, class preferences, payment method, and payment details. This form is a one-time submission form, and the data collected will be used to update the student's registration status, payment status, and other relevant records.
-</thinking>
-
 # Paint And Sip Class Registration - Help Guide
 ## Purpose
 This form is designed to help students register for a Paint and Sip class. It collects required information to confirm the student's registration and payment details.

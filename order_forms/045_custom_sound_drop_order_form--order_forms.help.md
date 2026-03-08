@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who want to order a custom sound drop. Sound drops are unique music or audio products created specifically for a customer. The form helps the customer provide details about the sound drop they want, including the name, artists involved, and other relevant information. This form is used to gather all the necessary details to create the custom sound drop.
-
-The form is split into multiple pages, each with its own set of fields. The first page, "Sound Drop Details", asks for basic information about the sound drop, such as its name and the artists involved. The second page, "Delivery Details", asks for more specific information about the delivery process, including the delivery date and time, and other details that may be relevant to the order.
-
-When completing this form, please make sure to fill in all required fields (marked as "required: true"). The artist selection field is required, so make sure to choose at least one artist from the list. You can select multiple files for the "Sound Drop Files" field if needed.
-
-Please note that all fields can be filled in with free text, unless otherwise noted. For example, the "Delivery Date" field is a date field, so you should enter a date in the format MM/DD/YYYY or YYYY-MM-DD.
-
-When filling out this form, please keep in mind that the "Sound Drop Notes" field is for any additional information you want to provide about the sound drop. This is a free text field, so feel free to write as much or as little as you need.
-
-Lastly, be sure to review your order carefully before submitting it. If you have any questions or need any clarification, please don't hesitate to contact us.
-
-</thinking>
-
 # Custom Sound Drop Order Form - Help Guide
 
 ## Purpose

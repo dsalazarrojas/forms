@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information from patients when they are being discharged from a medical facility. The form is not intended for clinical diagnosis or treatment purposes, but rather to provide a standardized checklist for medical staff to ensure that all necessary information is collected and documented before discharging a patient. The form is not a replacement for medical expertise and should not be used for medical decision-making.
-
-Please review the following guide to help you complete this form accurately and efficiently.
-
-This guide assumes that you are a medical professional or an authorized personnel responsible for collecting and documenting patient information.
-
-If you are not a medical professional, please do not attempt to complete this form. Instead, consult the attending physician or a medical professional for guidance.
-
-Also, please be aware that this form is a template and should be reviewed and updated according to your institution's specific policies and procedures.
-</thinking>
-
 # Patient Medical Discharge Check Out Form - Help Guide
 ## Purpose
 The Patient Medical Discharge Check Out Form is designed to gather essential information from patients when they are being discharged from a medical facility. This form helps ensure that all necessary details are collected and documented before the patient is discharged.

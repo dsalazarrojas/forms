@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for printing event wristbands, allowing users to specify event details, attendee information, and shipping preferences. This form will help ensure that the printed wristbands are accurate and delivered correctly. 
-To prevent duplication, this form should only be submitted once for each event. 
-</thinking>
-
 # Event Day Wristband Printing Order Form - Help Guide
 ## Purpose
 The Event Day Wristband Printing Order Form is used to collect information for printing event wristbands. This form helps ensure that wristbands are accurate and delivered correctly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting donation information for the VIP Family Lounge Pass. It is not a traditional payment form but rather a collection of donor and donation details. The purpose of this form is to facilitate the donation process while providing a clear and organized way to gather necessary information. To avoid duplication, it is recommended to check if a similar donation has already been made or if the donor has already been contacted in the past year. 
-</thinking>
-
 # VIP Family Lounge Pass Donation - Help Guide
 ## Purpose
 The VIP Family Lounge Pass Donation form is used to collect information from donors for the VIP Family Lounge Pass. This form is used to gather details about the donor and the donation, including donor information, donation details, and recipient information.

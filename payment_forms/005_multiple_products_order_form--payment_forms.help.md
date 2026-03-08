@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather information from users for the purpose of placing multiple product orders. It is expected that users will select multiple products from a list of options and provide relevant customer details for each order. To prevent duplication of orders, ensure that each field is filled out correctly before submitting. Note that not all fields are required, but providing accurate information is crucial for successful order processing.</thinking>
-
 # Multiple Products Order Form - Help Guide
 ## Purpose
 The Multiple Products Order Form is used to gather information for placing multiple product orders. This form is designed to be completed by customers who want to purchase multiple products from our store.

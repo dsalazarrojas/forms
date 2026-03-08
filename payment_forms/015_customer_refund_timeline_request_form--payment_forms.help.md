@@ -1,11 +1,3 @@
-<thinking>
-The form is used for customers to request a refund for their purchases. The refund request includes details about the customer's order, the reason for the refund, and the amount they are requesting. This form also allows customers to specify their preferred refund method and the status of their refund request. 
-
-The purpose of this form is to gather all necessary information from the customer to process their refund request efficiently and accurately. This form is intended for customers who have made a purchase and are looking to get a refund. 
-
-Please make sure to check if you've already submitted a refund request before filling out this form. If you've already submitted a refund request, it will be processed separately and this form will not affect the status of your existing request.
-</thinking>
-
 # Customer Refund Timeline Request Form - Help Guide
 ## Purpose
 This form is used to request a refund for your purchase. Please fill out the form with your information and preferences, and our team will review and process your request.

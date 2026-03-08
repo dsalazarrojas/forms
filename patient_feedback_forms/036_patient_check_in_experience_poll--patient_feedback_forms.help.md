@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to help patients understand how to complete the "patient_check_in_experience_poll" form. The form is used to gather feedback from patients about their experience during check-in. This guide will walk you through the form's purpose, how to complete it, and what each field represents.
-</thinking>
-
 # patient_check_in_experience_poll - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their experience during check-in, helping us to identify areas for improvement and provide better services in the future.

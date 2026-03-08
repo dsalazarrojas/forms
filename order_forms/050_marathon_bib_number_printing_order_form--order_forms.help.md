@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to facilitate the order of marathon bib numbers printing services. Before proceeding, please ensure that you are not duplicating an existing order. If you have already ordered for the same event, please do not resubmit. 
-
-The purpose of this form is to gather necessary information for the order of marathon bib numbers printing services. Please provide the required information accurately to avoid any delays or errors in the processing of your order.
-
-</thinking>
-
 # marathon_bib_number_printing_order_form - Help Guide
 ## Purpose
 This form is used to order marathon bib number printing services. Please provide the required information to place your order.

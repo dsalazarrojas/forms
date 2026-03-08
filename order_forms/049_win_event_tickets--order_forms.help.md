@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect user input for win events, allowing users to input their ticket details. 
-The form is used for win events, which are events where a user wins a prize or award. The purpose of this form is to streamline the process of collecting win event tickets.
-</thinking>
-
 # win_event_tickets - Help Guide
 ## Purpose
 This form is for collecting win event tickets for events where users have won prizes or awards. Please provide the required information to submit your ticket.

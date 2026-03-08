@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by end-users to submit a maintenance order for a coffee grinder. This form gathers customer information, grinder details, maintenance needs, and service preferences. 
-
-The primary purpose of this form is to provide a comprehensive set of questions that will aid in determining the necessary maintenance and repair services required by the customer's coffee grinder. The form will ensure that the maintenance team has all the necessary information required to properly assess and address the issues with the grinder.
-
-To avoid any duplication of effort or miscommunication, it is crucial that the customer fills out this form completely and accurately. This form is designed to be user-friendly and easy to navigate.
-
-</thinking>
-
 # Coffee Grinder Maintenance Order Form - Help Guide
 ## Purpose
 This form is used to submit a maintenance order for a coffee grinder. It gathers crucial information to assess and address issues with the grinder.

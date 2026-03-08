@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # T Shirt Order Form With 2Checkout - Help Guide
 
 ## Purpose

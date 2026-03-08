@@ -1,7 +1,3 @@
-<thinking>
-Form "ida_moana_jr_musical_production_registration_form" is designed to collect information about a musical production in the context of a registration process. This form aims to gather details such as production name, type, dates, address, contact, and payment information.
-</thinking>
-
 # ida_moana_jr_musical_production_registration_form - Help Guide
 
 ## Purpose

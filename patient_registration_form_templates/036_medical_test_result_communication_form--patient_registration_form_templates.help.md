@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Medical Test Result Communication Form - Help Guide
 ## Purpose
 The Medical Test Result Communication Form is a template used to share test results with patients. This form captures relevant patient and test information, allowing for clear communication of test results and any necessary follow-up instructions or comments.

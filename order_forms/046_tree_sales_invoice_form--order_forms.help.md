@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture sales and invoice information for tree sales transactions. It is a critical part of the sales process, ensuring that all necessary details are collected and recorded accurately. Before filling out this form, ensure you have all the required information ready. Please note that all fields marked as "required" must be completed before submitting the form.
-</thinking>
-
 # Tree Sales Invoice Form - Help Guide
 ## Purpose
 The Tree Sales Invoice Form is used to document and record sales and invoice information for tree sales transactions. It captures essential details about the customer, the tree sale, and payment and delivery status.

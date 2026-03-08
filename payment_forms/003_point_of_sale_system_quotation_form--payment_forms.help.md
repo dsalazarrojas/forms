@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Point Of Sale System Quotation Form - Help Guide
 ## Purpose
 This form is designed to be used by the sales team to create quotations for customers, capturing essential information needed for the sales process. It is intended to be used for internal purposes and not for customer self-service.

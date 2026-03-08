@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ordering Form - Help Guide
 
 ## Purpose

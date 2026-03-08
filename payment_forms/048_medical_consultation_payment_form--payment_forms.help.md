@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to record payment information for medical consultations. The purpose of the form is to gather details about the patient, the medical specialist, and the payment method for the consultation. This form is designed to be filled out by the patient or the patient's representative. The form is used to track payments and ensure that all medical consultations are properly recorded and accounted for. It's possible that some fields may be optional, but they all contribute to the overall goal of documenting payment information. Before proceeding, please ensure that all required fields are filled out accurately.
-</thinking>
-
 # Medical Consultation Payment Form - Help Guide
 ## Purpose
 This form is used to record payment information for medical consultations.

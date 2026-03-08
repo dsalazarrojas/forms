@@ -1,7 +1,3 @@
-<thinking>
-This form, "happiness_survey_template", is designed to assess individuals' general well-being and satisfaction. Its purpose is to measure the degree of happiness people experience and what factors contribute to it. The form is not affiliated with, endorsed by, or derived from any form platform, but rather created using AI and public survey topic metadata as inspiration.
-</thinking>
-
 # happiness_survey_template - Help Guide
 ## Purpose
 The happiness_survey_template form is designed to help understand overall happiness levels and the factors that contribute to it.

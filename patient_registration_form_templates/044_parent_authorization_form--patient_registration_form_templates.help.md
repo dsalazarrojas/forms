@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from a parent or guardian to verify the identity and relationship of a patient. 
-Please ensure that the information provided is accurate and up-to-date as it may be used for official purposes.
-Before proceeding, please review the form carefully to avoid any duplication or errors. 
-This form will be used in conjunction with other patient registration processes, so it is essential that all fields are filled out correctly.
-The information provided will be kept confidential and secure, but please be aware that it may be shared with authorized personnel or organizations as necessary.
-</thinking>
-
 # Parent Authorization Form - Help Guide
 
 ## Purpose

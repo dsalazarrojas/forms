@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Logistics Compliance Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a new service discount registration. Before proceeding, ensure that this form is not already registered for the same service discount. This form will not affect existing service discounts.
-</thinking>
-
 # new_service_discount_registration - Help Guide
 ## Purpose
 The purpose of this form is to register a new service discount. 

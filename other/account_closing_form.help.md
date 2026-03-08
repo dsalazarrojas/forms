@@ -1,7 +1,3 @@
-<thinking>
-The account closing form is used to gather information from customers for closing their accounts. It helps to identify the customer's account type and reason for account closure, ensuring accurate and efficient account closure process. This form is typically used internally by the account management team and is not intended for external public use. Before proceeding, please ensure you are filling out the form for the correct purpose and not duplicating the effort of another team member. If you are unsure or need clarification, please reach out to your supervisor for assistance.
-</thinking>
-
 # account_closing_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for account closure.

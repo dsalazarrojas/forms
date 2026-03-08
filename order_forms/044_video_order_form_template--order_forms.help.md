@@ -1,12 +1,3 @@
-<thinking>
-This form is a template for ordering videos, likely for business or professional purposes. This form is likely used by clients or customers to request video services, and the form's purpose is to gather relevant information from clients to facilitate the creation of a video. 
-
-When filling out this form, please ensure that you have all the necessary information at hand. The form is designed to be completed by clients, but the fields may be used internally as well. 
-
-Please note that this form is a template and may not include all the fields that you may need for a specific video order. You can always add more fields as needed.
-
-</thinking>
-
 # Video Order Form Template - Help Guide
 ## Purpose
 This form is used to gather information from clients for video order requests. It includes fields for client details, project specifics, and review and confirmation.

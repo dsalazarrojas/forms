@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is only used for its intended purpose and not duplicated. This form is for customers to contact our payment reconciliation support team for help with payment discrepancies or other issues related to payment reconciliation. It should not be used for general customer support or other unrelated matters. 
-This form is part of a larger payment reconciliation process, and the information collected will be used to assist our team in resolving the issue as efficiently as possible. Please ensure that you have the necessary permissions and authorization to complete this form.
-</thinking>
-
 # payment_reconciliation_support_contact_form - Help Guide
 ## Purpose
 The "payment_reconciliation_support_contact_form" is a support form used by customers to contact our payment reconciliation team for assistance with payment discrepancies or other payment-related issues.

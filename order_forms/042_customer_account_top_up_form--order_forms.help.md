@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of topping up a customer's account. The form is likely used by administrators or customer support representatives to update a customer's account information, possibly in response to a request from the customer or due to a change in their account status.
-The form should be used to collect relevant details from the customer to ensure that their account is accurately reflected in the database. This form is not intended for customers to complete themselves; it's for internal staff to collect information to update the customer's account.
-This guide is provided to help internal staff complete the form correctly and efficiently.
-</thinking>
-
 # Customer Account Top Up Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information for topping up a customer's account from internal staff.

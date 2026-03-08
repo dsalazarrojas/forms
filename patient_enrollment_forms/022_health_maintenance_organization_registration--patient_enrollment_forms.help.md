@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to register a Health Maintenance Organization (HMO) for patients. The purpose of this form is to collect information from patients to ensure they are properly enrolled in their chosen HMO. The form asks for contact details, patient information, HMO information, and other relevant details. 
-
-The form is not meant to be a substitute for medical care or diagnosis. Patients must be properly assessed by a medical professional before enrolling in an HMO. 
-
-This form is part of the patient enrollment process and helps ensure accurate patient data. Please ensure you have filled out all relevant fields and attached required documents. 
-
-Note: This form does not collect sensitive medical information and is for general information purposes only.
-</thinking>
-
 # Health Maintenance Organization Registration - Help Guide
 ## Purpose
 This form is used to register a patient in a Health Maintenance Organization (HMO). It gathers necessary information to ensure proper patient enrollment and data accuracy.

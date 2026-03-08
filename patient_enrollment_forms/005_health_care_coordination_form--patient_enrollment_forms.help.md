@@ -1,10 +1,3 @@
-<thinking> 
-This form is a comprehensive Health Care Coordination Form designed to collect essential information from patients to ensure their medical care coordination process is well-managed. The form gathers various details about the patient's medical history, contact information, allergies, medications, medical conditions, insurance, and other relevant health-related data. This data will help healthcare professionals coordinate the patient's care efficiently. 
-
-Before you begin, please ensure that you are completing this form for the intended purpose and not duplicating efforts. 
-
-</thinking>
-
 # Health Care Coordination Form - Help Guide
 ## Purpose
 The Health Care Coordination Form is designed to collect information from patients to facilitate the coordination of their medical care. This form gathers various details about the patient's medical history, contact information, allergies, medications, medical conditions, insurance, and other relevant health-related data.

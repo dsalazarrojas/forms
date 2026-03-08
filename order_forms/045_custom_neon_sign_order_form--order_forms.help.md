@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers to facilitate the ordering process of custom neon signs. 
-The form includes fields for customer information, sign details, delivery method, and payment method. 
-The purpose of this form is to gather the necessary data from customers to process their orders efficiently. 
-Please make sure to fill out the form accurately and completely, as this will ensure that the order is processed correctly. 
-</thinking>
-
 # Custom Neon Sign Order Form - Help Guide
 
 ## Purpose

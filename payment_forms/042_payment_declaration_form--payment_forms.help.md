@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payment Declaration Form - Help Guide
 
 ## Purpose

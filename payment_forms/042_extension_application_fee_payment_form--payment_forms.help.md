@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect payment information from individuals or organizations requesting an extension. The form fields cover various aspects of the payment process, including application fee, payment method, payment amount, payment status, and other relevant details. It's essential to ensure that the information provided is accurate and complete. This form will not duplicate any existing records; please do not submit multiple payment requests for the same extension.
-</thinking>
-
 # Extension Application Fee Payment Form - Help Guide
 
 ## Purpose

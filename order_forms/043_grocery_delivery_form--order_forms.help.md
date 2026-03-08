@@ -1,9 +1,3 @@
-<thinking>
-The form is used to facilitate user input for grocery delivery orders, allowing users to select their desired products, specify delivery details such as date and time, and input payment information. This form likely aims to streamline the ordering process for customers, ensuring accurate and efficient grocery delivery services.
-The purpose of the form is to gather essential information from users for order processing and delivery.
-
-</thinking>
-
 # Grocery Delivery Form - Help Guide
 ## Purpose
 The Grocery Delivery Form is designed to gather information from customers for their grocery orders, allowing for efficient and accurate order processing and delivery.

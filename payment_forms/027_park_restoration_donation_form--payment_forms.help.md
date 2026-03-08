@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from park restoration donors, allowing them to provide their personal details, payment information, and donation preferences.
-The purpose of this form is to facilitate the park restoration process by gathering essential data from donors who wish to contribute to the cause.
-</thinking>
-
 # Park Restoration Donation Form - Help Guide
 ## Purpose
 This form is for park restoration donors to submit their information and donation details.

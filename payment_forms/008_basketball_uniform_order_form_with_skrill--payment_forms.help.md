@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for ordering basketball uniforms with Skrill as the payment method. The form should only be completed by authorized users to prevent duplication of orders. Each field is essential to provide accurate and complete information for processing and delivering the orders. The fields are organized to make it easy for users to fill out the form in sections.
-</thinking>
-
 # Basketball Uniform Order Form With Skrill - Help Guide
 ## Purpose
 This form is for ordering basketball uniforms with Skrill as the payment method. It requires accurate team, coach, and player information to process and deliver the orders correctly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Food Presentation Plate Order Form - Help Guide
 
 ## Purpose

@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to collect donations for a Law School Scholarship Fund. The purpose of this form is to gather information from potential donors, including their preferred donation amount, frequency, and payment method. Donors can also provide additional information such as contact details and any other payment terms they may have.
-
-The form has multiple pages, but most of the fields are optional. Donors can choose to provide as much or as little information as they like, depending on their preferences.
-
-The form also includes a field for recurring donations, which allows donors to specify their preferred frequency of donation (e.g., monthly, quarterly, etc.). Donors can also choose to provide their own frequency if it's not listed in the options.
-
-In terms of payment methods, donors can choose between credit card, check/cash, or bank transfer. They can also specify an "other" payment method if none of the listed options apply.
-
-This form is intended to be simple and easy to complete, while still gathering the necessary information for the scholarship fund.
-
-</thinking>
-
 # Law School Scholarship Fund Donation Form - Help Guide
 ## Purpose
 The Law School Scholarship Fund Donation Form is designed to collect donations from individuals who wish to support the law school scholarship program. The form helps the scholarship committee to track donations and ensures that all necessary information is collected for processing.

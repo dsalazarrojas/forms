@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect feedback from clients who have attended group therapy sessions. It allows them to provide input on their experience, rate their satisfaction, and include any comments or suggestions they may have. This form should only be completed by clients who have attended a group therapy session in the past.
-
-This form does not need to be completed multiple times by the same client. Each submission will only be used to gather feedback from one client per session.
-
-</thinking>
-
 # group_therapy_client_feedback_form - Help Guide
 ## Purpose
 This form is used to collect feedback from clients who have attended group therapy sessions.

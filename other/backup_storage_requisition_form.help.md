@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to help users request backup storage for their data or files. A backup storage is a crucial process to protect user's data from data loss or corruption. The form should only be used to request backup storage for files that are not currently backed up by the organization. Please ensure that the backup storage is not duplicated and not for files that are already covered by the existing backup plan.
-</thinking>
-
 # Backup Storage Requisition Form - Help Guide
 ## Purpose
 The Backup Storage Requisition Form is a tool used to request backup storage for important files or data to prevent data loss or corruption. Please fill out this form to submit your backup storage request.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid duplication, let's ensure that this guide is accurate and up-to-date. The form purpose should be clear, and the field explanations should align with the provided YAML fields. 
 
 Here's a suggested internal reasoning block to confirm form purpose and completeness:

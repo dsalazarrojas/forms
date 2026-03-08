@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect feedback from daycare parents about their experience with a specific daycare center. This form is meant to be filled out by parents who have used or are currently using the daycare services. To ensure that the collected data is relevant and useful, we should check that the parent has actually used the daycare and is not a new customer. We should also verify that the same parent is not filling out the form multiple times (e.g., we might want to check for the same email address or phone number). This form will help the daycare center understand how they are doing and what can be improved. 
-</thinking>
-
 # Daycare Parent Survey - Help Guide
 ## Purpose
 

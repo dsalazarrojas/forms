@@ -1,13 +1,3 @@
-<thinking>
-
-The Time Order Request Form is a critical component of our business operations, used to request time slots for various services. This form helps us manage our time-sensitive tasks efficiently and ensure that our customers receive the service they need when they need it. By filling out this form accurately and thoroughly, you'll be able to communicate your service requests effectively and receive timely responses from our team. 
-
-Before starting the form, please take a moment to review the guidelines below to ensure your submission is complete and accurate. 
-
-Note: The required fields are marked with an asterisk (\*). Please make sure to complete all required fields. 
-
-</thinking>
-
 # Time Order Request Form - Help Guide
 ## Purpose
 The Time Order Request Form is a tool used to request time slots for various services. It helps our team manage their schedule and ensure that services are delivered at the right time.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and functionality of the "curbside_pickup_order_form". The form is meant for customers to provide their information for curbside pickup orders, including their name, contact details, and payment method. The form is intended to be completed by customers who need to place an order for curbside pickup, such as those who do not want to order online or have other preferred methods of payment. The form should not be used for other purposes, as it is not a general contact form or a form for other types of orders.
-</thinking>
-
 # curbside_pickup_order_form - Help Guide
 ## Purpose
 The "curbside_pickup_order_form" is a form designed for customers to provide their information for curbside pickup orders. This form helps us process your order more efficiently and ensure that we have the correct information for delivery.

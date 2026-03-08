@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer information and order details for food packaging films. The form has 8 sections, including customer information, order details, shipping address, product info, product specifications, and payment gateways. This form is likely used by a business or organization to collect data from customers for order fulfillment and delivery.
-</thinking>
-
 # Food Packaging Film Order Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from customers for food packaging film orders. It helps businesses or organizations to gather order details, customer information, and shipping addresses, as well as product specifications and payment information.

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a help guide for the "order_form_37" form. This form is used for ordering related tasks, and its purpose is to gather relevant information from customers for order processing. The form includes fields for the customer's delivery address, name, order details, shipping cost, and email address. It's essential to ensure that the customer's details are accurate to ensure smooth order processing. Before completing this form, ensure that you have all the required information readily available.
-</thinking>
-
 # order_form_37 - Help Guide
 ## Purpose
 The order_form_37 is used to gather information for order processing. Fill out this form with the customer's delivery address, name, order details, shipping cost, and email address.

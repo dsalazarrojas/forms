@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to help customers submit a parking fee refund request. The form is likely used by customers to claim a refund for an overpaid parking fee and provide the necessary information for the refund process.
-
-Before proceeding, ensure that you have not already submitted a parking fee refund request for this order or that the request has not already been processed. To avoid delays, please fill out the form accurately and thoroughly.
-
-The form is divided into several sections, each containing different fields that need to be filled out for the refund process. Please review each section carefully to ensure that you provide the required information.
-
-</thinking>
-
 # Parking Fee Refund Form - Help Guide
 ## Purpose
 This form is for customers to request a refund for an overpaid parking fee. If you have paid for parking but did not use it or were overcharged, you can submit this form to initiate the refund process.

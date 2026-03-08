@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to facilitate electronic product ordering through a streamlined user interface, ensuring accurate and efficient data collection. The form's layout and field requirements have been optimized for user convenience and internal process flow. 
-</thinking>
-
 # paypal_electronic_product_order_form - Help Guide
 ## Purpose
 The `paypal_electronic_product_order_form` is a form used for customers to place electronic product orders with the option to pay using either credit card or PayPal. 

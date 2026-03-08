@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about team celebrations from end-users. The purpose of this form is to capture details about the party theme, budget, estimated number of guests, party dessert preferences, delivery preferences, and other relevant information to ensure successful team celebrations. To prevent duplication, please only fill out this form if you are requesting supplies for an actual team celebration. If you are an administrator or have already submitted a celebration order, please do not fill out this form.
-
-</thinking>
-
 # Team Celebration Party Supply Order Form - Help Guide
 ## Purpose
 The Team Celebration Party Supply Order Form is a tool to gather information about team celebrations and provide supplies for the occasion. This form will help us understand the theme, size, and preferences of the party to make it a memorable event.

@@ -1,8 +1,3 @@
-<thinking>
-Form design decisions often involve a delicate balance between ease of use and data accuracy. To ensure that our users have a clear understanding of the form's purpose and requirements, let's briefly discuss the reasoning behind this form. 
-The "Shop My Stash Form" is designed to collect relevant information from users for inventory management and customer interaction purposes. It allows users to input form titles, categories, descriptions, and other relevant customer details such as phone numbers and emails. This form is not designed for any specific business logic that would cause it to be required or duplicated in the system, as it's meant to be a general form for shop my stash interactions.
-</thinking>
-
 # Shop My Stash Form - Help Guide
 ## Purpose
 The "Shop My Stash Form" is designed to collect information from users for inventory management and customer interaction purposes. This form can be used in a variety of contexts, such as customer inquiries, orders, or other shop-related interactions.

@@ -1,9 +1,3 @@
-<thinking>
-- The Concert Organizer Check Out Form is used for the end-user to submit their payment and order information for a concert event.
-- It's essential to ensure the form is filled out correctly to avoid any issues with the order processing and delivery.
-- Double-check that the form doesn't have any errors before submitting it.
-</thinking>
-
 # Concert Organizer Check Out Form - Help Guide
 ## Purpose
 The Concert Organizer Check Out Form is used to collect payment and order information from the end-user. This form is necessary for processing and delivering the event tickets smoothly.

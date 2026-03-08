@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting donations for a community center, allowing individuals or organizations to contribute to the center's operations. The purpose of this form is to gather information from donors about their donation, including their contact details, donation type, amount, and preferred payment method. This form is likely used by the community center to track and acknowledge donations, as well as to provide donors with a tax-deductible receipt. Before proceeding, please ensure that you are not duplicating a previous donation, as this form is intended for new or updated donations. If you are unsure about the form or the donation process, please consult with the community center staff.
-</thinking>
-
 # Community Center Donation Form - Help Guide
 ## Purpose
 The Community Center Donation Form is a tool for individuals or organizations to contribute to the community center's operations. This form gathers information about the donor and their donation, and is used to track and acknowledge donations.

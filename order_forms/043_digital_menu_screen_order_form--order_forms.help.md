@@ -1,15 +1,3 @@
-<thinking>
-This form is used to collect information from customers on their order details. The form is designed to gather essential data such as the type of visit, time of visit, and customer contact information. The form is used in a digital menu screen order process and is a key part of the customer ordering experience. 
-
-The form is a crucial part of the digital menu screen order process, and it's essential to ensure it's completed accurately and consistently to prevent any errors or miscommunication. Please note that you may need to double-check the form data after submitting to ensure it's correct. 
-
-The form is split into several sections and fields, each designed to gather specific information from the customer. Below is a breakdown of each field to help you fill out the form accurately.
-
-Please note that if a field is optional, it's not always required, and the specific context will be provided for each field.
-
-Also, if you have any questions or need clarification on any part of the form, please don't hesitate to reach out to our support team.
-</thinking>
-
 # digital_menu_screen_order_form - Help Guide
 
 ## Purpose

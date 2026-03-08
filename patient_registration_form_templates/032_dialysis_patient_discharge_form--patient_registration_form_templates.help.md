@@ -1,7 +1,3 @@
-<thinking> 
-To confirm that the form purpose and design aligns with the provided YAML fields and best-practices for creating patient discharge forms in healthcare settings. The provided YAML fields appear to be a comprehensive set of fields required for a patient discharge form, including patient demographics, medical history, and clinical data (blood pressure, pulse, oxygen saturation), allergies, medications, and healthcare provider information. To avoid duplication, the form seems to be designed for capturing essential data for patient discharge, which is a one-time event. Therefore, there's no apparent redundancy in fields or purpose.
-</thinking>
-
 # Dialysis Patient Discharge Form - Help Guide
 
 ## Purpose

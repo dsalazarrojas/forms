@@ -1,16 +1,3 @@
-<thinking>
-
-This form is intended to collect information from customers for pre-ordering a special edition film product. The form is designed to gather details about the customer's order, such as their email address, order ID, product price, quantity, payment method, and shipping details. The purpose of this form is to facilitate the pre-order process and ensure that the customer's order is processed accurately and efficiently.
-
-To determine the relevance of this form, the following conditions must be met:
-
-*   The form is only relevant for customers who are interested in pre-ordering a special edition film product.
-*   The form is not intended for customers who are making a regular purchase or have already placed an order.
-
-The form does not duplicate any other form in the system, as it is a custom form designed specifically for pre-ordering a special edition film product.
-
-</thinking>
-
 # Film Special Edition Pre-Order Form - Help Guide
 ## Purpose
 The Film Special Edition Pre-Order Form is designed to collect information from customers for pre-ordering a special edition film product. This form is intended for customers who are interested in pre-ordering a special edition film product and want to ensure that their order is processed accurately and efficiently.

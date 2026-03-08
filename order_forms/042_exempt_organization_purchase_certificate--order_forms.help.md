@@ -1,7 +1,3 @@
-<thinking>
-This form is used to report exempt organizations' purchases that are subject to special rules or regulations. This form is used by [relevant department/office] to ensure compliance with applicable laws and regulations. The form should only be completed for purchases that meet specific criteria outlined in [relevant policy/guideline]. Please ensure that only one form is submitted per exempt organization and purchase transaction. Please note that this form is not intended for general reporting but rather for [specific purpose, e.g., tax purposes].
-</thinking>
-
 # exempt_organization_purchase_certificate - Help Guide
 ## Purpose
 The exempt_organization_purchase_certificate form is used to report exempt organizations' purchases that are subject to special rules or regulations.

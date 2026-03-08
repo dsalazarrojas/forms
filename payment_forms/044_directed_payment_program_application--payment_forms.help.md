@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for applicants to provide information for a Directed Payment Program. The purpose of this form is to collect necessary details from the applicant, including contact information, payment information, and other relevant documents. Before completing this form, ensure you are applying for the correct program. Please note that some fields may be optional but are required for a complete application.
-</thinking>
-
 # Directed Payment Program Application - Help Guide
 ## Purpose
 This form is for submitting applications for the Directed Payment Program. It collects necessary information from applicants, including contact details, payment information, and other supporting documents.

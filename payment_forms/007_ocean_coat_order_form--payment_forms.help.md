@@ -1,14 +1,3 @@
-<thinking>
-As a form expert and technical writer, I'll review the provided YAML fields for the "ocean_coat_order_form" form to ensure I understand its purpose and potential issues.
-
-Upon reviewing the form, it appears to be designed to collect various types of information related to an order or purchase. The form allows users to select from multiple-choice options for different categories, including product selection, payment information, delivery information, customer information, payment method, payment status, and order status.
-
-Given the options provided in the YAML file, it seems that the form is likely used in an e-commerce or sales context, where the goal is to collect customer preferences and order details in an efficient and standardized way.
-
-The form has some required and optional fields, but it's essential to consider potential issues that may arise from having so many options and fields in one form. To address these, I'll structure the help guide to provide clear guidance on form usage and help users understand the fields and their purposes without assuming additional business logic.
-
-</thinking>
-
 # ocean_coat_order_form - Help Guide
 ## Purpose
 This form is designed to collect information about your order or purchase, including product selection, payment details, and customer information. Please follow these steps to complete the form accurately.

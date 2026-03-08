@@ -1,10 +1,3 @@
-<thinking> 
-The Telemedicine Patient Information Form is a crucial tool used by healthcare providers to gather essential information about patients remotely. This form is designed to help healthcare providers understand a patient's medical history, contact information, medical conditions, allergies, and other important details to deliver effective telemedicine care. By completing this form, patients provide healthcare providers with a comprehensive understanding of their health and medical background, allowing for more informed and personalized treatment decisions.
-
-Please ensure that you are not completing this form unnecessarily, as it may be a requirement for your healthcare appointment or treatment. Also, please review the form carefully, and if you have any questions or concerns, contact your healthcare provider for clarification.
-
-</thinking>
-
 # Telemedicine Patient Information Form - Help Guide
 ## Purpose
 The Telemedicine Patient Information Form is designed to gather essential information about you, the patient, for your healthcare appointment or treatment. This form will help your healthcare provider understand your medical history, contact information, and other important details to deliver effective care.

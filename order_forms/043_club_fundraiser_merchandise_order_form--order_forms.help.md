@@ -1,7 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "Club Fundraiser Merchandise Order Form", we should first consider the internal reasoning behind the form's purpose and the potential concerns for duplication. This form appears to be designed for customers to place orders for merchandise related to a club fundraiser. The primary purpose of the form is likely to collect customer information, select merchandise items, calculate order totals, and facilitate payment and delivery. Potential concerns for duplication might arise from customers ordering the wrong items or entering invalid data that would lead to inaccuracies in the order total.
-</thinking>
-
 # Club Fundraiser Merchandise Order Form - Help Guide
 
 ## Purpose

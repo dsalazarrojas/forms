@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for customers to provide information to custom cabinet door orders. It collects customer details, delivery information, and payment details to facilitate the order process.
-
-The form is designed to be filled out by customers who are interested in ordering custom cabinet doors. It does not have any internal logic for duplicate checks, so it's possible for customers to fill out the form multiple times. However, it's assumed that customers will only fill out the form once.
-
-</thinking>
-
 # Custom Cabinet Door Order Form - Help Guide
 ## Purpose
 

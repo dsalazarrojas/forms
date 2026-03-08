@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form, "Service Partner Payment Policy Survey", is to collect feedback and insights from service partners about their experiences with payment-related issues. This form aims to gather information on the frequency and nature of payment problems service partners encounter, as well as their overall satisfaction with their partner's communication on payment-related matters. By providing a clear structure and questions, the form helps to minimize confusion and ensures consistent data collection.
-The questions cover various aspects of service partner experience with payments, including the occurrence of payment issues, types of issues, communication quality, and suggestions for improvement. This form is a helpful tool for service partners to express their concerns and ideas.
-To avoid redundant and unclear questions, the form focuses on the core aspects of payment policies and experiences.
-The form is part of a larger effort to better understand and address service partner concerns, ultimately leading to improved communication and service quality.
-</thinking>
-
 # Service Partner Payment Policy Survey - Help Guide
 ## Purpose
 This form aims to gather feedback and insights from service partners regarding their experiences with payment-related issues, such as frequency and types of payment problems, communication on payment matters, and suggestions for improvement.

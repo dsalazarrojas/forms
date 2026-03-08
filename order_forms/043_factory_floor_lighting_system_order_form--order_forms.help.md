@@ -1,19 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Factory Floor Lighting System Order Form", I need to understand the form's purpose, which is to gather information for ordering a factory floor lighting system. The fields provided in the YAML definition are:
-*   "factory_floor_lighting_system_order_form_1" (Enter Factory Floor Lighting System Information): This likely provides an overview of the lighting system being ordered.
-*   "factory_floor_lighting_system_order_form_2" (Team Name): The name of the team or department that requires the lighting system.
-*   "factory_floor_lighting_system_order_form_3" (Team Leader): The person in charge of the team or department.
-*   "factory_floor_lighting_system_order_form_4" (Quantity): The number of units or quantities of the lighting system being ordered.
-*   "factory_floor_lighting_system_order_form_5" (Lighting Type): The type of lighting system being ordered, with options being "Lamps", "Fixtures", or "Ballasts".
-*   "factory_floor_lighting_system_order_form_6" (Delivery Date): The date the lighting system is to be delivered.
-*   "factory_floor_lighting_system_order_form_7" (Installation Date): The date the lighting system is to be installed.
-*   "factory_floor_lighting_system_order_form_8" (Delivery Address): The address where the lighting system is to be delivered.
-*   "factory_floor_lighting_system_order_form_9" (Installation Contact): The contact person for the installation of the lighting system.
-
-This form appears to be designed for factory staff to place orders for a lighting system for their work area, and it's likely that the information gathered from this form will be used to process the order and ensure timely delivery and installation.
-
-</thinking>
-
 # Factory Floor Lighting System Order Form - Help Guide
 ## Purpose
 

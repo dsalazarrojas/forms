@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for restaurant grease trap cleaning services. Restaurants and food establishments are required to have grease traps cleaned on a regular basis to prevent clogged pipes and maintain environmental safety. This form helps in scheduling and organizing such services.
-</thinking>
-
 # Restaurant Grease Trap Cleaning Order Form - Help Guide
 ## Purpose
 This form is used to schedule and organize restaurant grease trap cleaning services.

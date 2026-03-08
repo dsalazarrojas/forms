@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to document the details of a patient's transplant surgery and discharge process. This form is likely used by medical professionals to gather information on the patient's status after the surgery, including any necessary contact information, medications, and follow-up appointments.
-
-It's worth noting that this form appears to be comprehensive, covering various aspects of the patient's care, such as medications, contact information, and follow-up appointments. However, the exact use case and specific requirements of this form may vary depending on the healthcare setting and the individual patient's needs.
-
-To avoid non-duplication, the form should be designed to be used once the surgery is complete and the patient is being discharged. This form can be used by medical professionals to ensure that all necessary information is recorded and communicated effectively, helping to streamline the care process and reduce errors.
-
-Before proceeding, it's essential to review the form carefully and verify that it is up-to-date and accurate, ensuring that it meets the needs of both the healthcare team and the patient.
-</thinking>
-
 # Transplant Surgery Discharge Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information on the patient's status after a transplant surgery, including contact information, medications, and follow-up appointments.

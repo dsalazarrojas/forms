@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from clients to generate a quote for airport transfer services. The purpose of this form is to determine the client's travel needs and requirements, including trip details, vehicle preference, and urgency of the quote. 
-
-Before submitting the form, please ensure that you are filling in the required fields. Some fields are marked as required, indicated by a * after the label. 
-
-This form is intended for airport transfer quotations. Please do not submit this form for other purposes.
-
-</thinking>
-
 # Airport Transfer Quotation Form - Help Guide
 ## Purpose
 The Airport Transfer Quotation Form is designed to collect information from clients to generate a quote for airport transfer services.

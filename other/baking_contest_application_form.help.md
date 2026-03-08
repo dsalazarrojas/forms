@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from bakers who want to participate in a baking contest. The form is intended to capture essential details such as the baker's name, contact information, and baking preferences. The form is likely to be filled out by bakers who are interested in showcasing their baking skills and competing in the contest. Before completing the form, please ensure that you have not already submitted your application to this contest in the past, as duplicate submissions will not be accepted.
-</thinking>
-
 # untitled form - Help Guide
 ## Purpose
 This form is a Baking Contest Application Form, designed for bakers to apply for a baking contest. The form collects essential information to assess the applicant's baking skills and preferences.

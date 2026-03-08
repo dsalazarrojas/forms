@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about customer orders, allowing you to gather essential details about the customer and their order.

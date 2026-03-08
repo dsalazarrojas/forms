@@ -1,5 +1,3 @@
-<thinking>...This form is used for customers to place an order for fashion products. The form is divided into several pages, each with different sections for customer information, delivery details, and payment details. The form's main purpose is to gather essential information from the customer to process their order accurately and efficiently. The form will be used by the customer service team to fulfill the order and communicate with the customer. Please ensure that all required fields are filled out to avoid delays in processing the order...</thinking>
-
 # Fashion Ordering Form - Help Guide
 ## Purpose
 The Fashion Ordering Form is a tool used by customers to place an order for fashion products. This form collects essential information from customers to process their order accurately and efficiently.

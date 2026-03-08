@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect legal considerations in medical practice for patients. The form is meant to be completed by patients themselves or their representatives, and the information collected will be used for medical record-keeping and billing purposes. 
-
-To ensure that the form is completed correctly, it is recommended that patients or their representatives read this guide carefully before filling out the form. Please note that some fields may be required or optional depending on the situation.
-
-The purpose of this form is not to collect sensitive or private information, but rather to provide a framework for collecting and organizing medical records. The form should be completed with the utmost care and attention to detail.
-
-If you are unsure about any field or the form as a whole, please consult with a medical professional before completing it.
-
-</thinking>
-
 # Legal Considerations In Medical Practice - Help Guide
 ## Purpose
 The Legal Considerations In Medical Practice form is a tool used to collect and document important legal considerations that patients need to be aware of in medical practice. This form is designed to be completed by patients or their representatives and will be used to maintain accurate and up-to-date medical records.

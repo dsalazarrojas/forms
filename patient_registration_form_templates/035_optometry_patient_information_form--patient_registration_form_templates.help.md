@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect patient information for optometry purposes. It includes various fields to gather demographic details such as name, contact information, medical history, and medical notes. The form may be used for routine check-ups, new patient intakes, or for medical record keeping. Please note that some fields might not be required for every patient interaction, and some might be specific to the clinic's needs...</thinking>
-
 # Optometry Patient Information Form - Help Guide
 
 ## Purpose

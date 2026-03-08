@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for the discharge process of a patient from a radiology department. The purpose of this form is to collect relevant information about the patient's discharge, including their personal details, medical record number, and follow-up instructions. This form should only be used for patients who have been discharged from the radiology department and not for any other purpose. Please ensure that this form is not used for any other type of patient interaction.
-</thinking>
-
 # Radiology Patient Discharge Form - Help Guide
 ## Purpose
 

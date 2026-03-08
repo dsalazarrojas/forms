@@ -1,13 +1,3 @@
-<thinking>
-
-To create a comprehensive help guide for the "Tian Fu" form, we first need to understand the form's purpose and ensure it's not duplicating any existing knowledge base content. The form's purpose is to gather information for orders, which can be used for customer service, logistics, or other business purposes. This form might be used in an e-commerce, customer service, or order management context.
-
-We will assume the form is used for internal order tracking and customer information gathering. It is likely used by customer service or order management teams to update order status, add customer notes, and assign tasks to team members.
-
-We will also assume this form is part of a broader system, and there might be other forms or workflows that overlap with this one. However, the provided YAML fields suggest a focus on order tracking and customer information.
-
-</thinking>
-
 # Tian Fu - Help Guide
 ## Purpose
 The Tian Fu form is used for internal order tracking and customer information gathering. It allows customer service or order management teams to update order status, add customer notes, and assign tasks to team members.

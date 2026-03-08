@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from patients visiting an esthetician or skincare professional. 
-This form can be used for initial consultations, follow-up appointments, or routine check-ins. 
-Ensure that the fields are filled out accurately to help provide the best possible care. 
-Please note that some fields are required to be filled out to ensure accurate and efficient service. 
-If a field is not applicable or not relevant, please use a suitable placeholder (e.g., "N/A" or "Not Applicable") 
-to avoid any confusion. 
-</thinking>
-
 # Esthetician Client Intake Form - Help Guide
 ## Purpose
 The Esthetician Client Intake Form is designed to collect essential information from clients visiting an esthetician or skincare professional for initial consultations, follow-up appointments, or routine check-ins. 

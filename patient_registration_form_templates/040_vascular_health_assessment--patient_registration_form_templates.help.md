@@ -1,14 +1,3 @@
-<thinking>
-This form is a patient registration form designed for medical professionals to collect information about patients' vascular health. The purpose of this form is to gather relevant data for a comprehensive vascular health assessment. 
-
-To avoid duplication of effort, please ensure that:
-- The form is only filled out for patients with a new or returning visit.
-- Information is accurate and up-to-date.
-- The form is used in conjunction with other relevant medical records and assessments.
-
-This form is intended for healthcare professionals, including doctors, nurses, and other medical staff.
-</thinking>
-
 # vascular_health_assessment - Help Guide
 ## Purpose
 The vascular health assessment form is used to collect patient information for the purpose of assessing their overall vascular health. This includes gathering details about the patient's medical history, risk factors, medications, and test results.

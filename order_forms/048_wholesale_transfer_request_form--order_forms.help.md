@@ -1,12 +1,3 @@
-<thinking>
-This form is for requesting a wholesale transfer of products between two different warehouses. 
-The form is used to submit a request to transfer products from one warehouse to another. 
-The form must be completed by the user to request a transfer. 
-The transfer request status and manager approval status will be updated automatically. 
-The form is not meant to be used for other transfer requests or purposes. 
-Please make sure to only submit this form for wholesale transfers. 
-</thinking>
-
 # Wholesale Transfer Request Form - Help Guide
 ## Purpose
 This form is used to submit a request for a wholesale transfer of products between two different warehouses. 

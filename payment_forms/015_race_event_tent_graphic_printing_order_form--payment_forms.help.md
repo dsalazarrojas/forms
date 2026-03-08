@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for the printing of tent graphics for race events. This form is used to determine if a race event requires tent graphics printing and to gather specific details about the event. This form should only be used for race events that actually require graphic printing, and users should not fill it out if their event does not meet this criterion. The form should not be filled out more than once per event.
-
-</thinking>
-
 # Race Event Tent Graphic Printing Order Form - Help Guide
 ## Purpose
 The purpose of this form is to provide information to determine if a tent graphic print is needed for a race event and to gather specific details for the print order.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for validating lab test results in a healthcare setting. The form is used to record and verify the results of laboratory tests performed on patients. This form ensures that the test results are accurately captured and documented for medical review and reference.
 
 The purpose of this form is to gather information about the patient's lab test results, including the test result value, reference range, and any abnormal test results. It also collects dates for when the test was ordered and when the results were received.

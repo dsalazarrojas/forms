@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to collect information about medicine delivery. This form is designed to be used in the medicine delivery process, and it's intended to be used by medical professionals or authorized personnel.
 
 To complete this form, follow these steps:

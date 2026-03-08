@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or healthcare providers for medical reviews. The purpose of this form is to provide a standardized way to gather relevant details about a patient's medical history, diagnosis, treatment plan, and other essential information. This form can be used by healthcare professionals to review and analyze the patient's medical status.
-</thinking>
-
 # Medical Review Submission Form - Help Guide
 ## Purpose
 The Medical Review Submission Form is designed to collect information from patients or healthcare providers for medical reviews.

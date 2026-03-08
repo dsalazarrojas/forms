@@ -1,9 +1,3 @@
-<thinking>
-
-The form is designed for customers to pre-order a custom watch design. It's a crucial tool for the business to collect essential customer information and production details before proceeding with the order. This form should be used for customers who want to customize their watch design and ensure a smooth production process. To use this form, the customer should be in the correct context and have a clear understanding of the watch design they want to pre-order. 
-
-</thinking>
-
 # Watch Design Pre Order Form - Help Guide
 ## Purpose
 This form is used for customers to pre-order a custom watch design. It collects customer information, production details, and other essential data required for the production process.

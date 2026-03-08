@@ -1,8 +1,3 @@
-<thinking>
-To ensure the Vacation rental billing form is used correctly, we should first verify that it's being utilized for its intended purpose. This form should only be used for billing related to vacation rentals. If the user is attempting to bill for a different type of transaction or service, they should not use this form. Additionally, to avoid duplication of effort, users should only use this form once all required information has been collected, and they should not attempt to bill for the same vacation rental multiple times with different forms. This will prevent incorrect or duplicate billing and ensure accurate financial records.
-
-</thinking>
-
 # Vacation rental billing form - Help Guide
 ## Purpose
 

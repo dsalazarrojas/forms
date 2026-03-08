@@ -1,12 +1,3 @@
-<thinking>
-We're going to create a comprehensive help guide for the "Trophy And Award Order Form" in the payment_forms category. Before diving into the details, let's quickly review the form's purpose and the fields provided.
-
-The purpose of this form is to allow users to order trophies or awards. This form collects information about the user's identity, payment method, and order details. It seems that the form is designed for users to place orders for trophies or awards, and the fields cover various aspects of the ordering process.
-
-To ensure the form is used correctly, let's review the fields and their explanations.
-
-</thinking>
-
 # Trophy And Award Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for trophy and award orders. Fill out the form with your details to place an order.

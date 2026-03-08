@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to gather information about a joint bill agreement between a biller and a roommate. The form is used to document the terms of the agreement, including the names and contact information of the individuals involved, the frequency and amount of bills, and the due date for payments. This form is likely to be used by property managers or landlords to ensure that roommates are aware of their financial responsibilities and can manage their shared expenses effectively.
-
-Form purpose: To document the terms of a joint bill agreement between a biller and a roommate.
-
-To avoid duplication and ensure accuracy, users should carefully review the form before submitting it to ensure that they provide accurate and comprehensive information.
-
-</thinking>
-
 # Joint Bills Agreement Form - Help Guide
 ## Purpose
 This form is used to gather information about a joint bill agreement between a biller and a roommate, including their names and contact information, bill frequency and amount, and due date for payments.

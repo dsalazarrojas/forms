@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will walk the user through the purpose and completion of the extended co-living stay booking form.
 
 # extended_co_living_stay_booking_form - Help Guide

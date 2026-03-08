@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for workshops to bill their participants. The form's purpose is to collect information from workshop participants, including their details and payment information. The form is likely to be used by event organizers, workshop managers, or billing coordinators. 
-
-The form is not intended for any other purpose, and it should not be used for other types of activities or events. 
-
-Please ensure that you have a good understanding of this form's purpose before using it, as it will help you complete it correctly and avoid any potential issues or errors.
-</thinking>
-
 # Workshop Billing Form - Help Guide
 ## Purpose
 This form is designed for workshops to collect billing information from their participants.

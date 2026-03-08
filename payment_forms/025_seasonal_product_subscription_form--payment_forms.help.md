@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information for seasonal product subscription purposes. This form is likely used for customers to express interest in seasonal products or services, and to provide necessary contact information for follow-up communication. It's possible that this form is used for marketing or sales purposes, such as generating leads or tracking customer interest. Before filling out this form, please make sure you're not already subscribed to a similar seasonal product or service, as this could be seen as duplicate information.
-
-This form is designed to be completed by customers who are interested in seasonal products or services. To complete this form, simply select the options that apply to you and provide any necessary contact information.
-
-This help guide will walk you through each field of the form, explaining what each field is for and how to complete it.
-
-</thinking>
-
 # Seasonal Product Subscription Form - Help Guide
 ## Purpose
 The purpose of this form is to collect user information for seasonal product subscription purposes, allowing customers to express interest in seasonal products or services and providing necessary contact information for follow-up communication.

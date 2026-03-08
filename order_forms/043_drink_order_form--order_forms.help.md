@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information from users about their drink order. This form is likely used in a cafe or store where customers can order drinks. The "Drink Order Form" is likely used to collect the customer's name, their preferred method of payment, and the type of drink they wish to order. This form will help the staff at the cafe or store to process the order efficiently and ensure that the customer's needs are met.
-</thinking>
-
 # Drink Order Form - Help Guide
 ## Purpose
 The "Drink Order Form" is used to collect information from customers about their drink order. This form is typically used in a cafe or store where customers can order drinks.

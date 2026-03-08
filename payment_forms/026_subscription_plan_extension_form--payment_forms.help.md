@@ -1,11 +1,3 @@
-<thinking>Here's an internal reasoning block to ensure we cover all the required aspects and avoid duplication in the help guide:
-
-- The form is used for subscription plan extensions, which means it's likely used for customers or clients to provide additional information about their subscription plans.
-- We have fields for customer's name, email, phone number, renewal date, subscription ID, and payment method. This form is likely used in a business-to-consumer (B2C) or business-to-business (B2B) setting.
-- The form seems to be comprehensive, covering various payment methods, but some fields might be redundant (e.g., multiple payment method fields). We should focus on the most essential fields and provide clear explanations.
-- We should ensure that the form is easy to understand and use, especially for those with varying levels of technical expertise.
-</thinking>
-
 # Subscription Plan Extension Form - Help Guide
 
 ## Purpose

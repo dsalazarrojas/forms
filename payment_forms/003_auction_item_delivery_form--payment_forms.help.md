@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will first review the form's purpose and ensure it's relevant to the provided YAML fields. Upon reviewing the YAML, I notice that this form is used to capture information for the delivery of auction items to purchasers, which is a crucial part of the auction process.</thinking>
-
 # Auction Item Delivery Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for construction work orders, including client details, service descriptions, and payment terms. The purpose of this form is to ensure that all necessary information is captured accurately and consistently. This form should only be used for construction work orders, not for other types of work or projects. If you need a different type of form, please reach out to the responsible party to discuss alternative solutions.
-
-</thinking>
-
 # Construction Work Order Form - Help Guide
 ## Purpose
 The Construction Work Order Form is used to capture the essential details for a construction work order, including client billing information, service descriptions, hours worked, and payment terms. This form helps to ensure that all relevant information is collected accurately and consistently.

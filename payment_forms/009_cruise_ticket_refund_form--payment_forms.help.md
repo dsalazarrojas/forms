@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to provide a refund for a cruise ticket. The form is used to gather passenger, contact, and refund information for the refund process. It is likely used by cruise operators or customer service representatives to manage refunds for passengers.
-
-This form is part of a larger system, and its completion will trigger subsequent actions or checks within the system, which may include verifying passenger information, checking for refund eligibility, and updating refund status.
-
-This form is designed to be completed by passengers or customer-facing staff. There are no known duplicate or similar forms that exactly match the structure and fields of this form.
-
-Before starting to complete this form, make sure you are authorized to access this form and have all necessary information ready for completion.
-</thinking>
-
 # cruise_ticket_refund_form - Help Guide
 ## Purpose
 

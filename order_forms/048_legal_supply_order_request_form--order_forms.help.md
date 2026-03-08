@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to be a legal supply order request form for users to submit their requests to the supply team. The form collects information from users about the type of order they want to make, the details of the order, the status of the order, the date and time of the request, the items being ordered, delivery details, contact name, contact email, and contact phone. This guide is to ensure that users understand the purpose and structure of the form, and how to complete it efficiently.
-
-This form is intended to be used by both internal and external users. The form does not contain any sensitive information and does not require authentication.
-
-To complete this form, users should start by selecting the type of order they want to make. They can choose from the provided options. Then, they should provide details about the order, including any relevant notes. Next, they should select the status of the order, which can be multiple options. After that, they should provide the date and time of the request, followed by details about the items being ordered and the delivery details. Finally, they should provide their contact information, including name, email, and phone number.
-
-The key fields to focus on in this form are the selection of order type and order status, as these options directly impact the supply team's response and processing of the order. The date and time of the request should also be accurate to ensure timely processing. The supply items and delivery details are also critical as these impact the fulfillment process. The contact information should be accurate and up-to-date to ensure that the supply team can contact the user effectively.
-
-The form is divided into sections for easy navigation and readability. The fields are organized in a logical order to guide users through the process step-by-step.
-
-This guide will help users understand how to complete the form and what information is required to ensure that their requests are accurately processed.</thinking>
-
 # Legal Supply Order Request Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their legal supply order requests.

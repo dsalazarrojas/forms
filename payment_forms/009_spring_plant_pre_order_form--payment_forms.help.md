@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to enable customers to pre-order their Spring plants, providing necessary information for the delivery process and payment details. To ensure accurate and efficient processing, it is essential that customers fill out the form correctly. Please note that this form is a critical part of our business operations, and any errors or inconsistencies may lead to delays or incorrect orders. To avoid duplication and ensure relevance, please review the form carefully before submission.
-</thinking>
-
 # Spring Plant Pre Order Form - Help Guide
 
 ## Purpose

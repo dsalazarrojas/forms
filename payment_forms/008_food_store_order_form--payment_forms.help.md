@@ -1,16 +1,3 @@
-<thinking>
-This form is intended for customers to place orders at a food store. 
-It is designed to gather information about the customer's order details. 
-The form is likely to be used by sales staff or cashiers at the store. 
-It is not intended for use by customers, but for employees to record and report on customer orders. 
-
-This form does not require any specific technical expertise, but it is assumed that the user is familiar with the store's products and services. 
-It is possible that similar forms are used for other purposes at different stores or businesses. 
-It's recommended that users review the form before starting to fill it out to ensure they are aware of all the questions and fields.
-
-Please note that some fields might have specific validation rules or dependencies that will be checked at form submission, so it's recommended that users fill in the form correctly and thoroughly to avoid errors. 
-</thinking>
-
 # Food Store Order Form - Help Guide
 ## Purpose
 The Food Store Order Form is used to record and report on customer orders placed at the store. It collects information about the customer, their order details, and payment method.

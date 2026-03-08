@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect demographic information from patients to facilitate collaboration between patients and healthcare professionals. This form will help in identifying areas of interest for research and patient advocacy, which can lead to more effective care and treatment outcomes. Please ensure you are filling out this form with accurate and honest information.
-</thinking>
-
 # Patient Centered Technology Collaboration Registration - Help Guide
 ## Purpose
 This form is designed to collect demographic information from patients to facilitate collaboration between patients and healthcare professionals. The goal is to understand patients' interests, preferences, and needs to improve healthcare services.

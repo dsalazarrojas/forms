@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to donate to a recreational center. The form is designed for users to provide their information and confirm their donation details. 
-The form is split into two pages, the first page for donor information and the second page for payment details. The form includes fields for donor's name, email, phone number, donation amount, payment method, card number, payment date, and other payment method. 
-The confirmation page at the end is to ensure the user is aware of the donation details they provided.
-</thinking>
-
 # Recreational Center Donation Form - Help Guide
 ## Purpose
 This form is for users to donate to a recreational center.

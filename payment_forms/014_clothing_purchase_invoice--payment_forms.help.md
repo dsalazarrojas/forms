@@ -1,9 +1,3 @@
-<thinking>
-The form appears to be a payment invoice for a clothing purchase transaction. It seems to be a standard form for businesses to generate and submit invoices to customers. It captures essential information about the company and customer details, the items purchased, and the invoice totals. However, I would like to verify that this form is relevant and not a duplication of an existing form, and that the fields and their labels are clear and consistent in their naming conventions.
-
-Let's assume for the sake of this exercise that this form is valid and we can move on to creating the help guide.
-</thinking>
-
 # Clothing Purchase Invoice - Help Guide
 ## Purpose
 This form is used to create a payment invoice for a clothing purchase transaction. It captures the necessary information to generate a comprehensive invoice that includes company and customer details, items purchased, and invoice totals.

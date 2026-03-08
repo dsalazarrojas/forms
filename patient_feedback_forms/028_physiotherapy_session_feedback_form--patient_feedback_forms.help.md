@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Physiotherapy Session Feedback Form", we need to first understand the purpose of the form and what each field represents. This form is designed to collect feedback from patients regarding their experience with a physiotherapist. This form will help the physiotherapist evaluate and improve their services.
-
-We need to ensure that the form is not being used for other purposes and that the fields are not duplicating any existing data collection methods. Let's review the form's purpose and fields carefully to create a user-friendly guide.</thinking>
-
 # Physiotherapy Session Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients regarding their experience with a physiotherapist. It helps the physiotherapist evaluate and improve their services.

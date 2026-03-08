@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to capture various information related to orders, including order details, customer information, payment details, delivery information, and other relevant data. 
-
-The purpose of this form is to gather accurate and comprehensive data for each order, ensuring that all necessary information is collected and up-to-date. 
-
-To avoid duplication of effort, it is essential to ensure that this form is used correctly and consistently across the organization.
-
-</thinking>
-
 # process_control_dashboard_add_on_order_form - Help Guide
 ## Purpose
 This form is designed to collect and manage order-related data, enabling efficient processing and decision-making within the organization.

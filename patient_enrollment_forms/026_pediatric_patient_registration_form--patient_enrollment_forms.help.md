@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pediatric Patient Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from pediatric patients, their parents or guardians, and their emergency contacts. It's crucial for our healthcare team to have accurate and up-to-date information to provide the best possible care. Please ensure that you're filling out this form for the right purpose and not duplicating efforts.

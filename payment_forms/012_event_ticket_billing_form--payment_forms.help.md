@@ -1,5 +1,3 @@
-<thinking>... This help guide provides instructions on filling out the "Event Ticket Billing Form" form to ensure accurate and thorough payment information is captured. Ensure all relevant fields are completed to avoid missing important details. The following guide is intended for end users and assumes no prior knowledge of the form's structure or purpose...</thinking>
-
 # Event Ticket Billing Form - Help Guide
 ## Purpose
 The Event Ticket Billing Form is used to collect payment information for events.

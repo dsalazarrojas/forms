@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Banquet Event Order Form - Help Guide
 ## Purpose
 The Banquet Event Order Form is used to capture detailed information about an event organized by a client, including client contact details, event specifics, and catering and venue requirements. This information is crucial for the banquet team to effectively plan and prepare for the event. Please complete this form accurately and thoroughly to ensure that your event is successfully hosted.

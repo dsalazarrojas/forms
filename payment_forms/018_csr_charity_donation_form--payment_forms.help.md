@@ -1,7 +1,3 @@
-<thinking>
-This form is for donors to contribute to a charity. The form is designed to collect information from donors, including their contact details, donation details, and payment information. The fields are organized into two main sections: Donor Information and Payment Information. The form is intended for individuals who wish to make a one-time or recurring donation, and it provides options for the donor to specify the frequency of their donation. The form also allows the donor to choose how they wish to receive their receipt for their donation. The form's purpose is to ensure that the charity has the necessary information to process the donation and provide the donor with a receipt.
-</thinking>
-
 # CSR Charity Donation Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect payment information for real estate transactions, ensuring accuracy and consistency in financial records. It should only be used for real estate-related payments, and not for any other financial transactions. Please ensure that all required fields are completed, as this will impact the form's submission process.
-</thinking>
-
 # real_estate_agent_payment_portal - Help Guide
 ## Purpose
 This form is designed to collect payment information for real estate transactions.

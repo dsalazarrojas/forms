@@ -1,7 +1,3 @@
-<thinking>
-The "Counselor Honorarium Submission Form" is a form used to collect information from Counselors to provide an honorarium, which is a monetary payment or recognition given to a person for their services or efforts. This form is designed to gather necessary details related to the payment, including payment method, amount, and reason for the payment. The form is intended for Counselors to submit their payment information, ensuring that the payment process is efficient and accurate. To avoid duplication of efforts, it is essential to carefully review and fill out this form to ensure that all required details are provided. 
-</thinking>
-
 # Counselor Honorarium Submission Form - Help Guide
 ## Purpose
 The Counselor Honorarium Submission Form is a tool used to collect payment information from Counselors, ensuring that all necessary details are gathered for the payment process.

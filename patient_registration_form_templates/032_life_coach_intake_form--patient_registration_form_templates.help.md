@@ -1,8 +1,3 @@
-<thinking>
-We're designing a form to collect patient information for life coaching services. This form will gather essential details about the patient's personal and medical history, contact information, and emergency contact details. It's crucial to complete this form accurately to ensure that the life coach has a comprehensive understanding of the patient's needs and can provide effective support. 
-Please ensure that you fill out this form carefully and truthfully. If you have any questions or concerns, please reach out to the life coach or our support team. We aim to provide a safe and comfortable environment for our patients, and your cooperation in completing this form is essential to achieving that goal. 
-</thinking>
-
 # Life Coach Intake Form - Help Guide
 ## Purpose
 The Life Coach Intake Form is designed to collect essential information about you, our patient. This information will help our life coaches understand your needs and provide personalized support.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to place an order for waste compactors. It is a crucial document that requires careful completion to ensure accurate and timely delivery of the correct type and quantity of waste compactors. The form should not be used for other purposes, such as requesting information or general inquiry. Each field is crucial in ensuring that the order is fulfilled correctly.
-</thinking>
-
 # Waste Compactor Supply Order Form - Help Guide
 ## Purpose
 The Waste Compactor Supply Order Form is a critical document used to order waste compactors from our organization. It ensures that the correct type and quantity of waste compactors are delivered to your location on time.

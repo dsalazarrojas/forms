@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect billing information from customers purchasing concert tickets. The form is intended to gather essential details to process payments and provide customers with receipts. This form is not affiliated with any concert ticketing platform and is an original adaptation using public survey data. It is released under a Creative Commons BY 4.0 license, allowing users to modify and distribute the form freely, as long as proper credit is given.
-
-</thinking>
-
 # Concert Ticket Billing Form - Help Guide
 
 ## Purpose

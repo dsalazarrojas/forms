@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient History Declaration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information for intake purposes. This form is designed to be simple and easy to understand, requiring only the most essential details from patients. The information collected will be used to create a patient's record, which will be used for medical purposes.
-</thinking>
-
 # Patient Intake Form - Help Guide
 
 ## Purpose

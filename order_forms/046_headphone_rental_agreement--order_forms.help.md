@@ -1,7 +1,3 @@
-<thinking>
-We'll assume this form is used for schools or other organizations to request headphone equipment rentals for an event. The form might be used by schools or events teams to gather information about the event, including the event title, start and end dates, equipment needed, contact information, and more. This form likely requires the user to input details about the event and the equipment they need, and possibly some contact information for follow-up. We'll create a user-facing help guide to explain the purpose and usage of this form.
-</thinking>
-
 # Headphone Rental Agreement - Help Guide
 ## Purpose
 The Headphone Rental Agreement form is used by schools or events teams to request headphone equipment for an event. This form helps us gather necessary information about the event and the equipment needed to ensure a smooth rental experience.

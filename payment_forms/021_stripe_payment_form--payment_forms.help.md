@@ -1,9 +1,3 @@
-<thinking>
-This form is for processing payments through the Stripe payment gateway.
-Stripe is a popular online payment system that allows you to accept payments on your website or application. The goal of this form is to gather information about the payment method, amount, and other relevant details.
-To ensure this form is relevant and not duplicated, we need to check for existing payments or payment failures. This form will not be completed if there's any existing payment data or payment failures.
-</thinking>
-
 # stripe_payment_form - Help Guide
 ## Purpose
 The Stripe payment form is designed to collect information for payments processed through the Stripe gateway. This form is intended for customers or users who wish to make a payment.

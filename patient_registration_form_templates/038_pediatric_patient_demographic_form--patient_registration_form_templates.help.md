@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic information for pediatric patients. It's meant to be used in clinical settings, such as hospitals or healthcare facilities, to gather data about patients' ages, genders, dates of birth, weights, heights, medical records, emergency contacts, addresses, and other relevant details. This form can help healthcare professionals streamline patient registration and ensure accurate record-keeping.
-</thinking>
-
 # Pediatric Patient Demographic Form - Help Guide
 ## Purpose
 This form is used to collect demographic information for pediatric patients. It's essential to fill it out accurately to ensure the best possible care for the patient.

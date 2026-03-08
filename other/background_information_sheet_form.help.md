@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive personal information collection template, likely for employment or onboarding purposes. It appears to cover various aspects of an individual's background, employment, and emergency contact details. To ensure the form is filled out correctly, the user should first confirm that they understand the intended purpose and any specific requirements or guidelines for submission. Additionally, the form may need to be reviewed by multiple stakeholders before being shared with or submitted by end-users. This could be to prevent duplication or ensure consistency in data collection.
-</thinking>
-
 # untitled form - Help Guide
 ## Purpose
 This form is designed to collect personal and professional information from individuals for employment or onboarding purposes.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used to select the refund method for a return or exchange. It is essential to fill out this form correctly to ensure that the refund process is completed efficiently and accurately. Before proceeding, please review the form carefully to avoid errors.
-
-The form consists of 8 fields, each with its own specific purpose. Ensure that you fill out each field according to the instructions below to get the best results.
-
-Please note that while the form has some optional fields, filling out all the required fields is crucial for the refund process to be completed correctly.
-</thinking>
-
 # Return Refund Method Selection Form - Help Guide
 ## Purpose
 This form is used to select the refund method for a return or exchange. It is essential to fill out this form correctly to ensure that the refund process is completed efficiently and accurately.

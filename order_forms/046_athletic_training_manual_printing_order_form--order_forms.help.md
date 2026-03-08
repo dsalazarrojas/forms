@@ -1,9 +1,3 @@
-<thinking>...I am checking that I understand the form purpose and requirements...
-
-This form is for ordering athletic training manuals in print. The form requires organization information, contact details, order specifics (manual title, type, quantity, and more), and shipping information. It also includes fields for budget and payment details. This form seems comprehensive but not overly complex. The main goal is to ensure the order form captures all necessary details for accurate processing and fulfillment.
-
-</thinking>
-
 # Athletic Training Manual Printing Order Form - Help Guide
 ## Purpose
 This form is for ordering athletic training manuals in print. It captures all necessary information for accurate processing and fulfillment of your order.

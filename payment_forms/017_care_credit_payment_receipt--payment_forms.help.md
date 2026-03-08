@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for a payment receipt, likely used for tracking and administrative purposes within an organization. The form is designed to gather details about a payment, including the payer's information, payment method, and any relevant notes. This form is intended for internal use within the organization and may not be designed for end-user interaction, as the fields are likely to be specific to the organization's internal systems and processes.
-
-Before filling out this form, ensure that you have all the necessary information and that the form is not intended for external use. If you are unsure or need clarification on any of the fields, please check with the responsible party within the organization.
-</thinking>
 # Care Credit Payment Receipt - Help Guide
 ## Purpose
 This form is used to record payment details for administrative purposes within the organization.

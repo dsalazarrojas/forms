@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to monitor parent-teacher engagement in schools, likely for the purpose of evaluating or improving the relationship between parents and teachers. This form likely aims to gather data on key aspects of this engagement, such as parent involvement, teacher support, communication methods, and areas for improvement. It is likely used by school administrators or educators to assess the current state of parent-teacher engagement and identify areas that need attention. It is also possible that this form is used for research or evaluation purposes, such as assessing the effectiveness of parent-teacher programs or initiatives.
-
-Before proceeding, ensure that you are familiar with the school's policies and procedures regarding parent-teacher engagement. If you are unsure about the purpose or scope of this form, please consult with your supervisor or a relevant school official.
-
-This form is designed to be completed by teachers, parents, or other relevant stakeholders, and it consists of multiple pages with various fields to gather different types of information. Please follow the instructions below to complete the form accurately and effectively.
-
-</thinking>
 # Parent Teacher Engagement Monitoring Form - Help Guide
 ## Purpose
 This form is designed to monitor and evaluate parent-teacher engagement in schools. It gathers data on key aspects of this engagement, including parent involvement, teacher support, communication methods, and areas for improvement.

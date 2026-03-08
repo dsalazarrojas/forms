@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from new clients, including their personal details, medical history, and emergency contact information. The form is typically used in a healthcare setting to gather essential data for patient care and treatment. It's crucial to ensure that this form is completed accurately and thoroughly to provide the best possible care for the client.
-</thinking>
-
 # New Client Intake Form - Help Guide
 ## Purpose
 The New Client Intake Form is designed to collect essential information from new clients in a healthcare setting. This form helps gather personal details, medical history, and emergency contact information to provide the best possible care for the client.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block is to ensure that the form purpose and requirements are understood before providing the user-facing help guide. The form is designed to collect feedback from developers about their experiences, skills, and preferences. It is an End of Year Programming Survey that aims to gather information on the following:
 
 * Top 3 favorite programming languages

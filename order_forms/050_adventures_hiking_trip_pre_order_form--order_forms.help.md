@@ -1,18 +1,3 @@
-<thinking>
-This form is intended to collect information for the organizer to prepare for a hiking trip. The form should be filled out by trip participants to provide the necessary details for a smooth trip experience. The fields are designed to be self-explanatory, but to avoid any confusion, the following is a brief overview of each field's purpose:
-
-*   The **organizer name** field is for the participant to input the name of the person organizing the trip.
-*   The **trip date** field is to select the date of the trip.
-*   The **group size** field is to indicate how many people are participating in the trip.
-*   The **meal options and counts** field is to inform the organizer about any special meal requirements or dietary needs of the participants.
-*   The **equipment rental required** field is to let the organizer know if any equipment needs to be rented for the trip.
-*   The **pickup location** field is the meeting point for the trip.
-*   The **payment status** field indicates if the participant has paid for the trip or if payment is pending.
-*   The **special requirements** field is for participants to indicate any accessibility or other special needs.
-*   The **contact phone** field is for the participant to provide their contact number for trip coordination.
-
-</thinking>
-
 # Adventures Hiking Trip Pre Order Form - Help Guide
 ## Purpose
 The Adventures Hiking Trip Pre Order Form is designed for participants to provide information about their trip plans and any special needs they may have. The form will aid the trip organizer in preparing for a smooth and enjoyable experience.

@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather patient information and assess the severity of their condition. This form collects data from the patient, including their medical history, symptoms, test results, and treatment plans. The form is likely used in a healthcare setting, such as a clinic or hospital, to aid healthcare professionals in making informed decisions about patient care.
-
-To ensure this form is not used to duplicate effort or waste time, it's essential to understand its intended use and purpose. The form should only be used to assess patients who have not previously been assessed. If a patient's information has already been collected, using this form would be redundant and may lead to confusion or incorrect assessments.
-
-</thinking>
-
 # Patient Assessment Form - Help Guide
 ## Purpose
 The Patient Assessment Form is designed to collect data from patients and aid healthcare professionals in making informed decisions about their care.

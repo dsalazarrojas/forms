@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information for a pre-order for custom candies. The form will be used by customers to place a pre-order for limited edition candies. The form will ask for contact information and order details such as flavor selection, quantity, and delivery instructions. The form will also collect payment information to ensure the customer is aware of the total amount due. The form is intended for customers who want to pre-order custom candies in advance.
-
-To ensure that the form is filled out correctly and in the correct format, it is essential to carefully review each field and understand its purpose.
-
-</thinking>
-
 # Candy Flavor Pre Order Form - Help Guide
 
 ## Purpose

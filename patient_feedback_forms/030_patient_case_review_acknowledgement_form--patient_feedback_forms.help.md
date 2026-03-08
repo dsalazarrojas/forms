@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help healthcare providers understand patient feedback on the case review process. It collects information on the patient's case review experience, including their level of understanding, case status, priority, and other relevant details. The form is designed to provide valuable insights for healthcare providers to improve their case review processes and patient care.
-
-</thinking>
-
 # Patient Case Review Acknowledgement Form - Help Guide
 ## Purpose
 The Patient Case Review Acknowledgement Form is a tool for patients to provide feedback on their case review experience. It helps healthcare providers understand how well they have communicated with the patient, how clear the case review process was, and what areas for improvement are needed.

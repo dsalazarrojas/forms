@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to process customer refunds for customized products. It captures essential information required for refund processing, including customer details, product identification, return reason, refund amount, shipping information, payment method, and any additional customer notes. The form should only be completed if you are a customer looking to initiate a refund for a customized product ordered from our company. If you have already submitted a refund request, please do not complete this form again as it will not be processed. ...</thinking>
-
 # Customized Product Refund Form - Help Guide
 ## Purpose
 This form is for customers who want to initiate a refund for their customized product. Please fill out this form with your details, and we will review and process your refund request as soon as possible.

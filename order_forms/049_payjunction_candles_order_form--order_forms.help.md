@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Payjunction Candles Order Form - Help Guide
 ## Purpose
 This form is used to collect order details, customer information, and payment details for candle orders. It is intended for customers and order administrators to input and review information related to the order process.

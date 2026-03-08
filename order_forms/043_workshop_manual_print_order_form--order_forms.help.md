@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to be used by customers to order workshop manuals for printing. 
-The form will gather information about the workshop manual being ordered, including 
-the delivery method and any special instructions or notes. 
-The form is used by internal staff to process the order, so it is essential that the required fields are completed accurately. 
-If the customer wants to order more than one manual, they can repeat the form for each manual. 
-This form should not be used for ordering other products or services not related to workshop manuals.
-</thinking>
-
 # Workshop Manual Print Order Form - Help Guide
 ## Purpose
 This form is used to order workshop manuals for printing. Please fill out the form accurately to ensure your order is processed correctly.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Breakout Session Material Order Form - Help Guide
 
 ## Purpose

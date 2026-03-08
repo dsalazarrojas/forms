@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a patient's medical encounter. It's essential to use this form consistently to ensure accurate and complete data for medical records. Please make sure to use this form for each patient encounter, and avoid duplicating or modifying it, as it may cause inconsistencies in patient data.
-</thinking>
-
 # Patient Encounter Form Template - Help Guide
 ## Purpose
 The Patient Encounter Form Template is used to gather information about a patient's medical encounter, including medical history, medications, allergies, medical conditions, and other relevant details. This form ensures that all necessary information is captured accurately and consistently for medical records.

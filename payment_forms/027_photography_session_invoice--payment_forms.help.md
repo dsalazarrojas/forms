@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate a photography session invoice for customers. It is likely used by photographers to collect payment information and other relevant details from customers after a photography session. The form should be completed by the customer to provide their payment and contact information. Please ensure that the form is relevant to your business context and not duplicated in your current workflow.
-</thinking>
-
 # Photography Session Invoice - Help Guide
 ## Purpose
 This form is used to collect payment and contact information from customers after a photography session.

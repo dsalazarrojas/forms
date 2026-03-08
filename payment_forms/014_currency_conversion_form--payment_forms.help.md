@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Currency Conversion Form - Help Guide
 
 ## Purpose

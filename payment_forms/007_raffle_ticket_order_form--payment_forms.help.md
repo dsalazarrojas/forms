@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for customers to order raffle tickets, providing details about the tickets and the customer. It seems to be a form for online sales, with fields for customer information, ticket type, quantity, payment method, and order details. This guide will help customers complete the form correctly.
-</thinking>
-
 # Raffle Ticket Order Form - Help Guide
 
 ## Purpose

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for recording and managing legal retainer payments. A retainer payment is a recurring payment made by a client to a lawyer or law firm for ongoing legal services. This form is used to capture details about the client, the payment terms, and the status of the payment. The purpose of this form is to ensure that payments are accurately recorded and that the lawyer or law firm has all the necessary information to manage the client's account.
-The form is intended for use by lawyers or law firms who need to manage client payments.
-</thinking>
-
 # legal_retainer_payment_form - Help Guide
 ## Purpose
 

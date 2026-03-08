@@ -1,9 +1,3 @@
-<thinking>
-  The purpose of this form, "payment_process_feedback_form", is to gather user feedback on their experience with the payment process. This form is designed to be a simple and effective way to collect feedback, allowing users to express their thoughts and feelings about their interactions with the payment process. The form is intended to be user-friendly, making it easy for users to provide their input and help improve the payment process. 
-  To prevent duplication, please ensure that you are not using this form to provide feedback on a payment process that has already been completed or is not relevant to your current experience.
-  This form has 6 fields that are designed to elicit information on different aspects of the payment process. Please answer the questions as accurately and honestly as possible.
-</thinking>
-
 # payment_process_feedback_form - Help Guide
 ## Purpose
 The payment_process_feedback_form is designed to gather user feedback on their experience with the payment process. This form is intended to be a simple and effective way to collect feedback, allowing users to express their thoughts and feelings about their interactions with the payment process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place orders for custom name plates. The form is designed to collect information about the customer's name, order details, and custom preferences such as font and material. The form is required for customers to specify the type of name plate they want, the size and quantity of the order, and any special requests they may have. To use this form, simply follow the instructions below.
-</thinking>
-
 # Name Plate Order Form - Help Guide
 ## Purpose
 The Name Plate Order Form is a tool used by customers to create and customize their name plates, which can be applied to a variety of objects or machines, such as vehicles, laptops, or other items that require identification or branding.

@@ -1,7 +1,3 @@
-<thinking>
-We are designing a help guide for a form titled "untitled_form" which is a part of the "SurveyTemplates" category. The form is intended to collect patient information for follow-up purposes. It appears that this form is not meant to be completed by a patient themselves but rather by a healthcare professional or administrator for administrative purposes. The form seems to be designed for a specific hospital or medical setting, as some fields such as "Hospital Name" and "Contact Person" suggest an institutional context. This form is likely used for record-keeping and data collection within the hospital. To avoid duplication, it's best to verify with the relevant stakeholders before finalizing this form design.
-</thinking>
-
 # untitled_form - Help Guide
 
 ## Purpose

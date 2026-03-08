@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to collect donations for the Urban Farming Education Fund. The form will gather information about the donor, including their name, email, phone number, amount donated, payment method, a comment (optional), the organization they represent, and a submission button. This form will likely be used by a non-profit or educational institution to track and process donations from individuals and organizations. It is likely that the form will be used online or in-person, and should be clear and accessible for all users.
-</thinking>
-
 # Urban Farming Education Fund Donation Form - Help Guide
 ## Purpose
 The Urban Farming Education Fund Donation Form is designed to collect donations and relevant information from individuals and organizations. The form will help the non-profit or educational institution track and process donations.

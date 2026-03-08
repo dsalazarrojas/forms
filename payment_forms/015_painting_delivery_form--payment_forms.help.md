@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about the delivery of paintings. It is intended for use within an art-related business or organization that needs to track and manage painting deliveries. The form does not duplicate any existing forms, but its purpose is to assist in organizing and recording painting delivery details. The form will likely be used by art handlers, curators, or administrators. The form does not require any proprietary form creation or survey platform data and is based on a public metadata survey of form topics.
-</thinking>
-
 # Painting Delivery Form - Help Guide
 ## Purpose
 This form is used to capture information about the delivery of paintings, including details about the recipient and the delivery address.

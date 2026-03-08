@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Elite Club Refund Form - Help Guide
 
 ## Purpose

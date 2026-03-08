@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for passengers to purchase priority boarding upgrades for their flights. The primary goal is to collect relevant passenger information, payment details, and consent to terms and conditions. The form includes fields for passenger name, booking reference, flight number, departure date, contact email, priority level, number of passengers, calculated payment amount, credit card type, cardholder name, billing address, and terms and conditions agreement. The form is intended for passengers who wish to upgrade their boarding experience. It is not meant for internal or technical use, and it's assumed that users have a valid booking reference (PNR) to associate with their purchase. Each field should be filled accurately and consistently to ensure smooth and secure payment processing.
-</thinking>
-
 # Airline Priority Boarding Purchase Form - Help Guide
 ## Purpose
 The Airline Priority Boarding Purchase Form is designed for passengers to purchase priority boarding upgrades for their flights. This guide will walk you through each field of the form, ensuring a smooth and secure experience for you.

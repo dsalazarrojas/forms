@@ -1,6 +1,3 @@
-<thinking> 
-The BlueSnap Food Online Order Form is designed to facilitate online food ordering for customers. This form is part of a larger system for managing food delivery orders, allowing customers to provide their contact information, select their preferred delivery time and meal category, and specify their order details. To complete this form, customers will need to provide accurate and complete information, especially as certain fields are marked as required. This form will be used by customers to place orders for food delivery, so it is essential to ensure all required fields are filled correctly. The form's purpose is to collect order information, payment details, and other essential data for order processing and delivery. Customers can also add special requests or dietary restrictions, making it easier for the delivery team to accommodate their needs.</thinking>
-
 # BlueSnap Food Online Order Form - Help Guide
 ## Purpose
 The BlueSnap Food Online Order Form is designed to facilitate online food ordering for customers. This form is part of a larger system for managing food delivery orders, allowing customers to provide their contact information, select their preferred delivery time and meal category, and specify their order details.

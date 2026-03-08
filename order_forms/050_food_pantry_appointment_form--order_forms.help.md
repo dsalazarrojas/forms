@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users about their food pantry appointments, including personal details such as name, email, phone number, and address. The form is likely used by a business or organization that provides services related to food pantries, possibly for scheduling appointments or tracking client interactions. The fields are mostly optional, indicating that the form may be used for both required and voluntary submissions. To avoid duplication, users should only fill out the necessary fields and not repeat any information already provided in other forms or systems.
-
-</thinking>
-
 # Food Pantry Appointment Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for food pantry appointments.

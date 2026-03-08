@@ -1,10 +1,3 @@
-<thinking>
-The Special Levy Reminder Form is used to create and manage special levy reminder records. This form is used to record information about special levies, including the property name, notice date, notice period, resident response, acknowledgement date, acknowledgement status, and other relevant details. To avoid duplication, please only submit one special levy reminder record per property.
-
-This form is intended for use by authorized personnel in the organization, and its purpose is to provide a structured and efficient way to document and track special levy information.
-
-</thinking>
-
 # Special Levy Reminder Form - Help Guide
 ## Purpose
 The Special Levy Reminder Form is used to create and manage special levy reminder records for properties with outstanding levies.

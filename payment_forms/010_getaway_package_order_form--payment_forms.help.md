@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process getaways package orders. The form is used for customers to select and order packages, provide payment details, and track package status. This form will help the customer to manage their order efficiently.
-</thinking>
-
 # Getaway Package Order Form - Help Guide
 ## Purpose
 The purpose of this form is to allow customers to order getaways packages by selecting the desired package options, providing payment details, and tracking the status of their packages.

@@ -1,15 +1,3 @@
-<thinking>
-The form is likely used for collecting payment information and details for a dock rental reservation. The fields may be used to store information about the reservation, such as the reservation date, unit number, unit type, payment status, payment method, and other relevant details. It is essential to ensure that the correct fields are filled in to avoid errors and ensure accurate data entry.
-
-To avoid duplication, the form should only be filled in when a new reservation is being created or updated.
-
-It is also crucial to note that some fields may have specific formatting requirements, such as the date fields which should be in the correct date format.
-
-Additionally, some fields may have specific validation rules, such as the email field which should be in the correct format.
-
-The form may be used in conjunction with other forms or systems to collect and store information about dock rentals.
-</thinking>
-
 # Dock Rental Payment Form - Help Guide
 ## Purpose
 The Dock Rental Payment Form is used to collect payment information and details for a dock rental reservation.

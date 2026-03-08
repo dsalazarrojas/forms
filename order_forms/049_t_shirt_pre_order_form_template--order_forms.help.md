@@ -1,5 +1,3 @@
-<thinking>Before creating this form, let's consider the form's purpose and required fields. As per the input schema, the "T-Shirts Pre Order Form Template" is an order form with various fields to gather customer information, shipping details, and order specifics. The form's purpose is to collect data for processing pre-orders, and it's likely used for an online store. Each field should be explained in the context of ordering a t-shirt. Let's make sure there are no duplicate or unnecessary fields. I will review the fields and provide a clear explanation for each one. I will also consider the type of each field and its relation to the order process.</thinking>
-
 # T-Shirts Pre Order Form Template - Help Guide
 ## Purpose
 This form is designed to collect information for pre-ordering t-shirts. Please fill out the form with your details to help us process your order efficiently.

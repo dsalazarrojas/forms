@@ -1,11 +1,3 @@
-<thinking> 
-This form is used to create an order for custom gift boxes for an athletic conference. The form is designed to collect information about the event, the gift box details, and the billing information for the order. 
-
-The form is likely to be used by event organizers or conference coordinators to create an order for a large quantity of gift boxes to be distributed to participants or attendees. The purpose of this form is to ensure that all necessary details are collected to process the order correctly and efficiently. 
-
-Note: There are some required fields that must be filled in, and some optional fields that can be filled in if needed. Be sure to fill in all required fields before submitting the form.
-
-</thinking>
 # Athletic Conference Gift Box Order Form - Help Guide
 ## Purpose
 The Athletic Conference Gift Box Order Form is used to create a custom order for a gift box to be used at a conference or event. 

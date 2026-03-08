@@ -1,9 +1,3 @@
-<thinking>
-Internal note: This form is used to register businesses that wish to participate in shipping discounts. The form asks for basic contact information and a few other relevant fields to ensure the business is legitimate and able to receive and process discounts.
-This form will help us verify the identity and legitimacy of the business, and ensure that they are able to receive and process the shipping discounts.
-It is recommended that businesses that are already registered do not submit this form again.
-</thinking>
-
 # Shipping Discount Registration Form - Help Guide
 ## Purpose
 The Shipping Discount Registration Form is used to register businesses that wish to participate in shipping discounts. This form helps us verify the identity and legitimacy of the business, and ensure that they are able to receive and process the shipping discounts.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "event_supplies_requisition_form", is designed to help event planners and coordinators request supplies for events. The form likely serves as a tool for event organizers to submit their supply requirements, which could include catering services, decorations, miscellaneous items, and other event essentials. 
-
-Before proceeding with the form, ensure you are authorized to access and submit this form. This form might be part of a larger system, and accessing it without permission could be a security breach. Furthermore, to avoid duplicates, ensure you've checked whether a similar form or requisition has already been submitted.
-
-</thinking>
-
 # event_supplies_requisition_form - Help Guide
 ## Purpose
 The event_supplies_requisition_form is used by event planners and coordinators to request supplies for events. It helps in submitting supply requirements which can be anything from catering services, decorations, miscellaneous items, and other essential event supplies.

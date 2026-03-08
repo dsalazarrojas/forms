@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Rare Disease Patient Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients on their experiences with rare diseases, focusing on symptom management, treatment challenges, and overall support satisfaction. Your feedback will help us understand how we can better support individuals affected by these conditions.

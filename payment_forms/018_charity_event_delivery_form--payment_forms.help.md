@@ -1,12 +1,3 @@
-<thinking>
-To create a clear and user-friendly help guide for the Charity Event Delivery Form, I will focus on the following:
-
-- The form is designed for charities or non-profit organizations to provide delivery services, such as food, clothing, medical supplies, educational materials, or other essential items to those in need.
-- The form collects information about the organization, contact details, delivery specifics (date, time, address), and payment method for the delivery.
-- Each field is carefully crafted to gather necessary information to ensure efficient and secure delivery of the donated items.
-
-</thinking>
-
 # Charity Event Delivery Form - Help Guide
 
 ## Purpose

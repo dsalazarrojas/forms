@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # Personalized Egg Basket Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a personalized egg basket order. It captures details such as customer information, egg basket type, quantity, unit price, and delivery instructions to ensure accurate and efficient processing of orders.

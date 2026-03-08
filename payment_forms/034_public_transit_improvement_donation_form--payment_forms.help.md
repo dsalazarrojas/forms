@@ -1,15 +1,3 @@
-<thinking>...internal reasoning about the form purpose...
-
-The Public Transit Improvement Donation Form is designed to allow users to contribute to the improvement of public transit systems. This form will collect information about the user's preferred payment method, the amount they wish to donate, and some basic contact information (name, email, phone number, and address). The form is intended to be filled out by users who want to support the development and maintenance of public transit infrastructure, such as buses, trains, or bike lanes. The goal is to make public transit more efficient, safe, and appealing for citizens.
-
-The form's purpose is likely related to crowdfunding or charity efforts, where users can contribute financially to specific projects or programs that benefit public transit. Users can choose between different payment methods and select a custom amount to donate, making the experience flexible and personalized.
-
-It's also possible that the form is used for surveys or polls, where users can provide their feedback on public transit improvements or services.
-
-Before completing this form, please make sure to review our guidelines and FAQs to understand our public transit improvement initiatives and how your contribution will be used.
-
-</thinking>
-
 # Public Transit Improvement Donation Form - Help Guide
 ## Purpose
 The Public Transit Improvement Donation Form is designed to allow users to support the improvement of public transit systems. This form collects information about the user's preferred payment method, donation amount, and contact details.

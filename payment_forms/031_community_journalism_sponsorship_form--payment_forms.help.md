@@ -1,7 +1,3 @@
-<thinking>
-The "Community Journalism Sponsorship Form" is designed to gather information from individuals or organizations interested in supporting local journalism. This form is a crucial tool for the newsroom to understand the commitment and preferences of potential sponsors, ensuring a clear and transparent partnership. By filling out this form, sponsors can choose their desired level of commitment, specify their contribution amount, and select how they would like to be recognized. The form also allows sponsors to designate their funds to a specific journalism initiative of their choice. This helps the newsroom allocate resources effectively and ensure that their support aligns with the sponsor's goals. Please ensure that this form is completed only once per sponsor, and if you're a returning sponsor, you can update your information without filling out the entire form again.
-</thinking>
-
 # Community Journalism Sponsorship Form - Help Guide
 ## Purpose
 The Community Journalism Sponsorship Form is a crucial tool for the newsroom to understand the commitment and preferences of potential sponsors. By filling out this form, sponsors can choose their desired level of commitment, specify their contribution amount, and select how they would like to be recognized. This form helps the newsroom ensure a clear and transparent partnership.

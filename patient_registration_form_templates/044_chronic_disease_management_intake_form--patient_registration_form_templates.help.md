@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from patients for chronic disease management. The form is used to collect demographic data, medical history, and lifestyle information from patients to provide effective care. This form helps healthcare providers understand the patient's medical history, conditions, and concerns, enabling them to tailor treatment plans to their specific needs.
-</thinking>
-
 # Chronic Disease Management Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients to facilitate effective chronic disease management.

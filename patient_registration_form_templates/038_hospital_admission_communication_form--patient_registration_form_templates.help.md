@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for use in a hospital admission setting to gather information from patients about their medical history, contact details, and other relevant medical information. This form is likely to be used by hospital staff to quickly and efficiently collect the necessary information for a patient's admission process. It's possible that the form is already being used in a similar capacity elsewhere in the hospital, but this guide will provide a clear explanation of each field to ensure that all users understand its purpose and correct usage.
-
-</thinking>
-
 # Hospital Admission Communication Form - Help Guide
 ## Purpose
 The Hospital Admission Communication Form is designed to collect information from patients about their medical history, contact details, and other relevant medical information in a hospital admission setting.

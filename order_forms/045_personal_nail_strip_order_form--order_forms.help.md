@@ -1,7 +1,3 @@
-<thinking>
-This form is a comprehensive order form used to capture information for a personalized nail strip order. It's designed to gather data from customers, including their contact and shipping information, order details, and payment and shipping methods. This form is not intended to be used for other types of orders or transactions, but rather for a specific type of nail strip order.
-</thinking>
-
 # Personal Nail Strip Order Form - Help Guide
 ## Purpose
 This form is intended for customers who wish to place a personalized nail strip order. It will capture their contact and shipping information, order details, and payment and shipping methods.

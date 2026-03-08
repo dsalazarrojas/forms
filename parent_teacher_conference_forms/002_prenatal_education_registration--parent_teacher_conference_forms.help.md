@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I need to ensure that the form serves the purpose of registering participants for prenatal education. The form is meant for expected mothers to provide essential information about their expected date, contact details, and preferences, such as assigned tools and category. This guide will walk you through the form fields to help them complete it effectively. Before proceeding, ensure that you have the necessary information and permissions to fill out this form. Also, make sure you're not duplicating efforts, as this form is intended for registering new participants. Once you're ready, let's dive into the help guide.</thinking>
-
 # Prenatal Education Registration - Help Guide
 ## Purpose
 This form is designed to register participants for prenatal education, helping us understand their expected date, contact details, and preferences for a smooth and personalized experience.

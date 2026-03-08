@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # damaged_goods_claim_form - Help Guide
 ## Purpose
 The Damaged Goods Claim Form is used to report any issues with a product from a customer's order. This form helps us to efficiently process claims and resolve any problems with the product.

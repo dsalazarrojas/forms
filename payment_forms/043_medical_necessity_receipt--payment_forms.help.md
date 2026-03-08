@@ -1,17 +1,3 @@
-<thinking>
-This form is used to document a patient's visit to the medical facility, capturing essential information such as patient name, date of visit, services provided, medical costs incurred, insurance coverage, and the provider's signature. This form is crucial for maintaining accurate records and ensuring transparency in medical billing and insurance claims. To ensure data quality and consistency, please fill out this form carefully and only once for each patient visit.
-
-The form has multiple pages with the following fields:
-*   Patient Name: A text field to enter the patient's name.
-*   Date of Visit: A date field to record the visit date.
-*   Services Provided: A dropdown selection of services such as "Primary Care Visit", "Specialist Visit", and "Lab or Imaging Procedure" to note the medical services rendered.
-*   Medical Costs: A numeric field to record the monetary costs of services provided.
-*   Insurance Coverage: A dropdown selection of options including "True", "False", "Pending Review" to indicate if the services were covered by insurance.
-*   Signature: A note field for any additional comments.
-*   Medical Provider Signature: A select-one dropdown with Dr. Smith, Dr. Johnson, and Dr. Lee for the medical provider's signature.
-
-</thinking>
-
 # Medical Necessity Receipt - Help Guide
 ## Purpose
 The Medical Necessity Receipt form is a crucial tool for documenting a patient's visit, ensuring accurate billing, and insurance claims.

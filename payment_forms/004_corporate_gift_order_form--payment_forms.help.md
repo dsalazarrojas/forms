@@ -1,6 +1,3 @@
-<thinking> 
-This form seems to be related to corporate gift ordering, where companies can order gifts for their employees or clients. However, I don't have enough information about the organization's internal context or business logic to fully understand how this form should work. I will assume that it's a general form for ordering gifts, and create a help guide based on the provided YAML. If you have any additional information or clarification about the form's purpose, please provide it.</thinking>
-
 # Corporate Gift Order Form - Help Guide
 ## Purpose
 This form is for companies to order gifts for their employees or clients. It collects information about the gift selection, recipient details, delivery preferences, and other relevant data.

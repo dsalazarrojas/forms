@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect payment information for VIP tickets. It is designed for event organizers to input payment details for each ticket sold, including payment method, ticket price, payment amount, and other relevant information. This form is likely used in conjunction with other forms that collect event information, such as event dates, locations, and status.
 
 To complete this form accurately, make sure to have the necessary information readily available. 

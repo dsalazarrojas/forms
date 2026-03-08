@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the PayPal Nonprofit Donation Form. The form is intended to collect information from donors, including their name, email, phone number, donation amount, donation frequency, preferred payment method, and any additional comments or comments about their experience with the service. This form is likely used for internal tracking and reporting purposes, and its completion is a required step in the donation process for the nonprofit organization. It is not necessary to create multiple instances of this form as it will be reviewed and updated regularly.
-</thinking>
-
 # PayPal Nonprofit Donation Form - Help Guide
 ## Purpose
 The PayPal Nonprofit Donation Form is designed to collect information from donors for internal tracking and reporting purposes.

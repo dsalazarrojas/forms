@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information from patients undergoing oncology treatment or care. It is designed to gather general information about the patient, their treatment plan, medical history, allergies, medication list, and any relevant lab results. This form is intended to be a comprehensive resource for healthcare professionals to gather necessary information before discharging a patient.
-
-To complete this form, please ensure that you are in the appropriate setting and have the necessary permissions and access to collect this information. It is recommended that you use this form as part of a larger assessment process, taking into account the patient's condition and any relevant medical guidelines or protocols.
-
-Please note that this form was generated based on public metadata and may not cover specific requirements or nuances of individual medical practices. It is always best to consult with a medical professional before making any decisions or taking any actions based on this information.
-
-</thinking>
-
 # Oncology Discharge Form - Help Guide
 ## Purpose
 The Oncology Discharge Form is a tool for healthcare professionals to gather necessary information about patients undergoing oncology treatment or care. This form helps to identify and document key details regarding the patient's condition, treatment, and care plan.

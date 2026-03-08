@@ -1,13 +1,3 @@
-<thinking>
-The "Afterpay Household Products Order Form" is designed to help customers order household products in a way that suits their needs and preferences. This form is part of the Afterpay payment method, which allows customers to make purchases with flexible payment terms. By filling out this form, customers can select the products they want to buy, specify their delivery and payment preferences, and agree to the store's terms and conditions.
-
-The form is designed to gather information on the customer's contact details, product preferences, and order specifics, such as the type of product, size, and quantity. Customers can also choose their preferred shipping method and payment method, and agree to the store's terms and conditions.
-
-Before filling out the form, customers should ensure that they have read and understood the form's purpose and instructions. They should also note that some fields are mandatory, while others are optional.
-
-This form is intended for customers who wish to use the Afterpay payment method for their purchases. If customers are not using Afterpay, they should not fill out this form.
-</thinking>
-
 # Afterpay Household Products Order Form - Help Guide
 ## Purpose
 This form is designed to help customers order household products in a way that suits their needs and preferences using the Afterpay payment method.

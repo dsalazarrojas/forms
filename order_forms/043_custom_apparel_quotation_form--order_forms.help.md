@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers for a custom apparel quotation. The form will be used to collect details such as customer name, phone number, address, fabric color, fabric pattern, product type, email, and other relevant information. This form will be used internally to process custom quotations and provide quotes to customers for their custom apparel orders.
-</thinking>
-
 # Custom Apparel Quotation Form - Help Guide
 ## Purpose
 The Custom Apparel Quotation Form is used to gather information from customers for custom apparel orders.

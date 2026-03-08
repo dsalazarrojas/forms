@@ -1,11 +1,3 @@
-<thinking>
-
-This guide provides an overview of the Seafood Fresh Catch Order Form, including its purpose, completion instructions, and detailed explanations of each field. The form is intended for end-users to place orders for seafood, specifying the customer's contact information, catch details, and payment terms.
-
-Before proceeding, it is essential to check that you are not duplicating an existing order. If you are unsure or need to place a new order, please ensure that there are no open or pending orders that you are aware of.
-
-</thinking>
-
 # Seafood Fresh Catch Order Form - Help Guide
 ## Purpose
 

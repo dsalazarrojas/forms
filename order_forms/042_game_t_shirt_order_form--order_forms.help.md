@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and functionality of the "Game T Shirt Order Form". It is used to collect information from customers for ordering game-themed t-shirts. The form is designed to be user-friendly and straightforward, guiding customers through the necessary steps to complete their order successfully. Before proceeding, ensure that the form is not being used for any other purpose, as it is specifically tailored for game t-shirt orders. Please ensure that all required fields are filled in accurately to facilitate smooth processing of the order. If any issues or concerns arise during the completion of this form, kindly refer to this guide for clarification.
-</thinking>
-
 # Game T Shirt Order Form - Help Guide
 ## Purpose
 The Game T Shirt Order Form is designed to collect necessary information from customers for ordering game-themed t-shirts. It helps in processing orders efficiently and accurately, ensuring that the customer receives the correct product with their desired specifications.

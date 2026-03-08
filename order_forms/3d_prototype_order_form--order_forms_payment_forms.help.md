@@ -1,5 +1,3 @@
-<thinking>As this form was generated based on public survey metadata, I will ensure that the form's purpose, functionality, and fields are explained in a clear and concise manner that aligns with the original metadata. I will not invent unsupported business logic or assumptions, and I will stick to the provided fields and their labels. I will also ensure that the form is easy to understand and use for end-users.</thinking>
-
 # 3D Prototype Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering 3D prototypes. It gathers contact information, order details, and shipping and payment information from the user. The form is divided into sections for easier navigation and understanding.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather information for the Soccer Team T-Shirt order process.
-It is intended to collect data on customer preferences to process orders accurately.
-Please ensure that the form is not duplicated, as this may cause issues with order processing.
-</thinking>
-
 # Soccer Team T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for the Soccer Team T-shirt order process. It is used to gather customer details for accurate order processing.

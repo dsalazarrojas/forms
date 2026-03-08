@@ -1,8 +1,3 @@
-<thinking>
-This form is used for phone screenings, which are essential for gathering information from job applicants during the hiring process. It's crucial to understand what each field represents and how to complete it correctly to ensure accurate and complete data collection. Before proceeding, ensure you're familiar with the form's layout and the fields' requirements. Please note that this form is designed for job applicants, so the information gathered will be used to assess their qualifications and suitability for the position.
-
-</thinking>
-
 # phone_screening_form - Help Guide
 ## Purpose
 This form is used for phone screenings with job applicants during the hiring process. It collects relevant information about the applicant's job information, contact details, and other essential data.

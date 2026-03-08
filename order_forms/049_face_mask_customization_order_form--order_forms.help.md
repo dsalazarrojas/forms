@@ -1,7 +1,3 @@
-<thinking>
-Form purpose and structure are determined by the provided YAML fields. This guide aims to make sense of the form's components, assuming that it is a face mask customization order form. The form likely collects information for creating personalized face masks, allowing users to select their preferred color, size, and design for the mask. The form also requests additional details like name and order note. The form is not affiliated with any particular platform or service. This form was created by AI for public use, and users are free to modify or sell it under a Creative Commons license.
-</thinking>
-
 # Face Mask Customization Order Form - Help Guide
 ## Purpose
 The Face Mask Customization Order Form is designed to collect information for creating personalized face masks. This form will help you create a customized face mask that suits your preferences.

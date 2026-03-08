@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information for retail window orders. It's a general-purpose form that could be used for various retail scenarios, such as sales, customer inquiries, or other similar retail transactions. Before proceeding with the help guide, I will review the form fields to ensure they are properly explained and easy to understand for end-users.
-
-Upon reviewing the form, it appears to be designed to collect basic information about an order, including the order date and time, customer details, order notes, contact information, and shipping details. Each field is designed to provide a clear and concise way to collect this information.
-
-The form does not appear to be designed for any specific industry or business, making it a general-purpose form for collecting retail-related information. It's possible that some fields may need to be modified or additional fields added depending on the specific use case.
-
-</thinking>
 # retail_window_lightbox_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for retail orders, providing a general-purpose solution for various retail scenarios.

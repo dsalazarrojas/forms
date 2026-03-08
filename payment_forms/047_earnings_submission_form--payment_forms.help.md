@@ -1,10 +1,3 @@
-<thinking>
-We need to ensure the form purpose is clear to the end user. The Earnings Submission Form is used to submit earnings-related information by employees or their representatives. To prevent non-duplication, we need to ensure that users do not submit incomplete or duplicate forms. This form will serve as a template for submission of earnings-related data such as pay date, pay amount, job number, employee name, and other details.
-
-The form will be displayed in multiple pages, with each page containing a different set of fields. Users should fill in the required fields on each page to ensure accurate submission.
-
-To fill the form, users will need to navigate through the pages and fill in the fields as instructed.</thinking>
-
 # Earnings Submission Form - Help Guide
 ## Purpose
 The Earnings Submission Form is a tool used to submit earnings-related information by employees or their representatives. This form ensures accurate and complete submission of data such as pay date, pay amount, job number, employee name, and other details.

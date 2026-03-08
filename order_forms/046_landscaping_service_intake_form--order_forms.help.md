@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from clients about their landscaping service needs. The form will be used to create a service ticket that will be assigned to a landscape technician for scheduling and processing. The fields on this form are meant to gather essential details about the client, their contact information, and the specifics of the service they require. 
-
-To ensure this guide is helpful, we will first cover the general instructions on how to complete the form, and then provide a detailed explanation of each field, including its label, type, and any additional relevant information.
-
-</thinking>
-
 # Landscaping Service Intake Form - Help Guide
 ## Purpose
 The Landscaping Service Intake Form is a tool used to collect information from clients about their service needs. This form is necessary for creating a service ticket that will be assigned to a landscape technician for scheduling and processing.

@@ -1,11 +1,3 @@
-<thinking>
-The form "Advertising Campaign Insertion Order Tracking Log" is used to track and manage advertising campaigns insertion orders. This form is intended for internal use within a company or organization that handles advertising campaigns. The form is designed to capture details about the campaign, including the insertion order number, campaign name, advertiser's name, agency's name, dates of the campaign, total budget, rate per unit, projected impressions or clicks, creative due date, status, and notes or comments. The main purpose of this form is to ensure that all stakeholders involved in the campaign are aware of the key details and status of the insertion order. It also helps in tracking progress and managing expectations.
-
-The form is divided into several sections to make it easier to fill out and understand. Each section corresponds to a different aspect of the insertion order, such as details about the order, campaign dates, budget and rates, trafficking details, and IO status.
-
-The form is not designed to be duplicated, and each field is meant to capture specific and accurate information about the campaign. Therefore, it is essential to fill out the form accurately and completely.
-</thinking>
-
 # Advertising Campaign Insertion Order Tracking Log - Help Guide
 ## Purpose
 The Advertising Campaign Insertion Order Tracking Log form is used to track and manage advertising campaigns insertion orders. It helps ensure that all stakeholders involved in the campaign are aware of the key details and status of the insertion order.

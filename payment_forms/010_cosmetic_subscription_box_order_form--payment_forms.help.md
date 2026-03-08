@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers regarding their subscription to a cosmetic subscription box service. 
-This form is designed to collect customer details such as name, contact information, subscription preferences, and payment method. 
-It is essential to ensure that each customer fills out the form accurately and completely, providing all required information to process their order correctly.
-</thinking>
-
 # Cosmetic Subscription Box Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers regarding their subscription to a cosmetic subscription box service. This form will be used to process their order and deliver the selected products to their doorstep.

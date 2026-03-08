@@ -1,10 +1,3 @@
-<thinking>...
-The "Home Cleaning Service Subscription Form" is designed to collect information from customers and service providers for home cleaning services. The form is likely used to schedule and manage cleaning service appointments, handle billing and payment details, and provide additional notes and contact information. This form appears to be a comprehensive form for managing the business operations related to home cleaning services. 
-
-To avoid duplication and ensure accuracy, please review the form carefully before proceeding. Ensure you fill out all required fields to submit a complete and accurate request.
-
-</thinking>
-
 # Home Cleaning Service Subscription Form - Help Guide
 ## Purpose
 The "Home Cleaning Service Subscription Form" is used to collect information from customers and service providers for home cleaning services. It is designed to help schedule and manage cleaning service appointments, handle billing and payment details, and provide additional notes and contact information.

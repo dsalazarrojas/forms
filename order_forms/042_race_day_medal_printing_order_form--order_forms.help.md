@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure this form is for ordering medals for a race day event, and that the user understands its purpose. This form should be used to collect information about the medals ordered, including the text to be printed on the medals, the design of the medals, the quantity of each design, the total number of medals ordered, shipping details, the shipping address, order details, payment method, and who submitted the order. Let's review the fields to make sure they are relevant and not redundant. For example, we have fields for shipping address and order details, which might overlap in their purposes. We should ensure these fields do not confuse the user. This form should only ask for information that is necessary to fulfill the order correctly.</thinking>
-
 # Race Day Medal Printing Order Form - Help Guide
 
 ## Purpose

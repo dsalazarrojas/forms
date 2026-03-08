@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for booking a city tour. The form is intended for travelers to provide details about themselves and their tour preferences. The purpose of this form is to collect necessary information for the tour operator to confirm the booking. This form is likely to be used for a specific city tour, and the options for the tour selection field are likely to be specific to that tour. The form is designed to be completed by one person, but it does not specify that it is only for one person. The tour operator will use the information provided to confirm the booking and send a secure payment link to the traveler's email. The terms of service include a 24-hour notice for cancellation. 
-</thinking>
-
 # City Tour Booking Form - Help Guide
 ## Purpose
 This form is for booking a city tour. Please provide the required information to book your tour.

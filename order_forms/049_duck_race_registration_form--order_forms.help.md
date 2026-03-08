@@ -1,17 +1,3 @@
-<thinking>
-This form is used for participant registration in a duck racing event. The form is designed to collect information from participants, including their personal details, payment method, and agreement to participate. It is not required for participants to fill out the entire form, but it is required that they fill out at least one field. However, it is recommended that participants complete all the fields for a smooth and successful registration process.
-
-The form is divided into several pages, each covering a specific aspect of participant information, event information, and other relevant details. The fields in each page are designed to be as straightforward as possible, with clear labels and concise explanations.
-
-Before filling out the form, participants should ensure they have the necessary information ready, such as their preferred payment method and any additional comments or remarks.
-
-Upon reviewing the form, participants should be aware of the following:
-
-*   Payment Method: Choose from options Payment Method 1, Payment Method 2, or Payment Method 3.
-*   Participant Additional Info: Provide any additional details about the participant.
-
-</thinking>
-
 # duck_race_registration_form - Help Guide
 ## Purpose
 

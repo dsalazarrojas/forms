@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from customers interested in ordering a custom coupon booklet. The form will be used to gather contact details, such as first and last name, email, and phone number, which will be used to create a personalized coupon booklet. The form is not intended to be used for any other purpose, and users are not expected to re-order a custom coupon booklet through this form.
 
 </thinking>

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture concerns or issues related to order delivery. The purpose of this form is to gather information from customers about their order delivery experience, allowing businesses to address and resolve issues efficiently. This form is likely used to collect input from customers regarding delivery issues that have occurred during order fulfillment, enabling businesses to take corrective actions and improve delivery processes.
-
-This form may be used by customers or business users to report delayed, damaged, or missing orders. The form asks for information on the order details, customer contact information, and specific issue descriptions. This information is essential for businesses to identify patterns and areas for improvement.
-
-Before using this form, ensure you are filling it out for a valid concern or issue related to order delivery. Please note that this form should not be used for duplicate concerns or issues already addressed or resolved.
-
-</thinking>
-
 # order_delivery_concern_contact_form - Help Guide
 ## Purpose
 This form helps customers or business users report concerns or issues related to order delivery, enabling businesses to address and resolve these issues efficiently.

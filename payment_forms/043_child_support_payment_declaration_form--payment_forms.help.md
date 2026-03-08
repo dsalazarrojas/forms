@@ -1,7 +1,3 @@
-<thinking>
-To start with, the "Child Support Payment Declaration Form" is a crucial document used by parents, custodians, or guardians to declare that child support payments have been made. This form helps track and record payment history, which is essential for ensuring accurate financial records and preventing miscommunication. Before proceeding, please ensure that you have not already completed this form for the same period, as duplicate declarations will not be accepted. This guide will walk you through the necessary steps to complete this form accurately and efficiently.
-</thinking>
-
 # Child Support Payment Declaration Form - Help Guide
 ## Purpose
 The Child Support Payment Declaration Form is a document used to declare that child support payments have been made. It helps track and record payment history for accurate financial records and to prevent miscommunication.

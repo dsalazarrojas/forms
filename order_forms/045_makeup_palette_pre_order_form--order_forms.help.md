@@ -1,9 +1,3 @@
-<thinking>
-Form purpose: The Makeup Palette Pre Order Form is used to collect information from customers for a custom makeup order.
-The form will likely be used for customers to input their personal details and preferences for their order.
-This guide assumes the form will be used for both internal and external customers, and the fields should be clear and easy to understand for both groups.
-</thinking>
-
 # Makeup Palette Pre Order Form - Help Guide
 
 ## Purpose

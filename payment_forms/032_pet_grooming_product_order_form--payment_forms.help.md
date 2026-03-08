@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Grooming Product Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information and product details for pet grooming services. It is meant to be filled out by pet owners to provide their contact and product order details.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to be a generic survey template with various sections and questions that allow users to provide feedback or answers. The purpose of this form is to collect data from users, which can be used to improve products, services, or experiences. It's likely used in a context where users can answer a series of questions and provide any additional information they see fit through the "note" field. 
-
-This form seems to be a one-time use, self-service form. There might be some overlap in the questions asked, but that's not a problem if the form is intended to be used by one person at a time. 
-
-The form has several questions that ask for yes/no answers, date, time, phone number, and text fields. This variety suggests that the form might be used for different types of feedback or information collection. 
-
-The following is a guide to help you complete this form:
-
-Please note that all fields are optional unless specified otherwise (indicated with "required: true"). You can submit any additional comments or information through the "note" field if needed.
-</thinking>
-
 # untitled_form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback or answers to a series of questions. It's designed to be a self-service form, where one person can answer at a time.

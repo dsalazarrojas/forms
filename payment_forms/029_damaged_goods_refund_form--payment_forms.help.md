@@ -1,27 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Damaged Goods Refund Form", I need to understand the form's purpose, which is to collect information from customers to process a refund for damaged goods. This form is likely used when a customer has received a damaged or defective product and wants to request a refund.
-
-The form has the following fields:
-
-* Product Description: This field is for the customer to describe the product they received and why it's damaged.
-* Customer Name: This field is for the customer to enter their name.
-* Product Image: This field is for the customer to attach an image of the damaged product.
-* Order ID: This field is for the customer to enter their order ID number.
-* Reason for Refund: This field is for the customer to explain the reason for the refund.
-* Customer Email: This field is for the customer to enter their email address.
-* Customer Phone: This field is for the customer to enter their phone number.
-* Refund Amount: This field is for the customer to enter the amount they are requesting as a refund.
-* Refund Method: This field is for the customer to select how they would like to receive their refund (Cash, Credit Card, or PayPal).
-* Date of Refund: This field is for the customer to enter the date they would like to receive their refund.
-* Time of Refund: This field is for the customer to enter the time they would like to receive their refund.
-* Notes: This field is for the customer to add any additional information or comments about their refund.
-* Customer Message: This field is for the customer to add any additional information or comments about their refund.
-
-The form is designed to be completed by customers who have received a damaged or defective product and want to request a refund.
-
-</thinking>
-
 # Damaged Goods Refund Form - Help Guide
 ## Purpose
 This form is used to process a refund for a damaged or defective product.

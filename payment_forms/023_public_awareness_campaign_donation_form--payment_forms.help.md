@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information for public awareness campaign donations. 
-It's crucial that end-users fill out this form accurately and honestly as it will be used to process their donation and keep them updated on their campaign progress. 
-It's essential to avoid duplicates, so please ensure you're not filling out this form with the same information if you've already filled it out before. 
-Ensure you're filling out this form for the correct public awareness campaign you're supporting. 
-</thinking>
-
 # public_awareness_campaign_donation_form - Help Guide
 ## Purpose
 This form is intended to collect information for public awareness campaign donations. 

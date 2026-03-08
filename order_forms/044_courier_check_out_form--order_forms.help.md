@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information necessary for the checkout process of a courier service, enabling efficient and accurate processing of orders. This form will serve as a template for various scenarios, including but not limited to, orders for delivery, pickup, or other special services. To ensure consistency and minimize errors, it's essential to fill out the form accurately and thoroughly. This guide will walk you through the form's fields and their corresponding explanations to help you complete it with ease.
-
-</thinking>
-
 # Courier Check Out Form - Help Guide
 ## Purpose
 The Courier Check Out Form is designed to gather necessary information for the checkout process of a courier service. This form will be used for various scenarios, including but not limited to, orders for delivery, pickup, or other special services.

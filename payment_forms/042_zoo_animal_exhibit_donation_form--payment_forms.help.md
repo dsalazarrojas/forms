@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect donations from visitors to the zoo's animal exhibits, allowing them to support their favorite programs and animals. This form is likely used for fundraising and promotional purposes.
-To ensure that you complete the form correctly, check the fields below.
-</thinking>
-
 # Zoo Animal Exhibit Donation Form - Help Guide
 ## Purpose
 The Zoo Animal Exhibit Donation Form is designed to allow visitors to make a donation to support their favorite animal exhibits and programs.

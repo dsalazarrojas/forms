@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations making a donation to a reforestation program. It is intended for individuals or organizations looking to support reforestation efforts by providing a monetary contribution. The form is not intended for commercial purposes, such as purchasing products or services.
-</thinking>
-
 # Reforestation Donation Form - Help Guide
 ## Purpose
 The Reforestation Donation Form is designed to collect information from individuals or organizations making a donation to support reforestation efforts.

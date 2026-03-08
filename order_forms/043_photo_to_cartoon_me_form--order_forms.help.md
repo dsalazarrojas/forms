@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users create a custom cartoon of themselves based on a photo they upload. The form is intended for personal, creative, and entertainment purposes only. Please ensure that the form is used within the bounds of the company's usage guidelines and not for any other purposes that may be considered misused.
-</thinking>
-
 # Photo To Cartoon Me Form - Help Guide
 ## Purpose
 The Photo To Cartoon Me Form is a tool used to transform any uploaded photo into a custom cartoon. It's used to create a fun and creative representation of the user, suitable for personal, entertainment, and other related purposes.

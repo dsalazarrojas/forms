@@ -1,8 +1,3 @@
-<thinking> 
-To create a comprehensive help guide for the "Hotel Minibar Menu" form, I'll follow the structure and instructions provided. This form is used for ordering and managing menu items at a hotel, and I'll cover the purpose, completion process, and each field's explanation.
-
-</thinking>
-
 # Hotel Minibar Menu - Help Guide
 ## Purpose
 The Hotel Minibar Menu form is designed for hotel staff to order and manage menu items for their customers. It helps in tracking and processing orders, payments, and customer information.

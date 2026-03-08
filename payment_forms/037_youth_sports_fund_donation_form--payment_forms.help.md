@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals or organizations to make a donation to the youth sports fund. The form should only be filled out for legitimate purposes and not for spam or soliciting donations for personal gain. Please review the form carefully and fill it out accurately and truthfully.
-</thinking>
-
 # youth-sports-fund-donation-form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from donors who wish to support the youth sports fund. This form is used to gather essential details about the donor, including their contact information, donation amount, and payment preferences.

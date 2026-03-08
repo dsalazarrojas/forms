@@ -1,9 +1,3 @@
-<thinking>...I will generate a help guide for the Ocean Coat Order Form based on the provided YAML structure and fields. This form is designed to collect information from customers to facilitate the ordering process for ocean coats. I assume that the form is intended to be used for sales, marketing, or other business purposes related to the sale of ocean coats. I will aim to create a clear and concise guide that explains each field's purpose and how to complete the form correctly.
-
-After reviewing the form's fields, I have a basic understanding of its structure and the data it aims to collect. The form appears to be used to collect customer information, delivery details, and product preferences for ocean coats. I will use this understanding to generate the help guide below.
-
-</thinking>
-
 # Ocean Coat Order Form - Help Guide
 
 ## Purpose

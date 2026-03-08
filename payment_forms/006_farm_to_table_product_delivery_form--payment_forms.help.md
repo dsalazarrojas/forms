@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Farm To Table Product Delivery Form - Help Guide
 ## Purpose
 The Farm To Table Product Delivery Form is a tool for farmers to deliver their products directly to customers. This form helps in organizing and tracking the delivery process, ensuring timely and efficient transportation of fresh produce from farm to table.

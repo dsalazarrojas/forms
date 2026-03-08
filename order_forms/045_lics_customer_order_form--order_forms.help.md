@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture customer order information for Lics. The purpose of this form is to gather relevant details about the customer's purchase, including their information, product selection, order type, delivery preferences, and any notes related to the order. This form is used for internal purposes only and is not intended for public display or external sharing. To avoid any confusion or duplication, please ensure that you are completing this form with the correct customer information and order details.
-</thinking>
-
 # lics_customer_order_form - Help Guide
 ## Purpose
 This form is designed to capture customer order information for Lics. The purpose of this form is to gather relevant details about the customer's purchase, including their information, product selection, order type, delivery preferences, and any notes related to the order.

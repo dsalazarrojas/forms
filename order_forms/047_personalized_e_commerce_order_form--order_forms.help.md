@@ -1,12 +1,3 @@
-<thinking>
-The form purpose is to collect customer information for an e-commerce order.
-It is likely used by businesses to gather details about their customers for order fulfillment and customer service purposes.
-This form does not appear to be a complex form, and all fields are text-based, suggesting it may be used for relatively simple order collection.
-The customer_info field is likely for customer contact details, while the other fields may be for shipping and product-related information, or payment methods.
-The form does not specify if the payment method is for payment confirmation or actual payment processing.
-Given the simplicity of the form, users should be able to easily understand and complete it without extensive guidance.
-</thinking>
-
 # Personalized E Commerce Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information for an e-commerce order.

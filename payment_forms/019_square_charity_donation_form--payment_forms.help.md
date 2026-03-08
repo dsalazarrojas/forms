@@ -1,14 +1,3 @@
-<thinking>
-To determine the purpose of this form, I first examined its title, which indicates it's related to charity donation. The form is designed to collect donations for a charity, and the fields included suggest it's intended to gather information about the donor, donation amount and currency, and possibly additional notes. 
-
-Upon analyzing the form fields, I noticed that there are fields for the donation amount, currency, and email address, which are typical requirements for a donation process. The form also includes a field for a description and a note, which might be used to provide additional context or information about the charity or donation. 
-
-The form's structure and content suggest it's intended for online donations, and it's likely a payment form for a charity or non-profit organization. Given this information, I will provide a concrete and practical help guide for the user. 
-
-Please note that the purpose of this form is to guide the user in filling out the form accurately and efficiently. The guide will be written with the assumption that the user is an end-user and has no prior knowledge of the form's inner workings.
-
-</thinking>
-
 # Square Charity Donation Form - Help Guide
 ## Purpose
 The Square Charity Donation Form is a payment form designed for charities and non-profit organizations to collect donations from users online. 

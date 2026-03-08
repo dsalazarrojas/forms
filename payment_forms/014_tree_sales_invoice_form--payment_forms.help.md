@@ -1,8 +1,3 @@
-<thinking>
-This form is used to create a sales invoice for tree sales. It captures customer and tree information, as well as payment details. Before proceeding, please check that you are on the correct page (page 1) and that the form is not already completed for the same transaction.
-
-</thinking>
-
 # Tree Sales Invoice Form - Help Guide
 ## Purpose
 The Tree Sales Invoice Form is used to create a sales invoice for tree sales, ensuring accurate and timely payment processing.

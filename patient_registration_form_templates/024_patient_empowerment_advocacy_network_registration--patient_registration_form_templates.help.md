@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to be used by a Patient Empowerment Advocacy Network to gather information from individuals who are interested in joining the network. This form is meant to be a simple registration form, allowing users to provide their contact details, interests, and preferences. It is likely intended to be used for networking and community-building purposes, and the data collected will help the network understand the needs and interests of its members.
-
-Before starting, please ensure you are not duplicating your registration. If you have previously filled out this form, you can simply log in and update your information instead of re-registering.
-
-</thinking>
-
 # Patient Empowerment Advocacy Network Registration - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Patient Empowerment Advocacy Network registration form. The form is designed to gather information about you, the individual joining the network.

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request approval for cross border transactions. The form is used to gather information about the transaction, including details about the originator and the approver, as well as the status and comments about the approval process. The form is designed to be completed by the originator of the transaction and submitted to the approver for review and approval. The purpose of the form is to provide a standardized way of collecting and tracking cross border transaction approval requests.
-Before completing the form, please make sure that you have the necessary information and permissions to proceed. Also, please note that this form should not be used to request approval for multiple transactions at once. Each form submission is for a single transaction.
-</thinking>
-
 # Cross Border Transaction Approval Request Form - Help Guide
 ## Purpose
 The Cross Border Transaction Approval Request Form is used to request approval for cross border transactions. This form is completed by the originator of the transaction and submitted to the approver for review and approval.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register new patients for medical services. It is intended for patients who do not have a pre-existing account with the healthcare provider. The form collects basic information such as the patient's name, contact details, and personal data. This form should only be used for patients who have not been previously registered with the healthcare provider. Please ensure that you have not already submitted this form before resubmitting it.
-</thinking>
-
 # new-patient-registration - Help Guide
 ## Purpose
 The new-patient-registration form is designed to collect basic information from patients who do not have a pre-existing account with the healthcare provider. This form is intended to be used for new patients, and it ensures that the provider has accurate and up-to-date information about the patient.

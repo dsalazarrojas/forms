@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to track the progress of a patient's recovery, gathering essential information from healthcare professionals and caregivers to help monitor and address any concerns or issues during the recovery process. The form is crucial for maintaining accurate records, facilitating communication between healthcare teams, and ensuring timely interventions. It is essential to fill out this form for each patient's recovery progress check-in, and the information will be used to inform treatment and care decisions. Before proceeding, please check if this form is relevant to the current patient and if a similar form has been filled out recently or in the near past.
-
-</thinking>
-
 # patient_recovery_progress_check_in_form - Help Guide
 ## Purpose
 

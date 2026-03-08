@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to pre-order figurines, collecting information necessary for successful delivery and payment processing. It is not a general form for any purpose, but specifically designed for figurine pre-orders. This form should only be used for this specific use case.
-</thinking>
-
 # Figurine Pre Order Form - Help Guide
 
 ## Purpose

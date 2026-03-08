@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, you are likely familiar with the complexities of hospital supply delivery. This form is designed to facilitate the process of documenting and managing hospital supply delivery information. Before proceeding, please note that this form is intended for use in a specific context and may not be applicable in all situations. If you have any doubts or concerns, please reach out to your supervisor or a relevant department for guidance.</thinking>
-
 # hospital_supply_delivery_form - Help Guide
 ## Purpose
 The hospital supply delivery form is a document used to document and track hospital supply deliveries. It captures essential information about the delivery process, including customer details, delivery schedules, and supply status.

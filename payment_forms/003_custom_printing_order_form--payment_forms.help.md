@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information for a custom printing order. It is intended for individuals who are interested in placing an order for customized prints, such as photographs, art, or other personal items. The form is structured to gather essential details about the customer, the printing process, and any additional requirements for submission. To use this form effectively, please review each section and provide accurate information as requested. This form is an original adaptation of publicly available metadata and is released under CC BY 4.0, allowing for modification or sale with proper credit attribution.</thinking>
-
 # Custom Printing Order Form - Help Guide
 ## Purpose
 The Custom Printing Order Form is designed to collect information for a custom printing order, gathering details about the customer, printing process, and submission requirements.

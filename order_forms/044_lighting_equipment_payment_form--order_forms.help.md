@@ -1,14 +1,3 @@
-<thinking> 
-This form appears to be for capturing payment information related to lighting equipment, likely for a business or organizational context. It could be used for recording payments for orders, invoices, or other financial transactions involving lighting equipment. The form asks for various pieces of information such as payment method, total cost, payment amount, and order details. This form's structure suggests it's designed for tracking and managing payments within a specific context, possibly for inventory, logistics, or customer management purposes.
-
-This form is designed for end-users who are likely familiar with the concept of payment forms, but may not be experts in the specifics of this particular form or its context.
-
-Before filling out the form, it's helpful to note that the Payment Method and Payment Status fields are select_one fields with options, implying that they are not free-text fields and should be selected from the provided options.
-
-Also, the form has a mix of required and non-required fields, which can be important to note for users who need to complete the form in different ways depending on their needs.
-
-</thinking>
-
 # lighting_equipment_payment_form - Help Guide
 ## Purpose
 This form is designed to capture payment information related to lighting equipment for orders, invoices, or other financial transactions.

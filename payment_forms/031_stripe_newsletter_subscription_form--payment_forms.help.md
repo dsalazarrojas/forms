@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The purpose of this form is to collect subscription information from users who want to receive the Stripe Newsletter. This form is not intended for general contact or feedback purposes. It's essential to fill out this form correctly to ensure the user receives the correct newsletter format and duration they're interested in.
 
 # Stripe Newsletter Subscription Form - Help Guide

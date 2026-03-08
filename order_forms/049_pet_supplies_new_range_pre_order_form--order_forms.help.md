@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pet_supplies_new_range_pre_order_form - Help Guide
 ## Purpose
 The "pet_supplies_new_range_pre_order_form" is a form used to collect information from customers to facilitate the ordering of pet supplies. This form helps the customer to provide essential details about their order, including delivery preferences and pet type information.

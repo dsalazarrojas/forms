@@ -1,21 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for booking a private marina slip. It is intended for use by marina operators and staff to gather essential details from customers for slip reservations. The form's purpose is to efficiently collect and record relevant information for private marina slip bookings. 
-
-The form is likely to be used during a customer's initial contact with the marina to make a booking. It is not intended to be filled out multiple times for the same purpose.
-
-The form fields should be filled out in the following way:
-
-*   **Boat Length**: This is the length of the boat that the customer is looking to book. Please enter the boat's length in meters.
-*   **Boat Type**: This is the type of boat the customer is looking to book. Please enter the type of boat (e.g., sailboat, motorboat, etc.).
-*   **Slip Status**: This field is likely used to indicate the status of the slip, e.g., available, booked, or reserved. Enter the status as required.
-*   **Marina Fee**: This field is for the marina fee associated with the slip. Enter the fee as required.
-*   **Payment Method**: This is the method of payment for the slip booking. Please enter the method as required.
-*   **Payment Status**: This field is likely used to indicate the status of the payment, e.g., paid, pending, or cancelled. Enter the status as required.
-*   **Confirmation**: This is a confirmation field for the user to verify their submission. Please enter "I understand that the slip booking is subject to marina operator confirmation."
-
-</thinking>
-
 # Private Marina Slip Booking Form - Help Guide
 ## Purpose
 The Private Marina Slip Booking Form is designed to collect essential information for customers to book a private marina slip. Please complete this form to ensure accurate and efficient communication between customers and marina operators.

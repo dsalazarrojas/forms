@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a payment verification form, used to gather information from customers about a purchase they made with a business. The form is used to verify that the customer has actually made the purchase and is a standard process within the business's payment system. 
-
-The form should only be used for purchases that are within the allowed date range, which is set within the system. 
-
-It's essential that the customer completes the form accurately and honestly. If any information is incorrect, it may lead to issues with the payment verification process.
-
-</thinking>
-
 # Purchase Receipt Verification Form - Help Guide
 ## Purpose
 The Purchase Receipt Verification Form is used by customers to provide information about a purchase they made with a business. This form helps the business verify that the purchase was indeed made and is a part of their payment process.

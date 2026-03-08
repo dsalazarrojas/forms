@@ -1,12 +1,3 @@
-<thinking>
-We're creating this form to help customers submit orders for the eco-friendly bag restock. This form will be used for internal purposes only, and it's essential to ensure that the information provided is accurate and comprehensive. To avoid duplication of effort, we'll need to check for existing orders before submitting new ones.
-
-This form collects various details, including customer information, order details, payment methods, and delivery information. We'll use this data to process the order and update the order status accordingly.
-
-Before proceeding, please make sure that the form is filled out accurately and completely, and that all fields are valid according to the given types (e.g., date fields should have dates in the correct format).
-
-</thinking>
-
 # Eco Friendly Bag Restock Order Form - Help Guide
 ## Purpose
 This form is for customers to submit orders for the eco-friendly bag restock. It is used for internal purposes to process and update order status.

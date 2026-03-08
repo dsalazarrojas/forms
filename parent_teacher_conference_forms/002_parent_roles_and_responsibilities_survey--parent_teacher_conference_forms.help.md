@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from parents about their roles and responsibilities. The purpose of this form is to collect data on the parent's name, contact information, and other relevant details to better understand their involvement and support in the child's educational journey. This form is typically used in parent-teacher conferences to facilitate open communication and collaboration between parents and educators.
-
-To avoid duplication, please review this form carefully before completing it, and ensure that all required fields are filled in accurately and completely.
-
-Please note that some fields are not required, but providing information in these fields can help the educators and administrators better understand your concerns, ideas, and involvement.
-
-</thinking>
-
 # Parent Roles And Responsibilities Survey - Help Guide
 ## Purpose
 This form is designed to collect information from parents about their roles and responsibilities in their child's education.

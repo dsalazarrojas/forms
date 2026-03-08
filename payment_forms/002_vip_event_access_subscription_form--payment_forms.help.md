@@ -1,8 +1,3 @@
-<thinking>
-This form is used for subscribing to VIP events. The purpose of this form is to capture information from event organizers and participants about their willingness to pay for accessing a VIP event. The form will help us determine whether the event has a payment requirement for access and collect relevant details such as name, contact information, and payment amounts.
-To avoid duplicating efforts, we should first check if a similar form has already been filled out by the user. If the user has already filled out a similar form, they should not be able to fill out this form again.
-</thinking>
-
 # vip_event_access_subscription_form - Help Guide
 ## Purpose
 The vip_event_access_subscription_form is used to capture information from event organizers and participants about their willingness to pay for accessing a VIP event.

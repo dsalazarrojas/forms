@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users regarding payment terms. The purpose of this form is to gather data on payment terms, such as whether payment terms are requested, which department is responsible for payment terms, and the date and time of the request. This data will be used internally to ensure accurate and efficient payment processing. It's essential to ensure that each submission is accurate and complete, as it will aid in making informed decisions about payment processing. Please make sure to fill out all required fields and only select relevant options to avoid duplicate submissions.
-</thinking>
-
 # Payment Term Definition Request Form - Help Guide
 ## Purpose
 The Payment Term Definition Request Form is used to collect information from users about payment terms.

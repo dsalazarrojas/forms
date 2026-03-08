@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to create a custom sticker order by specifying design preferences, quantity, sticker size, customer name, email, and phone number. This form is likely used in a business-to-business (B2B) or business-to-consumer (B2C) scenario where customers or clients can request custom stickers with their preferred design, quantity, and size. 
-
-When filling out this form, users should ensure that they are not duplicating an existing order or submitting a new order for the same product. 
-
-The provided form fields are meant to be filled out by customers or clients who are familiar with the product and its customization options. 
-
-The form fields are self-explanatory, and users should be able to fill it out without additional guidance.
-
-</thinking>
-
 # Custom Sticker Order Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-To ensure the accuracy of this response, I will need to make some internal reasoning assumptions. This form is likely used to track and monitor sales of events. It might be used by event organizers, ticket sellers, or other stakeholders to monitor ticket sales, gather attendee information, and record any relevant notes about the event.
-
-The form likely collects information about the event itself, ticket sales, and attendee details. This information can be used to assess the success of the event, identify areas for improvement, and make informed decisions for future events.
-
-This form may be part of a larger system for event ticket sales, such as an event management platform, or used by event organizers to create a one-off document.
-
-I will base my response on these assumptions and create a help guide that is concrete, concise, and practical.
-</thinking>
-
 # Event Ticket Sales Monitoring Form - Help Guide
 
 ## Purpose

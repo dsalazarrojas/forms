@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for purchasing video recordings. The form is intended to be completed by users who want to purchase video recordings from a specific service. This form should only be completed if the user has made a decision to purchase a video recording. The fields on this form will gather details such as the title of the video recording, client information, service type, schedule, and payment method. This form is likely used in a business or professional setting, such as a video production company or event planning organization.
-</thinking>
-
 # video_recording_purchase_order - Help Guide
 ## Purpose
 This form is used to collect information for purchasing video recordings.

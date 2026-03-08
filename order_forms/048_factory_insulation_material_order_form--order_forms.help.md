@@ -1,11 +1,3 @@
-<thinking>
-We are considering creating a help guide for end users on a form designed for ordering factory insulation materials. Before we begin, let's ensure that this form purpose and design align with our business needs and processes.
-
-The form's purpose is to collect information for ordering factory insulation materials, which is a specific and concrete goal. We are checking for potential overlaps or duplication of forms within the company, to avoid confusing or redundant forms that may cause user frustration or miscommunication.
-
-Assuming there are no issues with the form's purpose, let's proceed to create the help guide.
-
-</thinking>
 # Factory Insulation Material Order Form - Help Guide
 ## Purpose
 The Factory Insulation Material Order Form is designed to facilitate the collection of information required for ordering insulation materials at the factory. This form ensures accurate and efficient communication between the factory and the ordering team.

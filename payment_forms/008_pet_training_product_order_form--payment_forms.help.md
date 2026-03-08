@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for ordering pet training products. The form is intended for internal use by the pet training company, and its fields are used to gather necessary data for processing orders and communicating with customers. The fields should not be filled out by customers or used for any other purpose other than internal order management. This form is not intended for general public access and requires authentication and authorization to access and submit it.
-</thinking>
-
 # Pet Training Product Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for ordering pet training products. The fields are intended for internal use by the pet training company to gather necessary data for processing orders and communicating with customers.

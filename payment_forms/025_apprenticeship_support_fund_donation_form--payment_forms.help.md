@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect information for donations to the Apprenticeship Support Fund. Donors can choose how much they want to donate, the type of donation (one-time, monthly recurring, or annual), and how they want to be recognized or receive their tax receipt. The form includes fields for donor information, such as name and email, as well as contact information and payment method. The form will also ask for a preferred payment method and if the donor wants to request a tax receipt. 
-
-To avoid duplication, the form should be filled out completely and accurately before submission. Please note that some fields may require additional information or validation upon submission.
-</thinking>
-
 # Apprenticeship Support Fund Donation Form - Help Guide
 ## Purpose
 The Apprenticeship Support Fund Donation Form is used to collect donations for the Apprenticeship Support Fund. This form gathers essential information from donors, including their contact details, donation amount and type, and preferred payment method.

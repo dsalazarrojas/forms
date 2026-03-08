@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be designed for collecting order information from customers, including payment and shipping details. It may be used by business owners or employees to capture customer orders and track order status. The form is divided into sections for order details, payment information, customer details, and order status. 
 
 </thinking>

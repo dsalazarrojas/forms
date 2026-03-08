@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for clothing orders, with the purpose of processing and fulfilling orders efficiently. The form requires customer information, order details, and payment options to facilitate order processing and communication. This form should only be used for customers ordering clothing items, not other types of products. The form's fields are structured to gather essential information for order processing, shipping, and billing purposes.
-</thinking>
-
 # Afterpay Clothing Order Form - Help Guide
 ## Purpose
 This form is designed to gather information for clothing orders, allowing for efficient processing and fulfillment of orders.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's palliative care monitoring, which is a critical aspect of care for patients with serious or terminal illnesses. This information helps healthcare providers track and address the patient's quality of life, comfort, and overall well-being.
-</thinking>
-
 # Palliative Care Monitoring Form - Help Guide
 ## Purpose
 The Palliative Care Monitoring Form is a tool used to track and monitor a patient's palliative care needs. It provides a comprehensive overview of the patient's current status, comfort level, and care requirements.

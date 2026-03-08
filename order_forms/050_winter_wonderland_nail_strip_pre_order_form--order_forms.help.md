@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for customers who want to place an order for custom nail strips for their nails. The form collects personal and order-specific information, including name, contact details, order comments, order date, and nail strip preferences such as size, color, pattern, type, finish, and special requests. It is essential that users complete this form accurately to ensure timely and precise delivery of their nail strip order.
-
-Please note that this form is designed to be used as a template, and some fields may not be relevant to every customer. However, it is still crucial that users follow these instructions carefully to ensure they submit all the necessary information.
-
-</thinking>
-
 # Winter Wonderland Nail Strip Pre Order Form - Help Guide
 
 ## Purpose

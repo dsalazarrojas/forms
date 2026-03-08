@@ -1,7 +1,3 @@
-<thinking>
-  This form is intended to collect sender and recipient information for an order. It is used in an internal business process to facilitate communication between senders and recipients. The form is not a critical component of any critical business process and can be completed with varying levels of information depending on the sender's knowledge. It is best-effort and not a highly regulated or audited process.
-</thinking>
-
 # Sender and recipient information form - Help Guide
 ## Purpose
 The Sender and Recipient Information Form is used to collect and organize information about senders and recipients of an order. This form is used to ensure clear and accurate communication between parties involved in the order process.

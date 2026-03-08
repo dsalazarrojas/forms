@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that the form is clear, concise, and easy to understand for end-users. To achieve this, we should provide a clear purpose of the form, step-by-step instructions on how to complete it, and a field-by-field explanation of each section. This will help reduce confusion and increase the form's usability. 
-Please note that some fields may have weak labels or unclear intentions. We should provide a best-effort explanation based on the provided YAML fields without inventing unsupported business logic.
-</thinking>
-
 # Warehouse Space Booking Form - Help Guide
 ## Purpose
 The Warehouse Space Booking Form is designed to collect information from customers to facilitate smooth warehouse operations. It helps warehouse staff to understand when and where customers want to book space, and with whom. This ensures that the warehouse can efficiently allocate space and resources according to customer needs.

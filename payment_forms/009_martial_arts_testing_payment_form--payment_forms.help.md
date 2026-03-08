@@ -1,5 +1,3 @@
-<thinking>This form is intended to collect payment information for martial arts testing. It is used to facilitate the payment process for testing, whether it's for a belt promotion or other martial arts testing events. The form is designed to collect relevant information from students, including the type of testing, student details, and payment method. To ensure accuracy, please review each field carefully and provide the necessary information.</thinking>
-
 # Martial Arts Testing Payment Form - Help Guide
 ## Purpose
 This form is used to collect payment information for martial arts testing. It is divided into several sections to ensure that you provide the necessary details for your payment.

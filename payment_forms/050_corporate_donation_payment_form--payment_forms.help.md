@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect payment information from corporate donors for a donation. The form is used to process payments for corporate donations and requires information such as donor's contact details, payment method, and payment information. The form is intended for corporate donors who need to provide specific information such as company name, tax deduction, and bank routing number. The form also asks for payment status and notes, which is likely to be used for follow-up and tracking purposes. The form has multiple fields that can be filled out by the donor, and some fields are required. The required fields are marked with a star (*) and are necessary for processing the payment.
-</thinking>
-
 # corporate_donation_payment_form - Help Guide
 ## Purpose
 This form is used to collect payment information from corporate donors for a donation.

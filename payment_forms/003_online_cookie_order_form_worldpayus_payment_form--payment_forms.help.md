@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the form's purpose and the fields it contains. The form is called "Online Cookie Order Form WorldPayUS Payment Form" and appears to be a payment form for ordering cookies online. The fields seem to be related to the order information, payment method, and shipping method. I will assume that the form is used to collect information for a customer to place an order for cookies, including their order details and payment method.
-</thinking>
-
 # Online Cookie Order Form WorldPayUS Payment Form - Help Guide
 ## Purpose
 This form is used to place an order for cookies online. To complete the form, please follow the instructions below.

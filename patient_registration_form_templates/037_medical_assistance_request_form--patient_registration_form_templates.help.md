@@ -1,9 +1,3 @@
-<thinking>
-
-**Internal reasoning:** This form is designed to be a generic Medical Assistance Request Form for patients to provide information and requests for medical assistance. The form has four sections: User Information, Contact Information, Medical History, and Medical Assistance Request. Each section has a text field where patients can input their details. The form does not have any conditional logic or branching, making it a simple and straightforward form for patients to fill out.
-
-</thinking>
-
 # Medical Assistance Request Form - Help Guide
 ## Purpose
 

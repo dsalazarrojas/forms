@@ -1,8 +1,3 @@
-<thinking>
-The New Client Intake Form is used to collect information from new clients for the purposes of onboarding, data collection, and client management. This form helps to gather essential details about the client's contact information, company, and service preferences. 
-To ensure accurate and complete information, review the form fields carefully and fill them out accordingly.
-</thinking>
-
 # New Client Intake Form - Help Guide
 ## Purpose
 The New Client Intake Form is designed to collect information from new clients for onboarding, data collection, and client management purposes.

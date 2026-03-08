@@ -1,6 +1,4 @@
-### <thinking>... </thinking>
-
-To prevent the spread of COVID-19, our organization has created a PPE (Personal Protective Equipment) Order Form to help organizations and businesses obtain the necessary protective gear. This form is designed to collect information about the order, including contact and shipping details, and the specific PPE items required. 
+### To prevent the spread of COVID-19, our organization has created a PPE (Personal Protective Equipment) Order Form to help organizations and businesses obtain the necessary protective gear. This form is designed to collect information about the order, including contact and shipping details, and the specific PPE items required. 
 
 Before proceeding, please ensure that you are not duplicating orders and that your organization's needs are well-defined. This will help us process your order efficiently and effectively.
 

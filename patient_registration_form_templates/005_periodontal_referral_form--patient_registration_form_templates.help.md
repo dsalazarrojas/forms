@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from patients who are being referred to a dental specialist, likely for periodontal treatment. 
-The purpose of this form is to gather relevant information about the patient, including their contact details, medical history, and relevant medical conditions. 
-The form should only be filled out by a patient or authorized representative, and the information should not be duplicated in other forms or records.
-</thinking>
-
 # Periodontal Referral Form - Help Guide
 ## Purpose
 The Periodontal Referral Form is a patient registration form used to collect information from patients who are being referred to a dental specialist for periodontal treatment.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for a beverage service subscription. It's intended for businesses or individuals who want to sign up for a regular beverage delivery service. This form will guide you through the necessary steps to complete it, ensuring you provide all required information to set up your subscription. 
-
-Please note that some fields have options to select from, while others are text fields for you to fill in. Make sure to fill in all required fields to avoid any issues with your subscription.
-
-</thinking>
-
 # Beverage Service Subscription Form - Help Guide
 ## Purpose
 The Beverage Service Subscription Form is designed to collect information for a beverage service subscription. 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Photo Order Form - Help Guide
 
 ## Purpose

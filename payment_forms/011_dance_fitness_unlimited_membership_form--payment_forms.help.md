@@ -1,10 +1,3 @@
-<thinking>
-The form appears to be designed for users to manage membership plans and payment information for a dance fitness program. The purpose of the form could be to create or edit membership plans, process payments, or track payment status. To determine the correct usage, the following steps should be taken:
-- Verify that the form is not a duplicate of another form with similar functionality.
-- Check if the form is being used for creating a new membership plan or editing an existing one.
-- Review the field labels and types to confirm that they align with the expected process.
-</thinking>
-
 # Dance Fitness Unlimited Membership Form - Help Guide
 ## Purpose
 The Dance Fitness Unlimited Membership Form is used to manage membership plans and payment information for the dance fitness program. This form helps users create, edit, or manage existing memberships, track payments, and update payment status.

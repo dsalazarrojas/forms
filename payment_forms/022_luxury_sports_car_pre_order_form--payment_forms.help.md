@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for customers to pre-order a luxury sports car. The customer will be asked to provide personal details such as their first name, last name, and email address. They will also be required to select the model of the car they are interested in, the color of the car, and make an initial payment. Furthermore, the form will ask the customer to confirm their phone number, email address, and payment details to ensure accuracy. The form's design suggests that it is part of a sales or marketing process, and the presence of multiple confirmation questions implies a high level of scrutiny on payment and personal details. This form is likely part of a larger sales process, and the customer's input will be reviewed and processed accordingly.
-</thinking>
-
 # Luxury Sports Car Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers interested in pre-ordering a luxury sports car. The form will guide you through the necessary steps to provide your details and preferences.

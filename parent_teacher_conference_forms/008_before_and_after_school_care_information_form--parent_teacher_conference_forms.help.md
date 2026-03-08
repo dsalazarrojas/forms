@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for this form. The purpose of this form is to gather information from parents/guardians about their child's before and after school care needs. The form is designed to collect essential details such as student information, parent/guardian contact details, care program preferences, and special needs or allergies. The goal is to ensure that the care provider has the necessary information to provide quality care to the child. This form is likely used in a school or childcare setting to streamline the care process and maintain accurate records.</thinking>
-
 # Before And After School Care Information Form - Help Guide
 ## Purpose
 The Before And After School Care Information Form is used to gather essential information from parents/guardians about their child's care needs before and after school. This form helps care providers understand the child's requirements, preferences, and any special needs or allergies they may have.

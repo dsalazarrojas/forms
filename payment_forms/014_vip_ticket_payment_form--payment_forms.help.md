@@ -1,17 +1,3 @@
-<thinking>
-The "vip_ticket_payment_form" is a form designed to manage ticket payments. This form appears to be part of a system that handles ticketing and payment processing. The form has five fields, each with a specific purpose. To ensure clarity, I will review the form fields for relevance and non-duplication, considering their names, types, and requirements.
-
-*   **Ticket Details**: This field is likely used to store information about the ticket, such as its description, date, or other related details. It's a note type field, allowing the user to enter a free-text description.
-*   **Ticket Price**: This field is used to input the price of the ticket. It's a number type field, indicating that it's a numerical value.
-*   **Payment Method**: This is a select multiple type field, allowing the user to select one or more payment methods. The options include "Option 1" and "Option 2", indicating that users can choose between two possible payment methods.
-*   **Payment Status**: This field is a select one type, where the user can choose one option from a list. The options are "Option 1", "Option 2", and "Option 3", indicating a status update related to the payment process.
-*   **Payment Amount**: This field is a number type field, intended to store the amount paid for the ticket.
-
-Upon reviewing the form, it seems that all fields are optional, except for none of them. This could indicate that the form is designed to collect information for various scenarios or payment statuses. Further investigation into the actual use case would be required to confirm the purpose of each field.
-
-The form appears to be designed for a simple payment processing system. Users can fill out the form with the required and optional information to complete the payment process for their tickets.
-</thinking>
-
 # vip_ticket_payment_form - Help Guide
 ## Purpose
 The "vip_ticket_payment_form" is a form designed to manage ticket payments. This form allows users to input ticket details, select payment methods, and update payment status.

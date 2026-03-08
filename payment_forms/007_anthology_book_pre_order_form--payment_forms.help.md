@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a book pre-order, allowing them to reserve a copy of the Anthology Book. This information includes details such as the anthology title, customer name and contact information, shipping details, payment information, and preferences for special requests and newsletters. By providing these details, customers can ensure timely delivery of their pre-ordered books. The form also includes fields for payment and billing information, to facilitate secure and convenient payment processing. This form ensures that the customer's order is processed accurately and efficiently. The form is designed to be easy to fill out and requires minimal fields to be filled out, making it user-friendly. It also includes a field for special requests, which allows customers to specify any specific needs they may have for their order, such as gift wrapping or inscription. Finally, the form includes a field for terms and conditions acceptance, which ensures that the customer is aware of and agrees to the terms of the pre-order process.
-</thinking>
-
 # Anthology Book Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for a book pre-order.

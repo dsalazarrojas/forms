@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect and verify information about an online payment gateway, including whether it is active or inactive, its type, API key and secret, merchant ID, payment method, and other relevant details. 
-The purpose of this form is to provide a standardized and structured way of collecting this information for internal use, reducing errors and inconsistencies that may arise from manual data entry or unstandardized processes. 
-The form will be used by staff members to quickly and accurately verify the status of online payment gateways, and to ensure that only authorized and active gateways are used for transactions. 
-It's essential to ensure that the form is completed accurately and thoroughly, as incorrect or incomplete information may lead to errors in processing transactions or delays in payment processing. 
-This guide will walk through each field and its purpose, helping staff complete the form correctly and efficiently.
-</thinking>
-
 # online_payment_gateway_verification_form - Help Guide
 ## Purpose
 The online payment gateway verification form is used to collect and verify information about online payment gateways to ensure accurate and efficient processing of transactions.

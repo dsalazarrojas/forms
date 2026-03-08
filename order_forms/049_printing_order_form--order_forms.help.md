@@ -1,17 +1,3 @@
-<thinking>
-To avoid duplication and improve clarity, we will use the form fields to create a comprehensive guide for printing order forms.
-
-The goal of this guide is to help users understand the purpose and functionality of the printing order form, how to fill it out correctly, and what each field entails. We will cover each field in detail, making sure to explain the fields with clear and concise language.
-
-Before proceeding, let's break down the form structure:
-
-*   The form is titled "Printing Order Form".
-*   It has 25 fields, which can be categorized into three main sections: "Customer Info", "Order Details", and "Notes".
-
-The form's purpose is to gather information related to printing orders, which may include customer details, order specifics, and any additional notes or comments. This guide will walk through each field, ensuring users understand what to fill out and what information is required.
-
-</thinking>
-
 # Printing Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer and order information for printing purposes. It ensures that you capture all necessary details to accurately process and fulfill printing orders.

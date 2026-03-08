@@ -1,8 +1,3 @@
-<thinking>
-This form was created using AI to generate an original registration form for a workshop called "Gingerbread House Workshop". The purpose of this form is to collect contact and payment information from attendees. This form is designed to be a simple and straightforward way to register for the workshop. There is no internal logic or conditional routing, so each field should be filled out according to the user's information.
-
-</thinking>
-
 # Gingerbread House Workshop Registration - Help Guide
 ## Purpose
 This form is designed to collect contact and payment information from attendees for the Gingerbread House Workshop.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # untitled_form_1 - Help Guide
 ## Purpose
 This form is designed to collect information about a workshop, including the interest level, qualification, schedule, data collection methods, contact information, and workshop details.

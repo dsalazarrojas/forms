@@ -1,6 +1,3 @@
-<thinking> 
-This form is likely used to collect information for fashion product orders, allowing users to submit details about their order. The form has multiple pages with various fields for different types of information. This form seems to be designed for a simple, text-based input, but it also includes a few select options, a date field, and a time field. To determine the purpose of this form more specifically, we need to review the fields. Given the presence of fields like "fashion product order form option" and "fashion product order form page", it can be assumed that this form is for customers to create or edit their fashion product orders. However, it's hard to tell exactly what kind of information this form is designed to collect without further information about its intended use case. The form has 25 pages with the same type and name, but it's unclear if it's intended for a single page of inputs or if it's supposed to guide the user through a series of questions or tasks. Without additional information, it's hard to determine if any of the fields are related or if they're just a list of random text fields.</thinking>
-
 # Fashion Product Order Form - Help Guide
 ## Purpose
 The Fashion Product Order Form is used to collect information for fashion product orders. It appears to be designed for customers to create or edit their fashion product orders.

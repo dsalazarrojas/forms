@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # paperless_billing_request_form - Help Guide
 
 ## Purpose

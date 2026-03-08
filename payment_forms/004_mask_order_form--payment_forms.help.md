@@ -1,13 +1,3 @@
-<thinking>
-This form's purpose is to guide the user through the process of ordering a mask. The form collects contact, mask, and order information from the user. The user can enter their contact details, specify the mask details, provide order information, input shipping details, and add payment information. This form is a simple, text-based input form designed to gather necessary data from users.
-
-This form does not require any complex calculations or conditional logic, making it easy to fill out. Each field is a single line text input, and users can enter their information accordingly. The form's simplicity allows for quick and efficient data collection.
-
-When filling out the form, ensure to enter accurate and complete information in each field as requested. Double-check your entries before submitting the form to avoid any errors or miscommunications.
-
-This form is designed for users who want to order a mask, and it guides them through the necessary steps to do so. If you're unsure about any field, refer to the field-by-field explanation below.
-</thinking>
-
 # Mask Order Form - Help Guide
 ## Purpose
 The Mask Order Form is a simple text-based form designed to collect contact, mask, and order information from users.

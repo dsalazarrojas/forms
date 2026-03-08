@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Heavy Equipment Purchase Order Form". I'll follow the provided YAML schema to explain the form's purpose, how to complete it, and what each field means. The guide will be concise, concrete, and practical, with clear explanations and minimal internal assumptions.</thinking>
-
 # Heavy Equipment Purchase Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about heavy equipment purchases, including contact information, shipping details, and order specifics. It ensures accurate and efficient processing of purchase orders for heavy equipment.

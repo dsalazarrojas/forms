@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Class Payment Form - Help Guide
 
 ## Purpose

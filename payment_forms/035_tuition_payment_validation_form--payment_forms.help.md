@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to validate tuition payments for students. It is intended for use by school administrators or other authorized personnel to verify and process tuition payments. The form should only be used to validate payments that are not already processed or confirmed. 
-</thinking>
-
 # Tuition Payment Validation Form - Help Guide
 ## Purpose
 The Tuition Payment Validation Form is used to validate tuition payments for students. It collects information about the student, payment details, and other relevant data to ensure accurate and secure processing of payments.

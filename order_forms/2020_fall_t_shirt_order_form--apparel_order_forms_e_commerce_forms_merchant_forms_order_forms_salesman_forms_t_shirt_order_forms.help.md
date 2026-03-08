@@ -1,5 +1,3 @@
-<thinking>This help guide is intended to assist customers in filling out the 2020 Fall T-Shirt Order Form. The form is used for customers to place an order for customized T-shirts. The form requires customers to provide their personal information, order details, shipping address, and payment preferences. The form is divided into several sections, each with specific fields that need to be completed for a successful order submission. Please make sure to fill out all required fields and review this help guide carefully before starting the form.</thinking>
-
 # 2020 Fall T Shirt Order Form - Help Guide
 ## Purpose
 The 2020 Fall T Shirt Order Form is used for customers to place orders for customized T-shirts. This form captures essential information such as customer contact details, order details, shipping information, and payment preferences.

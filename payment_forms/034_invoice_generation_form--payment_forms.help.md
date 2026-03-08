@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to generate an invoice for a customer or client, capturing their billing information, contact details, and payment information. The form is meant to be filled out by the user to create a comprehensive invoice that can be used for payment processing and record-keeping. 
-
-The form will be submitted to a backend system where it will be processed and used for further action.
-
-Before filling out this form, please ensure you have all the necessary information ready to avoid having to repeat the process.
-
-</thinking>
-
 # Invoice Generation Form - Help Guide
 ## Purpose
 The Invoice Generation Form is used to create a comprehensive invoice for a customer or client, capturing their billing and payment information.

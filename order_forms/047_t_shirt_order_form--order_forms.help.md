@@ -1,5 +1,3 @@
-<thinking>...The "T Shirt Order Form" is used to collect information from customers to place an order for a T shirt. It is typically used in a retail or e-commerce setting where a customer wants to purchase a custom or pre-made T shirt. The form will be completed online, and the customer will be able to submit it for processing. This form should only be used for T shirt orders, and not for any other type of purchase. Please ensure that this form is only used for its intended purpose to avoid confusion or misinterpretation of customer information...</thinking>
-
 # T Shirt Order Form - Help Guide
 ## Purpose
 The "T Shirt Order Form" is a digital form designed to collect essential information from customers who want to place an order for a T shirt. This form helps us understand the customer's preferences and requirements for their order, ensuring we can process their request efficiently.

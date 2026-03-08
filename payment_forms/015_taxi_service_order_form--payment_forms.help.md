@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for a taxi service order. The form should be used by customers to provide their details for pickup and payment, including address, date, time, and other relevant information. The form is likely used in a business setting, such as a restaurant, hotel, or airport, where customers need to order a taxi for transportation.
-
-Before proceeding, please ensure that the information is accurate and relevant to the customer's request. This form should not be used for internal administrative tasks or duplicate customer requests.
-
-</thinking>
-
 # Taxi Service Order Form - Help Guide
 ## Purpose
 The Taxi Service Order Form is a tool designed to collect customer information for taxi service orders. By filling out this form, customers can provide necessary details for a smooth and efficient pickup and payment process.

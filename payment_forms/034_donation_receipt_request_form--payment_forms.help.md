@@ -1,12 +1,3 @@
-<thinking>
-This form is used to request a donation receipt from the user. The purpose of this form is to collect information from the user for the purpose of issuing a donation receipt. The form is designed to gather the user's personal details, donation details, and contact information.
-
-To ensure that the form is being used correctly, please note that:
-
-- The form is not a payment form and is intended to collect information for receipts only.
-- Users should only submit this form after making a donation.
-- This form is not intended to be used for fundraising purposes, it's for issuing receipts after a donation has already been made.
-</thinking>
 # Donation Receipt Request Form - Help Guide
 ## Purpose
 This form is used to request a donation receipt from the user. It's designed to collect information needed to issue a donation receipt after a donation has been made.

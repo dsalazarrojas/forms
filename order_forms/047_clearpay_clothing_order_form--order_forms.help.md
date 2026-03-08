@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate orders for clothing items. It collects customer information, shipping details, and order specifics such as items, prices, and quantities. It also allows for additional items to be added, calculates subtotals, and provides options for payment and shipping methods. The form aims to ensure accurate and detailed orders are placed and processed efficiently. Before completing this form, please review each field carefully to ensure accurate information is provided. If you have any questions or concerns, please contact the Clearpay team for support.
-</thinking>
-
 # Clearpay Clothing Order Form - Help Guide
 
 ## Purpose

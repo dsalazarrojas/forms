@@ -1,12 +1,3 @@
-<thinking>
-This is a form designed to gather information from potential buyers for acquiring capuchin monkeys. The form is intended to be filled out by individuals or organizations interested in purchasing capuchin monkeys for their personal or professional use. The form is not meant to be used for commercial breeding purposes.
-
-Before proceeding, the form will be thoroughly reviewed to ensure that all fields are completed correctly, and a follow-up contact will be made to confirm the submission and discuss any additional information required. The form is intended for individuals who are committed to providing a suitable environment and long-term care for the monkeys.
-
-The form may seem lengthy, but it is designed to gather crucial information necessary for the welfare and well-being of the monkeys.
-
-</thinking>
-
 # Capuchin Monkey Purchase Request Form - Help Guide
 ## Purpose
 

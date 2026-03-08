@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to facilitate coffee orders for BlueSnap Coffee, allowing customers to select their preferred coffee type, roast level, grind size, bag size, and payment method. The form includes options for one-time or recurring deliveries, as well as space for special requests. The goal is to make the ordering process smooth and convenient for customers.
-This form is designed for customers who want to place their coffee orders online or in-person. The form ensures that all required fields are completed before submitting the form, ensuring that customers can receive their orders correctly and without errors.
-The form's sections are designed to guide the customer through the ordering process, from selecting their preferred coffee to choosing the delivery frequency and payment method. Customers can also make special requests, such as mentioning allergies or preferences, to help the coffee shop meet their needs.
-To make the form more accessible and user-friendly, it has been designed with clear labels, intuitive options, and a straightforward structure.
-</thinking>
-
 # BlueSnap Coffee Order Form - Help Guide
 ## Purpose
 This guide is designed to help you complete the BlueSnap Coffee Order Form with ease.

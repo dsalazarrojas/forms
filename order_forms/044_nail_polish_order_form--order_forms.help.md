@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to place an order for nail polish. The fields will ask for the user's personal details, address, and specific preferences for their nail polish order. This form is likely to be used by a business that sells nail polish online or in-store.
-
-To avoid duplication, please make sure to only complete this form once per order.
-
-This form is likely to be used for internal purposes within a business, and the data collected will be used to fulfill the user's order. Please be aware that the form is not affiliated with, endorsed by, or derived from any form platform, and it is released under CC BY 4.0.
-
-</thinking>
-
 # Nail Polish Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from users who wish to place an order for nail polish. It will be used by a business to fulfill the user's order.

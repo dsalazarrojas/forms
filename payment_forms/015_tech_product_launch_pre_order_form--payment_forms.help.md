@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers interested in pre-ordering a tech product launch. The form will guide users through three pages of questions, gathering their product preference, shipping details, and payment information.
-</thinking>
-
 # Tech Product Launch Pre Order Form - Help Guide
 ## Purpose
 This form is designed to help customers pre-order a new tech product launch. By filling out this form, you will be able to provide your product preferences, shipping details, and payment information.

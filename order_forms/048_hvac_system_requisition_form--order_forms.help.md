@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for an HVAC system requisition, typically used to request the installation or modification of a heating, ventilation, and air conditioning system in a building. The form's primary purpose is to gather essential details about the system type, size, temperature range, installation location, and other relevant requirements. The form is intended for use by building management or facilities personnel to submit a formal request for HVAC system installation or modification, providing the necessary information for the installation team to understand the scope of the work required.
-
-To avoid duplication of effort, please note that this form should only be filled out when a new system is being requested, and not for maintenance or repair requests.
-
-</thinking>
-
 # hvac_system_requisition_form - Help Guide
 ## Purpose
 The hvac_system_requisition_form is a form used to submit a formal request for the installation or modification of a heating, ventilation, and air conditioning system in a building.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to pre-order items from the 2021 Holiday Collection. The form captures essential customer information, product details, and order preferences to facilitate smooth order processing and delivery. The form has been optimized for clarity and ease of use, ensuring that customers can provide accurate and complete information without confusion or frustration.
-</thinking>
-
 # 2021 Holiday Collection Pre Order Form - Help Guide
 ## Purpose
 The 2021 Holiday Collection Pre Order Form is a tool for customers to pre-order items from the holiday collection. It captures customer information, product details, and order preferences to ensure a smooth and efficient pre-ordering experience.

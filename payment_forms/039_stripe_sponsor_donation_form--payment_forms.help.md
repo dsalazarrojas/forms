@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for making a one-time or recurring donation to a sponsor, including the amount, frequency, and payment method. The form is designed to be completed by users who want to support a particular sponsor through a payment gateway like Stripe. The form should only be used for this specific purpose and not for any other type of form or payment collection.
-
-This form will be used for both one-time and recurring donations. The form fields are designed to collect information that is necessary for processing the donation and payment, while keeping the user's data simple and clear. The form should be self-explanatory and easy to understand for the users.
-
-Before proceeding, please review the form fields and their descriptions to ensure you understand what information is required and how to complete it correctly.
-</thinking>
-
 # stripe_sponsor_donation_form - Help Guide
 ## Purpose
 The **Stripe Sponsor Donation Form** is a form designed to collect information for making a one-time or recurring donation to a sponsor using the Stripe payment gateway.

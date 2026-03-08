@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for their meal subscription orders. The purpose of this form is to gather customer details, meal preferences, delivery schedule, payment information, and any special instructions or email address. This form is likely used for online food ordering and subscription services, where customers can select their preferred meals, choose a delivery schedule, and make payment arrangements. Please ensure that this form is only used for its intended purpose, and that all necessary fields are completed accurately to ensure smooth order processing and efficient service delivery.
-</thinking>
-
 # Meal Subscription Order Form - Help Guide
 
 ## Purpose

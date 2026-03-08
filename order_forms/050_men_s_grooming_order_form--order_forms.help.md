@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help customers place orders for men's grooming services. It is intended for customers who want to order services such as haircuts, shaves, or other grooming treatments. The form is meant to be used by customers who are not familiar with the business and need guidance on how to place their order.
-To ensure that the form is completed correctly and does not contain any duplicate or unnecessary information, please review the following guide carefully.
-</thinking>
-
 # Men's Grooming Order Form - Help Guide
 ## Purpose
 This form is for customers who want to place orders for men's grooming services such as haircuts, shaves, or other treatments.

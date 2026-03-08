@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for users to create or update their account information, specifically for balance sheet purposes. It may be used by accountants or financial professionals to manage and record financial data. This form likely helps in ensuring accurate and up-to-date financial records for easy tracking and analysis. It's likely used for internal purposes only, and there's a low to none chance of it being public-facing or user-visible in a public context.
-</thinking>
-
 # Balance Sheet - Help Guide
 ## Purpose
 This guide explains how to complete the Balance Sheet form, a tool used for creating or updating account information.

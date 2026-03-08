@@ -1,7 +1,3 @@
-<thinking>
-This is a crucial form for managing lease agreements with tenants, and its purpose is to collect essential details for payment processing. It's essential to have this form as it provides accurate and timely payment information for landlords and property managers. This form should not be duplicated with other forms, like the "Rent Payment Form" or "Lease Form", as it specifically targets the billing aspect of lease agreements. Its completion should not be optional, and it's a must for tenants to fill out the form correctly to ensure smooth payment processing.
-</thinking>
-
 # Lease Agreement Billing Form - Help Guide
 ## Purpose
 The Lease Agreement Billing Form is designed to collect payment details from tenants for lease agreements. It's a crucial form for landlords and property managers to process payments accurately and on time.

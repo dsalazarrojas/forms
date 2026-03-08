@@ -1,5 +1,3 @@
-<thinking>Express package pickup booking form is designed to capture essential information from customers to facilitate efficient and accurate package delivery. This form will help us understand their pickup preferences and requirements to ensure a smooth experience. Please note that this form does not store any sensitive or personal identifiable information as it's intended for internal purposes only.</thinking>
-
 # express_package_pickup_booking_form - Help Guide
 ## Purpose
 The express package pickup booking form is designed to gather information from customers for efficient and accurate package delivery.

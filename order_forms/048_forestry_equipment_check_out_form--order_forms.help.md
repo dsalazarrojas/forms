@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to check out forestry equipment, which is a crucial process in forest management and maintenance. The form likely serves as a tool for foresters, loggers, or other forestry professionals to request and manage equipment usage. To prevent duplication or ensure accuracy, it's essential to verify that the form is being used for its intended purpose and not for any other reason.
-</thinking>
-
 # Forestry Equipment Check Out Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online_taxi_booking_form - Help Guide
 
 ## Purpose

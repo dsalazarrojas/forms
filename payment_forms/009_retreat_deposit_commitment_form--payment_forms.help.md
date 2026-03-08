@@ -1,14 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Retreat Deposit Commitment Form, we need to understand that this form is designed to collect information from attendees regarding their retreat deposit commitments. This form likely serves as a mechanism for tracking and managing commitments from attendees to a retreat, allowing organizers to keep track of deposits, payments, and other relevant details. The form's purpose is to gather essential information from attendees, making it a crucial tool for efficient retreat management.
-
-We need to verify that this form is not a duplicate of any existing form and that its purpose aligns with the organization's retreat management process.
-
-Upon reviewing the form's structure and fields, we can see that it collects a wide range of information, including attendee details, deposit and payment information, commitment details, and other relevant notes. This form appears to be comprehensive, covering key aspects of retreat management.
-
-We'll create a detailed help guide to ensure users understand how to fill out this form accurately and efficiently, covering each field's purpose and any necessary explanations to support its completion.
-
-</thinking>
-
 # Retreat Deposit Commitment Form - Help Guide
 ## Purpose
 The Retreat Deposit Commitment Form is designed to collect information from attendees regarding their retreat deposit commitments. This form helps organizers track and manage commitments, ensuring accurate and up-to-date records.

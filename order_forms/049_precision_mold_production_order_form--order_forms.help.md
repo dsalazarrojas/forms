@@ -1,13 +1,3 @@
-<thinking>
-To start with, let's break down the form purpose: this form is designed to collect information from customers for precision mold production orders. It seems to be a form that would be used in a manufacturing or production environment, where customers need to provide details about their orders. 
-
-Given the form structure, it appears to be a simple and straightforward form that gathers customer information, production specifications, delivery needs, production details, attachments, and an order summary. The form does not seem to be redundant or duplicating any existing forms, and it's not clear if there's a specific industry or business context this form is tailored for.
-
-Considering the form fields, "Customer Information" likely asks for the customer's contact details or company information. "Production Specifications" might be about the specific requirements for the mold production, such as material or size. "Delivery Needs" could be about the desired delivery schedule or date range. "Production Details" could be about the production process or additional information about the order. "Attachments" might be for uploading any relevant files or documents related to the order. "Order Summary" probably provides a summary of the entire order for reference. 
-
-This guide will cover each field in detail, assuming the above explanations are correct based on the provided YAML fields.
-</thinking>
-
 # Precision Mold Production Order Form - Help Guide
 ## Purpose
 The Precision Mold Production Order Form is designed to collect information from customers for precision mold production orders. This form gathers essential details for the production team to fulfill customer requirements.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect donations to support the Historical Society. The purpose of this form is to allow users to provide their donation amount and contact information. The form also asks users to select a payment method and provide any additional comments they may have. The Historical Society is a non-profit organization that relies on public support, and this form is crucial for collecting donations and tracking donor information. It's essential that users understand the form's purpose and how to complete it correctly.
-</thinking>
-
 # Historical Society Donation Form - Help Guide
 ## Purpose
 The Historical Society Donation Form is a tool used to collect donations and track donor information for the Historical Society. Donations are crucial for supporting the society's activities and initiatives.

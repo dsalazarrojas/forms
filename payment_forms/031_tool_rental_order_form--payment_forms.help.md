@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information for tool rental orders. The form is designed to collect data from customers who are interested in renting tools for a specific period. The form fields include details about the customer, the tool type, rental dates, and any special requirements. This form should only be used for tool rental orders and not for other purposes. It's essential to fill in all required fields to ensure accurate and complete information is collected.
-</thinking>
-
 # Tool Rental Order Form - Help Guide
 ## Purpose
 The Tool Rental Order Form is used to collect information for tool rental orders. Fill out the form with the relevant details to ensure a smooth and efficient rental process.

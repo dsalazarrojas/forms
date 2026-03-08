@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers place orders for prescription glass products. To ensure the form is used correctly, we'll need to make sure it's being used for its intended purpose and not for duplicate or unrelated purposes.
-</thinking>
-
 # Prescription Glass Order Form - Help Guide
 ## Purpose
 

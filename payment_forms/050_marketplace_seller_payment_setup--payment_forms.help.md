@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect payment information from marketplace sellers, allowing them to set up their payment preferences and details. The form is divided into several sections, each with its own set of fields. The form is required for sellers to complete in order to receive payments for their sales on the marketplace.
-
-The form is intended to be completed by marketplace sellers who want to set up their payment preferences and details. It is a one-time setup process, and the information collected here will be used to facilitate payments for the seller's sales on the marketplace.
-
-Before starting to complete the form, please ensure that you have read and understood the payment terms and conditions, as well as the terms of service agreement. You will be asked to confirm that you have read and agreed to these terms before submitting the form.
-
-Please note that some fields in this form are required, and you will not be able to submit the form without completing them. If you are unsure about any of the fields, please refer to the field explanations below.
-
-</thinking>
-
 # Marketplace Seller Payment Setup - Help Guide
 ## Purpose
 This form is designed to collect payment information from marketplace sellers, allowing them to set up their payment preferences and details.

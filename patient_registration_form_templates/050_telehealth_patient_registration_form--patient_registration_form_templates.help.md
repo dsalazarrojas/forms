@@ -1,7 +1,3 @@
-<thinking>
-This form is for collecting patient registration information for telehealth services. It is designed to be used by patients or their representatives to provide basic demographic and contact information.
-</thinking>
-
 # telehealth_patient_registration_form - Help Guide
 ## Purpose
 This form is designed to collect basic patient registration information for telehealth services. It will be used to create or update patient records and facilitate communication with the patient.

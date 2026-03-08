@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # tb_screening_assessment_form - Help Guide
 ## Purpose
 This form is used for conducting a thorough screening and assessment of patients. It is designed to gather relevant information about a patient's medical history, symptoms, and other relevant details to aid in their diagnosis and treatment.

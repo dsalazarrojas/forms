@@ -1,5 +1,3 @@
-<thinking>Before creating a help guide for the Adult ADHD Investigator Symptom Rating Scale form, let's review the form's purpose, structure, and requirements to ensure the guide is informative and accurate. This form appears to be designed for assessing symptoms of Adult Attention Deficit Hyperactivity Disorder (ADHD). The form collects demographic information (patient name, ID, and date of birth) and 11 symptom ratings for the clinician to evaluate the severity of various ADHD symptoms. Each symptom rating is on a scale of 0 (Not Present) to 3 (Severe). The form also asks about the onset and duration of symptoms, functional impairment, and the total score.</thinking>
-
 # Adult ADHD Investigator Symptom Rating Scale - Help Guide
 ## Purpose
 The Adult ADHD Investigator Symptom Rating Scale is a tool used to assess the severity of symptoms associated with Adult Attention Deficit Hyperactivity Disorder (ADHD). This form helps clinicians evaluate and rate various symptoms, providing a total score to aid in diagnosis and treatment planning.

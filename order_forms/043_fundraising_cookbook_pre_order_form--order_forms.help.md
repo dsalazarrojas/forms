@@ -1,7 +1,3 @@
-<thinking>Before we create the user-facing help guide, let's first understand the form's purpose and its relevance in the fundraising process. This form is called "Fundraising Cookbook Pre Order Form," which suggests that it is a form used for ordering cookbooks as part of a fundraising campaign. This form likely helps supporters to pre-order the cookbooks, providing essential details such as the supporter's contact information, order type, and shipping details.
-
-To confirm, we need to make sure that this form is not a duplicate of any other form within our organization. Let's review our internal forms library to ensure that this form's purpose is unique and not already covered by another form.</thinking>
-
 # Fundraising Cookbook Pre Order Form - Help Guide
 ## Purpose
 This form is used for supporters to pre-order cookbooks as part of a fundraising campaign. It collects essential details such as the supporter's contact information, order type, and shipping details.

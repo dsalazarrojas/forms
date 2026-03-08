@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the Cultural Integration Program Donation Form. The form is used to collect personal and donation information from users, including their first and last names, email address, phone number, payment method, donation amount, and notes. The form also includes fields to confirm donation and payment details such as payment method, receipt date and time, and amount. The form is used to process donation payments and confirm receipt of payments. 
-
-The fields on this form are designed to be clear and concise. However, it's possible that some fields may have multiple purposes or meanings. If you're unsure about the purpose of a field, please review the field label or seek clarification from the system administrators. 
-
-Please review this guide carefully before proceeding. 
-
-</thinking>
-
 # Cultural Integration Program Donation Form - Help Guide
 
 ## Purpose

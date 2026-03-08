@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from mothers to be for a breast pump order. The purpose of this form is to gather necessary details to process the order and ensure the right equipment is delivered to the mother on time. The information collected includes the mother's personal details, baby's due date, insurance information, pump preferences, and other requirements. The form will be reviewed by our team to ensure accurate processing and delivery of the equipment.
-</thinking>
-
 # Breast Pump Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from mothers to be for a breast pump order. The collected information will be used to process the order and ensure timely delivery of the equipment.

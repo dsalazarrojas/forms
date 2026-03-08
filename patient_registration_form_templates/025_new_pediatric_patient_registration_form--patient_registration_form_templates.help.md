@@ -1,5 +1,3 @@
-<thinking>This is a form for creating a new pediatric patient record. The form is used to collect patient information including name, contact details, medical history, and appointment information. The form is designed for healthcare professionals to register new patients in their practice. To ensure accurate patient data, please ensure all fields are completed truthfully and thoroughly.</thinking>
-
 # new-pediatric-patient-registration-form - Help Guide
 ## Purpose
 This form is used to create a new pediatric patient record. It helps healthcare professionals to register patients, including collecting personal contact information, medical history, and appointment details.

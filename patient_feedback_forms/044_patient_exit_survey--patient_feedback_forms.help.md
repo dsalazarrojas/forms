@@ -1,7 +1,3 @@
-<thinking>
-The form "Patient Exit Survey" is designed to collect feedback from patients who are exiting the medical facility. This form is likely to be used to gauge the patient's experience, satisfaction, and perception of the quality of care they received. The form may be used by healthcare professionals to identify areas of improvement and make data-driven decisions to enhance the patient experience.
-</thinking>
-
 # Patient Exit Survey - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used for patient registration, gathering information about a patient's medical history, risk factors, and contact details. This form likely serves as the first step in the patient intake process for a medical facility or healthcare organization. To create this form, the developer has defined a series of fields with various types and options, which we'll break down in the user guide below.
-
-Before completing this form, please ensure that the information you are providing is accurate and up-to-date. If you are unsure about any field, it's best to consult with the patient or their medical provider for clarification.
-
-The following guide will walk you through each step of the form completion process.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information for patient registration, which will help healthcare providers understand patient needs and provide better care.

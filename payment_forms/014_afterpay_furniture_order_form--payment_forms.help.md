@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended to capture essential information from buyers for the purpose of processing and fulfilling their furniture orders. The form is designed to collect buyer contact and address details, item description and size specifications, and payment method preferences. The primary function of this form is to gather necessary data from the buyer to complete the order accurately and efficiently. It is crucial that this form is filled out correctly, as incorrect or incomplete information may lead to delays or errors in the order fulfillment process. It is essential to ensure that all required fields are filled out, and optional fields are completed if relevant to the specific order. This form is part of the payment_forms category and is specifically designed for processing "Afterpay" payment method. 
-</thinking>
-
 # Afterpay Furniture Order Form - Help Guide
 ## Purpose
 The Afterpay Furniture Order Form is designed to capture essential information from buyers for the purpose of processing and fulfilling their orders accurately and efficiently.

@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "e_commerce_refund_form" form, we'll need to understand the form's purpose and how it should be completed. This form is likely used for customers to request a refund for an order. The form should be completed by the customer to provide their information, reason for refund, and other relevant details.
-
-To confirm, the form has 8 fields:
-
-*   Customer Information: This section is for the customer to provide their name, email, and other contact details.
-*   Refund Reason: A text field for the customer to explain the reason for their refund request.
-*   Order Information: Another text field for the customer to provide more information about the order.
-*   Product Returned: A select multiple field allowing the customer to choose if a product was returned.
-*   Refund Amount: A field for the customer to enter the amount they are requesting as a refund.
-*   Customer Message: A text field for the customer to provide any additional comments or messages.
-*   Refund Status: A select one field allowing the customer to choose the status of their refund request.
-*   Reason for Rejection: A select multiple field allowing the customer to choose reasons their refund request may be rejected.
-
-This form does not have any required fields, so customers can choose which fields they wish to complete. The purpose of this form is to gather information from customers to process their refund requests.
-
-</thinking>
-
 # e_commerce_refund_form - Help Guide
 ## Purpose
 The e_commerce_refund_form is for customers to request a refund for an order. Customers can choose to fill in as much or as little information as needed, but it is recommended to provide as much detail as possible to ensure a smooth and efficient refund process.

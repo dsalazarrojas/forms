@@ -1,10 +1,3 @@
-<thinking>
-To be eligible for this form, you must be a race sponsor or a person authorized by the sponsor to place orders. This form is intended for sponsors to order materials for their race booths. Please ensure that you have the necessary approval from your sponsor before completing this form.
-This form is used to collect information about the materials you would like to order for your race booth. Please fill out this form carefully, as it will help us process your order accurately.
-Please note that some fields are optional. Please only fill out the fields that apply to you.
-Before you start, please ensure that you are filling out the correct pages for your specific order.
-</thinking>
-
 # race_sponsor_booth_material_order_form - Help Guide
 ## Purpose
 The "Race Sponsor Booth Material Order Form" is used by race sponsors to order materials for their race booths. This form helps us process your order accurately and efficiently.

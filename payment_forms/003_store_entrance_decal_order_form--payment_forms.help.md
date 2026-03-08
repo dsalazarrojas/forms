@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for entrance decals for stores. The form is intended to gather information about the store, the customer, and the order details. This form is likely used by store owners or staff to create a new order, which will be used to fulfill the customer's request. Before proceeding, ensure that you have a legitimate reason to create a new order and that the order is not a duplicate.
-</thinking>
-
 # Store Entrance Decal Order Form - Help Guide
 ## Purpose
 This form is used to create a new order for entrance decals for stores. Please fill out the form accurately to ensure that the order is processed correctly.

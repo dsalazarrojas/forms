@@ -1,7 +1,3 @@
-<thinking>
-This form's purpose is to collect information about gas bill payments. It is part of the "payment_forms" category and is designed to help customers provide details about their payments and billing information. Before proceeding with this guide, I want to confirm that this form is relevant to the gas industry and is not a copy of any other form.
-</thinking>
-
 # Gas Bill Payment Form - Help Guide
 
 ## Purpose

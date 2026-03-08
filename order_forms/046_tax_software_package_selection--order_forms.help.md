@@ -1,15 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, I'll need to consider the following steps:
-
-1. Determine the form's purpose: The form is for selecting a tax software package, and the user needs to make an informed decision based on their needs and preferences.
-2. Identify the user's role: The user is likely an accountant or tax professional who needs to choose a software package that suits their requirements.
-3. Review the form's fields: The form includes fields for selecting a tax professional, professional experience, package features, benefits, software seller, confidence level, hours spent, expected date of purchase, payment method, purchases count, hours spent per month, and expected date of purchase 2.
-4. Consider the user's goals and needs: The user wants to select the best tax software package for their business or clients.
-5. Create clear and concise explanations for each field, avoiding unsupported business logic and focusing on the user's goals and needs.
-
-</thinking>
-
 # Tax Software Package Selection - Help Guide
 
 ## Purpose

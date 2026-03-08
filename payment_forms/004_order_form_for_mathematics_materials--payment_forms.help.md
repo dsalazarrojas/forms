@@ -1,8 +1,3 @@
-<thinking>
-  This form is designed to collect user input for mathematical materials orders. It captures information related to the order, including form name, email, phone number, address, payment method, amount, shipping details, and notes. The purpose of this form is to facilitate the process of processing orders for mathematical materials.
-  Before filling out the form, it is essential to understand the context in which it is being used. This form is likely being used in an educational or business setting where mathematical materials are being ordered or purchased.
-</thinking>
-
 # Order Form For Mathematics Materials - Help Guide
 ## Purpose
 This form is used to collect information for the order of mathematical materials. It is crucial to fill out this form accurately to ensure that your order is processed correctly.

@@ -1,11 +1,3 @@
-<thinking>**Form Purpose:**
-This form is designed to screen for potential cases of Monkeypox (Mpox) in individuals. It collects information about symptoms, recent travel, and medical attention received for these symptoms.
-
-**Form Purpose:**
-This form helps identify individuals who may be at risk of Mpox and ensures they receive proper medical attention. It also helps healthcare professionals track and manage potential cases.
-
-</thinking>
-
 # Mpox Self Screening Questionnaire - Help Guide
 ## Purpose
 The Mpox Self Screening Questionnaire is a form designed to identify potential cases of Mpox in individuals. It gathers information about symptoms, recent travel, and medical attention received for these symptoms.

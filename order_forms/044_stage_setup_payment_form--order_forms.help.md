@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for setting up stages for payment processing, allowing users to input event name, event date, service name and hours, amount due, payment method, and more. However, the actual purpose and usage of this form depend on the context in which it is being used. For instance, in a sales context, it might be used for managing customer payments while in an events management context, it might be used for managing service schedules. To avoid duplication of effort, ensure to only fill this form when required and necessary.
-</thinking>
-
 # Stage Setup Payment Form - Help Guide
 ## Purpose
 The Stage Setup Payment Form is a tool for setting up and managing payments for a particular stage or event. This form is used to collect necessary information for payment processing.

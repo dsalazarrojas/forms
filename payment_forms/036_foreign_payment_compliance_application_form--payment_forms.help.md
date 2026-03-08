@@ -1,12 +1,3 @@
-<thinking>
-This form is used to manage foreign payments and ensure compliance with internal regulations. 
-
-It captures sender information, foreign payment details, dates and times, payment status, and payment method.
-
-To fill out this form, please note that you will be able to navigate through a series of questions. Each step will ask you for specific information that will aid in the processing and approval of your foreign payment.
-
-</thinking>
-
 # Foreign Payment Compliance Application Form - Help Guide
 
 ## Purpose

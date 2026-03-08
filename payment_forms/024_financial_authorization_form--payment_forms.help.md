@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect personal and financial information for authorization purposes. It should be used by employees, contractors, or other authorized individuals to request financial authorization for a specific reason or amount. 
-
-Before filling out this form, please make sure you have all necessary information and approvals required. The form's data will be used to update your employee's or contractor's financial profile.
-
-The following guide is intended to walk you through each field's purpose and requirements. Please follow it carefully to complete the form accurately.
-
-</thinking>
-
 # Financial Authorization Form - Help Guide
 ## Purpose
 This form is used to collect personal and financial information for financial authorization purposes. Please fill it out if you have been asked to do so by your supervisor or the finance department.

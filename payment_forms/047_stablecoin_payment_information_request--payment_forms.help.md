@@ -1,8 +1,3 @@
-<thinking>
-To ensure that this form is completed accurately and effectively, we need to consider its purpose and the information required for payment processing. This form is likely used for requesting payment information from stablecoin users, which might include details such as payment methods, dates, and amounts. To avoid duplication of effort and errors, we should verify that the form is only submitted when all required fields are filled out correctly.
-The form appears to be designed to collect payment information, which could be for various reasons such as subscription renewals, invoices, or other transactions. The "Payment Method" field seems to be the most critical field, as it determines the type of payment being made. The "Payee Details" field might be used to specify who the payment is for, whether it's an individual or an organization.
-</thinking>
-
 # Stablecoin Payment Information Request - Help Guide
 ## Purpose
 This form is used to request payment information from stablecoin users. It's intended to collect details such as payment methods, dates, and amounts for various transactions, including subscription renewals, invoices, or other payments.

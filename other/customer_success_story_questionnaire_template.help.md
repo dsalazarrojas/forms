@@ -1,8 +1,3 @@
-<thinking>
-This form was generated using AI and is intended to gather valuable insights from customers who have achieved success with our solution. It's meant to be a template for users to share their experiences, outcomes, and suggestions. **Please note that this form is not affiliated with or endorsed by any form platform, and its content has been created independently using public metadata.**
-
-</thinking>
-
 # Customer Success Story Questionnaire - Help Guide
 ## Purpose
 This form is designed to help customers share their success stories, providing a platform for them to highlight their achievements and experiences with our solution.

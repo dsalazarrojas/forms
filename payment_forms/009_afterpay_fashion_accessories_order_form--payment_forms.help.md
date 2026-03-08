@@ -1,5 +1,3 @@
-<thinking>Afterpay Fashion Accessories Order Form is a form designed to collect information from customers about their fashion accessory orders. This form is intended for customers who are interested in purchasing fashion accessories through Afterpay, a "buy now, pay later" payment method. To ensure that the form is filled out correctly, please check that you are not duplicating your order and that you are not attempting to purchase items that are not available on our platform. Before submitting the form, please review the fields below and fill them out accurately to the best of your abilities.</thinking>
-
 # Afterpay Fashion Accessories Order Form - Help Guide
 ## Purpose
 The Afterpay Fashion Accessories Order Form is designed to collect information about the fashion accessory you wish to purchase. This includes your contact information, shipping and billing details, the accessory category and specific item name, and your preferences for payment and shipping methods.

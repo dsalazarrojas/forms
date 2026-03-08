@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a payment-related form, specifically designed for ordering farm-to-table meat products. Based on the provided YAML, the form likely serves as a tool for customers to provide order details, payment information, and delivery preferences. This form does not seem to collect sensitive or personal identifying information. Given the form name and structure, it's possible that this form is part of an online marketplace or e-commerce platform for purchasing farm-to-table meat products. To confirm this interpretation, I will provide a help guide that matches this understanding.
-</thinking>
-
 # farm_to_table_meat_order_form - Help Guide
 ## Purpose
 The farm_to_table_meat_order_form is designed to collect order details, payment information, and delivery preferences for customers ordering farm-to-table meat products.

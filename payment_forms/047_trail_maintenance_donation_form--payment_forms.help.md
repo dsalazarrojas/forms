@@ -1,15 +1,3 @@
-<thinking>
-To ensure the Trail Maintenance Donation Form is filled out correctly, let's review its purpose and required fields. This form is meant to collect information about donations towards trail maintenance, allowing users to contribute to the upkeep of trails in the area. It's essential to fill out this form accurately to ensure the collected funds are properly allocated and used for the intended purpose.
-
-Before starting, please check if you have already submitted a donation for trail maintenance recently, as duplicate submissions might be discarded to avoid over-reporting. If you're unsure, you can always contact the trail maintenance team for clarification.
-
-To confirm the form's purpose and fields' intent:
-
-* This form is not for trail adoption or membership applications.
-* It's not for reporting trail usage or maintenance issues.
-* It's specifically for donations to support trail maintenance.
-</thinking>
-
 # Trail Maintenance Donation Form - Help Guide
 ## Purpose
 The Trail Maintenance Donation Form is designed to collect donations towards the upkeep and maintenance of trails in the area. This form helps allocate funds to support trail maintenance activities.

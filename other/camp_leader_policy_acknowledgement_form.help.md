@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to obtain the acknowledgement of a camp leader, which includes their acknowledgement of a policy and their signatures. This form is likely used in a work environment, such as a camp or office setting, where leaders need to confirm their understanding of policies and procedures. To avoid duplication, ensure that the form is only completed once by the camp leader after they have reviewed and acknowledged the policy.
-</thinking>
-
 # untitled_form - Help Guide
 ## Purpose
 This form is used to obtain the acknowledgement of a camp leader, which includes their acknowledgement of a policy and their signatures.

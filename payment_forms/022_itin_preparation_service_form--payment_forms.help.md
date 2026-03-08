@@ -1,14 +1,3 @@
-<thinking>Before we get into the ITIN Preparation Service Form help guide, let's consider the following:
-
-* The form is used for preparing and updating information for the ITIN (Individual Taxpayer Identification Number) application process.
-* ITIN is a 9-digit number used to identify taxpayers who do not have a social security number.
-* The form will be used by individuals who are applying for or updating their ITIN status.
-* The form is not intended for use by businesses or other entities that do not have a valid ITIN.
-* To avoid duplication, this form should only be used to submit new applications or updates for existing ITINs.
-* To avoid confusion, please ensure that you are using the correct tax year and application type for your specific situation.
-
-Now, let's move on to the help guide.</thinking>
-
 # ITIN Preparation Service Form - Help Guide
 ## Purpose
 The ITIN Preparation Service Form is used to prepare and update information for the Individual Taxpayer Identification Number (ITIN) application process.

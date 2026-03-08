@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Valentine DIY Kits Order Form - Help Guide
 ## Purpose
 The Valentine DIY Kits Order Form is used to collect information for custom Valentine's Day kits. This form is designed to gather details such as name, email, phone number, address, and other relevant information for processing orders.

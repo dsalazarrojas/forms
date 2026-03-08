@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for parent-teacher communication in a school setting. The purpose of this form is to facilitate regular communication between parents and teachers, enabling them to share information, discuss progress, and collaborate on their child's education. This form is used by schools to streamline communication and ensure that all necessary events and appointments are documented and shared with relevant parties.
-
-To prevent duplication, this form is designed to be used once per parent-teacher conference. Please do not attempt to use this form for any other purpose or event type.
-
-The form fields are designed to be user-friendly and easy to understand. Each field is labeled and explained clearly, with optional hints and examples provided where necessary.
-</thinking>
-
 # Parent Communication Checklist - Help Guide
 ## Purpose
 This form is designed for parent-teacher communication in a school setting to facilitate regular information sharing and collaboration between parents and teachers.

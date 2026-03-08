@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to place an order for flowers online. It captures information about the customer, order details, and payment method. The form is not intended for internal use within the company, so there is no duplication of effort or relevance checks. It is meant for external customers to complete for their flower orders.
-</thinking>
-
 # Online Flower Order Form - Help Guide
 
 ## Purpose

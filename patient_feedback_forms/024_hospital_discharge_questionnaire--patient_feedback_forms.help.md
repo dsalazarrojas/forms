@@ -1,8 +1,3 @@
-<thinking>
-To create this help guide, I'll first clarify the purpose and context of the form. The form is called "Hospital Discharge Questionnaire" and is likely used to collect information from patients about their hospital visit. This could be for quality control, patient satisfaction, or administrative purposes. I'll assume that the form is designed to be completed by patients or their representatives after discharge. Given this context, I'll create the help guide to ensure end-users understand the form's purpose and how to fill it out correctly.
-
-</thinking>
-
 # Hospital Discharge Questionnaire - Help Guide
 ## Purpose
 The Hospital Discharge Questionnaire is a form designed to gather information from patients about their hospital experience. This form is meant to be completed by patients or their representatives after discharge, and its purpose is to help the hospital understand the patient's satisfaction and experience.

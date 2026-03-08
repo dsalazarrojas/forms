@@ -1,14 +1,3 @@
-<thinking>
-This form is used to gather information from patients or their representatives when they arrive at the hospital. The purpose of this form is to collect relevant details about the patient's stay, including their contact information, accommodation needs, and medical history. This form is intended to be completed by patients or their representatives, and it is not a form for hospital staff to enter information on behalf of the patient.
-
-When completing this form, please ensure that you provide accurate and up-to-date information about the patient's stay. If you are unsure about any of the fields, please do not hesitate to ask a member of the hospital staff for assistance.
-
-Please note that this form is divided into several sections, each with its own specific purpose. This guide will walk you through each section and explain what information is required.
-
-Please ensure that you have permission from the patient to complete this form on their behalf if they are unable to do so themselves.
-
-</thinking>
-
 # Hospital Accommodation Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients or their representatives to ensure their comfort and safety during their stay at the hospital.

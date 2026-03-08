@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and consistently by end-users. The "Tribute Donation Form" is intended for users to make a one-time or recurring gift in tribute to a particular person or entity. It collects information about the person making the donation (donor) and the gift details. This form is essential for tracking and recording donation data accurately and maintaining transparency in our organization's finances. It's crucial that users understand the form's purpose and usage to avoid confusion and errors.
-</thinking>
-
 # tribute_donation_form - Help Guide
 ## Purpose
 The Tribute Donation Form is used to record a one-time or recurring donation made in tribute to a particular person or entity. It collects essential information about the donor and the gift details.

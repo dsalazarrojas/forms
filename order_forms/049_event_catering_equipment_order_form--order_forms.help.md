@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The event catering equipment order form is used to collect information from clients to place orders for catering equipment rental needs for events. It is an essential tool for the event planning team to gather the required details for the order. 
 
 The form is designed to be completed by clients or event planners to provide their event information, including the type of event, number of guests, date, location, contact information, and other relevant details. 

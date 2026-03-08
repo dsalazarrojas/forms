@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the ordering process for 3 meals (breakfast, lunch, and dinner) with customizable options for each meal. The form asks for the customer's contact information, delivery details, meal choices, and payment method. It also allows for optional add-ons and special instructions. The form is meant to be completed by customers to place their orders.
-</thinking>
-
 # 3 Meal Order Form - Help Guide
 ## Purpose
 The 3 Meal Order Form is designed to gather information from customers for a 3 meal order. It includes fields for customer contact information, meal selections, delivery details, and payment method.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information for plant-based milk orders. The form is used to determine if a customer would like to place an order, and if so, to gather details about the order such as quantity, delivery preferences, and customer contact information. The fields on this form are designed to be optional, but filling out the required ones will make the form more effective for the customer.
-</thinking>
-
 # Plant Based Milk Order Form - Help Guide
 ## Purpose
 This form is used to gather information from customers about their plant-based milk orders. It helps us determine if a customer wants to place an order and, if so, captures details about the order such as quantity, delivery preferences, and customer contact information.

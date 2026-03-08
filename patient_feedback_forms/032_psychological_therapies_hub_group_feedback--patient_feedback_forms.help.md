@@ -1,26 +1,3 @@
-<thinking>
-This form is likely used to collect feedback from patients who have received psychological therapies or counseling sessions at a healthcare facility or organization. It's probably aimed at understanding the effectiveness or otherwise of these treatments in a quantitative and qualitative manner. The form may be used to monitor patient satisfaction, identify areas of improvement for the therapists, and refine the services provided to patients. 
-
-This form does not seem to have been used before, or its usage is not tracked in this system, so it's possible that it is a new form being tested or a one-off requirement. 
-
-Please review the fields in the form:
-
-* `name`: The field to input the name of the patient.
-* `email`: The field to input the email of the patient.
-* `phone`: The field to input the phone number of the patient.
-* `feedback`: The field to input feedback about the therapy or counseling session.
-* `rating`: The field to rate the effectiveness of the therapy.
-* `rating_scale`: A dropdown menu to select from a high or low rating scale.
-* `date`: The field to input the date of the therapy or counseling session.
-* `time`: The field to input the time of the therapy or counseling session.
-* `note`: The field to input any additional notes about the session.
-* `select_multiple`: A dropdown menu to select multiple items from a list.
-
-This form may be used by patients to provide feedback and ratings about their therapy or counseling sessions. It is likely intended for use by healthcare professionals or administrators in the facility to collect, analyze, and act upon the data. 
-
-Please review the fields carefully before proceeding to ensure you understand their purpose and requirements. 
-</thinking>
-
 # Psychological Therapies Hub Group Feedback - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from patients about their therapy or counseling sessions.

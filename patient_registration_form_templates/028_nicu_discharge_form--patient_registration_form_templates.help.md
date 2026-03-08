@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about a patient's discharge from the NICU (Neonatal Intensive Care Unit). It is essential to ensure that the patient's discharge process is handled efficiently and effectively. This form should not be used for other purposes.
-
-Before proceeding, please ensure that this form is not a duplicate of another form or a previous instance of this form.
-
-</thinking>
-
 # NICU Discharge Form - Help Guide
 ## Purpose
 

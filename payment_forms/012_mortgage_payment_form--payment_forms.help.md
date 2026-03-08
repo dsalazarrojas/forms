@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect user information for mortgage payment purposes, likely to process payments or update payment information. This form seems to be a basic form with fields for personal identification, payment details, and contact information. The purpose of this form is to gather essential data for mortgage payments, which may include payment amounts, methods, and statuses. I assume this form is for customers or clients to provide payment information, and it's likely used in a financial or banking context.
-</thinking>
-
 # Mortgage Payment Form - Help Guide
 
 ## Purpose

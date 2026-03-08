@@ -1,7 +1,3 @@
-<thinking>
-This form is for marketing purposes to display information related to orders, specifically to gather and show customer details, product selections, artwork, and delivery preferences. The purpose of this form is to collect relevant data for the marketing team to analyze and use for their campaigns. To avoid confusion, the form has multiple pages, each with its own section of fields.
-</thinking>
-
 # qr_marketing_display_order_form - Help Guide
 ## Purpose
 This form is designed to collect and display information related to orders for marketing purposes. It helps the marketing team analyze and use this data for their campaigns.

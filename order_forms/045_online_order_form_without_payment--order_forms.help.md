@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for this form, we need to first understand its purpose and the fields it contains. This form is an "Online Order Form Without Payment" which suggests that it is used for customers to provide their information and details about their order without making a payment. The form is likely used for internal purposes, such as for sales teams or customer support teams to gather information about customer orders.
-
-The form has several fields that can be categorized into two main sections: customer information and order details. The customer information section includes fields for customer name, email, phone number, and notes. The order details section includes fields for services, packages, and notes.
-
-We can now proceed with creating the help guide for this form.
-
-</thinking>
-
 # Online Order Form Without Payment - Help Guide
 ## Purpose
 This form is used to collect customer information and order details without the need for payment. It helps internal teams, such as sales teams or customer support teams, to gather information about customer orders.

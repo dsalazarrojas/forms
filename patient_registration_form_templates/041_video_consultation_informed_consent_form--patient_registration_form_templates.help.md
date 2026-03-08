@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for a user-facing form designed to capture video consultation data. This form is likely part of a medical setting where patients are undergoing video consultations. The form aims to gather essential information from both the patient and the doctor involved in the consultation. The purpose of this form is to obtain informed consent from the patient, ensuring they understand the scope and risks of the consultation, as well as to collect relevant data on the patient's information, doctor information, and consent date. This form is designed to be completed once the consultation begins, allowing both parties to be on the same page and ensuring a smooth and secure experience for all parties involved.
-</thinking>
-
 # video_consulation_informed_consent_form - Help Guide
 ## Purpose
 The video_consulation_informed_consent_form is a form designed to collect information and obtain informed consent from patients during video consultations. It serves as a crucial document for both the patient and the doctor to have a clear understanding of the consultation process.

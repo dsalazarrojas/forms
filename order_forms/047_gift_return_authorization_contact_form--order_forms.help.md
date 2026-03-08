@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gift Return Authorization Contact Form - Help Guide
 ## Purpose
 This form is for customers to provide information about a gift return, which will be used to process the return and resolve any issues related to the gift.

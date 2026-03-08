@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for customers to pre-order a guitar model. The form's purpose is to collect information about the customer, their model selection, and details about the order. This form will guide you through the necessary steps to complete the pre-order process.
-
-The form is not intended to be filled out by staff or other internal users, but rather by customers. The form's fields will be used to generate a customized pre-order confirmation message for the customer and to prepare the order for production.
-
-This form has a few optional fields, but please ensure that all required fields are filled out to avoid any issues with the pre-order process.
-
-</thinking>
-
 # Guitar Model Pre Order Form - Help Guide
 ## Purpose
 The Guitar Model Pre Order Form is designed to collect information from customers to pre-order a guitar model. Please fill out this form to place your order and receive a pre-order confirmation.

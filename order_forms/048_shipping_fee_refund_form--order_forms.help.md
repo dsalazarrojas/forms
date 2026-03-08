@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to process a refund for shipping fees related to an order. 
-The shipping fee refund form is used by customers or order managers to request a refund for a shipping fee associated with an order. The form will guide you through the process of specifying details about the order, reason for refund, and other relevant information to process the refund.
-</thinking>
-
 # shipping_fee_refund_form - Help Guide
 ## Purpose
 The shipping fee refund form is a tool used to process a refund for shipping fees associated with an order. 

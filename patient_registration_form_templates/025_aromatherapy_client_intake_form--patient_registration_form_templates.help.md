@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Aromatherapy Client Intake Form - Help Guide
 
 ## Purpose

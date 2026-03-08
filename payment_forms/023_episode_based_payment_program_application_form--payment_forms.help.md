@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a larger system designed to manage episode-based payments, which are payments tied to specific episodes of care for patients. The purpose of this form is to gather information from patients or their authorized representatives to create or update episode-based payments. When filling out this form, please ensure you're submitting a new application or update an existing one for the same episode. Repeated applications for the same episode will not be processed.
-</thinking>
-
 # Episode Based Payment Program Application Form - Help Guide
 ## Purpose
 The Episode Based Payment Program Application Form is used to gather information for creating or updating episode-based payments for patients. Please complete this form carefully to ensure accurate and efficient processing.

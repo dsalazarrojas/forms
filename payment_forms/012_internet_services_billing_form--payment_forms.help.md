@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for the billing process of internet services, TV, mobile, and home phone services. 
-
-The form is intended to gather personal details and billing specifics of clients, including their name, email address, address, phone number, service type, plan, payment method, and date of service. These details are crucial for efficient billing and service management purposes. 
-
-To avoid duplication of effort, it's essential to ensure that the correct information is provided to the billing team to prevent errors and miscommunication. This form is the primary point of contact for the billing process, and accuracy and clarity are vital.
-
-</thinking>
-
 # Internet Services Billing Form - Help Guide
 
 ## Purpose

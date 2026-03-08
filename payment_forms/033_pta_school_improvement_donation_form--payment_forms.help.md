@@ -1,8 +1,3 @@
-<thinking>
-This form is used for users to submit donations to support school improvements. The form is not meant for users to submit personal information, but rather for them to provide general information and payment details to support a specific cause.
-To prevent duplicate submissions, the form will only accept one submission per user.
-</thinking>
-
 # PTA School Improvement Donation Form - Help Guide
 ## Purpose
 The PTA School Improvement Donation Form is a form designed to accept donations from users to support school improvements.

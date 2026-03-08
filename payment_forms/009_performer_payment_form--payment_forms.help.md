@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about payments made by performers, which is essential for accounting and financial management purposes. This form helps event organizers or administrators to track payments, including the method, status, date, and amount received. The form is designed to be completed by event organizers or administrators who need to record and update payment details. Please ensure that this form is completed accurately and consistently to maintain accurate financial records.
-Before proceeding, verify that you are authorized to complete this form and that it is relevant to your role and the event being organized. Additionally, ensure that you do not duplicate efforts by checking the current status of payments before updating or adding new records.
-</thinking>
-
 # Performer Payment Form - Help Guide
 ## Purpose
 This form collects information about payments made by performers, which is crucial for accounting and financial management purposes.

@@ -1,17 +1,3 @@
-<thinking>
-This help guide is intended to be a concrete and concise manual for end-users to understand the KYC Verification Form For Payment Processing. This form is crucial for merchants to submit their information for verification purposes. 
-
-The form is divided into two main sections: Merchant Details and Account Details. 
-
-In the Merchant Details section, users will be asked to provide their basic information such as Merchant Name, Business Number, Email, Phone, Tax ID Number, Business Address, and Business License. 
-
-In the Account Details section, users will be asked to provide information about their account such as Account Type, Account Holder, Routing Number, Account Number, Document, and Document Type.
-
-The form is designed to be easy to fill out, and users will be able to navigate through the sections with ease. Each field has a clear label and a concise explanation to help users understand what is required of them.
-
-Before proceeding, users should note that the information they provide will be used for verification purposes only and will be kept confidential.
-</thinking>
-
 # KYC Verification Form For Payment Processing - Help Guide
 ## Purpose
 The KYC Verification Form For Payment Processing is a form designed for merchants to submit their information for verification purposes. This form is used to verify merchants' identities and ensure that they are legitimate businesses.

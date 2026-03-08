@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information for custom logo embroidery orders. As a result, the form is likely intended for customers or users who are placing orders for custom embroidery services.
-
-Before proceeding, please check if you have already created a help guide for this form, and if the form's purpose and requirements are well-documented internally. This is to prevent duplication of effort and ensure consistency in user guidance across the system.
-
-If there is no internal documentation, or if you're looking to create a new guide, continue with the process below.
-
-</thinking>
-
 # Custom Logo Embroidery Order Form - Help Guide
 ## Purpose
 This form is used to collect information for custom logo embroidery orders. Please use this guide to ensure accurate and complete submission of the required information.

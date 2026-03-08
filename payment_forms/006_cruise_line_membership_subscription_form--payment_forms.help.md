@@ -1,17 +1,3 @@
-<thinking>
-We need to create a comprehensive help guide for the "cruise_line_membership_subscription_form" form. This form is used for customers to subscribe to a membership program offered by a cruise line company. The form should be user-friendly, easy to understand, and provide clear explanations for each field to ensure customers complete it accurately and without confusion. 
-
-The form is a multi-page form with various fields such as member information, contact information, payment details, shipping information, membership type, membership level, payment terms, payment amount, billing cycle, start date, expiration date, payment method, payment status, subscription status, membership status, cancellation terms, cancellation date, notes, email, phone number, address, city, state, zip, and comments. 
-
-We will need to ensure that each field has a clear explanation of its purpose and how to fill it correctly. This will help customers understand the form's requirements and submit their membership subscription accurately. The form might be complex, but with a clear and concise guide, we can make it easier for users to fill it out without hesitation.
-
-The guide should also provide some additional tips on how to fill out the form correctly, such as making sure to select the right payment method and billing cycle. 
-
-To avoid confusion, each field will have its own bullet points with explanations and examples where necessary. 
-
-Let's get started!
-</thinking>
-
 # cruise_line_membership_subscription_form - Help Guide
 ## Purpose
 The cruise line membership subscription form is used to subscribe to a membership program offered by a cruise line company. This form requires customers to provide their member information, contact information, payment details, and other relevant details to complete their membership subscription.

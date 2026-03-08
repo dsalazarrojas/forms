@@ -1,12 +1,3 @@
-<thinking>
-This form is used for processing rental deposit refunds for tenants. To determine if this form is relevant for your use case, please consider the following scenarios:
-- The tenant has paid a rental deposit and is requesting a refund.
-- The tenant needs to provide information about their rental agreement and circumstances surrounding the refund request.
-- You want to track and manage rental deposit refund requests and approvals.
-
-Before completing this form, review the rental agreement and the reasons for the refund request to ensure you are filling out the form accurately. This form is not intended for duplicate requests. If you've already submitted a deposit refund request, please do not resubmit it.
-</thinking>
-
 # Rental Deposit Refund Form - Help Guide
 ## Purpose
 The Rental Deposit Refund Form is used for tenants to request a refund for their rental deposit. This form is to be filled out by tenants to provide the necessary information for the refund process.

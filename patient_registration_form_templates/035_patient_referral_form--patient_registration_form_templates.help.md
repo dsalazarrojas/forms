@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect patient referral information for healthcare providers. It is used to gather essential details about the patient, such as their name, address, contact information, medical condition, and referring doctor's name. This form helps healthcare professionals to quickly and efficiently capture the necessary information for patient referrals.
-Please ensure that you only fill out this form if it's necessary for a patient referral. If you've already submitted a referral for the same patient, please do not resubmit the form.
-</thinking>
-
 # Patient Referral Form - Help Guide
 ## Purpose
 The Patient Referral Form is used to collect and document patient information for referrals to healthcare providers.

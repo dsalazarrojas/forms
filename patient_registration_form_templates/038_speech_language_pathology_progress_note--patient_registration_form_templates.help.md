@@ -1,7 +1,3 @@
-<thinking>... This form appears to be designed for speech-language pathologists to record progress notes for patients undergoing therapy. The form likely helps track patient data and goals over time, enabling healthcare professionals to monitor progress and tailor treatment plans accordingly. To ensure this form is being used correctly, please review the following guide.
-
-</thinking>
-
 # Speech/Language Pathology Progress Note - Help Guide
 ## Purpose
 The Speech/Language Pathology Progress Note form is used to record and track the progress of patients undergoing speech-language therapy. This form helps healthcare professionals to monitor patient data, set goals, and adjust treatment plans as needed.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help collect information from patients about their experience with pain management at the Pain Management Institute. However, it is essential to verify that this form meets the specific needs of the Institute and does not duplicate any existing forms used within the organization. It is also crucial to consider that this form was generated using AI, so its relevance and accuracy should be reviewed carefully.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and it is released under CC BY 4.0. The form collects the following information: patient details, pain levels, medication history, medical conditions, and treatment plans.
-</thinking>
-
 # Pain Management Institute Patient Forms - Help Guide
 ## Purpose
 The Pain Management Institute Patient Forms are designed to collect relevant information from patients to aid in their treatment and care. The forms are intended to be a starting point for further assessment and consultation with medical professionals.

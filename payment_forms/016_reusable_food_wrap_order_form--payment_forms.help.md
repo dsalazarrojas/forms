@@ -1,5 +1,3 @@
-<thinking>...This form is intended for customers to place orders for reusable food wraps. The customer will be asked to provide details about their order, payment method, and contact information. The form will be used to streamline the ordering process and reduce the workload of the food wrap business. It's essential to complete this form accurately to ensure that the order is processed correctly...</thinking>
-
 # Reusable Food Wrap Order Form - Help Guide
 ## Purpose
 This form is for customers to place orders for reusable food wraps. It helps the food wrap business process orders more efficiently.

@@ -1,5 +1,3 @@
-<thinking>As an e-commerce return label order form, this form is used to generate a return label for customers who need to return products to the seller. This form is designed to collect relevant information from the customer, including order details, reasons for return, photos, return address, customer details, and shipping details. By providing accurate and complete information in this form, customers can easily initiate the return process and receive their return label.</thinking>
-
 # e_commerce_return_label_order_form - Help Guide
 ## Purpose
 This form is used to generate a return label for customers who need to return products to the seller. To complete the form, please follow the steps below.

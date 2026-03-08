@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for customers to provide information for assembling an industrial control panel. The form will likely be used by businesses that manufacture or sell industrial control panels, such as control panel builders, system integrators, or suppliers. 
-The form is designed to collect information from customers regarding their order details, delivery preferences, and contact information. 
-This form could be used by various industries, including industrial automation, manufacturing, energy management, or other industries that require control panels. 
-This form may be used for both new orders and updates to existing orders. 
-It's essential to review this form carefully to ensure that all necessary information is provided to avoid delays or errors in the order process. 
-Please ensure that the form is filled out accurately and completely to provide the best experience for both the customer and the order fulfillment team. 
-</thinking>
-
 # Industrial Control Panel Assembly Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for assembling an industrial control panel. It helps businesses that manufacture or sell industrial control panels provide a clear understanding of the customer's needs and preferences.

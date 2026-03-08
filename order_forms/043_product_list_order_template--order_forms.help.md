@@ -1,9 +1,3 @@
-<thinking>
-This guide will help you understand how to fill out the "Product List Order Template" form, which is used to create a list of products for an order.
-This form is used to collect information about products for an order, such as their price, quantity, and total price. It is an essential tool for sales and customer service teams to create accurate and detailed product lists.
-Before proceeding, please ensure that this form is not being used for another related process. If you are unsure, please refer to the relevant process or task documentation.
-</thinking>
-
 # Product List Order Template - Help Guide
 ## Purpose
 The "Product List Order Template" form is a simple, multi-page form used to create a list of products for an order. This form is typically used by sales and customer service teams to collect information about products, making it easier to process orders accurately and efficiently.

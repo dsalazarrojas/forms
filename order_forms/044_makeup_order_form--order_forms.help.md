@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to gather information from customers for a makeup order. This includes customer details, delivery address, order details, payment method, customer notes, delivery notes, delivery time, and delivery date.
-The form will be useful for businesses in the cosmetics industry to collect relevant customer information for order fulfillment and delivery purposes.
-To avoid duplication, it's essential to ensure that the customer's information is not already available in the system before creating a new order.
-The form should be used for customers who are placing an order for the first time or for customers who have not been previously registered in the system.
-</thinking>
-
 # Makeup Order Form - Help Guide
 ## Purpose
 The Makeup Order Form is designed to collect customer information for order fulfillment and delivery purposes.

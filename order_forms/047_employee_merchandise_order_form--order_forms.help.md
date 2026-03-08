@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process orders of merchandise items for employees. The form is used by administrative employees to record and manage employee merchandise orders, including product selections and payment information. This guide will help explain how to complete the form correctly and ensure that you provide all necessary information.
-</thinking>
-
 # Employee Merchandise Order Form - Help Guide
 ## Purpose
 The Employee Merchandise Order Form is used to record and manage employee merchandise orders. This form is used to collect information on the order details, employee information, payment information, and order status.

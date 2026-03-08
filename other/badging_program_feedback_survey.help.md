@@ -1,11 +1,3 @@
-<thinking>
-This guide is for the "badging_program_feedback_survey" form. The form is used to collect feedback from trainees on their experience with a badging program. It is designed to gather information on their rating of different aspects of the program, such as training quality, content, and organizers. The form is meant to be completed by trainees who have participated in a badging program. The purpose of this guide is to walk you through how to fill out the form and what each field means.
-
-If you are not sure which form to fill out this form, please refer to your internal processes for proper use cases.
-
-Please note that the form is a feedback collection tool and not a formal assessment or evaluation. Therefore, please be honest and provide constructive comments and suggestions.
-</thinking>
-
 # badging_program_feedback_survey - Help Guide
 ## Purpose
 The "badging_program_feedback_survey" form is used to collect feedback from trainees on their experience with the badging program. It aims to gather information on different aspects of the program, such as training quality, content, and organizers.

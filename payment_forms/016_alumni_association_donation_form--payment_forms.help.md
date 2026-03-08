@@ -1,6 +1,3 @@
-<thinking>
-The provided form is designed to collect information from alumni for donation purposes. It appears to be a comprehensive form that captures various details about the donor, such as their contact information, donation preferences, and frequency. However, to confirm, I will analyze the form to identify its purpose and ensure that there are no duplicates or inconsistencies in the information provided. The form seems to be well-structured, with clear labels and hints for each field. I will make sure to provide clear explanations for each field to aid end-users in completing the form accurately and effectively.</thinking>
-
 # Alumni Association Donation Form - Help Guide
 ## Purpose
 The Alumni Association Donation Form is designed to collect information from alumni for donation purposes, allowing the institution to track and manage donations effectively. This form captures details about the donor, their preferences, and other relevant information to facilitate smooth donation processing and communication with the donor.

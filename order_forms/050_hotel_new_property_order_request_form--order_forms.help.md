@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used for submitting new property requests to hotel management. It is intended for internal use and should only be used by authorized personnel. To avoid duplication, please ensure that you are not submitting a duplicate request. If you are unsure, please check with the relevant department or team before submitting this form.
-</thinking>
-
 # Hotel New Property Order Request Form - Help Guide
 ## Purpose
 This form is used for submitting new property requests to hotel management. It allows users to provide detailed information about the new property, including vendor, internal stakeholder, project needs, and other relevant details.

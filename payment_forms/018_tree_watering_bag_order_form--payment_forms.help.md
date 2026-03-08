@@ -1,10 +1,3 @@
-<thinking>
-**Form Purpose:**
-This form is used to capture customer information and order details for tree watering bags. It is intended to provide a structured way to collect data on customer orders, including customer contact information, order quantity, and payment details.
-The form will be used to process customer orders and manage order status.
-The form should only be used for customer orders, and any non-compliant use may lead to errors or incorrect order processing.
-</thinking>
-
 # Tree Watering Bag Order Form - Help Guide
 ## Purpose
 The Tree Watering Bag Order Form is a structured document used to capture customer information and order details for tree watering bags.

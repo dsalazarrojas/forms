@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from patients to help healthcare professionals better understand their medical history, preferences, and needs. It's likely used in a clinical or hospital setting to gather data for treatment planning and patient care coordination. The form appears to cover a range of personal details, medical conditions, medical history, and contact information, which suggests it's used for comprehensive patient enrollment or intake procedures. However, without further context or specific business logic, it's difficult to determine its exact purpose or the required fields. It's essential to review the form's purpose and required fields with the relevant team before proceeding.
-
-</thinking>
-
 # Treatment Planning Survey - Help Guide
 ## Purpose
 The Treatment Planning Survey form is designed to collect comprehensive information from patients to aid healthcare professionals in planning their treatment. This form is likely used in a clinical or hospital setting to gather essential details about the patient's medical history, preferences, and needs.

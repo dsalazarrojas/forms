@@ -1,7 +1,3 @@
-<thinking>
-The "Shopping Event Registration" form is designed to collect event-related information from users. The form is divided into multiple pages, each focusing on a specific aspect of the event, such as event details, attendee information, payment methods, and event scheduling. This form requires users to provide information on the event's title, payment method, and payment terms, as well as other optional details like event date, start and end times, registration fee, and attendee count. The purpose of this form is to gather necessary data to complete the event registration process.
-</thinking>
-
 # Shopping Event Registration - Help Guide
 ## Purpose
 The "Shopping Event Registration" form is designed to collect event-related information from users. This form is used to gather details necessary for event planning and registration.

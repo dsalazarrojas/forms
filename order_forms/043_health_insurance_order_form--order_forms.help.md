@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, we first need to identify the purpose and scope of this form. The Health Insurance Order Form appears to be a comprehensive form designed to collect various details related to an individual's health insurance, including their personal information, medical conditions, and policy details. This form likely serves as a crucial document for insurance providers to process and manage insurance policies. We also need to note that this form has 25 fields, which may be too extensive for some users. To make the most of this guide, we will focus on the essential fields and explain each section with clarity and concision.
-</thinking>
-
 # Health Insurance Order Form - Help Guide
 ## Purpose
 The Health Insurance Order Form is a form designed to collect information necessary for insurance providers to process and manage insurance policies. This form gathers personal details, medical conditions, and policy information to ensure accurate and efficient policy management.

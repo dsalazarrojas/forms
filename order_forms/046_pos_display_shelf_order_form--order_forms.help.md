@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information for POS Display Shelf orders. The form should only be used by staff members who are authorized to place orders, such as managers or sales representatives. To avoid confusion or errors, it's essential to ensure that each staff member has a clear understanding of the form's purpose and how to fill it out correctly.
-
-Before filling out this form, please ensure that you have the necessary information and authority to place an order. Double-check that you are entering accurate details and that the form is complete.
-
-</thinking>
-
 # POS Display Shelf Order Form - Help Guide
 ## Purpose
 The POS Display Shelf Order Form is used to collect information for POS Display Shelf orders from staff members. This form should only be used by authorized staff to place orders for products on the POS display shelf.

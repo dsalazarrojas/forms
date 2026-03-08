@@ -1,5 +1,3 @@
-<thinking>This is a form used to collect information for custom orders of notebooks and pens. It is primarily used for business-to-business sales and is intended for use on a company's website or other digital platforms. The form is designed to be completed by customers to provide the necessary details for their order, including contact information, order preferences, and payment details. The form is not designed to be used for personal or consumer-facing sales. This form should only be used by authorized business customers.</thinking>
-
 # custom_notebook_and_pen_order_form - Help Guide
 ## Purpose
 The **Custom Notebook and Pen Order Form** is used for business customers to place orders for custom notebooks and pens. The form is designed to collect information about the customer's order preferences, contact details, and payment method.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users related to fair payment terms, such as names, company information, payment details, and submission times. The form is designed to be completed by customers or clients who need to agree on specific payment terms. To ensure relevance and non-duplication, we check that the form is not already completed by the same user in the past, and that the user is not submitting duplicate payments.
-</thinking>
-
 # fair_payment_terms_agreement - Help Guide
 ## Purpose
 The fair_payment_terms_agreement form is used to collect information from customers or clients regarding payment terms, including names, payment details, and submission times. This form is designed to be completed by individuals or companies who need to agree on specific payment terms.

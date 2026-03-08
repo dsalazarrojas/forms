@@ -1,8 +1,3 @@
-<thinking>
-The form "covid_student_intake_agreement" is designed to collect student information and consent for sharing health data, travel history, and other relevant details. This form is typically used in educational settings to ensure students provide accurate and comprehensive data for COVID-19 protocols. It's essential to complete this form accurately and truthfully to support public health measures and ensure student safety.
-Please verify that you understand the purpose of this form and the questions it includes. If you're unsure, please seek clarification before proceeding.
-</thinking>
-
 # covid_student_intake_agreement - Help Guide
 ## Purpose
 The "covid_student_intake_agreement" form collects student information and consent for sharing health data, travel history, and other relevant details to support public health measures and student safety.

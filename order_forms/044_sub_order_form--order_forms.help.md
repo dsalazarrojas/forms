@@ -1,21 +1,3 @@
-<thinking>
-This form appears to be a complex order form used to collect various details associated with a customer's order, including order details, customer information, payment methods, and order status. It seems that the form is used for both customer-facing and order management purposes. However, I couldn't find any explicit indication that the form is meant for both customers and staff. Further investigation is required to confirm the intended users.
-
-The form consists of 25 fields, each with a specific type and label. Some fields are marked as required, but many others are optional. The form also includes multiple select options, which suggest that the form is designed to allow customers to select options for their order.
-
-The main sections of the form seem to be:
-* Order details: This section includes fields like `order_notes`, `payment_method`, `payment_amount`, and `sub_type`, which are all relevant to the order.
-* Customer information: This section includes fields like `customer_name`, `customer_phone`, `customer_email`, and `customer_details`, which are all relevant to the customer.
-* Order status: This section includes fields like `payment_status`, `order_status`, and `order_referral`, which are all relevant to the order's status.
-
-To confirm the form's purpose, it would be helpful to know more about the business logic behind the form. For example, why do the fields like `sub_type` and `sub_type_2` have multiple select options? Are these options meant to be used by customers or staff?
-
-Before creating the help guide, it would be helpful to get more information about the form's intended use case, such as:
-
-* Who is the primary user of this form (customer or staff)?
-* What are the main goals of the form (e.g., to collect customer information, to update order status, or to track payments)?
-</thinking>
-
 # sub_order_form - Help Guide
 ## Purpose
 The sub_order_form is used to collect various details associated with a customer's order, including order details, customer information, and payment methods.

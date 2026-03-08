@@ -1,19 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Custom Toolkit Order Form", we need to understand its purpose, which is likely for customers to place custom orders for toolkits or kits. This form will guide users through the process of providing necessary information for a successful order.
-
-Before proceeding, let's review the form structure and fields:
-- **Made to Order Kit Requests**: a text field for customers to describe their custom kit needs.
-- **Payment Details**: a select multiple option field for customers to choose their payment preference.
-- **Delivery Preferences**: a note field for customers to add any delivery instructions or notes.
-- **Billing Details**: a select one option field for customers to choose their billing preference.
-- **Contact Number**: a text field for customers to input their contact number.
-- **Email**: an email field for customers to provide their email address.
-- **Order Notes**: a text field for customers to add any additional order information.
-- **Custom Request**: a text field for customers to provide a custom request or message.
-- **Payment Method**: a select multiple option field for customers to choose their payment method.
-- **Order Comments**: a text field for customers to add any comments about their order.
-</thinking>
-
 # Custom Toolkit Order Form - Help Guide
 ## Purpose
 The Custom Toolkit Order Form is designed for customers to submit their custom requests for toolkits or kits. It requires various details for a successful order.

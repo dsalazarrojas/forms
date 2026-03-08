@@ -1,7 +1,3 @@
-<thinking>
-The Massage Therapy Subscription Form is a crucial tool for managing client subscriptions to massage therapy sessions. It captures essential information from clients about their preferences and payment details, enabling efficient and accurate billing. This form should only be used for clients who have already been assessed and cleared for massage therapy sessions.
-</thinking>
-
 # Massage Therapy Subscription Form - Help Guide
 ## Purpose
 The Massage Therapy Subscription Form is used to capture client information and payment details for massage therapy sessions.

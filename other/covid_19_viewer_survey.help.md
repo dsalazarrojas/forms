@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information about COVID-19 from users. The purpose of this form is to collect demographic data, feedback, and comments from users. This data will be used to better understand the impact of COVID-19 on users and to improve the overall user experience.
-
-Before starting this form, please ensure that you are not duplicating a previous submission. If you are unsure, please check with the administrator.
-</thinking>
-
 # covid-19-viewer-survey - Help Guide
 ## Purpose
 This form is designed to collect data about COVID-19 from users. The data collected will be used to better understand the impact of COVID-19 on users and to improve the overall user experience.

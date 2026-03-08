@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers before processing their pre-order for a treadmill. This form is used to capture essential details such as customer name, email, phone number, date requested, quantity, supplier name, and order status. The information collected will be used to fulfill the customer's pre-order request and to update the order status accordingly. It's crucial that the customer provides accurate and up-to-date information to avoid any confusion or delays in processing their order. Please ensure that you are filling out the form correctly and that you have all the required information before submitting. Please note that some fields are optional, but they might be required for certain purposes, such as verifying the customer's email address.
-</thinking>
-
 # Treadmill Pre Order Form - Help Guide
 
 ## Purpose

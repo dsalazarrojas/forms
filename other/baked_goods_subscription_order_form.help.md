@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be a template for processing subscription orders for baked goods. To ensure that our team accurately interprets and processes customer orders, please use this guide when filling out the form.
-
-The form is intended for customers or customers' representatives to provide information about their subscription order. It is not a one-time order form, as indicated by the "baked_goods_subscription_order_form" title. The following instructions should be followed to complete the form correctly.
-</thinking>
-
 # baked_goods_subscription_order_form - Help Guide
 ## Purpose
 The "baked_goods_subscription_order_form" is a template for processing subscription orders for baked goods. This form helps the bakery team collect customer information, delivery address, subscription information, order items, payment details, and confirmation from the customer.

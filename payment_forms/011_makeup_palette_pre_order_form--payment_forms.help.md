@@ -1,16 +1,3 @@
-<thinking>
-To confirm, this form is designed to collect pre-order information for a custom makeup palette, including shipping and payment details. The form will be used to determine the customer's preferences for palette type, color scheme, price, and other related information. 
-
-This form is intended for customers who want to pre-order a custom makeup palette and provides them with options for shipping and payment methods. 
-
-Please review this guide to understand how to complete the form accurately and efficiently.
-
-Please note that this form has been designed to collect necessary information for the pre-order process, and it's essential to provide accurate and complete details to ensure smooth processing.
-
-The form has 17 fields, some of which are required, and the user must provide accurate and relevant information in each field to ensure proper pre-order processing. If you have any questions or concerns about the form, please let us know and we'll be happy to assist.
-
-</thinking>
-
 # Makeup Palette Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect pre-order information for a custom makeup palette, allowing you to specify your preferences for palette type, price, and other related details.

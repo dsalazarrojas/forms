@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about visitors to the hospital, including their contact information, visit frequency, and reason for visiting. It is intended for use by hospital staff to track and manage visitor interactions. The form should be completed by the visitor or their representative, and will help the hospital to efficiently manage visitor data and provide better patient care.
-</thinking>
-
 # Hospital Visitation Form - Help Guide
 ## Purpose
 The Hospital Visitation Form is a tool used by hospital staff to track and manage visitor information for patient care and security purposes.

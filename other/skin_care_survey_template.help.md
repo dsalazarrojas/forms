@@ -1,7 +1,3 @@
-<thinking>
-This form, "skin_care_survey_template", was created to gather insights into daily skin care habits and preferences. It is designed to be a user-friendly and comprehensive survey that covers various aspects of skin care, including satisfaction with current routines, frequency of routines, types of products used, skin concerns, and sources of information. The form is intended to be a helpful tool for skin care professionals, businesses, or individuals looking to better understand the needs and behaviors of their target audience. To ensure the form's relevance and non-duplication, it is recommended to review the form's purpose and content to avoid any potential overlap or redundancy with existing forms.
-</thinking>
-
 # skin_care_survey_template - Help Guide
 ## Purpose
 This form is designed to gather information about your daily skin care habits and preferences, helping skin care professionals, businesses, or individuals better understand your needs and behaviors.

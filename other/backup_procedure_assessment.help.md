@@ -1,10 +1,3 @@
-<thinking>
-This form is likely part of a backup and recovery process, where users need to assess and identify potential risks and procedures related to data backup and recovery. The form is probably used in an IT or IT service management context, such as in a data center or IT department.
-The purpose of this form is to gather information about the current backup procedure, potential risks, and standardization of the process across departments.
-To ensure the form is completed correctly, it should be filled out by someone with knowledge of the backup procedure and its associated risks.
-Please review the form fields carefully and provide accurate information. If you have any questions or concerns, contact the relevant department.
-</thinking>
-
 # Untitled Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the current state of backup and recovery processes in your organization.

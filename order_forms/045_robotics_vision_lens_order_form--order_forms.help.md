@@ -1,11 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Robotics Vision Lens Order Form", I will consider the provided YAML fields and aim to explain the form's purpose, how to complete it, and what each field means in a clear and concise manner.
-
-The purpose of this form is to capture essential information for a robotics vision lens order, including customer details, shipping information, payment methods, and order status. The form appears to be designed for both customers and order administrators to provide and manage order data.
-
-</thinking>
-
 # Robotics Vision Lens Order Form - Help Guide
 ## Purpose
 The Robotics Vision Lens Order Form is used to capture essential information for a robotics vision lens order. This includes customer details, shipping information, payment methods, and order status.

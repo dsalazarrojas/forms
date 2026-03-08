@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for confirming dividend distribution, which is an important process for shareholders to receive their allocated dividend payments. Before proceeding, ensure that you're not filling out this form if you've already submitted a confirmation for the same dividend distribution. This form is intended for shareholders who have not received their payments, and it helps us track any discrepancies or errors that may have occurred during the distribution process.
-</thinking>
-
 # Dividend Distribution Confirmation Form - Help Guide
 ## Purpose
 This form is used to confirm the receipt or non-receipt of dividend payments made to shareholders. It helps to track any errors or discrepancies that may have occurred during the distribution process.

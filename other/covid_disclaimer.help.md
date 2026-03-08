@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from users regarding their COVID-19 vaccination status. The purpose of this form is to obtain users' consent and gather relevant details about their vaccination history. It's essential to fill out this form carefully to ensure accurate and complete information is collected. To prevent duplication, please do not fill out this form if you have already completed it.
-</thinking>
-
 # COVID Disclaimer - Help Guide
 ## Purpose
 The COVID-19 Disclaimer form is designed to collect personal and medical information from users regarding their vaccination status. This form helps to ensure that users have been vaccinated, are aware of the risks associated with COVID-19, and are informed about the importance of maintaining social distancing and following COVID-19 protocols.

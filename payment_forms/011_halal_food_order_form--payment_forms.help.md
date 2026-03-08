@@ -1,9 +1,3 @@
-<thinking>
-
-This form, titled "Halal Food Order Form", is likely designed for customers to provide information about their halal food preferences, any special requests, and payment methods. It might be used in a halal food delivery or catering service. The purpose of this form is to collect relevant customer data to facilitate smooth order processing and delivery. This form is probably intended for use on a website or mobile application, making it a user-facing form. The form is not a duplicate, as it's a new adaptation created using AI-powered form generation, based on publically available information, and does not extract or copy proprietary content from any form platform.
-
-</thinking>
-
 # Halal Food Order Form - Help Guide
 ## Purpose
 The Halal Food Order Form is designed for customers to provide information about their halal food preferences and payment methods for smooth order processing and delivery.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Carpeting Order Form - Help Guide
 ## Purpose
 This form is designed to gather information for custom carpeting orders, including customer details, carpet specifications, and order status updates.

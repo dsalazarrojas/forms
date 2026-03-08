@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Fireproof Cabinet Order Form". This form is used by customers to place orders for fireproof cabinets, and it collects information on customer details, delivery address, cabinet selections, payment, and other relevant information.
-To start, we'll need to check if there are any other forms that serve the same purpose or have overlapping fields. We also need to ensure that all the fields in this form are properly labeled and explained to avoid confusion.
-</thinking>
-
 # Fireproof Cabinet Order Form - Help Guide
 ## Purpose
 The Fireproof Cabinet Order Form is used to place orders for fireproof cabinets. It collects information from customers, including delivery address, cabinet selections, and payment details.

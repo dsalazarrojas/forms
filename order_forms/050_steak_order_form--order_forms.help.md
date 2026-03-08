@@ -1,9 +1,3 @@
-<thinking>...
-This form is intended for customers to place an order for steaks, providing them with the option to select their preferred steaks, enter their contact details, make a payment, and add any additional notes about their order.
-The form is not required to be completed in order to proceed with the order process, but providing contact details is recommended for efficient communication and order fulfillment.
-The form is typically used by customers who want to place an order for steaks, and it can be accessed through the website or mobile application.
-...</thinking>
-
 # Steak Order Form - Help Guide
 ## Purpose
 The Steak Order Form is a tool used to place an order for steaks. It allows customers to select their preferred steaks, enter their contact details, make a payment, and add any additional notes about their order.

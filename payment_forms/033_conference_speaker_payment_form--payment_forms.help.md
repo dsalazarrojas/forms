@@ -1,6 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly for conference speaker payment purposes. This form is used by speakers to provide their payment information for a conference talk or presentation. It's essential to fill out this form accurately and thoroughly to avoid any payment disputes or issues. Please review the form carefully before submission.</thinking>
-
 # Conference Speaker Payment Form - Help Guide
 ## Purpose
 This form is for conference speakers to provide their payment information for a conference talk or presentation. It's used to ensure accurate and timely payment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for vendors to check out from the festival. It is used for administrative purposes to collect relevant information from vendors. To ensure that this form is filled out correctly, please review the fields carefully and provide accurate information.
-</thinking>
-
 # festival_vendor_check_out_form - Help Guide
 ## Purpose
 The festival_vendor_check_out_form is used for vendors to check out from the festival. It collects information from vendors for administrative purposes.

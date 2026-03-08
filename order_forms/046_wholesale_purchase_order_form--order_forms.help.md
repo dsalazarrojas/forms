@@ -1,13 +1,3 @@
-<thinking>
-To create a clear and user-friendly guide for the "Wholesale Purchase Order Form", it's essential to understand its purpose and functionality. This form is designed to collect contact information, shipping details, purchase details, and payment details from customers for wholesale purchases. The purpose of this form is to gather necessary information for efficient order processing and to ensure accurate delivery of products. 
-
-The form is a multi-page form with four sections: contact information, shipping details, purchase details, and payment details. 
-
-Each section has its own label and type, which are essential for understanding the type of information the form is collecting. For instance, "Contact Information" and "Shipping Details" are both "text" types, but they serve different purposes. "Contact Information" is used to collect customer contact information, while "Shipping Details" is used to collect information about the shipping address. 
-
-Before designing a user-facing help guide, it's essential to ensure that the form and its sections are well-structured and clear in its intent. This guide will help ensure that users understand how to complete the form correctly and what information is expected from them.
-</thinking>
-
 # Wholesale Purchase Order Form - Help Guide
 ## Purpose
 The Wholesale Purchase Order Form is designed to collect contact information, shipping details, purchase details, and payment details for wholesale purchases.

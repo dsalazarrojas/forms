@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Automatic Payment Authorization Consent Form - Help Guide
 
 ## Purpose

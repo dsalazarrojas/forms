@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Order Delivery Cost Calculator - Help Guide
 ## Purpose
 This form is designed to help users calculate the estimated delivery cost for an order based on various parameters. 

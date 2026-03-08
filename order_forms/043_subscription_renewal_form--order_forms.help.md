@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to provide users with a clear understanding of the Subscription Renewal Form, ensuring they can complete it accurately and efficiently. Before proceeding, please confirm that this form is relevant to your current task and not a duplicate of a previous action. If you're sure this is the correct form, let's begin.
-</thinking>
-
 # Subscription Renewal Form - Help Guide
 ## Purpose
 The Subscription Renewal Form is used to update and renew customer subscriptions. This form helps customers to choose a new plan, select a payment method, and set the subscription expiration date.

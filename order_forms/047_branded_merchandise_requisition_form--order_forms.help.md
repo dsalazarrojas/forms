@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the Branded Merchandise Requisition Form, a tool used to request branded merchandise for internal events, promotional activities, or departmental use. This form aims to streamline the process of ordering branded merchandise by capturing essential information about the requisitioner, the merchandise details, and the budgeting and approval process. To ensure accuracy and efficiency, it is essential to understand each field and its purpose. This form should not be used for other purposes; please refer to [insert link to the official policy document or relevant guide] for more information on branded merchandise policies and guidelines.
-
-</thinking>
-
 # Branded Merchandise Requisition Form - Help Guide
 
 ## Purpose

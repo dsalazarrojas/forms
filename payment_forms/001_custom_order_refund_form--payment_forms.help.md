@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom Order Refund Form - Help Guide
 ## Purpose
 The Custom Order Refund Form is used to process refunds for custom orders. This form is essential for handling customer refunds efficiently and accurately. Before starting, ensure that the order is indeed eligible for a refund and that you have the necessary permissions to process the refund.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from donors for the University Endowment Fund. Its purpose is to receive gifts from donors in support of the university. The form includes fields for personal contact information, gift details, and notification preferences. 
-
-The form is split into multiple pages to keep it organized and easy to complete. Each field is described below, and the form is designed to collect all required information.
-
-</thinking>
-
 # University Endowment Donation Form - Help Guide
 ## Purpose
 This form is for donors to provide their support to the University Endowment Fund. It collects contact information, gift details, and notification preferences.

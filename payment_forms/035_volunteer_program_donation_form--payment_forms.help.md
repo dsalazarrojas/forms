@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to capture information for the volunteer program donation form. The form is intended to collect data about a donor's donation amount, frequency, volunteer program, payment method, email, phone number, and other relevant details. The form has 12 fields across multiple pages.
-
-To determine the purpose of this form, I'll review the fields and options:
-* `volunteer_program_donation_form_page_1` (page 1): This page likely captures basic donation information.
-* `payment_method` and `output_file` (fields on page 1) indicate that payment details are relevant.
-* `email` and `phone` (fields on page 1) suggest that contact information is also important.
-* `volunteer_program`, `assigned_tool`, `category`, `description`, and `form_id` (fields on subsequent pages) indicate that the form captures more specific details about the volunteer program.
-
-Considering the fields and options, this form appears to be used for capturing donation data for volunteer programs, including payment information and contact details. There are no obvious duplicates or non-relevant fields in the form.
-
-</thinking>
-
 # volunteer_program_donation_form - Help Guide
 ## Purpose
 The volunteer program donation form is used to capture information about a donor's donation for a volunteer program.

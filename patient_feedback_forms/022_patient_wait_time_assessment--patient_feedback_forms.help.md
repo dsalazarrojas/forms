@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their waiting time experience at a medical facility. The purpose of this form is to understand patients' perceptions and feelings about the time they spent waiting for medical attention. The form is intended to be completed by patients after their visits, and it will help medical staff evaluate and improve waiting time management processes. Before completing the form, please ensure you haven't already provided similar feedback, as this form may be part of a regular survey or assessment process.
-</thinking>
-
 # Patient Wait Time Assessment - Help Guide
 ## Purpose
 This form is used to collect feedback from patients about their experiences with waiting time during their visits to the medical facility.

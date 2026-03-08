@@ -1,15 +1,3 @@
-<thinking>
-# Form purpose: 
-This form is designed to collect information from sponsors, including their name, donation amount, email, phone number, any additional comments, the method of payment, and the specifics of any non-PayPal payment methods. This form aims to gather necessary details for efficient and secure payment processing.
-
-# Required fields:
-- Sponsor Name: This form will only collect this information if it is marked as required, but it is currently not marked as required. It is recommended to make it required for the form's purpose to be fulfilled correctly.
-
-# Non-duplication check:
-This form has a unique id for each field and page, making it impossible to duplicate any data. Each field is also optional, allowing users to complete the form with the minimum required information.
-
-</thinking>
-
 # paypal_sponsor_donation_form - Help Guide
 ## Purpose
 The "paypal_sponsor_donation_form" is a form designed for sponsors to provide their information for payment processing. It helps us gather the required details for efficient and secure payment processing.

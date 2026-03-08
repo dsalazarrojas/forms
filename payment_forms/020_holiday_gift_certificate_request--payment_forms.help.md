@@ -1,10 +1,3 @@
-<thinking>
-This help guide is meant to be used by employees who will be requesting holiday gift certificates for their colleagues or team members. The form is used to request a gift certificate for an employee, specifying details such as the company name, recipient name, gift amount, and delivery date.
-To ensure that the form is filled out correctly, please review the following steps before submitting the request:
-1. Make sure the form is being used for its intended purpose - to request a holiday gift certificate for a colleague or team member.
-2. Do not duplicate requests for the same recipient or company - only one request per person/team should be made.
-</thinking>
-
 # Holiday Gift Certificate Request - Help Guide
 ## Purpose
 The Holiday Gift Certificate Request form is used to request a gift certificate for a colleague or team member from your company. This form helps the purchasing team process the request and ensure that the gift is delivered on time.

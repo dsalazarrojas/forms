@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Stripe Clothing Order Form is used for customers to place an order for clothing items. The form is intended for customers to provide their contact information and payment method preferences. This form is likely to be used by customers to order clothing items online, and the information collected will be used to process the order and facilitate communication with the customer.
 
 # Stripe Clothing Order Form - Help Guide

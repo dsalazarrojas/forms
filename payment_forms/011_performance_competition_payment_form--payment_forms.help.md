@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information and payment details for participants in a performance competition. Its primary purpose is to gather essential data and payment requirements for the competition organizers. To avoid duplication, this form is intended for use by individual participants, and not for use by multiple people or entities. It is essential to fill out this form correctly to ensure accurate and efficient payment processing.
-
-Please note that this form has only 3 fields: 1) Competition Details, 2) Participant Info, and 3) Payment Info. The form's design and fields are based on a survey topic and industry/category metadata used as inspiration for AI-generated form creation.
-</thinking>
-
 # Performance Competition Payment Form - Help Guide
 ## Purpose
 The Performance Competition Payment Form is designed to collect competition-related details and payment information from participants. This form helps organizers gather necessary data for efficient payment processing and participant management.

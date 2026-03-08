@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to place an order for club event souvenirs. The form requires information about the event, contact person, and production details. The purpose of this form is to capture all necessary information for the souvenir production process, from design to delivery. 
-
-To avoid any misplacement of orders, please ensure that you are filling out this form for the correct event. If you're unsure, please double-check the event name to confirm.
-
-Before filling out the form, make sure you have all the required information and details ready, especially for production specifications and pricing.
-
-</thinking>
-
 # Club Event Souvenir Production Order Form - Help Guide
 ## Purpose
 The Club Event Souvenir Production Order Form is designed to collect all necessary information for the production and delivery of souvenirs for your club event. This form helps ensure that all required details are provided to create the perfect souvenirs for your event.

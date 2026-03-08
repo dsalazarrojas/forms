@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from customers to fulfill their garden design orders. Its primary purpose is to collect the required details for creating a garden design. This form should only be used for customers who are interested in purchasing a garden design service. If the customer is not planning to purchase a garden design service, the "design_package" field should be selected as "No". The "payment_amount" and "payment_method" fields are only relevant if the customer has selected the "Yes" option for "design_package". 
-</thinking>
-
 # Garden Design Order Form - Help Guide
 ## Purpose
 The Garden Design Order Form is designed to collect information from customers for fulfilling their garden design orders. It is intended for customers interested in purchasing a garden design service.

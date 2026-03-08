@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended for users to donate to an outdoor fitness park, providing personal and financial information to facilitate the donation process. The form is designed to collect essential details about the donor, including their name, contact email, and payment method. The frequency of the donation is also captured, allowing the park to tailor its communication and offerings accordingly. Additionally, the form includes a field for comments and a confirmation of the donation to ensure clarity on the donor's intentions. The form's design ensures that all required fields are filled out to prevent incomplete submissions. The "Donor Information Agreement" field ensures that donors are aware of and agree to the terms and conditions of the donation process.
-
-</thinking>
-
 # outdoor_fitness_park_donation_form - Help Guide
 ## Purpose
 The outdoor fitness park donation form is designed to collect information and facilitate donations for the park's development and maintenance.

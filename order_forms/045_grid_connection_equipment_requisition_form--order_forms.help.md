@@ -1,35 +1,3 @@
-<thinking>
-The purpose of this form is to create a requisition for grid connection equipment. This form is used to request equipment for a specific project. The form requires the following fields to be filled in order to be valid:
-* Project Id: A unique identifier for the project
-* Customer Id: A unique identifier for the customer
-* Site Id: A unique identifier for the site
-* Equipment Id: A unique identifier for the equipment
-* Equipment Type: A field indicating whether or not the equipment is needed
-* Equipment Description: A brief description of the equipment
-* Requested Quantity: The number of equipment pieces needed
-* Due Date: The date by which the equipment should be delivered
-* Assigned Date: The date the equipment was assigned to a tool
-* Assigned Tool: A field indicating whether or not the equipment was assigned to a tool
-* Status: A field indicating the status of the equipment request (Active or Inactive)
-* Notes: Any additional comments or notes related to the equipment request
-* Email: The contact email of the person requesting the equipment
-* Phone: The contact phone number of the person requesting the equipment
-* Created By: The person who created the equipment request
-* Created Date: The date the equipment request was created
-* Updated By: The person who updated the equipment request
-* Updated Date: The date the equipment request was updated
-* Assigned Tool Name: The name of the tool assigned to the equipment
-* Submitted To: The person or department that the equipment request was submitted to
-* Submitted Date: The date the equipment request was submitted
-* Approved By: The person or department that approved the equipment request
-* Approved Date: The date the equipment request was approved
-* Declined By: The person or department that declined the equipment request
-* Declined Date: The date the equipment request was declined
-
-Please ensure you have the necessary information before filling out this form, as it will be used to process your equipment request. Please fill out the form accurately and completely. 
-
-</thinking>
-
 # Grid Connection Equipment Requisition Form - Help Guide
 ## Purpose
 This form is used to create a request for grid connection equipment.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help parents and teachers schedule meetings with students. It is intended to collect information about the meeting, including date, time, and location. The form is not affiliated with or endorsed by any form platform, and is an original adaptation of public survey topic metadata. It is released under a Creative Commons BY 4.0 license, allowing users to use, modify, and sell forms derived from it, as long as they give credit. 
-The form has 18 fields, including text, email, date, time, select one and multiple, and note types. The required fields are meeting_duration, meeting_room, and meeting_date_range. 
-
-Please note that this form is for internal use, and the information collected will be used for internal purposes only.
-</thinking>
-
 # Parent Teacher Student Meeting Sign Up Form - Help Guide
 
 ## Purpose

@@ -1,14 +1,3 @@
-<thinking>
-To ensure this help guide is useful and accurate, let's confirm the following:
-
-- The form is for collecting patient data for an eye exam.
-- The form has 25 fields.
-- Each field has a specific purpose and label.
-- Some fields have multiple options, indicating they are related to medical conditions or specialties.
-
-With this confirmation, I'll create the help guide in Markdown format.
-</thinking>
-
 # Eye Exam Form Template - Help Guide
 ## Purpose
 The Eye Exam Form Template is designed to collect patient data for an eye exam. This form helps healthcare professionals gather necessary information for accurate diagnosis and treatment.

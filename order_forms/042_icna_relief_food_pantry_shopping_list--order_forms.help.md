@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # icna_relief_food_pantry_shopping_list - Help Guide
 
 ## Purpose

@@ -1,24 +1,3 @@
-<thinking>
-This form is for creating a house rent receipt, which is a document that confirms the payment of rent. Before filling out this form, make sure to read it thoroughly to avoid any mistakes or missed fields. This form has multiple sections, including tenant details, owner details, payment terms, and notes. Make sure to fill out all the required fields accurately. 
-
-The form has the following fields: 
-* Tenant details
-* Owner details
-* Date rent received
-* Rent amount
-* Payment terms (multiple choices)
-* Rent period
-* Signature 
-* Owner signature
-* Date issue rent
-* Issue rent amount
-* Payment terms for issue rent (multiple choices)
-* Issue rent period
-* Notes
-
-Each field is designed to gather specific information related to the house rent transaction.
-</thinking>
-
 # House Rent Receipt Form - Help Guide
 ## Purpose
 This form is used to create a house rent receipt, which is a document that confirms the payment of rent.

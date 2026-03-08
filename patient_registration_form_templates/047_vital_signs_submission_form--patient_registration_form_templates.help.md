@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, I reviewed the provided YAML fields. It appears that this form is designed to collect various types of information from a patient, including their personal details, medical history, and vital signs. The form seems to cater to a wide range of input types, including select options, select multiple options, dates, times, emails, and text fields. I'll make sure to cover each field in a way that's concrete, concise, and practical for end-users.</thinking>
-
 # Vital Signs Submission Form - Help Guide
 ## Purpose
 This form is designed to collect vital signs and medical history information from patients. Please fill out this form to provide the necessary details for our medical professionals to better understand your health status.

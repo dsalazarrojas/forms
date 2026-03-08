@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to request disbursement of funds related to an insurance claim. This form is likely used by insurance companies or claims administrators to process and manage claims. It's possible that this form is part of a larger process for handling insurance claims, such as submitting claims, approving or denying them, and tracking their status.
-
-Before proceeding, please ensure that this form is not a duplicate of another form, and that you have all necessary information to complete it accurately.
-
-This form has several sections, including Claim Information, Claimant Information, and other fields related to the claim's status and processing. Each section is designed to collect specific details about the claim.
-
-Please note that some fields are not required, but providing accurate information in these fields will help speed up the processing of your claim.
-
-Also, be aware that some fields have specific options or formats (e.g., select options, date fields). Make sure to select or enter the correct information in these fields to avoid errors.
-</thinking>
-
 # Insurance Claim Funds Disbursement Request - Help Guide
 ## Purpose
 This form is designed to request disbursement of funds related to an insurance claim. It is used to gather information about the claim, the claimant, and the claim's status.

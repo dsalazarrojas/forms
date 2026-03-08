@@ -1,12 +1,3 @@
-<thinking>
-This form is used to facilitate payments and process invoices for a specific transaction or service. 
-The form collects user information, invoice details, payment method, and payment specifics. 
-It is used for both internal and external purposes such as in-app payments, online payments, 
-or offline payments. 
-The form is not to be used for other purposes, and it's assumed that users are familiar with the 
-basic concepts of invoices and payments. 
-</thinking>
-
 # Invoice Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information for invoices from users. It is intended for both internal and external purposes, such as in-app payments, online payments, or offline payments.

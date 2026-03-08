@@ -1,8 +1,3 @@
-<thinking>
-This form is for processing credit card information for checkout purposes. It's essential to ensure that all fields are filled out accurately to avoid any issues with the payment processing. 
-Please review and verify the required fields before submitting to prevent errors. This form has been designed to ensure a smooth checkout experience for both the customer and the business. 
-</thinking>
-
 # credit_card_checkout_form - Help Guide
 ## Purpose
 The credit_card_checkout_form is a form used for processing credit card information during checkout. It collects card number, card holder's name, expiration date, expiration year, CVV, CVV type, card type, and zip code.

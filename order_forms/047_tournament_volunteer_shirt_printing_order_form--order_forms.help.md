@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteers regarding their t-shirt printing needs for a tournament. It's crucial to understand the purpose and requirements of this form to ensure accurate completion. The form will be used to generate a list of volunteers with their respective t-shirt printing needs, such as size, color, and type. It's essential to review each field carefully to ensure all required fields are filled out accurately. If a field's label is unclear, the best-effort explanation will be provided based on the field name and options.
-
-This form is part of the "order_forms" category, specifically for "Tournament Volunteer Shirt Printing Order Form". It's not a form to be filled out in a production environment, but rather a tool for collecting information from volunteers. The fields are designed to guide the user through the process, making it easy for them to provide the necessary information.
-
-The fields include volunteer name, shirt size, shirt color, and more. Each field has a specific purpose and should be completed according to the instructions.
-
-</thinking>
-
 # Tournament Volunteer Shirt Printing Order Form - Help Guide
 ## Purpose
 This form is used to collect information from volunteers regarding their t-shirt printing needs for a tournament.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information about an event, including event details, date, time, chef details, event address, and contact number. It is intended for users to book a personal chef for their event. This guide will walk users through the form's purpose, how to complete it, and what each field means to ensure a smooth and successful booking experience.
-
-To ensure this form is relevant to your use case, consider the following:
-- Does the form align with your organization's mission and goals?
-- Is this form part of a larger process or workflow that needs clarification?
-- Are there any existing forms or processes with similar functionality that may be redundant or outdated?
-- Are there any specific requirements or regulations that must be met when collecting and processing user input?
-
-Please review and provide feedback on the form's purpose and relevance before proceeding with the help guide. 
-
-</thinking>
-
 # Personal Chef Booking Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their event and booking requirements for a personal chef. The form is designed to be completed by event organizers or hosts to book a personal chef for their event.

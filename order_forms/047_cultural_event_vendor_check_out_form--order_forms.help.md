@@ -1,9 +1,3 @@
-<thinking>
-This form is used to check out cultural events with vendors. It captures important details such as vendor name, email, payment method, and payment status. This form is likely used for internal administrative purposes to track cultural events and vendor interactions. Please ensure that you have the necessary permissions and authorization to access this form.
-
-The following fields should not be filled out if they are not applicable to the specific event or vendor being checked out.
-</thinking>
-
 # cultural_event_vendor_check_out_form - Help Guide
 ## Purpose
 The cultural_event_vendor_check_out_form is used to capture details of cultural events with vendors for administrative purposes.

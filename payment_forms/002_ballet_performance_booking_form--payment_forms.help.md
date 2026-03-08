@@ -1,7 +1,3 @@
-<thinking>
-To confirm, this form is for users to book a performance, and it captures customer information and preferences for the booking process. This form does not appear to be a duplicate of another form. The form captures basic customer information, such as customer name and email, as well as specific performance preferences, like the date and seat section. The payment method and terms of agreement are also included in the form. The customer can also provide special requests or notes, and can optionally provide a promo code for a discount. The payment method options include credit card, bank transfer, and PayPal. The form is required for customers to accept the terms and refund policy before booking.
-</thinking>
-
 # Ballet Performance Booking Form - Help Guide
 
 ## Purpose

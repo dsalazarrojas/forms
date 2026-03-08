@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient information in a structured and efficient manner. The form is used to gather various types of data related to patient health, medical history, and contact information. It can be used by healthcare professionals to create a comprehensive profile of their patients. This form is not affiliated with, endorsed by, or derived from any form platform, and it is released under CC BY 4.0 license.
-
-</thinking>
-
 # Healthcare Information Collection Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for healthcare professionals to create a comprehensive profile of their patients.

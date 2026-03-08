@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Prescription Reimbursement Claim Form - Help Guide
 ## Purpose
 The Prescription Reimbursement Claim Form is designed to help patients submit claims for reimbursement for prescription medication costs. This form gathers essential information from the patient to process their claims efficiently and accurately.

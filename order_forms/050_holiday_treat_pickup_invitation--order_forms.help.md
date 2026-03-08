@@ -1,28 +1,3 @@
-<thinking>
-
-This form is designed to be used by users who want to RSVP to a holiday event with their family or group of friends. The form allows users to select which treats they would like to pick up, specify their RSVP details, and provide any additional notes or contact information if needed.
-
-To avoid confusion, let's quickly review the fields in the form:
-
-* "Holidays Treats" field: This field allows you to select which holiday treats you would like to pick up.
-* "RSVP" field: This field is used to confirm your attendance or cancellation. Please select "Attending" if you will be attending the event, and "Not Attending" if you won't be able to make it.
-* "Contact Email" and "Contact Phone" fields: These fields are used to provide your contact information so the baker can get in touch with you.
-* "Event Name", "Event Date", "Event Time", and "Pickup Location" fields: These fields are used to provide details about the event.
-* "Baker Name", "Baker Email", and "Baker Phone" fields: These fields are used to provide contact information for the baker.
-* "Order Notes" field: This field is used to provide any additional notes or requests you have for your order.
-* "Treat Order" field: This field is used to select which treats you would like to pick up.
-* "Pickup Date" field: This field is used to select the pickup date for your treats.
-
-To complete this form, follow these steps:
-
-1. Select your holiday treats using the "Holidays Treats" field.
-2. Confirm your attendance or cancellation using the "RSVP" field.
-3. Fill in your contact information using the "Contact Email", "Contact Phone", "Event Name", "Event Date", "Event Time", "Pickup Location", "Baker Name", "Baker Email", "Baker Phone", and "Order Notes" fields.
-4. Fill in any additional details or notes using the "Event Details" field.
-5. Click the "Submit" button to submit your form.
-
-</thinking>
-
 # Holiday Treat Pickup Invitation - Help Guide
 ## Purpose
 The form is designed to allow users to RSVP to a holiday event with their family or group of friends, and to provide details about their order and contact information.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a new patient's basic contact and demographic details.
-It is intended to be used during the initial consultation or admission process.
-To ensure consistency, it is best to fill out this form for every new patient.
-
-</thinking>
-
 # new_patient_paperwork - Help Guide
 ## Purpose
 The new patient paperwork form is used to gather essential contact and demographic details from new patients.

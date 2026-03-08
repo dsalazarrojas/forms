@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect medical history and contact information of new patients. The form should only be used for patients who have not previously registered with our system to avoid duplication of data. The fields should be filled up accurately and completely to ensure proper patient care. 
-
-</thinking>
-
 # New Patient Medical History Form - Help Guide
 ## Purpose
 This form collects medical history and contact information of new patients.

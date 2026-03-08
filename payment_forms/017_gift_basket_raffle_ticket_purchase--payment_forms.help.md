@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gift Basket Raffle Ticket Purchase - Help Guide
 ## Purpose
 The Gift Basket Raffle Ticket Purchase form is designed to collect information from customers interested in participating in a gift basket raffle. The form helps the organization to gather the required details from customers, including their name, preferred payment method, and the number of tickets they would like to purchase. This form is typically filled out by customers before attending a raffle event or during the event itself.

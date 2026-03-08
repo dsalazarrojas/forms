@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to collect feedback from patients regarding their energy medicine treatment experience. The purpose of this form is to gather valuable information about the effectiveness and perceived benefits of the treatment, as well as any challenges or concerns patients may have had during or after the treatment. It is crucial to complete this form accurately and thoroughly to ensure that the data collected is reliable and actionable.
-
-Before completing this form, please review the following fields carefully to ensure you are answering the correct questions.
-
-To determine the relevance and non-duplication of this form, we can use the following logic:
-- If the patient received a treatment, they should answer "True" to "Have you received a treatment?" and provide the treatment type and date.
-- If the patient didn't receive a treatment, they should answer "False" to "Have you received a treatment?"
-- The "Email" and "Phone" fields should only be filled if the patient has a contact preference.
-</thinking>
-
 # energyMedicineTreatmentFeedbackForm - Help Guide
 ## Purpose
 

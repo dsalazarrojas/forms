@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to facilitate communication between parents and the institution, enabling parents to send and receive information in a structured and efficient manner. It is meant to be a versatile tool for various types of interactions, from general updates to specific requests or concerns.
-To ensure the form serves its purpose, please review the following guidelines: ensure each field is filled out as intended, do not leave any required fields blank, and use the correct communication method to reach the recipient.
-</thinking>
-
 # Parent Communication Form - Help Guide
 ## Purpose
 This form is designed to allow parents to communicate with the institution in a convenient and organized way. It covers various aspects of communication, including sending messages, providing feedback, and expressing concerns.

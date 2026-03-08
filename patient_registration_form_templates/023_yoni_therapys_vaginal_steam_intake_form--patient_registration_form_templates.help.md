@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information for patients undergoing vaginal steam treatment at Yoni Therapies. The form should be used to collect the patient's name, medical history, details about the steam treatment, symptoms, treatment outcome, patient notes, and follow-up information.
-To complete this form, the patient should fill in their name, medical history, steam treatment details, symptoms, select the expected treatment outcome, and provide additional notes if needed. The follow-up date can be optionally filled in.
-The form is intended for patients who are undergoing vaginal steam treatment, and the purpose is to gather relevant information for treatment and follow-up.
-</thinking>
-
 # yoni_therapys_vaginal_steam_intake_form - Help Guide
 ## Purpose
 This form is designed to collect information from patients undergoing vaginal steam treatment at Yoni Therapies. The form will help gather necessary details for treatment and follow-up.

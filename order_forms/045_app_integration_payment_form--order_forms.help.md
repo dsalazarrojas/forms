@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for integrating with external applications, facilitating payment processing and order management. Its purpose is to collect essential information for processing payments and managing orders in a structured and organized manner. This form will be used to collect customer details, order information, and payment specifics to ensure seamless integration with the application. The form is a crucial part of the order management process, and filling it out accurately will help ensure that orders are processed correctly and payments are made efficiently.
-</thinking>
-
 # App Integration Payment Form - Help Guide
 ## Purpose
 The App Integration Payment Form is designed for integrating with external applications, facilitating payment processing and order management.

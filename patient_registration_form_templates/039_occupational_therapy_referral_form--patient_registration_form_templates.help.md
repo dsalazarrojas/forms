@@ -1,5 +1,3 @@
-<thinking>As a healthcare professional, it's essential to accurately collect and process referrals from patients to provide them with the best possible care. This form is designed to gather crucial information about the patient's referral, ensuring that the occupational therapist has a comprehensive understanding of the patient's needs. The Occupational Therapy Referral Form is a critical document used to streamline the referral process, reduce errors, and enhance the overall quality of care. Please ensure that you complete this form carefully and accurately to avoid duplicating work or missing critical information.</thinking>
-
 # Occupational Therapy Referral Form - Help Guide
 
 ## Purpose

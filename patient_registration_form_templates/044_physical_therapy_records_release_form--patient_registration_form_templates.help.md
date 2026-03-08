@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Physical Therapy Records Release Form" is used to collect information from patients about their medical history, contact details, and consent for physical therapy treatment. This form should only be completed for new patients, and any existing patients already registered with the physical therapy clinic should not be asked to complete it again. Before proceeding, please check if a similar form has already been completed for this patient.
 
 # Physical Therapy Records Release Form - Help Guide

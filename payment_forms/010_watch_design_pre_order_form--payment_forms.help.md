@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect customer and order information for a watch pre-order process. The form is composed of eight fields: Customer Details, Watch Details, Order Info, Order Total, Payment Info, Order Notes, Order Terms, and Confirm Order. The form is likely used by a business or organization to gather necessary information from customers before fulfilling their pre-order requests. It does not require any specific authentication or validation.
-
-</thinking>
-
 # watch_design_pre_order_form - Help Guide
 ## Purpose
 This form is used to collect customer and order information for pre-orders.

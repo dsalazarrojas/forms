@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering a magazine with an Eway payment gateway. The form is used to collect information about the magazine order, including category, description, background image, logo, issue, month, year, Eway fee, Eway fee hint, Eway fees, Eway gateway, form publisher, form builder, form customization, Eway gateway fee, Eway gateway fees, issue price, issue price hint, total amount, total amount hint, payment method, and submit. The purpose of this form is to collect all necessary information required for the magazine order process. It is recommended that users review the form carefully and fill in all necessary fields before submitting it.
-</thinking>
-
 # Magazine Order With Eway Payment Gateway - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to provide feedback on their dental care experience. The form is not required for routine check-ups, but rather for patients who have had a particularly positive or negative experience and want to share their thoughts with the dental team. This form is designed to be a simple and concise way for patients to express their opinions and suggestions, and will help the dental team improve their services.
-
-</thinking>
 # Dental Patient Feedback Form - Help Guide
 ## Purpose
 The Dental Patient Feedback Form is a tool for patients to share their thoughts and opinions about their experience at the dental clinic. It is not a formal evaluation form, but rather an opportunity for patients to give feedback on their care.

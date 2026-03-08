@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect patient information for intake purposes, specifically for patients who are being seen at a medical facility or practice. The form is designed to gather essential data such as name, contact information, medical record ID, and consent. This form will not be used for any other purpose than patient registration and intake. Please note that the form is required to be completed in full, as some fields are marked as required.
-</thinking>
-
 # dropbox_patient_intake_form - Help Guide
 
 ## Purpose

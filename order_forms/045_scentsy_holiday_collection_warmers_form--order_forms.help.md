@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information about new holiday collection warmers. The purpose of this form is to gather details about new collection items, such as item names, descriptions, and prices, to provide a comprehensive view of the holiday collection. The form is not affiliated with any form platform and is an original adaptation of public survey topic metadata.
-
-</thinking>
-
 # Scentsy Holiday Collection Warmers Form - Help Guide
 ## Purpose
 This form is designed to collect information about new holiday collection warmers.

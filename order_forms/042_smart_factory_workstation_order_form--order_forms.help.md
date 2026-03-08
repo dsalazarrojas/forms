@@ -1,5 +1,3 @@
-<thinking>...</thinking>
- 
 This form is designed for requesting workstations, and its purpose is to collect information from users about the type of workstation they need, the description of their request, and other relevant details. The form has two main sections: one for requesting a workstation and another for providing additional information.
  
 </thinking>

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to help customers place orders for pet supplies. The form collects information about the customer and their order, including the date they submitted the form. The form is divided into two pages: the first page for general information and the second page for submission details.
-
-</thinking>
-
 # Pet Supplies Order Form - Help Guide
 ## Purpose
 The Pet Supplies Order Form is designed to help customers place orders for pet supplies. Fill out this form to provide us with essential details about your order and your pet.

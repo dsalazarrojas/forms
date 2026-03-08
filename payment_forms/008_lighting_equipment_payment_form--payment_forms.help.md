@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect payment information for lighting equipment. It appears to be a three-page form, likely for customers to provide payment details, shipping information, and final confirmation. Before proceeding, please ensure you're filling out the correct form and that you're not duplicating efforts. If you're unsure, you can review the form's title, "Lighting Equipment Payment Form," to confirm its purpose.
-</thinking>
-
 # Lighting Equipment Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment details for lighting equipment purchases. It is a three-page form divided into Payment Information, Shipping Information, and Payment Confirmation sections. Please fill out the form accurately and completely to ensure a smooth transaction process.

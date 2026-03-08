@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for payment purposes, likely for a business or organization to process transactions or payments from customers. The form is called "Stationary Payment Form" and is used to gather details about the store, customer, and payment method. The form is designed to be completed by a customer or representative of the store. 
-
-This form may be used for internal purposes only, and it is not a public-facing form. It is intended for use by authorized personnel within the organization. This form is used for stationary payment, hence the name, which suggests that it is used for transactions that take place in a fixed location.
-
-</thinking>
-
 # Stationary Payment Form - Help Guide
 
 ## Purpose

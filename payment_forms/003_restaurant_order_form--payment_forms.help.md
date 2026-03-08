@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for restaurants to process customer orders, allowing them to specify the payment method, delivery time, pickup location, total price, customer name, customer phone number, order notes, and delivery address. The form is intended to be filled out by customers who are making purchases at a restaurant, and is used to capture relevant information for order fulfillment and payment processing.
-
-To avoid duplication, ensure that the customer has not already completed this form.
-
-</thinking>
-
 # restaurant_order_form - Help Guide
 ## Purpose
 This form is used to capture customer information for order fulfillment and payment processing when ordering at a restaurant.

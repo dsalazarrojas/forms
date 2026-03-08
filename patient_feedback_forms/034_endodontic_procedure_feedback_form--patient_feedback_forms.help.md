@@ -1,4 +1,4 @@
-# <thinking>... This form is designed to capture feedback from patients about their endodontic procedure experience. This form is not mandatory and is intended to help the endodontic team improve their services and provide better care to patients. It is recommended to fill this form after each endodontic procedure, and the feedback will be reviewed by the endodontic team to identify areas of improvement.</thinking>...</thinking>
+# ...</thinking>
 
 # Endodontic Procedure Feedback Form - Help Guide
 ## Purpose

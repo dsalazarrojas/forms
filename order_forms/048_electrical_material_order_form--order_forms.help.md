@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about an electrical material order. The purpose of this form is to gather essential details from the customer or contact person who needs to place an order for electrical materials. This information will be used to process the order efficiently and ensure that the materials are delivered correctly. The form should only be filled out once for each order, and any changes or updates should be communicated through other means.
-</thinking>
-
 # Electrical Material Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers or contacts who need to place an order for electrical materials. Please fill out the form with accurate and up-to-date information to help us process your order efficiently.

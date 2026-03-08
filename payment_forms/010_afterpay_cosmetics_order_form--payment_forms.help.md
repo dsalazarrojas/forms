@@ -1,7 +1,3 @@
-<thinking>
-We want to ensure that end-users understand the purpose and context of this form without duplicating information already provided in the form's fields. This form is for customers to place orders for cosmetics products, specifying their details such as full name, email address, the list of products ordered, quantity, and any special requests.
-</thinking>
-
 # Afterpay Cosmetics Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for cosmetics products from Afterpay Cosmetics. To complete the form, please follow the steps below.

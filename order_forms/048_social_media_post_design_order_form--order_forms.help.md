@@ -1,5 +1,3 @@
-<thinking>...We need to ensure that this form is used correctly and efficiently to capture the necessary information for social media post design order. This form is intended to be filled out by clients or designers to provide their input for social media post design order. Each field in this form should be filled out based on the client's or designer's preferences. This form should not be used for any other purpose than to capture the necessary information for social media post design order. We also need to consider the fact that some fields are optional and can be filled out by clients or designers based on their needs.</thinking>
-
 # Social Media Post Design Order Form - Help Guide
 ## Purpose
 The Social Media Post Design Order Form is designed to collect information from clients or designers for social media post design order. The form helps in providing the necessary details for the design process.

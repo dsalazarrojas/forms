@@ -1,30 +1,3 @@
-<thinking>
-The form "private_label_packaging_order_form" is used for ordering private label packaging for products. To ensure accuracy, we'll first review the fields provided in the inputSchema to verify they align with this use case. 
-The form consists of the following fields:
-
-- A form title
-- Product name
-- Product description
-- Product color
-- Product image
-- Packaging type
-- Packaging size
-- Quantity
-- Delivery date
-- Delivery time
-- Delivery address
-- Phone
-- Email
-- Comments
-- Form submit, reset, cancel, back, save, delete, preview, print, download, and help
-
-These fields are likely related to the process of packaging products with a private label, which could be used for various products, such as custom packaging for events or special occasions.
-
-Upon reviewing the form fields, it seems all fields except "product_image" and "comments" could be relevant to the process of ordering custom packaging, while "product_image" might be an optional field for providing an image reference or product design idea. "Comments" field could be an optional field for any additional information the user might want to provide about the order.
-
-To ensure consistency, we'll proceed with the form design explanation based on these fields.
-</thinking>
-
 # private_label_packaging_order_form - Help Guide
 ## Purpose
 This form is used for ordering private label packaging for products. It collects information about the product and the packaging details to facilitate the private label packaging process.

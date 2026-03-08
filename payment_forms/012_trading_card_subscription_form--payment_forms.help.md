@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information for a trading card subscription service. The form is divided into five sections: User Information, Subscription Type, Shipping Information, Payment Information, and Subscription Preferences. The goal is to collect the necessary details for users to subscribe to the trading card service.
 
 To ensure data accuracy and completeness, it's essential to fill out the form carefully and correctly. This help guide will walk you through each field and its purpose to help you complete the form efficiently.

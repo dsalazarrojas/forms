@@ -1,7 +1,3 @@
-<thinking>
-This form is used for communication regarding credit card statements. It is likely used for sending reminders or notifications about upcoming or recent transactions to a client. There might be a business logic that links client ID with transaction ID. This form should be filled out by clients who need to be informed about their transactions. The form should be filled out only by authorized individuals. 
-</thinking>
-
 # credit_card_statement_communication_form - Help Guide
 ## Purpose
 This form is used for sending credit card statement related communications to clients.

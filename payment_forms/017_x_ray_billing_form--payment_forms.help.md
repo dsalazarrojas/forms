@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information necessary for X-ray billing purposes. It is intended to be completed by individuals who need to submit their billing information for X-ray services. The form will help in streamlining the billing process and ensuring accurate and efficient processing of payments.
-
-To prevent duplication, this form should not be submitted multiple times. If you have already submitted this form, please do not resubmit it.
-
-To ensure accuracy, please fill out this form carefully, and double-check your information before submitting.
-</thinking>
-
 # X Ray Billing Form - Help Guide
 ## Purpose
 The X Ray Billing Form is a form designed to collect billing information for X-ray services. It is intended to be completed by individuals who need to submit their billing information for these services.

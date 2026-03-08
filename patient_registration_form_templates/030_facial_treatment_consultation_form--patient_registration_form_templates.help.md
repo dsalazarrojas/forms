@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "Facial Treatment Consultation Form" that covers the form's purpose, how to complete it, and a detailed field-by-field explanation of each field. This guide will be concise, practical, and based on the provided YAML fields. I will also provide internal reasoning behind my approach to ensure that the form is user-friendly and easy to understand. Please note that I will not output YAML or any other programming language, only the final Markdown help guide.</thinking>
-
 # Facial Treatment Consultation Form - Help Guide
 ## Purpose
 The Facial Treatment Consultation Form is a comprehensive form designed to collect essential information from clients about their medical history, treatment goals, and preferences. This form helps the healthcare professional to better understand the client's needs and create an effective treatment plan tailored to their specific requirements.

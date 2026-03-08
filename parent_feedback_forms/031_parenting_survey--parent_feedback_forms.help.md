@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form, the "Parenting Survey", is to gather information from parents about various aspects of their family and parenting experiences. This survey aims to collect data that can help in understanding the dynamics of family relationships, parental involvement, and the support systems in place.
-
-To ensure that the form is completed accurately and efficiently, please note that it is designed for parents to provide their honest and genuine feedback. The survey questions cover a range of topics, including general questions, feelings, attitudes, children's feelings, family dynamics, support systems, communication channels, parenting styles, family values, parent knowledge, parent skills, parent responsiveness, family stress, parent stress, social support, family participation, family culture, family organisation, and parent organisation.
-
-The following guide will walk you through each section of the survey and explain each question in detail.
-
-</thinking>
-
 # Parenting Survey - Help Guide
 ## Purpose
 The Parenting Survey is designed to gather information from parents about their family and parenting experiences.

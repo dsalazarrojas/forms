@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and ensure it's a suitable template for psychiatric intake forms. This form appears to be a comprehensive template for collecting patient information, medical history, and psychiatric history. Its purpose is to gather essential details for a thorough assessment and treatment planning in a psychiatric setting. To confirm, let's verify that this template aligns with standard psychiatric intake form requirements and won't duplicate any existing forms.</thinking>
-
 # psychiatric_intake_form - Help Guide
 ## Purpose
 This form is designed to collect patient information, medical history, and psychiatric history for a comprehensive assessment and treatment planning in a psychiatric setting.

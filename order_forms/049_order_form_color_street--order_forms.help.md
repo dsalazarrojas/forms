@@ -1,13 +1,3 @@
-<thinking>
-This form is likely intended to be used for customers to place an order for custom color-street related products or services. It might be a sales form for a retail business, where customers provide their details and select from a few products or services to order. The form has several sections: color-street selection, date and time selection, customer information, and order item selection.
-
-To ensure this form is being used correctly, make sure to:
-
-* Only display the form once it's being filled out and all fields are complete before proceeding.
-* Each field's label should match its corresponding purpose.
-* There should be no duplication of information in the form, as each field has a specific purpose.
-</thinking>
-
 # Order Form Color Street - Help Guide
 ## Purpose
 The Order Form Color Street is designed to allow customers to place orders for custom color-street related products or services. It gathers information required to process and fulfill the order.

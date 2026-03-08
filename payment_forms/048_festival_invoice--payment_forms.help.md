@@ -1,5 +1,3 @@
-<thinking>...checking...this form appears to be for creating a Festival Invoice for entities to be paid for a festival or event. This form is likely used for administrative tasks within the organization hosting the festival. To ensure accuracy, let's review the form fields for relevance and avoid duplication. The fields seem to cover the essential information needed for the festival payment process...okay, let's get started!</thinking>
-
 # Festival Invoice - Help Guide
 ## Purpose
 This form is used for creating a festival invoice for entities to be paid after a festival or event. It gathers essential information from the organization's administrative team to process payments accurately.

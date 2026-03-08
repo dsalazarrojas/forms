@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for registering information related to bake sales, possibly for a school or charity event. To avoid duplication, ensure you're not already registered, and review the form fields to understand what information is required.
-</thinking>
-
 # untitled_form - Help Guide
 ## Purpose
 

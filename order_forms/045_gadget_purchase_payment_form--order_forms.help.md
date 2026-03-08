@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for the purpose of processing a gadget purchase. It should only be used for this specific use case. To confirm, this form will be used for customers to provide payment and shipping information for a gadget purchase, and it should not be used for other purposes.
-</thinking>
-
 # Gadget Purchase Payment Form - Help Guide
 ## Purpose
 The Gadget Purchase Payment Form is a simple form used to collect payment and shipping information from customers for the purpose of processing a gadget purchase.

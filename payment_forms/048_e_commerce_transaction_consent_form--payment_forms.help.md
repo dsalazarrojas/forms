@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture information related to a transaction that has been made through an e-commerce platform. It is a critical process for our customers to understand that we need their consent for certain types of transactions. This form will help us verify that the customer is aware of and agrees to the terms of the transaction. The form should not be completed by merchants for their own transactions, and merchants should not fill out this form for their own transactions. It should only be completed by customers or their authorized representatives.
-</thinking>
-
 # E Commerce Transaction Consent Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect essential business information and setup details for the e-wallet payment system. The purpose of this form is to ensure that businesses provide accurate and complete information to set up a smooth and secure payment process. This form will gather information such as business name, type, tax ID or EIN, address, phone number, contact information, and other relevant details. The form will also collect information about the e-wallet setup details, including the provider, expected monthly processing volume, average transaction amount, and types of transactions. Additionally, it will gather information about the current payment processor, setup timeline, system compatibility, PCI compliance status, and approval and authorization details. This form is designed to be completed by authorized personnel, and all fields are marked as required to ensure accurate and thorough information. By completing this form, businesses will be able to set up their e-wallet payment system efficiently and securely.
-</thinking>
-
 # Business E Wallet Payment Setup Form - Help Guide
 ## Purpose
 This form is designed to collect essential business information and setup details for the e-wallet payment system.

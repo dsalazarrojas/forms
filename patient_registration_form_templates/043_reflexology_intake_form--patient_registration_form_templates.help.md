@@ -1,7 +1,3 @@
-<thinking>
-This form aims to collect information from patients for reflexology services. It's essential to ensure that patients provide accurate and comprehensive details to help reflexologists offer the best possible care. Before filling out this form, please note that it's a generic template and might not cover all possible scenarios. If you're unsure about any field or have additional questions, contact the form maintainer (form@gic.mx) for assistance.
-</thinking>
-
 # Reflexology Intake Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from patients before their reflexology session. It includes fields for patient registration, appointment scheduling, medical history, and health information.

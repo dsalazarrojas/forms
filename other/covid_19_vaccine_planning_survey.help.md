@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about a facility's readiness to store and handle COVID-19 vaccines, including details about their equipment, capacity, and procedures. This data will help in understanding the facility's ability to manage pandemics and vaccinations. 
-It is essential to ensure that the data is accurate and complete. If you have completed a similar form for this facility in the past, it is likely that this form's data is not needed. Please ensure you have all necessary permissions to access and input the requested information for the facility.
-</thinking>
-
 # covid_19_vaccine_planning_survey - Help Guide
 ## Purpose
 The "covid_19_vaccine_planning_survey" form is designed to collect data about a facility's preparedness and ability to handle COVID-19 vaccines. This form will help in identifying the strengths and weaknesses of the facility in managing and storing vaccines during a pandemic.

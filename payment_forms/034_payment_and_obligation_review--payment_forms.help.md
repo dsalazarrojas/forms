@@ -1,12 +1,3 @@
-<thinking>
-The Payment And Obligation Review form is used to collect information about the payment and obligation details for a client. This form should only be filled out by clients who have an outstanding payment obligation and need to review their payment terms and status. It is recommended that this form be filled out only once the payment terms have been agreed upon by both the client and the service provider. Filling out this form will help the client to understand their payment obligations and will assist the service provider in tracking and managing the payments.
-
-To prevent duplication of work, please ensure that this form is not filled out by clients who have already completed the payment review process or who have not been assigned to the payment review process by the service provider.
-
-Before filling out this form, please make sure you have all the required information and documentation ready. This form should only be filled out by the client, and it is recommended that the client fills it out in collaboration with their accountant or financial advisor to ensure accuracy.
-
-</thinking>
-
 # Payment And Obligation Review - Help Guide
 ## Purpose
 The Payment And Obligation Review form is used to collect payment and obligation details from clients to help them understand their payment obligations and to assist service providers in tracking and managing payments.

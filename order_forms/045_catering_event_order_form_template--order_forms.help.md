@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for catering events, such as weddings, corporate functions, or parties. 
-The purpose of this form is to gather event details and preferences for the catering service. 
-The form guides the user through different sections, including event basics, schedule, venue details, menu and beverage selection, financials, and billing contact information. 
-</thinking>
-
 # Catering Event Order Form Template - Help Guide
 ## Purpose
 The Catering Event Order Form Template is a tool for clients to provide information about their catering event. 

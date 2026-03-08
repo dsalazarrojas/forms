@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for a physical therapy triage assessment, which is a preliminary evaluation of a patient's condition to determine the best course of action for treatment. This form will help healthcare providers and medical staff quickly gather essential data about the patient, including demographic information, medical history, symptoms, and diagnosis. The form is intended to be completed by the patient or their representative, and the information collected will be used to inform the treatment plan.
-
-The main goal of this form is to streamline the intake process and ensure that all necessary information is collected in a standardized and efficient manner. This will help healthcare providers make informed decisions about the patient's care and treatment.
-
-Before proceeding, let's ensure that this form meets your specific needs. Please note that the fields and options listed in this guide may not be exhaustive, and you should review the form carefully to ensure that it meets your specific requirements.
-
-If you have any specific requirements or modifications in mind, please let me know, and I'll be happy to assist you in tailoring the form to your needs.
-</thinking>
-
 # Physical Therapy Triage Assessment - Help Guide
 ## Purpose
 This form is designed to collect information for a physical therapy triage assessment, which is a preliminary evaluation of a patient's condition to determine the best course of action for treatment.

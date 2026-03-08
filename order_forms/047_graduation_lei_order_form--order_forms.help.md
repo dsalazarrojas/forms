@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of the Graduation Lei Order Form is to collect information from users who are interested in ordering graduation lei for their school or university. This form will help users provide necessary details about their order, including school name, order details, delivery/pickup options, payment method, delivery date, delivery name, lei size, lei color, graduation date, and order total. It's essential to ensure that the information provided is accurate and complete to process the order correctly.
-
-To ensure data consistency and accuracy, users should only fill out the form once, and all required fields are clearly marked. This form is designed to be completed by users who are placing orders on behalf of their school or university, rather than individual students.
-
-</thinking>
-
 # Graduation Lei Order Form - Help Guide
 ## Purpose
 The Graduation Lei Order Form is designed to collect information from users who are ordering graduation lei for their school or university. This form will help the ordering process go smoothly and efficiently.

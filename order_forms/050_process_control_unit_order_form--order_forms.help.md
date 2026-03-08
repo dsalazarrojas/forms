@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for the process control unit order process. The form is used to select the units, delivery details, payment terms, and other related information from suppliers. This form is used by buyers to place orders with suppliers and ensure that the necessary information is collected accurately and efficiently.
-The purpose of this form is to streamline the process of placing an order with a supplier. It ensures that all the necessary details are collected in one place, reducing the risk of errors and misunderstandings. This form is not intended to be used for any other purpose than ordering process control units.
-The following sections of this form are required to be filled in as per the internal guidelines. Please ensure that you provide accurate and up-to-date information in each field to avoid any issues.
-</thinking>
-
 # Process Control Unit Order Form - Help Guide
 ## Purpose
 The Process Control Unit Order Form is a tool used to collect information for the process control unit order process. It is used by buyers to ensure that all the necessary details are collected accurately and efficiently when placing an order with a supplier.

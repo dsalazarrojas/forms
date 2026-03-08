@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect shipping information for global shipping, likely for customs and tax purposes. The form is designed to be simple and straightforward, with fields for address, city, state, zip, country, shipping date, shipping time, and phone number. It's likely used for international trade or commerce purposes. It's possible that some fields might be redundant or not applicable for certain regions or countries, but this form is a general template. It's worth noting that the form is not explicitly marked as "required" for any field, but it's likely that some fields are necessary for proper shipping handling. To avoid duplication or errors, it's essential to ensure that the correct fields are filled in correctly and accurately for each shipping destination.
-</thinking>
-
 # Global Shipping Information Form - Help Guide
 ## Purpose
 The Global Shipping Information Form is designed to collect essential shipping details for global shipping purposes, such as customs and tax compliance.

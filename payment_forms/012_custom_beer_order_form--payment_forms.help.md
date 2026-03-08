@@ -1,13 +1,3 @@
-<thinking>
-
-This form was created using AI to generate a customized form based on public survey topic metadata. It aims to collect information about a customer's beer order, including their order details, the specific beer order, and payment information. The form is intended for use in a retail or sales context where customers place orders for beer.
-
-This form is designed to be a simple and easy-to-use template that can be adapted and modified as needed. However, please note that the form is not affiliated with, endorsed by, or derived from any form platform, and the content is released under CC BY 4.0.
-
-Before proceeding, please ensure that you have the necessary permissions and approvals to collect and process customer data.
-
-</thinking>
-
 # custom_beer_order_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>... This form appears to be a general template for collecting information about new hires, including personal details, work shifts, job titles, and onboarding status. This form is likely used for HR or administrative purposes. There seems to be no obvious duplicates or unnecessary fields. ...</thinking>
-
 # Untitled Form - Help Guide
 
 ## Purpose

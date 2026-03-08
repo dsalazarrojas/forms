@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Maternity Support Registration - Help Guide**
 
 ## Purpose

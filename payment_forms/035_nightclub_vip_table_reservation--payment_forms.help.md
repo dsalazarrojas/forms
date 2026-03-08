@@ -1,15 +1,3 @@
-<thinking>
-The form purpose is to collect information from users to process a Nightclub VIP table reservation. The user will be prompted to confirm whether they want to reserve a table, provide details about the VIP (Very Important Person), and input payment information.
-The form structure consists of multiple sections, each with a specific purpose:
-1. **Reservation Form**: This section asks if the user wants to reserve a table.
-2. **Table Reservation Form**: This section allows the user to select yes or no to confirm the table reservation.
-3. **VIP Details Form**: This section requests information about the VIP, including name, email, phone number, and guest name.
-4. **Bottle Service Form**: This section is currently unused but may be used in the future.
-5. **Payment Method**: This section asks if the user wants to pay for the service.
-6. **Deposit**: This section is an optional payment option, but its purpose is not well-defined in the given YAML.
-7. **Additional Information**: This section includes fields for payment amount, total amount, payment method, and terms of service.
-</thinking>
-
 # Nightclub VIP Table Reservation - Help Guide
 ## Purpose
 This form is used to collect information from users to process a Nightclub VIP table reservation. The form helps in confirming the reservation, gathering details about the VIP, and processing payment information.

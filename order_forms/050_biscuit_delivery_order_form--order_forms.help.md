@@ -1,5 +1,3 @@
-<thinking>...The form is primarily used for customers to place orders for biscuit deliveries. It requires customers to provide their personal contact information, including name, email, phone number, and address. Additionally, they have to specify the type and quantity of biscuits they desire, along with the desired delivery date and time. Customers may also have special requests or dietary requirements. The form asks for payment information, including the method and timing. It also includes an agreement section for order confirmation... (End of internal reasoning)</thinking>
-
 # Biscuit Delivery Order Form - Help Guide
 
 ## Purpose

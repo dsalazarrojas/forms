@@ -1,7 +1,3 @@
-<thinking>
-This guide will explain how to create a help document for the DriveThruMealOrderForm form in Markdown format. The form is used for customers to input their order details and preferences for drive-thru pickup or delivery orders.
-</thinking>
-
 # DriveThruMealOrderForm - Help Guide
 ## Purpose
 The DriveThruMealOrderForm is used by customers to place their orders for drive-thru pickup or delivery from a restaurant. It captures essential information such as order ID, pickup type, order items, customer name, phone number, and email address.

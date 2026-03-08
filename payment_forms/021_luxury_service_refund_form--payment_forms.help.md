@@ -1,10 +1,3 @@
-<thinking>
-This form is a "Luxury Service Refund Form" used by customers to request a refund for a luxury service provided by a service provider. The form is meant to gather information about the customer's service experience and the reason for the refund request. It is intended for customers who have purchased a luxury service and are dissatisfied with the service or have not received the expected outcome. This form should only be used by customers who have a legitimate reason for requesting a refund, and not for other purposes such as making a complaint or asking for an update on their service status.
-
-Before filling out this form, please ensure that you have a clear understanding of the reason for your refund request and have all necessary information about your service experience and payment method.
-
-Please note that this form is a one-time request for a refund, and once you submit it, it cannot be modified or cancelled. If you have any questions or need further assistance, please contact our customer support team.</thinking>
-
 # Luxury Service Refund Form - Help Guide
 ## Purpose
 The Luxury Service Refund Form is designed to help customers request a refund for a luxury service that was not satisfactory or did not meet their expectations.

@@ -1,6 +1,3 @@
-<thinking>
-This form is used for guests to request a refund of their hotel deposit, which is a payment made by guests to guarantee the booking of a room. The form is meant to be completed by the guest to provide necessary information for the refund process. The purpose of this form is to ensure that the guest's deposit is refunded promptly and accurately. Please ensure that this form is used only for guests who have already made a deposit and are requesting a refund. If a guest has not made a deposit, please use the correct form for new refund requests.</thinking>
-
 # Hotel Deposit Refund Form - Help Guide
 ## Purpose
 The Hotel Deposit Refund Form is a document used to request a refund of a hotel deposit. Guests can use this form to provide necessary information for the refund process.

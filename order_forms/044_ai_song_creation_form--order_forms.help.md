@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information from users to generate an AI-powered song creation experience. This form is meant to be a starting point for users to input their creative vision, and the AI will use this data to create a song tailored to their preferences. This form is not affiliated with or endorsed by any form platform, and the generated songs are original and not copied from any other source. The form is released under CC BY 4.0, allowing users to use, modify, and even sell the generated songs, as long as they give credit. 
-
-</thinking>
-
 # AI Song Creation Form - Help Guide
 ## Purpose
 The AI Song Creation Form is a tool designed to help users generate a song based on their preferences. This form collects information about the user, such as contact details, song specifications, and creative preferences, to create a unique song that meets their needs.

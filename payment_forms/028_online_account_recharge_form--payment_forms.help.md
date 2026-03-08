@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for recharging accounts, allowing customers to provide information related to their accounts. The form likely exists to process payments or updates for customer accounts, and it is designed to be completed with the most basic details required for this purpose. 
-To prevent duplication or unnecessary updates, ensure that the form is only used for legitimate account recharge requests. 
-Please note that some fields may be optional, but they are still required for the form to function correctly. 
-</thinking>
-
 # Online Account Recharge Form - Help Guide
 ## Purpose
 The Online Account Recharge Form is used for customers to provide information related to their accounts, facilitating the recharging process.

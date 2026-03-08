@@ -1,14 +1,3 @@
-<thinking>
-This form seems to be designed for guests or customers to book extended stays at a studio. The form is likely meant for guests to provide their personal details and payment information for their stay. 
-
-The form appears to be a multi-page form, with each page having a specific set of fields. Each field seems to be focused on gathering relevant information for the guest's booking.
-
-The form requires the guest to select the type of room they want to book, the dates of their stay, their personal details (name, email, phone number, and address), and how they want to pay for their stay. 
-
-It's worth noting that the form is quite detailed, suggesting that the studio may be a high-end or exclusive establishment.
-
-</thinking>
-
 # Extended Stay Studio Booking Form - Help Guide
 ## Purpose
 The Extended Stay Studio Booking Form is designed for guests to book extended stays at the studio. This form is to be filled out by guests to provide their personal details and payment information for their stay.

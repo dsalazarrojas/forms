@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a new client's intake and medical history, while also gathering contact information and emergency contact details. It appears to be a comprehensive form that covers various aspects of a patient's medical history, including conditions, diseases, surgeries, allergies, medications, hospitalizations, and other relevant health information. 
-
-To determine if this form is a duplicate, I will check if there are any similar forms in our database. If this form is similar to an existing form, it will be marked as a duplicate and not created. 
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It was created by AI using public survey topic metadata and is released under the Creative Commons BY 4.0 license. This means you are free to use, modify, and even sell forms derived from it, as long as you give credit.
-</thinking>
-
 # New Client Intake And Medical History Form (HIPAA) - Help Guide
 ## Purpose
 The New Client Intake And Medical History Form (HIPAA) is designed to collect comprehensive information about a new client's medical history, contact details, and emergency contact information. This form is crucial for healthcare professionals to gather vital information about their patients' health, habits, and medical history.

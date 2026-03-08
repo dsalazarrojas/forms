@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to ensure that users understand the purpose and usage of this form to get the most accurate and relevant information. This form appears to be a basic contact or booking form, likely used for scheduling access to a physical or virtual backstage area. Before proceeding, please consider the following:
 
 * What is the intended use of this form? Is it for general contact or booking purposes?

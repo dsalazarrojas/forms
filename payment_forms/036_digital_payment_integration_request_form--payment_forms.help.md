@@ -1,7 +1,3 @@
-<thinking> 
-This form is intended for customers or users who wish to integrate their digital payments with our system. It's used to gather the necessary information for this integration, such as the payment method and gateway used, and any other relevant details. The form will help ensure that the integration is set up correctly and securely. Before filling out this form, please ensure that you have all the necessary information required for a successful integration.
-</thinking>
-
 # Digital Payment Integration Request Form - Help Guide
 ## Purpose
 This form is used to request integration of digital payments with our system. It helps us understand the type of integration you need and ensures a smooth and secure setup process.

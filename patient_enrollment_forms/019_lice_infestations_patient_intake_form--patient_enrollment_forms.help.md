@@ -1,13 +1,3 @@
-<thinking>
-
-To ensure the quality and relevance of the generated form help guide, I will first review the form's purpose and content. This form appears to be designed for collecting patient information and history related to lice infestations, including patient contact and medical details, allergy status, treatment history, and control measures. The form's structure and field selection suggest it is intended for medical professionals or health services to gather data for diagnosis and treatment purposes. 
-
-The form's content does not seem to be directly related to any proprietary or commercial services. It seems to be a general-purpose form designed for public health services or medical institutions. To confirm, the form's metadata mentions it is "an original adaptation and does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform." This form's creation does not indicate any affiliation with any commercial platforms. 
-
-Given the form's purpose and content, this help guide will aim to assist end-users in understanding its structure and fields, making it easier for them to collect relevant patient data.
-
-</thinking>
-
 # Lice Infestations Patient Intake Form - Help Guide
 ## Purpose
 The Lice Infestations Patient Intake Form is designed for collecting patient information and history related to lice infestations from medical professionals or health services. This form will guide you through the process of filling out the form, explaining each field's purpose and requirements.

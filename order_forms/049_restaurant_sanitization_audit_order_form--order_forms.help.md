@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a restaurant's sanitization status, which is essential for public health and safety. The purpose of this form is to assess whether the restaurant meets the required standards for sanitization. It's crucial to ensure that the restaurant's kitchen and surrounding areas are clean, well-maintained, and free from hazards. This form is typically used by health inspectors or auditors to evaluate the restaurant's compliance with food safety regulations. It's essential to complete the form accurately and honestly to avoid any potential issues or fines. Please ensure that you have reviewed the restaurant's current status before submitting this form.
-</thinking>
-
 # Restaurant Sanitization Audit Order Form - Help Guide
 ## Purpose
 The Restaurant Sanitization Audit Order Form is a critical tool used to assess a restaurant's compliance with food safety regulations. This form helps health inspectors or auditors evaluate the restaurant's sanitization status, ensuring that it meets the required standards for public health and safety.

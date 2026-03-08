@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect donations to support a local animal shelter. The purpose of the form is to gather information from users who wish to donate money to the shelter. The form will ask for the user's name, email, the amount of their donation, how often they would like to donate (e.g., once, monthly, bi-weekly), and any additional notes or comments. Donors also have the option to opt-out of email communication with the shelter. This form will not be used for any other purpose and will only be used for the specified shelter. This form will be used for donations and will not be shared or used for marketing purposes. The shelter will not store any information provided on this form for more than one year.
-</thinking>
-
 # stripe_animal_shelter_donation_form - Help Guide
 ## Purpose
 This form is designed to collect donations to support a local animal shelter.

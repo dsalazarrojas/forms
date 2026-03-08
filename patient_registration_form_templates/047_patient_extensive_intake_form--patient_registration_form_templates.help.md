@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient information for a medical facility, covering various aspects of patient demographics, medical history, allergies, medications, and contact details. The form is extensive, covering both the patient's and next of kin's information, as well as medical provider details. It is likely intended for patients who require multiple visits or have complex medical conditions.
-
-</thinking>
-
 # patient_extensive_intake_form - Help Guide
 ## Purpose
 This form is used to collect patient information for medical records, including demographics, medical history, allergies, medications, and contact details.

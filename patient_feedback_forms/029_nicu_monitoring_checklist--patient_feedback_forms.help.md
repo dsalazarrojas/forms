@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect feedback and data about the patient's monitoring in the Neonatal Intensive Care Unit (NICU). The information collected will help healthcare professionals monitor and manage the patient's care. The form is designed to be easy to fill out, and the fields have been optimized for clarity and simplicity.
-
-Before filling out this form, please ensure that the patient's information is up-to-date and accurate.
-
-This form has multiple sections, each with specific fields that require information on different aspects of the patient's monitoring. Make sure to complete each section thoroughly and accurately.
-
-Please note that some fields are required to be filled out, and others are optional.
-
-This form is a crucial tool for healthcare professionals to track and assess the patient's status in the NICU. Your input will contribute significantly to the patient's care and treatment.
-
-</thinking>
-
 # NICU Monitoring Checklist - Help Guide
 ## Purpose
 

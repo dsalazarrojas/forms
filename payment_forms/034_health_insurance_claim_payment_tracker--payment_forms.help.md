@@ -1,10 +1,3 @@
-<thinking>
-  This form is used to track payments made on behalf of patients. It is used by healthcare providers to record information related to health insurance claim payments. The form will help track payments received, payment status, and other relevant details. 
-
-  Ensure that the form is being used for the correct purpose and only by authorized users. 
-
-</thinking>
-
 # Health Insurance Claim Payment Tracker - Help Guide
 ## Purpose
 The Health Insurance Claim Payment Tracker is a form used to record payments made on behalf of patients. It helps healthcare providers track the status of payments received and related information.

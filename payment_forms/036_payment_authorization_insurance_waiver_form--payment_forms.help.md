@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather participant information and payment authorization for a program or service. It is likely used in a healthcare or medical context where participants may need to sign a payment authorization and provide insurance information. This form is typically used by healthcare providers to verify participant information and payment details before providing services. The form should not be used for other purposes not related to payment authorization and insurance information.
-
-To ensure this form is used correctly, it is essential to review the participant's details and confirm that the uploaded waivers are accurate and complete.
-
-The participant information fields are likely used to populate the participant's medical record and payment information. The uploaded waivers are used to confirm that the participant has acknowledged and agreed to the terms and conditions of service.
-
-Please review the form carefully to ensure it meets the needs of your organization and participants.
-
-</thinking>
-
 # Payment Authorization & Insurance Waiver Form - Help Guide
 ## Purpose
 The Payment Authorization & Insurance Waiver Form is used to gather participant information, payment authorization, and uploaded waivers for a program or service.

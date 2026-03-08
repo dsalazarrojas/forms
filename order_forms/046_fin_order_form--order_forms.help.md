@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect order information from customers, which will be used to process and fulfill orders. To ensure that you complete the form correctly, please review the following steps and explanations.
-</thinking>
-
 # fin_order_form - Help Guide
 ## Purpose
 The "fin_order_form" form is a digital order form designed to collect essential customer and order information for processing and fulfillment. It is used to gather details about the customer and their shipping address, product preferences, and payment details.

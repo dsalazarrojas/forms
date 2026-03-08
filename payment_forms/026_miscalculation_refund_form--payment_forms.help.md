@@ -1,12 +1,3 @@
-<thinking>
-This form is used to report a billing miscalculation to the customer and request a refund. The form is designed to gather information about the error, including the date of the billing error and the amount of the error. The form should not be used to report a general issue with an invoice, but rather a specific miscalculation that has occurred on a customer's bill.
-
-This form should only be used for customers who have experienced a billing error and not for other purposes such as reporting a general issue with their account or billing cycle.
-
-Before completing this form, please ensure you have reviewed the relevant billing statements and have identified a specific miscalculation that has occurred.
-
-The form will be reviewed and processed internally, and a response will be sent to the customer with further instructions or updates.</thinking>
-
 # Miscalculation Refund Form - Help Guide
 
 ## Purpose

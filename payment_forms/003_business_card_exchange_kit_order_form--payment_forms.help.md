@@ -1,7 +1,3 @@
-<thinking>
-A form like this is likely used for ordering business card kits, a type of marketing material that helps businesses promote themselves. This form is used for customers to provide their contact and shipping information, choose the card design and specifications, and finalize the order with payment details. The form may be used for both internal and external customers, as it is a straightforward and structured way to collect required information. The form is likely to be used online, possibly as a part of an e-commerce website or a dedicated order portal, allowing customers to easily submit their orders.
-</thinking>
-
 # Business Card Exchange Kit Order Form - Help Guide
 
 ## Purpose

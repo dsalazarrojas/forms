@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information about a customer's subscription payment details.
-The form should only be completed for new or existing customers who want to set up a recurring payment subscription.
-It should not be used for one-off payments or other payment-related actions.
-</thinking>
-
 # Subscription Payment Form - Help Guide
 ## Purpose
 This form is used to collect information about a customer's subscription payment details. It is intended for new or existing customers who want to set up a recurring payment subscription.

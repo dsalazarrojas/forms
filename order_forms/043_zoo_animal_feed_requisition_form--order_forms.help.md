@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # zoo_animal_feed_requisition_form - Help Guide
 ## Purpose
 The zoo animal feed requisition form is used to request feed for zoo animals. This form is meant to be completed by zoo staff to submit requests for animal feed supplies. Please make sure to complete this form carefully and accurately to ensure efficient feed delivery and animal care.

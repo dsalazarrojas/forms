@@ -1,6 +1,3 @@
-<thinking>
-This form is for ordering software products during a trade show. It's designed to collect information about the customer, their company, the software products they're interested in, the trade show they attended, and the date and time of the order. This form should only be filled out by customers who attended the trade show and want to place an order for one or more software products. The form is used to ensure accurate and organized orders, which will be processed by the company. This form is not a duplicate of any other form used by our company for the same purpose, and the information collected will only be used for the purpose of fulfilling the order and tracking company business performance.</thinking>
-
 # Software Company Trade Show Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who attended a trade show and want to place an order for our software products. It's meant to be used to ensure accurate and organized orders.

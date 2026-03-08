@@ -1,8 +1,3 @@
-<thinking>
-This form is used for customers to place an order for a custom notebook and pen. The purpose of this form is to collect information about the customer's preferences for the notebook and pen, such as the color and size of the pen, the size and cover type of the notebook, and the quantity of the order. 
-The form should only be completed by customers who wish to place an order for a custom notebook and pen. 
-</thinking>
-
 # Custom Notebook and Pen Order Form - Help Guide
 ## Purpose
 This form is used for customers to place an order for a custom notebook and pen.

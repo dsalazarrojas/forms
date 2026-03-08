@@ -1,10 +1,3 @@
-<thinking>
-Please ensure that the form's purpose is clear and concise, and that the field explanations are accurate and practical. I will not create any new fields or logic not present in the provided YAML. 
-
-The MRI Procedure Feedback Form is used to gather patient feedback on their experience with the MRI procedure. This form helps identify areas of improvement for the radiology department to provide better patient care and services.
-
-</thinking>
-
 # MRI Procedure Feedback Form - Help Guide
 ## Purpose
 The MRI Procedure Feedback Form is used to gather patient feedback on their experience with the MRI procedure.

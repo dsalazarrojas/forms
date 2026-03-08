@@ -1,11 +1,3 @@
-<thinking>
-The form "Healthcare Patient Visit Feedback Form" is designed to gather feedback from patients about their experience during a visit to a healthcare facility. 
-This form is intended to be filled out by patients after a visit to provide their input on the care and services they received. 
-It is not a form for medical records or billing purposes. 
-This form is not meant to be a substitute for formal complaint forms or official patient surveys.
-
-</thinking>
-
 # Healthcare Patient Visit Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a platform for patients to share their experiences, impressions, and opinions about their visit to a healthcare facility.

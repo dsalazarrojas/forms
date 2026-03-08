@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for donations to the Performing Arts Auditorium, a specific organization that likely supports various performing arts events. The purpose of this form is to collect donations from individuals, likely for specific events or the organization as a whole. I will provide a help guide for this form that covers its purpose, how to complete it, and an explanation for each field.
-</thinking>
-
 # Performing Arts Auditorium Donation Form - Help Guide
 
 ## Purpose

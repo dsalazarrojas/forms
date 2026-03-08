@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to gather patient feedback on the services provided by a patient advocacy program. The form is designed to be completed by both patients and providers (e.g., doctors, healthcare professionals) to capture relevant information and signatures from both parties. This form is likely used for record-keeping and quality control within the program.
-Before proceeding, ensure that you are not already familiar with this form. If you have previously completed this form, please do not complete it again. Please ensure that you are the intended recipient of this form (patient or provider) and that this is the correct version of the form for your role.
-</thinking>
-
 # patient_advocacy_program_quotation_form - Help Guide
 
 ## Purpose

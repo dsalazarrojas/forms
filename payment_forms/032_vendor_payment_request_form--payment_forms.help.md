@@ -1,7 +1,3 @@
-<thinking>
-This form is a "Vendor Payment Request Form" that enables users to request payment from vendors for various services or goods provided. This form is designed to collect relevant details about the payment request, including the payment method, vendor's name, amount due, invoice date, payment terms, due date, vendor's referral status, and the date of the request. To ensure data integrity and consistency, this form will likely be used for internal accounting and financial purposes, so it's essential to provide clear and concise instructions for users. To prevent data duplication, users should check the existing records before submitting new requests.
-</thinking>
-
 # Vendor Payment Request Form - Help Guide
 ## Purpose
 The "Vendor Payment Request Form" is a tool used to request payment from vendors for various services or goods provided. This form collects essential information to facilitate the payment request process.

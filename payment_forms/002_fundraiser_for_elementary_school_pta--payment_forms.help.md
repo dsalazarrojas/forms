@@ -1,15 +1,3 @@
-<thinking>As I analyze the form, I consider the following:
-- The form is for a "Fundraiser For Elementary School Pta", which likely refers to a fundraising campaign for an elementary school Parent-Teacher Association (PTA).
-- The form has six fields:
-  - "base_info"
-  - "contact_info"
-  - "Fundraiser Info" (which seems to be a title label)
-  - "Donation Info" (which also seems to be a title label)
-  - "Notes"
-  - "Confirm Info"
-- Some fields are not marked as "required", but they are all optional and likely intended for users to provide additional context or details.
-</thinking>
-
 # Fundraiser For Elementary School Pta - Help Guide
 ## Purpose
 This form is designed to gather information and details for a fundraising campaign for an elementary school Parent-Teacher Association (PTA). The purpose of this form is to collect essential information from users, including contact details, fundraiser details, donation information, and any additional notes.

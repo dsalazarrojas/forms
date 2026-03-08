@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to inquire about the status of a transaction. 
-It checks if the form is filled out correctly before submission. 
-It's a general form, so it's unlikely that someone would fill it out multiple times.
-</thinking>
-
 # Transaction Status Inquiry Form - Help Guide
 ## Purpose
 This form is used to inquire about the status of a transaction. It helps in retrieving information about a specific transaction.

@@ -1,22 +1,4 @@
-## <thinking>
-### Purpose
-
-This form is for customers to provide feedback about their credit card payment experiences. 
-It's used to gauge the customer's satisfaction level and any issues they've encountered during the payment process. 
-
-To determine if this form needs to be filled out by the customer, consider these questions:
-- Is the form being completed by a customer or a merchant?
-- Is this form part of a larger process to monitor customer feedback and experience?
-- Does the form have any required fields that the customer needs to fill out?
-- Is the form being used to process payments or for other purposes?
-
-If the answers to these questions are all "yes" or "no", the form should be filled out by the customer. 
-
-If the form is being completed by a merchant, it's likely for the merchant to provide feedback to the credit card company rather than for the customer. 
-It's also worth considering whether the form should be part of a larger process, such as a customer feedback loop, rather than a standalone form.
-</thinking>
-
-# Credit Card Payment Feedback Form - Help Guide
+## # Credit Card Payment Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from customers about their credit card payment experiences.
 

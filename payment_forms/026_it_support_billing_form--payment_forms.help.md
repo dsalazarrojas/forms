@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect billing information for IT support services. The form is intended to provide a structured way for customers to submit their billing details, making it easier for the support team to process payments and keep track of customer interactions. Before proceeding, please ensure that you have the necessary authorization and permissions to access this form. If you are not authorized, please contact your supervisor or HR representative for further assistance.
-</thinking>
-
 # it_support_billing_form - Help Guide
 ## Purpose
 This form is used to collect billing information for IT support services. It is designed to facilitate the payment process and provide a record of customer transactions.

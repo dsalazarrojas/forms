@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture payment information for engineering consultations. It's likely used in an internal business setting, possibly for tracking payments or invoices related to engineering services. The form might be used by engineers or financial teams to record and manage payment data. I'm checking for duplication of forms and ensuring this form is not a duplicate of another form.
-</thinking>
-
 # engineering_consultation_payment_form - Help Guide
 ## Purpose
 This form is designed to capture payment information for engineering consultations. It helps track payments or invoices related to engineering services, allowing users to record and manage payment data.

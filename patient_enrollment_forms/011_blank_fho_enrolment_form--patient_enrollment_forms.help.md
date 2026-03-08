@@ -1,7 +1,3 @@
-<thinking>
-We're designing a form for patient enrollment, and before we start, let's ensure this form is only filled out by authorized users and not duplicated. This form is meant for new patient intakes, where patients will provide their personal information, and the healthcare provider will have access to this data for further processing. Please make sure you're filling out this form only if you're a valid patient or authorized to access this information.
-</thinking>
-
 # Blank FHO Enrolment Form - Help Guide
 ## Purpose
 The Blank FHO Enrolment Form is a patient intake form designed to collect essential information from patients for healthcare services. This form is used to gather personal details, address, and contact information for the purpose of enrolling patients into our healthcare system.

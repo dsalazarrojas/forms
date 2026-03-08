@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a user-facing tool for calculating the minimum payment amount on a loan or credit card. The purpose of this form is to provide a quick and easy way for users to calculate the minimum amount they would need to pay on their debt, based on the payment amount, interest rate, payment term, and other related factors.
-To ensure that this form is used correctly, let's review the fields and their intended purpose to prevent any duplication or misinterpretation of the information.
-</thinking>
-
 # Minimum Payment Calculator Form - Help Guide
 ## Purpose
 This form is designed to calculate the minimum payment amount on a loan or credit card based on the payment amount, interest rate, payment term, and other relevant factors.

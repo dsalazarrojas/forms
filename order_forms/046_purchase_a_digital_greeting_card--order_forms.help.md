@@ -1,8 +1,3 @@
-<thinking>
-This form is for creating a purchase order for a digital greeting card. The purpose of the form is to collect information from the user to generate a personalized digital greeting card.
-The form consists of a form title, name, email, phone number, note, select one from a list, time, date, category, and submit order. It's essential to fill out the form completely and accurately to ensure that the digital greeting card is delivered successfully.
-</thinking>
-
 # Purchase A Digital Greeting Card - Help Guide
 ## Purpose
 This form is used to create a personalized digital greeting card for various occasions. To get started, fill out the form completely and accurately, and click the Submit button at the end.

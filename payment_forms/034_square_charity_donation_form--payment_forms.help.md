@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the "square-charity-donation-form" is likely to collect donation information from donors for a charity, providing a platform for them to specify the amount of their donation, the purpose of their donation, their contact details, and the method of their donation. This form likely aims to collect structured data for further processing or follow-up actions by the charity organization.
-
-This form seems to be designed to cater to various types of donors, allowing them to specify a one-time or recurring donation, and choosing the payment method (e.g., Stripe, PayPal, or Bank Transfer). Additionally, the form asks for donor contact information (Name, Email, Phone, Address, City, State, Zip, and Country) and notes.
-
-Given the presence of multiple "Submit" fields, it might be a form that allows for conditional or dynamic processing based on the user's selections or actions within the form.
-</thinking>
-
 # square-charity-donation-form - Help Guide
 ## Purpose
 The "square-charity-donation-form" is designed to collect donation information from donors for a charity, providing a platform for specifying donation details and contact information.

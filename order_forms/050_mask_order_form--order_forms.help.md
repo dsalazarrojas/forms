@@ -1,11 +1,3 @@
-<thinking>
-The form is likely used for ordering custom face masks. The purpose of this form is to gather information from customers about the type of mask they want, any special face shape considerations, and other relevant details to fulfill their order. This form is intended for both new and existing customers.
-We should confirm that the form is not intended for internal use by the company. If it's an internal form, it might have different fields or be used for administrative purposes.
-It's possible that the form has some duplicate fields that could be consolidated or removed.
-It's also possible that the form has some optional fields that could be made required for certain types of customers or orders.
-This form has a mix of select_one, select_multiple, number, and text fields. Some of these fields might have been designed to be used in conjunction with each other. For example, the mask_size and face_mask_size_id fields might be related, or the shipping field might be dependent on other fields.
-</thinking>
-
 # Mask Order Form - Help Guide
 ## Purpose
 The Mask Order Form is used to collect information from customers about their order preferences for custom face masks. This includes selecting the type of mask, any specific face shape considerations, and other details to fulfill their order.

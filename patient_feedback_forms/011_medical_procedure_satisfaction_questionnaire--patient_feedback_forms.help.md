@@ -1,6 +1,3 @@
-<thinking>
-To ensure that the form is used correctly and efficiently, I will first need to understand its purpose and the context in which it is being used. A quick review of the form's YAML schema reveals that it is designed to gather feedback from patients about their medical procedure experience. The form appears to focus on various aspects of the experience, including the quality of care received from doctors, nurses, and clinicians. However, upon further examination, I notice that the "staff helpfulness" field is rated as "number" type, which may not accurately reflect the intended meaning. Assuming the "staff helpfulness" field is intended to be a subjective rating, I will adjust the label and provide a revised explanation accordingly. I will also consider other fields for clarity and consistency in the form's language and instructions.</thinking>
-
 # Medical Procedure Satisfaction Questionnaire - Help Guide
 ## Purpose
 The Medical Procedure Satisfaction Questionnaire is designed to gather feedback from patients about their experience with a medical procedure. This form helps identify areas of improvement and ensure that patients receive the best possible care.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to provide a summary of payments made and received by an individual or organization. It captures general information, payment details, and status updates. This form should be used when an individual or organization needs to track their payments in a clear and concise manner. To avoid duplicating effort, please ensure that the payment summary form is only filled out for one specific payment or set of payments.
-</thinking>
-
 # payment_summary_form - Help Guide
 ## Purpose
 The payment_summary_form is a form used to gather and display key details about payments made and received by an individual or organization.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the Road Sign Order Form is to collect information for the ordering of custom road signs. This form is used to gather details about the desired road sign, artwork, delivery details, payment method, and payment amount from customers. This form is crucial for the accurate processing of orders and ensuring timely delivery of the road signs.
-</thinking>
-
 # Road Sign Order Form - Help Guide
 
 ## Purpose

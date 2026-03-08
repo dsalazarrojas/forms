@@ -1,11 +1,3 @@
-<thinking>
-To create an efficient and user-friendly help guide for the Reusable Shipping Tote Order Form, let's consider the following:
-
-* The form is designed for customers to provide their shipping tote order details, which includes their personal and shipping information, delivery preferences, and any additional comments.
-* This form is intended for both the customers and the business owners to understand how to place an order for reusable shipping totes.
-* Before proceeding, let's review the form fields and ensure that each field is correctly labeled and understood.
-</thinking>
-
 # Reusable Shipping Tote Order Form - Help Guide
 ## Purpose
 The Reusable Shipping Tote Order Form is designed for customers to provide their shipping tote order details, including their personal and shipping information, delivery preferences, and any additional comments.

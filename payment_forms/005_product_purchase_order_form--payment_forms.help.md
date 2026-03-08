@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a product purchase order, including their personal details, product information, payment method, and order status. This form will be used to process orders in the system.
-
-When creating the form, we aimed to make it easy to complete and to gather the necessary information for order processing. We'll go over each field to ensure you understand what's required and how to complete it accurately. 
-
-Please note that this form may be subject to change based on business needs and requirements. Ensure to refer back to this guide for the most up-to-date information.
-</thinking>
-
 # Product Purchase Order Form - Help Guide
 
 ## Purpose

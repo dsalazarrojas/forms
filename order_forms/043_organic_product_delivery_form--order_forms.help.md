@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be an organic product delivery form, likely intended for customers or users to place an order for organic products. The form should be completed by providing relevant information about the delivery details.
-</thinking>
-
 # organic_product_delivery_form - Help Guide
 ## Purpose
 This form is used to collect information for the delivery of organic products. Please provide the required and optional details as instructed below.

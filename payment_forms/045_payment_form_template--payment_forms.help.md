@@ -1,9 +1,3 @@
-<thinking>
-This form is for collecting payment information from customers.
-To ensure that this form is used correctly, make sure that it is only used for payment purposes. If you are unsure, please review the form requirements with your supervisor or manager.
-This is a generic form template and not a one-size-fits-all solution. Please do not attempt to reuse this form for other purposes without proper review and approval.
-</thinking>
-
 # Payment Form Template - Help Guide
 ## Purpose
 This form is a general payment form used to collect payment information from customers.

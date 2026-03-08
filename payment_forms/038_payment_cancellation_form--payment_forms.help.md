@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to allow users to cancel payments, and we want to make sure that this process is done efficiently and accurately. However, we don't want users to cancel payments without a clear reason, so we're implementing a form to guide them through the process. To ensure that this form is used correctly, we need to clearly communicate its purpose and how to fill it out correctly.
 
 This form is not meant to be used for duplicate payments or to cancel payments without a valid reason. We want to encourage users to think twice before submitting a cancellation request. If a payment is cancelled for the wrong reason or without a valid reason, it may lead to unnecessary delays or additional work for our team.

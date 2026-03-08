@@ -1,9 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to ensure that the purpose and fields are clearly explained to avoid confusion and mistakes. This form is likely part of a sales process, and we should provide instructions on how to fill it out accurately and efficiently.
-The form is meant to gather information about mobile device sales, including seller details, device specifications, pricing, and sales status. We should also provide guidelines on what kind of information to include in each field, taking into account the field types and options.
-This form is designed to be completed by sellers to provide accurate and relevant information about their sales, reducing the likelihood of duplication and ensuring that the sales process is streamlined.
-</thinking>
-
 # Mobile Device Sales Submission - Help Guide
 ## Purpose
 This form is used for sellers to submit sales information about mobile devices, including details about the seller, device specifications, and pricing. This form helps to track and process sales effectively, ensuring accuracy and reducing duplication.

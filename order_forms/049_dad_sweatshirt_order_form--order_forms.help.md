@@ -1,18 +1,3 @@
-<thinking>
-The internal purpose of this form is to gather order information for customized dad sweatshirts. This form likely collects user data for processing and production orders, and may be used by a customer service or sales team to fulfill orders and communicate with customers.
-
-This form should not be filled out if the user is already logged in and is attempting to access the main order page for their account. The user should not have to fill out the entire form if the order is already in progress, as they can resume from where they left off.
-
-The form is divided into two pages: the main form and the submit options.
-
-This form is intended for users to provide basic order information, such as their first and last name, email, phone number, order date and time, and any additional order notes. The form also allows the user to select a color and size, and enter a quantity and total for the order. The "Submit" and "Cancel" options should be available at the end of the form.
-
-The color and size fields should allow the user to select from a pre-defined list of options, and the quantity and total fields should automatically update based on the selected size and color. However, this should be implemented on the server-side, not in the UI.
-
-The form should be clear, concise, and easy to read, with each field explained in detail below.
-
-</thinking>
-
 # Dad Sweatshirt Order Form - Help Guide
 ## Purpose
 

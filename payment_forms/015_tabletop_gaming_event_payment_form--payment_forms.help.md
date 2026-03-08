@@ -1,19 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the input schema provided in the YAML fields. This form appears to be for registering participants in a tabletop gaming event, and it requires various details such as participant name, event name, participant count, event date, and payment method. The form also includes fields for event organizer, event type, and price range, which suggests that the form is used to gather information about the event for payment processing and organization purposes. This form likely serves as an interface for collecting data from participants, organizers, and event attendees for a tabletop gaming event.
-
-The form has 17 fields, with some fields being required while others are optional. The required fields include event name, participant name, price, event date, participant count, email, and phone. The optional fields include payment method, event organizer, participant details, participant info, participant type, event time, price range, and event type. This form seems to be designed to collect comprehensive information about the event and its participants, likely for administrative and logistical purposes.
-
-To confirm, let's assume the following use cases:
-
-- A participant fills out the form to register for a tabletop gaming event.
-- An event organizer uses the form to manage event information and payment details for participants.
-- The form is used to process payment for the event.
-
-If the above assumptions are valid, this form's purpose is clear and focused on collecting event and participant information for payment and event management purposes.
-
-</thinking>
-
 # Tabletop Gaming Event Payment Form - Help Guide
 ## Purpose
 The Tabletop Gaming Event Payment Form is used to collect information from participants for a tabletop gaming event, including event name, participant details, payment method, and other relevant data. This form helps event organizers gather necessary details for payment processing and event management.

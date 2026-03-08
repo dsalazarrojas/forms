@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's pain management plan and follow-up care after discharge from a healthcare facility. It aims to gather details about the patient's pain assessment, medical history, and plans for future care. The purpose of this form is to ensure that patients receive appropriate pain management and follow-up care upon discharge, reducing the risk of complications and improving outcomes.
-
-When completing this form, please note that the fields are organized in a logical order to facilitate easy navigation. However, if you have any questions or concerns, please refer to the section "Tips" at the end of this guide for additional guidance.
-
-</thinking>
-
 # pain_management_discharge_form - Help Guide
 
 ## Purpose

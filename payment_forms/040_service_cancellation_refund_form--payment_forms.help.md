@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for customers to initiate a refund request for a cancelled service. The form allows customers to provide details about the cancellation reason, refund amount, and refund method. Additionally, the form captures information about the customer and the service agent handling the refund request. The form is designed to be completed by the customer and is not intended for internal use by service agents.
-
-</thinking>
-
 # service_cancellation_refund_form - Help Guide
 ## Purpose
 This form is for customers to initiate a refund request for a cancelled service.

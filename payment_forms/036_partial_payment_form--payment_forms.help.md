@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Partial Payment Form - Help Guide
 
 ## Purpose

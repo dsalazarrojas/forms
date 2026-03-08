@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ferpa Release Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We are building a system that allows users to donate to the Arts Program and we want to make sure they understand how and why this form works. The main purpose of this form is to collect information from donors, including their contact details, donation preferences, and payment methods. We aim to ensure that the user experience is smooth and straightforward, and that the information collected is relevant and accurate. This form should not be used for any other purpose.
-</thinking>
-
 # Arts Program Donation Form - Help Guide
 ## Purpose
 The Arts Program Donation Form is designed to collect donations from individuals and organizations to support various arts programs. Please fill out this form to submit your donation.

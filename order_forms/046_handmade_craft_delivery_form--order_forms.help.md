@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect customer information, order details, and payment information for handmade craft delivery. 
-The form consists of 7 fields, each with a specific purpose. To complete the form correctly, it is essential to understand the purpose and requirements of each field.
-
-</thinking>
-
 # Handmade Craft Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from customers for handmade craft delivery. It includes fields for customer information, order details, payment information, and a signature confirmation.

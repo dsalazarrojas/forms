@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, let's review the form purpose before creating the help guide. The medical billing form is designed to collect necessary information for medical billing purposes. This form likely involves submitting claims, making payments, or tracking billing status. It's essential to understand that the form's fields are intended to be filled out for this purpose only.
-</thinking>
-
 # medical_billing_form - Help Guide
 
 ## Purpose

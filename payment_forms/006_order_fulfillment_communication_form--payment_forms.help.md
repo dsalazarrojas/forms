@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for internal use within an organization to gather information from customers regarding the status of their orders. It's intended for customers to communicate with the fulfillment team about their orders, and to input information such as their name, order ID, communication method, order status, and other relevant details. The form is structured to gather accurate and efficient data from customers, which can help the fulfillment team update the order status and resolve any issues that may have arisen during the fulfillment process. 
-
-Before filling out this form, please ensure that you are not duplicating a previous communication with the customer, as this may cause confusion and delay the resolution of the issue.
-
-To avoid any potential issues, please fill out the form completely and accurately, paying attention to the following:
-- Only select one communication method.
-- Only choose one order status.
-- If 'Reason for non-fulfillment' is not applicable, it's optional.
-</thinking>
-
 # Order Fulfillment Communication Form - Help Guide
 ## Purpose
 

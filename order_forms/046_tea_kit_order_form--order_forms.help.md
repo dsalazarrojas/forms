@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering a tea kit. A tea kit is a collection of tea items that are shipped together. The purpose of this form is to gather information from the customer to process and fulfill their order. This form will be used for ordering a tea kit, but it's not designed for other types of orders or other products. It's assumed that the customer is ordering a tea kit, and the form will only be used for this specific purpose. This form does not need to be filled out for other types of orders.
-</thinking>
-
 # tea_kit_order_form - Help Guide
 ## Purpose
 The "tea_kit_order_form" is used to order a tea kit. This form is designed to gather information from the customer to process and fulfill their order.

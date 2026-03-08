@@ -1,21 +1,3 @@
-<thinking>
-You can now create a user-facing help guide for this form. To do this, we must first understand the form's purpose and how it will be used by end-users.
-
-This form appears to be an order form for a race photographer package, which is likely a package of services and products related to capturing and documenting race events. Given the form's structure, it seems to gather information about the photographer's contact details, package selections, and other relevant details.
-
-Before creating the form, let's consider the following:
-
-* The form has 25 fields, which seems excessive. It's possible that some of these fields could be consolidated or removed.
-* Some field labels are unclear or redundant. For example, "race_photographer_package_order_form_1" and "race_photographer_package_order_form_5" could be renamed to make them more descriptive.
-* The form has a mix of text, email, number, date, and select fields, which suggests that it's not a simple contact form.
-* The "required" property is set to "false" for most fields, which could indicate that the form is not critical for the photographer's work.
-
-To provide a clear and concise help guide, let's focus on the most important fields and simplify the language to make it easy for end-users to understand.
-
-After reviewing the form, I'll create a user-facing help guide that includes the purpose, how to complete it, and a field-by-field explanation.
-
-</thinking>
-
 # Race Photographer Package Order Form - Help Guide
 ## Purpose
 This form is used to place an order for a race photographer package, which includes capturing and documenting race events. Please complete this form to provide your contact information and select the services and products you require.

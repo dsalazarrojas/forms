@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for schools to pre-order and manage their visits, allowing them to provide information about the visit, order details, and payment methods. It is a text-based form with several pages of input fields. The form's purpose is to simplify the process of pre-ordering and managing school visits, making it easier for schools to coordinate and execute their visits.
-The form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI and is an original adaptation of public survey topic metadata. It can be used and modified as per the user's needs and requirements.
-</thinking>
 # School Visit Pre Order Form - Help Guide
 ## Purpose
 This form is designed to help schools pre-order and manage their visits by providing a simple and structured way to collect information about the visit, order details, and payment methods.

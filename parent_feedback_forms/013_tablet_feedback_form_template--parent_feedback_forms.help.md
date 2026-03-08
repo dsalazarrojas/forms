@@ -1,14 +1,3 @@
-<thinking>
-
-The purpose of the "Tablet Feedback Form Template" is to gather information from teachers about their experiences with tablets, which can be used for improving the tablet-usage program in educational institutions.
-
-To confirm this form's intent and purpose: 
-- Gathering teacher feedback on how they use tablets in their classroom, which can include their experiences with technical issues, usage, and overall satisfaction.
-- This form template seems to be a simple, general purpose form with limited fields, possibly intended for gathering qualitative feedback or basic data.
-- There are no explicit indicators of sensitive or regulated data, such as payment or personal identifiable information, which suggests that the form might not be collecting personal or sensitive data.
-
-</thinking>
-
 # Tablet Feedback Form Template - Help Guide
 ## Purpose
 This form is designed to gather feedback from teachers about their experiences with tablets. It will help us understand how teachers use and perceive tablets in their classrooms, allowing us to make informed decisions to improve the tablet-usage program.

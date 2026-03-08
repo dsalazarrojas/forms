@@ -1,9 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for the "neuropathy_treatment_feedback_survey" form. This form is designed to collect feedback from patients about their experience with a specific treatment for neuropathy. The form's purpose is to gather information on the patient's perception of their treatment's effectiveness, any side effects they have experienced, and their overall satisfaction with the treatment.
-
-To ensure that this form is used correctly, let's check if similar forms exist that might have been created already or if there's an existing process that can be leveraged for creating the content of this form. If so, we might be able to repurpose or modify an existing one, rather than creating a new one from scratch.
-</thinking>
-
 # neuropathy_treatment_feedback_survey - Help Guide
 ## Purpose
 The neuropathy_treatment_feedback_survey form is designed to collect feedback from patients about their experience with a specific treatment for neuropathy. This feedback is crucial for healthcare professionals to understand the effectiveness and side effects of the treatment, and to make informed decisions for future patients.

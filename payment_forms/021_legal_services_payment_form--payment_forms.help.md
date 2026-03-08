@@ -1,10 +1,3 @@
-<thinking>
-To create a user-friendly and informative help guide for the Legal Services Payment Form, I'll base the explanation on the provided YAML fields and aim for conciseness and concreteness. I'll also make sure to explain unclear or weak field labels in a way that's grounded in the form's purpose and functionality.
-
-The form, titled "Legal Services Payment Form," likely serves as a means for clients to provide payment information for legal services rendered. This form might be used by lawyers or law firms to collect payment details from clients for various legal services, such as consultations, document preparation, or representation. The form's purpose is to gather essential information about the client, the service, and the payment method, ensuring accurate and efficient payment processing.
-
-</thinking>
-
 # Legal Services Payment Form - Help Guide
 ## Purpose
 The Legal Services Payment Form is designed to collect payment information from clients for various legal services. This form helps ensure accurate and efficient payment processing for services rendered by lawyers or law firms.

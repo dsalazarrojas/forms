@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lice Infestations Patient Intake Form - Help Guide
 ## Purpose
 This form is used to collect information from patients regarding their lice infestations. The form is designed to gather data on the patient's contact information, medical history, lice symptoms, and treatment history. This information will be used to track and manage patient treatment and progress.

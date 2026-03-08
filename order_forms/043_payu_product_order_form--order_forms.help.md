@@ -1,6 +1,3 @@
-<thinking>
-To determine the purpose of this form and check for non-duplication, I will review the provided fields and consider typical use cases for such forms. Based on the YAML, I see that this form is designed for placing orders. The form appears to be for a retail or customer-facing application where a customer can place orders for products. The fields suggest collecting basic contact information (First Name, Last Name, Email, Phone), date and time for the order, payment method, and a note field for additional comments. The "products" field suggests that customers can select multiple products, likely for an order with multiple items. The total field implies that the total cost of the order will be calculated based on the products selected. This form does not seem to be duplicated in the existing catalog or knowledge base.</thinking>
-
 # PayU Product Order Form - Help Guide
 ## Purpose
 This form is designed to collect order information from customers, allowing them to place orders for products. It gathers necessary details such as contact information, order date and time, payment method, and products selected for the order.

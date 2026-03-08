@@ -1,8 +1,3 @@
-<thinking>
-This form is a comprehensive patient intake form designed for telemedicine services. It collects patient information, medical history, medical conditions, medications, allergies, patient notes, emergency contact information, and other relevant details. The form is intended to be completed by patients themselves or their authorized representatives, providing a thorough understanding of the patient's health status, medical history, and contact information. This form is typically used in telemedicine settings where patients may not be physically present and is essential for healthcare providers to gather necessary information to provide effective care.
-
-</thinking>
-
 # telemedicine_patient_intake_form - Help Guide
 ## Purpose
 This form is designed to collect patient information for telemedicine services, ensuring that healthcare providers have a comprehensive understanding of the patient's health status and needs.

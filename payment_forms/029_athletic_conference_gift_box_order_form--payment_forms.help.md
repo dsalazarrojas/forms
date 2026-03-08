@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help athletic conference organizers order gift boxes for their events. To determine if this form is relevant for your event, please check if you are an event organizer or if you are ordering gift boxes for a conference, athletic event, or school function. This guide will walk you through the steps to complete the form and explain each field in detail.
-
-</thinking>
-
 # Athletic Conference Gift Box Order Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from donors about their job training donations, specifically about the amount donated, the donor's details, and the frequency of the donation. This form ensures that the donor's information is accurate and up-to-date, which is crucial for the organization's record-keeping and reporting needs. To avoid confusion, please note that this form is not intended for general donations; it is specifically designed for job training donations.
-
-The form is designed to be completed by the donor, and the information collected will be used to process and track the donation. Each field has been carefully crafted to ensure that the necessary information is collected, and the explanations below will guide the user through the process.
-
-</thinking>
-
 # Job Training Donation Form - Help Guide
 ## Purpose
 The Job Training Donation Form is designed to collect information from donors who are making a job training donation to the organization. This form helps to track and process the donation accurately and efficiently.

@@ -1,5 +1,3 @@
-<thinking>...Internal note to myself: The purpose of this form is to gather information for a tombstone order. It will likely be used by a company that specializes in monument and tombstone production or installation. The form asks for various details such as the type of tombstone, headstone, monument, and other products to be ordered. It also includes fields for contact information and special instructions for the order. I will now create the help guide based on this...</thinking>
-
 # Tombstone Order Form - Help Guide
 ## Purpose
 The Tombstone Order Form is used to gather information for a tombstone order. It is designed to be filled out by a customer or contact person for a company that specializes in monument and tombstone production or installation.

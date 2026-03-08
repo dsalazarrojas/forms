@@ -1,4 +1,4 @@
-<thinking>**This form is for medical board discharge, which is a process to let patients know what to do after leaving the medical board, and how they should follow up on their care. It is designed for patients being discharged from hospitals or medical boards. The form should be used for patients who are being discharged from a hospital after receiving treatment. It is not intended for patients being discharged from other types of institutions or boards not related to medical care. This form is intended for one-time use and should not be used for patients discharged multiple times. **</thinking>**
+**
 
 # Medical Board Discharge Form - Help Guide
 ## Purpose

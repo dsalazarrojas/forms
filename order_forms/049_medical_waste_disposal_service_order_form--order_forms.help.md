@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly to prevent any confusion or misinterpretation of the form's purpose. This form is used to order medical waste disposal services for various types of medical waste, including pharmaceuticals, biological, sharps, anatomical, and infectious waste. We need to verify that each field is filled in accurately and consistently to ensure that the service is provided correctly. This form should not be used for other purposes, such as scheduling appointments or making payments.
-</thinking>
-
 # Medical Waste Disposal Service Order Form - Help Guide
 ## Purpose
 This form is used to order medical waste disposal services for various types of medical waste. It is essential to complete this form accurately to ensure that your medical waste is handled and disposed of correctly.

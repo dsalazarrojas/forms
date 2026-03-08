@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information related to the return of an e-commerce product, allowing customers to provide details about their return request, including customer information, order details, and return reason. This form will help the customer service team to process returns efficiently and resolve any issues.
 
 # e_commerce_returns_automation_application_form - Help Guide

@@ -1,10 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-The form is designed to collect user information for music streaming subscriptions. The form will be used to gather details about the user's music streaming preferences, payment information, and subscription plan options. The form is composed of multiple pages, each with a specific set of fields that need to be filled out. The form is not intended for payment processing, but rather to gather user feedback and preferences.
-
-</thinking>
-
 # Music Streaming Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect information about your music streaming preferences and subscription details.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect donations for the senior care initiative. The purpose of this form is to gather information from individuals who wish to donate money or other resources to support the senior care initiative.
-To complete this form, follow the instructions on each field carefully. If you have any questions or concerns, please contact your supervisor or the initiative team for assistance.
-Please note that this form is designed for internal use only, and the information collected will not be shared publicly. All donations are confidential.
-</thinking>
-
 # senior_care_initiative_donation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect donations for the senior care initiative, a program aimed at supporting local seniors.

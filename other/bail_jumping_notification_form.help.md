@@ -1,12 +1,3 @@
-<thinking>
-We need to create a help guide for the "untitled_form" form, which is part of the "SurveyTemplates" category. This form appears to be used for reporting incidents, such as bail jumping or other events. Before creating the help guide, we need to ensure that we understand the form's purpose and the fields it contains.
-
-Based on the provided YAML, it seems that this form is for collecting information about incidents, including the date, time, location, and details about the incident. The form also includes fields for uploading documents, selecting a reporting agency, and choosing supporting documents. There may be a need for a review of the form to check for duplication of fields and ensure that it is not being used for a different purpose than intended.
-
-It's also worth noting that some fields seem to be duplicate or similar in nature, such as "incident_date" and "incident_date_2", which may need to be reviewed for potential merge or removal.
-
-Assuming the form is intended for collecting incident reports, we can proceed with creating the help guide.</thinking>
-
 # untitled_form - Help Guide
 ## Purpose
 The "untitled_form" is a survey template used to collect information about incidents, such as bail jumping or other events.

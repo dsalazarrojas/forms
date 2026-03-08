@@ -1,8 +1,3 @@
-<thinking>
-The product order form is designed to gather information about a product order from a customer. This form will help us to understand their product preferences and ensure that we have all the necessary details to process the order correctly. Please make sure to fill in the form accurately and thoroughly, as it will help us to provide the best possible service. 
-
-</thinking>
-
 # product order form - Help Guide
 ## Purpose
 The product order form is a tool used to collect information about a customer's product order. It includes fields for order details, product selection, quantity, payment method, shipping address, product name, product price, product description, shipping date, shipping time, email, and phone number.

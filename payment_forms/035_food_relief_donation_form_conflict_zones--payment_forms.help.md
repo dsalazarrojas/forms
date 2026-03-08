@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to donate to support food relief efforts in conflict zones around the world. The form allows users to select the specific conflict zones they wish to support, enter the amount they wish to donate, choose their preferred payment method, and provide additional details such as the date and time of the donation, as well as any notes about their donation. The form also asks for contact information in case the user prefers to be contacted about their donation or has further questions. The form is meant to be completed by individuals who wish to make a one-time or recurring donation. The form does not ask for sensitive information or require users to create an account. The form will not be used for soliciting donations for personal gain or for any other purpose than supporting food relief efforts in conflict zones. The form is a one-time use form, and users will not be able to reuse it to make another donation without restarting the form. The fields in this form are designed to be self-explanatory, but the following help guide is provided as a reference for users who may need additional guidance or clarification.
-</thinking>
-
 # Food Relief Donation Form (Conflict Zones) - Help Guide
 ## Purpose
 This form is designed to collect information from users who wish to donate to support food relief efforts in conflict zones around the world.

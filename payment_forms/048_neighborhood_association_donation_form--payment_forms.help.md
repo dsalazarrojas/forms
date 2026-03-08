@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Neighborhood Association Donation Form - Help Guide
 ## Purpose
 This form is for collecting donations from neighborhood association members.

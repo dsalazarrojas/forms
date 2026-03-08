@@ -1,8 +1,3 @@
-<thinking>
-The form "mental_health_therapy_reimbursement_claim_form" is designed to help individuals submit claims for reimbursement related to mental health therapy. This form is intended for patients who have received mental health services and wish to request reimbursement from their insurance provider. Before filling out this form, ensure that you have reviewed your insurance policy and understand that the information provided will be used to process your claim.
-
-</thinking>
-
 # mental_health_therapy_reimbursement_claim_form - Help Guide
 ## Purpose
 This form is used to submit a claim for reimbursement related to mental health therapy. Please fill out this form with accurate and up-to-date information to ensure a smooth and efficient claim processing process.

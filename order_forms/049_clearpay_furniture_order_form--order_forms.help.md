@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for the purpose of placing an order for furniture. The form is intended for customers to provide their personal and shipping information, select the furniture items they wish to purchase, and provide any additional details or customization requests. This form is not intended for internal use within the company, and all fields are optional.
-</thinking>
-
 # Clearpay Furniture Order Form - Help Guide
 ## Purpose
 This form is used for customers to place an order for furniture by providing their personal and shipping information, selecting the items they wish to purchase, and providing any additional details or customization requests.

@@ -1,7 +1,3 @@
-<thinking>
-The Desktop Calendar Order Form is a comprehensive online form designed to collect detailed customer information for orders and payments made for desktop calendar purchases. This form is intended for customers to enter their contact and shipping information, as well as the specifics of their order and payment preferences. To determine if this form is applicable to a particular situation or process, consider whether the form fields are relevant to your specific use case and if the form is not already covered by another form. In general, this form should be used when customers need to provide their personal and shipping details for desktop calendar orders.
-</thinking>
-
 # Desktop Calendar Order Form - Help Guide
 ## Purpose
 The Desktop Calendar Order Form is a form used to collect customer information and order specifics for desktop calendar purchases.

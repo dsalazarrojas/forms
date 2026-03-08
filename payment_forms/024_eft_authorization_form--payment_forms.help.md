@@ -1,12 +1,3 @@
-<thinking>
-The EFT Authorization Form is used to authorize electronic funds transfers between a business and its bank. It's a crucial document that ensures the legitimacy and authenticity of the business's identity and financial information. This form should only be used when you have a legitimate business relationship with your bank, and you need to confirm your business's details for EFT purposes. Please ensure you're not submitting this form for other purposes to avoid any potential risks of identity theft or financial misrepresentation.
-
-This form requires you to enter your business's details, authorization details, and other relevant information for electronic funds transfer purposes. Please ensure you provide accurate and up-to-date information to avoid any discrepancies or errors.
-
-Before you start, please review the fields below and fill them in accurately and completely.
-
-</thinking>
-
 # EFT Authorization Form - Help Guide
 ## Purpose
 The EFT Authorization Form is a document used to authorize electronic funds transfers between a business and its bank. It ensures the legitimacy and authenticity of the business's identity and financial information.

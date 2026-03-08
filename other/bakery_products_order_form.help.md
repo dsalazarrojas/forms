@@ -1,7 +1,3 @@
-<thinking>
-This form will serve as a template for collecting information from customers. It is designed to gather basic order details and customer contact information. This form will not be used for any other purpose. 
-</thinking>
-
 # untitled_form - Help Guide
 ## Purpose
 The untitled_form is a basic order information template. It is intended to collect order details and customer contact information.

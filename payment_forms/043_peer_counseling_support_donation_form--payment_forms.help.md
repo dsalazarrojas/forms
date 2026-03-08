@@ -1,14 +1,3 @@
-<thinking>
-The "peer_counseling_support_donation_form" form is intended to collect information from donors who want to support a peer counseling program. This form likely exists to facilitate donations from individuals who want to contribute to the program's funds, and the form's fields are designed to gather essential details about the donor and their donation preferences. 
-
-The form appears to be a simple donation form with a mix of text fields, selection fields, and a date field. To avoid redundancy, it is recommended to review the existing documentation before proceeding to this form.
-
-This form does not have any complex conditional logic or validation rules specified in the inputSchema, suggesting that it's meant for basic data collection and submission purposes.
-
-Before continuing, please review the form's fields carefully and ensure that this is the correct form for your purpose.
-
-</thinking>
-
 # peer_counseling_support_donation_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for placing an electronic product order through the Afterpay payment option. The form requires a buyer's details, including their name, email for receipt purposes, and product model or SKU. The buyer must also select if a warranty is required, choose the quantity of units to purchase, select the shipping option, and pay with Afterpay. Lastly, the buyer must provide their delivery address and may optionally add additional notes. This form checks for non-duplication, meaning the buyer cannot place the same order twice. The purpose of this form is to ensure accurate and secure electronic product orders through Afterpay payment.
-</thinking>
-
 # Afterpay Electronic Product Order Form - Help Guide
 ## Purpose
 The Afterpay Electronic Product Order Form is used to place electronic product orders securely and accurately through the Afterpay payment option. It ensures that buyers provide their necessary details for order processing and receipt delivery.

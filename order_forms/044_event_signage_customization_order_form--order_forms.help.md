@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help customers customize their event signage orders. It collects information about the event name, type, location, date, and time. Additionally, it allows users to select the type of signage, color scheme, font size, font color, and font style they would like to have for their event. Finally, it asks if they want to include any additional custom design elements.
-
-</thinking>
-
 # Event Signage Customization Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for event signage customization orders. Fill out this form to provide details about your event and specify your preferences for the signage design.

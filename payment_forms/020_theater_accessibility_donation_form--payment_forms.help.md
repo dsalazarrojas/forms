@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donations from individuals or organizations to support theater accessibility initiatives. The form is intended for people who wish to contribute to making theater performances more accessible and inclusive for everyone. This form will collect information on whether the individual or organization wishes to donate, the amount of the donation, the preferred payment method, contact email, name, a personal message, and the preferred date and time for the performance they would like to support.
-</thinking>
-
 # Theater Accessibility Donation Form - Help Guide
 ## Purpose
 The Theater Accessibility Donation Form is used to collect donations from individuals or organizations to support making theater performances more accessible and inclusive for everyone.

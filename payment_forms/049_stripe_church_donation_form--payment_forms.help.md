@@ -1,13 +1,3 @@
-<thinking>
-This form is used to collect donations from users for a church, allowing them to specify the purpose of their donation, the amount, and the payment method. The form is designed to be flexible, allowing users to choose between one-time and regular donations, as well as different payment methods. The purpose of this form is to simplify the donation process for users and provide a convenient way for the church to track and manage donations.
-
-This form will only be filled out by users who need to make a donation, so it is not applicable to users who are simply browsing the church's website.
-
-This form is a critical part of the church's online donations system, and understanding how to fill it out will help users make a donation in the most effective and efficient way possible.
-
-The form consists of several fields that need to be filled out in order to complete the donation process.
-</thinking>
-
 # stripe_church_donation_form - Help Guide
 ## Purpose
 The purpose of this form is to collect donations from users for the church. It allows users to specify the purpose of their donation, the amount, and the payment method.

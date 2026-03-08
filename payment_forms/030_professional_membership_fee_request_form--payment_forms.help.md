@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information from organizations that wish to request a professional membership fee from the organization. This form is usually filled out by the organization's representative who is making the request. It's essential to ensure that the form is completed accurately to avoid errors in processing the request. To prevent duplicate requests, please check that the organization has not already submitted a request before filling out this form.
-
-</thinking>
-
 # Professional Membership Fee Request Form - Help Guide
 ## Purpose
 The Professional Membership Fee Request Form is used by organizations to request a professional membership fee from the organization. This form is designed to collect information about the organization and their request.

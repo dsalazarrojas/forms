@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ประก - Help Guide
 ## Purpose
 This form is designed to capture order information for a customer order system. It gathers details such as customer contact information, order date and time, items, quantities, and total prices. This form is used for creating, editing, or updating orders within the system.

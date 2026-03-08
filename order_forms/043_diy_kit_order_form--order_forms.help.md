@@ -1,10 +1,3 @@
-<thinking>
-This form is for end-users to place orders for DIY kits. It requires information such as category, customer details (name, email, phone, address, and location), order details (date and total), and payment method.
-
-This form appears to be a standard order form designed for customers to place orders for DIY kits. Before proceeding, ensure that you are not duplicating an order or submitting a duplicate form with incorrect information. If you are unsure, please reach out to the form administrator for guidance.
-
-</thinking>
-
 # DIY Kit Order Form - Help Guide
 ## Purpose
 The DIY Kit Order Form is designed to collect information from customers to place orders for DIY kits. This form will help gather essential details such as customer contact information, order date, and payment method.

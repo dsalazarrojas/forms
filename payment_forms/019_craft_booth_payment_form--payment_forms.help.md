@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # craft_booth_payment_form.report - Help Guide
 
 ## Purpose

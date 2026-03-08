@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creator Payment Setup Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from creators regarding their payment setup preferences and requirements. It aims to gather details about their general information, payment information, bank details, tax identification information, creator information, agreement terms, and onboarding details.

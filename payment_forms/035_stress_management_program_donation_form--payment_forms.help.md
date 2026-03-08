@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for a form that collects donations for a stress management program. The form is designed to gather information about the donor's donation amount, frequency, method, name, email, phone number, and any additional comments. This form is likely used by individuals or organizations interested in supporting the stress management program, such as businesses, individuals, or other external partners. Before proceeding, please ensure that you have the necessary permissions and authority to complete this form.
-</thinking>
-
 # Stress Management Program Donation Form - Help Guide
 
 ## Purpose

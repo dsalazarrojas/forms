@@ -1,9 +1,3 @@
-<thinking>
-
-As an expert form designer and technical writer, I need to create a user-facing help guide for the "Thanksgiving Feasts Template" form. This form is designed to collect information for a special occasion such as Thanksgiving. Upon reviewing the input schema, I notice that it includes fields for guests, main dish, side dishes, dessert, event time, location, contact details, and notes. To ensure that users understand the form's purpose and complete it correctly, I'll aim to provide clear and concise explanations for each field.
-
-</thinking>
-
 # Thanksgiving Feasts Template - Help Guide
 ## Purpose
 The Thanksgiving Feasts Template is a form designed to collect information for a Thanksgiving event. This form helps gather essential details such as guest lists, meal preferences, event specifics, and contact information to make your Thanksgiving celebration smooth and enjoyable.

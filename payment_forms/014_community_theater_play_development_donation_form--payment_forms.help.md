@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear understanding of the purpose and functionality of the Community Theater Play Development Donation Form. The form is designed to collect information from donors to support the development of community theater plays. By filling out this form, donors can specify their name, contact information, and donation details, including the amount, frequency, and purpose of their contribution. The form also includes fields for recognition preferences, payment method, and any additional comments or dedications. Donors can also indicate if they would like to receive a tax receipt or the theater's newsletter. The form is required for all donations, and the information collected will help the theater to acknowledge and thank donors appropriately.
-
-Donors must agree to the terms and conditions of donation, which is a mandatory field. Donors can choose how they would like to be recognized, which may include having their name displayed in the program, on the donor wall, or on the website. The form also allows donors to specify any additional comments or dedications they would like to include with their donation.
-</thinking>
-
 # Community Theater Play Development Donation Form - Help Guide
 ## Purpose
 The Community Theater Play Development Donation Form is designed to collect information from donors to support the development of community theater plays. By filling out this form, you will be able to specify your donation details, recognition preferences, and contact information.

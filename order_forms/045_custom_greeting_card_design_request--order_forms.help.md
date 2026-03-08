@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a custom greeting card design request. The form is used for users to input their preferences for a custom greeting card, including the design style, image, and delivery details. The form is divided into different sections, each with its own set of fields that require specific information from the user.
-
-The form is used when an employee needs to order a custom greeting card for a special occasion.
-
-</thinking>
-
 # custom_greeting_card_design_request - Help Guide
 ## Purpose
 The purpose of this form is to collect information for custom greeting card design requests.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to assist radiologists and other medical professionals in accessing and requesting radiology reports from a centralized database. The purpose of this form is to provide a standardized way to retrieve reports for patients, allowing for efficient and accurate reporting. To avoid duplication, the form will only accept unique patient IDs and report IDs.
-
-Form fields can be filled in sequentially, with each field serving a specific purpose. This guide will walk you through the process of completing the form step-by-step.
-
-</thinking>
-
 # radiology_report_access_form - Help Guide
 ## Purpose
 The radiology_report_access_form is used to access and request radiology reports for patients from a centralized database. This form is designed to efficiently and accurately provide radiology reports, and to prevent duplicate requests.

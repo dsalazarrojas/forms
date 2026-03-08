@@ -1,6 +1,3 @@
-<thinking>
-The form is designed for users to register their subscription renewal reward by providing personal details such as their name, contact information, and reward preferences. The form is divided into different sections to make it easy to fill out. The fields are: first and last name, email address, phone number, rewards, address, city, state, zip code, date of birth, and notes. Some fields have multiple entries for secondary rewards registration. Please make sure to fill out the form correctly and carefully. Please note that some fields are not required if you are not registering a secondary reward.</thinking>
-
 # Subscription Renewal Reward Registration Form - Help Guide
 ## Purpose
 This form is used to register your subscription renewal reward. Please fill out the form with your personal details and reward preferences.

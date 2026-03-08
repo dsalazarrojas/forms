@@ -1,10 +1,3 @@
-<thinking>
-This form is used for linking customer orders with payment information, allowing the user to track and manage customer orders. It ensures that order details are complete and accurate, and that payment methods and status are properly recorded. This form will help reduce errors and ensure that customer orders are up-to-date and easily managed.
-
-The main reasons for this form are to prevent duplication of customer orders and to ensure that order details are properly recorded. This form should only be used for linking existing customer orders.
-
-</thinking>
-
 # link_order_form - Help Guide
 ## Purpose
 The link_order_form is used for linking customer orders with payment information, allowing the user to track and manage customer orders.

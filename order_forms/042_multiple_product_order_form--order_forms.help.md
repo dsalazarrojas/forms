@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and functionality of the "multiple_product_order_form" form. The form is designed to collect information for multiple product orders, allowing users to manage and process orders efficiently. It is crucial to complete this form accurately, as the provided information will be used for order management and communication with customers. Before proceeding, ensure you have all the necessary details and permissions to complete the form without duplication or inaccuracies.
-</thinking>
-
 # multiple_product_order_form - Help Guide
 ## Purpose
 The "multiple_product_order_form" form is designed to collect information for multiple product orders. This form is used to gather details about customers' orders, including products chosen, shipping information, and other relevant details. It is essential to fill out the form accurately to ensure that orders are processed correctly and communicated effectively with customers.

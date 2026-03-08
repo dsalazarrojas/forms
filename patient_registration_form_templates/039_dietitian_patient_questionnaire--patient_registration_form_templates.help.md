@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to collect information from patients about their dietitian experience, including medical history and contact details. This form will not duplicate any other form with the same purpose and title in the system. The form is an original adaptation and will not copy or use proprietary content from any form platform.
-</thinking>
-
 # dietitian_patient_questionnaire - Help Guide
 ## Purpose
 The dietitian_patient_questionnaire form is used to collect information from patients about their medical history, contact details, and nutrition habits. This information will help dietitians understand their patients' needs and provide better care.

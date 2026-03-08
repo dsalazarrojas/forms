@@ -1,9 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-The pediatric discharge form is a crucial document that captures essential information about the discharge of a pediatric patient from the hospital. Its purpose is to ensure that the necessary details are properly recorded for the patient's follow-up care and for future reference. This form should be completed accurately and thoroughly to prevent errors and ensure the best possible outcome for the patient.
-
-</thinking>
-
 # pediatric_discharge_form - Help Guide
 ## Purpose
 The pediatric discharge form is a document used to record the details of a pediatric patient's discharge from the hospital, including the discharge date, time, and parent's contact information. It ensures that the necessary information is properly documented for follow-up care and future reference.

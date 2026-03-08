@@ -1,10 +1,3 @@
-<thinking>
-To determine whether this form is relevant and to prevent duplication of refunds, the system will check the customer's order status and ensure that the order has not already been refunded or cancelled. 
-This form is intended to allow customers to request a refund for an order they may have made in error or that was not delivered as expected. 
-Refund requests will be reviewed and processed in accordance with the store's refund policy. 
-Please note that only valid refund requests will be processed, and any requests made in bad faith or for duplicate refunds will be denied. 
-</thinking>
-
 # Exclusive Access Refund Form - Help Guide
 ## Purpose
 This form is designed to help customers request a refund for an order that may not have been fulfilled as expected. 

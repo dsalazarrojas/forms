@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to capture feedback and information about a patient's discharge from the maternity ward. The form is intended to be completed by the staff who are directly involved in the patient's care, and it serves as a way to gather valuable insights and feedback from the staff to improve the care and services provided to patients. The form should be completed after a patient's discharge to ensure that all necessary information is collected and to prevent duplication of effort.
-
-The purpose of this form is to collect feedback on the quality of care provided to the patient during their stay in the maternity ward, including comments from the patient and staff members directly involved in the patient's care.
-
-To complete this form, follow the instructions below:
-
-</thinking>
-
 # Maternity Ward Discharge Feedback Form - Help Guide
 ## Purpose
 The Maternity Ward Discharge Feedback Form is designed to gather feedback from staff members who are directly involved in the patient's care. The form is intended to improve the quality of care and services provided to patients.

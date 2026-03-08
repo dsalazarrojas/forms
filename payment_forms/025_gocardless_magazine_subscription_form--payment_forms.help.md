@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed for users to subscribe to a magazine service. The form collects user's personal information, payment details, and subscription preferences such as frequency, status, plan, and address information. This information will be used to process the subscription and configure the user's account settings.
-</thinking>
-
 # GoCardless Magazine Subscription Form - Help Guide
 ## Purpose
 This form is used to subscribe to a magazine service. To get started, please follow the steps below.

@@ -1,11 +1,3 @@
-<thinking>
-Please note that the purpose of the form is to gather information related to private jet travel, including travel details, passenger information, and payment terms. The form should be completed by users who need to book private jet services.
-
-Before proceeding, please ensure that you have a valid purpose for submitting this form. This form is for booking private jet travel, and any information provided will be used to process and facilitate the booking process.
-
-Please note that this form is not intended for duplicate submissions. If you have already submitted this form, please do not submit it again.
-</thinking>
-
 # private_jet_booking_form - Help Guide
 ## Purpose
 This form is used to book private jet travel services. It gathers information about the travel details, passenger information, and payment terms to facilitate the booking process.

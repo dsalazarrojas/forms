@@ -1,5 +1,3 @@
-<thinking>... The untitled_form form is a generic form used for general screening purposes. It's designed to collect multiple types of input, including text, date, time, email, phone, select and integer, decimal and note, for users to input their information. This form is intended to be used in various scenarios, such as data collection, user feedback, and other general screening activities. It's essential to ensure that each field is properly filled out to avoid data inconsistencies and errors. Before proceeding, please review this guide to understand the purpose and requirements of each field. If you're unsure about any field, refer to this guide for guidance. </thinking>
-
 # untitled_form - Help Guide
 ## Purpose
 The untitled_form is a generic form used for general screening purposes.

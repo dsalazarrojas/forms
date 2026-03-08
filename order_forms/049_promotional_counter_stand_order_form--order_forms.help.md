@@ -1,12 +1,3 @@
-<thinking>
-This form is used to order a promotional counter stand. It is a crucial tool for business-to-business (B2B) and business-to-consumer (B2C) sales teams to manage orders for promotional counter stands.
-
-The form helps to gather information necessary for the order process such as the artwork, materials, quantity, dimensions and color of the counter stands, delivery details, order status, payment method, and order notes. It also allows customers to provide their name and email address for communication purposes.
-
-Before filling out this form, please ensure you have all the necessary information. If you have already placed an order with us, you may not need to fill out this form.
-
-</thinking>
-
 # Promotional Counter Stand Order Form - Help Guide
 ## Purpose
 The Promotional Counter Stand Order Form is used to place orders for promotional counter stands with your business or organization. 

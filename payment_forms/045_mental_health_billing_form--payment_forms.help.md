@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed to capture and process data related to mental health billing, specifically for use in clinical or medical settings. The goal of this form is to collect detailed information about mental health services and procedures, enabling the accurate billing and payment processing for these services. 
-</thinking>
-
 # mental_health_billing_form - Help Guide
 ## Purpose
 The mental health billing form is used to gather and track information for mental health services and procedures, ensuring accurate and efficient billing and payment processing.

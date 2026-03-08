@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a "Craft Event Lunch Pre Order" in a craft event setting. It's likely used in a context where attendees need to pre-order their lunch choices for the event. The form likely collects attendee details, meal preferences, and payment information. The fields and their labels should be clear and self-explaining.
-
-</thinking>
-
 # Craft Event Lunch Pre Order - Help Guide
 ## Purpose
 The Craft Event Lunch Pre Order form is designed to collect pre-order requests from attendees for the Craft Event. It helps us plan and prepare for the lunch service and ensures that all attendees have an option that suits their needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather feedback from users to understand their perceptions and areas for improvement regarding the product. The purpose of this form is to collect information on the user's satisfaction with the product, their opinion on the aspects that influenced their opinion, and their willingness to recommend the product. It is recommended to fill out this form only if you have genuine feedback to provide, as it will help the product developers improve the product for the betterment of all users. Please note that your feedback will be used to improve the product, and no personal data will be shared without your consent.
-</thinking>
-
 # product_research_survey_template - Help Guide
 ## Purpose
 This form is designed to gather feedback from users to understand their perceptions and areas for improvement regarding the product.

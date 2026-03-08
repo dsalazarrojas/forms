@@ -1,9 +1,3 @@
-<thinking>
-This form is used to create an order for a corsage, which is a type of flower arrangement. The form gathers information about the customer, the order details, and the payment status. It's designed to be completed by customers and florists to record and manage corsage orders. 
-
-Please make sure to complete this form only once per corsage order. If you have already created an order, do not complete this form again.
-</thinking>
-
 # Corsage Order Form - Help Guide
 
 ## Purpose

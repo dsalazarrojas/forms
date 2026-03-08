@@ -1,11 +1,3 @@
-<thinking>
-Form purpose is to collect information from borrowers and lenders for loan repayment declarations.
-This form should only be used for loans that have already been approved and are in the process of being repaid.
-It's crucial that both borrowers and lenders have access to this form as it contains information about the loan repayment terms and schedule.
-The purpose of the loan repayment declaration form is to ensure that both parties understand their responsibilities and obligations towards each other.
-This form should not be used for new loan applications or for loans that are not yet in the repayment process.
-</thinking>
-
 # loan_repayment_declaration_form - Help Guide
 ## Purpose
 The loan repayment declaration form is used to document the repayment terms and schedule of a loan that has already been approved and is currently being repaid. It is essential for both borrowers and lenders to have access to this form to ensure they understand their respective responsibilities and obligations towards each other.

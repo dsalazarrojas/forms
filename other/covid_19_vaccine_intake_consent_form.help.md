@@ -1,7 +1,3 @@
-<thinking>
-The form "covid-19-vaccine-intake-consent-form" is a critical document for patients to provide information and consent for COVID-19 vaccination. This form is designed to collect essential details from patients before administering the vaccine. The purpose of this form is to ensure that patients understand the vaccine's risks, benefits, and potential side effects, as well as to obtain their explicit consent for the vaccine administration. This form is typically used in a medical setting to streamline the vaccine administration process and minimize potential risks. To avoid duplication of effort, please ensure that this form is not used for any other purpose other than its intended use for COVID-19 vaccination.
-</thinking>
-
 # covid-19-vaccine-intake-consent-form - Help Guide
 ## Purpose
 The "covid-19-vaccine-intake-consent-form" is a survey used to collect information and consent for COVID-19 vaccination.

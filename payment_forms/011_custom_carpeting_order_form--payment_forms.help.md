@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers who want to place a custom carpeting order. The purpose of this form is to gather necessary details such as customer contact information, dimensions and preferences, total cost, custom carpeting options, estimated delivery date and time, and confirmation of the order details. Please ensure the form is filled out accurately and completely to avoid any issues with the order processing.
-
-</thinking>
-
 # Custom Carpeting Order Form - Help Guide
 
 ## Purpose

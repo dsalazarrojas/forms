@@ -1,32 +1,3 @@
-<thinking>
-This form is intended to help credit card merchants (e.g. online business owners) access their credit card portal account information.
-The form's purpose is to collect customer information for credit card payment processing. The form will be used to verify customer identity, validate credit card details, and ensure accurate payment processing.
-The form has a specific structure with 9 fields that must be filled out in the following order:
-- Customer name
-- Email
-- Expiration Month
-- Expiration Year
-- Card Number
-- Cvv
-- Billing Address
-- Zip Code
-- Expiration Date
-
-The form requires the following fields to be filled out:
-- Customer Name
-- Email
-- Expiration Month
-- Expiration Year
-- Card Number
-- Cvv
-- Billing Address
-- Zip Code
-- Expiration Date
-
-Each field has a specific label and type, which is explained below:
-
-</thinking>
-
 # credit_card_portal_access_form - Help Guide
 ## Purpose
 This form is designed to help credit card merchants access their credit card portal account information for payment processing.

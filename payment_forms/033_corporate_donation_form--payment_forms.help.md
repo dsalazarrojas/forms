@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from corporate donors about their donation preferences and details. 
-The form will be used to understand the frequency of their donations, their preferred payment method, and other relevant details. 
-It is crucial to ensure the correct completion of this form to provide accurate and timely information for the corporate donations processing. 
-Please verify that you are an authorized representative of the corporate entity and that the donation amount has been approved by the corporate management before proceeding.
-</thinking>
-
 # Corporate Donation Form - Help Guide
 ## Purpose
 This form is designed to collect information from corporate donors about their donation preferences, including frequency of donations, payment method, and other relevant details. 

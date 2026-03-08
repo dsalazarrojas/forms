@@ -1,11 +1,3 @@
-<thinking>
-The form `paypal_payment_form` is a payment form designed for processing transactions via PayPal. The form's purpose is to collect necessary information from the user for a secure payment process.
-
-Before starting, ensure the following:
-- The form is intended for users to enter their payment information for a PayPal transaction.
-- The user's input should match their actual information to prevent issues with payment verification.
-</thinking>
-
 # paypal_payment_form - Help Guide
 
 ## Purpose

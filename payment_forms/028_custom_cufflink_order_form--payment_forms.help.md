@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "Custom Cufflink Order Form" accurately and efficiently. The form is used to collect information for a custom cufflink order, which is a type of personalized cufflink. The form is divided into several sections, each focusing on a specific aspect of the order. To ensure accuracy, please review each section carefully and provide the required information. Please note that some fields are optional, but providing all relevant information will help us process your order effectively.
-</thinking>
-
 # Custom Cufflink Order Form - Help Guide
 ## Purpose
 The Custom Cufflink Order Form is used to collect information for a custom cufflink order. This form gathers details such as recipient preferences, cufflink type and size, shipping information, and customer contact details.

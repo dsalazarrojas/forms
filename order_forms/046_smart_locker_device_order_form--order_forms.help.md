@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who want to order a Smart Locker device. The form is not affiliated with, endorsed by, or derived from any form platform. It was created using AI and is an original adaptation of public survey topic metadata. The form is released under a Creative Commons license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-</thinking>
-
 # Smart Locker Device Order Form - Help Guide
 ## Purpose
 This form is designed to help you order a Smart Locker device. Please fill out the form with your delivery, payment, and order details to complete your purchase.

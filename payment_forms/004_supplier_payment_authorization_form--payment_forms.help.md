@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for authorizing payments to a supplier. It is meant to be completed by employees who need to approve or initiate payments to suppliers in the organization. To prevent duplication, this form can only be submitted for a specific supplier at a given time.
-
-The form is designed to be completed over multiple pages, each with its own fields. Please make sure to carefully review each field to ensure correct information is provided before submitting the form.
-
-</thinking>
-
 # Supplier Payment Authorization Form - Help Guide
 ## Purpose
 The Supplier Payment Authorization Form is used to initiate or approve payments to a supplier. It requires information such as supplier selection, payment date, and payment amount, among other details.

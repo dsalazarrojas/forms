@@ -1,7 +1,3 @@
-<thinking>
-To create a form for processing gutter payments, we need to consider the context of the form's purpose and ensure we're not duplicating an existing form for this use case. The form likely deals with financial transactions related to gutters, possibly for services or products related to gutter installation, maintenance, or repair. We should also be cautious not to confuse it with other payment forms, ensuring that the provided fields and options make sense for this specific context. 
-</thinking>
-
 # gutter_payment_processing_form - Help Guide
 ## Purpose
 

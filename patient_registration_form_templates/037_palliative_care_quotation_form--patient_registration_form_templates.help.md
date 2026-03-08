@@ -1,7 +1,3 @@
-<thinking>
-This form is a patient registration form for palliative care, a type of care that focuses on relieving the symptoms, pain, and stress of a serious illness. The form is designed to collect relevant information about the patient's medical condition, care service requests, and other necessary details. Before proceeding, ensure you are using this form for its intended purpose and not duplicating an existing form.
-</thinking>
-
 # palliative_care_quotation_form - Help Guide
 ## Purpose
 This form is used to collect information about patients seeking palliative care services. It is designed to be completed by patients or their representatives, providing essential details about their medical condition, care requirements, and other relevant information.

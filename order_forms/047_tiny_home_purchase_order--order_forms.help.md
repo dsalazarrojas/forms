@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tiny Home Purchase Order - Help Guide
 
 ## Purpose

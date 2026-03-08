@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect payment information from clients for therapy sessions, including payment details, method, terms, consent, and amount. This form ensures that clients understand and agree to the payment terms and conditions before proceeding with payment. It also helps to avoid duplication of forms as it is a single form designed to gather all relevant information in one place.
 
 # Therapy Liability And Payment Form - Help Guide

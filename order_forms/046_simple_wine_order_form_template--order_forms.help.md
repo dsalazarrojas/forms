@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit an order for a simple wine order. The form is designed to collect customer information and their wine preferences. This form will be used in a retail or online store environment where customers can select one or multiple wines and provide any additional notes for the order. The form will not be used to collect sensitive or personal identifiable information, such as address or payment information. The intent is to make it easy for customers to place an order and provide any necessary details for the order. The form should only be used for this specific purpose and not for any other type of data collection or submission. This form should be reviewed for any potential issues or concerns before being used in production.
-</thinking>
-
 # simple_wine_order_form_template - Help Guide
 ## Purpose
 The simple_wine_order_form_template is used to collect customer information and their wine preferences for an order.

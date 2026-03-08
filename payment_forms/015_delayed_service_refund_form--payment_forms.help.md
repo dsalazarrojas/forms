@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Delayed Service Refund Form - Help Guide
 ## Purpose
 This form is for customers to request a refund for a delayed service. Fill out this form to provide us with the details needed to process your refund.

@@ -1,5 +1,3 @@
-<thinking>Internal note: The Bulk Return Authorization Order Form is used to process bulk returns for customers. To avoid duplication, ensure that each return request is reviewed and authorized before proceeding. If a return request is duplicate or incomplete, it will be flagged for manual review or rejected. The form is designed to gather essential information about the return, including customer details, order details, and return specifics. Ensure that all required fields are completed accurately to expedite the return process.</thinking>
-
 # Bulk Return Authorization Order Form - Help Guide
 ## Purpose
 The Bulk Return Authorization Order Form is used to process bulk returns for customers. To return items, please fill out this form accurately and completely.

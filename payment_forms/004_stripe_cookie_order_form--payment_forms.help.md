@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place an order for cookies. The form is designed to collect customer information such as name, email, phone number, preferred cookie type, quantity, order total, payment method, and confirmation details. The form is intended to be filled out by customers to place a cookie order and provide payment information for processing. This form should only be filled out when a customer has decided to place a cookie order.
-</thinking>
-
 # Stripe Cookie Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers to place a cookie order. Please fill out the form with your details to place your order.

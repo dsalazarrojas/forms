@@ -1,8 +1,3 @@
-<thinking>
-This form seems to be designed for customers to provide information about their wishes or orders. It's possible that this form is used to collect data for customer relationship management or customer service purposes. Before filling out this form, ensure that you have not already submitted a similar order or wish list, as this form does not appear to have any unique identifiers or tracking numbers. To fill out this form, please follow the instructions in this help guide.
-
-</thinking>
-
 # NCC_Wish List - Help Guide
 ## Purpose
 This form is used to collect information about your wishes or orders. Please use it to inform the customer service team about your needs, preferences, or requirements.

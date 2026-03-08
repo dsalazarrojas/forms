@@ -1,23 +1,3 @@
-<thinking>
-
-To determine the purpose of the form, I'll analyze the provided YAML fields.
-
-The form is called "Alcohol Delivery Form" and contains various fields related to customer and delivery details, order selection, and payment method. It seems to be designed for customers to place orders for alcohol delivery and provide necessary information for the delivery process.
-
-Upon inspecting the fields, I can see that the form requires customers to provide their personal details (name, date of birth, email address, phone number), delivery address, and order information (beer/lager selection, wine/spirits selection, total number of items, and preferred delivery time). Additionally, the form includes age verification and agreement fields to ensure the customer is of legal age for alcohol delivery.
-
-The form also includes fields for payment method and delivery instructions. This suggests that the form is used for both collecting customer information and facilitating the delivery process.
-
-The fields that require special attention are:
-
-*   `date_of_birth`: This field is likely used to verify the customer's age, ensuring they are of legal age for alcohol delivery.
-*   `delivery_instructions`: This field is for customers to provide additional information about delivery instructions, such as gate codes or other specific delivery details.
-*   `payment_method_order`: This field is used to determine the payment method for the order.
-
-Considering the fields, I can create a comprehensive help guide for the user-facing form.
-
-</thinking>
-
 # Alcohol Delivery Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for alcohol delivery. It collects necessary information for the delivery process, including customer details, order selection, and payment method.

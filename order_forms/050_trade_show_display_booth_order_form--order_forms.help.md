@@ -1,8 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the Trade Show Display Booth Order Form, I need to ensure that I understand the form's purpose and how it will be used. This form is for ordering display booths for a trade show, and its purpose is to collect information from customers to process their orders efficiently. I will need to review the provided YAML fields to ensure I don't duplicate any information and that each field serves a specific purpose. I will also consider the types of fields used, such as text, email, and select options, to provide clear explanations for each.
-
-</thinking>
-
 # Trade Show Display Booth Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers interested in ordering a display booth for a trade show. Please fill out the form carefully to ensure your order is processed correctly.

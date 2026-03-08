@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information about a family's donation to the organization. This form is likely to be used by families who wish to make a donation, either as a one-time gift or as a recurring donation. The form's data will be used to process the donation and provide a receipt for the donor. The form will be reviewed for duplicate entries to avoid processing duplicate donations...</thinking>
-
 # Family Donation Form - Help Guide
 ## Purpose
 The Family Donation Form is designed to collect information about a family's donation to the organization. This form is intended for families who wish to make a one-time gift or a recurring donation.

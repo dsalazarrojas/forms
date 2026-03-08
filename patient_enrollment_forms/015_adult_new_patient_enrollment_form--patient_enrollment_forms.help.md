@@ -1,11 +1,3 @@
-<thinking>
-This form is used to enroll new adult patients in the healthcare system. Its purpose is to collect essential information about the patient, including their contact details, medical history, and emergency contact information. This form will help ensure that the patient's data is accurate and comprehensive, which will enable efficient and effective care provision.
-Before starting this form, please ensure that the following conditions are met: 
-- The patient has not previously enrolled in our system.
-- The patient has not been assigned to a practitioner or healthcare team before.
-
-</thinking>
-
 # Adult New Patient Enrollment Form - Help Guide
 
 ## Purpose

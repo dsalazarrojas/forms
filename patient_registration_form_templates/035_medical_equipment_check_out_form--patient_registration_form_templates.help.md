@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the checkout process of medical equipment, ensuring that necessary information is accurately recorded and up-to-date. Before proceeding, ensure that you have checked the internal policies and guidelines for equipment usage and maintenance. It's essential to follow these guidelines to prevent duplication of work and to ensure that the form's purpose is served correctly. This form should not be used to duplicate the process or circumvent internal procedures.
-</thinking>
-
 # medical_equipment_check_out_form - Help Guide
 ## Purpose
 This form is used to record the checkout of medical equipment, including details about the equipment type, description, user name, check out date, due date, checked out by, returned date, returned by, remarks, equipment status, equipment location, loan duration, loan amount, loan date, return date, returned by, medical equipment number, loan/return, comments, equipment type 2, equipment status 2, remarks 2, loan/return 2, medical equipment number 2, comments 2. The form helps in maintaining accurate and up-to-date records of equipment usage, loan durations, and return status.

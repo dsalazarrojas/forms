@@ -1,6 +1,3 @@
-<thinking>
-This form is for submitting payments for accounting services. The form is designed to collect information necessary to process payments efficiently and accurately. The purpose of the form is not to duplicate or replace existing payment methods. Please ensure that you only submit this form for new or additional payments.</thinking>
-
 # Accounting Services Payment Form - Help Guide
 ## Purpose
 This form is used to submit payments for accounting services, ensuring that all necessary information is collected to process payments accurately and efficiently.

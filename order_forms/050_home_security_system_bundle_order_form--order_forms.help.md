@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to be used by customers to order a home security system bundle. The form should be completed by the customer to provide their details and schedule the installation of the system. 
-
-The form is not intended to be used for any other purpose.
-
-The form has multiple fields for the customer to enter their details and confirm their order. 
-
-The fields are not mandatory, but it is recommended that the customer completes all fields to ensure that their order is processed correctly.
-
-Before proceeding, please make sure you have read and understood the form carefully. If you have any doubts or questions, please contact our support team.
-
-</thinking>
-
 # Home Security System Bundle Order Form - Help Guide
 ## Purpose
 This form is used to collect customer details and schedule the installation of a home security system bundle.

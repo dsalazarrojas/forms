@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Roadside Assistance Membership Renewal Form is used to renew a member's roadside assistance membership. To be eligible to renew, a member must have an active membership. The form is designed to collect necessary information to process the renewal. 
 
 To complete this form, a user will be guided through a series of pages that request information and selections. The user will be able to select an option from the dropdown menu for **Plan Selection** and enter their information on **Member Details**, **Payment Details**, and confirm their details on **Confirm Details**. After completing all required fields, the user will submit their information by clicking the **Submit Form** button. It is not necessary for the user to complete all sections if they are not making changes to their current information.

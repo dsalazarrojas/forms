@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect payment information and details for telecom services. It is likely used to process payments for billing or usage purposes. The fields are categorized into personal details, payment method, and payment status.
-It is essential to fill out all required fields accurately, and the form should not be duplicated or submitted unnecessarily.
-</thinking>
-
 # Telecom Service Payment Form - Help Guide
 ## Purpose
 The Telecom Service Payment Form is designed to collect payment information and details for telecom services. This form is used to process payments for billing or usage purposes.

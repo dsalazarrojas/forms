@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donations using Stripe payment processing. The form is intended to gather user information and preferences to facilitate a smooth and secure payment experience. Before proceeding, please ensure that this form is not being duplicated or used for a different purpose than intended.
-</thinking>
-
 # stripe_donation_form - Help Guide
 ## Purpose
 This form is designed to collect donations using Stripe payment processing, allowing users to easily and securely make payments. The form collects relevant information and options to facilitate a smooth payment experience.

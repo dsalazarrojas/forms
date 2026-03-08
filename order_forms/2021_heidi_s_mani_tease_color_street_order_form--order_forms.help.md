@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to explain the 2021 Heidi's Mani Tease Color Street Order Form to assist end users in completing it accurately and efficiently. To confirm, this form is designed to collect information from customers for orders related to Color Street products or services. It is not a form created with or in conjunction with any other form platform, but rather a unique creation based on public survey metadata.
-
-The purpose of this form is to gather essential details from customers for processing their orders correctly. The following guide will walk end-users through the form, providing clear explanations for each field to ensure accurate completion.
-
-</thinking>
-
 # 2021 Heidi's Mani Tease Color Street Order Form - Help Guide
 ## Purpose
 The 2021 Heidi's Mani Tease Color Street Order Form is designed to collect necessary information from customers for ordering Color Street products or services. This includes contact information, order details, delivery preferences, and payment methods.

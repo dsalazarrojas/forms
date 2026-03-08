@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # custom_pop_up_banner_order_form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for custom pop-up banner orders. It helps us understand their requirements and provide accurate quotes for their custom banner needs.

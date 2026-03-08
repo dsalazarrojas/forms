@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # PayPal Email Subscription Form - Help Guide
 ## Purpose
 This form is for end-users to subscribe to our service using their PayPal account. It is intended to collect their name and contact information for future communication.

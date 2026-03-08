@@ -1,7 +1,3 @@
-<thinking>
-This form, "digital_photo_transfer_order_form", is designed for customers to order digital photos. The purpose of this form is to gather information about the customer and their photo transfer requirements. The form consists of several fields that need to be filled out by the customer to place their order. This guide will walk you through each field and provide explanations to ensure a smooth and correct submission.
-
-</thinking>
 # digital_photo_transfer_order_form - Help Guide
 ## Purpose
 This form is for customers to place orders for digital photos. It collects information about the customer and their photo transfer requirements.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from users in a structured and organized manner. To ensure the correct information is collected, it's essential to follow the instructions carefully. This form is not a mandatory form, so users are not required to submit it. However, filling it out will help the organization understand the user's needs and preferences better.
 
 # Untitled Form - Help Guide

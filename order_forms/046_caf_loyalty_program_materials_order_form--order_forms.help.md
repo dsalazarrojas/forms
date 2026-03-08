@@ -1,6 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is for ordering loyalty program materials for a specific café or organization. The form is intended to gather information from the requester, including their name, organization, material type, quantity, delivery address, deadline, and contact phone number. The form is likely used internally within the organization to ensure accurate material distribution and communication with the requester. I will create a help guide that covers these aspects, ensuring end users understand the form's purpose and how to complete it effectively.</thinking>
-
 # Café Loyalty Program Materials Order Form - Help Guide
 ## Purpose
 The purpose of this form is to place an order for loyalty program materials (such as loyalty cards, posters, flyers, or stickers) for a specific organization or cafe branch. Please provide accurate information to ensure proper materials distribution and communication with you.

@@ -1,24 +1,3 @@
-<thinking>
-This form is used to process a credit card fee refund request from a customer. The purpose of this form is to gather essential information about the refund, such as the customer's name, date of service, amount of the refund, reason for the refund, and other relevant details. This form is designed to be completed by customers who want to initiate a credit card fee refund process.
-
-The form consists of several sections:
-
-- A text field to input the customer's name.
-- A date field to input the date of service.
-- A number field to input the amount of the refund.
-- A text field for the reason for the refund.
-- An email field for the customer's email address.
-- A text field for the customer's phone number.
-- A select one field to input the type of refund.
-- A select multiple field to input the type of refund multiple.
-- A date field to input the refund date.
-- A time field to input the refund time.
-- A note field for additional notes.
-
-This form does not require a customer to input any information that is unnecessary for processing the credit card fee refund.
-
-</thinking>
-
 # credit_card_fee_refund_form - Help Guide
 ## Purpose
 The credit card fee refund form is used to process a credit card fee refund request from a customer. This form helps to gather essential information about the refund, including the customer's name, date of service, amount of the refund, reason for the refund, and other relevant details.

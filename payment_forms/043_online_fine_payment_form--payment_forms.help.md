@@ -1,16 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "online_fine_payment_form" form. This form is designed to collect payment details and fine information from users. The form is likely used in an online platform for users to pay fines or penalties. The form should be easy to understand and follow, and each field should have a clear explanation to help users complete it accurately.
-
-The purpose of the form is to guide users through the payment process, ensuring they provide all necessary information to complete the payment. This form is likely used in a scenario where users need to pay fines, penalties, or fees, and the platform needs to collect specific details about the payment and fine.
-
-To prevent duplication, we can consider the following internal checks:
-
-*   Check if the user has already paid the fine using the same form.
-*   Verify if the user has provided all required information to prevent form submission.
-*   Check if the user has made any previous payments with the same payment method.
-
-</thinking>
-
 # online_fine_payment_form - Help Guide
 ## Purpose
 The online_fine_payment_form is designed to collect payment details and fine information from users.

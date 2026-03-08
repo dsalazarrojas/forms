@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from individuals who are interested in participating in the Easter Collection 2021 event hosted by Bonnie. This form is intended for those who want to provide their personal details, preferences, and any additional notes or messages. The form is not meant to be a comprehensive or formal application form, but rather a way to gather information that can be used to tailor the event to the participants' needs.
 
 Before proceeding, please ensure that you are filling out this form for the correct purpose and not for a duplicate or different event. If you are unsure, you can always reach out to the event organizers for clarification.

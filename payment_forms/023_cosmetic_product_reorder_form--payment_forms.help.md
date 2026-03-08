@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for reordering cosmetic products. It appears to be used for managing customer orders and tracking customer details. Before filling out this form, please ensure you are authorized to do so and the customer's order status is not already "Inactive" or "Pending". This form does not support reordering for customers with "Inactive" or "Pending" order status.
-</thinking>
-
 # Cosmetic Product Reorder Form - Help Guide
 ## Purpose
 The Cosmetic Product Reorder Form is used to collect customer information for reordering cosmetic products.

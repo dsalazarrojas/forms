@@ -1,7 +1,3 @@
-<thinking>
-The Soundproofing Material Order Form is used to capture information from customers for soundproofing materials. The form is designed to gather the necessary information for processing the order. The form should only be used for customers who have not yet been registered in the system. The form will be duplicated if the user already has a registered account, please use the "Register and Order" form instead. This guide will walk you through how to complete each field in the form.
-</thinking>
-
 # Soundproofing Material Order Form - Help Guide
 ## Purpose
 The Soundproofing Material Order Form is used to gather information from customers for the purpose of placing an order for soundproofing materials. Please complete the form with the required information to ensure that your order is processed correctly.

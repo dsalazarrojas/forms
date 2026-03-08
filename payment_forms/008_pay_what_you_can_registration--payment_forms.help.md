@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to allow users to register for a payment plan. This form is used in a specific context where individuals are given the opportunity to pay what they can, indicating their willingness and ability to contribute financially. The form's goal is to collect relevant information from users, including their payment intention, the amount they are willing to pay, and their contact details. The form should not be completed if the user is not interested in the payment plan or has already registered.
-
-</thinking>
-
 # Pay What You Can Registration - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for gathering information about a patient's family doctor, which is essential for medical record keeping and billing purposes. The form is designed to be completed by the patient or their representative, and the information collected will be used to update the patient's medical records. To ensure accuracy and completeness, please review each field carefully and provide the requested information.
-
-</thinking>
-
 # Family Doctor Information Form - Help Guide
 ## Purpose
 The Family Doctor Information Form is used to collect and update information about a patient's family doctor, including their contact information, medical specialty, and other relevant details.

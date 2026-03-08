@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from customers to place an order for chicken products. It is used by customers to provide details about their order, including their contact information, order preferences, and payment methods. 
-
-The form is likely used by a business or organization that sells chicken products, and it's intended for both individual and commercial customers. The form's purpose is to streamline the ordering process, ensuring that the customer's needs and preferences are accurately captured.
-
-Before proceeding, ensure that you have a clear understanding of the form's purpose and the types of information it collects, as this will help with the accuracy and completeness of the order details. Double-check that the form is not used for any other purpose than its intended use, and avoid submitting duplicate or incomplete orders.
-
-Please proceed with filling out the form only after you have read and understood the provided instructions and information.
-
-</thinking>
-
 # Chicken Order Form - Help Guide
 ## Purpose
 The Chicken Order Form is designed to collect information from customers to place an order for chicken products. It helps gather details about the customer, their order preferences, and payment methods to streamline the ordering process.

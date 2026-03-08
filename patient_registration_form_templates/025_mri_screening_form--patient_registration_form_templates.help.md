@@ -1,8 +1,3 @@
-<thinking>
-## Internal Reasoning Block
-This form is intended to gather information from patients for the purpose of screening their medical history and contact information before undergoing an MRI procedure. The form asks for general information, date of birth, contact information, medical history, medical conditions, medication information, MRI details, and emergency contacts. It is designed to be completed by patients themselves or by someone on their behalf, and is meant to be a thorough yet concise way to collect the necessary information for a smooth and safe MRI experience.
-</thinking>
-
 # MRI Screening Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients for the purpose of screening their medical history and contact information before undergoing an MRI procedure.

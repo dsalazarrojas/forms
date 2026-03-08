@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the Legal Support Fund Contribution, a program aimed at providing financial support to individuals in need of legal services. It is essential to ensure that this information is accurate and relevant to the intended purpose of the fund. Please review the form carefully to avoid any errors or duplication of entries.
-</thinking>
-
 # Legal Support Fund Contribution - Help Guide
 ## Purpose
 The Legal Support Fund Contribution form is a tool used to collect donations for the Legal Support Fund, a program that provides financial support to individuals in need of legal services. This form helps us understand the intentions of the donor and their contribution preferences.

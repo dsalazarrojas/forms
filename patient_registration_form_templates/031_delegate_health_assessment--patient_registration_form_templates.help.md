@@ -1,7 +1,3 @@
-<thinking>
-This form is used for delegates to perform a health assessment on patients. The form should only be used by trained medical professionals, and it's essential to fill it out accurately and completely to ensure that the patient's health information is up-to-date and reliable.
-</thinking>
-
 # delegate_health_assessment - Help Guide
 ## Purpose
 The delegate_health_assessment form is a medical form used by delegates to collect and record patient health information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Renovation Payment Form - Help Guide
 ## Purpose
 This form is designed to gather information for payment processing related to home renovations. It's intended for use when a user wants to make a payment or inquire about payment methods for their home renovation project. It's recommended to use this form for internal processes, not for external communication, like public websites, social media, or email. Make sure to use it within your organization's secure systems and data management practices.

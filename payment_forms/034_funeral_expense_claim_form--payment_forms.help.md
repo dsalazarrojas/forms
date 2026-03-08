@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a funeral expense claim. The purpose of this form is to gather details about the claimant, the funeral expenses, and any supporting documents related to the claim. This form is likely used in situations where an individual or their representatives need to file a claim for reimbursement or compensation for funeral expenses. The form is designed to be completed by the claimant or their authorized representative.
-
-</thinking>
-
 # Funeral Expense Claim Form - Help Guide
 ## Purpose
 The Funeral Expense Claim Form is used to collect information for a funeral expense claim. This form is designed to gather details about the claimant, the funeral expenses, and any supporting documents related to the claim.

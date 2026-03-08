@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Shipping Document Authorization Form - Help Guide
 ## Purpose
 The Shipping Document Authorization Form is used to authorize the shipping of a package or document to a customer. This form is a critical part of our shipping process, ensuring that all necessary information is accurately and securely captured before shipping.

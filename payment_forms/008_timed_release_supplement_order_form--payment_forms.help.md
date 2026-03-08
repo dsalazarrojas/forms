@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the purpose of the Timed Release Supplement Order Form, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Timed Release Supplement Order Form - Help Guide
 ## Purpose
 The Timed Release Supplement Order Form is a digital form designed to collect information from customers about their order details, delivery preferences, customer details, order comments, customer concerns, order confirmation, payment status, and customer notes. This form helps businesses to gather essential data to streamline their order processing and improve customer experience.

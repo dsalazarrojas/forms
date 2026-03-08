@@ -1,11 +1,3 @@
-<thinking>
-This form is used to create a dental health record for patients. 
-Please ensure that the information collected is accurate and up-to-date. 
-Duplicate entries will be prevented to ensure data consistency. 
-Please review the form carefully before submitting the information.
-
-</thinking>
-
 # dental_health_record - Help Guide
 ## Purpose
 The purpose of this form is to collect and store patient information for dental health records.

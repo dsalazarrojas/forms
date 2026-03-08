@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for export orders. It is used to gather customer details, product specifications, order information, and comments. The form is divided into four sections: customer details, product specs, order info, and order comments. Each section provides a unique field for the customer to fill in.
-</thinking>
-
 # Export Batch Order Form - Help Guide
 ## Purpose
 The Export Batch Order Form is a tool used to collect customer information and order details for export orders. It is a crucial part of the export process, ensuring accurate and timely fulfillment of customer requests.

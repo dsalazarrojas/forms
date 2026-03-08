@@ -1,6 +1,3 @@
-<thinking> 
-The form is designed to facilitate the ordering of room service in a hotel. It's likely used by hotel staff to efficiently process and manage orders for guests. This form might be used in conjunction with other systems or as a standalone application. To prevent duplication of effort and ensure accuracy, the form should only be filled out by authorized personnel.</thinking>
-
 # Hotel Room Service Order Form - Help Guide
 
 ## Purpose

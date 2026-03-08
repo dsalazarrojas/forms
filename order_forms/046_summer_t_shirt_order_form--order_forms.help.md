@@ -1,7 +1,3 @@
-<thinking>
-To create a helpful form user guide, I need to consider the context of this Summer T Shirt Order Form. The form is for customers to order summer T-shirts. I will guide the users through the form's purpose, how to complete it, and each field's meaning. To ensure the guide is clear and concise, I will focus on the required fields and provide a brief description of each option when applicable.
-</thinking>
-
 # Summer T Shirt Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers to process their order for a summer T shirt. Please complete the form accurately to ensure timely processing of your order.

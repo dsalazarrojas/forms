@@ -1,12 +1,3 @@
-<thinking>
-This form is used for submitting an order for replacement filters for an ice machine. To determine if this form is relevant to your task, consider the following:
-  - You are an authorized personnel member at an Ice Machine Company and are tasked with processing replacement orders.
-  - The form is for submitting an order for a specific ice machine model that needs filter replacement.
-  - You have the required contact information and model information of the ice machine.
-The following form is a guide to help you complete it accurately and efficiently.
-
-</thinking>
-
 # Ice Machine Filter Replacement Order Form - Help Guide
 ## Purpose
 This form is used for submitting an order for replacement filters for an ice machine. Please fill out the form with the requested information to ensure that your order is processed correctly.

@@ -1,11 +1,3 @@
-<thinking>
-**Form Purpose:** 
-The Patient Care Program Approval Form is a crucial document used to track and approve patient care programs. These programs are essential for the overall care and well-being of patients, especially for ongoing treatments or services that require periodic reviews and updates to ensure continuity of care. 
-
-**Non-Duplication and Relevance Check:**
-Before proceeding, ensure that this form is not already completed for the same patient and program. If it is, the form should be resubmitted with updated information or a new request for approval.
-</thinking>
-
 # Patient Care Program Approval Form - Help Guide
 ## Purpose
 The Patient Care Program Approval Form is a document used to approve and track patient care programs. These programs are essential for ensuring continuity of care and monitoring of patient conditions.

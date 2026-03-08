@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users about their tree removal services quote requests. This form captures relevant details such as property address, service type (tree, branch, stump, or root removal), removal service requirement, contact information (first and last name, email), and other relevant tree-related information (height, diameter, location, and service date). 
-</thinking>
-
 # Tree Removal Services Quote Request Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Dental Appointment Check In Form", I'll analyze the provided YAML fields and provide a concise and practical guide for end-users.
 
 # Dental Appointment Check In Form - Help Guide

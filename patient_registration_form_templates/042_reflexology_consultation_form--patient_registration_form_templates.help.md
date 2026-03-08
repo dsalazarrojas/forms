@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Reflexology Consultation Form - Help Guide
 
 ## Purpose

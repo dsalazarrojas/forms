@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to place an order for a graphic tee, a type of T-shirt with a graphic design. The form allows users to upload a graphic tee image, select the color and size of the tee, specify the quantity, and choose a payment method. The form is divided into several sections, each with its own field and options. The fields are designed to collect essential information for processing the order.
-</thinking>
-
 # graphic_tee_order_form - Help Guide
 ## Purpose
 The graphic tee order form is used to upload a graphic tee image, select the color and size of the tee, specify the quantity, and choose a payment method.

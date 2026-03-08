@@ -1,7 +1,3 @@
-<thinking>
-This form is used to screen employees for COVID-19 vaccination, gathering information such as vaccination status, symptoms, and emergency contact details. This form ensures that employees are properly vaccinated and have necessary emergency contact information on file. It is essential to complete this form accurately and thoroughly to maintain a healthy and safe work environment.
-</thinking>
-
 # COVID 19 Vaccine Screening Form - Help Guide
 
 ## Purpose

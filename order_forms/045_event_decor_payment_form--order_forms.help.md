@@ -1,7 +1,3 @@
-<thinking>
-The Event Decor Payment Form is used for processing payments for event decoration services. This form is intended for internal use by event planners and decorators to receive payments for their services. The form is designed to be completed in two pages: Payment Details and Order Information. The form should not be used for other purposes.
-</thinking>
-
 # Event Decor Payment Form - Help Guide
 ## Purpose
 The Event Decor Payment Form is used for processing payments for event decoration services.

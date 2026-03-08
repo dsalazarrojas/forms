@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used by vendors or suppliers to submit information and details about orders they are fulfilling or have fulfilled for a company, such as contact information, order details, and delivery/payout information. This form could be used for order tracking, accounting, or other business purposes. 
-</thinking>
-
 # Salmon Order Form - Help Guide
 ## Purpose
 This guide helps you fill out the Salmon Order Form, which is used to submit information and details about orders to a company.

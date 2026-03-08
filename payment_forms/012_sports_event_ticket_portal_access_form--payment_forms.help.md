@@ -1,4 +1,4 @@
-> **<thinking>...</thinking>**
+> ****
 
 Before proceeding, let's review the form purpose and required information for this Sports Event Ticket Portal Access Form.
 

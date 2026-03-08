@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my main goal is to create a clear and concise help guide that effectively communicates the purpose and usage of the Religious Parenting App Survey form. This guide will cover the form's purpose, how to complete it, and provide a field-by-field explanation of each section, ensuring that end-users understand their role in providing valuable feedback.</thinking>
-
 # Religious Parenting App Survey - Help Guide
 
 ## Purpose

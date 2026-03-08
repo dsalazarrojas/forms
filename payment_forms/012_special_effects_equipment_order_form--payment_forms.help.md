@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for the "Special Effects Equipment Order Form", which is designed to collect information from customers who want to purchase special effects equipment. The form is used to gather contact details and payment information from the customers. This form is not affiliated with or derived from any form platform, and it's released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, just giving credit.
-</thinking>
-
 # Special Effects Equipment Order Form - Help Guide
 ## Purpose
 This form is designed to collect contact and payment information from customers who want to purchase special effects equipment.

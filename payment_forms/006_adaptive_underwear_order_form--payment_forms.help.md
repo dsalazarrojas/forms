@@ -1,21 +1,3 @@
-<thinking>
-To validate my understanding of the form purpose and structure, let's review the provided YAML fields:
-
-1.  The form is titled "Adaptive Underwear Order Form", which suggests that it's used for customers to place orders for adaptive underwear.
-2.  The form collects various customer information (Full Name, Email, Phone Number, Shipping Address, Billing Address), which is typical for any order form.
-3.  The form also collects specific information related to the adaptive underwear, such as Waist Size, Hip Size, Underwear Style, Fabric Preference, and Special Features Needed.
-4.  The form has a section for customers to provide special instructions or medical conditions that may require adaptive underwear.
-5.  Customers can select their preferred color for the underwear.
-6.  Customers can choose how they would like to pay for the order.
-7.  The form also includes an estimated order total and desired delivery date.
-8.  Finally, the form requires customers to accept terms and conditions, sign electronically, and provide their signature date.
-
-Given this structure, the form's purpose is to collect information for adaptive underwear orders, allowing customers to provide their personal details, preferences, and requirements for their order.
-
-To ensure that this form is being used correctly and effectively, it would be beneficial to have some internal guidelines to prevent misuse or duplication of the form. For example, customers should only be allowed to submit one order at a time, and the form should be designed to prevent customers from attempting to place an order without providing the required information.
-
-</thinking>
-
 # Adaptive Underwear Order Form - Help Guide
 
 ## Purpose

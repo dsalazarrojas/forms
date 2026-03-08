@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is for patients to be checked-in at the hospital. This form is used to collect information about the patient's identifying details, medical history, and contact information.
-
-The form should not be used for patients who are already registered or have an existing medical record. 
-
-</thinking>
-
 # hospital_check_in_form - Help Guide
 ## Purpose
 The hospital check-in form is used to record the details of a patient's visit, including their identifying information, medical history, and contact details. This form is essential for providing timely and effective care to the patient.

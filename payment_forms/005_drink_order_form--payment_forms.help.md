@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a customer's drink order. It is intended for use by the barista staff to create a drink order that suits the customer's preferences. This form should only be used for this specific purpose and not for other types of forms. It is not a duplicate form, and its purpose is well-defined within the internal documentation.
-</thinking>
-
 # Drink Order Form - Help Guide
 ## Purpose
 The Drink Order Form is used by barista staff to collect information about a customer's drink preferences, allowing them to create a customized drink order that meets their needs.

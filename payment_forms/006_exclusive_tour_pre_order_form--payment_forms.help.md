@@ -1,7 +1,3 @@
-<thinking>
-The form "exclusive_tour_pre_order_form" is designed to collect information for a tour operator and their contact details, as well as the tour type and travel dates. This form is likely used for pre-booking or inquiry purposes, where the tour operator needs to provide their contact information and the client needs to provide their contact details and travel preferences. The form is essential for tour operators to collect accurate and up-to-date information from clients before proceeding with the booking process. It's crucial to ensure the accuracy of the form completion to avoid any miscommunication or errors during the booking process. Please ensure that you are using this form for the intended purpose and provide the necessary information accurately.
-</thinking>
-
 # exclusive_tour_pre_order_form - Help Guide
 ## Purpose
 The "exclusive_tour_pre_order_form" is used to collect contact information and travel preferences for tour operators and their clients. It is essential for the tour operator to provide their contact details and for the client to provide their contact information and travel preferences for a smooth and accurate booking process.

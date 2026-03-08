@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for medical supply orders, used to manage the inventory of medical supplies and ensure that the supplies are ordered correctly. It's crucial that the form is filled out accurately to prevent duplication of orders, so please ensure that you're not creating multiple orders for the same items. Before submitting the form, please make sure you have checked with your supervisor or the inventory team to confirm that the order is not already in progress.
-</thinking>
-
 # Medical Supply Order Form - Help Guide
 ## Purpose
 

@@ -1,13 +1,3 @@
-<thinking>
-This help guide will explain the purpose of the Distributor Registration Form, how to complete it, and provide a field-by-field explanation for each field.
-The form is designed for distributors to register themselves and their representative(s) information for ordering purposes. It is not intended to create a new account or login. 
-Please note that this form is for informational purposes only and does not store or transmit any sensitive information. The form is not intended to create a new account or login. 
-This form should not be filled out if you are a representative for a pre-existing account. 
-This form will not affect your existing account status or order history. 
-This form will not store or transmit any sensitive information. 
-The form is intended to be filled out by the distributor or their representative(s) for ordering purposes only.
-</thinking>
-
 # Distributor Registration Form - Help Guide
 ## Purpose
 This form is designed for distributors to register themselves and their representative(s) information for ordering purposes. It is intended to be filled out by the distributor or their representative(s) to provide accurate and complete contact information for communication and order processing.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for the collection of patient information for pediatric care. The fields in this form are designed to collect essential details about the patient's medical history, contact information, and medical background. The form will guide the healthcare provider through a series of questions to ensure that the patient's care is tailored to their specific needs. This form should only be used for pediatric patients. There is no redundancy in the fields. Each field has a distinct purpose and is not duplicating any other field.
-
-Please note that the medical history section is intended for any medical conditions the patient may have, not exclusively allergies. The medical background section is not a requirement, but it's good to know more about the patient's health status.
-</thinking>
-
 # Pediatric Patient Registration Form - Help Guide
 
 ## Purpose

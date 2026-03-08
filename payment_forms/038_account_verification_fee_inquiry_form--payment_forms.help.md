@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information from users who have questions or concerns about account verification fees associated with their accounts. The purpose of this form is to collect relevant details from inquirers, allowing the support team to efficiently address their concerns and provide accurate resolutions. 
-
-Before filling out the form, please ensure that you're submitting a genuine inquiry and not a duplicate request. If you've already submitted a similar inquiry, it would be best to follow up on the original submission instead of creating a new one.
-
-</thinking>
-
 # Account Verification Fee Inquiry Form - Help Guide
 
 ## Purpose

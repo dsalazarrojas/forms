@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create taxi receipts for a ride-hailing company. It captures essential information for the driver, such as pickup and dropoff locations, date and time of the trip, driver information, and payment details. Please ensure that all fields are completed accurately and according to the company's policies to avoid any discrepancies in the receipt generation process.
-</thinking>
-
 # Create Taxi Receipts - Help Guide
 ## Purpose
 This form is designed to create taxi receipts for a ride-hailing company, capturing essential information for efficient and accurate receipt generation.

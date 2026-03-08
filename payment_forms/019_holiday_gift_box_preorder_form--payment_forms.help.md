@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to preorder a Holiday Gift Box. The form will help gather necessary information such as shipping address, customer name, and gift box details to facilitate the ordering process. It is essential to fill out the form accurately to ensure timely and correct delivery of the gift box.
-</thinking>
-
 # Holiday Gift Box Preorder Form - Help Guide
 ## Purpose
 The Holiday Gift Box Preorder Form is designed to collect information from customers who want to preorder a gift box for a loved one. Filling out this form accurately will help us process your order correctly and ensure timely delivery.

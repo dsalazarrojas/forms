@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from patients about their experience at the dental clinic. To ensure that this form provides actionable insights, please ensure that you've had recent visits to the clinic and are answering based on those experiences. Please do not submit duplicate responses. This form is intended to be completed by patients who wish to provide feedback on their experience, and responses are kept confidential.
-</thinking>
-
 # Dental Clinic Performance Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather feedback from patients about their experience at the dental clinic. It's a tool to help us understand what we're doing well and where we can improve.

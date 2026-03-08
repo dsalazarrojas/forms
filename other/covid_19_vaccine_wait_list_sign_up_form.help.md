@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for medical purposes. The form is not intended for use as a diagnostic tool or to replace medical advice. Please ensure that you have the necessary permissions and approvals before using this form. It's also important to note that the form is not designed for duplicate or redundant data collection. If you're unsure about the form's purpose or how to use it, please review the form carefully and reach out to your administrator or healthcare professional for guidance.
-</thinking>
-
 # untitled_form - Help Guide
 ## Purpose
 This form is designed to collect patient information for medical purposes, including demographic details such as name, email, phone number, and date of birth.

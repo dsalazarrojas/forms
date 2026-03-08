@@ -1,7 +1,3 @@
-<thinking>
-This form was created to facilitate the process of scheduling tutor sessions and capturing relevant information for each session. The form should only be used for this specific purpose and not for any other use case. Please ensure that the data collected through this form is used for the intended purpose and not for any other use case.
-</thinking>
-
 # Tutor Appointment Form - Help Guide
 ## Purpose
 The Tutor Appointment Form is designed to help schedule and manage tutor sessions. It gathers necessary information from both the tutor and the student to ensure a smooth and productive session.

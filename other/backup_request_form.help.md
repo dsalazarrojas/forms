@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to provide a structured way for users to request a backup of a file or data. The form is intended to gather information about the file and the request, such as its type, size, and location, as well as contact information and additional notes. This form is likely used in an IT or technical context, where users need to request backup services for various reasons.
-
-When filling out this form, users will need to select the type of file they are requesting backup for, provide details about the file size and location, and include contact information in case the request requires further communication. The form also allows users to specify the status of the file and the type of backup request they are making, whether it's for a backup or restore.
-
-It's worth noting that the "Backup Location" field is a select_multiple field, indicating that users can select multiple options from the list provided, such as "Server" and "Cloud". This could be used to indicate where the backup should be stored.
-
-The "Request Type" field is also interesting, as it seems to allow users to differentiate between a backup and a restore request. This could be used to trigger different workflows or notifications based on the type of request.
-
-This form appears to be a relatively simple form, but it still requires attention to detail to fill it out correctly. It's essential to ensure that all required fields are completed accurately, and that users understand the purpose and implications of each field.
-</thinking>
-
 # Backup Request Form - Help Guide
 ## Purpose
 This form is used to request a backup of a file or data.

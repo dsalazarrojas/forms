@@ -1,21 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Gutter Payment Processing Form" form, we should first consider the form's purpose and the fields it contains. Based on the provided YAML schema, the form appears to be used for processing payments related to gutter services, which could include tasks such as cleaning or other maintenance services. The form has multiple pages, each with various fields for collecting information about the payment.
-
-The form's purpose is likely to collect payment details from customers or clients, including the service type, address, date, time, and payment method. The form may also collect additional information such as payment status, service status, and service type.
-
-Before creating the help guide, we should ensure that the form's purpose and fields are clearly explained to the user, reducing the likelihood of errors or misinterpretation.
-
-Here's a suggested approach to create the help guide:
-
-1.  Start by clearly explaining the form's purpose and expected use case.
-2.  Break down the form into its individual pages, explaining each page's purpose and the fields it contains.
-3.  For each field, provide a clear explanation of what information it is intended to collect, including any specific guidance on how to fill it out.
-4.  Consider including any special considerations or rules that users should be aware of when filling out the form.
-
-With this approach, we can create a comprehensive help guide that will assist users in accurately and efficiently filling out the form.
-
-</thinking>
-
 # Gutter Payment Processing Form - Help Guide
 ## Purpose
 The Gutter Payment Processing Form is used to collect payment details from customers or clients for gutter services such as cleaning or maintenance tasks. This form helps to ensure accurate and efficient processing of payments for these services.

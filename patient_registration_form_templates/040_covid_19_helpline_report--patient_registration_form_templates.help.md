@@ -1,11 +1,3 @@
-<thinking>
-
-The form "COVID 19 Helpline Report" is used to gather information about a patient's call to a helpline for COVID-19 concerns. The purpose of this form is to document the call date, time, and details about the caller, including their name, age, phone number, and email address. The form also collects information about the caller's health status, medical history, and any symptoms they are experiencing. Additionally, the form captures information about the treatment or advice provided to the caller, whether a referral to a medical facility is needed, and any follow-up required. This form is likely used by healthcare professionals to gather data for patient care and tracking.
-
-To prevent duplication, this form should be used for new calls only, and the helpline operator should verify the caller's identity and confirm the purpose of the call before proceeding.
-
-</thinking>
-
 # COVID 19 Helpline Report - Help Guide
 
 ## Purpose

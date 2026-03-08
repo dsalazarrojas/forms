@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Specialist Doctor Information Form", we need to consider the following aspects:
-- This form is designed to collect information about specialist doctors' profiles, including their specialties, workplaces, contact details, and medical histories.
-- Each field in the form is categorized into different sections for easy navigation and understanding.
-- The form is intended for internal use within the healthcare industry, and the data collected will be used to update and manage doctor profiles.
-- The form may not be suitable for general public use due to its technical and medical nature.
-
-</thinking>
-
 # Specialist Doctor Information Form - Help Guide
 ## Purpose
 The Specialist Doctor Information Form is designed to collect essential information about specialist doctors, which will be used for internal purposes in the healthcare industry. This form is a crucial tool for updating and managing doctor profiles.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users for ordering purposes in a taproom setting. This form can be used to take orders from customers for beers of different types, sizes, and quantities, and also to collect contact information for the orderer. It's likely used by a bartender or staff member to efficiently process orders from customers in a taproom. 
-
-To avoid duplication of effort, ensure that the form is not filled out unnecessarily, and that the information is accurate and up-to-date. This form should only be filled out when a customer places an order for a drink.
-</thinking>
-
 # Taproom Order Form - Help Guide
 ## Purpose
 This form is used to take orders from customers in a taproom setting, collecting information on beer type, size, and quantity, as well as contact information for the orderer.

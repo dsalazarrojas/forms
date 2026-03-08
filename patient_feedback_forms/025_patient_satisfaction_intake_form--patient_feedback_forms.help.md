@@ -1,7 +1,3 @@
-<thinking>
-We are providing this form, "Patient Satisfaction Intake Form", to collect valuable feedback from patients about their experience with our healthcare organization. This form is designed to be completed by patients after their visit, and its purpose is to gather information on various aspects of their satisfaction with our services. This form is intended for patients who have a unique identifier or contact information (phone number or email address) associated with their visit. We encourage patients to be honest and provide as much detail as possible to help us understand areas for improvement. Please note that this form may contain sensitive information and should not be completed by patients who have not had a previous visit with us.
-</thinking>
-
 # Patient Satisfaction Intake Form - Help Guide
 ## Purpose
 This form is used to collect feedback from patients on their experience with our healthcare organization. It's a crucial tool for us to understand areas of improvement and provide better services.

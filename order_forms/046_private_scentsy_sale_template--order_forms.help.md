@@ -1,6 +1,3 @@
-<thinking>
-Private Scentsy Sale Template form is used to document and track private sales between consultants and customers. It captures essential information such as the sale status, sale price, sale date and time, customer contact details, and any special sale terms agreed upon. Before filling out this form, ensure you are authorized to conduct private sales for the current customer. Double-check that the customer's sales record is up-to-date and accurate. If you notice any inconsistencies, consult with the customer or your superiors before proceeding.</thinking>
-
 # Private Scentsy Sale Template - Help Guide
 
 ## Purpose

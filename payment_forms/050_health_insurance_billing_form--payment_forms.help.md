@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Insurance Billing Form - Help Guide
 ## Purpose
 This form is used to collect billing information for health insurance claims. It is intended for healthcare providers to input patient data to facilitate the submission of accurate and timely claims. The form is part of the billing process and helps ensure that all necessary details are included.

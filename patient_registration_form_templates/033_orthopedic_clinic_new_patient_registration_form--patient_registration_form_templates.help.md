@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from new patients registering with an orthopedic clinic. The purpose of this form is to gather essential details about the patient, including their contact information, medical history, emergency contact, contact details, allergies, medications, medical conditions, medical procedures, patient information, doctor's signature, and patient's signature. This form is a template to streamline the registration process and ensure that all necessary information is collected in a structured and organized manner.
-
-</thinking>
-
 # Orthopedic Clinic New Patient Registration Form - Help Guide
 ## Purpose
 This form is used to register new patients at an orthopedic clinic, gathering essential information for their care and treatment.

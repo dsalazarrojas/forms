@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # designer_notebook_pre_order_form - Help Guide
 ## Purpose
 The `designer_notebook_pre_order_form` is a form used for pre-ordering a designer notebook. This form collects payment and delivery information from customers. It is designed for both individual and business customers, and it allows them to provide details about their payment method, address, and order.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to be used by customers or users to request replacement tires for their vehicles. The form will gather information about the order, the customer, the tire details, and any payment information associated with the order. This form is designed to be completed by the individual requesting the replacement tire, and the information collected will be used to process the order and ensure that the customer's needs are met. Please ensure that the form is not used for any other purpose, as it may result in inaccurate or incomplete information being recorded.
-
-This form is a simple text-based form, so be sure to provide clear and concise answers to each field, and do not include any attachments or images.
-</thinking>
-
 # Tire Replacement Requisition Form - Help Guide
 ## Purpose
 The Tire Replacement Requisition Form is used to request replacement tires for a vehicle. It gathers information about the order, the customer, the tire details, and any payment information associated with the order.

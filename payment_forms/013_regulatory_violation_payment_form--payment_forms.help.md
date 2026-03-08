@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about regulatory violations and associated payments. The form is intended for use by authorized personnel to document and track payments related to regulatory violations. It is not for general public use and should only be used by those with access rights.
-</thinking>
-
 # Regulatory Violation Payment Form - Help Guide
 ## Purpose
 The Regulatory Violation Payment Form is used to collect and document payments related to regulatory violations. It is a critical tool for tracking and managing regulatory fines and fees.

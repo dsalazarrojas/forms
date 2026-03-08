@@ -1,20 +1,3 @@
-<thinking>
-This form is likely used for a merchant or business to collect payment information from their customers or clients. The form may be used for a variety of purposes such as verifying a customer's identity, collecting payment information for a transaction, or as a placeholder for a more comprehensive payment form. It is possible that this form is part of a larger system or workflow that involves payment processing.
-
-Before continuing, let's confirm that the form is not a duplicate of an existing form within the system. This form appears to be a straightforward payment form with fields for payment amount, card information, and identification information. The "Market Analysis" label does not provide further context on its purpose.
-
-Given the fields and options provided, it seems that the form is intended to collect payment and identification information from customers. The form fields include payment amount, card number, expiration date, Cvv, cardholder name, email, phone number, street, country, state, city, and zip code. The payment amount field is a required numeric field, indicating that it is likely used for transactions or billing purposes. The card fields are likely related to a payment card used for billing or payment.
-
-The country field has two options, "Yes" and "No", suggesting that this field is not about selecting a country in a geographical sense, but rather about selecting whether or not a condition applies.
-
-The state field has two options, "Yes" and "No", similar to the country field, which further suggests that this field is not for selecting a state in a geographical sense but rather about selecting whether or not a condition applies.
-
-The city field is a text field, indicating that the user can input any type of city name. The zip code field is a required field, implying that it is an important piece of information to collect for payment or verification purposes.
-
-The submit field is a required text field, likely used as a final step to complete the form.
-
-</thinking>
-
 # Market Analysis Payment Form - Help Guide
 
 ## Purpose

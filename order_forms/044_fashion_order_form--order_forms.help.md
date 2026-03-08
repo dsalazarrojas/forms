@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers to process fashion orders, including products, shipping addresses, and contact details. This form is designed to be used by customers to submit their fashion orders, and is intended to be a straightforward and user-friendly experience for them. To ensure that this form is used correctly, it's essential to understand its purpose and the fields it contains. This guide will walk you through each field and its intended use.
-</thinking>
-
 # Fashion Order Form - Help Guide
 ## Purpose
 The Fashion Order Form is used to collect information from customers for fashion orders. It is designed to gather relevant details such as products, shipping addresses, and contact information.

@@ -1,17 +1,3 @@
-<thinking>
-We are going to create a help guide for the "Billboard Traffic Service Form By Asiah Amsterdamm". This form is likely used for businesses to request billboard advertising services. The form will require business-related information, contact details, billboard specifics, artwork details, and payment information. We need to ensure the form is completed correctly to facilitate the advertising process.
-
-Before starting, let's review the form's purpose and requirements to avoid duplication of effort and ensure everything is in order.
-
-The form has 13 fields, which can be divided into five main categories:
-1. Business information
-2. Contact details
-3. Billboard advertising details
-4. Artwork and content details
-5. Payment information
-
-We will cover each field type, required status, and explanation to help users complete the form accurately.</thinking>
-
 # Billboard Traffic Service Form By Asiah Amsterdamm - Help Guide
 ## Purpose
 This form is used to request billboard advertising services for your business. Please follow the instructions carefully to ensure your submission is completed accurately and efficiently.

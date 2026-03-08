@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who want to order an adventure map. The form is used for submitting orders for custom maps, trail maps, or region overview maps. To ensure relevance and prevent duplication of effort, please review the form carefully and only enter information that is accurate and complete.
-
-When completing the form, please follow the instructions to provide the necessary details for your order. The goal is to facilitate a smooth and efficient order process, so please answer all required fields carefully.
-
-</thinking>
-
 # Adventure Map Order Form - Help Guide
 
 ## Purpose

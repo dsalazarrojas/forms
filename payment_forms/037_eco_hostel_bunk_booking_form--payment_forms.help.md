@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Eco Hostel Bunk Booking Form - Help Guide
 
 ## Purpose

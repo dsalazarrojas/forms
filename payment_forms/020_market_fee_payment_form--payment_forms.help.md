@@ -1,11 +1,3 @@
-<thinking>
-This form is used to record market fees for events. The purpose of this form is to collect data on market fees associated with events, including the amount of the fee, the method of payment, and other relevant details. This form is likely used by event organizers or vendors to track and manage market fees for their events.
-
-Before filling out this form, please ensure that you are authorized to access this information and that you are using it for the intended purpose.
-
-This form is a standard template and may have varying levels of required fields based on the specific event or context.
-</thinking>
-
 # market_fee_payment_form - Help Guide
 ## Purpose
 This form is used to record market fees for events.

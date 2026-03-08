@@ -1,7 +1,3 @@
-<thinking>
-The form "Coronavirus Suspected Patient Intake Form" is designed to collect information about patients suspected of having COVID-19. This form helps gather crucial data that healthcare professionals can use to assess and manage patients' conditions. It's essential to use this form responsibly, ensuring that sensitive medical information is handled with care.
-</thinking>
-
 # Coronavirus Suspected Patient Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about patients suspected of having COVID-19 for the purpose of assessment, management, and treatment of their condition.

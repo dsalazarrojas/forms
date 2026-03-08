@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect data for retail data synchronization. The fields on this form are meant to capture information about shipping and device orders. The form should not be used to collect duplicate or unnecessary data.
-
-- Check if the form has been filled out recently. If yes, it might be redundant to fill it out again.
-- Check if the form fields are filled out as expected.
-- Check if the form requires any specific fields that are not being filled out.
-- Check if there are any fields that are not applicable to the form.
-</thinking>
-
 # Retail Data Sync Device Order Form - Help Guide
 ## Purpose
 

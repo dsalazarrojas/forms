@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help customers order food preservation equipment from a company. The form is intended for customers who want to purchase food preservation equipment for their business. To ensure that you are ordering the right equipment, please review the form carefully and fill out each field accurately. If you have any questions or concerns, please do not hesitate to contact us.
-
-</thinking>
-
 # Food Preservation Equipment Order Form - Help Guide
 ## Purpose
 This form is designed to help customers order food preservation equipment from our company. Please fill out this form accurately to ensure that you are ordering the right equipment for your business.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a customized necklace order process. It's meant to be a straightforward form for users to select their preferred necklace type, length, material, clasp type, chain type, pendant style, and any custom engraving or order details. The form's purpose is to facilitate the creation of personalized necklaces based on users' specifications.
-
-Before proceeding, please ensure that you are not completing this form for the same purpose multiple times. If you need to make changes to a previously completed form, please do not submit the updated version as a new form instance.
-
-</thinking>
-
 # personalized_necklace_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for a customized necklace order process.

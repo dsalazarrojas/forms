@@ -1,5 +1,3 @@
-<thinking>As I generate this help guide, I'm assuming that the form is intended to collect order information from frozen food truck customers. The form might be used by the food truck's sales or customer service team to gather details about the customer's order and shipping address. To confirm, I'll review the provided YAML fields to ensure that I'm covering all the essential information.</thinking>
-
 # Frozen Food Truck Accessory Order Form - Help Guide
 ## Purpose
 This form is designed to collect order information from frozen food truck customers, allowing the sales or customer service team to gather essential details about their orders and shipping addresses.

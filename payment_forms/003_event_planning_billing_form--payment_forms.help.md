@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect event planning billing information for events that require payment from clients. The purpose of this form is to streamline the billing process by gathering all necessary details in a structured and organized manner. To ensure accuracy and efficiency, please review this form carefully before submitting your answers. Make sure to provide clear and concise information to avoid duplication of effort and minimize errors.
-
-</thinking>
-
 # Event Planning Billing Form - Help Guide
 ## Purpose
 The Event Planning Billing Form is designed to collect event planning billing information from clients, enabling you to efficiently manage and process payments for events.

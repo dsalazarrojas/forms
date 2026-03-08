@@ -1,7 +1,3 @@
-<thinking>
-**Form purpose reasoning block**: This form is designed to collect information about magazine press releases, likely for internal or external publishing. The form asks for a title, description, category, file attachment, date, time, contact phone number, and contact email address. The internal team needs to ensure that each field is filled accurately to provide the necessary information for the press release to reach the intended audience. 
-</thinking>
-
 # Magazine Press Release Form By Asiah Amsterdamm - Help Guide
 ## Purpose
 This form is a template for creating and submitting magazine press releases. It provides space for the title, description, category, file attachment, date, time, contact phone number, and contact email address of the press release.

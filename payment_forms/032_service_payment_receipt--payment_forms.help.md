@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide payment information for services rendered. It should only be used for services that have not been previously invoiced or receipted. This form is usually completed by the customer or their representative. This form will be used to generate a payment receipt. It is crucial that the customer completes this form accurately and truthfully to ensure the correct payment information is captured and recorded.
-</thinking>
-
 # Service Payment Receipt - Help Guide
 ## Purpose
 The Service Payment Receipt form is used to collect payment information for services rendered to customers. It is intended for new services that have not been previously invoiced or receipted.

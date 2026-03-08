@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from individuals who wish to donate to the school's Parent-Teacher Association (PTA) for various fundraising activities. The form will help the PTA committee to track and acknowledge donations from sponsors.
-This form is a one-time submission, and there's no need to fill it out multiple times.
-Before proceeding, ensure that you have the necessary information ready for each field, as some fields are marked as 'required'.
-</thinking>
-
 # PTA Fundraising Sponsorship Form - Help Guide
 ## Purpose
 This form is designed to collect information from donors who want to support the Parent-Teacher Association (PTA) for various fundraising activities. It helps the PTA committee track and acknowledge donations.

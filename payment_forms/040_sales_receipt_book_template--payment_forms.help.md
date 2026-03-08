@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a sales receipt book template, which is used to record sales transactions. This template is likely used by sales teams to document sales records, track sales activity, and generate reports. Before proceeding, ensure that this template aligns with your company's specific sales policies and guidelines. Verify that you are not duplicating efforts by checking with your sales team or supervisor if a similar template already exists.
-</thinking>
-
 # Sales Receipt Book Template - Help Guide
 ## Purpose
 The Sales Receipt Book Template is a form used to record sales transactions, document sales activity, and generate reports.

@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block is to check if the form purpose is clear and not duplicated. This form is for organic farming subscription, which typically involves customers subscribing to organic produce delivery or farming services. The form seems to be collecting information for a subscription service, which is a common practice in the organic farming industry. The form fields appear to be collecting information for customer account creation, billing, and subscription preferences.
-</thinking>
-
 # organic_farming_subscription_form - Help Guide
 ## Purpose
 This form is for customers to subscribe to our organic produce delivery or farming services. It collects information necessary for account creation, billing, and subscription preferences.

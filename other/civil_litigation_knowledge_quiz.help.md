@@ -1,13 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, we need to analyze the various fields it contains. The form has a mix of select_multiple, select_one, select_one, select_one, integer, decimal, time, date, phone, email, and text fields. This combination of fields suggests that the form is designed to gather information about a civil litigation scenario, possibly for assessment or evaluation purposes. The fields include multiple-choice questions, numerical values, and free-text input fields, which further supports this interpretation.
-
-However, without more context or information about the specific use case, it's difficult to pinpoint the exact purpose of the form. Therefore, I will provide a general-purpose explanation and assume that the form is designed for a civil litigation assessment or evaluation scenario.
-
-If this interpretation is incorrect, please provide more context or information about the form's purpose, and I will adjust the explanation accordingly.
-
-</thinking>
-
 # Untitled Form - Help Guide
 ## Purpose
 This form is designed to gather information about civil litigation scenarios, possibly for assessment or evaluation purposes. It includes multiple-choice questions, numerical values, and free-text input fields to collect relevant data.

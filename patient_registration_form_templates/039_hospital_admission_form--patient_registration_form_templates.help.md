@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information for hospital admission, including personal details, medical history, and contact information. This form is designed to be completed by patients or their representatives to provide necessary data for medical staff to ensure proper care and treatment. It is crucial to ensure that the form is filled out accurately and completely, as incomplete or inaccurate information may lead to errors or delays in treatment. 
-
-This form is part of the patient registration process, and its accuracy is vital for medical staff to provide the best possible care. Please note that some fields may not be required, but completing them can still be beneficial for the patient's treatment and well-being. 
-
-If you are unsure about any field or section, please do not hesitate to ask a medical professional for clarification. 
-</thinking>
-
 # hospital_admission_form - Help Guide
 
 ## Purpose

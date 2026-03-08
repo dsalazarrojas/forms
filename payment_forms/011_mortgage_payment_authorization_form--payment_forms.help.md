@@ -1,7 +1,3 @@
-<thinking>
-This form is used to authorize payments for mortgage-related activities. It captures information necessary for the payment process, including borrower details, payment method, and bank account information. The form is a crucial part of the payment authorization process, ensuring accuracy and security. This form is a standard payment authorization form used in the mortgage industry. The information collected in this form is used to facilitate payment processing and prevent errors. Ensure that you provide accurate and complete information to avoid delays or errors in the payment process. This form is not intended for duplicate submissions. If you need to make changes, contact the relevant party to update the form.
-</thinking>
-
 # Mortgage Payment Authorization Form - Help Guide
 ## Purpose
 The Mortgage Payment Authorization Form is used to provide accurate and secure information for the payment process. It's essential to fill out the form accurately to avoid any issues with payment processing.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tidy Order Form - Help Guide
 
 ## Purpose

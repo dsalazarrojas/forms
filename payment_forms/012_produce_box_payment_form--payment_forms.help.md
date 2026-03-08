@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Produce Box Payment Form", I need to understand the form's purpose and how it is used in the context of its category, "payment_forms". The form's title and industry/category suggest it's used for customers to provide payment information for a produce box service. I will need to review the form's structure and fields to ensure that I can provide clear and concise explanations for each field.
-
-The form has three pages: "Customer Information", "Order Information", and "Payment Information". The "Customer Information" page is not required, while "Order Information" and "Payment Information" are required. This suggests that the form is designed to collect basic information from customers, including their details and order details, followed by payment information. The form is likely used for customers to place and pay for their orders online.
-
-</thinking>
-
 # Produce Box Payment Form - Help Guide
 ## Purpose
 The Produce Box Payment Form is designed to collect payment information from customers for their produce box orders. This form helps customers provide their details and payment information in a convenient and streamlined process.

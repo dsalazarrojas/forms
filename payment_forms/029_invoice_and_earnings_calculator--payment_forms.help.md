@@ -1,8 +1,3 @@
-<thinking>
-The form appears to be a complex tool that calculates invoice and earnings data. It includes multiple pages with fields related to payment status, terms, and payment method. The form likely aims to gather input from the user for calculating invoice and earnings data for a business or organization. The fields are mostly boolean (yes/no) or numerical input types. This form likely serves as a tool for financial calculations, possibly for accounting or invoicing purposes. It's possible that the form is used to track payment terms and status across different categories or payment methods. To avoid duplication of effort, the form should be reviewed for any potential overlap or redundancy in its fields and calculations. The form seems to require user input for all fields, but further review is needed to confirm if any fields are mandatory for the form's purpose.
-
-</thinking>
-
 # Invoice And Earnings Calculator - Help Guide
 ## Purpose
 The Invoice And Earnings Calculator is a tool designed to assist in calculating invoice and earnings data for businesses or organizations. It gathers input from the user to perform financial calculations, possibly for accounting or invoicing purposes.

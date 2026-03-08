@@ -1,18 +1,3 @@
-<thinking>
-This form is designed to collect information from customers or users who are interested in leasing a domain from our company. The purpose of this form is to gather necessary details for the lease process, such as the type of lease, domain provider information, domain details, business or personal use, available domains for lease, lease terms, lease duration, website maintenance preferences, and agreement signing details.
-
-This form is meant to be completed by a single user, and it is not intended to be filled out multiple times by the same user. Each field is designed to collect specific information that is relevant to the lease process.
-
-To avoid any confusion, please ensure that you are filling out the form with accurate and truthful information. If you are unsure about any of the fields or have questions, please reach out to our support team for clarification.
-
-Please note that the options for the "lease_duration" field are for how many months you would like to lease the domain for. For example, if you select "1", it will be one month, "3" will be three months, and so on.
-
-The "website_maintenance" field is a select_multiple type, but in this case, it is not a multiple selection of items, but rather a single selection of true or false for website maintenance. Please select "True" if you want to opt-in for website maintenance, "False" if you don't, and "None" if you are unsure or would like to discuss this with us.
-
-The "agreement_signing" field is also a select_multiple type, but again, it is a single selection. Please select "By Hand" if you would like to sign the agreement in person, "Online" if you would prefer to sign online, and "Paper" if you would like to receive a printed copy of the agreement.
-
-</thinking>
-
 # Domain Leasing Application Form - Help Guide
 ## Purpose
 This form is designed to collect information for the leasing process.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to process payments for festival vendors. It is designed to collect relevant information for payment processing, including event details and vendor payment information. The form is part of the payment process, ensuring that all required fields are filled out correctly and accurately. 
-
-Please note that this form is specifically designed for festival vendors to complete when paying for festival participation. 
-
-</thinking>
-
 # festival_vendor_check_out_form - Help Guide
 ## Purpose
 The festival_vendor_check_out_form is used to process payments for festival vendors, gathering essential information for payment processing and vendor payment status updates.

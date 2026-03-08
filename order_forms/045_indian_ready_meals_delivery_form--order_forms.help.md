@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for Indian meal delivery services. The purpose of this form is to gather customer details, delivery information, and order specifics for efficient meal delivery services. It is essential to fill out this form accurately to ensure timely and correct meal delivery.
-
-Before proceeding, please ensure that you have all the necessary information required to complete this form. If you are unsure about any field, please review the following guide for clarification.
-
-</thinking>
-
 # indian_ready_meals_delivery_form - Help Guide
 ## Purpose
 This form is designed to collect information for Indian meal delivery services.

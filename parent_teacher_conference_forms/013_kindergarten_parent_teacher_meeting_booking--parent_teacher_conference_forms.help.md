@@ -1,10 +1,3 @@
-<thinking>
-We are creating this form as a tool to support parent-teacher communication in the kindergarten setting. The form will be used to schedule and record parent-teacher meetings, allowing teachers to gather important information from parents and provide updates on a child's progress. This form is designed to be user-friendly and easy to complete, ensuring that parents can quickly and efficiently provide necessary information and receive meeting details.
-
-Please note that this form is a sample and might not cover all possible scenarios or requirements specific to your institution or location. Review and adjust the form according to your specific needs.
-
-</thinking>
-
 # Kindergarten Parent Teacher Meeting Booking - Help Guide
 ## Purpose
 This form is used to schedule and record parent-teacher meetings for kindergarten students. It helps teachers gather information from parents and provide updates on a child's progress.

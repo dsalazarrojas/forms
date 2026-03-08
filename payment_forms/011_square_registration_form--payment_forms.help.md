@@ -1,7 +1,3 @@
-<thinking>
-The Square Registration Form is a document created using AI-generated form technology, designed to collect registration information from users. This form is a unique adaptation of publicly available survey topics, and is not affiliated with or copied from any existing form platforms.
-</thinking>
-
 # Square Registration Form - Help Guide
 ## Purpose
 The Square Registration Form is designed to collect registration information from users, including their provider information, payment terms, signature, and other relevant details. This form helps users confirm their registration and agree to terms and conditions.

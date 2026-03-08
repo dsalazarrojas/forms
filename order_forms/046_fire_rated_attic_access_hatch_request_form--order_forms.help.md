@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to gather information for fire-rated attic access hatch requests. The purpose of this form is to collect details about the installation of a fire-rated hatch, including the location where the hatch is to be installed, the date and time of installation, and other relevant details. This form helps ensure that the installation is properly documented and that necessary information is communicated to the relevant parties. 
-
-This form will also help prevent duplication of efforts by ensuring that only one request is submitted for each installation location. If a request is already submitted for a particular location, the user will be notified to prevent multiple requests for the same location.
-
-</thinking>
-
 # Fire Rated Attic Access Hatch Request Form - Help Guide
 ## Purpose
 This form is used to gather information for fire-rated attic access hatch requests. It is intended to ensure that all necessary details are provided for the proper installation of the hatch.

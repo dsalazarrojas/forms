@@ -1,10 +1,3 @@
-<thinking>
-The Vegetable Order Form is used for customers to place orders for vegetables. 
-The form allows customers to input their name, email, phone number, address, and order details.
- Customers can select multiple vegetables to add to their order. 
- The form also requires the customer to input the quantity and price of each vegetable.
-</thinking>
-
 # Vegetable Order Form - Help Guide
 ## Purpose
 The Vegetable Order Form is used for customers to place orders for vegetables. This form helps the customer to submit their order details for processing.

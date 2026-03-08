@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # shelf_label_adhesive_refill_order_form - Help Guide
 ## Purpose
 This form is designed to facilitate the ordering of shelf label refills. It gathers necessary information for the order to be processed and ensures accurate communication with the customer regarding their order status and any potential issues that may arise during the refill process.

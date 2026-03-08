@@ -1,9 +1,3 @@
-<thinking>
-This form is used to gather feedback from customers or users about the transparency of our invoicing process. This form is meant to be completed by individuals who have received an invoice from us and want to provide their opinion on how transparent our invoicing process was. The purpose of this form is to help us identify areas where we can improve our transparency and make it more efficient for our customers.
-To ensure that the form is being filled out by the right people, please ensure that you have received an invoice from us and that the form is relevant to your experience. If this is not the case, please do not fill out the form.
-Please fill out this form carefully, and only provide feedback that is relevant to the question asked. If you're unsure about what to fill out, please ask your account manager for guidance. They will be able to assist you with any questions or concerns you may have.
-</thinking>
-
 # Invoice Transparency Feedback Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback about the transparency of our invoicing process. If you have received an invoice from us and have thoughts or suggestions on how we can improve, this is the right place to share them.

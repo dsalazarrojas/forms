@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's make sure we understand the purpose of this form. The Public Safety Equipment Requisition Form is used for end-users to request public safety equipment from the company's inventory. This form helps ensure that the equipment requested is properly managed and tracked for future reference. To use this form, you should only submit a request if you have a legitimate need for the equipment. Please make sure to provide accurate and complete information to facilitate efficient processing of your request. If you are unsure about which equipment you need or if you have questions, you can contact the relevant personnel for guidance.</thinking>
-
 # Public Safety Equipment Requisition Form - Help Guide
 
 ## Purpose

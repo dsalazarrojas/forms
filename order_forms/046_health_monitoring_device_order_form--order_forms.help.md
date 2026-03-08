@@ -1,8 +1,3 @@
-<thinking>
-This is a form designer and technical writer creating a user-facing help guide for the "Health Monitoring Device Order Form". The form is designed to collect information from patients to place an order for a health monitoring device. This form is likely to be used in a medical setting, such as a hospital or clinic, where patients need to be monitored for various health conditions. The form is intended to be completed by a patient or their representative, and the information collected will be used to process the order and provide the necessary device and services to the patient.
-Before proceeding, let's ensure that we are not duplicating effort and that the form is being used for its intended purpose. This form should only be used for ordering health monitoring devices, and not for other purposes such as patient registration or billing.
-</thinking>
-
 # Health Monitoring Device Order Form - Help Guide
 ## Purpose
 The Health Monitoring Device Order Form is designed to collect information from patients to place an order for a health monitoring device. This form is used to gather details such as patient information, device requirements, and billing information to process the order accurately and efficiently.

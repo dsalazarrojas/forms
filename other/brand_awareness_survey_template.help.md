@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to assess public perception and recognition of a brand, specifically to understand how well-known the brand is to the public and what aspects of the brand are considered most prominent in the mind of the respondent. The form asks about the degree of familiarity with the brand, sources of information about the brand, overall brand impression, and open-ended questions to gather more subjective feedback.
-
-</thinking>
-
 # brand_awareness_survey_template - Help Guide
 ## Purpose
 The Brand Awareness Survey is a tool used to gauge the level of recognition and understanding of our brand among the public. It is designed to gather information on the familiarity, sources of information, and overall impression of the brand, as well as suggestions for improvement.

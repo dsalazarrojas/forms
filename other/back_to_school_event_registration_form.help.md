@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be a registration form for a back-to-school event, likely for students to provide their information and details about the event. It seems to be a repetitive form with multiple pages and fields, possibly indicating that it's a survey or registration form for multiple students or events. To avoid duplication, it's likely that this form is intended for a specific group of students or events, and the repetition is to accommodate all the necessary information for each individual or event. Before proceeding, please review the form carefully to ensure that it's correctly filled out and that there are no unnecessary fields for your specific use case.</thinking>
-
 # back_to_school_event_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information about students and events for a back-to-school event. It's a survey or registration form that allows you to provide details about multiple students or events, and it seems to be repetitive to accommodate all the necessary information.

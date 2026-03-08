@@ -1,10 +1,3 @@
-<thinking>Internal reasoning:
-This form is designed to collect detailed health information from patients, including their personal details, medical history, and family history. It is intended to be used by healthcare professionals to assess and address patient needs. Before completing this form, please ensure that you have read the patient's medical history carefully and have obtained necessary approvals or consents from the patient or their legal representative.
-
-Please note that some fields may have multiple options, and patients may select multiple answers for each field. Be sure to review each section carefully and ensure that all required fields are completed before proceeding.
-
-Also, some fields may require additional details or explanations, so please use your best judgment when filling out these fields.</thinking>
-
 # Health History Form - Help Guide
 
 ## Purpose

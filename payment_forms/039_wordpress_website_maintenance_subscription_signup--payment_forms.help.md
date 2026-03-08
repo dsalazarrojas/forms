@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to subscribe to website maintenance services. The purpose of this form is to gather essential details from potential customers to tailor our maintenance plans to their specific needs. By providing their first name, email address, and company name (if applicable), users can ensure that our team is in touch with them for any updates or questions. The "Plan (Monthly)" field allows users to select the desired payment frequency, and the "Payment Method" field is crucial for us to understand how they would like to make their payments. The "Payment Terms" field is optional, but it's meant to capture any specific requirements or agreements regarding payment.
-
-Please ensure this form is not a duplicate for you. If you have already filled this form, you won't need to do so again. If you have any questions or need further clarification, please let us know.
-
-</thinking>
-
 # WordPress Website Maintenance Subscription Signup - Help Guide
 ## Purpose
 This form is designed to collect information from users who wish to subscribe to website maintenance services. The gathered details help our team tailor plans to their specific needs and stay in touch with users for updates or questions.

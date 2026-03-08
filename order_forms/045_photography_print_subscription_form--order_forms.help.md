@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing customer information and subscription details for orders. It is crucial to ensure that the form is filled out correctly to avoid duplication of effort and errors in the order process. Please review the form carefully before proceeding to ensure that all required fields are filled out accurately.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect customer information and subscription details for orders.

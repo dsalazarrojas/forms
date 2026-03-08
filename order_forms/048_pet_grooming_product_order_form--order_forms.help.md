@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: The form is designed to collect information from customers who want to order pet grooming products. It asks for pet type, pet name, pet age, product type, quantity, contact email, and contact phone. The purpose of the form is to ensure that the customer's order is processed correctly and efficiently. This form is part of the "order_forms" category and is specifically for pet grooming products. There is no duplication of effort as the form is designed to cater to a specific product category. The form requires the customer to input pet type, pet name, pet age, product type, quantity, and contact email, which are all necessary for the processing of the order... </thinking>
-
 # Pet Grooming Product Order Form - Help Guide
 ## Purpose
 This form is for customers who want to order pet grooming products for their pets. It helps our team process their orders accurately and efficiently.

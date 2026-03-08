@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for gym poster and banner printing orders. The form is divided into several sections, each asking for a different piece of information. This will help the customers to provide all the necessary details for a smooth order process. To prevent form duplication, it is recommended to use a unique id for each order submission. This form is meant for internal use only and not for public sharing. The form fields are: Form Submission Details, Customer Info, Order Details, Print Order, Upload Design Files, Payment, Order Review, Confirm, Name, and Email. This form is an original adaptation of a public survey topic metadata and is released under CC BY 4.0 license.
-</thinking>
-
 # Gym Poster And Banner Printing Order Form - Help Guide
 
 ## Purpose

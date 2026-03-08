@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from parents or guardians about their needs and concerns. The purpose of this form is to ensure that parents or guardians feel heard and their needs are met. This form will be used to help teachers and school administrators understand the family situation and provide necessary support.
-</thinking>
-
 # Family Needs Assessment Form - Help Guide
 ## Purpose
 The Family Needs Assessment Form is a tool for parents or guardians to share their needs and concerns with school administrators and teachers. It helps the school support and address the needs of families, ensuring they receive the help and services they require.

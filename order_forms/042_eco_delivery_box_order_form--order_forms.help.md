@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for customers to place orders for the "Eco Delivery Box" service, which may involve delivering food, groceries, or other products to customers. Before filling out this form, please ensure you are an authorized representative of the customer and that you have their permission to place the order on their behalf. Additionally, double-check that the form fields are accurate and up-to-date to avoid any issues with the delivery. 
-
-</thinking>
-
 # Eco Delivery Box Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for the Eco Delivery Box service. Please use this form to place orders for delivery of products, including groceries and food.

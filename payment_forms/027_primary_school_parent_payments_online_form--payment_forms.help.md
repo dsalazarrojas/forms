@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for primary school parents to provide basic information, contact information, payment details, and any additional information related to their child's payments. It is essential to ensure that the form is filled out correctly to prevent mistakes and errors. The form has a total of 7 fields with varying degrees of requiredness.
-
-Before proceeding, it is crucial to review the form carefully to understand the purpose of each field and ensure that all required fields are filled in correctly. This form is a digital representation of the traditional payment form, and the fields have been designed to collect relevant information from parents.
-
-</thinking>
-
 # primary_school_parent_payments_online_form - Help Guide
 ## Purpose
 The primary_school_parent_payments_online_form is designed to collect basic information and payment details from primary school parents.

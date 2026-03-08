@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to gather information about restaurant takeout orders, including the payment method, customer details, order date and time, order details, and order total. This form is designed to be completed by customers or staff members for processing takeout orders.
-The form is divided into several sections, each with its own set of fields. To complete this form accurately and efficiently, follow these steps:
-</thinking>
-
 # Restaurant Takeout Order Form - Help Guide
 ## Purpose
 This form is used to gather information about restaurant takeout orders, including payment method, customer details, order date and time, order details, and order total.

@@ -1,10 +1,3 @@
-<thinking>
-To create this user-facing help guide, I will base the explanation on the provided YAML fields. The form "VestibularRehabilitationRegistration" appears to be a registration form for patients undergoing vestibular rehabilitation, a type of physical therapy. The purpose of the form is likely to gather relevant patient information for treatment planning and coordination.
-
-Upon reviewing the form fields, I will cover each field in the following sections: "How To Complete This Form", "Field-by-Field Explanation", and "Tips".
-
-</thinking>
-
 # VestibularRehabilitationRegistration - Help Guide
 ## Purpose
 This form is designed to collect relevant patient information for vestibular rehabilitation treatment planning and coordination.

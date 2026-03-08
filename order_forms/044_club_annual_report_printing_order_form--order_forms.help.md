@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for clubs and organizations to place orders for printing of their annual reports. The form is used to gather information about the club, contact person, and order details such as report title, document format, quantity, and delivery specifications. The form is also used to collect information on estimated cost, payment method, and special requests. 
-
-This form is intended for use by clubs and organizations that need to print their annual reports. If you are not a club or organization, this form is not for you.
-
-The form has been designed to be as straightforward as possible, with each field labeled clearly and concisely. However, it's worth noting that some fields may require additional explanation or clarification to ensure that the information is entered correctly.
-
-To avoid duplication of effort, please review the form carefully before submitting it. If you are unsure about any of the fields, please reach out to the contact person or support team for assistance.
-
-</thinking>
-
 # Club Annual Report Printing Order Form - Help Guide
 
 ## Purpose

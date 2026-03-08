@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a price proposal for a second-hand item. It is used for buying and selling of second-hand items. The form can be completed by both buyers and sellers. 
-</thinking>
-
 # second_hand_item_price_proposal_form - Help Guide
 ## Purpose
 This form is used to create a price proposal for a second-hand item. It captures information about the item being sold or purchased, including its condition, price, and contact information for the buyer and seller.

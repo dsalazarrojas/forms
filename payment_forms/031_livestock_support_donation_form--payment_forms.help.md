@@ -1,8 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "livestock_support_donation_form" that explains its purpose and fields to ensure users complete the form correctly and provide accurate information.
-The purpose of this form is to gather support for livestock-related needs, such as asking if a user has a donkey or if they need support. The form has 5 fields: "Don't Have a Donkey?", "Donation Amount", "Email Address", "Name of Donor", and "Phone Number". Users will not be required to provide a valid email address or phone number, but they can choose to do so if they wish.
-</thinking>
-
 # livestock_support_donation_form - Help Guide
 ## Purpose
 This form is designed to gather information from users who need support for their livestock-related needs. Please answer the following questions to provide your support request.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for end-users to place orders for flower delivery. The form is likely used by a business or organization to collect information from customers about their orders. This information will be used to fulfill the order and ensure smooth delivery. It is not clear if this form is used for internal purposes or if it is a customer-facing form for placing orders. However, the form fields suggest it is for customer-facing use. The form may be used to gather order details, preferences, and payment information. The form should be filled out carefully to ensure accurate and complete information is provided.
-</thinking>
-
 # Flower Delivery Form - Help Guide
 ## Purpose
 This form is used to place an order for flower delivery. Please fill out the form carefully and accurately to ensure your order is processed correctly.

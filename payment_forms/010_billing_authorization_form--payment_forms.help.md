@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is designed to assist you in completing the Billing Authorization Form. This form is used to request payment authorization for services rendered by our company. It is essential to provide accurate and complete information to ensure seamless processing of your requests.
 
 Before proceeding, please ensure that you have:

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Photography Order Form Template - Help Guide
 ## Purpose
 The School Photography Order Form Template is designed to collect order information from customers. It is intended for use in schools or educational institutions that offer photography services. This form helps customers provide necessary details about their order, including order information, payment, and delivery options.

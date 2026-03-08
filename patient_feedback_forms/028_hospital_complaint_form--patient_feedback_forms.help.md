@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patients and individuals to submit their complaints to the hospital. It is meant to collect information about the nature of the complaint, the patient's identity, and contact information. The form should be used to report general complaints or concerns, such as issues with hospital services, staff behavior, or medical care. Please do not use this form to report emergencies or urgent matters. If you have an urgent issue, contact the hospital's emergency number or seek immediate attention from a medical professional. This form is not intended to replace other reporting mechanisms, such as incident reports or quality improvement initiatives.
-</thinking>
-
 # hospital-complaint-form - Help Guide
 ## Purpose
 The hospital-complaint-form is a tool for patients and individuals to report complaints or concerns to the hospital.

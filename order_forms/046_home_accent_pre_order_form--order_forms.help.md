@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from customers to facilitate home accent pre orders. This form is designed to be completed by customers who want to place an order for home accent products or services. 
 
 ### Home Accent Pre Order Form - Help Guide

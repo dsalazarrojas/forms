@@ -1,7 +1,3 @@
-<thinking>
-We need to create a form that captures the necessary information for a Tabletop Gaming Event Payment Form. This form will be used to collect data from participants for a tabletop gaming event, specifically focusing on event details, participant information, order requests, and payment details. The form should be simple and easy to understand, with clear labels and explanations for each field. We'll follow the YAML structure to determine the purpose and functionality of each field.
-</thinking>
-
 # Tabletop Gaming Event Payment Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from participants for a tabletop gaming event. It covers event details, participant information, order requests, and payment details. Please fill out the form accurately to ensure smooth event management.

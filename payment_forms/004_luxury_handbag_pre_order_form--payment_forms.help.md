@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is likely for customers to pre-order luxury handbags and provide necessary information for delivery and payment details. This form may be used for online or offline sales, and it's essential to ensure that customers fill it out accurately to avoid any confusion or errors. It's also worth noting that some fields may not be required, which could be a deliberate design choice to make the form more user-friendly or to accommodate different use cases. To avoid duplication, it would be best to check if this form already exists and is being used elsewhere in the system or if it's a new form being created.
-</thinking>
-
 # Luxury Handbag Pre Order Form - Help Guide
 ## Purpose
 The Luxury Handbag Pre-Order Form is designed to collect information from customers interested in pre-ordering a luxury handbag. This form is used to gather details such as customer contact information, order details, and payment information to ensure smooth delivery and processing of the pre-order.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from patients about their care experiences. This form is designed to gather specific details about patient complaints, including category, description, date, time, location, contact information, and attachments. By understanding the patient's perspective, care providers can identify areas for improvement and make necessary adjustments to deliver better care. To avoid duplication, please ensure that this form is used for new complaints only.
-</thinking>
-
 # Patient Care Complaint Form - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback from patients about their care experiences.

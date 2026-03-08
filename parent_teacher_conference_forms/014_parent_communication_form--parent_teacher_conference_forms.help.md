@@ -1,22 +1,3 @@
-<thinking>
-This form is designed for parents to provide their communication during parent-teacher conferences. The purpose of this form is to gather information from parents about their child's progress, concerns, and expectations for future conferences. This form should be used by parents to communicate their thoughts and concerns to teachers before, during, or after parent-teacher conferences.
-
-To ensure consistency and avoid duplication of effort, please note that this form should only be used for parent-teacher conferences. If you have other concerns or information to share, please consider using other relevant forms or channels.
-
-The fields on this form are designed to collect specific types of information and are required for the following reasons: 
-
-  * Conference Topic: This field helps to specify the topic that will be discussed during the conference. It is not only important for the teacher to have a clear topic in mind but also for the parent to understand the focus of the conference. 
-  * Parent Name: This field is to gather the name of the parent who will be attending the conference. It's a basic but essential piece of information for the teacher to address the parent properly. 
-  * Parent Email and Parent Phone: These fields are to provide an additional point of contact for the parent. If there are any follow-up questions or concerns, the teacher can easily reach out to the parent. 
-  * Teacher Name: This field is optional, and it's not a required field for the parent's information. It's intended to gather additional details from the teacher who will be conducting the conference. 
-  * Date and Time of Conference: These fields are also optional, and they help the teacher to schedule the conference accordingly. 
-  * Comments and Teacher Conference Notes: These fields are designed to be free-text input areas for parents and teachers to leave notes and comments about the conference. They are optional but provide valuable information for follow-up actions and future conferences. 
-  * Parent Conference Notes: This field is a select-one input where the parent selects one of the provided options. It's a way to gather the parent's feedback and expectations for future conferences.
-
-This form is meant to facilitate effective communication between parents and teachers during conferences, making it easier for both parties to be on the same page.
-
-</thinking>
-
 # Parent Communication Form - Help Guide
 ## Purpose
 

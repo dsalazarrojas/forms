@@ -1,9 +1,3 @@
-<thinking> 
-
-The form's purpose is to collect information related to the release of powders in the context of a business or organization's products, likely for fulfillment, inventory management, or other related administrative tasks. It is possible that this form is used in a B2B (Business-to-Business) or B2C (Business-to-Consumer) setting. However, without more specific context, we cannot be certain of the exact nature of the form's use. The form's structure suggests it is focused on details about orders, customers, and payments. This guide will provide explanations for each field to assist users in completing the form accurately and efficiently. 
-
-</thinking>
-
 # Powder Release Product Order Form - Help Guide
 
 ## Purpose

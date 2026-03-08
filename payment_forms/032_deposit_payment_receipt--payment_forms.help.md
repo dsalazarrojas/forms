@@ -1,9 +1,3 @@
-<thinking>
-To create the user-facing help guide for the "Deposit Payment Receipt" form, we need to understand the purpose and context of the form. 
-The form is designed to collect information related to deposits made by lessees (renters or tenants) to landlords. It appears to be used for documenting and recording payment receipts for such transactions. The form likely serves as a record-keeping mechanism for landlords to keep track of deposits made by their lessees. The form is probably used in a rental or leasing context.
-The form is composed of 12 fields, which include details about the landlord, lessee, contact information, addresses, and payment details. Each field is categorized into different sections, and most fields are required except for a few that are marked as optional.
-</thinking>
-
 # Deposit Payment Receipt - Help Guide
 ## Purpose
 The "Deposit Payment Receipt" form is used to document and record payment receipts for deposits made by lessees to landlords. It helps landlords keep track of these transactions and ensures accurate record-keeping.

@@ -1,22 +1,3 @@
-<thinking>
-This form is intended to gather information for the SpringSummer 2021 Color Street Ordering process. It is likely used to collect data from customers or employees for the purpose of ordering Color Street products. The form is likely part of an internal process for managing orders. To prevent duplication, this form should not be filled out if the user has already submitted an order for the same product or if the product is out of stock.
-
-The form is structured as a series of questions to gather various types of information:
-- Catalog ID: This field is used to select the catalog from which to order.
-- Spring Order: This field indicates if the user wants to place an order.
-- Color Street Shades: This field indicates if the user wants to order Color Street Shades.
-- Catalog Release Date: This field indicates if the user wants the latest catalog release date.
-- Product Release Date: This field indicates if the user wants the latest product release date.
-- Additional Remarks: This field is used to enter any additional remarks or comments about the order.
-- Product Remarks: This field is used to enter any additional remarks or comments about the product.
-- Product Release Date Remarks: This field is used to enter any additional remarks or comments about the product release date.
-- Ordering Remarks: This field is used to enter any additional remarks or comments about the ordering process.
-- Product Remarks 2-12: These fields are used to enter any additional remarks or comments about the product.
-- Product Release Date Remarks 2-4: These fields are used to enter any additional remarks or comments about the product release date.
-- Ordering Remarks 2-3: These fields are used to enter any additional remarks or comments about the ordering process.
-- Consistency Remarks: This field is used to enter any remarks or comments about the consistency of the product.
-</thinking>
-
 # SpringSummer 2021 Color Street Ordering - Help Guide
 ## Purpose
 The SpringSummer 2021 Color Street Ordering form is used to collect information for the ordering process of the SpringSummer 2021 Color Street product line. This form is used to determine which items to order and any additional remarks or comments about the product.

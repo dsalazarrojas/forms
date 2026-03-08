@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for industrial surface coating material orders. The form is likely used in a manufacturing or production setting where surface coatings are applied to various materials or surfaces. The form's purpose is to gather details about the order, including the coating type, shipping information, and any additional notes. The form is not a survey, but rather a transactional form used for business-to-business or business-to-customer communication.
-
-To avoid duplication, it's recommended that customers only fill out this form once per order. If a customer has multiple orders, they should create separate forms for each order.
-
-This form does not contain any sensitive or personal information, and the information collected will be used solely for the purpose of fulfilling the order.
-</thinking>
-
 # Industrial Surface Coating Material Order Form - Help Guide
 ## Purpose
 

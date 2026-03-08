@@ -1,5 +1,3 @@
-<thinking>Before generating the user-facing help guide for the Mesothelioma Claim Form, let me first confirm that the form is meant to collect sensitive medical and personal information from patients or their representatives seeking compensation or benefits related to mesothelioma (a rare cancer caused by asbestos exposure). The purpose of this form is to gather accurate and comprehensive data to facilitate the claims process. I will ensure the explanations are clear, concise, and practical, while avoiding any potential duplication or unnecessary information.</thinking>
-
 # Mesothelioma Claim Form - Help Guide
 ## Purpose
 The Mesothelioma Claim Form is designed to gather essential information from patients or their representatives to support the claims process for mesothelioma-related compensation or benefits.

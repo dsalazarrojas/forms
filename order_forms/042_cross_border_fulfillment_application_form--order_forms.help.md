@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used by customers to apply for the Cross Border Fulfillment Application, which is an international shipping service that allows customers to send packages across borders with ease. To be eligible for this service, applicants must have the following requirements: a valid email, a working phone number, and a company name that is registered and in good standing. This service is intended for business customers, hence the form will ask for a company name and type. This service does not require customers to be physically present for the application, but it is still necessary for the applicant to provide accurate and up-to-date information about themselves and their company. 
-
-The form will ask for basic contact information such as email, phone, and address, which will be used for communication purposes only. The form will also ask for a date of birth, which is a requirement for some of our partner countries. This will be verified through a background check. The form is designed to be completed by one person per company, hence the "Contact Person" field. 
-
-Please note that this is a general explanation of the form purpose and requirements. Please check the field explanations for specific guidance on each field. 
-
-</thinking>
-
 # Cross Border Fulfillment Application Form - Help Guide
 ## Purpose
 The Cross Border Fulfillment Application Form is used to apply for the Cross Border Fulfillment service, a international shipping service that helps businesses send packages across borders.

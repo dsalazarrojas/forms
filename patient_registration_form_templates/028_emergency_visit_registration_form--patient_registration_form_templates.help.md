@@ -1,10 +1,3 @@
-<thinking>
-Form Purpose:
-This form is designed to gather information about a patient's emergency visit, including patient identifier, emergency contact details, medical history, and other relevant information. This form will help medical staff at the facility to quickly and accurately gather necessary information during an emergency visit.
-Form Non-Duplication:
-To prevent data duplication, this form should not be used for patients who have already been registered in the system.
-</thinking>
-
 # Emergency Visit Registration Form - Help Guide
 
 ## Purpose

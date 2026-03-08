@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture user's personal information for the purpose of ordering a personalized ornament. It seems that the form is meant to collect information that will be used to create a customized ornament for the user. The required fields are not specified, so I will make some assumptions based on the form's purpose.
-</thinking>
-
 # Personalized Ornament Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect your personal information to create a customized ornament just for you. Please fill out the form carefully to ensure accurate details for your special gift.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and provide a process for handling rental deposit refunds. This form is designed to gather necessary details from tenants or property managers to facilitate a smooth rental deposit refund process.
-
-Before proceeding, please ensure this form is not already being used for a duplicate request or process. If you are unsure, contact the relevant authority or department for clarification.
-
-</thinking>
 # rental_deposit_refund_form - Help Guide
 ## Purpose
 This form is used to collect necessary details for handling rental deposit refunds. It helps tenants or property managers provide required information to facilitate the refund process.

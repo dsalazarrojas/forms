@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Testing Site Discharge Form - Help Guide
 
 ## Purpose

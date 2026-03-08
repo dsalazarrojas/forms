@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This form is intended for individuals who want to register as COVID-19 volunteers. It is a simple, one-page form with a few fields designed to collect basic information from potential volunteers. Completing this form will help us verify and process your volunteer status. Please note that this form will be reviewed for duplicates and relevance; please do not submit duplicate entries or provide false information.
 
 # COVID Volunteer Registration Form - Help Guide

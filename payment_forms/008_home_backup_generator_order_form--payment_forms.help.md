@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers regarding their home backup generator needs, including their contact details and payment options. To avoid duplication, it's essential to review the customer's account information before proceeding. This form collects customer information, backup generator selection, contact details, payment method, and order details. The form should only be filled out once the customer has been verified.
-</thinking>
-
 # Home Backup Generator Order Form - Help Guide
 ## Purpose
 The Home Backup Generator Order Form is designed to collect essential information from customers to process their requests for a home backup generator.

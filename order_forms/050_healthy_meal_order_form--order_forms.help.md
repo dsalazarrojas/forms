@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is meant to gather user preferences for healthy meal options. It's likely used for a nutrition-related context, such as a health food store or a wellness program. The form has four sections, each focused on a different meal period: Breakfast, Snack, Lunch, and Dinner. The form asks the user to select whether they prefer certain healthy meal options for each period... </thinking>
-
 # Healthy Meal Order Form - Help Guide
 ## Purpose
 The Healthy Meal Order Form is designed to gather user preferences for healthy meal options. This information will help provide personalized recommendations for healthy meals.

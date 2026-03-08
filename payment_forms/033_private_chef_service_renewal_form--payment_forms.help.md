@@ -1,11 +1,3 @@
-<thinking>As a technical expert, I'll create a comprehensive user-facing help guide for the "private_chef_service_renewal_form" form. This guide will cover the form's purpose, step-by-step instructions on how to complete it, and a field-by-field explanation of each section. I'll ensure that the explanations are concrete, concise, and practical, without inventing unsupported business logic.
-
-Before diving into the guide, I want to emphasize that this form is designed for private chef service renewal, which implies that the form is used to collect information from customers who are renewing their private chef services. The form's purpose is to gather accurate and relevant information from customers to facilitate the renewal process efficiently.
-
-Please note that the form has various fields with different types (e.g., text, date, select_one, select_multiple, etc.), which might require specific formatting or input from the customer.
-
-After reviewing the form's structure and fields, I'll proceed to create the user-facing help guide.</thinking>
-
 # private_chef_service_renewal_form - Help Guide
 ## Purpose
 The "private_chef_service_renewal_form" is designed for customers to renew their private chef services. This form will help you provide accurate and relevant information to facilitate the renewal process efficiently.

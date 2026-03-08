@@ -1,7 +1,3 @@
-<thinking>
-The form "sports_event_ticket_portal_access_form" is designed to collect information from event organizers and attendees for sports events. It aims to gather essential details for the event, including the event organizer's information, attendee's details, ticket information, contact details, event details, and ticket sales. This form is intended to be a comprehensive tool for event management, ticket sales, and communication. To avoid duplication, we will assume that the form will be used in a context where event organizers and attendees already have a basic understanding of the event and its details.
-</thinking>
-
 # sports_event_ticket_portal_access_form - Help Guide
 ## Purpose
 This form is designed to collect information from event organizers and attendees for sports events. It gathers essential details for event management, ticket sales, and communication.

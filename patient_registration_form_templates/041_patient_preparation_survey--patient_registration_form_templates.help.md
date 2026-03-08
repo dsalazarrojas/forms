@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Preparation Survey - Help Guide
 ## Purpose
 This form is designed to collect relevant and detailed information about a patient's medical history, medical conditions, allergies, medications, and emergency contact information. It is intended to help healthcare professionals gather essential data for patient care and treatment.

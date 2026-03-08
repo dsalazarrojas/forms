@@ -1,19 +1,3 @@
-<thinking>
-This form is a hotel stay invoice form, used to generate an invoice for a hotel stay. This form is designed to collect necessary details from the user to create a comprehensive invoice for a hotel stay. To complete this form, follow these steps:
-
-1. Select the hotel from the available options.
-2. Enter the guest's name in the text field.
-3. Choose the room type(s) that the guest stayed in.
-4. Enter the start and end dates of the stay.
-5. Enter the room rate for the stay.
-6. Select the currency of the room rate.
-7. Enter the total amount of the invoice.
-8. Enter the service charge (if any).
-
-Please note that all fields are optional, and the form will still generate an invoice even if some fields are left blank.
-
-</thinking>
-
 # Hotel Stay Invoice - Help Guide
 ## Purpose
 This form is used to generate an invoice for a hotel stay, allowing users to input details such as hotel, guest name, room type, dates, room rate, and service charge.

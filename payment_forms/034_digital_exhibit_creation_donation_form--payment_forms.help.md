@@ -1,7 +1,3 @@
-<thinking>
-To create a digital exhibit donation form, we need to ensure that the form purpose and structure align with the organization's goals and user experience requirements. This form will be used to collect donations from users, and we need to make sure that the information collected is accurate and relevant. We should also avoid duplicating efforts and ensure that the form is not too complex or confusing for users. The form should be designed to be easy to use and provide a clear path to completion. We should also consider the security and compliance requirements for collecting user data. 
-</thinking>
-
 # digital_exhibit_creation_donation_form - Help Guide
 ## Purpose
 This form is designed to collect donations from users for digital exhibit creation projects.

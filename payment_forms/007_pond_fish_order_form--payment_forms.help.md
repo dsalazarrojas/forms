@@ -1,5 +1,3 @@
-<thinking>As a payment form, this form is designed to collect essential information from customers to facilitate smooth delivery and payment for pond fish orders. This form should only be completed by authorized personnel to prevent duplication and ensure accurate data capture.</thinking>
-
 # Pond Fish Order Form - Help Guide
 ## Purpose
 The Pond Fish Order Form is a tool used to gather information from customers for pond fish orders. It is essential to have a clear and accurate record of customer details and delivery preferences to ensure timely and efficient order fulfillment.

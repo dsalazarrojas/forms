@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # rental_payment_form - Help Guide
 
 ## Purpose

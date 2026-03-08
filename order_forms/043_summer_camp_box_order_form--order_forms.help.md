@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Summer Camp Box Order Form - Help Guide
 ## Purpose
 This form is intended for participants of the summer camp to provide their address information, choose the content of the box, and confirm the delivery date of their order. The purpose of this form is to gather essential details required to prepare and deliver a customized box to each participant. The information collected will be used to create a personalized box with contents tailored to each participant's preferences, ensuring a unique and enjoyable experience.

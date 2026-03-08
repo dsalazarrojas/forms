@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # prophets - Help Guide
 ## Purpose
 The Prophets form is designed to collect feedback from patients about their experience with your care team. It helps to identify areas of improvement and ensures that the care provided meets the patient's expectations. This form is used to gather information on the patient's satisfaction, treatment outcomes, and areas for improvement.

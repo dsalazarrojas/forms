@@ -1,9 +1,3 @@
-<thinking>
-The form is designed for local farmers to place orders for their products. 
-This form will be used by customers to provide necessary information for the farmer to process their order. 
-It should be used only for placing orders, and not for any other purpose. 
-</thinking>
-
 # Local Farmer Product Order Form - Help Guide
 
 ## Purpose

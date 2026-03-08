@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for organizations to collect donations for a play therapy room, a space where children can play and learn. The purpose of this form is to capture relevant information from the organization about their donation, including the name of the organization, contact email, amount of the donation, frequency of the donation, method of donation, comments, phone number, date and time of the donation, address, city, state, and zip code. Please note that this form does not require any of this information, as all fields are optional. This form is designed to be a flexible and adaptable tool for organizations to provide their donation information.
-</thinking>
-
 # play_therapy_room_donation_form - Help Guide
 ## Purpose
 This form is used by organizations to provide their donation information for the play therapy room.

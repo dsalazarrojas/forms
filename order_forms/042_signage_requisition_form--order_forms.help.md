@@ -1,7 +1,3 @@
-<thinking>
-This form is for requisitioning signage, which means requesting for signage installations or updates. The purpose of this form is to gather information from the user for the signage installation or update request. This form should only be used by authorized personnel within the organization for official signage requests.
-</thinking>
-
 # signage_requisition_form - Help Guide
 ## Purpose
 This form is for requisitioning signage, which includes requesting new signage installations or updates. It gathers necessary information from the user for the signage request.

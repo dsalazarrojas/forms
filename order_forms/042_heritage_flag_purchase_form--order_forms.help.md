@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # heritage_flag_purchase_form - Help Guide
 
 ## Purpose

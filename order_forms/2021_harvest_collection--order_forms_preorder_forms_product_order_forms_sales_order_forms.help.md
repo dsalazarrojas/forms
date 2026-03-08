@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning block to verify the form's purpose and check for relevance and non-duplication:
-The form is designed to collect order information from customers, including customer details, order items, delivery preferences, and payment information. This form is likely used for the 2021 harvest collection, as indicated by the title. The form's structure and fields suggest it is used for both online and offline transactions. The form's fields are comprehensive, covering essential customer, order, and payment details. It appears that this form is intended for customers who want to place an order, and the fields suggest that the order is for a specific product or service. 
-</thinking>
-
 # 2021 Harvest Collection Order Form - Help Guide
 ## Purpose
 This form is designed to collect order information from customers, including their personal details, order items, delivery preferences, and payment information. It is used for the 2021 harvest collection.

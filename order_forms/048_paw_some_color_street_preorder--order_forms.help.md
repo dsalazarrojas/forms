@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paw Some Color Street Preorder - Help Guide
 
 ## Purpose

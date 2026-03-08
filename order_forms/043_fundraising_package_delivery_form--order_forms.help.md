@@ -1,8 +1,3 @@
-<thinking>
-This form is a part of the order process for fundraising packages. The form is designed to collect information about the delivery details of the fundraising package. The purpose of this form is to ensure that the delivery is properly recorded and documented.
-This form is used in conjunction with other forms and processes that handle the fundraising package order. To fill out this form, please make sure you have the necessary information about the fundraising package and its delivery details. Please note that some fields are not always required but are still important to provide as much detail as possible.
-</thinking>
-
 # fundraising_package_delivery_form - Help Guide
 ## Purpose
 This form is used to record the delivery details of a fundraising package.

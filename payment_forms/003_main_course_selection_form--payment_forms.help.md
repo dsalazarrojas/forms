@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from users regarding their course selections and preferences for events. The fields include selecting multiple courses, additional courses, event date, start and end times, meal preferences, number of guests, contact method, and contact information.
-The form is intended for general users, and most fields are optional. Users can choose from select options or enter their own text. The form is likely to be used for events or meetings, and the data collected will be used to plan and organize these events.
-To avoid duplication of information, users should not fill out the form if they have already attended the same event in the past.
-</thinking>
-
 # Main Course Selection Form - Help Guide
 ## Purpose
 

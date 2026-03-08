@@ -1,12 +1,3 @@
-<thinking>
-This form is a trading cards pre-order form. The purpose of this form is to collect customer information and order details for a pre-order of trading cards. This form is likely used by a company that sells trading cards to customers. The form may be used for internal use within the company or may be shared with external partners. 
-
-The form fields are divided into several sections: order details, customer details, order total, shipping details, payment details, shipping options, and delivery details. Each section is used to collect specific information from the customer. 
-
-Before creating this guide, it's essential to verify that the form is not a duplicate and that it serves its intended purpose. This guide will explain each field of the form, ensuring that customers understand what information to provide and how to complete it correctly.
-
-</thinking>
-
 # Trading Cards Pre Order Form - Help Guide
 ## Purpose
 This form is used to collect customer information and order details for a pre-order of trading cards.

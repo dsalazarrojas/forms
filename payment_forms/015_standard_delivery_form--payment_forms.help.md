@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's ensure that we're on the same page with the purpose and requirements of this form. The Standard Delivery Form is a comprehensive form designed to gather essential information from customers for standard delivery operations. This form is likely used in an e-commerce or order fulfillment context. Please review the form layout and fields to confirm that it covers all necessary customer and delivery details. Also, double-check that there are no duplicate or redundant fields.</thinking>
-
 # Standard Delivery Form - Help Guide
 ## Purpose
 This form is used to capture customer and delivery details for standard delivery operations, ensuring all necessary information is collected for efficient and effective delivery processes.

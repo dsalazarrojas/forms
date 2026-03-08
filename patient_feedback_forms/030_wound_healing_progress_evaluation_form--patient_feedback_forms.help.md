@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture the progress of a patient's wound healing process. It is used to track the patient's feedback, medical provider's comments, and follow-up information. This form should only be completed by authorized personnel. Please ensure you have the necessary permissions before accessing or modifying this form.
-</thinking>
-
 # Wound Healing Progress Evaluation Form - Help Guide
 ## Purpose
 This form is used to evaluate the progress of a patient's wound healing process.

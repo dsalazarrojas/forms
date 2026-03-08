@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for customers to submit an order for beverage line cleaners. The customer needs to select the order type, enter contact and billing/shipping information, and provide other relevant details such as quantity, special instructions, payment method, and shipping details. The form also includes fields for customer and ship to options, which are not used in the provided YAML. 
-
-The form is likely used in an e-commerce or retail environment where customers can place orders for beverage line cleaners online or over the phone. 
-
-The fields on this form are likely used by the business to process the order and fulfill the order accurately. The fields are designed to be completed by the customer, but some fields like customer and ship to options may not be necessary for every order and can be skipped. 
-
-The business may use this form to track the order, process the payment, and communicate with the customer regarding the order status.
-</thinking>
-
 # Smart Beverage Line Cleaner Order Form - Help Guide
 ## Purpose
 The Smart Beverage Line Cleaner Order Form is used to place an order for a beverage line cleaner. This form collects relevant information to process the order accurately and efficiently.

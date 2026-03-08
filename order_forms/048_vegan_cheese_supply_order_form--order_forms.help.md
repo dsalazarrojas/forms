@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from users to place an order for vegan cheese supply. This form will be used by customers to specify their delivery details and preferences. Please ensure you have all relevant information ready before proceeding...</thinking>
-
 # Vegan Cheese Supply Order Form - Help Guide
 ## Purpose
 The Vegan Cheese Supply Order Form is used to collect information from customers to place an order for vegan cheese supply.

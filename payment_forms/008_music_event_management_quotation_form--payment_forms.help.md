@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a music event management quotation, which is a crucial task in event planning. The form is designed to guide users through the essential details of the event, enabling them to accurately quote and communicate with clients about event specifics. 
-
-This form aims to streamline the process by providing a centralized location for event information. Before proceeding, ensure the form is not completed in error, and the provided information is accurate. If the form is already filled out for a different event, please do not use this form again. 
-
-To avoid duplication, only one form should be completed for each unique event.
-
-</thinking>
-
 # Music Event Management Quotation Form - Help Guide
 
 ## Purpose

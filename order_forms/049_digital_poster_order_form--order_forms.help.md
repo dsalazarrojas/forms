@@ -1,9 +1,3 @@
-<thinking>
-
-Before creating this help guide, I would like to ensure that I understand the purpose and context of this form. The Digital Poster Order Form seems to be a form for customers to place orders, providing their details, selecting products, and specifying delivery and payment options. It appears to be a comprehensive form covering various aspects of the order process. I will review the form fields to provide clear and concise explanations for end-users.
-
-</thinking>
-
 # Digital Poster Order Form - Help Guide
 
 ## Purpose

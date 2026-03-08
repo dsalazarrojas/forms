@@ -1,8 +1,3 @@
-<thinking>...
-This form is designed to collect information from patients after their postoperative discharge from the hospital. This information is crucial for the healthcare provider to ensure a smooth transition and follow-up care. Before completing this form, please note that the required fields are marked as such. It is essential to fill out all the fields accurately and thoroughly to ensure that the healthcare provider has all the necessary information for the patient's recovery. Also, please ensure that you have the patient's consent and signature before proceeding with the discharge process.
-
-</thinking>
-
 # Postoperative Discharge Form - Help Guide
 ## Purpose
 The Postoperative Discharge Form is a crucial document that provides the necessary information to the healthcare provider for postoperative care and follow-up. This form must be completed accurately and thoroughly to ensure a smooth transition and adequate recovery.

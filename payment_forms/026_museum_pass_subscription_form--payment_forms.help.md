@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to subscribe to a museum pass. The purpose of this form is to gather essential details such as the subscriber's name, contact information, payment plan, pass type, quantity, start and end dates, and subscription term. By completing this form, users can choose from different payment plans and pass types to suit their needs, specifying the quantity of passes they require and the duration of their subscription. The form requires users to input their name, email, phone number, and other necessary details to ensure a smooth and secure subscription process.
-</thinking>
-
 # Museum Pass Subscription Form - Help Guide
 
 ## Purpose

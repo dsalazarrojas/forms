@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for customers to place an Easter meal order. It collects contact information, meal preferences, special requests, Easter basket selections, and order notes. The form is designed to be completed by customers to submit their orders. The purpose of this form is to efficiently gather necessary information to fulfill the customer's order requirements.
-
-Please ensure you have read this help guide thoroughly to avoid any confusion or issues with your order submission. If you are unsure about any field or have any questions, please contact our support team.
-
-</thinking>
-
 # easter_meal_order_form - Help Guide
 ## Purpose
 The easter_meal_order_form is a user-facing form for customers to place an Easter meal order. It gathers contact information, meal preferences, special requests, Easter basket selections, and order notes.

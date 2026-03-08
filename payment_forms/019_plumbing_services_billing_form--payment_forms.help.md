@@ -1,10 +1,3 @@
-<thinking>
-This form is for billing purposes, specifically for recording and managing payments related to plumbing services. It is essential to ensure accurate and up-to-date information is entered for each form field to maintain the integrity of the billing process.
-
-Before proceeding, please verify that you are using this form for its intended purpose and that the information provided is accurate and complete. Ensure that you are not duplicating efforts by checking for existing entries in the system.
-
-</thinking>
-
 # plumbing_services_billing_form - Help Guide
 ## Purpose
 This form is designed to facilitate the billing process for plumbing services, allowing you to efficiently record and manage payments related to these services.

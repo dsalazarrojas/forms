@@ -1,20 +1,3 @@
-<thinking>
-This form is for ordering event signage customization for events. It is not intended for non-event use. Please ensure that you are filling out this form correctly to get the right information for event signage customizations. The form is 12 pages long. The fields are as follows: 
-- Page 1: Event Signage Customization Order Form 
-- Page 2: This is a text field. 
-- Page 3: This is also a text field. 
-- Page 4: This is a date field. 
-- Page 5: This is a text field. 
-- Page 6: Please select if you want to use a certain option for event signage customization. 
-- Page 7: Please select multiple options for event signage customization. 
-- Page 8: This is a time field. 
-- Page 9: Please enter an email address. 
-- Page 10: This is another text field. 
-- Page 11: This is a note field. 
-- Page 12: This is a number field. 
-
-</thinking>
-
 # Event Signage Customization Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for event signage customization. Please ensure that you are using this form for event-related purposes only.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers ordering a Supercharger Intake Manifold, likely for automotive parts or services. The form likely appears on a website or platform for customers to input their order details and contact information. I will assume the context is correct and the form is intended for this specific purpose.
-</thinking>
-
 # Supercharger Intake Manifold Order Form - Help Guide
 ## Purpose
 The Supercharger Intake Manifold Order Form is designed to collect order details and customer information from customers ordering a Supercharger Intake Manifold.

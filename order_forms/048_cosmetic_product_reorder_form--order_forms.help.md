@@ -1,9 +1,3 @@
-<thinking>
-
-Before designing this help guide, I considered the form's purpose and the fields required to complete it. This form is used for reorder operations of cosmetic products. It seems to be designed for inventory management in a retail or business setting. Each field is meant to capture essential information for a reorder process, such as the company name, product ID, quantity, date, and shipping preferences. The form appears to be well-structured for a straightforward and efficient reorder process.
-
-</thinking>
-
 # Cosmetic Product Reorder Form - Help Guide
 ## Purpose
 This form is for reorder operations of cosmetic products. It helps gather necessary information for inventory management and shipping purposes.

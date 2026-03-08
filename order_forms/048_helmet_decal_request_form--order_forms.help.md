@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request a helmet decal, which is a sticker or emblem that can be applied to a helmet to signify team affiliation or other affiliation. It's likely used in sports, military, or other organizations. The purpose of this form is to gather information about the request, including team name, artwork preference, size, color, and quantity of decals. The form is used to ensure that the request is accurately recorded and processed correctly.
-
-Please note that you must fill out this form if you wish to request a helmet decal. Duplicate requests will not be processed. Please ensure that you have read and understood the fields below before submitting the form.</thinking>
-
 # Helmet Decal Request Form - Help Guide
 ## Purpose
 The Helmet Decal Request Form is used to request a helmet decal, which is a sticker or emblem that can be applied to a helmet to signify team affiliation or other affiliation.

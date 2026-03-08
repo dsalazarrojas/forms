@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for healthcare organizations to enroll themselves in the system. It's essential to complete it accurately to ensure proper communication and collaboration between the organization and the system. Please note that this guide is a general help document and might not cover every possible scenario. It's recommended to review the form carefully and ask for clarification if unsure.
-
-</thinking>
-
 # Health Organization Enrollment Form - Help Guide
 
 ## Purpose

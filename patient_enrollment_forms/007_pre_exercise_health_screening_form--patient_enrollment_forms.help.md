@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a patient's health status before starting an exercise program. This form is not intended to be used for emergency medical situations or for patients with severe medical conditions. It's crucial that you only use this form for patients who are generally healthy and able to participate in physical activity. Before filling out this form, please ensure that you're not duplicating the information and that the patient's condition hasn't changed since the last assessment.
-</thinking>
-
 # Pre-Exercise Health Screening Form - Help Guide
 ## Purpose
 The Pre-Exercise Health Screening Form is designed to gather essential information about a patient's health status before beginning an exercise program. This form helps the healthcare provider to assess the patient's suitability for physical activity and identify any potential risks or concerns.

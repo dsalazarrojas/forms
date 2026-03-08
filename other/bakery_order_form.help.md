@@ -1,9 +1,3 @@
-<thinking>
-  This help guide is for the "Untitled Form" in the "SurveyTemplates" category.
-  The form's purpose is to collect information from users in a structured and efficient manner.
-  This form is not designed for any specific business logic or process that would require a more detailed explanation, so there is no need for additional context or non-duplication checks.
-</thinking>
-
 # Untitled Form - Help Guide
 ## Purpose
 The "Untitled Form" is a general-purpose form used to collect user information.

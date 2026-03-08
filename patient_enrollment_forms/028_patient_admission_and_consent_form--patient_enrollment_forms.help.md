@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form purpose is clear to end-users. This form is for patient admission and consent, which implies that it's used to collect information about a patient's identity, contact information, medical history, and consent for treatment. It's likely used in a healthcare setting, such as a hospital or clinic, to onboard new patients.
-
-The form has multiple pages, and each page represents a separate section of information to be collected. To avoid duplicating effort, we should ensure that the form is properly filled out in a single sitting, and that all required fields are completed before moving on to the next page. This guide will help end-users understand each field's purpose and requirements.
-</thinking>
-
 # Patient Admission And Consent Form - Help Guide
 ## Purpose
 The Patient Admission And Consent Form is used to collect essential information about a patient's identity, contact information, medical history, and consent for treatment. This form is designed to be filled out in a single sitting, and all required fields must be completed before moving on to the next page.

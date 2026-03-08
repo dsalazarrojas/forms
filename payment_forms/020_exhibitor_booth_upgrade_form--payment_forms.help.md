@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for upgrading an exhibitor's booth at an event. It is intended for exhibitors who wish to upgrade their booth space after the initial allocation. The form is designed to gather necessary information from the exhibitor for the upgrade process. To ensure accurate and efficient upgrading, please review this guide carefully.
-
-</thinking>
-
 # Exhibitor Booth Upgrade Form - Help Guide
 ## Purpose
 This form is used to upgrade an exhibitor's booth at an event. It's meant for exhibitors who want to change their initial booth allocation.

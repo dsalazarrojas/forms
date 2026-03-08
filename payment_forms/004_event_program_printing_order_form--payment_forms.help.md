@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users to create an order for a printed event program. This form is likely used in a business or event management context, where the user needs to specify details about the event, such as the name, type, and quantity of programs to be printed, as well as the payment method. The form's fields cover essential details like event name, program type, order type, quantity, email, and payment method, indicating a focus on customer information, order specification, and payment processing.
-</thinking>
-
 # Event Program Printing Order Form - Help Guide
 ## Purpose
 The Event Program Printing Order Form is a digital form designed to collect order information for printed event programs. It's meant for event organizers or administrators to gather details about an event's program printing needs.

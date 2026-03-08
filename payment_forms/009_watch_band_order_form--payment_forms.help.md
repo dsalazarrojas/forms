@@ -1,5 +1,3 @@
-<thinking>...I will now create a user-facing help guide for the "Watch Band Order Form" based on the provided YAML fields.</thinking>
-
 # Watch Band Order Form - Help Guide
 
 ## Purpose

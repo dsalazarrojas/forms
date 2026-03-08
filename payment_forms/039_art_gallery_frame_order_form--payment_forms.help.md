@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to collect information for a customer's art gallery frame order. This will help the business process team to create an invoice, process the payment, and manage the order fulfillment process.
-This form is likely to be used by an artist or art gallery owner to take orders from customers. It's essential to ensure that the customer provides accurate and complete information to process their order correctly.
-The following fields are required for the order, but we should ensure that the customer understands the implications of leaving some fields optional.
-</thinking>
-
 # Art Gallery Frame Order Form - Help Guide
 ## Purpose
 The Art Gallery Frame Order Form is used to collect information for a customer's art gallery frame order.

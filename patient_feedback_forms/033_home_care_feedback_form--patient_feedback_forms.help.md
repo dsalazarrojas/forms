@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Home Care Feedback Form - Help Guide
 ## Purpose
 

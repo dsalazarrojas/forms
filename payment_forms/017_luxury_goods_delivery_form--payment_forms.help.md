@@ -1,17 +1,3 @@
-<thinking>
-This form is intended to collect information related to the delivery of luxury goods. The purpose of this form is to gather essential details such as delivery address, date, time, shipping cost, customer information, and order comments. This form may be used by luxury goods companies or retailers to streamline their delivery process.
-This form consists of the following fields:
-- The "delivery_address" field collects the customer's delivery address.
-- The "delivery_date" field collects the date for the delivery.
-- The "delivery_time" field collects the time for the delivery.
-- The "shipping_cost" field collects the cost of shipping.
-- The "customer_info" field collects any additional information about the customer.
-- The "order_comments" field collects comments about the order.
-- The "customer_contact" field collects the customer's contact information.
-- The "shipping_status" field collects the status of the shipping (e.g., Available, On Order, On Delivery).
-- The "order_notes" field collects notes about the order.
-</thinking>
-
 # Luxury Goods Delivery Form - Help Guide
 ## Purpose
 This form is used to collect information related to the delivery of luxury goods. The purpose of this form is to gather essential details such as delivery address, date, time, shipping cost, customer information, and order comments.

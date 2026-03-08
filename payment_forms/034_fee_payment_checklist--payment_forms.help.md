@@ -1,16 +1,3 @@
-<thinking>
-This form is intended to gather information from users regarding fee payments. The goal is to collect data for internal purposes to process payments efficiently. This form will not store payment information in a database or store sensitive information such as account numbers or passwords.
-
-The form has 3 fields:
-
-*   A payment method selection (Cash, Cheque, Bank Transfer, Online Payment, or Others)
-*   The date of the payment
-*   The amount of the payment
-
-This guide will help users understand what the form is for, how to complete it, and what each field means in simple terms.
-
-</thinking>
-
 # Fee Payment Checklist - Help Guide
 
 ## Purpose

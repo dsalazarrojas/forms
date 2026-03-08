@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from patients on their experience with the care they received. The form aims to evaluate the effectiveness of the communication between the patient and the care provider. The form should not be completed if you are not a patient or have not received care recently. Please ensure that you have filled out the form correctly to avoid duplication of effort.
-</thinking>
-
 # Patient Communication Effectiveness Evaluation Form - Help Guide
 
 ## Purpose

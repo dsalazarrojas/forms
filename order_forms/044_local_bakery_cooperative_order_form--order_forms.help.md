@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture essential information for ordering from the Local Bakery Cooperative. It is intended to be filled out by customers to provide their order details and preferences. This form should not be used to place duplicate orders or requests. Please make sure you are not already in the process of filling out this form elsewhere.
-</thinking>
-
 # Local Bakery Cooperative Order Form - Help Guide
 ## Purpose
 This form is used to collect order information for the Local Bakery Cooperative. It's essential to fill this form accurately to ensure smooth order processing and delivery.

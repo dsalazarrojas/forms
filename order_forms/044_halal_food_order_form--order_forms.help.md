@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Halal Food Order Form - Help Guide
 ## Purpose
 The Halal Food Order Form is a tool used for customers to place orders for halal food products, providing essential information for order processing and customer communication. This form helps to streamline the ordering process and ensures that all necessary details are captured for a smooth order fulfillment.

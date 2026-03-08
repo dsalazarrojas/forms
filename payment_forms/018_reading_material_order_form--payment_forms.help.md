@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a reading material order. The form is likely to be used for academic or educational purposes, and the purpose of this form is to gather the necessary details for processing the order. It's essential to ensure that the form is filled out accurately and completely to avoid any issues with the order being processed correctly. To confirm this is the correct form for your use case, please review the form fields and their descriptions below.
-</thinking>
-
 # Reading Material Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from users for a reading material order. It's essential to fill out the form accurately and completely to ensure that your order is processed correctly.

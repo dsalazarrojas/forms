@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents and teachers about their experiences during parent-teacher conferences. The form is meant to be a helpful way for schools to improve their parent-teacher conference process, but it may not be suitable for every school's specific needs. If your school has already implemented a similar form, it's possible that you might not need to complete this form.
-
-This form is not affiliated with any form creation platform and is an original adaptation of public survey topic metadata. It's released under the Creative Commons BY 4.0 license, which allows you to use, modify, and even sell forms derived from it as long as you give credit.
-</thinking>
-
 # Parent-Teacher Conference Survey - Help Guide
 
 ## Purpose

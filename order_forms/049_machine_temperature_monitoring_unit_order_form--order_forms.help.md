@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for ordering machine temperature monitoring units. It is crucial to ensure that the form is filled out correctly and consistently to facilitate the process. Before proceeding, please review the form purpose and fields carefully to avoid duplication or errors. Please note that the form is split into multiple pages, each with its own set of fields. To prevent mistakes, it is recommended to fill out one page at a time.
-</thinking>
-
 # Machine Temperature Monitoring Unit Order Form - Help Guide
 ## Purpose
 This form is used to collect information for ordering machine temperature monitoring units. It is designed to ensure accurate and efficient processing of orders.

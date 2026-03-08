@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information about the virtual workout payment details. It is designed for clients and coaches to provide their payment information, workout preferences, and other relevant details. The form should be used for clients to schedule and pay for virtual workout sessions with their assigned coaches. This form is likely to be used in a business setting, such as a fitness studio or gym, and is intended for clients to book and pay for their virtual workout sessions.
-
-Before proceeding, please ensure that you have reviewed the form's purpose and are not duplicating an existing form or process.
-
-</thinking>
-
 # Virtual Workout Payment Form - Help Guide
 ## Purpose
 The Virtual Workout Payment Form is used to collect payment information and workout preferences from clients and coaches for virtual workout sessions.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used to collect order information from customers, including their details and order details. The form might be used to record and manage customer orders, possibly for inventory or accounting purposes. This form could be part of a larger system used to track and manage orders for a business or organization.
-</thinking>
-
 # Precision Balancing Weight Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers about their orders, specifically the Precision Balancing Weight order. The form helps to gather essential details such as customer name, order ID, order date, and order status.

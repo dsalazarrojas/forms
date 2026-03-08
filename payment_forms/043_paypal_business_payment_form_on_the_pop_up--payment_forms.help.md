@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to process payment information for a business transaction with PayPal. It is intended to be used by merchants to create a payment request for their customers. The form should only be used for this specific use case and not for any other purpose. Please ensure that you have the necessary permissions to use this form before proceeding. 
-</thinking>
-
 # paypal_business_payment_form_on_the_pop_up - Help Guide
 
 ## Purpose

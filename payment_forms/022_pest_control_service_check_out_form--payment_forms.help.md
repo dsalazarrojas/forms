@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who are using the pest control service. The form is intended to be filled out by customers before or after receiving the service, and it's used to record the details of the service provided. The form should only be filled out once per service session. It's not intended to be used for duplicate or test entries.
-</thinking>
-
 # Pest Control Service Check Out Form - Help Guide
 ## Purpose
 This form is used to gather information from customers who are using the pest control service. It's used to record the details of the service provided and is intended to be filled out once per service session.

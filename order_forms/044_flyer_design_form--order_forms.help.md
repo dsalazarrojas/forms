@@ -1,10 +1,3 @@
-<thinking>
-This form seems to be related to designing a flyer, which likely involves customizing the background, text, and layout of a visual representation of a message or advertisement. The form appears to be used to collect information about the design preferences for a flyer, including the background, text color, font, and layout settings. The fields seem to be mostly checkboxes and select boxes, indicating that the user can choose from a set of options or toggle on/off certain features.
-
-To ensure that this form is being used correctly and consistently, it's essential to provide clear guidance on how to fill it out and what each field represents.
-
-</thinking>
-
 # Flyer Design Form - Help Guide
 ## Purpose
 This form is used to customize the design of a flyer. It will help you create a visually appealing and informative flyer that effectively communicates your message.

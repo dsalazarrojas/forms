@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for tenants to agree to pay their move-in costs in accordance with the lease agreement. The form is not intended for landlords or property managers to use. This guide is to ensure that tenants understand their financial obligations and the payment methods they will use for the first month's rent. Please review the form carefully before proceeding. The form is not a contract, and this guide is not a substitute for the lease agreement itself. If you are unsure about any information, please consult the lease agreement or contact your landlord or property manager.
-</thinking>
-
 # Move In Cost Payment Agreement Form - Help Guide
 ## Purpose
 

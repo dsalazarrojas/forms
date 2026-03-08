@@ -1,14 +1,3 @@
-<thinking>
-This help guide is to ensure that end-users understand the purpose and functionality of the Face Mask Customization Order Form.
-
-The form's purpose is to allow customers to customize their face masks by selecting colors, sizes, and design patterns. This form is used in conjunction with the Face Mask Customization System, which uses customer input to produce bespoke face masks.
-
-Please note that this form is meant for customers who have already been approved for customization orders. If you're unsure about your eligibility or need help with the customization process, please contact our support team for assistance.
-
-Before proceeding, review the form carefully to ensure that you have the correct information ready. This guide will walk you through each field and provide explanations to help you complete the form accurately.
-
-</thinking>
-
 # Face Mask Customization Order Form - Help Guide
 ## Purpose
 

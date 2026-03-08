@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users for booking a business class ticket. The form is divided into several sections, each with its own fields. The sections are:
-- "Traveler Information" which includes fields for first name, last name, email, and phone number.
-- "Trip Details" which includes fields for departure city, arrival city, departure date, and return date.
-- "Special Requests" which includes fields for meal preferences, special assistance needed, and luggage allowance.
-- "Payment Information" which includes fields for payment method, billing address, and total cost.
-The user will need to provide all required fields (indicated by *) and can opt out of non-required ones. The fields will be used to calculate the total ticket cost based on the selections.
-</thinking>
-
 # Business Class Ticket Booking Form - Help Guide
 ## Purpose
 This form is used for booking a business class ticket.

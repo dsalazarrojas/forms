@@ -1,7 +1,3 @@
-<thinking>
-This form will help clients provide essential information to the aromatherapist about their client information, wellness goals, lifestyle, health history, and treatment preferences. This will help the aromatherapist tailor a treatment plan that meets their specific needs.
-</thinking>
-
 # Aromatherapy Client Consultation Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from clients to create a tailored aromatherapy treatment plan.

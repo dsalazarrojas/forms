@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to book a tour at a Spiritual Center. This form appears to be designed for collecting basic information from users who want to visit the center, including their name, email, phone number, and preferred visit schedule. It also seems to be related to payment options. To ensure that the form is filled out correctly and efficiently, I will focus on providing clear explanations for each field. I will make sure that the form purpose is clearly stated and that the fields are properly aligned with the given YAML structure. I will make sure to cover all required and optional fields. I will aim to create a user-friendly guide that is easy to understand and reduces the likelihood of duplication in completing the form.</thinking>
-
 # Spiritual Center Tour Booking Form - Help Guide
 ## Purpose
 The purpose of this form is to book a tour at a Spiritual Center. It is designed to collect basic information from users who want to visit the center. Completing this form will allow you to schedule your visit and choose your preferred payment method.

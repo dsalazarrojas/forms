@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health_care_coordination_form - Help Guide
 ## Purpose
 This form is designed to assist healthcare professionals in coordinating patient care by gathering essential patient information and medical history. It ensures that all relevant details are captured to provide comprehensive care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Parent Feedback Contact Form - Help Guide
 
 ## Purpose

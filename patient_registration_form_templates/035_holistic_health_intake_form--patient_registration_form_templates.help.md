@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture patient information for holistic health intake purposes. It is crucial to understand that this form is designed to be completed by patients or their authorized representatives in a private setting. This form should not be used for marketing or promotional purposes. Please ensure that the form is filled out accurately and thoroughly to provide the best possible care for the patient. Please do not duplicate this form for unnecessary reasons, as it can lead to redundant data collection and potential loss of valuable information.
-</thinking>
-
 # Holistic Health Intake Form - Help Guide
 ## Purpose
 The Holistic Health Intake Form is designed to gather essential information from patients or their authorized representatives for the purpose of providing comprehensive and personalized care. It is a critical tool for healthcare professionals to understand a patient's medical history, contact details, and personal preferences.

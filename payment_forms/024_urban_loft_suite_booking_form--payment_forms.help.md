@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is used to gather information for a potential booking at an urban loft suite. The goal is to collect basic booking information and any special requests from the guests. The form is not a payment form, so it's not required for the guests to input any payment details. The form will likely be used by a booking agent or a customer support team to assess the guest's needs and preferences before confirming the booking.
 
 </thinking>

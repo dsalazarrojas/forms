@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Court Rental Booking Form - Help Guide
 ## Purpose
 The Court Rental Booking Form is designed to collect information from users who want to rent a court for a specific time period. The form helps the court staff to manage the booking of their facilities effectively and provide a smooth experience for their clients.

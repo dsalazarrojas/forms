@@ -1,8 +1,3 @@
-<thinking>
-This form is used by internal users to create new Beverage Packaging Requisitions, which are used to manage and track orders for packaging materials. This form ensures that all required information is collected, and the correct packaging type and specifications are selected for each order. To prevent duplication, only one request per user is allowed within a 24-hour period. This form is used to streamline the packaging process and ensure accurate information is captured. 
-
-</thinking>
-
 # Beverage Packaging Requisition Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-Please ensure this guide is relevant and does not duplicate existing documentation. This guide should provide a clear and concise explanation of the form's purpose, how to fill out the form, and a field-by-field breakdown of each section. I'll assume the form's purpose is to gather package booking and payment information from users.
-</thinking>
-
 # Getaway Package Order Form - Help Guide
 ## Purpose
 The Getaway Package Order Form is a simple form used to gather necessary information to book a package getaway. This form collects package selections, booking details, payment information, and contact details from the user.

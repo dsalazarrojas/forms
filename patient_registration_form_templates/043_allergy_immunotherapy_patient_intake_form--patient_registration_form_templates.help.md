@@ -1,7 +1,3 @@
-<thinking>
-This form is for patients to register for allergy immunotherapy, a treatment that involves administering small amounts of allergen extracts to gradually build up tolerance to specific allergens. This form is meant to gather information about the patient's medical history, allergies, and treatment goals. It is crucial to ensure that the patient's medical history and allergies are accurately recorded to avoid any potential risks or complications during treatment. Please review this form carefully to ensure it is completed accurately and thoroughly.
-</thinking>
-
 # Allergy Immunotherapy Patient Intake Form - Help Guide
 ## Purpose
 This form is for patients to register for allergy immunotherapy, a treatment that involves administering small amounts of allergen extracts to build up tolerance to specific allergens.

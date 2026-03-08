@@ -1,9 +1,3 @@
-<thinking>
-The goal is to create a user-facing help guide for this Mental Health Awareness Feedback Form, which is likely used for patients to provide feedback on their mental health awareness experience. This form may be used in various scenarios, such as after therapy sessions, counseling sessions, or educational programs. To determine the relevance of this form, we'll consider the fields and their possible usage. The form has 7 fields, including text, email, phone number, and selection fields. We can assume that the form is intended for patients to share their thoughts, contact information, and ratings of their experience. The fields seem to be designed for general feedback purposes, and we can infer that the medical professional field is intended for the patient to select the healthcare professional they interacted with. We'll need to ensure that the form is clear and concise in its purpose and usage.
-
-To avoid duplication, we can compare this form to other forms used in the same context and ensure that it's not redundant or overlapping with existing forms. If it's not clear, we can reach out to the stakeholders or the form's creators for clarification.
-</thinking>
-
 # Mental Health Awareness Feedback Form - Help Guide
 ## Purpose
 The Mental Health Awareness Feedback Form is designed for patients to share their thoughts, experiences, and ratings on mental health awareness events, sessions, or programs they have attended. This form helps us understand your perceptions and opinions, which are crucial for improving our mental health services and programs.

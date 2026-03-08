@@ -1,8 +1,3 @@
-<thinking>
-This form, "religious_organization_donation_form", is designed to collect information from donors for religious organizations. It's essential to ensure that the form is completed accurately to provide the correct data. Before proceeding, check if the form has been already filled out by the user to prevent duplication. Please review the provided fields and their intended use to fill out the form correctly.
-
-</thinking>
-
 # Religious Organization Donation Form - Help Guide
 ## Purpose
 

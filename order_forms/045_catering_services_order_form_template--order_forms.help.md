@@ -1,11 +1,3 @@
-<thinking>
-To prevent duplication, I will only include the form purpose explanation once in the internal block.
-The Catering Services Order Form Template is a form designed to gather information for catering services orders. 
-The form is used to collect details about the customer, event, and order information such as date, time, and menu items.
-This form is intended to be used by customers or event organizers to place orders for catering services. 
-The form will likely be used in conjunction with other forms or systems for payment and other related tasks.
-</thinking>
-
 # Catering Services Order Form Template - Help Guide
 ## Purpose
 This form is designed to gather information for catering services orders, including customer and event details, order information, and payment and deposit details.

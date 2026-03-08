@@ -1,9 +1,3 @@
-<thinking>
-
-I'm assuming the "Custom Cylinder Order Form" is intended for businesses and customers who want to place an order for custom-made cylinders with specific dimensions, material, and features. This form is likely used by a business that offers a service where they create custom cylinders according to customer specifications. To confirm, I'll be creating a help guide that explains the purpose and completion of this form.
-
-</thinking>
-
 # Custom Cylinder Order Form - Help Guide
 ## Purpose
 This form is used to place an order for custom-made cylinders with specific dimensions, material, and features. To complete this form, you will need to provide the necessary details about your business, customer, and order requirements.

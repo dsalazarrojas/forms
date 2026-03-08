@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to gather information about your <string> needs and preferences.

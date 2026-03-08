@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tool Rental Order Form - Help Guide
 
 ## Purpose

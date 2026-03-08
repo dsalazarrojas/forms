@@ -1,7 +1,3 @@
-<thinking>
-This is a form used to order service parts from a central service center. The purpose of this form is to collect information from customers about the parts they need and any additional details or comments related to their order. The service parts list includes a variety of options, such as Part A, Part B, Part C, Part D, and Part E. The form requires a customer's name, address, email, and any desired quantities of the service parts. It also allows customers to provide comments or additional information about their order. The service center will use this information to fulfill the customer's request.
-</thinking>
-
 # Service Parts Order Form - Help Guide
 ## Purpose
 This form is used to order service parts from a central service center. The purpose of this form is to collect information from customers about the parts they need and any additional details or comments related to their order.

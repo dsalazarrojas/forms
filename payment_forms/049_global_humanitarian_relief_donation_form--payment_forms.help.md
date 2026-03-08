@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for individuals and organizations to make donations to global humanitarian relief efforts. It is not affiliated with, endorsed by, or derived from any form platform. The form is an AI-generated adaptation of public survey topic metadata, released under CC BY 4.0.
-
-The form consists of 8 fields, each requiring a specific type of information. To ensure accurate and efficient completion, it is essential to follow the instructions carefully.
-
-The form is meant to gather personal and contact information for individuals and organizations that wish to make donations. The information collected will be used to facilitate the donation process and ensure smooth communication between the donor and the relief organization.
-
-To avoid errors and ensure that the form is filled out correctly, review each field carefully before providing any information.
-
-</thinking>
-
 # Global Humanitarian Relief Donation Form - Help Guide
 ## Purpose
 This form is designed to collect personal and contact information from individuals and organizations wishing to make donations to global humanitarian relief efforts.

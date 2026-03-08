@@ -1,10 +1,3 @@
-<thinking>
-This form is used to process a sports event ticket purchase request. The purpose of this form is to collect user's information such as name, email, phone number, ticket type, quantity, and ticket price to facilitate the ticket purchasing process.
-
-The form will be reviewed by our team for processing and verification before sending a confirmation email to the user with details of their ticket purchase.
-
-</thinking>
-
 # sports_event_ticket_purchase_form - Help Guide
 ## Purpose
 This form is used to purchase sports event tickets. Please fill out the form below to initiate the ticket purchasing process.

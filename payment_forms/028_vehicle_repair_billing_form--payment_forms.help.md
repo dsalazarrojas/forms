@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for billing and payment processing for vehicle repair services. It appears to be a comprehensive form that captures various details about the vehicle, the repair, and the payment method. This form is likely used in a service industry, such as an auto repair shop or a garage. The form includes fields for vehicle details, repair details, parts needed, labor hours, labor rate, tax rate, and total amount due, as well as payment method and payment date/time. It may be used to process payments and generate invoices for clients.
-</thinking>
-
 # Vehicle Repair Billing Form - Help Guide
 ## Purpose
 This form is used to process vehicle repair services and generate payments for clients.

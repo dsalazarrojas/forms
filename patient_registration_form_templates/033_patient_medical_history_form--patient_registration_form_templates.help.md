@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Patient Medical History Form" form, we need to consider the following:
-
-- **Form Purpose**: The form is designed to collect essential information about a patient's medical history, including personal details, medical conditions, and contact information. This information is crucial for healthcare providers to assess a patient's health status and provide personalized care.
-- **Relevance and Non-Duplication**: This form is intended for patients to fill out before or after visiting a healthcare provider, and the information gathered will not be used for any other purpose than for the patient's medical care. 
-</thinking>
-
 # Patient Medical History Form - Help Guide
 ## Purpose
 The Patient Medical History Form is a document used to record a patient's medical history, including personal details and medical conditions. This form helps healthcare providers gather information about the patient's health status to assess and provide the best course of treatment.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for patient registration in a hospital setting, collecting essential information for patient care and treatment. The purpose of this form is to gather demographic, medical history, and contact information for the patient. It's crucial that this form is filled out accurately and completely to ensure efficient and effective patient care. Please ensure that you fill out this form for each patient individually, and do not reuse or duplicate patient information without proper authorization.
-</thinking>
-
 # Hospital Patient Registration Form - Help Guide
 ## Purpose
 The Hospital Patient Registration Form is a critical tool for collecting patient information for treatment and care. Completing this form accurately and thoroughly will help our medical team provide the best possible care for you.

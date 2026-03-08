@@ -1,7 +1,3 @@
-<thinking>
-A common reason to complete this form would be to request a waiver for the minimum quantity required for a wholesale order. This form can be used by customers who need to request a quantity waiver due to a legitimate reason. The form ensures that the customer's needs are met while maintaining the integrity of the inventory. It's a good idea to review the form carefully before submitting it to avoid mistakes. Make sure you are only requesting a waiver for a valid reason. If you're unsure about the form's requirements, it's always a good idea to contact the relevant department.
-</thinking>
-
 # wholesale_minimum_quantity_waiver_request_form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>As a customer-facing help guide, this form is used to gather information from customers for their order of afterpay shoes. The form is designed to collect various details such as customer's full name, email, phone number, shipping address, billing address (if different), foot measurements, shoe preferences (category, type, brand, color, material), and shipping preferences. This information will help us process and deliver the customer's afterpay shoes order accurately and efficiently.</thinking>
-
 # Afterpay Shoes Order Form - Help Guide
 ## Purpose
 The Afterpay Shoes Order Form is designed to collect information from customers to process and deliver their afterpay shoes order. This form is essential in ensuring that we have all the necessary details to provide accurate and timely service.

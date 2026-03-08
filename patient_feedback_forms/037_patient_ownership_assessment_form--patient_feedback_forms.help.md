@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to assess a patient's ownership and management of their medical records. The form is intended to gather information about a patient's feedback, medical history, medical conditions, allergies, and other relevant details. 
-
-The form will help healthcare providers understand patients' attitudes and experiences with their medical records, including their willingness to share information, their medical history, and any allergies or medical conditions they may have. 
-
-Please note that this form is not a replacement for medical diagnosis or treatment, but rather a tool to gather additional information about patients' medical records and their management.
-
-</thinking>
-
 # Patient Ownership Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about a patient's ownership and management of their medical records.

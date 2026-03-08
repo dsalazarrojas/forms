@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used within a company's internal systems to collect information related to snow removal services, which may include service terms, payment terms, service agreement, specific snow removal services required, payment method, the frequency of snow removal services, and contact information. The form likely aims to capture relevant details for efficient and secure processing of snow removal services requests.
-</thinking>
-
 # Snow Removal Service Agreement - Help Guide
 ## Purpose
 This form is used to capture information related to snow removal services, including service terms, payment terms, and other relevant details. It ensures that all necessary information is collected for efficient and secure processing of snow removal services requests.

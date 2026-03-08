@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from team members for a team t-shirt order. The team t-shirt order form is used to gather details about the team's preferences for a custom t-shirt order, including team email, phone number, category, subcategory, color, size, designs, notes, date, time, price, submitter, order comments, payment information, and t-shirt type. This form is likely used in an internal or office setting, such as a company or school team. To ensure accurate and complete orders, it's essential to complete this form carefully. Please ensure that you're filling this form out for your team and not for another team. If you're unsure about any of the fields, please refer to this guide for clarification.</thinking>
-
 # Team T Shirt Order Form - Help Guide
 ## Purpose
 ## How To Complete This Form

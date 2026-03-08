@@ -1,8 +1,3 @@
-<thinking>
-This form is used to sign up users for a Stripe Webinar. This form will collect user information for event management and follow-up purposes. The form should only be completed once per user, so we encourage users not to submit multiple times. If users have already submitted their information for this event, they do not need to re-complete this form.
-
-</thinking>
-
 # Stripe Webinar Sign Up Form - Help Guide
 ## Purpose
 The Stripe Webinar Sign Up Form is designed to collect user information for a Stripe Webinar, allowing us to manage the event effectively and follow-up with attendees.

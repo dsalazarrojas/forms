@@ -1,10 +1,3 @@
-<thinking>
-The "promotional-banner-order-form" is a form used for users to input information about promotional banners, including user input, payment information, and banner details.
-The form is likely used in an e-commerce context, where users can order promotional banners from a company or website.
-The form has fields for user input, payment method, banner details, and other relevant information.
-The form is not used for duplicate or unnecessary purposes, and the fields are well-defined and easy to understand.
-</thinking>
-
 # promotional-banner-order-form - Help Guide
 ## Purpose
 The "promotional-banner-order-form" is used to collect information from users for promotional banner orders.

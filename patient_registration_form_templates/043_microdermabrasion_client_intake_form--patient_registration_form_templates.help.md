@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Microdermabrasion Client Intake Form - Help Guide
 
 ## Purpose

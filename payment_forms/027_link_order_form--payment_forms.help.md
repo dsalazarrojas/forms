@@ -1,7 +1,3 @@
-<thinking>
-  Before diving into the help guide, let's first consider the purpose and relevance of the "Link Order Form". This form likely serves as a tool for users to gather information related to orders, such as confirming order details or requesting payment information. The form has multiple pages with various fields, including select_one, select_multiple, number, text, email, date, time, and note fields. The form might be used by customers or users to provide feedback or confirm their order status.
-</thinking>
-
 # Link Order Form - Help Guide
 ## Purpose
 The Link Order Form is a tool used to gather information related to orders. It consists of multiple pages, each with fields that require users to provide specific information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for attendees to register for a festival event using eWay. The form should only be completed by people who are interested in participating in the festival. There should be no duplication of effort, so please do not fill out this form if you have already registered. Please ensure that you provide all required information to ensure a smooth and accurate registration process.
-</thinking>
-
 # festival_registration_form_with_eway - Help Guide
 ## Purpose
 This form is designed for festival attendees to register for a festival event using eWay.

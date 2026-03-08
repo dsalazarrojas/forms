@@ -1,16 +1,3 @@
-<thinking>
-This form is used to capture patient information for the purpose of providing medical care services. It is designed to collect essential details about each patient, including their name, contact information, and medical history. This form is intended to be completed by patients themselves or their representatives when they first visit a healthcare provider. It is essential to complete this form accurately and truthfully to ensure that the patient receives proper care.
-
-To complete this form, follow these steps:
-
-1.  Enter your name as it appears on your official identification.
-2.  Enter your email address for contact purposes.
-3.  Provide your phone number for communication and follow-up.
-4.  Enter your current address for scheduling appointments and sending information.
-5.  If you have any pre-existing medical conditions, please enter a brief description in the medical history field.
-6.  If applicable, provide the name and contact information of your emergency contact.
-</thinking>
-
 # health_application_form - Help Guide
 ## Purpose
 

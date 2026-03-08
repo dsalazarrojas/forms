@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in completing the "simple_product_purchase_form" form. The form is designed to collect information from customers when they place an order for a product. This form will help us understand the customer's order details and process it efficiently.
-
-This form is used for a simple product purchase, and it's crucial to ensure that all the required fields are filled out accurately to avoid any errors or delays in processing the order. The fields in this form are designed to gather relevant information about the customer and their order.
-
-Before filling out this form, please ensure that you have all the necessary information ready. If you have any doubts or issues while filling out the form, you can contact our support team for assistance.
-
-</thinking>
-
 # simple_product_purchase_form - Help Guide
 ## Purpose
 This form is used to collect information from customers when they place an order for a product. It helps us understand the customer's order details and process it efficiently.

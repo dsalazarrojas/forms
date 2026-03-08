@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of the form, I analyzed the YAML input and identified the following: 
-* The form is related to digital content and refunds, suggesting it's used for processing refunds for digital goods or services.
-* There is a "Submit Form" option with a select_multiple type, implying it might be used to select multiple reasons for the refund.
-* The form includes fields for "Order ID", "Reason", "Date of Purchase", and "Product Name", which are common details required for a refund process.
-* Since the form is called "Digital Content Refund Form", it's likely used to process refunds for digital content purchased through this platform.
-Given these points, the form purpose is to facilitate the digital content refund process.
-</thinking>
-
 # Digital Content Refund Form - Help Guide
 ## Purpose
 This form is used to process refunds for digital goods or services purchased through this platform. To complete the form, follow these steps:

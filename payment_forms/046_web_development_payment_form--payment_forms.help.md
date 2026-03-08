@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "Web Development Payment Form" is to collect information for payment purposes, including project details and client information. This form is designed to be filled out by clients or project managers to provide payment details for web development projects. To avoid duplication or misinterpretation, ensure that the form is reviewed and completed accurately. This form is only intended to be used for web development projects.
-</thinking>
-
 # Web Development Payment Form - Help Guide
 ## Purpose
 The Web Development Payment Form is a form used to collect payment information and project details for web development projects.

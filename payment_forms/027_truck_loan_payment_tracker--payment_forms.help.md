@@ -1,7 +1,3 @@
-<thinking>
-The form "Truck Loan Payment Tracker" seems to be designed for collecting and tracking information related to loan payments on trucks, likely for financial institutions or lending companies. The purpose of this form is to gather essential details about a loan, including loan number, date, amount, type, and payment status, to help users keep track of payments and their due dates.
-</thinking>
-
 # Truck Loan Payment Tracker - Help Guide
 ## Purpose
 The Truck Loan Payment Tracker form is used to collect and track loan payments on trucks. This form helps users to gather essential details about a loan, including loan number, date, amount, type, and payment status.

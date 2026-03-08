@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This will be an order form for customers to place orders for robotics-related products. The form will be used in a variety of contexts, such as sales, service, or support. To ensure consistency, I will make sure that the form is not duplicated and will only be used in the specified contexts.
 
 </thinking>

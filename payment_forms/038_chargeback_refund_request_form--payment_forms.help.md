@@ -1,11 +1,3 @@
-<thinking> This form is designed to collect information from customers to facilitate a chargeback refund request. A chargeback refund is a process where a merchant (seller) seeks reimbursement from the bank or cardholder's issuing bank for a charge that was disputed by the customer. This form will help us understand the reason for the refund request, the customer's contact information, and the specific details of the request, as well as any additional information that the customer may want to provide. 
-
-When to use this form:
-- When a customer initiates a chargeback refund request, they will be directed to this form.
-- Ensure that the customer understands and agrees to the refund process before proceeding.
-
-</thinking>
-
 # Chargeback Refund Request Form - Help Guide
 ## Purpose
 This form is used to request a chargeback refund for a disputed charge. Please fill out the form with accurate information to expedite the refund process.

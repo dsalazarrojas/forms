@@ -1,9 +1,3 @@
-<thinking>Here's the internal reasoning and considerations for this form: 
-
-The Sports Tournament Volunteer Badge Order Form is designed to collect information from volunteers who need badges for a sports tournament. This form is intended to be filled out by volunteers to provide their details, event and badge preferences, and payment information. The form is used to track volunteer badge orders and ensures that volunteers receive the correct badges for the event they are volunteering for. To avoid duplication, this form should not be filled out by anyone who has already been assigned a badge for the event. The event ID should match the event the volunteer is working for to ensure accurate badge delivery. The badge type and quantity should match the event's badge distribution plan. 
-
-</thinking>
-
 # Sports Tournament Volunteer Badge Order Form - Help Guide
 ## Purpose
 The Sports Tournament Volunteer Badge Order Form is designed to collect information from volunteers who need badges for a sports tournament. This form ensures that volunteers receive the correct badges for the event they are volunteering for.

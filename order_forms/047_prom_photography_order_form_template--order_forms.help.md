@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers interested in purchasing a photo package for a specific event, such as a school or family event. The form is used to gather contact information, event details, and photo preferences. The purpose of this form is to ensure that the customer's needs are met by capturing all necessary information upfront.
-</thinking>
-
 # prom_photography_order_form_template - Help Guide
 ## Purpose
 This form is used to collect information from customers interested in purchasing a photo package for a specific event.

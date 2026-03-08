@@ -1,8 +1,3 @@
-<thinking>
-This form is for customers to place orders for candles. To ensure accurate and timely delivery, please review the form fields carefully and answer each question as it applies to your order.
-Please note that some fields are required to complete, denoted by the 'required' field attribute.
-</thinking>
-
 # Candles Order Form - Help Guide
 
 ## Purpose

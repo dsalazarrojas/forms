@@ -1,8 +1,3 @@
-<thinking>
-To provide a clear and concise help guide for the Spring Fair Ticket Pre Order form, we must first understand its purpose and the fields included in the form. The form's purpose is to allow users to preorder tickets for the Spring Fair, which could be for personal use or for others. This form likely collects contact information, order details, and payment method for the preorder process. To avoid duplication, we should ensure that users understand that the form will not allow multiple submissions for the same user or order.
-
-</thinking>
-
 # Spring Fair Ticket Pre Order - Help Guide
 ## Purpose
 This form is designed to collect preorders for tickets to the Spring Fair. Please fill out the form with your information and order details to complete your preorder.

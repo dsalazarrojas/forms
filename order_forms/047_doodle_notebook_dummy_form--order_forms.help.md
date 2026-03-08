@@ -1,7 +1,3 @@
-<thinking>
-This form is for ordering a doodle notebook. The form is called "doodle_notebook_dummy_form" and its purpose is to collect customer information and preferences for ordering a doodle notebook. This form will be used for internal use and will be reviewed for duplication of forms with similar purpose and fields. The form has 11 fields, and users should fill out all the fields for accurate and successful submission.
-</thinking>
-
 # doodle_notebook_dummy_form - Help Guide
 ## Purpose
 The doodle_notebook_dummy_form is for ordering a doodle notebook. It is used to collect customer information and preferences for ordering a doodle notebook.

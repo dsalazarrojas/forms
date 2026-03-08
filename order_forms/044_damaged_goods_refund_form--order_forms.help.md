@@ -1,7 +1,3 @@
-<thinking>
-This form is used to process damaged goods refunds. It requires information about the customer, the order, and the reason for the refund. The customer must sign the form, and if they are acting on behalf of the business, the business must also sign. The form also includes fields for contact information and additional notes. The form is divided into 2 sections: customer information and business information. Please ensure that the customer and business sections are filled out correctly, and only one of them is required depending on who is completing the form.
-</thinking>
-
 # Damaged Goods Refund Form - Help Guide
 ## Purpose
 This form is used to process damaged goods refunds.

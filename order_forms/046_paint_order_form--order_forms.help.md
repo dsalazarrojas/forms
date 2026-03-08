@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Paint Order Form - Help Guide
 ## Purpose
 The Paint Order Form is a digital form used to capture essential information for painting orders. This form is designed to gather details from both customers and suppliers, ensuring accurate and efficient ordering processes.

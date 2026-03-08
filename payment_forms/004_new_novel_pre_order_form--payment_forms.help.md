@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "New Novel Pre Order Form" designed for customers to pre-order a new book. This form is used to capture information for both personal and business customers. The purpose of this form is to collect details for the pre-order, including customer's name, email, phone number, shipping address and other relevant information for processing the order. The form is designed to be completed by the customer, and the information collected will be used for internal purposes only. Before filling out this form, please ensure you have not already pre-ordered this book, as it will not be possible to make duplicate orders.
-</thinking>
-
 # New Novel Pre Order Form - Help Guide
 
 ## Purpose

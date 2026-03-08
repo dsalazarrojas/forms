@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stripe Book Order Form - Help Guide
 ## Purpose
 The Stripe Book Order Form is a form designed to collect information for ordering a book. It is meant to be completed by a customer to provide details about the book they want to purchase.

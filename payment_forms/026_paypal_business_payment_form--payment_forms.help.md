@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is designed for business owners or accountants to receive payments from customers. It will guide them through a step-by-step process to fill out a payment form that will be shared with customers...</thinking>
-
 # PayPal Business Payment Form - Help Guide
 ## Purpose
 This form is designed to facilitate payment from customers for services rendered or goods sold. It's meant for businesses to gather the necessary information from their customers before creating a payment request.

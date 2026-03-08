@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is for freelancers to register and pay for their registration fee. The form collects details about the freelancer, the registration fee amount, payment method, and confirms or rejects the submission. The internal logic is to ensure correct completion of the registration process.
-</thinking>
-
 # Freelancer Registration Fee Payment Form - Help Guide
 ## Purpose
 This form is for freelancers to register and pay for their registration fee. It collects necessary details and payment information to complete the registration process.

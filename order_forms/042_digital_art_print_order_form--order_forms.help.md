@@ -1,6 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "Digital Art Print Order Form". This guide will explain the purpose of the form, how to complete it, and provide a detailed explanation of each field. The form's purpose is to collect information from customers for printing their digital artwork, including print type, artwork size, orientation, paper type, quantity, artwork details, payment method, contact information, and upload artwork or proof files. This form ensures that customers can accurately provide their printing preferences and upload required files for the print order.
-</thinking>
 # Digital Art Print Order Form - Help Guide
 
 ## Purpose

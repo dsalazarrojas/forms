@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a custom invoicing system. To avoid duplication, please ensure you only submit this form once per system. If you need to request multiple systems, please submit a new form for each system.
-</thinking>
-
 # Custom Invoicing System Request Form - Help Guide
 ## Purpose
 The Custom Invoicing System Request Form is designed to gather information about a custom invoicing system requested by your company. This form will help us understand your business needs and provide an accurate quote for the requested system.

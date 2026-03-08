@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for healthcare professionals to assess a patient's fluid balance status and risk factors. It is intended to be used in conjunction with other patient information and medical history to determine the patient's overall health status. The form is not meant to be used as a standalone tool for diagnosis or treatment, but rather as a supporting document to aid in clinical decision-making. It is recommended to review the form alongside other relevant patient data and medical literature to ensure accurate and comprehensive evaluation.</thinking>
-
 # Fluid Balance Assessment Form - Help Guide
 
 ## Purpose

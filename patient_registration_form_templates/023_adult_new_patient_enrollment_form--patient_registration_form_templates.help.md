@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from adult patients, including their contact details, insurance information, and health screening data. It is intended to be used in a medical or healthcare setting to gather essential details necessary for patient enrollment and care planning. 
-
-The form has 19 fields, divided into several sections for easier navigation. It includes fields for personal details like date of birth, gender, and contact information, as well as sections for insurance and emergency contact details. The form also includes fields for health screening data like current health conditions and medications. 
-
-The form has a mix of required and optional fields, with the required fields being marked as such in the YAML. Some fields have specific hints to guide the user in providing accurate and complete information.
-
-This form is intended to be filled out by adult patients, and the fields are designed to collect the necessary information for patient care and enrollment in a medical or healthcare setting. 
-
-Please ensure you are completing the form accurately and thoroughly. If you have any doubts or questions, please don't hesitate to ask your healthcare provider for assistance.</thinking>
-
 # Adult New Patient Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect demographic information from adult patients, including contact details, insurance information, and health screening data, to facilitate patient enrollment and care planning in a medical or healthcare setting.

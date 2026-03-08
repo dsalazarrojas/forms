@@ -1,10 +1,3 @@
-<thinking>
-The form is for users to sign up for the premium membership of the fitness app. It is designed to gather relevant information for payment processing, billing, and onboarding purposes. 
-- It is likely to be used during the initial subscription process for users who want to pay for premium services. 
-- It should be kept up-to-date to reflect any changes in the subscription plans and pricing.
-
-</thinking>
-
 # Fitness App Premium Membership Form - Help Guide
 ## Purpose
 This form is for signing up for a premium membership of the fitness app, which includes various plans and pricing options. Users will need to select their preferred plan, provide billing details, and choose a payment method to complete the form.

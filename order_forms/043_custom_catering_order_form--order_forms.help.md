@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a custom catering order. It seems to be a multi-page form with various fields for different details. To confirm, this form is intended for users to input their preferences and requirements for a custom catering order. I will now create the help guide as per your requirements.
-</thinking>
-
 # Custom Catering Order Form - Help Guide
 ## Purpose
 This form is used to collect information from users for a custom catering order. It will be used to understand their preferences and requirements for their event or gathering.

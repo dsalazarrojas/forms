@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for delivery-related purposes. The purpose of the form is to gather data for the delivery process, including delivery date, shipping address, and payment details. The form is not intended to be a comprehensive payment processing form, but rather to facilitate communication and organization of delivery processes. This explanation should clarify the purpose and ensure end-users understand its scope and limitations. 
-
-This form is likely used in an e-commerce or delivery management context, where the information collected will be used to track and organize delivery activities. 
-
-It is not designed to process payments, but rather to record important details about the delivery process. 
-</thinking>
-
 # Delivery Check Out Form - Help Guide
 
 ## Purpose

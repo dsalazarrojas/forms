@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient registration information for the medical center. The purpose of this form is to gather essential details about the patient, including their name, contact information, medical record number, emergency contact, and medical conditions. The form is divided into two main sections: Patient Information and Medical History. The Patient Information section includes fields for the patient's first name, last name, date of birth, address, email, phone number, and medical record number. The Medical History section includes fields for the emergency contact, emergency contact relationship, patient status, medical specialties, and medical conditions. The form is designed to be completed by the patient or their representative, and it is essential to provide accurate and complete information to ensure proper medical care.
-</thinking>
-
 # Medical Center Registration Form - Help Guide
 ## Purpose
 The Medical Center Registration Form is designed to collect patient registration information for the medical center. This form is intended to be completed by the patient or their representative to provide essential details about the patient.

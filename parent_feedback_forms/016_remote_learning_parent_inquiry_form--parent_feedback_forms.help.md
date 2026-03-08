@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Remote Learning Parent Inquiry Form - Help Guide
 ## Purpose
 This form is designed to gather information from parents about their remote learning experiences. It will help the administration understand their concerns, feedback, and suggestions.

@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed for users to place trades on cryptocurrencies, specifically for buying and selling purposes. It captures various details about the trade, including the type of trade (buy or sell), the currency involved, the amount and unit price of the trade, and other relevant information such as order type, stop price, risk management, and payment details. This form is intended to be used by users who need to place trades, and it is essential that the fields provided are completed accurately to ensure the trade is executed correctly. The form is designed to be user-friendly, with clear labels and explanations for each field, making it easy to navigate and complete. To ensure accuracy and consistency, it is crucial that users understand the purpose and usage of each field before filling out the form. This guide is designed to walk users through the form step by step, explaining each field and its intended use, helping to minimize errors and ensure successful trades.</thinking> 
-
 # Cryptocurrency Trade Order Form - Help Guide
 ## Purpose
 The purpose of this form is to help users place trades on cryptocurrencies with ease and accuracy. It captures essential details about the trade, including the type of trade, currency involved, and payment details.

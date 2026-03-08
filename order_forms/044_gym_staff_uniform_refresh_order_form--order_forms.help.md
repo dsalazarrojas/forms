@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for the staff uniform refresh order process. The goal is to collect details from the gym staff regarding their uniform sizes, the quantity needed, and the preferred delivery method. This form will help the management to process the order accurately and efficiently. Before proceeding, please ensure that you are filling out the correct form for the intended purpose, as duplicate forms may cause confusion and delays in processing.
-
-</thinking>
-
 # Gym Staff Uniform Refresh Order Form - Help Guide
 ## Purpose
 This form is used by gym staff to request a uniform refresh for themselves.

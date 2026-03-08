@@ -1,7 +1,3 @@
-<thinking>
-This form is used for payment exception escalation, where users can provide details about a payment exception that requires escalation to higher authorities for resolution. The main goal of this form is to collect information about the payment exception, including the reason for escalation, payment method, and any relevant details. This form will help ensure that the payment exception is properly documented and escalated, reducing the risk of errors and ensuring timely resolution. Before starting, ensure you have all necessary information about the payment exception, including the reason for escalation, payment method, and any relevant details. Also, please be aware that this form will not be used for payment authorization, only for escalation.
-</thinking>
-
 # Payment Exception Escalation Application Form - Help Guide
 ## Purpose
 This form is used to document and escalate payment exceptions to higher authorities for resolution. Fill out this form to provide detailed information about the payment exception, ensuring timely and effective resolution.

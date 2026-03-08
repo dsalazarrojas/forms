@@ -1,11 +1,3 @@
-<thinking>
-To prevent duplication, this form has been designed to update patient information. 
-The goal is to gather essential details about the patient, such as contact information, medical history, and emergency contacts. 
-The form is divided into several sections, each covering a different aspect of the patient's information. 
-The form requires the following information: first and last name, date of birth, contact number, address, medical record number, emergency contact first name, emergency contact last name, email, medical provider, medical provider address, medical provider contact number, medical record status, medical record status note, last updated, medical history, medication list, emergency contact relation, emergency contact phone, emergency contact email, emergency contact address, emergency contact note, and patient ID, and signature. 
-This form is meant to be filled out by patients or their authorized representatives.
-</thinking>
-
 # Patient Information Update Form - Help Guide
 ## Purpose
 This form is used to update a patient's information.

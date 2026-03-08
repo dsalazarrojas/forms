@@ -1,9 +1,3 @@
-<thinking>
-
-The Adult ADHD Investigator Symptom Rating Scale (AISRS) is a comprehensive rating scale designed to assess the presence and severity of symptoms associated with Attention Deficit Hyperactivity Disorder (ADHD). This form is used by healthcare professionals to evaluate the symptoms of adult patients with ADHD, providing valuable insights for diagnosis and treatment planning. The AISRS consists of 15 symptom rating scales, each assessing a specific aspect of ADHD symptoms, from mild to severe. By completing this form, healthcare professionals can gain a better understanding of the patient's symptoms and make informed treatment decisions.
-
-</thinking>
-
 # Adult ADHD Investigator Symptom Rating Scale (AISRS) - Help Guide
 ## Purpose
 The Adult ADHD Investigator Symptom Rating Scale (AISRS) is a comprehensive rating scale designed to assess the presence and severity of symptoms associated with Attention Deficit Hyperactivity Disorder (ADHD) in adult patients.

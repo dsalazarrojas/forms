@@ -1,11 +1,3 @@
-<thinking>
-
-This form, "patient_identity_verification_form", is part of the patient registration process. Its primary purpose is to verify the identity of a patient. The form is used to collect information about the patient, including their personal details such as name, date of birth, and social security number. This information is essential for medical record creation and updating. The form will be reviewed and approved by the relevant medical staff to ensure that the information is accurate and up-to-date.
-
-Before proceeding to fill out the form, please ensure that you have the necessary information and permissions to access the patient's data. This form is not intended for duplicate registrations, so please be aware of the patient's existing records before filling this form out.
-
-</thinking>
-
 # patient_identity_verification_form - Help Guide
 ## Purpose
 The patient_identity_verification_form is used to verify the identity of a patient, collecting essential information for medical record creation and updating.

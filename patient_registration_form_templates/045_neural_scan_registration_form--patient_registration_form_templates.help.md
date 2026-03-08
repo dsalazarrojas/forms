@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a new patient for a neural scan. The form has four pages: First Page, Second Page, Contact Details, and Scan Appointment. The First Page is not required but provides a note field for any additional information. The Second Page is required and asks if the patient has a prior appointment. The Contact Details page is required and asks for the patient's email address. The Scan Appointment page is required and asks for the date and time of the scan appointment. This form ensures that all necessary information is collected for the patient's neural scan appointment.
-</thinking>
-
 # neural_scan_registration_form - Help Guide
 ## Purpose
 This form is used to register a new patient for a neural scan appointment. It collects essential information to schedule and prepare for the scan.

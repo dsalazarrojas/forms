@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information for pre-screening purposes during the COVID-19 pandemic. It aims to gather details about the patient's health status, vaccination history, and potential exposure to COVID-19. This form helps healthcare professionals assess the patient's risk level and ensure they meet the necessary clearance requirements for a health facility or service.
-
-Before filling out this form, please make sure you have not filled it out previously, and that you have all necessary information ready. If you're unsure about any field, please ask a healthcare professional for guidance.
-
-This guide will walk you through each section of the form to ensure you provide accurate and complete information.</thinking>
-
 # COVID 19 Patient Pre Screening Disclosure Form V2 - Help Guide
 ## Purpose
 The form is designed to collect patient information for pre-screening purposes during the COVID-19 pandemic.

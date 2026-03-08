@@ -1,8 +1,3 @@
-<thinking>
-This form, "eye_surgery_billing_form", appears to be a comprehensive template for billing information related to eye surgeries. It encompasses various fields for patient and billing details, insurance information, and medical history. Given the structure of the form, it seems to be intended for use in a clinical or medical setting, possibly for tracking and billing purposes. The form's fields suggest it might be used for patients who have undergone eye surgery, requiring accurate and detailed billing information. This form's purpose appears to be to collect and manage billing data efficiently. It's worth noting that there might be overlap or duplication of certain fields, but the form's overall structure and fields indicate a focus on comprehensive billing data collection. To ensure accuracy, it's essential to review the form's fields carefully and verify their relevance to the specific use case.
-
-</thinking>
-
 # eye_surgery_billing_form - Help Guide
 ## Purpose
 The "eye_surgery_billing_form" is a template for collecting and managing billing information related to eye surgeries.

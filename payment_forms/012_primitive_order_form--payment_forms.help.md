@@ -1,10 +1,3 @@
-<thinking>
-This form is for processing a primitive order from a customer. The form should only be used for orders that do not involve sensitive or financial information that would be considered a "non-primitive" or "advanced" order.
-- The purpose of this form is to collect information about the customer's basic order details.
-- This form is designed to be simple and easy to use.
-- The information gathered from this form will be used to process the customer's basic order.
-</thinking>
-
 # Primitive Order Form - Help Guide
 ## Purpose
 This form is for processing basic orders from customers. It collects information about the customer's name, address, order date, and other relevant details.

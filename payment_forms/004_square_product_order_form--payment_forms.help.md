@@ -1,7 +1,3 @@
-<thinking>
-This form aims to assist businesses in creating and managing orders through the Square platform. It's a versatile form designed for various industries, ensuring users can tailor it according to their specific needs. The form's design is meant to be simple, yet comprehensive, allowing users to collect essential information about their products and customers.
-</thinking>
-
 # Square Product Order Form - Help Guide
 ## Purpose
 The Square Product Order Form is a tool designed to facilitate the creation and management of orders within the Square platform. It is meant to be a versatile and customizable form that caters to various industries and businesses.

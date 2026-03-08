@@ -1,7 +1,3 @@
-<thinking>...To ensure this form accurately and efficiently captures the necessary information for construction material payments, I will review the provided form fields and explain each part to the user in the following sections: "Purpose", "How To Complete This Form", and "Field-by-Field Explanation". This guide will clarify the intended use of the form and walk the end-user through the required and optional fields to provide correct and complete payment information...
-
-</thinking>
-
 # Construction Material Payment Form - Help Guide
 
 ## Purpose

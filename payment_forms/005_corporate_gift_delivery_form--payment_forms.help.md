@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for corporate gifts or other business-related presents to be delivered to a recipient. The form should only be used for official company gifts or business-related purposes, ensuring that the delivery process is legitimate and not misused for personal gain. 
-</thinking>
-
 # Corporate Gift Delivery Form - Help Guide
 ## Purpose
 The Corporate Gift Delivery Form is designed to collect information about the recipient and the gift details for official company gifts or business-related purposes.

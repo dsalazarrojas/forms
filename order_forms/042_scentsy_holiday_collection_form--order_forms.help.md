@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Scentsy Holiday Collection Form. The form is designed to collect customer information for the Scentsy Holiday Collection, likely for marketing or sales purposes. Before proceeding, ensure that you have reviewed and understood the form's requirements and that you are not duplicating any existing records.
-</thinking>
-
 # Scentsy Holiday Collection Form - Help Guide
 ## Purpose
 The Scentsy Holiday Collection Form is designed to collect customer information for the Scentsy Holiday Collection. This form is intended to gather details from customers, which will be used for marketing or sales purposes.

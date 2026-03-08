@@ -1,7 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the "Untitled Form" in the "SurveyTemplates" category. Before proceeding, ensure you have a clear understanding of the form's purpose and are not duplicating efforts. The form appears to be for collecting information related to babysitting or childcare arrangements. It includes fields for parent information (parent name, address, emergency contact, and emergency contact info), babysitter details, and medical conditions/allergies. Some fields are optional and require further explanation for clarity.
-</thinking>
-
 # Untitled Form - Help Guide
 ## Purpose
 This form is designed to collect information for babysitting or childcare arrangements.

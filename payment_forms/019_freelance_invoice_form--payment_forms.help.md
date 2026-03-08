@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a comprehensive tool for freelancers to create and manage their invoices. It captures key information related to the invoice, including the date of service, services rendered, payment details, client contact information, and financial data. The form is intended for internal use within the organization, and it's likely used to facilitate internal accounting and financial management.
-
-The form is likely used by freelancers or their representatives to provide accurate and detailed information for billing purposes.
-
-</thinking>
-
 # Freelance Invoice Form - Help Guide
 ## Purpose
 

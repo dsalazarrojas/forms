@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to provide patients with a checklist to ensure their post-surgical recovery goes smoothly. The form collects information on various aspects of post-operative care, including patient comfort, recovery progress, and potential issues that may arise. By filling out this form, patients can inform their healthcare team of their needs and any concerns they may have, promoting better communication and more effective care. This form is designed to be completed by patients after their surgery, ideally with the guidance of a healthcare professional.
-</thinking>
-
 # post-surgical-care-checklist-form - Help Guide
 ## Purpose
 This form helps patients ensure their post-surgical recovery goes smoothly by collecting information on various aspects of post-operative care.

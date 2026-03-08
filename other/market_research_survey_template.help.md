@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback on the market research survey, aiming to understand users' experiences and perceptions of the survey itself. This will help identify areas of improvement and provide valuable insights for future surveys. The form is intended for users who have completed the market research survey and want to share their thoughts on the design, experience, and overall satisfaction. Please note that this form is an original adaptation, not a copy of any existing form, and is released under CC BY 4.0.
-</thinking>
-
 # market_research_survey_template - Help Guide
 ## Purpose
 The purpose of this form is to collect feedback on your experience with the market research survey. Your input will help us understand what works well and what can be improved.

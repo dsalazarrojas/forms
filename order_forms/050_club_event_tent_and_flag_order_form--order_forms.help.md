@@ -1,7 +1,3 @@
-<thinking>
-This form is used for clubs to request tents and flags for their events. The form is designed to gather information about the event, including the name, date, and location, as well as specific requirements for tents and flags. This information is used to ensure that the club has the necessary supplies and resources for their event. The form should only be filled out by authorized personnel from the club. 
-</thinking>
-
 # Club Event Tent And Flag Order Form - Help Guide
 ## Purpose
 The Club Event Tent And Flag Order Form is used to collect information about a club event, including the event name, date, location, and logistical requirements for tents and flags. This information is used to ensure that the club has the necessary supplies and resources for their event.

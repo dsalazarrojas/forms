@@ -1,7 +1,3 @@
-<thinking>
-The internal reasoning block: The Startup Social Impact Donation Form is designed to collect donations from individuals or organizations supporting social impact startups. The form captures essential details about the donor, such as donation amount, type, and payment method, while also gathering additional information about the donor, like their name, contact, and location. This form aims to provide a clear and straightforward way for donors to contribute to social impact startups, helping them track and appreciate their supporters' generosity.
-</thinking>
-
 # Startup Social Impact Donation Form - Help Guide
 ## Purpose
 The Startup Social Impact Donation Form is designed to collect donations from individuals or organizations supporting social impact startups. Fill out this form to contribute to a social impact startup's mission.

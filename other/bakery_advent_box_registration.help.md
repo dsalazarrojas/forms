@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect information for bakery-advent-box registration. The form is likely used for managing the registration of bakery products or services. 
-
-This form is not meant to be completed by the end user multiple times, but rather as an administrative tool for data collection. Therefore, it is recommended that the form is only accessed by authorized personnel, who have the necessary permissions to edit and manage the data.
-
-The form should be reviewed carefully before completing it to ensure that the required information is accurate and up-to-date. If you are unsure of any information, please consult with the relevant personnel or department responsible for the collection and management of the data.
-
-</thinking>
-
 # bakery-advent-box-registration - Help Guide
 ## Purpose
 This form is used to collect information for bakery-advent-box registration.

@@ -1,7 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Religious Content Order Form", I need to understand the purpose and context of this form. The form's purpose appears to be for users to place orders for religious content, such as materials or services. It's likely used in a church or religious organization setting. I'm assuming the form is designed to gather information about the order, including delivery preferences, payment details, and other relevant order-specific information. Before proceeding, I need to confirm that there are no duplicate fields and that the form's layout makes sense. Let me review the form's structure and fields to ensure clarity and accuracy in the help guide.
-</thinking>
-
 # Religious Content Order Form - Help Guide
 ## Purpose
 The Religious Content Order Form is designed to collect information about orders for religious content, such as materials or services, from customers. This form helps staff efficiently process and manage these orders.

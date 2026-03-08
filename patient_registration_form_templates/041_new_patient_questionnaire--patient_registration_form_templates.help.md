@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to be a concise and practical manual for end-users on how to complete the "new_patient_questionnaire" form. The form is designed to collect essential information from new patients, ensuring that they can be efficiently registered and served. By following this guide, users will be able to fill out the form accurately and effectively. This guide is meant to be a one-time read for end-users, providing them with a clear understanding of each field's purpose and requirements.
-</thinking>
-
 # new_patient_questionnaire - Help Guide
 ## Purpose
 The "new_patient_questionnaire" form is a crucial tool for collecting and organizing patient information. It helps ensure that new patients can be efficiently registered, and their medical history and contact details are accurately captured.

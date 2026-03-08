@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to track the status of events, including event information, attendee details, payment status, and any specific requests made by event organizers or attendees. It is likely used for internal tracking and organization purposes, such as event management, accounting, or customer service. The form does not appear to be related to any specific platform or proprietary technology, and its creation is based on general survey metadata.
-To avoid duplication, ensure that you are creating an event order tracking form that is not already covered by an existing form. If you are unsure, review other event order tracking forms or related forms in your organization's catalog.
-</thinking>
-
 # Event Order Tracking Form - Help Guide
 ## Purpose
 The Event Order Tracking Form is designed to track the status of events, including event information, attendee details, payment status, and specific requests made by event organizers or attendees.

@@ -1,8 +1,3 @@
-<thinking>
-This form is a patient registration form for an eye center, designed to collect vital information about a patient's medical history, contact details, and medical conditions. The form appears to be comprehensive, covering various aspects of a patient's medical history, including allergies, medications, medical procedures, and social history. However, it's essential to confirm that this form is relevant to your specific use case and hasn't been duplicated from other sources. Please review the form's purpose and content carefully to ensure it aligns with your organization's needs.
-
-</thinking>
-
 # eye_center_patient_information_form - Help Guide
 ## Purpose
 This form is designed to collect and record a patient's medical history, contact information, and other relevant details for the eye center's registration process.

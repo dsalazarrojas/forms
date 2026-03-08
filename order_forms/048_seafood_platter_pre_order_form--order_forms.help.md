@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Seafood Platter Pre Order Form - Help Guide
 ## Purpose
 The Seafood Platter Pre Order Form is used to gather information from customers to pre-order their desired seafood platter for pickup or delivery. This form helps us prepare for your special occasion or event, ensuring we have your preferred platter ready for you when you need it.

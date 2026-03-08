@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 <details><summary></summary>
 
 # Health Supplement Launch Pre Order Form - Help Guide

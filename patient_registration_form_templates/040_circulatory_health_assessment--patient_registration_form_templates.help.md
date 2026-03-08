@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Circulatory Health Assessment - Help Guide
 ## Purpose
 The Circulatory Health Assessment form is used to collect information from patients about their circulatory health and wellness habits, including demographic details, medical history, and lifestyle factors. This form will help healthcare professionals gather essential data to provide personalized advice and guidance for maintaining healthy cardiovascular function.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for billing services, likely for payment processing and management. The form is not meant for high-risk or sensitive financial transactions. This guide is not intended for duplicate users who have already completed the form.
-
-</thinking>
-
 # DJ Services Billing Form - Help Guide
 ## Purpose
 The **DJ Services Billing Form** is a form for users to manage and process payments for services provided by DJ Services. This form gathers necessary information for payment processing and management.

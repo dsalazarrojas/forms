@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather sales order information for market stalls. This form is used to capture contact information, payment details, and order specifics for customers who make purchases at market stalls. The form is designed to be simple and user-friendly, making it easy for customers to provide the necessary information for processing their sales orders.
-
-When creating this form, ensure that you're not duplicating any existing forms in your sales process. This form should only be used for sales orders and not for other purposes, such as general contact or payment inquiries.
-</thinking>
-
 # Market Stall Sales Order Form - Help Guide
 ## Purpose
 This form is used to collect sales order information from customers who make purchases at market stalls.

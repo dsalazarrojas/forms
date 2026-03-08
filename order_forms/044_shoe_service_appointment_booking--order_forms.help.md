@@ -1,7 +1,3 @@
-<thinking>
-This form is part of a business application that manages appointments for services such as shoe repair, polish, and resole. The primary function of this form is to enable customers to schedule their shoe services. The form should be filled out only by customers who are booking an appointment for shoe related services. This form is a part of the business's workflow and should only be used for this specific purpose.
-</thinking>
-
 # shoe_service_appointment_booking - Help Guide
 ## Purpose
 This form is used to book an appointment for shoe-related services. Fill out this form to schedule a time slot for a repair, polish, or resole service.

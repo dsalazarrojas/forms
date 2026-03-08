@@ -1,10 +1,3 @@
-<thinking>
-The "lease_payment_form" form is used for processing lease-related payments. This form is designed to collect information about the tenant, payment details, lease terms, and other relevant data. To ensure that the form is completed correctly, please review the following instructions and explanations of each field.
-
-The purpose of this form is to gather all the necessary information for processing lease-related payments in a timely and accurate manner. It is intended to reduce the risk of errors and missed payments. This form should not be used for other purposes or for non-payment-related activities.
-
-</thinking>
-
 # lease_payment_form - Help Guide
 ## Purpose
 The "lease_payment_form" is designed to process lease-related payments efficiently and accurately.

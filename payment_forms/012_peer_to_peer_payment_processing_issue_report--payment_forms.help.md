@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to peer-to-peer payment processing issues. This form will help the support team to track and resolve issues related to peer-to-peer payments, providing a clear and structured way to report the problems that users are experiencing. It's essential to ensure that the support team has all the necessary information to efficiently resolve the issue and provide the best possible support to the user.
-
-Before filling out this form, please ensure that you have not already reported this issue and that it is not a duplicate. If you're unsure, check with the support team to confirm.
-
-This form will help guide you through the necessary steps to report your peer-to-peer payment processing issue. Please answer each question as accurately as possible to help the support team better understand and resolve your issue.
-</thinking>
-
 # Peer To Peer Payment Processing Issue Report - Help Guide
 ## Purpose
 The Peer To Peer Payment Processing Issue Report is a structured form used to report any issues related to peer-to-peer payment processing. This form helps the support team to efficiently track and resolve payment issues.

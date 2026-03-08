@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from users about their donations, specifically about the technology access level, frequency of donation, and payment information. The form is designed to be completed by individuals who are donating technology to support various causes. The form is not required to be completed for any of the fields, but providing accurate information is encouraged to facilitate proper processing and follow-up.
-
-</thinking>
-
 # technology_access_donation_form - Help Guide
 
 ## Purpose

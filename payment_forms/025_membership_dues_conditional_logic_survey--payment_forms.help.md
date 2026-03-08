@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from membership dues payers to help the organization understand their payment preferences and conditions. The goal is to gather data that will inform the organization's membership dues policies and procedures. This form should only be filled out once per individual, and users should not need to fill it out again if their circumstances change. The form is not intended to be filled out on behalf of others, but rather to collect information from individual payers themselves. If users are unsure about how to fill out the form or have questions, they should contact the organization's membership team for assistance.
-</thinking>
-
 # Membership Dues Conditional Logic Survey - Help Guide
 ## Purpose
 This form helps the organization understand individual membership dues payers' preferences and conditions, informing their membership dues policies and procedures.

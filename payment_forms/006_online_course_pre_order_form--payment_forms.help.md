@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Course Pre Order Form - Help Guide
 
 ## Purpose

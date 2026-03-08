@@ -1,13 +1,3 @@
-<thinking>
-Form: dog_walking_service_check_out_form
-
-- Used to record check-out information for dogs during dog walking services.
-- This form will check-out the dog after the walk and gather important info about services, payment status and payment date.
-- This form will only be available after a dog walk is completed.
-- This form should only be used by staff members with the right permissions.
-- Make sure the form is filled out for each dog walked.
-
-</thinking>
 # dog_walking_service_check_out_form - Help Guide
 ## Purpose
 The purpose of this form is to record the details of a dog walk check-out, including the services provided and payment status. 

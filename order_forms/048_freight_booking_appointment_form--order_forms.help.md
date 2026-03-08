@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for freight management, allowing customers to book appointments for freight pickups and deliveries. This guide will be useful for non-technical users who need to fill out this form to schedule their freight bookings. It's essential to ensure that the form's fields are accurately filled out to prevent errors and facilitate efficient freight processing. Before proceeding, please review this guide to ensure you have a clear understanding of the form's purpose and requirements.
-</thinking>
-
 # Freight Booking Appointment Form - Help Guide
 ## Purpose
 The Freight Booking Appointment Form is used to schedule appointments for freight pickups and deliveries. It gathers essential information from customers, including their pickup and delivery locations, dates, and times. This form helps our team manage freight bookings efficiently and ensures that all necessary details are collected accurately.

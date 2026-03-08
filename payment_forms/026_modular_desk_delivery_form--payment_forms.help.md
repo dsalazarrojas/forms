@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Modular Desk Delivery Form", I need to first understand the form's purpose and the fields it contains. From the provided YAML, it appears that this form is designed to collect information related to the delivery of a modular desk. The form likely has multiple sections or "pages" and each section contains various fields. The fields are mostly text-based, with a few select options and a date/time field. The form does not seem to be a complex form with conditional logic or dependencies between fields. It's possible that this form is used to gather information from customers or end-users for the delivery process.
-</thinking>
-
 # Modular Desk Delivery Form - Help Guide
 ## Purpose
 The Modular Desk Delivery Form is used to collect information from customers or end-users for the delivery process of a modular desk. This form likely helps the delivery team to understand the order details, delivery information, shipping address, customer information, payment details, and any other relevant details for a smooth delivery.

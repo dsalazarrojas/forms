@@ -1,13 +1,3 @@
-<thinking>... internal reasoning block to check form purpose, relevance, and non-duplication...
-
-The purpose of this form is to collect information for a fall pre-order form, likely for a product with color and size variations. The form is intended for individuals to submit their contact information, product preferences, and order details.
-
-Upon reviewing the form fields, it appears that the form is not meant to be a general contact form or a sales inquiry form but rather a specific product pre-order form. This is evident from the fields like "Product Color" and "Product Size" which suggest product variations. Additionally, the form fields are mostly required, indicating that the information is essential for the pre-order process.
-
-There is no duplicate form field, and the fields seem to be well-suited for a product pre-order form.
-
-</thinking>
-
 # Your Nails In Details Fall Pre Order Form! - Help Guide
 ## Purpose
 

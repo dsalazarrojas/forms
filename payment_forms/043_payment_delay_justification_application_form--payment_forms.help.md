@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be completed by customers or clients who are seeking an extension or modification of a payment schedule. They provide a reason for the delay, a new due date, and supporting documents to justify their request. 
-
-The purpose of this form is to gather necessary information to facilitate a smooth and efficient payment process. 
-
-Please note that before submitting this form, users should check that they have not already submitted a delay justification and that the information provided is accurate and up-to-date.
-
-</thinking>
-
 # Payment Delay Justification Application Form - Help Guide
 ## Purpose
 The purpose of this form is to provide a structured way to submit a payment delay justification, allowing customers or clients to request an extension or modification of their payment schedule.

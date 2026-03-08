@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect order details from customers, ensuring accurate and efficient order processing. To avoid duplication, users should only access this form if they have a legitimate order to place. The form collects essential information, including order number, order details, T-shirt size, T-shirt color, customer name, email, and payment details (amount and method). The form also offers options for syncing the order with an account.
-</thinking>
-
 # School T Shirt Order Form - Help Guide
 ## Purpose
 The School T Shirt Order Form is designed to collect order details from customers, including order number, order details, T-shirt size, T-shirt color, customer name, email, and payment details (amount and method).

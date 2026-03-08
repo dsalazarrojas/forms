@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Functional Analysis Screening Form - Help Guide
 ## Purpose
 The Functional Analysis Screening Form is used to gather information about a patient's functional status, including their ability to perform daily activities, manage their medication, and their overall health status. This form is designed to help healthcare professionals assess the patient's condition and make informed decisions about their care.

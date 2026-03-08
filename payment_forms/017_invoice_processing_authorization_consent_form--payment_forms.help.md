@@ -1,13 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Invoice Processing Authorization Consent Form", we need to consider the following steps:
-
-* The form's primary purpose is to obtain authorization from clients for processing their invoices. This implies that the form is intended for clients who need to be informed about the payment terms and procedures.
-* The form seems to be asking for a combination of client details, payment terms, and authorization types, which suggests that it might be related to payment processing or accounting operations.
-* Upon reviewing the form fields, it appears that some fields are intended to be completed by the client (e.g., client details, payment terms), while others are for the authorization or approval process (e.g., authorization type, payment method, billing cycle).
-* We should ensure that the form's explanation is clear, concise, and practical for users who are not familiar with the form's purpose or requirements.
-
-</thinking>
-
 # Invoice Processing Authorization Consent Form - Help Guide
 ## Purpose
 The "Invoice Processing Authorization Consent Form" is a document that requires clients to provide their consent for processing their invoices. This form ensures that clients are informed about the payment terms and procedures related to their accounts.

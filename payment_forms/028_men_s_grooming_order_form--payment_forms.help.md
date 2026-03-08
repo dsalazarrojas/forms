@@ -1,12 +1,3 @@
-<thinking>
-This form is used for customers to place orders for men's grooming services, such as haircuts, shaves, and other treatments. It is designed to collect relevant information from the customer, including their order details, payment method, pickup or delivery options, and contact information. 
-The form will help us understand what services the customer is interested in, how they want to pay for their order, and whether they require delivery or pickup. This information will help us to process their order efficiently and ensure that they receive the best possible service. 
-
-Please note that this form is meant to be a comprehensive guide for end users who will be filling out the form. It should not be considered as an exhaustive documentation of the form, and any changes made to the form in the future will not affect the information contained in this guide. 
-
-Also, please keep in mind that some fields may not be required due to the "required" field in the form's schema being set to "false". This means that those fields are optional and can be filled out at the customer's discretion.
-</thinking>
-
 # Men’s Grooming Order Form - Help Guide
 ## Purpose
 This form is used to place orders for men's grooming services, such as haircuts, shaves, and other treatments. It collects necessary information for order processing and ensures that customers receive the best possible service.

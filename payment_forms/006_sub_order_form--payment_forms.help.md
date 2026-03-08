@@ -1,7 +1,3 @@
-<thinking>
-To be honest, it's a bit unclear what the form is meant to achieve. However, based on the fields, it seems to be some sort of order management form for food or meal ordering, likely a sandwich order form? Perhaps it's for tracking and managing the status of sub orders, including details like name, email, phone, address, order type (grilled, cold, hot), and payment details? It's possible that this form is used by the staff or management team to manage and track orders. I will create a help guide assuming this form is for internal use, possibly for a restaurant or food delivery service.
-</thinking>
-
 # Sub Order Form - Help Guide
 ## Purpose
 The Sub Order Form is used to create and manage new sub orders. This form allows staff to track the status of sub orders, including details about the customer and order specifics.

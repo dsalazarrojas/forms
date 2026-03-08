@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to assess the treatment interruption and gather information about the patient's experience. This form will help in understanding the circumstances surrounding the treatment interruption, which can aid in identifying potential issues that may have led to the interruption. To ensure accuracy, please complete this form only for cases where the treatment has actually been interrupted.
-Before filling out this form, please review the following instructions and ensure that the information provided is specific to the current treatment interruption.
-</thinking>
-
 # Treatment Interruption Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about a treatment interruption, which can include any deviation from the planned course of treatment. This includes, but is not limited to, a change in medication, a missed dose, or a discontinued treatment.

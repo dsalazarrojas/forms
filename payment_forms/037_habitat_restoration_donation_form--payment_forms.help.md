@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to make a donation to support habitat restoration efforts. It's intended to be filled out by end-users, likely individuals or representatives of organizations, who want to contribute to the cause. The form should only be filled out once per user, as repeated submissions could be considered spam or duplicate requests. The form collects personal and donation-related information from the user, which will be used to process their donation and possibly follow up with them for further information or to confirm receipt of their donation.
-</thinking>
-
 # Habitat Restoration Donation Form - Help Guide
 ## Purpose
 The Habitat Restoration Donation Form is designed to collect personal and donation information from users who want to support habitat restoration efforts.

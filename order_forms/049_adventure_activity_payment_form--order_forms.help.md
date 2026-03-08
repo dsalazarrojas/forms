@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for customers to provide payment information for an adventure activity, such as a rock climbing or kayaking session. The form gathers customer details, activity specifics, and payment method preferences. The form calculates the total payment amount based on the provided unit price per participant, number of participants, and equipment rental fee. This form is likely used in a business-to-consumer (B2C) or business-to-business (B2B) context where payment and customer information are necessary for processing and tracking payments.
-
-Please check that you are using the correct form for your adventure activity payment, and confirm that your details and payment information are accurate. This form does not handle duplicate submissions for the same customer and activity, so ensure you have completed any outstanding payments before submitting this form.
-
-</thinking>
-
 # Adventure Activity Payment Form - Help Guide
 ## Purpose
 This form collects payment and customer information for an adventure activity, and is used for processing and tracking payments.

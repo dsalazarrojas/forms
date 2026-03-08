@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to register for a soup sale, providing information about the fundraiser, pickup or delivery details, soup order details, and contact information. The form is likely used to gather orders and contact information from customers for a soup sale event.
-The form is designed to be completed by customers, and each field should be filled out accordingly. There might be a check to prevent duplicate submissions by checking if a user is already registered before submitting another form.
-</thinking>
-
 # Soup Sale Registration - Help Guide
 ## Purpose
 The Soup Sale Registration form is used to register for a soup sale event. It collects information from customers, including fundraiser details, pickup or delivery options, soup information, and contact details.

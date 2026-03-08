@@ -1,7 +1,4 @@
-## <thinking>...thinking>
-This form is meant to collect information for a charity merchandise payment form. It's likely used for online or in-person sales of charity merchandise, where customers can select items to purchase and provide their contact and shipping information. The form is designed to be simple and straightforward, but may have some technical fields for calculating totals and handling payment options. To avoid duplication, users should only fill out this form once per order. To ensure accuracy, please double-check your selections before submitting.</thinking>
-
-# Charity Merchandise Payment Form - Help Guide
+## # Charity Merchandise Payment Form - Help Guide
 ## Purpose
 The Charity Merchandise Payment Form is designed to collect information from customers for charity merchandise sales. It includes fields for customer contact information, merchandise selection, order totals, shipping details, and payment method.
 

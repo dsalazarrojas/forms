@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for ordering a gym locker nameplate. This is the main form for this type of order, and the user will be guided through a series of questions to gather the required information. Please ensure that all relevant fields are populated correctly before submission, as any incomplete or incorrect data may delay or prevent processing. The form will be used for both new and existing members of the gym. Please note that some fields are required, so make sure to fill them out correctly.
-</thinking>
-
 # Gym Locker Nameplate Order Form - Help Guide
 ## Purpose
 This form is used to collect information for ordering a gym locker nameplate. Fill out the form with the required and optional fields to ensure a successful order.

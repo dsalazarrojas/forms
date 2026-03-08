@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a generic order form for the COVID-19 vaccine. It likely serves as an internal or external document used to collect information from clients or patients who are receiving the vaccine. This form might be used for tracking, billing, or other administrative purposes. To ensure accuracy, it's recommended to check if there's a similar form already created in the system to avoid duplication. If this is a new form, please provide a clear name and description in the form title and hint fields for future reference.
-</thinking>
-
 # COVID-19 Vaccine Order Form - Help Guide
 ## Purpose
 This form is used to collect information from clients or patients who are receiving the COVID-19 vaccine. It helps track vaccine orders and related details.

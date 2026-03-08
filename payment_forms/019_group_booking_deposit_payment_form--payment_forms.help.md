@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers making a group booking deposit payment. It's crucial to ensure the customer has provided accurate and complete information to avoid delays or issues with their booking. Please verify that you don't already have a payment form in place before proceeding. If you're unsure, you can always reach out to your supervisor or the booking team for guidance.
-</thinking>
-
 # Group Booking Deposit Payment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect payment information from customers making a group booking deposit. This information will be used to confirm the payment details and update the booking status accordingly.

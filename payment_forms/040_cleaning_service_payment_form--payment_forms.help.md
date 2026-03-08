@@ -1,9 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, let's analyze its structure and fields. This form appears to be a payment form for a cleaning service, aiming to gather customer information, service details, and payment method. The form is divided into several sections, including customer information, service details, payment details, and payment authorization. This form likely serves as an electronic alternative to traditional payment receipts or invoices, providing a convenient way to record and process payments for the cleaning service.
-
-Given its purpose, this form should be relevant to customers making payments for cleaning services, and its use should be limited to this specific context. To avoid duplication, this form should not be used for other purposes, such as general customer inquiries or account management.
-</thinking>
-
 # Cleaning Service Payment Form - Help Guide
 ## Purpose
 This form is for customers to make payments for cleaning services provided by our company. Please fill out the form accurately to ensure that your payment is processed correctly.

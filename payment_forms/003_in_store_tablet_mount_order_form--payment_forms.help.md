@@ -1,7 +1,3 @@
-<thinking>
-The form purpose and relevance should be checked to avoid duplication of efforts. This form is designed to collect specific information from retailers for in-store tablet mount orders, including the required details for the order, such as the quantity of mounts, order date, and payment method. The form should only be used for this specific purpose, and any unnecessary fields should be kept to a minimum.
-</thinking>
-
 # In Store Tablet Mount Order Form - Help Guide
 ## Purpose
 This form is used to collect information from retailers for in-store tablet mount orders. It includes fields for order details, payment methods, and other relevant information.

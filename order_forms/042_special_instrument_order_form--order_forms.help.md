@@ -1,7 +1,3 @@
-<thinking>
-A special instrument order form is used by customers to order special instruments, which could be any type of musical instrument or equipment that is not typically found in a standard catalog or online store. This form is likely used for custom orders, where a customer is seeking a specific or rare instrument. To prevent duplication, the form should only be used for customers who have not previously placed a custom order or do not have any existing custom orders in progress. 
-</thinking>
-
 # Special Instrument Order Form - Help Guide
 ## Purpose
 The special instrument order form is designed to collect customer information and custom instrument order details for special instrument purchases. This form helps us to understand the customer's requirements and preferences, ensuring a smooth and accurate custom order fulfillment process.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended to support the user in completing the "Parent And Teacher Meeting Booking Form" accurately and efficiently. The form is designed for parents and guardians to book meetings with teachers for the purpose of discussing their child's educational progress. Each field is explained in detail below to facilitate a seamless experience for the end-user.
-
-</thinking>
-
 # Parent And Teacher Meeting Booking Form - Help Guide
 
 ## Purpose

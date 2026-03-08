@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for memorial donations, including donor details, purpose of the donation, and payment information. The fields required for the form are First Name, Last Name, Donation Amount, Purpose of Donation, Payment Type, and Confirmation.
-
-</thinking>
-
 # Memorial Donation Form - Help Guide
 ## Purpose
 The Memorial Donation Form is used to collect information for memorial donations, including donor details and payment information.

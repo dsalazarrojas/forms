@@ -1,7 +1,3 @@
-<thinking>
-The form "demo_square_payment" is a payment form designed for customers to place orders and make payments. It consists of several fields to gather relevant information for processing and fulfilling orders. Before proceeding, ensure that you have read the form's purpose and are not duplicating the submission process, as this form is intended for new payments only. To avoid any errors, double-check the fields and their requirements before submitting. The form is divided into multiple pages, each with its unique characteristics and purpose.
-</thinking>
-
 # demo_square_payment - Help Guide
 ## Purpose
 The "demo_square_payment" form is used for customers to place new orders and make payments. It gathers essential information such as customer details, order specifics, and payment method.

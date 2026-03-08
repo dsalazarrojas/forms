@@ -1,8 +1,3 @@
-<thinking> 
-The outstanding payment tracker form is used to monitor payments that are pending, due, or overdue. This form helps in keeping track of payments made, amount due, payment method, and payment status, as well as follow-up reminders for payments that require follow-up. 
-Before filling out this form, ensure that you have not already created an entry for this payment. If you are unsure about the payment, please contact the relevant department for clarification. 
-</thinking>
-
 # outstanding_payment_tracker - Help Guide
 ## Purpose
 The outstanding payment tracker form is designed to help you monitor and track payments that are pending, due, or overdue. This form allows you to input details about payments and set up follow-up reminders for payments that require it.

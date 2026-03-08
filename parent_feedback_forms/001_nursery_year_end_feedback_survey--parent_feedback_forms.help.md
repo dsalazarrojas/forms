@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from nurseries at the end of the year. This form is intended to gather information about the nursery's experience, teaching, and areas of improvement. It's essential to complete this form accurately to ensure that the nursery's feedback is valuable and actionable. Please make sure to complete the form only once a year, and if you have already submitted feedback, please do not submit again. If you have any questions or concerns, please don't hesitate to reach out to us.
-</thinking>
-
 # Nursery Year End Feedback Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from nurseries at the end of the year to help us understand their experience, teaching, and areas of improvement. Your input is crucial in shaping the future of our services.

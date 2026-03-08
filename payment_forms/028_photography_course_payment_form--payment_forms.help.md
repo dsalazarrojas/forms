@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the payment process for a photography course. The goal is to collect relevant information from students to process payments, track course fees, and maintain records. This form should not be used for other purposes, such as course registration or instructor communication.
-</thinking>
-
 # photography_course_payment_form - Help Guide
 ## Purpose
 This form is designed to collect payment information from students for photography courses.

@@ -1,5 +1,3 @@
-<thinking>Before we dive into the help guide, let's break down the form purpose and ensure it's not duplicating any existing functionality. The PayPal Donation Form is a form for collecting donations from users. The form collects donor information, donation amount, currency, type, and an optional note. The primary goal is to gather necessary information to process a donation efficiently and transparently. There might be existing forms that collect similar information, but this form is specifically designed for PayPal donations, and its fields are optimized for this purpose.</thinking>
-
 # PayPal Donation Form - Help Guide
 ## Purpose
 The PayPal Donation Form is designed to collect donations from users. It gathers essential information to process donations efficiently and transparently.

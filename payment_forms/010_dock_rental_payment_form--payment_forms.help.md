@@ -1,10 +1,3 @@
-<thinking>
-This is a payment form for dock rental payments, used to collect information from customers to process payments for dock rentals.
-The form is designed to be completed by customers and is not intended for internal use.
-There are no other forms with this exact name, and it is a unique form designed to handle specific payment details for dock rentals.
-The form is used to collect payment details, customer information, rental details, and other relevant information.
-</thinking>
-
 # Dock Rental Payment Form - Help Guide
 ## Purpose
 The Dock Rental Payment Form is used to collect payment information from customers to process payments for dock rentals. This form is a crucial part of the payment process, ensuring that all necessary details are collected accurately and efficiently.

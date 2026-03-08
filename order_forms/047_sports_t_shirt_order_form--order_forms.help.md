@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers to place an order for sports t-shirts. It will help the team management collect the necessary details from the customer, including their name, contact information, order details, and team-related information.
-
-Before we dive into the guide, please note that this form has multiple fields, and some of them are optional. Ensure you fill out as much information as required or relevant to the order you're placing.
-
-</thinking>
-
 # sports_t_shirt_order_form - Help Guide
 ## Purpose
 The sports t-shirt order form is designed to collect information from customers to place an order for sports t-shirts. This form helps the team management gather the necessary details for the order, including customer information, order details, and team-related information.

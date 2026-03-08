@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cross Promotion Flyer Order Form - Help Guide
 
 ## Purpose

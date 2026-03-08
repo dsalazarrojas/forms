@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I've created this form based on the provided input schema, aiming to create a user-friendly guide that helps end-users complete it efficiently. The form's purpose is to collect information from clients or customers about their garden design needs. To ensure relevance and non-duplication, I've considered the form's categories, labels, and fields, which seem to be focused on garden design order and payment details. I'll provide a clear and concise help guide to assist end-users in filling out this form.</thinking>
-
 # Garden Design Order Form - Help Guide
 ## Purpose
 The Garden Design Order Form is designed to collect information from clients or customers about their garden design needs. This form helps our team gather essential details about their project requirements, preferred payment method, and desired design package.

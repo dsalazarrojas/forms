@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Lab Supply Order Form - Help Guide
 ## Purpose
 This form is designed to collect order information from lab suppliers. It helps the supplier to gather details of the customer and their requested lab supplies, and it also allows them to provide order items and payment information.

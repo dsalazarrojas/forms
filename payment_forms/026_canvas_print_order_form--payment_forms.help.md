@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, the Canvas Print Order Form is designed to guide users through the process of creating an order for custom canvas prints. This form is a critical part of the order process, ensuring that users provide accurate and complete information. The form is designed to be user-friendly, with clear labels and instructions to help users navigate each section. The form is divided into several sections: customer information, canvas specifications, image information, and special instructions. Each section is designed to collect specific details that are essential for creating a custom canvas print.
-</thinking>
-
 # Canvas Print Order Form - Help Guide
 ## Purpose
 The Canvas Print Order Form is a critical step in creating a custom canvas print order. This form collects essential information about the user, canvas specifications, and image details to ensure accurate and timely production of the order.

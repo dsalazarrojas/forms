@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather essential information from clients before they receive any skincare services. The form collects contact information, service preferences, and medical history. By understanding the client's needs and medical background, therapists can provide personalized and safe services. Please ensure this form is used for its intended purpose and only once the client's needs and medical status have been assessed.
-</thinking>
-
 # Skincare Facial Consent Form - Help Guide
 
 ## Purpose

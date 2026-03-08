@@ -1,8 +1,3 @@
-<thinking>
-This block of text is to ensure that the context and requirements of the form are understood before proceeding to create the help guide.
-
-</thinking>
-
 # Youth Retreat Registration Form - Help Guide
 ## Purpose
 The Youth Retreat Registration Form is a form designed to collect information from youth participants and their emergency contacts for the purpose of organizing a youth retreat. This form helps to ensure that all participants have necessary contact information and dietary preferences recorded.

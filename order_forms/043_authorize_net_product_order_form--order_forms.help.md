@@ -1,17 +1,3 @@
-<thinking>
-To prevent confusion and ensure that users complete the form correctly, we should verify that the form is being used for its intended purpose and not for duplicate orders.
-
-The form is intended to be used for new orders only and should not be used for duplicate or cancelled orders. The form should only be used for orders for products that are in stock and ready for shipping.
-
-If the user attempts to use the form for a duplicate or cancelled order, the system should prevent the submission and prompt the user to contact support.
-
-Similarly, we should check that the product being ordered is not currently out of stock and is available for purchase.
-
-We should also ensure that the user is not attempting to place an order for a product with missing or incomplete information. For example, if a product requires specific options, such as size or color, the system should check that these options are selected or entered correctly.
-
-Finally, we should validate the user's payment method to ensure it is a valid option.
-</thinking>
-
 # Authorize.Net Product Order Form - Help Guide
 ## Purpose
 This form is for placing new orders for products that are in stock and ready for shipping. It is not for duplicate or cancelled orders. Please ensure that you have all the necessary information and options selected correctly before completing the form.

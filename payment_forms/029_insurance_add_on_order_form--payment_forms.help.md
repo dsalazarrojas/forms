@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Insurance Add On Order Form - Help Guide
 ## Purpose
 The Insurance Add On Order Form is designed to collect information from clients regarding their insurance add-ons. This form helps to process client requests for additional coverage or policy changes. It captures essential details such as policy numbers, coverage types, and payment methods, ensuring accurate and efficient processing of client requests.

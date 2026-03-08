@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for treat packages. The form will guide customers through selecting options for their order, providing necessary customer information, and specifying payment details. Before proceeding, it's essential to ensure that you are eligible to place an order. Please note that some fields might be dependent on previous answers or have specific requirements based on business logic. Please fill out the form with attention and care.
-</thinking>
-
 # Treat Package Order Form - Help Guide
 ## Purpose
 This form is used to place orders for treat packages, allowing customers to select their desired options, provide necessary customer information, and specify payment details.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to generate a PayPal invoice for a customer's order in the womens fashion industry. The form is intended for use by customers to provide their shipping address, contact information, and order details to facilitate a seamless payment process. To prevent duplicate payments, it is essential to use this form for new orders only.
-</thinking>
-
 # Womens Fashion Order Form Paypal Invoicing - Help Guide
 ## Purpose
 The Womens Fashion Order Form Paypal Invoicing is used to generate a PayPal invoice for a customer's order in the womens fashion industry.

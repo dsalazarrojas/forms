@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is not used in situations where it's not applicable. This form is intended for users to provide their preferences for a manicure treatment. It might not be suitable for users who are not interested in or are not eligible for the service. Before proceeding, please confirm that you are interested in booking a manicure treatment and that you are eligible for it. If not, please do not fill out this form. 
-</thinking>
-
 # manicure_wishlist_form - Help Guide
 ## Purpose
 This form is designed to collect information about your preferences for a manicure treatment. Please provide your choices to ensure we can provide you with the best possible experience.

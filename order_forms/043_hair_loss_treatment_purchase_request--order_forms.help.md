@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for the purpose of processing a hair loss treatment purchase request. The form will be used by the customer to provide their contact and delivery information, select the type of treatment they are interested in, and specify their payment method and terms. The form will also be used to collect order details such as product selection and quantity. This form is intended to be completed by customers who are interested in purchasing hair loss treatment, and it is not intended to be used for other purposes. Please ensure that the information you are providing is accurate and complete, as it will be used to process your order.
-</thinking>
-
 # Hair Loss Treatment Purchase Request - Help Guide
 ## Purpose
 This form is used to collect information from customers for the purpose of processing a hair loss treatment purchase request.

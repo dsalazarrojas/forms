@@ -1,5 +1,3 @@
-<thinking>As a patient feedback form is used to collect information about a patient's experience with a dental office, it's essential to provide a clear and concise guide to help patients understand what the form is for and how to complete it. This form is designed to capture essential details about the patient's appointment, feedback, and suggestions for service improvement. It's crucial to ensure that the information gathered is accurate and helpful for the dental office.</thinking>
-
 # Dental Office Patient Experience Check In Form - Help Guide
 
 ## Purpose

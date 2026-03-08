@@ -1,36 +1,3 @@
-<thinking>
-
-This form is designed to collect comprehensive information from patients, including basic contact information, medical history, symptoms, medical conditions, test results, and patient feedback. This form is intended to be used by healthcare professionals to gather detailed information about patients, which can be used for diagnosis, treatment, and care planning.
-
-The form consists of 25 fields, divided into several sections, each addressing a specific aspect of patient care. The sections include:
-
-* Basic Info: Collects basic contact information, such as name, address, and contact details.
-* Medical History: Asks questions about the patient's medical history, including allergies, medication, and medical conditions.
-* Symptoms: Allows patients to report any symptoms they are experiencing.
-* Vital Signs: Records vital signs, such as temperature, blood pressure, and pulse.
-* Medical Conditions: Lists medical conditions, such as diabetes, hypertension, and others.
-* Test Results: Collects test results, including lab tests, imaging studies, and other diagnostic tests.
-* Medical Team Assessment: Records the assessment of the medical team, including diagnosis, treatment plan, and follow-up care.
-* Allergies: Lists allergies, including medications, foods, and latex.
-* Medical Observations: Records medical observations, such as wounds, scars, and other notable findings.
-* Medication Plan: Lists medications, dosages, and frequencies.
-* Patient Feedback: Collects feedback from the patient, including concerns, questions, and suggestions.
-* Patient Contact Info: Collects contact information, such as phone number, email, and address.
-* Medical Records: Records medical records, including lab results, imaging studies, and other relevant documents.
-* Test Results 2: Collects additional test results.
-* Patient Education: Provides education to patients on their condition, treatment, and care.
-* Medical Notes: Records medical notes, including diagnosis, treatment plan, and follow-up care.
-* Medical Reports: Collects medical reports, including lab results, imaging studies, and other relevant documents.
-* Medical Certifications: Lists medical certifications, such as licensure, specialty, and certification.
-* Patient Consent: Obtains patient consent for treatment, procedures, and care.
-* Medical Photos: Collects medical photos, including photos of wounds, scars, and other notable findings.
-* Test Results 3: Collects additional test results.
-* Medication History: Records medication history, including dosages, frequencies, and adherence.
-* Patient Address: Collects patient address.
-* Patient Contact Info 2: Collects additional contact information, such as emergency contact details.
-
-</thinking>
-
 # patient-health-report-form - Help Guide
 ## Purpose
 The patient-health-report-form is designed to collect comprehensive information from patients for medical professionals to use in diagnosis, treatment, and care planning.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hearing And Eyecare Assessment Form - Help Guide
 ## Purpose
 This form is used for assessing the hearing and eye care of a patient. It collects essential information regarding the patient's medical history, hearing and vision status, and any allergies, medications, or medical conditions they may have. The form is designed to help healthcare providers evaluate the patient's overall health and provide recommendations for treatment.

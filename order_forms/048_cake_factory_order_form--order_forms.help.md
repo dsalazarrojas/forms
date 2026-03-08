@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect order details from clients, ensuring accurate tracking and preparation for cake production. It's crucial that clients provide their name, contact email, and other essential information to facilitate smooth communication and delivery. The form also allows clients to specify the desired cake flavor, tier, and size, along with the desired delivery method and address (if applicable).
-</thinking>
-
 # Cake Factory Order Form - Help Guide
 ## Purpose
 The Cake Factory Order Form is designed to collect essential information from clients for accurate tracking, preparation, and delivery of their custom cakes.

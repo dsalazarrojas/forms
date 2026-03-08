@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for project change orders from a client. The form captures essential details about the project, including its title, status, type, and any uploaded documents. It also includes a section for the project team to provide change details and a place for digital signatures. The purpose of this form is to streamline communication and ensure that all necessary information is gathered in a clear and concise manner. 
-
-</thinking>
 # Project Change Order Form - Help Guide
 ## Purpose
 This form is intended to collect project information and details for change orders from clients. It's essential to complete this form accurately to ensure that project teams have all the necessary information to move forward.

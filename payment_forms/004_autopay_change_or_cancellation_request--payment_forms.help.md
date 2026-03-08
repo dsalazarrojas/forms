@@ -1,8 +1,3 @@
-<thinking>
-The Autopay Change Or Cancellation Request form is a crucial document used to modify or terminate an Autopay account. The purpose of this form is to ensure that the account holder has provided accurate and complete information to facilitate a smooth change or cancellation process. Before proceeding, please review the following guide to ensure you understand the form's requirements and implications.
-
-</thinking>
-
 # Autopay Change Or Cancellation Request - Help Guide
 ## Purpose
 

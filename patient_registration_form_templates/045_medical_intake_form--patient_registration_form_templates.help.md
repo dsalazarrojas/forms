@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to gather information for patients, likely for medical professionals to use in their evaluation and diagnosis process. It appears to be a general form and its structure may vary depending on the specific needs of the medical facility. The form includes several fields to collect medical history, past surgeries, medical genetics, and symptoms, which are all relevant information that healthcare providers typically need to assess a patient's condition. There may be overlap or redundancy in these fields, but the form is likely used as a starting point for a more detailed evaluation and diagnosis process.
-
-</thinking>
-
 # medical_intake_form - Help Guide
 ## Purpose
 The medical_intake_form is a patient registration form designed to gather relevant medical information for healthcare professionals to evaluate and diagnose patients.

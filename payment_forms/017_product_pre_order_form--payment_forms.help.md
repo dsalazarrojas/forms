@@ -1,6 +1,3 @@
-<thinking>
-The form is intended to be a pre-order form for customers to provide information on shipping and payment details for products they wish to order. The form is designed to gather shipping method, shipping rate, shipping date, shipping time, customer email, payment method, order details, product name, quantity, price, and total amount from the customers. The form is not intended for actual ordering, but rather for customers to submit their pre-order requests. The form should only be used for customers who are willing to place pre-orders and are willing to provide all required information. The form should not be used for actual orders, as it does not include fields for payment confirmation or order completion. The form is likely to be used by customers who are interested in making pre-orders for products that are not yet available for actual purchase.</thinking>
-
 # Product Pre Order Form - Help Guide
 ## Purpose
 The Product Pre Order Form is a tool for customers to submit their pre-order requests and provide shipping and payment details for products they are interested in purchasing before they are available for actual purchase.

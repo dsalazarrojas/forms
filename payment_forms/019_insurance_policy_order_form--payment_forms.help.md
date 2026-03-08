@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We're going to create a comprehensive user-facing help guide for the "Insurance Policy Order Form" that will help end-users understand its purpose and usage instructions. This form is designed to collect information from customers who are interested in purchasing an insurance policy. It will help us to gather their contact details, insurance preferences, and policy specifics.
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide is for a "Environmental Cleanup Donation Form". To ensure the form is completed correctly and accurately, the internal reasoning block checks for relevance and non-duplication of the form purpose. The form's purpose is to collect donations for environmental causes, and its completion is crucial for tracking and analyzing these contributions. Therefore, it is essential to understand each field's intent and how to fill it out correctly.
-
-</thinking>
-
 # Environmental Cleanup Donation Form - Help Guide
 ## Purpose
 The Environmental Cleanup Donation Form is a tool used to collect donations for various environmental causes. By filling out this form, you will be contributing to the protection and preservation of our planet's natural resources.

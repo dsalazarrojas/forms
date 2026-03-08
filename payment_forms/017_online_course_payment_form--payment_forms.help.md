@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to facilitate online course payments, allowing students to submit their payment information and course details for the course they wish to enroll in. The form should only be filled out if the course is currently active, and not if it is cancelled or in an inactive state. If a course is already fully paid, the form will be displayed as a confirmation of payment status.
-The fields in this form gather information about the course and student, including course name, payment method, amount paid, student name, email, phone number, and address. This data will be used to update the course status and payment status in the system. The form also includes fields for instructor name, email, phone number, and address.
-</thinking>
-
 # Online Course Payment Form - Help Guide
 
 ## Purpose

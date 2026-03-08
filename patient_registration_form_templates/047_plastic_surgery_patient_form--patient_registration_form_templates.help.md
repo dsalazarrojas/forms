@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from patients undergoing plastic surgery. Its purpose is to gather basic details about the patient, their medical history, contact information, and specifics about the surgery they are about to undergo. This form is intended for plastic surgeons or medical staff to use in their practice, ensuring they have all necessary details before performing the surgery. The form's fields are meant to be filled out by the patient or their representative, with the understanding that medical professionals will review and verify the information for accuracy and completeness. The form is designed to be user-friendly and efficient, minimizing errors while maximizing the chances of a successful and safe surgical process.
-
-To avoid duplication, this form's fields and structure should align closely with industry standards for plastic surgery patient information collection. If you're unsure about the form's relevance or have concerns about its content, please contact form@gic.mx.
-
-</thinking>
-
 # Plastic Surgery Patient Form - Help Guide
 
 ## Purpose

@@ -1,10 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Community Race Finish Line Banner Order Form", I'll first need to understand the form's purpose and how it's likely to be used. Given the fields and options presented, it seems that this form is designed to collect information for ordering custom banners for community races or events. The form asks for contact and order details, banner specifications, design preferences, and shipping information.
-
-Before creating the guide, I need to confirm that the form is not intended for duplicate orders or internal use, and that the guide will be used by end-users who are likely external customers. I will also need to make sure I cover all the fields and options to ensure the user can complete the form correctly.
-
-</thinking>
-
 # Community Race Finish Line Banner Order Form - Help Guide
 ## Purpose
 This form is designed to help you order custom banners for your community race or event. It will guide you through the process of providing all the necessary information for us to create and deliver your banner in time for your event.

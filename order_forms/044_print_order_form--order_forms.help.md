@@ -1,6 +1,3 @@
-<thinking> 
-The Print Order Form is designed to collect relevant information from customers to place orders for printing services. The form is intended for use by both customers and order administrators to facilitate the order process. To ensure consistency and accuracy, please use this form for every print order. Please do not use this form for orders with special requirements or custom requests, as these require separate processing.</thinking>
-
 # Print Order Form - Help Guide
 ## Purpose
 

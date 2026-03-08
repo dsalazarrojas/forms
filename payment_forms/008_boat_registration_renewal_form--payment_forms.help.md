@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to help users renew their boat registration. The purpose of this form is to collect information required for the renewal process, including owner information, boat details, and payment details. The form is split into several sections, each focused on a specific aspect of the registration renewal process.
-
-This form will help users to:
-- Update their owner information
-- Provide details about their boat, including hull number and manufacturer
-- Enter payment details, including registration fee and payment method
-- Agree to the terms and conditions
-
-To avoid duplication, please make sure to complete the form only once for each boat you wish to renew.
-
-Before starting, ensure you have all the necessary information ready to avoid errors and save time.
-</thinking>
-
 # Boat Registration Renewal Form - Help Guide
 ## Purpose
 The Boat Registration Renewal Form is designed to collect information required for the renewal of your boat registration. This form is split into several sections, each focused on a specific aspect of the registration renewal process.

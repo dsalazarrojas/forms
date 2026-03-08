@@ -1,12 +1,3 @@
-<thinking>
-This guide will help you complete the Pet Grooming Check Out Form, which is used to collect information and make payments for pet grooming services provided to pet owners. 
-
-This form is not intended for internal use only, so please make sure to complete it in its entirety and submit it to ensure accurate record keeping for your business. 
-
-This form is divided into 6 sections, each with its own fields and options. Please follow the instructions below to complete this form accurately and efficiently. 
-
-</thinking>
-
 # Pet Grooming Check Out Form - Help Guide
 
 ## Purpose

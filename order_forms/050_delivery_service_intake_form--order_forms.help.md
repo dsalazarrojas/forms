@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from customers about their delivery service requests. It should be used by customer service representatives to capture all necessary details about a delivery service order. The form is likely used within a logistics or delivery company's internal processes. This form should be completed by a customer or customer representative, and its purpose is to ensure that all relevant information is gathered for the delivery team to process the order efficiently.
-</thinking>
-
 # Delivery Service Intake Form - Help Guide
 ## Purpose
 The Delivery Service Intake Form is used to collect information about a customer's delivery service request.

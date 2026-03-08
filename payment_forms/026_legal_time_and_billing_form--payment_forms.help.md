@@ -1,11 +1,3 @@
-<thinking>
-The Legal Time And Billing Form is a tool used to track and calculate time spent on various activities and tasks, providing a clear picture of an individual's or organization's work hours and costs. This form is crucial for clients, freelancers, or internal teams to accurately track time spent on different projects or activities and generate detailed reports on the time and cost spent. The form is designed to be user-friendly, with multiple select options for categorization and calculation of time and costs.
-
-The form serves as a centralized hub for capturing and displaying time spent on different tasks, allowing users to make informed decisions on resource allocation, project planning, and billing purposes. It also helps in automating the calculation of totals, eliminating manual errors and providing real-time updates on time and cost spent. 
-
-This form is primarily used by clients, freelancers, and internal teams to track and report on time spent on various projects, activities, or tasks, making it an integral part of project management and time tracking.
-</thinking>
-
 # Legal Time And Billing Form - Help Guide
 ## Purpose
 The Legal Time And Billing Form is a tool for capturing and reporting time spent on various activities and tasks, providing a clear picture of work hours and costs.

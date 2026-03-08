@@ -1,6 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the "music_venue_support_donation_form" form, which is used to collect payments and donations from users. This form is likely to be used by music venues to receive support and donations from patrons. The form collects information such as the category of the donation, description, form ID, output file, assigned tool, payment method, donation amount, payment type, recurring frequency, email, phone number, and note. The purpose of this form is to provide a structured way for music venues to collect payments and donations from their patrons, and to help them track and manage these donations efficiently. Before filling out this form, please ensure that you have the necessary information and permissions to complete it accurately. This form should not be filled out multiple times for the same purpose.</thinking>
-
 # music_venue_support_donation_form - Help Guide
 ## Purpose
 This form is used by music venues to collect payments and donations from their patrons.

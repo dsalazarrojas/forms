@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a customer's delivery and payment details. This form is used for the Courier Check Out process and is meant to gather necessary data to facilitate the delivery and payment process. It is likely used in a logistics or courier service context where customers are being delivered packages or goods.
-
-Before starting, please ensure this form is not a duplicate of an existing form with similar fields. If you are unsure, please verify with the relevant team or manager.
-
-Please note that this form is designed to be completed by customers, but the information collected is meant to be used by the courier service staff. The data collected includes payment details, delivery information, and other relevant customer data.
-
-To complete this form, please follow the instructions below:
-
-</thinking>
 # Courier Check Out Form - Help Guide
 ## Purpose
 

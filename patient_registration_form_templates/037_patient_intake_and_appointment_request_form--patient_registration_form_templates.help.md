@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect patient information for intake and appointment requests. The purpose of this form is to gather all necessary details from patients, including contact information, appointment schedules, medical history, allergies, medications, insurance information, and more. This form aims to ensure that all the required information is collected efficiently, reducing the need for follow-up questions or incomplete records. By using this form, healthcare providers can streamline their workflow and improve patient data management.
-
-</thinking>
-
 # Patient Intake And Appointment Request Form - Help Guide
 ## Purpose
 This form is intended to collect comprehensive information from patients for a smooth and efficient intake process.

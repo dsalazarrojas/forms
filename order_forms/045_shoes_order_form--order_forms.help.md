@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide a clear and concise explanation of the Shoes Order Form for end-users. The form is designed to collect information for shoe orders, including shoe design, size, quantity, color, and other relevant details. The form is not intended for general user feedback or registration purposes. It is essential to understand that the form is a specific tool for processing shoe orders and should not be used for other purposes.
-</thinking>
-
 # Shoes Order Form - Help Guide
 ## Purpose
 The Shoes Order Form is a tool designed to collect information for shoe orders, allowing customers to provide their preferences and details regarding their desired shoes.

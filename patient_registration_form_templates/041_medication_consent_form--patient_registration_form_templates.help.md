@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help patients provide their personal and medication-related information for a healthcare provider to review and discuss before treatment or medication administration. The goal is to gather essential data for the healthcare professional to have a comprehensive understanding of the patient's medical history and current condition. This form should only be used for patients who are new to the healthcare provider's practice and have not yet been registered. It is recommended to have the patient read and sign the terms and conditions section before submitting the form.
-</thinking>
-
 # medication_consent_form - Help Guide
 ## Purpose
 The medication consent form is a patient registration form designed to collect personal and medication-related information from patients before treatment or medication administration. It is intended to provide healthcare professionals with a comprehensive understanding of the patient's medical history and current condition.

@@ -1,6 +1,3 @@
-<thinking>
-This help guide is to ensure that users understand the purpose of the Online Course Billing Form and how to complete it accurately. This form is used to collect information about customer payments for online courses. The purpose of this form is to track and manage course payments. To complete this form, users will be filling out different fields such as payment method, customer details, and payment dates. This guide will explain each field's purpose and expected input to ensure that users provide accurate and complete information.</thinking>
-
 # Online Course Billing Form - Help Guide
 ## Purpose
 

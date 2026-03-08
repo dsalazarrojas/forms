@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be designed to gather information related to the order of factory ventilation grilles. The fields seem to be mostly focused on the specifications and details of the grille, including its size and price. There is also an option for the user to select a payment method. However, upon closer inspection, it appears that most of the fields are duplicates of each other (e.g., grille_size1 to grille_size20). This could be a result of a mistake in the form design or a need for further refinement.
-</thinking>
-
 # Factory Ventilation Grille Order Form - Help Guide
 ## Purpose
 The Factory Ventilation Grille Order Form is designed to collect information for the order of factory ventilation grilles. This form helps to ensure that all relevant details are captured, including grille specifications, payment information, and delivery details.

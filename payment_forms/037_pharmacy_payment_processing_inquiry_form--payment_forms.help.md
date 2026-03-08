@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to gather information related to pharmacy payment processing inquiries from end-users. This form aims to provide a clear and structured way for end-users to submit their inquiries, ensuring that the necessary details are captured accurately.
-</thinking>
-
 # Pharmacy Payment Processing Inquiry Form - Help Guide
 ## Purpose
 The Pharmacy Payment Processing Inquiry Form is designed to collect information from end-users related to their payment processing inquiries. This form ensures that all relevant details are captured accurately and efficiently.

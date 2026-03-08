@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information for a donation to a church's fundraising efforts. 
-This form is designed for collecting general data and payment methods. 
-The purpose of this form is to gather contact information and payment details for donations made to a church. 
-The payment information fields allow users to select their preferred method of payment. 
-This form is intended for use by individuals making donations to a church. 
-Please ensure you are authorized to complete this form. 
-This form will collect data to process your donation. 
-Ensure the "Payment Method" field matches the actual payment method selected. 
-</thinking>
-
 # paypal_church_donation_form - Help Guide
 
 ## Purpose

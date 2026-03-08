@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to place an order for clothing items in a rush, providing them with the option to choose their desired items, delivery method, and payment information. The form collects relevant customer and payment information, and allows customers to confirm their order before submitting it.
-</thinking>
-
 # Rush Clothing Order Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers to process their rush clothing orders efficiently and accurately.

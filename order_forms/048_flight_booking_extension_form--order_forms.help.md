@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information for flight bookings. The form is intended for customers who want to book flights. It is likely to be used by a travel agency or airline to collect customer details and payment information for flights. There is no duplication of fields, and all fields are optional. 
-
-The form is divided into two pages: customer details and payment options. 
-
-</thinking>
-
 # Flight_Booking_Extension_Form - Help Guide
 ## Purpose
 The Flight_Booking_Extension_Form is used to gather information for flight bookings.

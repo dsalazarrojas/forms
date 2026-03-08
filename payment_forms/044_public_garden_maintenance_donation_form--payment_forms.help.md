@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect donations from the public for the maintenance of public gardens. It appears to be used for various types of donations, such as collecting contact information, payment details, and confirmation responses. To avoid duplication, it's essential to ensure that the same form is not filled out multiple times for the same donation. This guide will explain each field in detail to help users complete the form correctly.
-
-</thinking>
-
 # Public Garden Maintenance Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations for the maintenance of public gardens. It helps us understand who is donating, how much they are willing to donate, and how they would like to be contacted about their donation.

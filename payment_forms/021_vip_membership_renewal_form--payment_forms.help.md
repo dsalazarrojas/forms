@@ -1,8 +1,3 @@
-<thinking>
-To create this form guide, I will analyze the form's purpose and content based on the provided YAML fields. The "vip_membership_renewal_form" seems to be a form for customers to renew their VIP membership. It collects various pieces of information, including membership details, contact information, agreement terms, payment method, membership plan, expiration date, and other relevant details. This form appears to be for existing customers who want to renew their membership, rather than for new customers signing up for a membership. The form fields suggest that the customer will be able to select their payment method, membership plan, and possibly even the expiration date for their payment. I assume that the form is intended to guide the customer through the renewal process in a straightforward and efficient manner.
-
-</thinking>
-
 # vip_membership_renewal_form - Help Guide
 ## Purpose
 This form is designed for existing VIP members to renew their membership. It helps you update your membership details and select the desired payment method and membership plan for your renewed membership.

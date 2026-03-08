@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the "Documentary Screening Pre Order Form" to reserve their ticket for a documentary screening. It's crucial to review the form carefully to ensure accuracy in the pre-ordering process. The form should only be filled out once per person. If a user has already filled out this form, they shouldn't submit it again.
-</thinking>
-
 # Documentary Screening Pre Order Form - Help Guide
 ## Purpose
 This form is used to pre-order tickets for a documentary screening. Fill out this form to reserve your tickets with your desired payment method and details.

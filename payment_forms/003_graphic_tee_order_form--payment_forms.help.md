@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for graphic tees. It captures personal and payment information from the user. The form's purpose is to streamline the ordering process for graphic tees, making it easier for customers to place orders. It is intended for use by end-users who are customers, not staff. The form's fields are designed to be straightforward and easy to understand. This form is not intended for internal use, and the instructions are designed to be clear and concise for end-users.
-</thinking>
-
 # Graphic Tee Order Form - Help Guide
 ## Purpose
 The Graphic Tee Order Form is designed to help customers place orders for graphic tees. Fill out the form with your details to complete your order.

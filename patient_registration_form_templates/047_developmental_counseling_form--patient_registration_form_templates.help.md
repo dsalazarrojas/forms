@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a generic template for Developmental Counseling Form, likely used in healthcare or psychology settings. However, I'm not aware of its actual purpose, and it might be used in other contexts as well. The form is likely designed for patients or their guardians to provide information about a patient's development stage and treatment plans. I'll base my explanation on the provided YAML fields.
-</thinking>
-
 # Developmental Counseling Form - Help Guide
 ## Purpose
 The Developmental Counseling Form is a document used for recording information about a patient's developmental stage and treatment plans.

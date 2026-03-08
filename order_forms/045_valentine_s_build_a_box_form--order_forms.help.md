@@ -1,11 +1,3 @@
-<thinking>
-This form is a custom order form for customers to place an order for Valentine's Day gifts for their loved ones. The form allows customers to enter details such as the recipient's name, email address, phone number, address, and a message. The form also includes sections for the customer to select the type of gift, quantity, and total price. Additionally, the form requires the customer to agree to terms and conditions.
-
-The form is designed to be filled out by a customer who is purchasing a gift for someone else. The form will ask for details about the recipient, such as their name, email address, and address, as well as a message for the gift card or box. The form will also ask the customer for their own name, email address, and phone number, as well as the gift details and payment method.
-
-The form is used to collect all the necessary information to process the order correctly and ensure that the gift is delivered to the correct person.
-</thinking>
-
 # valentines-build-a-box-form - Help Guide
 ## Purpose
 This form is a custom order form for customers to place an order for Valentine's Day gifts. It is used to collect information about the recipient and the gift details, including the type of gift, quantity, and total price.

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to facilitate the payment process for event space rentals. It allows users to select a payment method, enter the necessary information for that method, and submit the form to complete the payment. The purpose of this form is to ensure that users can efficiently and securely complete the payment process for their event space rental. Before proceeding, check that you are not duplicating the process and that all required fields are filled in correctly. If any issues arise, please refer to your organization's internal documentation or contact your point of contact for support.</thinking>
-
 # event_space_rental_payment_form - Help Guide
 ## Purpose
 This form is designed to facilitate the payment process for event space rentals. It allows users to select a payment method, enter the necessary information for that method, and submit the form to complete the payment.

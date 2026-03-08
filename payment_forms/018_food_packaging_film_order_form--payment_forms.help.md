@@ -1,8 +1,3 @@
-<thinking>
-The form is used to record orders for food packaging film, which is a crucial component in the food processing and manufacturing industry. This form helps in ensuring accurate and detailed information about each order, making it easier to track and manage customer orders. Before starting to fill out this form, please make sure you have all the necessary information ready. The fields below guide you through the process of ordering food packaging film.
-
-</thinking>
-
 # Food Packaging Film Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to inform and assist users in completing the Seasonal Product Order Form accurately and efficiently. The form is designed to collect information for seasonal product orders, which includes customer and order details. The form should only be used for seasonal product orders, and any other type of order will not be accepted. Users should not submit the form if they are unsure or need to place a different type of order.
-</thinking>
-
 # Seasonal Product Order Form - Help Guide
 ## Purpose
 The Seasonal Product Order Form is designed to gather information for seasonal product orders. Please fill out this form to place a seasonal product order.

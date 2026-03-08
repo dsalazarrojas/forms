@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block to explain the form purpose and prevent non-duplication:
-The Miracle-Gro Performance Organics Order form is a digital form used for customers to place orders for Miracle-Gro Performance Organics products. This form is designed to collect customer information and order details such as product lists, quantities, prices, and shipping information. The form's primary goal is to provide a streamlined and user-friendly experience for customers to place their orders efficiently. This form will be used for both internal and external customers, so please ensure that the information provided is accurate and up-to-date.</thinking>
-
 # miracle-gro-performance-organics-order - Help Guide
 ## Purpose
 This form is used for customers to place orders for Miracle-Gro Performance Organics products. It collects customer and order information to ensure accurate and efficient processing of the order.

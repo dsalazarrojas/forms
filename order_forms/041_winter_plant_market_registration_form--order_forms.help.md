@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers who want to participate in the winter plant market. It is crucial to ensure that the form is filled out correctly to avoid any confusion or errors in processing the registration. The form should only be used for its intended purpose and not for any other purpose, and it is recommended to read the entire form carefully before proceeding. Please note that this form is not a substitute for any official documents or certifications, and it is not a guarantee of participation in the market. It is the responsibility of the user to ensure that the information provided is accurate and up-to-date.
-</thinking>
-
 # Winter Plant Market Registration Form - Help Guide
 ## Purpose
 The Winter Plant Market Registration Form is designed to collect information from customers who want to participate in the winter plant market. This form is used to gather essential details about the customers, such as their name, contact information, and product list.

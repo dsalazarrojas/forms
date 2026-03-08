@@ -1,7 +1,3 @@
-<thinking>
-To be honest, the form's purpose and requirements aren't explicitly stated in the YAML schema. However, based on the provided structure, it appears to be a donation form designed for a tech incubator program. The form allows users to provide information about their donation frequency, amount, type, and frequency of form donation. This guide will assume that the form is intended for Tech Incubator Mentorship donations, where users can donate their time, skills, or resources to support the program.
-</thinking>
-
 # Tech Incubator Mentorship Donation Form - Help Guide
 ## Purpose
 This form is intended to help you contribute to the Tech Incubator Mentorship program by providing donations of your time, skills, or resources. By filling out this form, you'll be able to specify how often and in what amount you'd like to donate, as well as how you'd like to receive donations from others.

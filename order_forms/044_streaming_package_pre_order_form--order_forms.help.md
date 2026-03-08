@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 The form is designed to gather information for a streaming package pre-order, which allows customers to express their interest in purchasing a streaming package. This form is intended to be used when a customer is interested in buying a streaming package, but it is not a payment form. The form's purpose is to collect relevant details from the customer, such as their name, email, phone number, and preferences for the streaming package. This form is likely to be used by sales or customer support teams to follow up with customers and provide them with the necessary information about the streaming package.
 
 ## Streaming Package Pre Order Form - Help Guide

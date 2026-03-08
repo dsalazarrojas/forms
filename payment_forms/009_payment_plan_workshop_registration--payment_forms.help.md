@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Payment Plan Workshop Registration" form, we need to understand the purpose of the form and its individual fields.
-
-The form is intended to collect user information for payment plan workshop registration. It may be used for administrative purposes, such as tracking attendees or managing workshop schedules.
-
-Before filling out this form, please ensure you are registering for the correct payment plan workshop. If you have already registered for the same workshop, please do not fill out this form again.
-
-</thinking>
-
 # Payment Plan Workshop Registration - Help Guide
 
 ## Purpose

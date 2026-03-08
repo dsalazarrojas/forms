@@ -1,5 +1,3 @@
-<thinking>This form purpose is to collect necessary information from patients for billing purposes. It should be used when a patient needs to provide their contact information for billing and payment. This form is not intended for non-billing purposes and is only meant for patients who are being charged for medical services. There should be no duplication of this form for other purposes. If you are unsure, please check with your supervisor.</thinking>
-
 # Dental Billing Form - Help Guide
 ## Purpose
 The Dental Billing Form is used to collect necessary information from patients for billing and payment purposes.

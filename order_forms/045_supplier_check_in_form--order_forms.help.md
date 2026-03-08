@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information related to supplier check-ins. It's intended for use in a business setting where suppliers need to provide updates on their order status. The form should only be used when a supplier has an active order to report on. Repeatedly using this form for multiple orders will not provide accurate data and may lead to confusion.
-</thinking>
-
 # Supplier Check In Form - Help Guide
 ## Purpose
 This form is used to capture information from suppliers about their order status. Please fill out the form accurately to ensure that your information is up-to-date and correctly recorded.

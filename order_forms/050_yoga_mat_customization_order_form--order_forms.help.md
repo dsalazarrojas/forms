@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place orders for custom-made yoga mats. It gathers information on the customer's name, email, order date, desired mat color, size, shape, material, quantity, payment method, and payment status. To ensure accurate order processing, please complete all required fields. Note that this form does not require any internal duplication or relevance checks. Each field should only be filled out once per order.
-</thinking>
-
 # Yoga Mat Customization Order Form - Help Guide
 
 ## Purpose

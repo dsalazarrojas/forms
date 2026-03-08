@@ -1,10 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for fuel delivery purposes. It is likely used by a gas station, petrol station, or other fuel delivery service to gather customer details, delivery address, payment information, and any additional delivery notes. The form may be used for internal purposes such as logging customer information, tracking orders, and improving customer experience. It is not designed to be a comprehensive sales or marketing form, but rather a straightforward data collection tool for fuel delivery services.
-
-
-</thinking>
-
 # Fuel Delivery Form - Help Guide
 ## Purpose
 The Fuel Delivery Form is designed to collect customer information and delivery details for fuel delivery services. It helps the station staff to log customer information, track orders, and improve customer experience.

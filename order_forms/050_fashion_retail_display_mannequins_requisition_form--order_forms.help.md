@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for store staff to create a requisition for fashion retail display mannequins. It is used to request mannequins for various purposes such as in-store displays, events, or exhibitions. To avoid duplication, please ensure that you have reviewed your existing mannequin stock before submitting a new requisition. Also, please note that some fields are required to be filled in order to process the requisition.
-</thinking>
-
 # Fashion Retail Display Mannequins Requisition Form - Help Guide
 ## Purpose
 This form is used to create a requisition for fashion retail display mannequins. It is intended for store staff to request mannequins for various purposes, such as in-store displays, events, or exhibitions.

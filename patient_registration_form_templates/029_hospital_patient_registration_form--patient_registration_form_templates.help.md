@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Patient Registration Form - Help Guide
 ## Purpose
 This form is designed to collect patient information for registration and medical history at the hospital. The form is used to gather essential details about the patient, their contact and medical history, emergency contact, and any allergies they may have.

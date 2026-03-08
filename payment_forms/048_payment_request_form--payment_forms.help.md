@@ -1,7 +1,3 @@
-<thinking>
-This form is for requesting a payment from a submitter, which is used to process transactions between two parties. This form should be used only when a payment is due. Ensure that you are not duplicating a request. To avoid errors, please fill out this form carefully and accurately.
-</thinking>
-
 # payment_request_form - Help Guide
 ## Purpose
 This form is used to request a payment from a submitter for processing transactions between two parties.

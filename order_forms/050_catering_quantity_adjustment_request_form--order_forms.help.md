@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Catering Quantity Adjustment Request Form - Help Guide
 
 ## Purpose

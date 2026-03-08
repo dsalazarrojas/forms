@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to guide users through a comprehensive menu selection process. The purpose of this form is to collect detailed information from customers regarding their dining preferences, order details, and payment information. This form will help us understand the customer's needs and provide a personalized dining experience.
-</thinking>
-
 # Comprehensive Menu Selection - Help Guide
 ## Purpose
 The Comprehensive Menu Selection form is used to collect information about a customer's order. This form is divided into several sections, including Order Details, Menu Selection, and Payment Information.

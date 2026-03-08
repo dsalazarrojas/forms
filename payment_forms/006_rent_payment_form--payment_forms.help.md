@@ -1,7 +1,3 @@
-<thinking>
-This form is a generic form for handling rent payments between landlords and tenants. It captures essential information for both parties, including tenant details, payment specifics, and other relevant fields. Before proceeding, please ensure you are authorized to complete this form and that the information entered is accurate and up-to-date. This form should only be used for rent payments and not for other purposes, such as lease agreements or property maintenance requests.
-</thinking>
-
 # Rent Payment Form - Help Guide
 ## Purpose
 The Rent Payment Form is designed to facilitate secure and efficient rent payments between landlords and tenants. This form gathers necessary information for rent payment processing.

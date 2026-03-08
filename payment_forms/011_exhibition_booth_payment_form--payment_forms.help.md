@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a payment form for an exhibition booth. It's designed to collect information from exhibitors regarding their booth payments. The form likely serves as a means to process and track payments for exhibitor booths at an event or exhibition. It's a form that's intended for internal use within the organization hosting the exhibition to manage exhibitor payments and details. The form might be used by exhibition staff to collect and process payment information for each booth, ensuring that exhibitors provide necessary payment details. This form doesn't seem to be a public-facing form, given the lack of a "Submit" or "Create" button, suggesting it's primarily used for internal purposes.
-
-Form fields appear to be a mix of basic information fields (name, address, phone, email) and more specific fields related to the exhibition (price, payment method, additional details). This form is likely used to collect information for each exhibitor, and the "Form ID" field might be used to identify and track each exhibitor's payment status.
-
-The form's design and fields suggest it's used for a relatively simple and straightforward payment process, with minimal complexity in terms of data collection and processing. The form doesn't appear to be overly complex or require extensive user interaction.
-
-The form fields are well-structured and follow a logical organization, with clear labels and types for each field. Each field type is self-explanatory (e.g., text, number, select_one, email), which should make it easy for users to understand what information is required for each field.
-
-Overall, the form is a simple, internal tool for collecting and processing payment information for exhibitors at an event or exhibition. Its use and functionality are straightforward, and users should be able to complete the form without issues.</thinking>
-
 # exhibition_booth_payment_form - Help Guide
 
 ## Purpose

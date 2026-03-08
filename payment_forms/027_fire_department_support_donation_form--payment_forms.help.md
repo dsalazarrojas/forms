@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to allow users to support the Fire Department with a donation. The purpose of this form is to collect information about the donor, including their contact and payment details. This form will likely be used for fundraising purposes or to accept contributions for a specific cause or event. Before proceeding, please ensure you have read this guide and understand the form's purpose to avoid unnecessary questions or issues during the submission process.
-
-</thinking>
-
 # Fire Department Support Donation Form - Help Guide
 ## Purpose
 The Fire Department Support Donation Form is a form used to collect donations for the department's support. This form is designed to be a simple and straightforward way to accept contributions for a good cause.

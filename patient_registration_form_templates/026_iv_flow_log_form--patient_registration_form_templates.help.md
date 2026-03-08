@@ -1,20 +1,3 @@
-<thinking>
-Checking for relevance and non-duplication:
-This form is designed to log IV fluid administration events. It captures information such as the total amount of fluid administered, patient weight, fluid administered rate, flow rate, duration of the IV flow, and other relevant details. The form is likely used in a clinical or medical setting to record and monitor IV administration records.
-The form has 16 fields that cover various aspects of IV fluid administration, including:
-Patient name
-Physician name
-Total fluid administered
-Patient weight
-Fluid administered rate
-Flow rate
-Duration of IV flow
-Notes
-
-The form can be completed by medical professionals to record and report on IV fluid administration events. The fields are designed to capture relevant information that can be used for patient care and monitoring.
-
-</thinking>
-
 # IV Flow Log Form - Help Guide
 ## Purpose
 The IV Flow Log Form is a tool used to record and track IV fluid administration events. It is designed to provide accurate and detailed information about the fluid administered, patient weight, and other relevant details.

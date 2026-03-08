@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be for setting up financing and discount configurations for a customer or company. The form likely serves to provide detailed information about a client's payment terms, discounts, and other relevant data.
- 
-It seems that this form is designed for administrators or financial managers to input specific data about a customer or company's financial details.
- 
-To ensure the form is being used correctly, it's recommended that the user is familiar with the company's financial policies and has the necessary permissions to access and edit financial data.
- 
-If the form seems unclear or redundant, it might be worth reviewing the form's fields and purpose with the relevant team members or stakeholders.
-</thinking>
-
 # financing and discount configuration - Help Guide
 
 ## Purpose

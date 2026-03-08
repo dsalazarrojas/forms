@@ -1,9 +1,3 @@
-<thinking>
-
-To determine the relevance and non-duplication of the form, we will analyze the provided YAML fields. The form "Specialized Audio System Order Form" is designed to collect information from customers for a specific product or service. It contains various fields for customer contact information, delivery details, payment methods, and order status among others. This form is likely used by a company to gather data for order fulfillment and customer communication. There are no duplicate fields or redundant information that can cause confusion, but some fields might be unnecessary if the customer information is already known by the company, such as customer email or phone number.
-
-</thinking>
-
 # Specialized Audio System Order Form - Help Guide
 ## Purpose
 The Specialized Audio System Order Form is designed to collect customer information for a specific product or service. This form is intended to gather necessary details for order fulfillment and customer communication.

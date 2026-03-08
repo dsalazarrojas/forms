@@ -1,10 +1,3 @@
-<thinking>
-The Handbag Exclusive Release Pre Order Form is designed to collect information from customers who want to pre-order a limited edition handbag. The form is not a standard order form, but rather a way for customers to express their interest in purchasing the handbag before it is released. The form will help the company gauge demand and interest in the product.
-
-This guide will help you complete the form correctly and understand what each field represents.
-
-</thinking>
-
 # Handbag Exclusive Release Pre Order Form - Help Guide
 ## Purpose
 This form is a way for customers to express their interest in pre-ordering a limited edition handbag. It's not a standard order form, but rather a way for us to gauge demand and interest in the product before it's released.

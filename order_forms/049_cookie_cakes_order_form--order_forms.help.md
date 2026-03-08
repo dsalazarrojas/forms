@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for customers to place an order for cookie cakes. They will be asked to provide their contact information, order details, and customization options. 
-The form will guide the customers through different sections: customer info, order details, cookie cake selection, customizations, and payment.
-The form is designed to gather all necessary information for the order processing.
-</thinking>
-
 # Cookie Cakes Order Form - Help Guide
 ## Purpose
 This form is used to place an order for a cookie cake. To place an order, please follow the instructions below.

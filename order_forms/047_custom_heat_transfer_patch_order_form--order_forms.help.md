@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information for a custom heat transfer order. It is a multi-page form that collects contact information, order details, payment information, custom fields, and confirms the submission. 
-
-To complete this form, first, ensure you are on the correct page. Each page has a unique set of fields to fill out.
-
-- **Contact Information**: On the first page, fill out the **Name**, **Email**, and **Phone** fields with your contact details. These are required fields.
-- **Order Details**: On the second page, provide the **Date**, **Time**, and **Amount** for the order. The **Currency** field is also required to be selected.
-- **Custom Fields**: On the third page, select the **Custom 1**, **Custom 2**, and **Custom 3-10** fields according to your preference.
-- **Confirm**: On the last page, confirm your submission by filling out the **Confirm** field.
-
-Please note that some of the custom fields might not be relevant to your case. You can always reach out to the support team if you have questions or need further clarification.
-</thinking>
-
 # custom_heat_transfer_patch_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for a custom heat transfer order.

@@ -1,11 +1,3 @@
-<thinking>
-To determine the purpose and structure of this form, I'll analyze the provided YAML fields to ensure the form is used correctly and only once in the system.
-
-The form is designed for library expansion requests. To fill out this form, you should be a branch representative or authorized person. Please review your branch's needs carefully before submitting this form to avoid duplication. 
-
-The form's main goal is to request expansion of a library, providing the necessary details to process your request efficiently.
-</thinking>
-
 # Library Expansion Order Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request expansion of a library, providing the necessary details to process your request efficiently.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to be a simple order form for customers to place an order with a food truck. It captures basic customer information, order details, and payment method. This form should not be used for high-value or sensitive transactions that require more robust verification processes.
-The main goal is to provide a clear and concise guide for end-users to understand how to properly fill out the form. The form fields should not be duplicated or left blank.
-</thinking>
-
 # Food Truck Order Form - Help Guide
 ## Purpose
 The Food Truck Order Form is a simple order form designed to capture customer information and order details for customers to place an order with a food truck.

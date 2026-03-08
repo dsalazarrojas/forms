@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to gather feedback from patients about their inpatient experience at the hospital. It is crucial to ensure that the form is completed accurately and thoroughly to provide valuable insights into the care and services provided by the hospital staff. Before starting, please ensure that you have read the form carefully and that you are not repeating this form for the same visit/patient. If you are unsure about any questions, please ask your nurse/doctor for clarification.</thinking>
-
 # inpatient_experience_assessment_form - Help Guide
 ## Purpose
 The Inpatient Experience Assessment Form is a tool used to gauge the quality of care and services provided to patients during their hospital stay. It helps identify areas of improvement and ensures that patients receive the best possible care and services.

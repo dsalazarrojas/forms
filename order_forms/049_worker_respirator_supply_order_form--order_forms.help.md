@@ -1,11 +1,3 @@
-<thinking>
-
-This help guide is for the "Worker Respirator Supply Order Form" which is used by workers to request respirators and other supplies for their work area. Before proceeding, ensure that you are using this form for its intended purpose and not duplicating efforts. 
-
-If you're a worker in need of respirators, please fill out this form to request supplies for your area.
-
-</thinking>
-
 # Worker Respirator Supply Order Form - Help Guide
 ## Purpose
 The Worker Respirator Supply Order Form is used to order respirators and other supplies for workers in their designated areas. This form helps ensure that workers receive the necessary equipment to perform their tasks safely and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about a COVID-19 safe plan in an office setting. It appears to be a checklist-style form asking about various aspects of office safety, such as cleanliness, hand hygiene, social distancing, and emergency procedures. The form is likely being used to assess the office's preparedness and compliance with COVID-19 guidelines. To confirm, I will now create a user-facing help guide for this form.
-</thinking>
-
 # COVID Safe Plan Checklist - Help Guide
 ## Purpose
 The COVID-19 Safe Plan Checklist is designed to help you assess your office's preparedness and compliance with COVID-19 guidelines. This form guides you through various aspects of a safe working environment.

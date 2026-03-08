@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions and ensure accurate data collection, this form is intended for individuals who are interested in donating plasma for the COVID-19 pandemic. It is not a form for medical professionals or institutions. This guide will walk you through the necessary steps to complete the form correctly.
-</thinking>
-
 # Untitled Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in donating plasma for the COVID-19 pandemic. It is intended to be completed by individuals, not medical professionals or institutions.

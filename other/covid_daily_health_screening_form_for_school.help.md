@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to be used by medical professionals or other authorized personnel to conduct a daily health screening for COVID-19 patients. The form captures information about the patient's symptoms, medical history, and other relevant details. It helps in quickly identifying potential risks and prioritizing patients for testing or other necessary medical interventions. Please ensure that only authorized personnel access this form to maintain patient confidentiality and data security.
-
-</thinking>
-
 # covid_daily_health_screening_form - Help Guide
 ## Purpose
 This form is used for conducting a daily health screening of COVID-19 patients.

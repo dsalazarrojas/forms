@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers about their craft spirit orders. It gathers contact and order details, as well as payment method information, which is necessary for the customer to complete the order. This form does not duplicate any existing forms, and its purpose is to provide a user-friendly way to collect relevant data from customers.
-</thinking>
-
 # Craft Spirit Order Form - Help Guide
 ## Purpose
 The Craft Spirit Order Form is a simple, user-friendly form designed to collect necessary information from customers about their craft spirit orders. This form is intended to be completed by customers who want to place a new order.

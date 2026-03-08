@@ -1,10 +1,3 @@
-<thinking>
-This form is used for customers to place an order for postage services. The form is designed to collect customer information and order details in a structured and efficient manner. This guide will walk you through the form's purpose, how to complete it, and an explanation of each field. It's essential to ensure that each field is filled out correctly to provide accurate and timely service.
-
-To avoid duplication, please review this guide before starting to fill out the form. If you have any questions or concerns, contact our support team for assistance.
-
-</thinking>
-
 # Postages Order Form - Help Guide
 ## Purpose
 The Postages Order Form is used to collect customer information and order details for postage services. This form helps us understand your needs and provide the best possible service.

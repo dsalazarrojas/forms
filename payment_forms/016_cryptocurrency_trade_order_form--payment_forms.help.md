@@ -1,12 +1,3 @@
-<thinking>
-We need to consider what kind of users will be using this form, their expectations, and the context in which they will be completing it. This form appears to be a payment or order form, possibly for a service or product that requires some form of validation or confirmation. The form fields include various details about the client, trade, order preferences, and status.
-
-Let's assume that the form is intended for users to place orders or trades for cryptocurrencies, and the purpose of the form is to collect necessary information for processing and confirming these transactions.
-
-To avoid duplication, this guide should be concise and easy to follow, assuming the user is familiar with basic form filling and digital payments.
-
-</thinking>
-
 # cryptocurrency_trade_order_form - Help Guide
 ## Purpose
 The cryptocurrency_trade_order_form is used to place orders or trades for cryptocurrencies, allowing you to submit your trade details, preferences, and confirmations for processing.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to create and manage award and trophy orders. It is a multi-page form with several fields that are required to complete a successful order. The purpose of this form is to gather all necessary information from the customer to fulfill their award and trophy needs. Before proceeding, ensure that this is the correct form for your intended purpose and that you have all the necessary information to complete it.
-
-The form is divided into several sections, each containing relevant fields that correspond to different aspects of the order. Please review each field carefully to ensure accuracy and completeness.
-
-</thinking>
-
 # Award Trophy Order Form - Help Guide
 ## Purpose
 The Award Trophy Order Form is used to create and manage award and trophy orders.

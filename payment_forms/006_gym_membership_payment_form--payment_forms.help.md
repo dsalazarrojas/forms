@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect payment information from clients. It is designed for gym membership payments, where users can select their preferred payment method, specify their membership plan, payment frequency, and other relevant details. The form should be completed by gym clients to facilitate the payment process.
-
-To ensure the form is filled out correctly, review each field carefully and consider the following:
-
-- Some fields may be self-explanatory, while others require a brief explanation to avoid confusion.
-- Certain fields are required, while others are optional, so make sure to fill in all necessary fields before submitting the form.
-- Double-check your answers for accuracy and completeness.
-
-</thinking>
-
 # Gym Membership Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information from clients for gym membership payments. It's essential to fill out the form accurately to ensure a smooth payment process.

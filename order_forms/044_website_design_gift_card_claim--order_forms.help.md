@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for clients to claim a gift card for their website design project. The form is used to collect information about the client's project details, such as gift card code, name, email, phone number, project goal, deadline, and priority level. This form will help the client provide necessary information to claim the gift card. Please make sure to fill out the form accurately and completely to ensure a smooth process. If you have already submitted a form for the same project, please do not submit this form again.
-</thinking>
-
 # Website Design Gift Card Claim Form - Help Guide
 ## Purpose
 The Website Design Gift Card Claim Form is a simple form designed to collect information from clients about their website design project to facilitate the gift card claim process.

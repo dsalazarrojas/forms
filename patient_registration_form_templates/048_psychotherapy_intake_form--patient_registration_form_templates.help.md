@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Psychotherapy Intake Form - Help Guide
 ## Purpose
 The Psychotherapy Intake Form is designed to collect essential information from clients who are seeking psychotherapy services. This form helps therapists gather relevant details about the client's personal and medical history, which will aid in creating a safe and effective treatment plan.

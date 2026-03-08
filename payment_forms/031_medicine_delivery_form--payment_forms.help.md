@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for the delivery of medicine to patients. It gathers details such as user information, contact information, medication details, delivery information, payment details, and signature verification. The form also includes fields for date of service, time of service, payment method, and delivery status. The purpose of this form is to ensure accurate and efficient medicine delivery processes.
-
-</thinking>
-
 # Medicine Delivery Form - Help Guide
 ## Purpose
 The Medicine Delivery Form is used to collect information necessary for the delivery of medicine to patients. This form helps ensure accurate and efficient medicine delivery processes.

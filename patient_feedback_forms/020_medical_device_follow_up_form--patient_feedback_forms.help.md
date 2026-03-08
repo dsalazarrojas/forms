@@ -1,5 +1,3 @@
-<thinking>As a medical professional, you are likely familiar with the importance of gathering accurate and timely feedback from patients after using a medical device. The Medical Device Follow Up Form is designed to collect relevant information about patient feedback, follow-up dates, and communication channels for future reference. This form is intended to be completed by patients who have used a medical device and are required to provide feedback on their experience. Before starting, please review the form carefully and only answer the questions that apply to your specific situation.</thinking>
-
 # Medical Device Follow Up Form - Help Guide
 ## Purpose
 This form is used to collect patient feedback on medical devices used in clinical trials. It helps to gather information on patient experience, follow-up dates, and communication channels for future reference.

@@ -1,12 +1,3 @@
-<thinking>
-This form is for creating or updating a user's membership payment information. This form is used to collect various details such as enrollment information, payment method, payment status, membership start and end dates, and membership status.
-
-Before proceeding, please ensure you have all the required information to complete the form accurately. This form may be used for both initial and subsequent payments, so you may need to review and update existing information. Please note that some fields may be optional, depending on your specific use case.
-
-To avoid duplication of effort, please review the form carefully and ensure you are not submitting duplicate or outdated information.
-
-</thinking>
-
 # Fitness Membership Payment Form - Help Guide
 ## Purpose
 This form is used to collect and update information related to a user's fitness membership.

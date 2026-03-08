@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide provides a step-by-step walkthrough for end users to understand the purpose and usage of the Spark Plug Socket Extension Order Form.
 
 # Spark Plug Socket Extension Order Form - Help Guide

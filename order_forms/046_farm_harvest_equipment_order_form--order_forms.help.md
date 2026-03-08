@@ -1,11 +1,3 @@
-<thinking>
-This form is used by farmers for ordering and managing their equipment purchases from a cooperative. The purpose of this form is to provide a structured way for farmers to submit their order requests with relevant details such as delivery address, order total, and payment terms. This form is designed to minimize errors and ensure that all necessary information is provided for a smooth transaction process.
-
-The form is designed to be used in conjunction with other systems and processes within the farm management system, such as inventory management and order processing.
-
-Please ensure that you are familiar with the internal processes and systems before using this form. If you are unsure or have questions, please reach out to your internal support team.
-</thinking>
-
 # farm_harvest_equipment_order_form - Help Guide
 ## Purpose
 The farm_harvest_equipment_order_form is used by farmers to order and manage their equipment purchases from a cooperative.

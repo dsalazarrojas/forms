@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect employee data at the end of the year for payroll purposes. This data is likely used to calculate taxes, benefits, and other relevant employee costs. The form should only be completed by employees who are being paid out at the end of the year, typically for year-end bonuses or other year-end payments. To avoid duplicate entries, please ensure that each employee's data is entered only once, as the form is likely used to track and reconcile employee payments across multiple periods.
-</thinking>
-
 # End Of Year Payroll Data Form - Help Guide
 
 ## Purpose

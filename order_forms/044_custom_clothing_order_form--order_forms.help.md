@@ -1,5 +1,3 @@
-<thinking>Custom Clothing Order Form is used to create a personalized clothing item for a customer by collecting their order details such as custom clothing type, size, color, fabric, price, and delivery information. This form is used to ensure that the customer's order is accurately and efficiently processed.</thinking>
-
 # Custom Clothing Order Form - Help Guide
 ## Purpose
 

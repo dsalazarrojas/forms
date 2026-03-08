@@ -1,7 +1,3 @@
-<thinking>
-This form is used by customers to check out food truck orders. It's essential to ensure accurate information is entered for a smooth checkout process. Please review the form fields carefully to avoid errors. Note that some fields are optional, but required fields are marked as such. If you're unsure about a field's requirements, refer to the field-by-field explanation below.
-</thinking>
-
 # Food Truck Check Out Form - Help Guide
 ## Purpose
 The Food Truck Check Out Form is used by customers to finalize their orders with our food truck. This form collects essential details for order processing and payment.

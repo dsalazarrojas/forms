@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to provide donations to support relief efforts, such as disaster relief or charity fundraising. The form is designed to gather information from users to facilitate processing their donations.
-- It's essential to review the form's fields to ensure that all required fields are completed to avoid any issues with the donation process.
-- The form is designed to be completed by one user at a time, so please do not duplicate efforts.
-</thinking>
-
 # Insurance Relief Donation Form - Help Guide
 ## Purpose
 The Insurance Relief Donation Form is a tool for users to provide donations to support relief efforts such as disaster relief or charity fundraising.

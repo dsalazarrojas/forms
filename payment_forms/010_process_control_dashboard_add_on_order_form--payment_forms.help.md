@@ -1,7 +1,3 @@
-<thinking>
-This form was created to collect information from customers who want to purchase and install a process control dashboard. The purpose of this form is to gather details about the order, delivery, customer, and payment information required for the installation process.
-</thinking>
-
 # Process Control Dashboard Add On Order Form - Help Guide
 ## Purpose
 This form is designed to collect order details, delivery information, customer information, and payment details from customers who want to purchase and install a process control dashboard.

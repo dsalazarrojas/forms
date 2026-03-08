@@ -1,9 +1,3 @@
-<thinking>
-This form is used for confirming the order of t-shirts for an event. It is used by event participants to confirm their t-shirt order details. This form should only be filled out by event participants who have previously ordered t-shirts. It is intended to be filled out after the event, to confirm that the participant received their ordered t-shirt(s) and to provide any necessary feedback or corrections.
-
-To prevent duplicate orders, please ensure that you have not already filled out this form for this event. If you have already submitted a form for this event, please do not fill it out again.
-</thinking>
-
 # Event T Shirt Order Confirmation - Help Guide
 ## Purpose
 This form is used to confirm and provide feedback on the t-shirt orders made for an event. It ensures that participants confirm they received their ordered t-shirts and can provide any necessary corrections or feedback.

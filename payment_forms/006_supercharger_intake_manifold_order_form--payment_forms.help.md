@@ -1,7 +1,3 @@
-<thinking>
-The AI-generated form was created using only public survey topic metadata, and it is an original adaptation with no affiliation or endorsement from any form platform. It is released under a Creative Commons BY 4.0 license, allowing for free use, modification, and even commercial use with proper credit. The form has 10 fields that require completion for a specific purpose.
-</thinking>
-
 # Supercharger Intake Manifold Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for orders related to the Supercharger Intake Manifold. It is intended for performance shops to provide details about the parts they need, the customers placing the orders, and payment information.

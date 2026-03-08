@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Toy Order Form - Help Guide
 ## Purpose
 The Toy Order Form is a tool for customers to submit their toy orders with details such as soft toys, books, board games, payment information, and customer contact details. This form is designed to gather the necessary information for our team to process and fulfill the order.

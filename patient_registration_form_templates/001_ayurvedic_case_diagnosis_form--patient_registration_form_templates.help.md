@@ -1,12 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the Ayurvedic Case Diagnosis Form, which will help end-users understand the purpose of the form, how to complete it, and what each field means. 
-
-This form aims to collect information about a patient's physical characteristics and health concerns to help diagnose and provide treatment plans in the Ayurvedic system of medicine. To start, we need to ensure that this form is relevant and not a duplication of existing forms. Next, we need to identify the fields and sections of the form and provide clear explanations for each field.
-
-The form consists of two main sections: "Patient Information" and "Clinical Observations". The "Patient Information" section gathers the patient's personal details such as name, date of birth, gender, and physical build. The "Clinical Observations" section includes observations made during the consultation, such as tongue coating, pulse reading, and treatment plan notes.
-
-The form has 16 fields in total, and most of them are required to be filled out. We will focus on explaining each field in the "Field-by-Field Explanation" section below.</thinking>
-
 # Ayurvedic Case Diagnosis Form - Help Guide
 ## Purpose
 The Ayurvedic Case Diagnosis Form is a collection of questions and fields designed to gather information about a patient's physical characteristics and health concerns to help diagnose and provide treatment plans in the Ayurvedic system of medicine.

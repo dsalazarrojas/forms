@@ -1,12 +1,3 @@
-<thinking>
-We will assume this form is used in the context of an e-commerce platform, where users need to provide their delivery details for an order. The form is likely used for customers to enter their address and other essential information to facilitate the delivery of their purchased products.
-
-We will also assume that each field is required when marked as "required: true" in the YAML, and optional when it's "required: false". This will help us create a clear and concise guide for end-users.
-
-We will not invent any additional fields or business logic beyond what is provided in the YAML.
-
-</thinking>
-
 # Product Delivery Form - Help Guide
 ## Purpose
 This form is designed to capture essential delivery details from customers, ensuring smooth product delivery experiences. Fill out this form to provide your delivery address, contact number, delivery date, delivery time, and any additional notes for the delivery personnel.

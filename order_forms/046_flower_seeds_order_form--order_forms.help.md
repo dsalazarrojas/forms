@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to order flowers and seeds, and it is used to gather information about the customer's order. This form is a crucial part of the business process as it helps the company to understand customer preferences and provide accurate services. The form is divided into different sections, and each section is used to collect specific information about the customer's order. To ensure that you complete the form correctly, please review each field carefully and enter the required information.
-</thinking>
-
 # flower_seeds_order_form - Help Guide
 ## Purpose
 This form is used to gather information about a customer's order for flowers and seeds.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow users to request a refill of conference gift bags, which are items that are usually given to event attendees as a token of appreciation or to promote the event. This form is used to gather information from the requester, including their name, the name of the event, the items needed for the refill, the preferred delivery date and location, and any additional notes. This form is primarily used by events teams to coordinate and manage the refill process internally.
-
-To ensure that this form is being used correctly, please make sure you are submitting it for the purpose of requesting a refill and not other types of requests, such as ordering new items. Also, please note that this form should not be used to request multiple refills at once. To avoid duplication, please make sure to review the internal status of your request before resubmitting, and contact the event team if you need to re-submit the form.
-
-</thinking>
-
 # Conference Gift Bag Refill Request Form - Help Guide
 ## Purpose
 The purpose of this form is to request a refill of conference gift bags. It is designed to be used by event teams to gather information necessary for coordinating and managing the refill process.

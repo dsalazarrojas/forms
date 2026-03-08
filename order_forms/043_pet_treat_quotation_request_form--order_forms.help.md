@@ -1,6 +1,3 @@
-<thinking>
-A form to create a quotation request for a pet treat quotation. This form will be used by pet owners to submit their pet's details and contact information to request a quotation for pet treats. To the best of my knowledge, this form is used in a business setting, possibly for a pet treat manufacturer or supplier. I assume that this form is meant to gather contact information and pet-related details for quote creation, and the form will likely be used within an existing system with other forms and business processes.</thinking>
-
 # pet_treat_quotation_request_form - Help Guide
 
 ## Purpose

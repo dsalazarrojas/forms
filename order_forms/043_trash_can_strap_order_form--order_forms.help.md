@@ -1,9 +1,3 @@
-<thinking>
-We're about to create a help guide for the "Trash Can Strap Order Form" to ensure end users understand its purpose, how to complete it, and what each field means.
-
-Before we start, let's take a look at the form's properties. It appears to be a simple order form for customers to place orders, likely for trash cans. The form has 8 fields, including customer name, order date, strap size, quantity, payment method, shipping address, phone number, and email. All fields are required except for shipping address and phone number, which suggests that these fields may be optional or not applicable. 
-</thinking>
-
 # Trash Can Strap Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for customers to place orders for trash cans. Fill out the form with your order details, and we'll process your order accordingly.

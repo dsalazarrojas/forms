@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-friendly help guide for the "Spine Care Feedback Form" to educate end-users on its purpose, completion process, and field explanations. This form is likely used to collect feedback from patients on their care experiences, providing valuable insights for healthcare providers to improve their services. Before creating the guide, let's assume that the form will be filled out by patients or their representatives, and its purpose is to gather honest and constructive feedback. It's essential to ensure that each field is clearly explained to prevent any confusion or omission.
-</thinking>
-
 # Spine Care Feedback Form - Help Guide
 ## Purpose
 The "Spine Care Feedback Form" is designed to collect feedback from patients on their experiences with spine care services. Please take a few minutes to fill out this form to help us understand your thoughts and opinions, which will help us improve our care and services.

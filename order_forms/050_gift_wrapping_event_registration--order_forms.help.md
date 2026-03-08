@@ -1,9 +1,3 @@
-<thinking>
-The "Gift Wrapping Event Registration" form is a comprehensive tool designed to capture essential information for a gift wrapping event. Its purpose is to gather details about the participant, including their name, email, and phone number. It also collects information about the gift wrapping event, such as the wrap location, event date, and time. Additionally, the form includes fields for gift messages, participant signature, and gift certificate details.
-
-When filling out this form, ensure that you're completing it for the right purpose and not duplicating your registration. If you're registering for a gift wrapping event, this form will help us prepare for the event and ensure that we can provide you with the best experience possible.
-</thinking>
-
 # Gift Wrapping Event Registration - Help Guide
 ## Purpose
 This form is designed to help us prepare for the gift wrapping event by gathering all necessary information about the participant and the event details. Please complete this form accurately and thoroughly to ensure that we can provide the best experience possible.

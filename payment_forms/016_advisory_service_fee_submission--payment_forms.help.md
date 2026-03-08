@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Advisory Service Fee Submission - Help Guide
 ## Purpose
 This form is used to submit advisory service fees to our organization. The purpose of this form is to provide a clear and concise way to capture essential information related to the advisory service provided, including client contact details, service description, and payment information.

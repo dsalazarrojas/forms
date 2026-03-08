@@ -1,10 +1,3 @@
-<thinking>**Form Purpose:** The Interactive Display Screen Order Form is a versatile and user-friendly form designed to collect essential details about an order for various types of transactions, such as product orders or service requests. This form aims to simplify the ordering process by breaking it down into manageable sections, making it easy for customers to provide their information and for your team to process their orders efficiently.
-
-**Relevance and Non-Duplication Check:**
-Before we dive into the form's details, it's essential to confirm that the form is not affiliated with, endorsed by, or derived from any form platform. This form is a creative adaptation, using public metadata from the title and industry/category to create a unique and original form, free from proprietary content from other platforms. This form is released under CC BY 4.0, allowing you to use, modify, and even sell forms derived from it while providing credit.
-
-</thinking>
-
 # Interactive Display Screen Order Form - Help Guide
 ## Purpose
 The Interactive Display Screen Order Form is designed to streamline the ordering process by breaking it down into manageable sections. This form is ideal for collecting details about an order for various types of transactions.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a payment form for registering a course. To ensure that the form is used correctly, it's essential to verify its purpose and prevent duplication. Upon reviewing the form's metadata, it's clear that this form is for course registration, and the fields provided cover the necessary information for this purpose.
-</thinking>
-
 # Course Registration Form - Help Guide
 ## Purpose
 The Course Registration Form is designed for students to provide details about their course registration, including their course selection, personal information, and payment method. This form is essential for instructors or administrators to track student enrollment and process course payments.

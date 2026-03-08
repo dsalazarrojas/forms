@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stripe Orphanage Donation Form - Help Guide
 ## Purpose
 The Stripe Orphanage Donation Form is a tool for making donations to support a specific cause. The form collects various information from the donor to facilitate the donation process.

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Vision Care Feedback Form" to ensure end-users understand its purpose, how to complete it, and the meaning of each field. This guide will provide a clear and concise explanation of the form's requirements and functionality. The form's purpose is to gather feedback from patients about their experience at the vision care facility, including ratings of various aspects such as doctor, staff, and facilities, as well as a message to provide additional feedback.
-</thinking>
-
 # Vision Care Feedback Form - Help Guide
 ## Purpose
 The Vision Care Feedback Form is designed to collect feedback from patients about their experience at the vision care facility. This form helps us understand what we do well and where we can improve to provide better care for our patients.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from patients for an ultrasound examination. It appears to be a basic form with multiple text fields, likely for capturing patient data, medical history, and other relevant details. However, it seems to lack any actual fields for scheduling or booking appointments or even a field for the date of the examination.
-</thinking>
-
 # Ultrasound Examination Registration - Help Guide
 ## Purpose
 This form is designed to collect patient registration information for an ultrasound examination.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restocking Fee Refund Form - Help Guide
 ## Purpose
 The Restocking Fee Refund Form is used to request a refund for a restocking fee charged on an order. This form is only for orders that have been cancelled or otherwise returned to us. Please ensure you have a clear reason for the refund request, as this will aid in processing your request.

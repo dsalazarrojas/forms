@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's review the form purpose and ensure it is not a duplication. This form is for medical insurance verification, which is an essential process in the healthcare industry. Its primary use is to gather necessary information from patients about their medical insurance, including insurance details, provider information, coverage dates, and policy number. This form will likely be used by healthcare professionals or administrative staff to verify patient insurance information, ensuring that the patient's coverage is active and accurate.</thinking>
-
 # Medical Insurance Verification Form Template - Help Guide
 
 ## Purpose

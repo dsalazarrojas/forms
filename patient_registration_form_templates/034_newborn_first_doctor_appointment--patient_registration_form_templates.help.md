@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to record the first doctor appointment of a newborn baby. It is designed to capture essential information about the baby's health and development at birth or during the initial visit. The form typically includes fields for the baby's personal details, physical measurements, and medical history. It's essential to fill out the form accurately and completely, as the information will be used to monitor the baby's progress and identify any potential health issues.
-
-</thinking>
-
 # Newborn First Doctor Appointment - Help Guide
 ## Purpose
 The Newborn First Doctor Appointment form is used to record the first doctor visit of a newborn baby, capturing essential information about their health and development at birth or during the initial visit.

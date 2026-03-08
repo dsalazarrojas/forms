@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to provide their information for the purpose of getting vaccinated against Covid-19. This form is intended for people who are eligible for vaccination and want to sign up for the program. To avoid duplication of effort, please do not submit this form if you have already been vaccinated or if you are not eligible for the program.
-</thinking>
-
 # covid-19-vaccine-notification-sign-up-form - Help Guide
 ## Purpose
 This form is designed for individuals to sign up for the Covid-19 vaccination program. It collects basic contact information and preferences for vaccination.

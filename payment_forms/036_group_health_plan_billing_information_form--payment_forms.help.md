@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect billing information from groups who are interested in participating in a group health plan. The form helps the group provide their details, such as employer details, billing address, and billing contact, plan details, payment information, total amount, tax rate, payment method, payment terms, and additional information. This form is likely used by administrators or billing teams to efficiently collect and process this information.
-
-The form consists of 10 fields, which are explained in detail below. 
-
-</thinking>
-
 # Group Health Plan Billing Information Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers place orders for prescription glasses. It collects information about the customer's first name, last name, email address, and prescription details such as the type of glasses they want, the lens type, material, color, power, and axis. The form also inquires about shipping preferences, payment methods, and card details. This form is not intended for customers who do not need prescription glasses or do not want to place an order. Please make sure you need to place an order and understand the implications of the information you provide.
-
-</thinking>
 # Prescription Glass Order Form - Help Guide
 ## Purpose
 

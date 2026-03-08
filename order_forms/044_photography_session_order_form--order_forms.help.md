@@ -1,21 +1,3 @@
-<thinking> 
-To determine the purpose of this form, let's analyze the provided YAML fields. The form appears to be a Photography Session Order Form, likely used to collect information from clients for a photography session. The fields included in the form suggest that it is used to capture client details, session preferences, and payment options. The form may be used by a photography studio or service to gather necessary information from clients before scheduling a photography session.
-
-Upon reviewing the form fields, we can infer that the form is used to:
-* Collect client contact information (name, email, and contact number)
-* Schedule a photography session (date and time)
-* Gather session details and client preferences
-* Determine payment options and terms
-* Capture client and photographer signatures
-
-To ensure that the form is not duplicated or unnecessary, we can consider the following:
-
-* This form may be used as a template for a standard photography session order form.
-* The form can be customized or adapted to fit specific business needs.
-* The form is likely to be used as a part of a larger workflow, such as in a CRM system or a custom-built web application.
-
-</thinking>
-
 # Photography Session Order Form - Help Guide
 ## Purpose
 The Photography Session Order Form is used to gather necessary information from clients for a photography session. This form helps the client communicate their preferences and needs, allowing the photography studio to schedule and prepare for the session.

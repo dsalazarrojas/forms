@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to be a straightforward and user-friendly resource for those who will be completing the "Online Coffee Order Form". Its purpose is to provide a clear and concise explanation of each field and its intended usage. This form will likely be used by customers to place orders or provide feedback, and it may be used in various contexts, such as online ordering systems or customer feedback mechanisms. It is essential to note that the form may not be a comprehensive ordering system, as some fields are optional, and the form's primary purpose will likely be to gather specific information from customers. 
-
-It is also worth mentioning that the form's structure and fields might be adapted to suit different business needs and purposes.
-
-</thinking>
-
 # Online Coffee Order Form - Help Guide
 ## Purpose
 The Online Coffee Order Form is intended for customers to place orders or provide feedback, allowing businesses to gather specific information and understand customer preferences.

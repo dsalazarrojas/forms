@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about orders for mask holders, which are likely a type of product or service. The purpose of the form is to gather relevant details such as order dates, contact information, order types, and other related specifics. Before proceeding, please ensure you have all necessary information and permission to complete this form. Additionally, please note that this form is not for general public use; access to it is likely restricted to authorized personnel. If you're still unsure about the form's purpose or your access to it, please reach out to the relevant authorities for clarification.
-</thinking>
-
 # Mask Holders Order Form - Help Guide
 ## Purpose
 The Mask Holders Order Form is designed to collect order-specific information for mask holders. This information will be used to process and fulfill orders efficiently.

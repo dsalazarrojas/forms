@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to help individuals assess their comfort level in the context of the COVID-19 pandemic. It is designed to collect information about recent symptoms and experiences related to the pandemic. The form is not meant to be a medical diagnostic tool, but rather a tool to gauge comfort levels and potential concerns. This form should not be used as a substitute for professional medical advice. Please note that the form is for informational purposes only and does not replace the advice of a healthcare professional. 
-
-This form is designed to be completed by individuals who are concerned about their health and well-being during the pandemic. It is not intended for general public use or for commercial purposes. 
-
-This form is part of a larger system, and data collected through this form will be used to inform public health initiatives and support efforts to address the pandemic. By completing this form, individuals are helping to contribute to the collective understanding of the pandemic and its impact on individuals and communities. 
-
-Before completing this form, please make sure that you are not duplicating any existing information or that you are not reporting symptoms or experiences that are not relevant to your own situation. If you have any concerns or doubts, please contact your local health authority or a medical professional for guidance. 
-</thinking>
-
 # COVID Comfortability - Help Guide
 
 ## Purpose

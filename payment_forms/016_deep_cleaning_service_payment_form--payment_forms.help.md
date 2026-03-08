@@ -1,6 +1,3 @@
-<thinking>
-The "deep_cleaning_service_payment_form" form is intended to capture payment-related information from customers for deep cleaning services. This form should only be used to collect payment details for existing customers who have previously opted in for deep cleaning services. The form's purpose is to simplify the payment process and reduce manual errors. It is essential to fill out this form accurately to avoid any issues with payment processing. 
-</thinking>
 # deep_cleaning_service_payment_form - Help Guide
 ## Purpose
 The "deep_cleaning_service_payment_form" is used to capture payment-related information from customers for deep cleaning services.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hospital_discharge_communication_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to provide information about themselves before undergoing a plastic surgery procedure. This form will help the doctor and medical staff understand the patient's medical history, current conditions, and contact information, which is essential for a successful surgery and post-operative care. Please ensure that you are only completing this form once for each surgery. Duplicating the form will result in incorrect data being recorded.
-</thinking>
-
 # plastic_surgery_patient_intake_form - Help Guide
 ## Purpose
 The "plastic_surgery_patient_intake_form" is designed for patients to provide accurate and complete information about themselves before undergoing a plastic surgery procedure. This form helps the medical staff to understand the patient's medical history, conditions, and contact information, making it essential for a successful surgery and post-operative care.

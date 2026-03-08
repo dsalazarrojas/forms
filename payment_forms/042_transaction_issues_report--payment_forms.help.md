@@ -1,7 +1,3 @@
-<thinking>
-The form "transaction_issues_report" is designed to gather information about issues related to transactions, which is important for identifying and resolving problems promptly. Before proceeding, make sure this form is relevant to your situation and hasn't been completed recently to avoid duplication of efforts. The purpose of this form is to collect details about a specific transaction issue, which can include information on the transaction type, date, amount, description, customer name, issue description, and category of the issue.
-</thinking>
-
 # transaction_issues_report - Help Guide
 ## Purpose
 This form is used to report transaction issues that need attention from our team. Please fill out this form with the necessary details to help us understand and resolve the problem efficiently.

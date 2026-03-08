@@ -1,8 +1,3 @@
-<thinking>
-This form is used to create a curbside pickup menu for customers. The purpose of this form is to gather information about the items that will be available for curbside pickup, including the title of the menu, the type of item, the name of the item, the price of the item, the time of pickup, and the type of pickup day.
-To ensure the form is completed correctly, please check that all required fields are filled out, and that each field is filled out only once. If an item is already available for curbside pickup, it is recommended to use a new menu instead of editing an existing one.
-</thinking>
-
 # Curbside Pickup Menu - Help Guide
 ## Purpose
 The Curbside Pickup Menu form is used to create a menu that customers can view when they are picking up their orders at your store. This form helps you to easily add or remove items from the menu, and to update the pickup time and day information.

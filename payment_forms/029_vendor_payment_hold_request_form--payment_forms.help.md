@@ -1,8 +1,3 @@
-<thinking>
-This form is used to request a payment hold on a vendor's account for various reasons such as delays in payment or other issues. A payment hold can be requested for specific periods of time, and the form will guide you through the process of requesting this hold, including providing necessary information and justifying the reason for the hold.
-The form is not intended to create duplicate requests or requests for holds that are already active.
-</thinking>
-
 # Vendor Payment Hold Request Form - Help Guide
 ## Purpose
 The Vendor Payment Hold Request Form is a tool used to request a payment hold on a vendor's account for various reasons, such as delays in payment or other issues.

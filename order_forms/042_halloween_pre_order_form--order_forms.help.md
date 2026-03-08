@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect pre-order information from customers for Halloween-themed orders. The form is used to gather details such as product selection, shipping information, and custom options. The form is likely to be used by customers who want to place a pre-order for a specific product or service related to Halloween.
-
-To ensure that the form is completed correctly, we should check if the form has any duplicate or outdated information. If the form is a duplicate, the user should be notified to update the existing order. If the form is outdated, the user should be notified to review and update the form with the latest information.
-
-</thinking>
-
 # halloween_pre_order_form - Help Guide
 ## Purpose
 The Halloween Pre-Order Form is used to collect pre-order information from customers for Halloween-themed orders.

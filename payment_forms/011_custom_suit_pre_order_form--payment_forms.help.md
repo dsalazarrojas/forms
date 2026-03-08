@@ -1,8 +1,3 @@
-<thinking>
-... 
-This form is designed for customers to provide details before placing an order for a custom suit. To avoid confusion, please ensure that the form is only completed for custom suit orders and not for other purposes. Please note that the following fields are required for the form to be considered valid: <i>Payment Method</i>. If you're unsure about any of the fields, please refer to this guide for clarification. 
-</thinking>
-
 # custom_suit_pre_order_form - Help Guide
 
 ## Purpose

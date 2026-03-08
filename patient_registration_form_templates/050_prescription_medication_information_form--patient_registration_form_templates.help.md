@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information about a patient's prescription medication, including their name, address, medication name, dosage, start and end dates, frequency, physician's name, and medical record. 
-This form is likely used in a healthcare setting to gather relevant data for patient care and treatment planning.
-</thinking>
-
 # Prescription Medication Information Form - Help Guide
 ## Purpose
 This form is used to collect information about a patient's prescription medication to help healthcare providers plan and monitor treatment.

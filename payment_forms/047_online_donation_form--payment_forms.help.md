@@ -1,11 +1,3 @@
-<thinking>
-This form is for individuals to make online donations to our organization. It collects contact information and details about the donation, including payment method and amount. The form is designed to be simple and easy to use, making it accessible for all users. Before proceeding, ensure that all relevant information is accurate and up-to-date to ensure successful processing of the form.
-
-This form does not have any specific requirements or restrictions, but users may be required to confirm their donation to proceed.
-
-This guide is intended to help users fill out the form correctly and ensure that all necessary fields are completed accurately.
-</thinking>
-
 # Online Donation Form - Help Guide
 ## Purpose
 The Online Donation Form is designed to collect contact information and details about the donation from individuals wishing to make an online donation to our organization.

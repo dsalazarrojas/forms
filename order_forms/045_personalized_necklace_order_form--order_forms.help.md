@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to provide their personal and order details for creating a customized necklace. The form is designed to collect various pieces of information, including customer contact details (name, phone number, and email), order specifics (order name, description, and total), and necklace details (chain type, gemstone type, and chain material). The form is divided into multiple sections, each focusing on a different aspect of the order. The form requires some required fields and allows for optional fields for customers to provide additional information. It's essential to ensure that customers enter accurate and complete information to avoid any potential issues or mistakes in the order process.
-</thinking>
-
 # Personalized Necklace Order Form - Help Guide
 ## Purpose
 The Personalized Necklace Order Form is used to gather customer information and details for creating a customized necklace. This form is designed to be completed by the customer to ensure accurate and precise order fulfillment.

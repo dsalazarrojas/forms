@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for catering services billing purposes. It is used to generate an invoice for a catering event. This form will ask the user to provide information such as client name, company name, email address, phone number, billing address, invoice date, invoice number, event name, event date, service type, number of guests, food cost, beverage cost, staff cost, equipment rental cost, delivery fee, setup fee, service charge, tax amount, gratuity, discounts applied, total amount due, deposit paid, balance due, payment due date, payment method, payment status, billing notes, and additional comments.
-The fields and their corresponding hints will guide the user through the required information. Please make sure to review each field carefully and fill out all required fields. If a field is optional, it is not required but may be useful for further information.
-</thinking>
-
 # Catering Services Billing Form - Help Guide
 ## Purpose
 This form is used to generate an invoice for catering services.

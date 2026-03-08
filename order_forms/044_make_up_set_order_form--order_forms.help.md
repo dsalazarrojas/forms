@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Make Up Set Order Form" is designed to collect information from users to facilitate ordering a set. The form has several sections: Order Form, Payment Form, Order Details, Product Form, Shipping Form, Order Total, Product List, Payment Method, Product Price, Shipping Address, and Customer Info. This form is likely used by customers to place orders, and the sections and fields within it should help guide the user through the process of providing necessary details for a successful order.
 
 # Make Up Set Order Form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "healthcare_outpatient_feedback_questionnaire" form, designed to collect feedback from patients about their experience at the healthcare facility. Before we begin, let's ensure this form is not redundant and that we're not duplicating any existing forms. This form will collect information on various aspects of the patient's experience, including staff helpfulness, staff courtesy, communication effectiveness, and overall satisfaction. It's crucial to understand each field's purpose and requirements to provide clear instructions to end-users.
-</thinking>
-
 # healthcare_outpatient_feedback_questionnaire - Help Guide
 ## Purpose
 The healthcare_outpatient_feedback_questionnaire form is designed to collect feedback from patients about their experiences at our healthcare facility. The form helps us understand how well we're serving our patients, identify areas of improvement, and make informed decisions to enhance their experience.

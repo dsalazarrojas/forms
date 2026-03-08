@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of the `private_chef_service_renewal_form` form is to collect information from clients to facilitate the renewal process for a private chef service. This form helps gather essential details about clients, including their contact information and subscription status. Before starting, check if there's an existing form for this purpose within the system to avoid duplication of effort.
-
-</thinking>
-
 # Private Chef Service Renewal Form - Help Guide
 ## Purpose
 The Private Chef Service Renewal Form is designed to collect necessary information from clients to efficiently manage the renewal process for private chef services. This form helps the client provide their details, allowing for a smooth and efficient renewal process.

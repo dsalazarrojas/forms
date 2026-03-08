@@ -1,10 +1,3 @@
-<thinking>
-**Purpose:** 
-This form is designed to collect farewell gifts from individuals who want to contribute to a particular farewell event. The form allows users to input their name, contribution amount, contribution type, contribution method, and other relevant details. The form will help the event organizers keep track of the contributions received, and the individuals can also view the contribution history and details of each contribution.
-
-To confirm, this form is for a farewell event, and it's meant for collecting contributions from individuals. Please ensure this form is not being used for other purposes or events. If you're unsure, refer to the event organizers or relevant documentation for clarification.
-</thinking>
-
 # Farewell Gift Contribution Form - Help Guide
 ## Purpose
 This form is designed to collect farewell gifts from individuals who want to contribute to a particular farewell event.

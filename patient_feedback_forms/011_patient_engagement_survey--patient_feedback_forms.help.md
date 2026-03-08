@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Engagement Survey - Help Guide
 ## Purpose
 This form is designed to collect patient feedback and satisfaction levels with the services received. It helps us understand what our patients think about their experience at our institution.

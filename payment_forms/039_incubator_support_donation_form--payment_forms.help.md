@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users who want to support an incubator through a donation. The form is likely to be used by the incubator team to track and manage donations from various sources. This form should only be filled out once per user, and the fields should be filled out accurately to ensure that the donation is recorded correctly. Please review the form fields to ensure that all required fields are filled out before submitting.
-</thinking>
-
 # incubator_support_donation_form - Help Guide
 ## Purpose
 This form is used to collect donations in support of an incubator. Fill out this form to provide your donation amount, contact information, and any additional notes about your donation.

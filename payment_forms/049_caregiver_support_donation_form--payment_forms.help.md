@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to allow users to make donations in support of caregivers, providing an opportunity for individuals and organizations to contribute to their well-being. 
-The form is structured to collect necessary information from donors, including their name, contact details, and preferred donation method. 
-Donors are asked to select their donation type, amount, and frequency, as well as their preferred method of payment. 
-The form also allows for optional fields for additional support and comments. 
-</thinking>
-
 # Caregiver Support Donation Form - Help Guide
 ## Purpose
 This form is designed to collect donations in support of caregivers, providing an opportunity for individuals and organizations to contribute to their well-being.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide end-users with a clear understanding of the "healthy prophets form with paysafe" form. This form is designed to collect information from customers for orders, allowing them to provide their details and payment preferences. It is essential to review the form carefully to ensure accuracy and relevance, and please note that the form fields and their descriptions are subject to change. Before proceeding, ensure that the form is relevant to your current order and that you are not duplicating an existing order.
-</thinking>
-
 # healthy prophets form with paysafe - Help Guide
 ## Purpose
 The "healthy prophets form with paysafe" is a form designed to collect customer information and payment preferences for orders. It is used to gather details such as customer name, email, phone number, address, payment method, order type, and date and time of the order. This form helps customers provide accurate and complete information necessary for processing their orders.

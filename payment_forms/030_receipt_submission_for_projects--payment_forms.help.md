@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to submit receipts related to projects. This form is used to collect information such as project ID, project name, date submitted, amount submitted, description, and receipt file. The form is designed to be completed by users who need to submit receipts for projects they are working on.
-The form is not intended for use in any other context, such as general receipt submission or other project-related purposes. To avoid duplication, users should only submit one receipt per project.
-</thinking>
-
 # receipt_submission_for_projects - Help Guide
 ## Purpose
 The receipt submission form is used to submit receipts related to projects.

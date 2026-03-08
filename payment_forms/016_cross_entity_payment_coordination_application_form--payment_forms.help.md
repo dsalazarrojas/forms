@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to facilitate payment coordination between entities. Entities can be companies, individuals, or other organizations that require payment from each other. The form allows for submission of payment requests, payment details, and other relevant information for review and processing. The goal is to ensure timely and accurate payment processing. To ensure proper usage, please note that some fields may be marked as optional, but it's crucial to fill in all required fields as per the instructions below.
-
-</thinking>
-
 # Cross Entity Payment Coordination Application Form - Help Guide
 ## Purpose
 The Cross Entity Payment Coordination Application Form is a tool designed to streamline payment coordination between entities. This form is used for submitting and managing payment requests, payment details, and other related information.

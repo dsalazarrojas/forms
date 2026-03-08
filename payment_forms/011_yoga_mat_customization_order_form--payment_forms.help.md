@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "Yoga Mat Customization Order Form". This form is likely used for customers to place custom orders for yoga mats with specific details such as customer information, mat customization options, and payment methods. Before proceeding, I'd like to clarify that the form is designed to allow customers to customize their yoga mats with various options, including color, material, and pattern. The form also appears to be used for customers to input their payment information. I'll make sure to create a clear and concise guide that explains each field and helps users complete the form correctly.
-</thinking>
-
 # Yoga Mat Customization Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place custom orders for yoga mats with specific details such as customer information, mat customization options, and payment methods.

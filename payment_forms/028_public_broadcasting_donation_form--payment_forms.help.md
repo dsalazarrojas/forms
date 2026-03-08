@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding the purpose and functionality of the public broadcasting donation form. 
-The form is used for collecting donations from supporters of a public broadcasting entity, such as a radio or television station. 
-The form is designed to gather various information from the supporter, including their name, email address, phone number, donation amount, preferred medium of contact, and other details such as payment method and supporter frequency. 
-This form is intended for internal use by the broadcasting entity to track and follow up on donations, and to tailor their communication with supporters.
-</thinking>
-
 # Public Broadcasting Donation Form - Help Guide
 ## Purpose
 The public broadcasting donation form is used to collect donations from supporters of a public broadcasting entity. This information is used to tailor communication and follow up on donations.

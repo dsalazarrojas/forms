@@ -1,7 +1,3 @@
-<thinking>
-  This form is for users to provide information about a freight shipment for checking out. It is designed to be a generic form that can be used for various payment-related tasks. To ensure the form is not being used for something else, the form category field will be set to "Payment Forms" as it's the default setting. Please confirm that this form is being used for a payment-related task.
-</thinking>
-
 # Freight Shipment Check Out Form - Help Guide
 ## Purpose
 

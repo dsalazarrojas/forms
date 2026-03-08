@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect information from users who wish to make a donation to the Solar Community Center. This form will allow users to input their contact information, select the amount and method of their donation, and specify the project type they wish to support. The form is designed to be completed by anyone who wants to make a contribution to the Solar Community Center.
-</thinking>
-
 # Solar Community Center Donation Form - Help Guide
 ## Purpose
 The Solar Community Center Donation Form is a tool used to collect donations from individuals and organizations to support the center's initiatives. This form will help us understand who is making a donation, what they are donating, and how they want to receive their donation acknowledgement.

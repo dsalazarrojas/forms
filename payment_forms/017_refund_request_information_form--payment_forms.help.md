@@ -1,12 +1,3 @@
-<thinking>
-To ensure this help guide is helpful, let's confirm the form's purpose and relevance. Based on the provided YAML, it appears that this form is designed to collect refund information from customers, allowing them to provide necessary details for a refund request. It might be used in scenarios where customers want to ask for a refund for their orders.
-
-To avoid duplication, let's verify that this form isn't already available in the help guide, and that no similar form is being addressed here. 
-
-This guide will cover the purpose, the step-by-step instructions to complete the form, and a field-by-field explanation for each section. This guide will be concrete, concise, and practical, and will not invent unsupported business logic.
-
-</thinking>
-
 # refund_request_information_form - Help Guide
 ## Purpose
 This form is designed to help customers provide necessary information for a refund request. It gathers details about the customer, their order, and the reason for the refund.

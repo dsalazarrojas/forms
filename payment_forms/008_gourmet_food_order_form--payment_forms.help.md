@@ -1,7 +1,3 @@
-<thinking>
-The form "gourmet_food_order_form" is designed to collect order details from customers who are interested in purchasing gourmet food online. The purpose of this form is to gather relevant information from customers to facilitate the ordering process and ensure that their orders are processed accurately and efficiently.
-</thinking>
-
 # gourmet_food_order_form - Help Guide
 ## Purpose
 This form is for customers who want to place an order for gourmet food. Please fill out the form below to provide us with the necessary information to process your order.

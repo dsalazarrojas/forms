@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for their shirt orders, which will be used for further processing and management. This form is designed to collect details such as customer name, email, phone number, order details, and payment methods. The form is divided into two pages: "Customer Details" and a page where the customer can enter additional information. Each field is designed to be clear and concise, with labels and hints provided for guidance. The form is a required form, meaning all fields are mandatory and need to be filled out.
-</thinking>
-
 # Shirt Orders - Help Guide
 
 ## Purpose

@@ -1,22 +1,3 @@
-<thinking>
-
-We need to create a help guide that explains how to complete the "Farmers Market Gift Hamper Order" form. The form is likely used by customers or staff to place an order for a gift hamper, which is typically a collection of fruits and vegetables, flowers, and other products sold by a farmers market. The form will ask for the recipient's name, email, phone number, preferred delivery date and time, and a note (if any). We also need to ensure that the recipient's name and email are mandatory fields. The form is not likely to be used for ordering food or products with a specific quantity or price calculation. 
-
-It's a simple order form for planning and coordinating delivery of gift hampers.
-
-The form has eight fields:
-- Form title (a text field for a general description),
-- Recipient's name (text field, required),
-- Recipient's email (email field, required),
-- Recipient's phone number (text field, optional),
-- Select Hamper (multi-select field with three options: Hamper1, Hamper2, Hamper3),
-- Delivery date (date field, required),
-- Delivery time (time field, required),
-- Note (text field, optional),
-- Submit (Submit button)
-
-</thinking>
-
 # Farmers Market Gift Hampers Order - Help Guide
 ## Purpose
 To place an order for a gift hamper, you need to fill out this form.

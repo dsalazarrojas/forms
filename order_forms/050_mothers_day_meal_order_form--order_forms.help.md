@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for Mother's Day meal orders. It is intended for mothers who are interested in ordering a meal for their special day. This form is not intended for use in other contexts, such as general meal orders or catering requests. 
-
-The form is divided into several fields that gather various details about the order, including delivery date and time, meal preferences, and contact information. It is essential to complete this form accurately to ensure that the order is fulfilled correctly and that the mother's day is celebrated as planned.
-
-Before filling out this form, ensure that you have all the necessary information ready, such as the delivery date and time, meal preferences, and contact details. If you have any special requests or additional instructions, please provide them in the "additional_instructions" field.
-
-</thinking>
-
 # Mothers Day Meal Order Form - Help Guide
 ## Purpose
 The Mothers Day Meal Order Form is designed to collect information for Mother's Day meal orders. This form helps gather details about the order, including delivery date and time, meal preferences, and contact information, to ensure that the order is fulfilled correctly.

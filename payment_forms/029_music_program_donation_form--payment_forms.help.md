@@ -1,11 +1,3 @@
-<thinking>
-The form "music_program_donation_form" is designed to collect information for the music program donation process. This form is intended to gather details from donors about their donation, including the category of the donation (e.g., Payment Forms or Donor Forms), description of the music program, amount donated, donor contact information, and details about the payment method and date/time of the gift. The form is likely used to track and record donations made to the music program.
-
-The form has multiple fields with various types and options. For instance, the "category" field allows the selection of either "Payment Forms" or "Donor Forms," the "description" field is a brief text input, and the "donor_name," "donor_email," "donor_phone," "donor_address," "donor_city," and "donor_state" fields are text inputs for personal contact information. The "school_id" and "assigned_user" fields are select_one options with specific identifiers for the school and assigned user, while the "amount," "gift_date," "payment_method," and "payment_type" fields are input fields for more specific donation information. The "notes" field allows for any additional comments, and the "gift_time" field is used for specifying the time of the gift.
-
-Before filling out this form, please note that the "school_id" and "assigned_user" fields appear to have fixed options, so you should not attempt to change these values.
-</thinking>
-
 # music_program_donation_form - Help Guide
 ## Purpose
 The music_program_donation_form is a form designed to collect information for the music program donation process.

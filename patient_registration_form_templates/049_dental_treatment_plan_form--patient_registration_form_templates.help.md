@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be designed for dental clinics or offices to collect information from patients. The form is likely used to create a treatment plan for a patient's dental care. The form's purpose is to gather essential details about the patient, their insurance, appointment schedule, and medical history. It is probably used by dental professionals to understand the patient's needs and develop an effective treatment plan.
-To avoid duplication, this form should be reviewed for any existing forms or templates in the dental clinic's system or database.
-</thinking>
-
 # Dental Treatment Plan Form - Help Guide
 ## Purpose
 The Dental Treatment Plan Form is designed to collect information from patients to create a comprehensive treatment plan for their dental care. This form is used by dental professionals to understand the patient's needs and develop an effective treatment plan.

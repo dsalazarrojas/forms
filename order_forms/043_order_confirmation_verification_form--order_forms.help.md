@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Order Confirmation Verification Form - Help Guide
 
 ## Purpose

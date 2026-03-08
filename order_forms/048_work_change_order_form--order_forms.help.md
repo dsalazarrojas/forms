@@ -1,11 +1,3 @@
-<thinking>
-
-The "Work Change Order Form" is a crucial document used to manage work changes on a project. This form helps to document and track changes to the original project scope, timeline, or budget, ensuring that all parties involved are informed and on the same page. It's essential to complete this form accurately and thoroughly to avoid misunderstandings and ensure seamless project execution.
-
-Before filling out this form, ensure you have all necessary information and approvals in place. This form is typically used when there's a change to the original project scope, timeline, or budget. Reviewing the form's fields will guide you through the necessary steps.
-
-</thinking>
-
 # Work Change Order Form - Help Guide
 ## Purpose
 The Work Change Order Form is used to document and manage changes to a project's scope, timeline, or budget. It ensures that all parties are informed and on the same page.

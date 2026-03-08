@@ -1,8 +1,3 @@
-<thinking>
-- The form is designed to facilitate the user to order refills of eco-friendly totes. This form will be used to collect information about the customer's selection of products, their delivery details, and other relevant information.
-- To avoid duplication of order, this form will only be accessible for users that have previously agreed on the customer agreements.
-</thinking>
-
 # Eco Tote Refill Order Form - Help Guide
 ## Purpose
 The Eco Tote Refill Order Form is used to place an order for refills of eco-friendly totes. Fill out this form to provide your details and select your preferred products for refills.

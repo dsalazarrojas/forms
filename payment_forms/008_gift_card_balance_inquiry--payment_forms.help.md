@@ -1,16 +1,3 @@
-<thinking>
-This form is used to inquire about the balance of a gift card. The form is designed to be used by individuals who want to know the current balance of their gift card. To complete this form, the user will need to provide the following information:
-
-- Card number
-- Desired gift card balance
-- Email (optional)
-- Phone number (optional)
-
-The form is used for internal purposes only and is not intended for public use. It's meant to be filled out by authorized personnel who need to access the gift card balance information.
-
-This form is only required to be filled out when the gift card balance needs to be inquired about.
-</thinking>
-
 # gift_card_balance_inquiry - Help Guide
 ## Purpose
 This form is used to inquire about the balance of a gift card.

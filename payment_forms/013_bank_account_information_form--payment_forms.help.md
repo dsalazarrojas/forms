@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We will now create the user-facing help guide for the "Bank Account Information Form".
 
 # Bank Account Information Form - Help Guide

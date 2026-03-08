@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Exclusive Color Phone Pre-Order Form - Help Guide
 
 ## Purpose

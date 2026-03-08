@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for an online candy order service. Users need to provide personal details such as full name, email address, phone number, and shipping address to ensure correct delivery and order tracking. The form also allows users to select the type of candies they would like to order, specify the quantity per item, and choose the overall box size. Additionally, users can choose their preferred packaging style, select any dietary restrictions, and indicate if the order is a gift. They also need to select a payment method and choose a delivery method. The form is required to be filled out completely for a successful order submission.
-</thinking>
-
 # Candy Order Form Template - Help Guide
 
 ## Purpose

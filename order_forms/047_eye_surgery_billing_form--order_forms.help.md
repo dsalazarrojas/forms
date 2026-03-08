@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information related to eye surgery billing. It is intended for patients or their representatives to provide details about the patient's name, insurance status, medical provider, surgery date, surgeon's name, insurance ID, and address information. This form is not intended for patients to provide sensitive or medical information about their condition. Before filling out this form, please ensure that you have the necessary permissions from the patient to collect and share their information. Also, please note that this form is not meant to be completed in place of medical documentation, but rather to supplement billing and administrative purposes.
-</thinking>
-
 # eye_surgery_billing_form - Help Guide
 ## Purpose
 The eye_surgery_billing_form is used to collect billing and administrative information for eye surgery procedures. This form helps to ensure accurate and efficient processing of patient billing and payments.

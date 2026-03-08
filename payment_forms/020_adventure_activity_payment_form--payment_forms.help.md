@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information and payment details for adventure activities, such as booking a specific type of adventure activity, providing customer and payment information, and authorizing the payment. The form is divided into sections for customer information, activity details, and payment details.
-</thinking>
-
 # Adventure Activity Payment Form - Help Guide
 ## Purpose
 This form is used to collect information and payment details for booking adventure activities such as rock climbing, whitewater rafting, zip lining, mountain biking, kayaking, paragliding, and bungee jumping, among others. It gathers customer information, activity specifics, and payment method details to ensure a smooth booking process.

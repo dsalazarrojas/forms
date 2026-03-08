@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for health coaching billing purposes. It is intended for end-users who need to provide their personal details, payment information, and billing details. The form is part of a larger system used to manage health coaching services and payment processing. To ensure accuracy and efficiency in filling out this form, it is essential to understand each field's purpose and requirements.
-
-</thinking>
-
 # Health Coaching Billing Form - Help Guide
 ## Purpose
 The Health Coaching Billing Form is designed to collect necessary information for health coaching billing purposes. Please fill out this form accurately and completely to ensure smooth payment processing.

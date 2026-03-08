@@ -1,7 +1,3 @@
-<thinking>Form purpose: This form is used for construction services payment submission. It captures relevant payment information for a construction project. The form ensures accuracy in capturing payment details, making it easier for both payers and contractors to manage payments and avoid disputes.
-Form duplication and relevance checks: Ensure the form is not being used for non-construction services or non-payment purposes.
-</thinking>
-
 # Construction Services Payment Form - Help Guide
 ## Purpose
 This form is designed for submitting payment information for construction services. It ensures accuracy and completeness in payment details, making it easier for both payers and contractors to manage payments and avoid disputes.

@@ -1,7 +1,3 @@
-<thinking>
-We are checking that the form's purpose is to collect information about a reservation for Airbnb. This form should only be used for reservations, and not for other purposes. We are also checking that there are no duplicates in the internal database for the same reservation.
-</thinking>
-
 # Airbnb Reservation Information Form - Help Guide
 ## Purpose
 This form is used to collect and update information about an existing or new reservation on Airbnb. It is essential to fill it out accurately to ensure correct booking data.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for pregnant women to provide personal, contact, and pregnancy information for medical consultations. To ensure this form is used correctly, please confirm you are pregnant or have a pregnant patient in mind when filling it out. If you're unsure about any information or have questions, please contact the healthcare provider directly. This form is intended for medical consultations and should not be used for other purposes.
-</thinking>
-
 # Pregnancy Therapies Consultation Form - Help Guide
 ## Purpose
 The Pregnancy Therapies Consultation Form is designed to gather personal, contact, and pregnancy information from pregnant women for medical consultations. This information will help healthcare providers better understand the patient's needs and provide accurate advice.

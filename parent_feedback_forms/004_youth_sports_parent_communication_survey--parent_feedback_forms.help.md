@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather feedback from parents on their experience with their child's sports team's communication methods. The purpose of this form is to improve the team's communication process and better meet the parents' needs. This form will help the team identify areas of improvement and make necessary changes to enhance parent engagement and satisfaction. Please ensure this form is completed once by each parent to avoid duplication of efforts.</thinking>
-
 # Youth Sports Parent Communication Survey - Help Guide
 ## Purpose
 This form is designed to collect feedback from parents on their experience with their child's sports team's communication methods. The information gathered will help the team identify areas of improvement and make necessary changes to better meet the parents' needs.

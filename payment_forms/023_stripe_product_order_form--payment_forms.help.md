@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place an order for a product. The form will collect information such as the product, price, currency, shipping, tax, and other relevant details. This form is designed to be completed by customers to provide accurate and up-to-date information about their orders. Before proceeding, ensure that you have reviewed and understood the form layout and instructions carefully. Please note that some fields are optional, and you are not required to fill them out if not applicable. This form is intended for internal use only, and all information collected will be used for business purposes only.
-</thinking>
-
 # Stripe Product Order Form - Help Guide
 ## Purpose
 The Stripe Product Order Form is designed to collect information from customers to place an order for a product. This form helps in providing accurate and up-to-date information about the order.

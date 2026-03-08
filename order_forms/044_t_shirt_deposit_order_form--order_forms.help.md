@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect information for a t-shirt order, including the customer's name, email, address, t-shirt color, size, style, deposit amount, payment method, and total cost. This form is intended for internal use within the organization and is not a public-facing form.
-Before filling out this form, please ensure that you are authorized to place an order on behalf of the customer. This form is not intended for public use and should not be shared with external parties.
-</thinking>
-
 # T Shirt Deposit Order Form - Help Guide
 ## Purpose
 The T Shirt Deposit Order Form is used to collect information for a t-shirt order, including the customer's name, email, address, t-shirt color, size, style, deposit amount, payment method, and total cost.

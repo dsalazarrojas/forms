@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to check in patients for the Community Health Program, gathering essential information about their health concerns, medications, allergies, and contact preferences for follow-up. This form ensures that patients provide accurate and complete information, which is crucial for the healthcare providers to assess their needs and deliver effective services. To maintain accuracy and efficiency, it's essential to complete the form carefully and thoroughly. Please review the form carefully and fill it out accurately to ensure a smooth check-in process.
-</thinking>
-
 # Community Health Program Check In Form - Help Guide
 ## Purpose
 This form is designed to help healthcare providers assess your health needs and deliver personalized services. Please complete the form accurately to ensure a successful check-in process.

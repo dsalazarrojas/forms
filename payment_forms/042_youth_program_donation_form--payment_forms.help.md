@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect donation information from donors who wish to support a youth program. The purpose of this form is to gather essential details about the donor, the donation amount, and payment information to facilitate a smooth donation process. To ensure accurate data collection, please complete the form carefully. Note: This form is a one-time use form and does not require any prior registration or login credentials. Ensure that you are not duplicating a previous submission if you have already donated or filled out this form for the same purpose.
-</thinking>
-
 # Youth Program Donation Form - Help Guide
 ## Purpose
 The Youth Program Donation Form is designed to collect donation information from donors who wish to support a youth program. This form will help us gather essential details about the donor, the donation amount, and payment information to process your donation efficiently.

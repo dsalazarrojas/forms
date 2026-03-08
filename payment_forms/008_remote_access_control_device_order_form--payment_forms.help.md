@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for customers or administrators to order remote access control devices, which are used for controlling devices remotely. The form is designed to collect various information such as the type of remote access control device, ordering location, customer details, and other relevant details. This form should only be accessed by authorized personnel to prevent non-duplication of efforts. 
-</thinking>
-
 # remote_access_control_device_order_form - Help Guide
 ## Purpose
 The purpose of this form is to facilitate the ordering of remote access control devices for various purposes.

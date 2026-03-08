@@ -1,13 +1,3 @@
-<thinking>
-The form is used to obtain consent from customers for pickup services. It captures essential information such as pickup location, date and time, contact details, and customer declaration for pickup services.
-To complete this form, follow these steps:
-1. Fill in the required fields (marked as "true" in the form schema) with accurate and up-to-date information.
-2. Fill in the pickup location and date fields with the correct information.
-3. Select the appropriate contact method from the options provided for the contact number and contact email fields.
-4. Provide a clear and concise description in the pickup details field.
-5. Sign and date the customer declaration and business declaration fields.
-</thinking>
-
 # Customer Pickup Consent Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To help ensure that this form is used correctly and efficiently, let's break down its purpose and requirements before proceeding. This form is used to order stationery items such as business cards, notepads, and other printed materials. It appears to be a standard order form used for internal or external business purposes. 
 
 The form requires the following information:

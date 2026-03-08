@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers for an anniversary event, including personal details, event specifics, and payment information. The purpose of this form is to ensure that the customer's order is accurate and meets their expectations. To avoid duplication, customers should not submit this form if they have already placed an order for the same event.
-</thinking>
-
 # Anniversary Event Pre Order Form - Help Guide
 ## Purpose
 This form is used to gather information from customers for their anniversary event, ensuring that their order is accurate and meets their expectations.

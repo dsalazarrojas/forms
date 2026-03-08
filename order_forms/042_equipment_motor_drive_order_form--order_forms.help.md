@@ -1,14 +1,3 @@
-<thinking>
-This form is used to collect information from customers about their equipment motor drive orders. It is likely used in an e-commerce or business-to-business (B2B) context where customers place orders for specific motor drives. The form may be used by sales or customer service teams to process and manage these orders efficiently.
-
-To ensure that this form is used correctly, it's essential to verify that the required fields are filled out accurately. This may involve checking for duplication of information or ensuring that the order is correctly attributed to the right customer and sales person.
-
-This form is likely used for internal purposes within the company, and the information collected will be used to manage orders, customer relationships, and potentially for marketing or reporting purposes.
-
-The form is designed to collect information in a structured and standardized way, making it easier for the company to process and analyze the data.
-
-</thinking>
-
 # Equipment Motor Drive Order Form - Help Guide
 ## Purpose
 The Equipment Motor Drive Order Form is used to collect information from customers about their equipment motor drive orders. This form helps the company's sales or customer service teams to process and manage orders efficiently.

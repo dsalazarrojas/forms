@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # medicare_claim_form_template - Help Guide
 ## Purpose
 The Medicare Claim Form Template is a form used for submitting claims to the Medicare program. This form captures essential information about the patient's claim, including their name, address, claim type, claim date, claim amount, claim status, and claim note. The form helps to ensure that claims are submitted accurately and completely.

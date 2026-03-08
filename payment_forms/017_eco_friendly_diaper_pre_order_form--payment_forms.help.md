@@ -1,7 +1,3 @@
-<thinking>
-This form is generated for a fictional company that wants to create a preorder form for customers to provide their information for an eco-friendly diaper product. The form is divided into three pages: Preorder Information, Payment Information, and Delivery Information. This form does not include any proprietary content or features from other form platforms, and it's released under CC BY 4.0 license allowing for free use, modification, and even commercial use with proper credit.
-</thinking>
-
 # eco_friendly_diaper_pre_order_form - Help Guide
 ## Purpose
 The **eco_friendly_diaper_pre_order_form** is designed to collect information from customers who want to preorder eco-friendly diapers. This form helps us understand your preferences and requirements for a smooth preorder experience.

@@ -1,14 +1,3 @@
-<thinking>... (Internal reasoning block)
-
-This form is designed to collect customer details and preferences for custom mug orders. 
-
-It consists of the following sections: 
-- Customer details: This section captures basic information about the customer, including name, email, and phone number. 
-- Design preferences: This section allows customers to select a color for their mug and choose an order option from two possible choices (Option A and Option B). 
-- Additional Information: This section provides a text field for customers to enter any additional information they would like to provide about their order.
-
-</thinking>
-
 # Custom Mug Order Form - Help Guide
 ## Purpose
 The Custom Mug Order Form is designed to collect information from customers who want to order custom mugs. This form allows customers to provide their details, select a design preferences, and confirm their order.

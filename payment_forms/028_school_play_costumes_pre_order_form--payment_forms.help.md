@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a school play costume pre-order. It appears to be used by schools to manage costume orders from students, including their preferences and delivery details. It's likely designed for school administrators or staff to efficiently collect and process orders. This form is likely duplicated across multiple schools or departments within an organization, which is why it's essential to follow the guidelines precisely to ensure consistency.
-
-This form includes multiple fields related to student preferences, delivery details, and payment information. The fields are categorized into student, parent, and payment sections. Some fields like Student Name, Parent Name, School Email, and School Phone seem to be critical information that requires validation or verification. The form asks for a Student Signature, which might be a way for schools to have the parents confirm their order.
-
-Payment details include method and status. The payment total is likely to be calculated based on the order details. 
-
-The form structure is a mix of selection, text, and date/time fields, which indicates the form is used for various purposes such as collecting multiple selection, text, and date/time information.
-
-The form fields seem to be well-structured but may require further validation or verification to ensure accuracy.
-</thinking>
-
 # School Play Costumes Pre Order Form - Help Guide
 ## Purpose
 This form is designed for school administrators or staff to collect information for a school play costume pre-order. It includes details for student preferences, delivery, and payment information.

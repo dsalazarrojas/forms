@@ -1,20 +1,3 @@
-<thinking>
-The travel_medicine_billing_form form is designed to collect information related to travel-related medical billing and payment details. This form should be used for patients who have visited a medical service provider while traveling and need to settle their bills. The form is composed of several sections, including patient information, billing details, payment methods, payment terms, and other relevant fields. Before starting this form, please make sure you are completing it for a valid travel-related medical service.
-
-Please note that this form is not to be used for non-travel related medical services.
-
-The following fields are required to be completed for this form to be valid:
-
-* Payment Status (id: 18)
-* Medical Insurance (id: 8)
-* Billing Provider (id: 9)
-* Payment Terms Agreement (id: 23)
-* Patient Acknowledgement (id: 24)
-* Provider Signature (id: 22)
-
-The form can be completed in multiple pages. Please make sure to scroll through all pages and fill out all the required fields.
-</thinking>
-
 # travel_medicine_billing_form - Help Guide
 ## Purpose
 

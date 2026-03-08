@@ -1,5 +1,3 @@
-<thinking>... internal reasoning and checks for relevance and non-duplication of form fields...</thinking>
-
 # Psychiatrist Information Form - Help Guide
 ## Purpose
 The Psychiatrist Information Form is used to collect relevant information from patients, including their medical history, medications, and mental status. This form helps psychiatrists and other healthcare professionals assess patients' mental health conditions and provide proper care.

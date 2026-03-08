@@ -1,15 +1,3 @@
-<thinking>
-The purpose of this form is to collect information related to utility billing from users. This form is used to gather relevant details about the billing information, payment methods, and payment amounts for utility services. The form is designed to be user-friendly and should not require any technical knowledge to fill out.
-To complete this form, follow these steps:
-
-1. Enter your billing information (page 1).
-2. Select your payment method (page 2).
-3. Enter the payment amount (page 2).
-4. Indicate your payment frequency (page 2).
-5. Check your account status (page 2).
-6. Add any additional notes or comments about your account (page 2).
-</thinking>
-
 # Utility Billing Form - Help Guide
 ## Purpose
 The **Utility Billing Form** is used to collect information about your utility billing details.

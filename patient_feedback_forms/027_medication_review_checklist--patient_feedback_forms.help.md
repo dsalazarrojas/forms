@@ -1,12 +1,3 @@
-<thinking>
-The "Medication Review Checklist" form is a crucial document for patients to provide feedback on their medication experiences. It is designed to collect information about a patient's medical condition, medical supervision, medication frequency, and side effects. This form is used in a clinical or healthcare setting where the patient's feedback is essential for medical professionals to monitor and adjust treatment plans accordingly. To ensure accurate and complete data, it is essential that patients understand the purpose and how to complete this form correctly.
-
-To avoid duplicating efforts, please note that the patient can only complete the form once per visit.
-
-Before filling out the form, please read the following instructions carefully to ensure a smooth and successful completion process.
-
-</thinking>
-
 # Medication Review Checklist - Help Guide
 ## Purpose
 The Medication Review Checklist is a form designed to collect information about a patient's medical condition, medical supervision, medication frequency, and side effects. This information will help medical professionals to monitor and adjust treatment plans accordingly.

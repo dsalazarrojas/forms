@@ -1,10 +1,3 @@
-<thinking>
-This form is used for requisitioning cheque payments for various purposes, such as vendor payments, contractor payments, or reimbursements. It is intended for employees who need to request cheques for themselves or others. The form captures relevant details such as payment amount, payee information, and payment urgency to ensure accurate and timely processing of the payment. It also includes fields for finance and supervisor approvals, ensuring that all necessary checks are in place before processing the payment.
-
-When filling out this form, please make sure you have all necessary supporting documents attached and that your supervisor and finance teams have approved your request.
-
-</thinking>
-
 # Cheque Requisition Form - Help Guide
 ## Purpose
 The purpose of this form is to request a cheque payment for a specific amount to a payee for a particular purpose.

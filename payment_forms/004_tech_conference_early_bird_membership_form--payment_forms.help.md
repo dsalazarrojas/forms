@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help users determine their eligibility for early bird membership discounts for a tech conference. The form collects information about the payment details, attendee details, and event specifics to calculate the early bird discount. The form will be used by conference organizers to determine whether a user qualifies for the early bird discount. 
-</thinking>
-
 # tech_conference_early_bird_membership_form - Help Guide
 ## Purpose
 This form is used to determine whether a user qualifies for an early bird discount for a tech conference.

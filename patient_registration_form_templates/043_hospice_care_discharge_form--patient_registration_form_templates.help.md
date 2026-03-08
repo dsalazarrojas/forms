@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Hospice Care Discharge Form", we need to ensure that users understand the form's purpose, how to complete it, and what each field means. This guide aims to provide clear and concise explanations for each field.
-</thinking>
-
 # Hospice Care Discharge Form - Help Guide
 ## Purpose
 The Hospice Care Discharge Form is designed to collect essential information about a patient's discharge from a hospice care facility. This form helps ensure that all necessary details are documented for accurate tracking and follow-up care.

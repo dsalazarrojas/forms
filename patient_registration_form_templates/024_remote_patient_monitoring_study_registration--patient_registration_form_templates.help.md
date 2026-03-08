@@ -1,8 +1,3 @@
-<thinking>
-To begin with, let's review the provided YAML schema to understand the form's purpose and fields. This form appears to be designed for patient registration in a remote monitoring study. It includes various sections for demographic details, study selection, contact information, medical history, and more. The fields seem to be mostly self-explanatory, but some clarifications might be necessary for a smooth user experience. For instance, the "study_start_date" and "study_end_date" fields might benefit from a brief explanation of their purpose, as they might not be immediately clear to users. Additionally, the "study_inclusion_exclusion_criteria" and "study_inclusion_criteria" fields could be combined into a single section for better user understanding.
-
-</thinking>
-
 # Remote Patient Monitoring Study Registration - Help Guide
 ## Purpose
 This form is for registering patients in a remote monitoring study. It collects demographic details, study selection, contact information, medical history, and other relevant data to ensure a smooth and efficient study experience.

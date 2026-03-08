@@ -1,9 +1,3 @@
-<thinking>
-A Pediatric Patient Intake Form is a form used to collect general information about a pediatric patient. This form is designed to gather essential details such as general information, contact information, medical history, medical conditions, allergies, medications, family history, social history, mental status, and additional medical history. It is intended for pediatric patients who require medical attention, allowing healthcare professionals to quickly and efficiently collect necessary data.
-The purpose of this form is to streamline the intake process and provide a comprehensive understanding of the patient's health profile. It helps healthcare providers to identify potential risks and take necessary precautions, making it a vital document in pediatric care.
-This form does not duplicate or replicate existing forms, and its original content is generated using AI. It is released under CC BY 4.0, allowing for free use, modification, and distribution.
-</thinking>
-
 # Pediatric Patient Intake Form - Help Guide
 ## Purpose
 The Pediatric Patient Intake Form is designed to collect general information about pediatric patients. This form is intended for healthcare providers to gather essential details about the patient, ensuring a comprehensive understanding of their health profile.

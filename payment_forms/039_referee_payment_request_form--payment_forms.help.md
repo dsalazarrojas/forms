@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information and track payments made to referees for their services. It's essential to ensure that each field is completed accurately to avoid errors and miscommunication. Please review the form carefully and ensure you're only submitting relevant information to avoid duplication of effort.
-</thinking>
-
 # Referee Payment Request Form - Help Guide
 ## Purpose
 The Referee Payment Request Form is designed to collect details about payments made to referees, allowing for efficient and accurate financial record-keeping. This form ensures that all necessary information is gathered in one place.

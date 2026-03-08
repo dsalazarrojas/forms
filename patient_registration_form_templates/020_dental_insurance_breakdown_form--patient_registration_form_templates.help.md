@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a template for dental insurance breakdown, used to record and track patient information, insurance coverage, procedures, billing details, and payment status. This form will be used to provide a comprehensive breakdown of the insurance information related to a patient's dental procedure. The form will be used by dental professionals to accurately record and manage patient insurance details, ensuring that all necessary information is collected and processed correctly.
-
-</thinking>
-
 # dental_insurance_breakdown_form - Help Guide
 ## Purpose
 The purpose of this form is to gather detailed information about a patient's dental insurance coverage, procedures, and billing status.

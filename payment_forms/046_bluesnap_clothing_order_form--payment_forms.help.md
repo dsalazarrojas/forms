@@ -1,28 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for a BlueSnap clothing order. It is likely used to process and fulfill customer orders by the BlueSnap team. Before proceeding, please review this form's fields and their requirements to ensure you understand the process correctly.
-
-To avoid duplication or error, ensure you have not submitted this form previously, or you have updated your order.
-
-Please note that the form is divided into different sections, each containing specific fields that require different types of information. The fields are:
-
-* `customer_name`, `customer_email`, `shipping_address`, `shipping_city`, `shipping_state`, `shipping_zip`, `shipping_country`
-* `item_type`, `color_preference`, `size_selection`, `quantity`, `material_preference`
-* `shipping_method`, `payment_method`
-* `order_date`
-
-Each field has a specific purpose:
-
-* `shipping_address`, `shipping_city`, `shipping_state`, `shipping_zip`, and `shipping_country` are used to determine the delivery address.
-* `item_type` is used to select the type of item to be ordered.
-* `color_preference` is used to choose the preferred color of the item.
-* `size_selection` is used to select the size of the item.
-* `quantity` is used to specify the number of items to be ordered.
-* `material_preference` is used to choose the material of the item.
-* `shipping_method` and `payment_method` are used to select the shipping and payment methods, respectively.
-* `order_date` is used to track the order date.
-
-Please review each field carefully to ensure you provide the correct information for your order.</thinking>
-
 # BlueSnap Clothing Order Form - Help Guide
 ## Purpose
 The BlueSnap Clothing Order Form is a tool used to collect information from customers for processing and fulfilling their clothing orders.

@@ -1,5 +1,3 @@
-<thinking>... (form purpose: This form is used to collect customer information and order preferences for door orders. This form is used internally within the organization. To avoid duplication, please do not use this form for external orders. This form is meant to be used for orders from internal stakeholders only. ...</thinking>
-
 # Door Order Form - Help Guide
 ## Purpose
 The Door Order Form is used to collect customer information and order preferences for door orders within the organization. This form is intended for internal use only.

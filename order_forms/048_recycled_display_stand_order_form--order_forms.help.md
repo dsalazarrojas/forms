@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is intended for customers to place orders for recycled display stands. The form will guide the customer through the ordering process, ensuring that all necessary information is provided, and that the order is properly submitted. It's essential to review the form carefully to avoid any potential issues during the ordering process. Please ensure that all required fields are filled out accurately and correctly. Note that the form is not intended for any other purpose than placing orders for recycled display stands... </thinking>
-
 # Recycled Display Stand Order Form - Help Guide
 ## Purpose
 The Recycled Display Stand Order Form is designed to help customers place orders for recycled display stands. To use this form, please follow the steps below.

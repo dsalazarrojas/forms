@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning:
-The Swimming Pool Construction Intake Form is used to collect information about a swimming pool construction project. This form will help contractors and clients collaborate on pool projects by gathering necessary details about the pool type, size, shape, color, features, location, contact information, and project status. The form will guide clients to provide accurate information, and it's crucial to fill in all the required fields to prevent project delays and errors.
-</thinking>
-
 # Swimming Pool Construction Intake Form - Help Guide
 ## Purpose
 The Swimming Pool Construction Intake Form is designed to help contractors and clients collaborate on pool projects by collecting necessary details about the project.

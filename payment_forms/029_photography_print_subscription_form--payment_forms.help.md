@@ -1,5 +1,3 @@
-<thinking>This form is for customers to subscribe to a photography service, and it captures essential information for the business to fulfill their subscription requests. It's a critical form for the business operations and order management. This guide is intended to help customers understand what information is being collected and why, as well as how to accurately fill out the form. Please review and fill out the form carefully to ensure all required fields are completed accurately.</thinking>
-
 # Photography Print Subscription Form - Help Guide
 ## Purpose
 This form is intended for customers to subscribe to a photography service. It captures the necessary information to fulfill their subscription requests and ensure business operations run smoothly.

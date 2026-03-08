@@ -1,9 +1,3 @@
-<thinking>
-This form is a user-facing help guide for the "photo_album_printing_order_form". This form is used to order a photo album and gather necessary information from the user. The purpose of this form is to collect user's preferences for album type, size, shape, and other details for printing. The form is not affiliated with any form platform and is an original adaptation created using public survey topic metadata. 
-
-The form consists of 6 fields: form_header, album_preferences, image_uploader, image_list, payment_details, and form_footer. The form_header is a text field for the form title, album_preferences is a select multiple field for choosing album type, size, and shape, image_uploader is a text field for uploading images, image_list is a select one field for choosing which image to print, and payment_details is a text field for payment information.
-</thinking>
-
 # photo_album_printing_order_form - Help Guide
 ## Purpose
 The photo_album_printing_order_form is a user-facing form that collects information for ordering a photo album.

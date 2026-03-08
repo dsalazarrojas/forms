@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from patients or their representatives regarding medical reports that require clarification. The purpose of this form is to ensure that healthcare providers receive accurate and complete information about a patient's medical history and treatment.
-The form is used to request clarification on a specific medical report. Before filling out the form, the patient or their representative should confirm that the form is relevant to their current medical needs and that they are not duplicating a request already made.
-
-</thinking>
-
 # Medical Report Clarification Request Form - Help Guide
 ## Purpose
 The Medical Report Clarification Request Form is designed to gather information from patients or their representatives regarding medical reports that require clarification. The form is used to request additional details or corrections to a specific medical report.

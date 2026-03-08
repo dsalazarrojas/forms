@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to process payments for property reservations. This form should only be used for payments that are not already processed or paid through other means, ensuring accuracy and efficiency in financial transactions. 
-Please verify that this form does not overlap with other payment forms or reservation processes before using it.
-</thinking>
-
 # Property Reservation Payment Form - Help Guide
 ## Purpose
 The Property Reservation Payment Form is used to process payments for property reservations. It ensures that payments are accurately and efficiently recorded and reported.

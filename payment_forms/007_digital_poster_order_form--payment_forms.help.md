@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # digital_poster_order_form - Help Guide
 ## Purpose
 

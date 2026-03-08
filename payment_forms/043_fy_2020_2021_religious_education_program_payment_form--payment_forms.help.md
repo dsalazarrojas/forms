@@ -1,39 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the "fy 2020 2021 Religious Education Program Payment Form" and ensure they are using it correctly to report payment information for religious educational programs. Before filling out this form, please review the following steps to complete it accurately and effectively.
-
-The form is designed to collect payment information for programs that took place between 2020 and 2021. Please ensure that the payment method and status are accurate to facilitate processing and follow-up actions.
-
-This form is divided into several sections, including:
-
-*   **Payment Method**: This field allows you to indicate the method of payment used for the program. Please select "Yes" or "No" to confirm if payment has been made.
-*   **Payment Terms**: Select all applicable payment terms that apply to the program.
-*   **Program Start Date**: Enter the date the program started.
-*   **Program End Date**: Enter the date the program ended.
-*   **Payment Amount**: Enter the total amount paid for the program.
-*   **Notes**: Provide any additional comments or remarks about the program or payment.
-*   **Email**: Enter your email address for contact purposes.
-*   **Phone**: Enter your phone number for contact purposes.
-*   **User Name**: Enter your name as the representative of the program.
-*   **User Email**: Enter your email address for contact purposes.
-*   **User Phone**: Enter your phone number for contact purposes.
-*   **User Address**: Enter your address for contact purposes.
-*   **Program Type**: Select the type of program.
-*   **Payment Status**: Select the current status of the payment.
-*   **User Agreement**: Select all agreements that apply to the program.
-*   **User Message**: Enter any additional comments or remarks about the program.
-*   **Program Cost**: Enter the total cost of the program in dollars.
-*   **User Acceptance**: Confirm if you have accepted the terms and conditions of the program.
-*   **User Referral**: Select any referrals that are relevant to the program.
-*   **User Program Start Date**: Enter the date the program started.
-*   **User Program End Date**: Enter the date the program ended.
-*   **User Notes**: Provide any additional comments or remarks about the program.
-*   **User Agreement 2**: Select all agreements that apply to the program.
-*   **User Agreement 3**: Select all agreements that apply to the program.
-
-Please ensure that all required fields are filled out accurately and completely. If you have any questions or concerns, contact your program representative for assistance.
-
-</thinking>
-
 # fy 2020 2021 Religious Education Program Payment Form - Help Guide
 ## Purpose
 The fy 2020 2021 Religious Education Program Payment Form is designed to collect payment information for programs that took place between 2020 and 2021. This form will help facilitate accurate and efficient processing of payments.

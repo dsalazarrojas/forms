@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Telehealth Patient Registration Form - Help Guide
 
 ## Purpose

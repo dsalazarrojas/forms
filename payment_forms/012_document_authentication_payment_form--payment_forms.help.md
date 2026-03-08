@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for authenticating documents, specifically for payment-related purposes. It's essential to fill it out accurately to ensure the authenticity of the document and prevent any errors in the payment process. This form should be completed by authorized personnel only to prevent unauthorized access or manipulation. Please note that any incorrect or incomplete submissions may lead to delays or rejections in the payment process.
-
-</thinking>
-
 # Document Authentication Payment Form - Help Guide
 ## Purpose
 The Document Authentication Payment Form is a crucial tool for verifying the legitimacy of documents related to payments. It helps ensure that the documents are genuine and accurate, preventing any potential issues or discrepancies during the payment process.

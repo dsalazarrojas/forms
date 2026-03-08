@@ -1,9 +1,3 @@
-<thinking>
-
-To be honest, this form looks like a straightforward patient feedback and effectiveness evaluation form used to gauge the success and impact of remote patient monitoring systems in a healthcare setting. I'm not aware of any business-specific rules or constraints that might render this form unnecessary or already covered by other means. Therefore, I'll create a help guide based on the provided YAML structure.
-
-</thinking>
-
 # Remote Patient Monitoring Effectiveness Evaluation Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Museum Donation Form - Help Guide
 
 ## Purpose

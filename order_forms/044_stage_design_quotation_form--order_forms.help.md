@@ -1,5 +1,3 @@
-<thinking>Before creating a user-facing help guide for the "Stage Design Quotation Form", let's first understand the purpose and requirements of this form. The form seems to be designed for capturing information related to stage design quotations, likely for events or projects. It appears to collect details such as event planning, stage design, event details, and quotations. The form also includes fields for assigning users, tools, and dates, which suggests that it might be used for project management or coordination purposes. It's essential to ensure that the user understands the purpose and relevance of each field to complete the form accurately.</thinking>
-
 # Stage Design Quotation Form - Help Guide
 ## Purpose
 This form is designed to capture information related to stage design quotations for events or projects. It helps to document and assign tasks, collect quotations, and track progress.

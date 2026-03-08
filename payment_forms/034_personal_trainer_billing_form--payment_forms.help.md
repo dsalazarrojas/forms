@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect billing information for a personal trainer. The trainer's billing details will be used for payment processing. This form ensures that the trainer's billing information is up-to-date and accurate. Please complete this form carefully to avoid any issues with payments.
-</thinking>
-
 # Personal Trainer Billing Form - Help Guide
 ## Purpose
 This form collects billing information for a personal trainer, ensuring that payment processing is accurate and up-to-date.

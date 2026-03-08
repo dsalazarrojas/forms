@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for ordering reusable takeout containers. Its purpose is to capture customer information, order details, and payment methods for the containers being ordered. This guide is intended to help users understand the form's purpose and how to complete it accurately. It will cover the form's layout, field explanations, and tips for completion.
-
-</thinking>
-
 # Reusable Takeout Container Order Form - Help Guide
 ## Purpose
 The Reusable Takeout Container Order Form is used to process orders for reusable takeout containers. This form captures essential customer information, order details, and payment methods to facilitate accurate and efficient order processing.

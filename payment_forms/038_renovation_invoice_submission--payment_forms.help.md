@@ -1,7 +1,3 @@
-<thinking> This form, titled "Renovation Invoice Submission," appears to be designed for users to submit invoices related to renovation projects. It seems to be used for capturing various details about the renovation project, including the date of the invoice, the amount invoiced, and details about the contractor and payment status. 
-
-Before we proceed, let's ensure that this form is being used correctly and doesn't duplicate existing submissions by checking if the user has already submitted an invoice for this project. If a user is attempting to submit a new invoice for the same project, the system should prevent them from doing so and provide an error message to ensure data consistency and accuracy. </thinking>
-
 # Renovation Invoice Submission - Help Guide
 ## Purpose
 This form is designed for submitting invoices related to renovation projects. It captures essential details such as invoice date, amount, contractor information, and payment status.

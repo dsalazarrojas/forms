@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Art Commission Intake Form - Help Guide
 
 ## Purpose

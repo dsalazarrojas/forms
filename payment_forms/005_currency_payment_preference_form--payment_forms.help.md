@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers select their preferred payment method and currency for financial transactions. It is not a form for creating new customers or editing existing customer information. This form is for setting up payment preferences, so ensure you are logged in as a customer before accessing it. 
-</thinking>
-
 # Currency Payment Preference Form - Help Guide
 
 ## Purpose

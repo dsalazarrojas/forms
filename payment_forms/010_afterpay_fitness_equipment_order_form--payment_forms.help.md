@@ -1,21 +1,3 @@
-<thinking>
-To ensure a smooth and efficient experience for our customers, we want to validate if this form is being used correctly and if not, to understand why. We'll review the form for its purpose, completeness, and consistency with our internal business logic.
-
-The "Afterpay Fitness Equipment Order Form" is designed to collect essential customer information for fitness equipment orders. This form will likely serve as a primary point of contact for customers, ensuring we have accurate data for order fulfillment, delivery, and communication.
-
-Upon reviewing the form, we note that:
-- All required fields are correctly identified.
-- Some fields are optional but still relevant to the customer's order experience.
-- The form covers various aspects of the customer's needs, including fitness goals, equipment preferences, and payment information.
-
-However, to further improve the form and its help guide, we suggest:
-- In the "Fitness Goals" section, considering adding more specific goals to cater to a broader range of customers' objectives.
-- In "Equipment Type," it might be helpful to provide a more detailed description of each category for clarity.
-- For "Space Constraints," ensuring that customers understand the implications of choosing a smaller space on equipment selection and delivery.
-- "Payment Method" should ideally be more specific on how Afterpay works, as the label "Select Afterpay as your payment method" might be misleading without explaining the buy-now-pay-later service.
-
-</thinking>
-
 # Afterpay Fitness Equipment Order Form - Help Guide
 ## Purpose
 The "Afterpay Fitness Equipment Order Form" is designed to collect essential customer information for the purpose of placing a fitness equipment order. This form ensures we have accurate data for order fulfillment, delivery, and communication with customers. Please take a few minutes to fill out this form with your details.

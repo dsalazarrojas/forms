@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect basic information from patients before their first visit to the Ayurvedic Center. This data will be used to understand their medical history, identify potential health concerns, and prepare for their appointment.
-</thinking>
-
 # Ayurvedic Center Medical Questionnaire - Help Guide
 ## Purpose
 This form is intended to be a comprehensive tool for our medical staff to quickly and accurately gather essential information about our patients. Please ensure that you are using this form for its intended purpose and not duplicating efforts.

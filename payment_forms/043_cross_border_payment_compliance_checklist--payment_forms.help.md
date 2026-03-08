@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to ensure that cross-border payments comply with anti-money laundering (AML) and know your customer (KYC) regulations. This form is used to review and document payment transfers that may be considered high-risk or suspicious. The review process involves verifying the identity of the payer and payee, assessing the transaction amount, and ensuring that all necessary documentation is in order. This form helps to prevent financial crimes such as money laundering and terrorist financing.
-The form is intended to be used in conjunction with other financial institution's AML/KYC policies and procedures.
-The following fields are required for a complete and accurate submission:
-- A valid email address (email)
-- The date and time of the transaction (review_date, review_time)
-</thinking>
-
 # cross_border_payment_compliance_checklist - Help Guide
 ## Purpose
 This form is used to review and document payment transfers that may be considered high-risk or suspicious to prevent financial crimes such as money laundering and terrorist financing.

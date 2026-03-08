@@ -1,10 +1,6 @@
 # Employee Merchandise Order Form - Help Guide
 
 ## Purpose
-<thinking>
-This form is designed for employees to request merchandise from their departments. To ensure that the form is used correctly, please only request merchandise that is approved by your department. Additionally, double-check that you have not already submitted a request for this order before submitting a new one. This will help prevent duplicate requests and maintain accurate inventory levels.
-</thinking>
-
 ## How to Complete This Form
 To complete this form, simply follow these steps:
 

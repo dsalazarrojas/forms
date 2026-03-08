@@ -1,10 +1,3 @@
-<thinking>
-This form is used to process orders for sanitizers, which are used for cleaning and disinfecting purposes. 
-This form will guide users through the process of inputting details about the sanitizer order, including the name, email, quantity, payment method, shipping details, and order comments. 
-To avoid errors in the form submission process, please make sure you've filled out all required fields correctly. 
-This form can be filled out in multiple languages, so please be cautious with language input.
-</thinking>
-
 # Sanitizer Order Form - Help Guide
 ## Purpose
 The Sanitizer Order Form is used to process orders for sanitizers. Please provide the required information for the order.

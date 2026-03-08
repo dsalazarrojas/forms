@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: This form is designed to collect data related to one-time payments, specifically for a pre-arranged purchase. The form is likely to be used for customers or users to enter their purchase price, payment method, and other relevant details to process a one-time payment. The form is designed to be completed by a single user, and most fields are optional. The fields are intended to accommodate different payment methods and confirm the payment status.</thinking>
-
 # prepaid_one_time_payment_form - Help Guide
 ## Purpose
 The prepaid_one_time_payment_form is used to collect data related to one-time payments for a pre-arranged purchase. Fill out the form to provide payment details and confirm payment status.

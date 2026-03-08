@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Specialist Doctor Access Form - Help Guide
 ## Purpose
 The Specialist Doctor Access Form is a template used to request an appointment with a specialist doctor. This form allows patients to enter their details and schedule a meeting with a doctor who specializes in their required field.

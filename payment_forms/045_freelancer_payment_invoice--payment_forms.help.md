@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Freelancer Payment Invoice - Help Guide
 ## Purpose
 This form is used to create and send professional invoices to clients as a freelancer. It captures essential information such as client details, payment terms, and payment status for accurate and efficient financial management.

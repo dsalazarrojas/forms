@@ -1,15 +1,3 @@
-<thinking>
-This help guide will outline the purpose and usage of the Child Screen Time Survey form, which aims to collect data on the habits and behaviors of children in relation to screen time. 
-
-Before completing the form, ensure you are providing information on behalf of a child, and ensure the child's data is not duplicated. This survey is designed to collect data on a specific child and should not be used to collect data on multiple children. 
-
-This form is intended to collect information on a child's screen time habits, including their screen time before bed, devices used, screen-free zones, and more. The form is divided into different sections, each focusing on a specific aspect of screen time. 
-
-The purpose of this form is to provide insights on the effects of screen time on children's behaviors and academic performance. It helps in understanding the impact of screen time on their sleep quality, social interactions, and overall well-being. The information gathered will be used to develop resources and strategies for parents and caregivers to manage screen time effectively. 
-
-Please fill out the form carefully, as it will help in creating a comprehensive picture of the child's screen time habits and the impact on their life.
-</thinking>
-
 # Child Screen Time Survey - Help Guide
 
 ## Purpose

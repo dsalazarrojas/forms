@@ -1,14 +1,3 @@
-<thinking>
-The form is designed to collect patient information for the Elder Care Program, which likely provides medical care services for older adults. The purpose of this form is to gather essential details about the patient, including their contact information, medical history, emergency contacts, and care facility details. This form is intended to be completed by patients or their authorized representatives to facilitate the admission process.
-
-To complete this form, follow these steps:
-
-1. Fill in the required fields, marked with an asterisk (*).
-2. Provide accurate and relevant information for each field.
-3. Review and revise your answers as necessary.
-
-Below is a detailed field-by-field explanation of each section:</thinking>
-
 # Elder Care Program Admission Form - Help Guide
 ## Purpose
 The form is designed to collect patient information for the Elder Care Program, which provides medical care services for older adults.

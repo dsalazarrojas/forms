@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Data Storage Payment Form - Help Guide
 
 ## Purpose

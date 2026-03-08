@@ -1,7 +1,3 @@
-<thinking>
-The <corporate_formation_order_form> is used for ordering a corporate formation. It is intended for customers to provide information about their corporate formation requirements, including the type of corporation they want to form, the payment method, and other details. Before proceeding with this form, ensure that it is not a duplicate of an existing order. Fill out the form accurately and completely to avoid any processing delays or errors.
-</thinking>
-
 # corporate_formation_order_form - Help Guide
 ## Purpose
 The <corporate_formation_order_form> is used for customers to order a corporate formation, providing essential details about their requirements.

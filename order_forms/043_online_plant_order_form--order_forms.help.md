@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to guide the user through an online plant order process, ensuring they provide necessary information for a smooth and efficient transaction. This form will collect user details, plant selection, and payment details. To avoid duplication, the form is designed for individual users, not for business or organization use. It is not affiliated with any form platform, and the form's purpose is to collect data for a specific industry/category.
-</thinking>
-
 # Online Plant Order Form - Help Guide
 ## Purpose
 The Online Plant Order Form is designed to collect user information and plant selection for a smooth and efficient order process.

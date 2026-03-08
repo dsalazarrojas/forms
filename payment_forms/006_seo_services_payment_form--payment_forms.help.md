@@ -1,8 +1,3 @@
-<thinking>
-This form is for users to provide payment information for SEO services. The fields are designed to collect the necessary details for payment processing. Please ensure this form is not used for any other purpose.
-This form is a payment method selection and personal info collection form. Please do not submit multiple times, as each submission will be treated as a new entry.
-Please ensure the form fields are filled according to their labels and descriptions.
-</thinking>
 # SEO Services Payment Form - Help Guide
 ## Purpose
 The SEO Services Payment Form is designed to collect payment information from users who have opted for SEO services. This form is only for payment purposes and should not be used for any other purpose.

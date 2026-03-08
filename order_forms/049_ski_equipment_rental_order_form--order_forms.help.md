@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ski_equipment_rental_order_form - Help Guide
 ## Purpose
 The ski equipment rental order form is used to collect customer information and preferences for renting ski equipment. This form is designed to ensure accurate and efficient processing of rental requests. To fill out this form, please follow the guidelines below.

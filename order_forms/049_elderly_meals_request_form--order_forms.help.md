@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to help users complete the Elderly Meals Request Form. Please review this guide carefully to ensure you understand the form's purpose and requirements.
-
-The purpose of this form is to request meals for an elderly individual. It is intended to be used by caregivers, family members, or other authorized individuals who need to make meal requests on behalf of the elderly. The form captures necessary information to process the request, including meal details, payment information, and order status.
-
-This guide will walk you through each field in the form, explaining what information is required and what options are available.
-
-</thinking>
-
 # Elderly Meals Request Form - Help Guide
 ## Purpose
 This form is designed to request meals for an elderly individual. Please use this form to submit your request for meal preparation and delivery.

@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end users who need to complete the "pay_as_you_wish_form" form. This form allows users to specify their payment preferences, including donation amount, payment frequency, and other relevant details. 
-
-Before filling out this form, please ensure you have all the necessary information at hand. The form will ask for some personal contact information, such as email and phone number, which will be used for communication and payment processing purposes. 
-
-Please fill out the form carefully, and note that some fields are required (indicated by a *) to ensure accurate processing of your payment information. 
-
-</thinking>
-
 # pay_as_you_wish_form - Help Guide
 ## Purpose
 The "pay_as_you_wish_form" is a form that allows you to specify your payment preferences for donations. This form is used to collect information about your donation amount, payment frequency, and other relevant details.

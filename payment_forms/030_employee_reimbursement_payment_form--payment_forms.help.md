@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for employees to request reimbursement for expenses. The form is designed to collect relevant information, including the employee's ID, payment date, payment method, description, amount, employee status, and payment status. This form should only be used for legitimate expense requests and not for any other purpose. Please ensure that you are using this form for its intended use case.
-</thinking>
-
 # Employee Reimbursement Payment Form - Help Guide
 ## Purpose
 The purpose of this form is to enable employees to submit payment requests for expenses related to work-related activities.

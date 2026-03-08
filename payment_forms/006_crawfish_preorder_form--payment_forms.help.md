@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to preorder their crawfish products. The purpose of this form is to collect necessary information from customers, including their name, shipping address, order notes, order items, shipping date and time, order quantity, price, payment method, email, phone number, and message. This form ensures that the customer's order is processed correctly and efficiently.
-</thinking>
-
 # Crawfish Preorder Form - Help Guide
 ## Purpose
 The Crawfish Preorder Form is designed for customers to preorder their crawfish products. This form collects necessary information from customers to ensure that their order is processed correctly and efficiently.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information for software promo items order requests. The form fields are divided into several sections, and each field has a specific purpose. This guide will walk you through how to complete the form and what each field is used for.
-
-Before you start, please note that some fields are optional and can be filled in based on your specific needs. Please make sure to fill out all required fields and provide accurate information to ensure efficient processing of your order request.
-
-</thinking>
-
 # Software Promo Items Order Request Form - Help Guide
 ## Purpose
 This form is used to submit order requests for software promo items. Please fill out this form to submit your order request, and our team will review and process it accordingly.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information necessary for payment prioritization. The form will likely be used by financial teams to gather data for payment prioritization decisions. Before filling out this form, please confirm that you're not already in the process of prioritizing payments. If you're unsure, you may need to speak with a supervisor or financial analyst before proceeding. Please fill out this form for each individual payment request. If you're unsure how to classify the payment request, please err on the side of caution and consult with a supervisor or financial analyst.
-</thinking>
-
 # Payment Prioritization Request Form - Help Guide
 
 ## Purpose

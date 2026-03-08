@@ -1,5 +1,3 @@
-<thinking>This form is designed to be a verification checklist for blood transfusions, ensuring that all necessary steps have been taken to ensure patient safety. The form collects information about the patient's identity, medical record, and blood type, as well as verification procedures such as reviewing transfusion orders, checking unit identification, and ensuring that the blood unit is not expired. The form is used to verify that all necessary steps have been taken to ensure a safe blood transfusion. This form is likely used by healthcare professionals in a hospital setting to verify the accuracy of patient information and transfusion procedures.</thinking>
-
 # Blood Transfusion Verification Checklist - Help Guide
 ## Purpose
 This form is used to verify the accuracy of patient information and transfusion procedures for a blood transfusion.

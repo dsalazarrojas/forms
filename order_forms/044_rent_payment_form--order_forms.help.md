@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a simple, user-friendly interface for tenants and landlords to facilitate rent payments. The form collects information about the tenant and payment details. It is not designed for high-security financial transactions, so it should only be used for internal purposes within the organization. This form is meant to streamline the rent payment process, making it easier and faster for both tenants and landlords to interact. To avoid confusion, ensure that this form is used correctly, as it will help in maintaining accurate and efficient rent payments records.
-</thinking>
-
 # Rent Payment Form - Help Guide
 ## Purpose
 This form is intended to collect information from tenants and landlords for rent payments. It is a user-friendly interface designed to make the rent payment process easier and faster.

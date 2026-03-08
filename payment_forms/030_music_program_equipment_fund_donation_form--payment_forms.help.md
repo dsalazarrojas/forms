@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Music Program Equipment Fund Donation Form - Help Guide
 ## Purpose
 The Music Program Equipment Fund Donation Form is a form designed to collect information for music equipment donations to schools. This form helps the school administrators to track and manage donations, ensuring that the equipment is allocated correctly and efficiently.

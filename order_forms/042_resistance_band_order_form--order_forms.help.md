@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To determine if this form is relevant, let's analyze the fields provided:
 - **title**: "Resistance Band Order Form"
 - **pages**: 4 pages with various fields for user input, payment details, shipping address, and shipping phone number.

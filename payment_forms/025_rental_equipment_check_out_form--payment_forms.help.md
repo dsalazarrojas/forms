@@ -1,7 +1,3 @@
-<thinking>
-This form is a critical component of the rental equipment management system, designed to handle the check-out process for rental equipment. It's essential to understand the purpose and functionality of each field to ensure accurate and efficient processing of the check-out requests. Please review the form schema to determine if any fields are redundant or can be merged without affecting its overall integrity. Ensure that this form is not a duplicate of any existing form, and its purpose and functionality align with the existing business processes.
-</thinking>
-
 # rental_equipment_check_out_form - Help Guide
 
 ## Purpose

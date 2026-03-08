@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be for a piano sales agreement, which is likely a formal document used in sales transactions, particularly for pianos. The purpose of this form seems to be to collect buyer details, instrument specifications, and payment terms. It might be used in a retail or business setting where a piano is being sold to a customer. The form has multiple fields for different types of information, including buyer details, instrument specs, and payment terms. It's possible that this form is used to ensure a smooth sales process and to gather necessary information for the transaction.
-Before proceeding, let's review the fields and options available on the form to provide a comprehensive guide for end-users. This will help clarify any doubts and ensure that users understand what information is required and what the options mean.
-</thinking>
-
 # Piano Sales Agreement Form - Help Guide
 ## Purpose
 This form is designed to gather necessary information from buyers for a piano sales transaction. It collects buyer details, instrument specifications, and payment terms to facilitate a smooth and successful sales process.

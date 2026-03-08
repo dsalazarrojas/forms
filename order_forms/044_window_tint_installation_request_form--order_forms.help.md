@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers regarding their window tint installation requests. This form will help us understand their preferences and requirements for their window tinting needs. 
-
-To ensure that the information collected is accurate and comprehensive, please ensure that you complete this form with the most up-to-date information about your vehicle and the services you require.
-
-</thinking>
-
 # Window Tint Installation Request Form - Help Guide
 ## Purpose
 The Window Tint Installation Request Form is a tool used to collect information from customers about their window tinting needs. By completing this form, you will be able to specify your preferences for your vehicle's window tinting, including the type of tint you want, the services you require, and your preferred schedule for installation.

@@ -1,8 +1,3 @@
-<thinking>
-The Concert Ticket Delivery Form is designed to be filled out by a ticket recipient in order for us to ensure proper ticket delivery to their desired location. This form will help us confirm the details required for delivery, which are crucial for both the ticket recipient and our delivery team to ensure successful delivery. We will check if the recipient has correctly filled out the form to avoid any misunderstandings or mistakes.
-
-</thinking>
-
 # Concert Ticket Delivery Form - Help Guide
 ## Purpose
 This form is used to provide details for concert ticket delivery. Please fill out the form below to ensure that your tickets are delivered correctly.

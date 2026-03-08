@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a user-facing help guide for the "Health Coach Client Intake Form" that clearly explains the form's purpose, how to complete it, and what each field means. I will base the explanation on the provided YAML fields and strive to be concrete, concise, and practical. I will also ensure that the explanation is not duplicating or copying any proprietary content from other form platforms.</thinking>
-
 # Health Coach Client Intake Form - Help Guide
 ## Purpose
 The Health Coach Client Intake Form is designed to gather essential information from clients about their health goals, medical history, and health coach preferences. This form helps health coaches understand their clients' needs and develop effective coaching plans.

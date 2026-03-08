@@ -1,5 +1,3 @@
-<thinking> This form is designed to guide users through the process of renewing their cloud computing subscription. The form is used to collect information about the user's current subscription account, contact information, and subscription renewal details. When filling out this form, please make sure to enter accurate and up-to-date information to ensure a smooth renewal process. Please fill out each field carefully, as some fields may be required for the renewal process. </thinking>
-
 # Cloud Computing Subscription Renewal Form - Help Guide
 ## Purpose
 This form is used to renew your cloud computing subscription. Please fill out the form with your current subscription information and any necessary details for the renewal process.

@@ -1,23 +1,3 @@
-<thinking>
-
-To determine the purpose and relevance of the form, let's break down the form fields and their labels:
-
-*   The form is called "plasma_donation_payment_tracker" which suggests that it's related to tracking payments for plasma donations.
-*   The form has multiple pages, but they all seem to be on the same page.
-*   The fields are:
-    +   `donor_info`: This field likely contains information about the donor, such as their name, contact details, etc.
-    +   `donation_date`: This field likely tracks the date of the donation.
-    +   `donation_amount`: This field likely tracks the amount of plasma donated.
-    +   `payment_status`: This field likely indicates whether the payment for the donation has been made (Paid), is still unpaid (Unpaid), or is pending (Pending).
-    +   `payment_method`: This field likely indicates the method of payment used for the donation (Cash, Check, Credit Card).
-    +   `payment_date`: This field likely tracks the date of the payment.
-
-The main goal of this form seems to be to track plasma donation payments, ensuring that the payments are accurately recorded and up-to-date.
-
-Non-duplication: This form is likely used in a system where plasma donations are regularly made, and payments need to be tracked for each donation. It's not meant to be used for other purposes, such as tracking payments for other types of donations or non-monetary transactions.
-
-</thinking>
-
 # plasma_donation_payment_tracker - Help Guide
 ## Purpose
 This form is designed to track payments for plasma donations. It provides a structured way to record the donor's information, donation date, amount, payment status, payment method, and payment date.

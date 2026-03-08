@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's review the form's purpose and ensure it's clear and concise. This guide will cover the form's purpose, step-by-step instructions, and detailed explanations of each field. The form is designed for customers to order car accessories and services for their vehicles. It's essential to understand that the form is for car accessory orders and deliveries.</thinking>
-
 # Car Accessory Delivery Form - Help Guide
 ## Purpose
 This form is designed for customers to order car accessories and services for their vehicles. Please use this form to provide detailed information about your vehicle and the accessories you need, as well as your preferred delivery options.

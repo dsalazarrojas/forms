@@ -1,5 +1,3 @@
-<thinking>Co-Working Desk Rental Application Form is a form designed to help individuals or businesses find the right coworking space for their needs. This form captures essential information to ensure a smooth and secure rental experience. Please note that some of the fields are required to be filled in, while others are optional and serve as additional information for the space administrators. To avoid duplication, please fill out the form only once. Before proceeding, ensure you have all necessary information and approvals within your company/organization.</thinking>
-
 # Co-Working Desk Rental Application Form - Help Guide
 
 ## Purpose

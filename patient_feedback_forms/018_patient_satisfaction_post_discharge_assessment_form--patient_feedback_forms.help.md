@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Satisfaction Post Discharge Assessment Form - Help Guide
 ## Purpose
 This form is designed to assess patient satisfaction with their care after discharge from the hospital or medical facility. It helps healthcare providers understand the patient's perception of their stay, identify areas of improvement, and ensure high-quality care. Completing this form ensures that we receive valuable feedback, which we will use to make necessary adjustments to our services and improve patient care.

@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect patient data sharing information, which is a crucial aspect of medical record management. This form is meant to ensure that patients' data is shared with the right individuals or organizations in a secure and controlled manner. It's essential to fill out this form accurately to ensure the proper handling and dissemination of sensitive patient data. Before proceeding, please ensure that you are not duplicating an already existing data sharing arrangement.
-
-</thinking>
-
 # Patient Data Sharing Contact Form - Help Guide
 ## Purpose
 This form is used to collect information about who to share patient data with and how to share it.

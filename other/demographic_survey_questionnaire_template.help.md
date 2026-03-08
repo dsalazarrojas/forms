@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect demographic information from the respondents to gain a better understanding of the audience and their characteristics. This form is designed to be a template, allowing users to collect data on age group, gender identity, education level, employment status, primary residence, annual household income, and racial/ethnic background. It is intended for use in surveys and questionnaires where demographic information is relevant. To ensure the collected data is useful and accurate, please note that the form is designed for general demographic purposes and should not be used for targeted advertising or other specific purposes without further modifications and validation. 
-
-Please ensure you understand the purpose and usage of this form before proceeding.
-</thinking>
-
 # demographic_survey_questionnaire_template - Help Guide
 ## Purpose
 The demographic survey questionnaire template is designed to collect demographic information from respondents to better understand their characteristics.

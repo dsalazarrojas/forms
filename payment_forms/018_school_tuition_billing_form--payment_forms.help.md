@@ -1,9 +1,3 @@
-<thinking>... This block explains the form purpose and checks for relevance and non-duplication.
-
-The School Tuition Billing Form is designed to collect payment information for students' tuition fees. It is used to track and manage billing details, payment methods, and payment statuses for each student. This form is typically used by school administrators or billing staff to update student records and track payment progress. It is essential to fill out this form accurately to avoid any discrepancies or issues with student payments.
-
-</thinking>
-
 # School Tuition Billing Form - Help Guide
 ## Purpose
 The School Tuition Billing Form is used to collect payment information for students' tuition fees, allowing school administrators or billing staff to manage and track billing details, payment methods, and payment statuses.

@@ -1,10 +1,3 @@
-<thinking>
-We're creating a form that captures order details, customer information, and payment specifics for a fair trade product. This form will help us process orders efficiently and ensure accurate communication with our customers. To ensure relevance, we'll cover each field's purpose in a concise manner.
-
-When filling out this form, please be aware that some fields are optional but still provide valuable information for us to understand your order.
-
-</thinking>
-
 # Fair Trade Product Order Form - Help Guide
 
 ## Purpose

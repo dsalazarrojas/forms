@@ -1,7 +1,3 @@
-<thinking>
-This form is used to order a restaurant safety certification package, which is required for restaurants to ensure they meet the necessary health and safety standards. This form helps restaurants select their desired package, provide basic business information, and schedule the order. The form is a critical part of the certification process and is used to ensure that restaurants are properly equipped and trained to handle food safety and handling procedures.
-</thinking>
-
 # Restaurant Safety Certification Order Form - Help Guide
 ## Purpose
 The Restaurant Safety Certification Order Form is a critical part of the certification process, which helps restaurants meet the necessary health and safety standards. This form is used to order a restaurant safety certification package, which is required for restaurants to operate.

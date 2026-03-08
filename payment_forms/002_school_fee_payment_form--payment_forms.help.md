@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents for school fee payments. The form is used to gather the necessary details for processing school fee payments, including the fee amount, payment details, and parent contact information. This form is a critical part of the school's administrative process, and it's essential to fill it out accurately and completely to ensure smooth processing.
-</thinking>
-
 # School Fee Payment Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents for school fee payments, enabling the school to process payments efficiently and maintain accurate records.

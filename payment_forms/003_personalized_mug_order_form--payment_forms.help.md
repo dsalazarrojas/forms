@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to process orders for customized mugs. It collects customer information, order details (such as mug color and size), and payment information. The form is designed to be completed by customers to place their orders for customized mugs. Please ensure that you are familiar with the form's content before proceeding.
 
 # Personalized Mug Order Form - Help Guide

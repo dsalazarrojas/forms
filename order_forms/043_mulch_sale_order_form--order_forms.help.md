@@ -1,7 +1,3 @@
-<thinking>Before we dive into the help guide, let's quickly review the form's purpose and structure. This "Mulch Sale Order Form" seems to be designed for customers to place orders for mulch, likely for gardening or landscaping purposes. The form has four pages, each with a text field, but no clear instructions or guidance on how to fill them out. Based on the field types and hints, we can infer that the form is meant to collect general customer information, delivery schedule, mulch order specifics, and customer address details. To confirm, we should review the field-by-field explanation for clarity and accuracy.
-
-After reviewing the form structure and field types, I'll create a concise and practical help guide for end users. Here it is:</thinking>
-
 # Mulch Sale Order Form - Help Guide
 ## Purpose
 The Mulch Sale Order Form is designed to collect customer information and mulch order details for mulch sales. Please fill out the form accurately to ensure a smooth and efficient ordering process.

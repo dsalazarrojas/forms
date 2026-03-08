@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information for the university sports uniform requisition process, which is typically used for purchasing or ordering sports uniforms for university teams. This form ensures that the required information is collected accurately and efficiently.
-</thinking>
-
 # University Sports Uniforms Requisition Form - Help Guide
 ## Purpose
 The University Sports Uniforms Requisition Form is used to collect information for the university sports uniform requisition process. It is essential to fill out this form accurately and completely to ensure that your sports uniform needs are met.

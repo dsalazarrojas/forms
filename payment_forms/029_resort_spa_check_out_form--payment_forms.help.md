@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the "resort_spa_check_out_form" is to collect user feedback and payment information for a resort or spa. This form is likely used by management or staff to collect comments, suggestions, or concerns from guests, and also to gather details about their departure, such as the date and time of check-out. The form is designed to be simple and easy to fill out, with a focus on clear and concise questions that will help the management team understand their guests' experiences and preferences.
-
-Before completing this form, please ensure that you have not already submitted a similar feedback or payment form. Duplicate submissions can lead to confusion and data redundancy.
-</thinking>
-
 # resort_spa_check_out_form - Help Guide
 ## Purpose
 The "resort_spa_check_out_form" is a feedback and payment form designed for resort or spa guests. It consists of three simple text fields to collect essential information.

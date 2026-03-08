@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect order information for branded towels from a gym. The form is designed to gather details about the gym, towel selection, delivery preferences, delivery notes, order details, and contact information. The form is used to ensure that the gym's branded towels are restocked in a timely and efficient manner. Please ensure that the form is completed accurately and thoroughly, as the information will be used to fulfill the order. If you have any questions or concerns, please refer to the relevant section below.
-</thinking>
-
 # Gym Branded Towel Restock Order Form - Help Guide
 
 ## Purpose

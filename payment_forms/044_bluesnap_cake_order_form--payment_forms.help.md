@@ -1,5 +1,3 @@
-<thinking>...this form is designed to capture information from customers who want to order a cake for a specific occasion. The form will guide the customer through a series of questions to ensure that their order is placed correctly...</thinking>
-
 # BlueSnap Cake Order Form - Help Guide
 ## Purpose
 This form is designed to help customers order a cake for a specific occasion. It captures essential information such as customer details, cake preferences, and payment method to ensure accurate order processing.

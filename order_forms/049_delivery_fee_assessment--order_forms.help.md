@@ -1,7 +1,3 @@
-<thinking>
-This form is for assessing the delivery fee for an order. The delivery fee is a charge applied to customers for expedited shipping options. The form will be used by delivery personnel to estimate the delivery charge based on various factors such as estimated delivery time, customer feedback, and scheduling preferences. Before proceeding, ensure that you are using this form for the correct purpose and that you have not already assessed the delivery charge for this order.
-</thinking>
-
 # Delivery Fee Assessment - Help Guide
 ## Purpose
 The Delivery Fee Assessment form is used to estimate the delivery charge for an order based on various factors.

@@ -1,10 +1,3 @@
-<thinking>
-The form "ramadan_menu_order_form_template" is designed to collect information from customers for orders during the month of Ramadan. This form is intended to gather details about the customer, their order, and payment information. The form has five sections, each with a specific field type.
-
-To complete this form, the customer is expected to provide their contact information (name, email, etc.), details about their order, and payment information. The form is divided into five pages: customer information, order details, payment information, customer notes, and email.
-
-</thinking>
-
 # ramadan_menu_order_form_template - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers for orders during the month of Ramadan. This information includes customer details, order specifics, and payment information.

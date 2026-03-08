@@ -1,7 +1,3 @@
-<thinking>
-The self-service booth payment form is designed to allow customers to make payments for items purchased from a self-service booth. This form is intended for customers who need to provide payment information for items they have already chosen to purchase. To ensure that the form is used correctly, please note that it is only for customers who have already made a purchase decision. If you are a customer who has not yet made a purchase, you may want to explore other available payment options. The form should not be used multiple times for the same purchase. Each time you fill out the form, it will be used to process a new payment transaction.
-</thinking>
-
 # Self-service Booth Payment Form - Help Guide
 ## Purpose
 The self-service booth payment form is a tool for customers to provide payment information for items they have already chosen to purchase. This form ensures that customers can complete their purchases with ease and securely provide necessary payment details.

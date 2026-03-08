@@ -1,6 +1,3 @@
-<thinking>
-The goal of this form is to guide users through the process of making an eCheck payment, specifically for rent payment purposes, to provide a clear and efficient experience. This form is designed to collect relevant information from the user, including their name, address, and payment details, to ensure accurate and secure processing of the payment. The form should only be used for rent payment purposes, so it's essential to follow the instructions carefully to avoid any errors or miscommunication. The fields in this form are carefully designed to cater to the specific needs of rent payments, and filling it out correctly will help in processing the payment smoothly.
-</thinking>
 # Echeck.Net Rent Payment Form - Help Guide
 ## Purpose
 This form is designed to process eCheck rent payments for the eCheck.Net platform. It collects essential information for accurate and secure payment processing.

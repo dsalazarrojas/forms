@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for customers to place orders for their coffee drinks. It is intended to capture essential information from the customer, such as their name, contact phone number, order details, preferred pickup time, payment method, any special instructions, and if applicable, whether they are a loyalty program member. This form will help the baristas to efficiently process and fulfill the customer's order. The form is designed to be completed by the customer, but will also be used by staff for internal reference and order management.
-
-</thinking>
-
 # Caffe Ibis Coffee Orders - Help Guide
 ## Purpose
 This form is used to collect order information from customers for efficient order processing and fulfillment.

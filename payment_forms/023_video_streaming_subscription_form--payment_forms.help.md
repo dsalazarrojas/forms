@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to help users subscribe to a video streaming service. The form collects necessary information for the subscription process, including user details, payment method, and billing/shipping addresses. 
-
-The form has eight fields in total. The "Subscription Plan" field is required, as it determines which service plan the user will be subscribed to. The "Payment Method" field requires at least one selection, but the "Payment Card" field is optional, as some payment methods may not require a card number. 
-
-The "CVV" field is not required but is often needed for certain payment methods that require it for verification purposes. 
-
-The "User Information", "Billing Address", and "Shipping Address" fields are optional. If a user provides their shipping address, it should be accurate to ensure timely and reliable shipping. 
-
-This guide will explain each field and help the user understand how to fill out the form correctly.
-</thinking>
-
 # Video Streaming Subscription Form - Help Guide
 
 ## Purpose

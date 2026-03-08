@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Leadership Workshops Donation Form is used to collect information from individuals who wish to donate to leadership workshops, such as conferences, training sessions, or events. This form helps to ensure that the donation process is smooth and efficient while providing valuable insights into the donor's preferences and needs. 
 
 Before completing this form, please ensure that you are not already registered for the leadership workshop you are attempting to donate to, as this form is meant for new attendees. If you are unsure or have already registered, please contact the event organizers for further assistance.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help healthcare professionals gather information from patients before discharging them from physical therapy care. It is meant to be used by physical therapists, occupational therapists, and other healthcare providers to assess the patient's progress, readiness for discharge, and provide instructions for follow-up care. Before completing this form, please ensure that you have consulted with your healthcare provider and that the information provided is accurate and up-to-date.
-
-When filling out this form, please provide honest and thorough responses, as they will help your healthcare provider understand your current condition and create an effective discharge plan for you. If you are unsure about any of the questions or have concerns, please discuss them with your healthcare provider.
-
-</thinking>
-
 # Physical Therapy Discharge Form - Help Guide
 
 ## Purpose

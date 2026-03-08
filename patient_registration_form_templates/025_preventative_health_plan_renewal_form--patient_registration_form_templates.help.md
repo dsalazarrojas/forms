@@ -1,10 +1,6 @@
 > ## **Preventative Health Plan Renewal Form - Help Guide**
 
-### <thinking>... (Internal Reasoning Block)
-The Preventative Health Plan Renewal Form is designed to collect relevant information from patients to facilitate the renewal process of their health plan. This form should only be completed if the patient's current health plan is nearing expiration and they need to renew it. Completing this form will help the healthcare provider to review and update the patient's information accurately. Please ensure you have all necessary information and documentation before submitting this form. If you are not sure if this form is relevant to your situation, please consult with your healthcare provider.
-</thinking>
-
-### Purpose
+### ### Purpose
 The purpose of this form is to collect and update patient's information for the renewal of their health plan. It helps the healthcare provider to review and update the patient's information accurately.
 
 ### How To Complete This Form

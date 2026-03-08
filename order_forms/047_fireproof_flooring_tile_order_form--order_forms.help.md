@@ -1,14 +1,3 @@
-<thinking>
-This form is designed for customers to provide details for their order of fireproof flooring tiles. The form is likely used by a business or organization that manufactures or supplies fireproof flooring tiles. The form's purpose is to collect information from customers, likely including contact details, delivery preferences, and any specific tile selections or notes. The form's structure suggests that it is designed to be simple and straightforward, with five main sections: customer details, delivery details, tile selections, delivery notes, and customer notes.
-
-This form does not appear to be a part of a larger survey or assessment tool, but rather a basic order form. The sections are not overly complex or technical, suggesting that the form is intended for use by a wide range of customers. The form's structure does not indicate any specific security or data protection requirements.
-
-The form's fields are not clearly defined for specific industries or use cases. This form could potentially be used in a variety of contexts, such as construction, architecture, or interior design.
-
-The form's fields are relatively simple and self-explanatory. The only field with an unclear label is the "tile_selections" field. Based on the name and the presence of other fields, it is likely that this field is intended to allow customers to select specific tiles or tile options for their order.
-
-</thinking>
-
 # Fireproof Flooring Tile Order Form - Help Guide
 ## Purpose
 The Fireproof Flooring Tile Order Form is designed to collect customer information for the ordering of fireproof flooring tiles. This form helps us understand your contact details, delivery preferences, and any specific tile selections or notes.

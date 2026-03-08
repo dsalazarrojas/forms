@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Receptionist Feedback Form - Help Guide
 
 ## Purpose

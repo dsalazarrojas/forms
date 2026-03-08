@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Survey For Parents - Help Guide
 
 ## Purpose

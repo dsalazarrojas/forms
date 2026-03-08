@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers regarding the delivery of fresh produce. The form includes three sections: Customer Info, Delivery Details, and Payment Info. The purpose of this form is to gather necessary details from customers for successful delivery of fresh produce, including their contact information, delivery preferences, and payment method. This form will likely be used in the retail or hospitality industry, where customers are receiving perishable goods directly to their doorstep.
-</thinking>
-
 # fresh_produce_delivery_form - Help Guide
 ## Purpose
 The fresh_produce_delivery_form is designed to collect customer information and delivery details for the successful delivery of fresh produce.

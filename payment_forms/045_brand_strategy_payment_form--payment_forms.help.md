@@ -1,6 +1,3 @@
-<thinking>
-This form appears to be for collecting payment information from clients for various services provided by a brand strategy team or agency. The form likely aims to streamline the payment process, ensuring that clients can easily provide the necessary details for invoicing and payment. It may also serve as a template for sending receipts to clients after a payment has been processed.</thinking>
-
 # Brand Strategy Payment Form - Help Guide
 ## Purpose
 The Brand Strategy Payment Form is a tool designed to collect payment information from clients for services rendered. This form helps streamline the payment process, ensuring that clients can easily provide the necessary details for invoicing and payment.

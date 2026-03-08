@@ -1,7 +1,3 @@
-<thinking>
-This form is used to obtain informed consent from a patient or their authorized contact for the sharing of medical information. The purpose of this form is to ensure that the patient or their contact has been informed and agrees to share their medical information with healthcare providers or other authorized parties. This form is typically used in situations where medical records need to be shared between providers or facilities, such as during transitions of care or referrals.
-</thinking>
-
 # Future Medical Contact Consent Form - Help Guide
 ## Purpose
 This form is used to obtain informed consent from a patient or their authorized contact for the sharing of medical information.

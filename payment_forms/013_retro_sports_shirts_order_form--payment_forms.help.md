@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Retro Sports Shirts Order Form - Help Guide
 ## Purpose
 This form is designed for users to order retro sports shirts from our online platform. It collects necessary information to process and fulfill their orders.

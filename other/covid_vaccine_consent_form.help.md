@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Untitled Form - Help Guide
 ## Purpose
 This form is designed to collect information from patients regarding their COVID-19 vaccination experience. It is intended to be used by healthcare professionals to gather essential data for monitoring and analysis.

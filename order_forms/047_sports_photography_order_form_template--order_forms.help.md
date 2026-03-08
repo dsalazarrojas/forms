@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # sports_photography_order_form_template - Help Guide
 ## Purpose
 This form is designed to gather information from customers for sports photography services. It includes fields for package selection, customer details, order summary, payment terms, payment method, email, phone number, and order confirmation.

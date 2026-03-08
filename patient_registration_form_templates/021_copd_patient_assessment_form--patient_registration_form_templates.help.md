@@ -1,7 +1,3 @@
-<thinking>
-We should check if the form is a template to be used for a specific use case (e.g. patient registration, clinical assessment, or data collection). This form appears to be a comprehensive COPD (Chronic Obstructive Pulmonary Disease) patient assessment form. It's likely to be used by healthcare professionals to gather information about patients' health status, symptoms, medical history, and treatment plans.
-</thinking>
-
 # COPD Patient Assessment Form - Help Guide
 ## Purpose
 The COPD Patient Assessment Form is designed to gather essential information about patients with Chronic Obstructive Pulmonary Disease (COPD). This form helps healthcare professionals assess the patient's health status, symptoms, medical history, and treatment plans. Completing this form provides a comprehensive overview of the patient's condition and aids in developing an effective care plan.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Custom POS Display Stand Order Form - Help Guide
 ## Purpose
 This form is designed to allow customers to place an order for a custom Point of Sale (POS) display stand. The form collects information about the order, including order details, artwork, quantity, color, payment method, due date, and total cost.

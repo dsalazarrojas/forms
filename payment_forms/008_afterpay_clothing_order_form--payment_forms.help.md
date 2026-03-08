@@ -1,28 +1,3 @@
-<thinking>
-This form is used for customers to place orders using the Afterpay payment method. Afterpay is a payment plan that allows customers to split their payments over multiple installments. This form is designed to collect information from customers so that we can fulfill their orders accurately and efficiently. 
-
-The form consists of 7 fields that are essential for order registration and fulfillment. The form is not intended for customers to create a new account or login, but rather to provide necessary information for order processing.
-
-The "customer" page is an optional introduction page that is not required for the form to be submitted. It's an information page that provides context for the form fields that follow.
-
-The form then requests the customer's name, email, and email verification. These fields are essential for order confirmation and fulfillment.
-
-The "item description" field is where the customer can specify the details of the product they are ordering, such as the SKU, color, and size.
-
-The "size" field is a dropdown select field where the customer can select their preferred size or enter their own measurement.
-
-The "color" field is a text field where the customer can specify their preferred color choice.
-
-The "quantity" field is a number field where the customer can specify the number of units they wish to order.
-
-The "afterpay" field is a select field where the customer can choose to split their payment or pay upfront.
-
-The "shipping address" field is a text field where the customer can specify their shipping address.
-
-The "special instructions" field is an optional text field where the customer can provide any special instructions for fulfillment or gift options.
-
-</thinking>
-
 # Afterpay Clothing Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for order registration and fulfillment using the Afterpay payment method.

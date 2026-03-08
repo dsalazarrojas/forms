@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to be a tool for businesses to order luxury gifts for their clients. The form collects information about the client, including their name, email, phone number, and event details (date and time). It also offers three gift options for the client to choose from. The form is designed to be completed by business employees, but it's possible that end-users might need some guidance on how to fill it out correctly.
-
-The form is used to collect information for gift orders, and it's likely that some fields might be optional or have specific formats.
-
-After filling out the form, the submitted information will be used to process the gift order.
-</thinking>
-
 # Luxury Business Gift Order Form - Help Guide
 
 ## Purpose

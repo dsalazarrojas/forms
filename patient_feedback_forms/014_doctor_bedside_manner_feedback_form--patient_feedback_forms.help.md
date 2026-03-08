@@ -1,12 +1,3 @@
-<thinking> 
-To create a user-facing help guide for the "Doctor Bedside Manner Feedback Form", I will first analyze the form schema and provide an internal reasoning block that explains the form's purpose and checks for relevance and non-duplication.
-
-The form "Doctor Bedside Manner Feedback Form" is designed to collect feedback from patients on their experiences with healthcare providers, including their bedside manner. The form is likely used in a healthcare setting to gather insights into how providers interact with patients, which can inform quality improvement efforts and patient satisfaction ratings. 
-
-This form seems relevant and practical for its intended purpose, and it is not a duplicate or copy of any other form.
-
-</thinking>
-
 # Doctor Bedside Manner Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients on their experiences with healthcare providers, focusing on the bedside manner aspect. Your feedback will help healthcare providers improve their interactions with patients and provide better care.

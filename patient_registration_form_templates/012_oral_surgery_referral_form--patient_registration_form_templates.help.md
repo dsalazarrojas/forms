@@ -1,13 +1,3 @@
-<thinking> 
-
-This form is designed to be used by oral surgeons for referrals of patients to another surgeon. It collects relevant information about the patient, including contact details, referral information, and patient status. The form is intended to facilitate a smooth handover of patient care between the referring and receiving surgeon. 
-
-It is essential to ensure that all required fields are completed accurately to ensure the smooth handover of patient care. If the form is being completed for a patient who is already an established patient of the surgeon's practice, some fields may not be required.
-
-To prevent duplication of effort, please ensure that all information is entered accurately and thoroughly, and that any previous referrals or consultations are noted and taken into account before completing this form.
-
-</thinking>
-
 # Oral Surgery Referral Form - Help Guide
 ## Purpose
 

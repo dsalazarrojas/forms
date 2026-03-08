@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is for confirming payment-related details, allowing users to provide their payment confirmation after a transaction. It's likely used in internal or external processes, such as payment tracking, accounting, or customer service. 
 
 Form data is likely to be stored or used for record-keeping, so it should be accurate and complete. Users should ensure all relevant fields are filled out correctly to ensure proper completion of the form.

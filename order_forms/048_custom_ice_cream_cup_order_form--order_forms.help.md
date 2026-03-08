@@ -1,13 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the "Custom Ice Cream Cup Order Form", we need to understand the purpose of the form and its individual fields. The form is designed to allow users to order a custom ice cream cup by selecting the flavor, size, and toppings they want.
-
-The form is intended for customers who want to customize their ice cream cup order by choosing from several flavor and size options. The goal is to help the user complete their order in a straightforward and stress-free way.
-
-Before starting the form, it would be helpful to check that the user is not on their second visit, and that the form is not duplicated in any other help guide.
-
-</thinking>
-
 # Custom Ice Cream Cup Order Form - Help Guide
 ## Purpose
 This form is designed to help you order a custom ice cream cup by selecting your desired flavor, size, and toppings.

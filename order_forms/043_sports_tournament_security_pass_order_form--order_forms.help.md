@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from users about a sports tournament security pass order. The purpose of this form is to gather event details, staff, vendor, contact, and other information related to the sports tournament. It seems that the form is meant to manage the access and permissions for staff, vendors, vendors' staff, media, and guests within the event. It's likely used for event planning, organization, and management.
-
-However, it appears that the form does not have a clear "request reason" field for staff, vendors, or guests, which might be a crucial piece of information for event organizers. The "request_reason" field should be placed on the "staff_details" or "contact_info" pages for better user experience and to reduce form length.
-
-The form's structure seems to follow a typical "event management" theme, where organizers need to collect various types of information to manage different aspects of the event. The form's design should consider the event's specific requirements and rules for accessing the event's premises.
-</thinking>
-
 # Sports Tournament Security Pass Order Form - Help Guide
 ## Purpose
 This guide explains how to complete the Sports Tournament Security Pass Order Form, which is designed for event organizers to manage access and permissions for various roles within the event, such as staff, vendors, vendors' staff, media, and guests.

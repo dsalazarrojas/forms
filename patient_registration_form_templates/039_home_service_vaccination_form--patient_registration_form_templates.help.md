@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # home_service_vaccination_form - Help Guide
 
 ## Purpose

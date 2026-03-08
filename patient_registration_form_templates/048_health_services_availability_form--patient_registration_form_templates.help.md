@@ -1,7 +1,3 @@
-<thinking>
-The form "health_services_availability_form" is designed to collect information about the health services provided by a medical facility or provider. This form is intended for patients, customers, or clients who need to know the availability of health services. It is likely used in a healthcare setting where service providers need to display their service schedule and availability. This form is likely used for both internal and external communication, and it should be easy to fill out. It's possible that this form will be part of a larger system or workflow, where the data collected will be used for scheduling, resource allocation, or billing purposes. This form does not appear to collect sensitive data and is more focused on scheduling and communication. 
-</thinking>
-
 # health_services_availability_form - Help Guide
 ## Purpose
 This form is designed to collect information about the health services provided by a medical facility or provider. It is used to schedule and communicate availability of health services, making it easier for patients or clients to plan their appointments.

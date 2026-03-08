@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # parent-teacher-conference-schedule-form - Help Guide
 
 ## Purpose

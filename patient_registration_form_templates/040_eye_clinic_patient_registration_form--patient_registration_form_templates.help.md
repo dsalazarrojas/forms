@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect patient registration information for an eye clinic. The form is intended for patients to provide their personal details, medical history, and appointment requests. To complete this form, follow the steps below.
-</thinking>
-
 # Eye Clinic Patient Registration Form - Help Guide
 ## Purpose
 The Eye Clinic Patient Registration Form is designed to gather essential information from patients for their registration and appointment scheduling purposes. This form serves as a tool for the clinic to collect patient details, medical history, and appointment requests, making it easier to manage patient care and services.

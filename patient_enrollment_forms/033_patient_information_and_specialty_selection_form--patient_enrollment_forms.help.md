@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll create a comprehensive help guide for this "Patient Information And Specialty Selection Form" that is concise, practical, and easy to understand. The form is designed to collect patient information and specialty selection, which is crucial for healthcare providers to understand the patient's medical history and needs. This guide will walk users through the form's purpose, how to complete it, and what each field means, ensuring they understand the importance of accurate and complete input.</thinking>
-
 # Patient Information And Specialty Selection Form - Help Guide
 ## Purpose
 The Patient Information And Specialty Selection Form is designed to collect patient demographic data and medical specialty information. This form helps healthcare providers gather essential details about patients, such as their name, date of birth, address, phone number, and email. Additionally, the form allows patients to select their medical specialty, which is crucial for understanding their medical history and needs.

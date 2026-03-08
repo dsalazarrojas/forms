@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for individuals to donate to the Veterans Mental Health Program, providing a way for users to contribute to the well-being of veterans in need. The form collects various pieces of information to ensure efficient and respectful processing of donations. The purpose of this form is to ensure that users can donate in a way that feels comfortable and secure for them, while also providing the necessary information for the program to function effectively.
-
-</thinking>
-
 # Veterans Mental Health Program Donation Form - Help Guide
 ## Purpose
 The Veterans Mental Health Program Donation Form is a tool designed to collect donations for the program, allowing individuals to contribute their support to the well-being of veterans. This form is intended to be simple and user-friendly, ensuring that donors can provide their information in a secure and efficient manner.

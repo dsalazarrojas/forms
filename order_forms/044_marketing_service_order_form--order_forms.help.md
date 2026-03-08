@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm, the form "Marketing Service Order Form" is designed to collect project information for marketing services. The form is intended to gather details about a project, including its name, type, service level, contact email, phone number, project status, deadline, budget, location, description, client information, and team members. The form's purpose is to facilitate the process of creating and managing marketing projects.
-
-</thinking>
-
 # Marketing Service Order Form - Help Guide
 ## Purpose
 The Marketing Service Order Form is used to collect project information for marketing services. This includes details about the project name, type, service level, contact email, phone number, project status, deadline, budget, location, description, client information, and team members.

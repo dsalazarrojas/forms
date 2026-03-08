@@ -1,14 +1,3 @@
-<thinking>
-The "Accounting Service Subscription Form" is a form for users to subscribe to accounting services. It is meant to gather information about the company subscribing to these services, including contact details, subscription preferences, and payment information. This form is essential for the accounting firm to provide tailored services to the client.
-
-The main goal is to ensure that the user completes the form accurately and efficiently, without any confusion or duplication of effort. 
-
-This form is meant to be used once, and the information collected will be used to create a subscription agreement between the accounting firm and the client.
-
-Please review the form carefully and ensure you understand the requirements and implications before proceeding.
-
-</thinking>
-
 # Accounting Service Subscription Form - Help Guide
 ## Purpose
 The "Accounting Service Subscription Form" is a form used to collect information from clients who wish to subscribe to accounting services. It includes details about the company, contact person, and subscription preferences, as well as payment information.

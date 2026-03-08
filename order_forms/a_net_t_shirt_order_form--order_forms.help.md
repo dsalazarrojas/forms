@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by individuals or organizations requesting an A/R (Accounts Receivable) cleanup quote for a specific project. The form is used to collect relevant information about the requestor, their company, and the scope of work required for the project. The goal is to ensure that the service provider has all necessary details to provide an accurate quote for the cleanup work. This form is not affiliated with or endorsed by any form platform and is created by an AI-based tool that generates forms based on public metadata.
-</thinking>
-
 # A/R Cleanup Quote Request - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for orders placed by customers. The purpose of this form is to gather customer and order details in a structured manner, ensuring that all necessary information is collected for processing and fulfillment. This form will be used by customers to provide their order details, including contact information, order date and time, and any additional notes or comments.
-</thinking>
-
 # Derby Meats - Help Guide
 ## Purpose
 The Derby Meats form is used to collect customer and order information for processing and fulfillment.

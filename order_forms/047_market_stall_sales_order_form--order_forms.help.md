@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for orders, providing a structured and easy-to-use interface for customers to provide their details.
-The form is divided into several sections, each focused on a specific aspect of the order, such as customer information, payment details, and order status.
-The form is not intended to be a comprehensive survey or a complex data collection tool, but rather a simple and user-friendly way to gather the necessary information for processing an order.
-The form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation using public survey topic metadata.
-This form is released under CC BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as credit is given.
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is designed to collect information for orders, providing a structured and easy-to-use interface for customers to provide their details.

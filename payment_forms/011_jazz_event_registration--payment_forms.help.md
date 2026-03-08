@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registering users for a jazz event. The primary purpose of this form is to collect basic user information and event details for administrative purposes.
-To prevent duplication, this form checks for existing registrations before submitting. The form is divided into several sections, each with its own fields to collect specific information.
-</thinking>
-
 # jazz_event_registration - Help Guide
 ## Purpose
 The Jazz Event Registration Form is used to collect user information and event details for administrative purposes.

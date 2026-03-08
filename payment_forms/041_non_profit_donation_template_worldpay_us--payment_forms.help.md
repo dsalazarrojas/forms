@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information for non-profit donations, specifically for the Worldpay US payment processor. The form is used to process donations from non-profit organizations, and it's essential to ensure that the information provided is accurate and complete to avoid any issues with the payment processing. This form should not be used for other purposes, such as personal expenses or business transactions. Please review the fields carefully and provide the required information to ensure a smooth donation process.</thinking>
-
 # non_profit_donation_template_worldpay_us - Help Guide
 ## Purpose
 This form is designed to collect information for non-profit donations using the Worldpay US payment processor.

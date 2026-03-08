@@ -1,7 +1,3 @@
-<thinking>
-This form is a payment form for the renewal of a donation agreement between a donor and an organization. The form is used to update or modify existing agreements, ensuring that all relevant information is up-to-date and accurate. 
-</thinking>
-
 # Donation Agreement Renewal Form - Help Guide
 ## Purpose
 The Donation Agreement Renewal Form is used to update or modify existing donation agreements, ensuring that all relevant information is up-to-date and accurate. This form should only be used for renewal purposes and not for initial agreements.

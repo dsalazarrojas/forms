@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be an application form for skincare product resellers, which means it is designed for individuals or businesses interested in selling skincare products. To confirm, I'll review the form fields to ensure they align with this purpose. Upon examination, the form contains fields for product inquiries, contact information, sales channels, storefront URLs, storefront descriptions, product selections, shipping and pricing, store information, payment methods, payment terms, and notes. These fields suggest that the form is intended for resellers to provide details about their products, business, and payment preferences. It is possible that this form could be used by customers or other interested parties as well, but based on the fields, it appears to be focused on resellers. There doesn't seem to be any duplication of fields, and the purpose of the form is likely to gather information for business operations or internal processing.
-
-</thinking>
-
 # Skincare Product Reseller Application Form - Help Guide
 ## Purpose
 This form is designed for skincare product resellers to provide information about their products, business, and payment preferences. It will help us understand your business and process your application.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Wound Care Discharge Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Bestseller Book Pre Order Form - Help Guide
 
 ## Purpose

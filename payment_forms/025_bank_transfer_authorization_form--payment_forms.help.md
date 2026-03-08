@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication, I will ensure that this form is used to collect information for a single bank transfer transaction. The form will be used to gather details about the account holder, the transfer type, the amount and currency, and the recipient's information. This form is intended to be used for both one-time and recurring transfers. The transfer type will determine the type of transfer, and the recurring frequency and end date will only be applicable for recurring transfers.
-
-This form will also collect information about the transfer fees and exchange rates, and the user will be asked to acknowledge their understanding of these fees. Finally, the user will be required to provide their signature and date of authorization.
-
-</thinking>
-
 # Bank Transfer Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information for a single or recurring bank transfer between accounts. The form includes fields for account holder, transfer type, transfer amount and currency, recipient details, transfer purpose, and transfer fees.

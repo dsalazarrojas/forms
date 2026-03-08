@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather relevant order information from users. The form is designed to collect data that will aid in processing and fulfilling orders. To avoid confusion and duplication, it's essential to ensure that users understand each field's meaning and relevance to the order process. This guide will explain each field in detail to help users complete the form accurately and effectively.
-
-</thinking>
-
 # covers_order_form - Help Guide
 
 ## Purpose

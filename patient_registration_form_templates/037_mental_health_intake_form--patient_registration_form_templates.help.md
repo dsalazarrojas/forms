@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather essential patient information for mental health services. It is typically used as a starting point for intake procedures, where patients can provide background and medical history. This form should not be used for patients with existing mental health records or those who have already undergone intake procedures within our organization. Please ensure that you have checked for duplicate records before submitting this form.
-</thinking>
-
 # Mental Health Intake Form - Help Guide
 ## Purpose
 The Mental Health Intake Form is used to collect patient information for mental health services. 

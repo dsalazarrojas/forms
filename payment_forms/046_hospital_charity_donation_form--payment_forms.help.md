@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from hospital charity donors, allowing them to provide their financial contributions to the hospital's charity efforts. The form includes fields for the donor's contact information, donation details, and payment options. This guide is meant to help donors complete the form accurately and efficiently. Before proceeding, please ensure that you have not filled out this form before, as the information will be updated based on the provided details.
-
-</thinking>
-
 # Hospital Charity Donation Form - Help Guide
 ## Purpose
 The Hospital Charity Donation Form is a tool for individuals to donate to the hospital's charity efforts, providing financial support for the patients and the community.

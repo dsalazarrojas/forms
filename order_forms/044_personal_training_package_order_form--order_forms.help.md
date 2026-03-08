@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who want to place an order for a personal training package. The form is used to gather information about the type of package the user is interested in, their contact details, and payment preferences. Please note that some fields are optional, meaning users can skip them if they are not relevant to their order. This form is meant to be a guide to help users understand what information is required and how to complete it correctly.
-</thinking>
-
 # Personal Training Package Order Form - Help Guide
 ## Purpose
 This form is used to order a personal training package. To complete this form, follow the instructions below.

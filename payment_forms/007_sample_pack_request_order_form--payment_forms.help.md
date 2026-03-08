@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to gather information from users for sample pack requests, likely for laboratory testing or other scientific purposes. The form will help ensure accurate and efficient processing of sample packs. Please ensure the form is filled out accurately and completely to avoid mistakes. This form is not meant to be a duplicate of any other form. It's only used for sample pack requests.
-</thinking>
-
 # Sample Pack Request Order Form - Help Guide
 ## Purpose
 This form is used to request a sample pack from our organization. It captures essential contact and shipping information to ensure accurate and efficient processing of your sample pack request.

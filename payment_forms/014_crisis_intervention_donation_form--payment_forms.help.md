@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # crisis_intervention_donation_form - Help Guide
 
 ## Purpose

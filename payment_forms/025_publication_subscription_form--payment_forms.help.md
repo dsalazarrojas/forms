@@ -1,7 +1,3 @@
-<thinking>
-The Publication Subscription Form is used for users to subscribe to a publication, providing relevant details about their subscription. This form is used for both internal and external purposes, such as managing subscriptions for users within an organization or for customers to sign up for a publication. To ensure accurate and efficient subscription management, it is essential to complete the form correctly. 
-</thinking>
-
 # Publication Subscription Form - Help Guide
 ## Purpose
 The Publication Subscription Form is a tool for users to provide information about their subscription to a publication. This form is used for both internal and external purposes, such as managing subscriptions for users within an organization or for customers to sign up for a publication.

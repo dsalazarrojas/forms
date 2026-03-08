@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Outdoor Storage Lease Agreement Form - Help Guide
 
 ## Purpose

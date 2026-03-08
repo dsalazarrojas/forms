@@ -1,25 +1,3 @@
-<thinking>
-This form is intended to be a pre-order form for a patriotic collection, likely for an e-commerce website or online store. It is designed to collect customer information and order details for a product or service. The form is likely used for customers to place orders for patriotic-themed items or services. The form fields include fields for personal details, shipping, and payment information.
-
-To ensure the form meets the business requirements, I will review the fields to ensure they are relevant and not duplicated.
-
-The form has the following fields:
-
-* First Name (text, required: false) - collects the customer's first name.
-* Last Name (text, required: true) - collects the customer's last name.
-* Email (email, required: true) - collects the customer's email address.
-* Date of Birth (date, required: false) - collects the customer's date of birth (this field is likely intended for age verification or other purposes).
-* Address (text, required: true) - collects the customer's address.
-* Phone (text, required: false) - collects the customer's phone number.
-* Quantity (number, required: true) - collects the number of items or services ordered.
-* Shipping Method (select, required: false) - collects the shipping method preferred by the customer (FedEx, UPS, or USPS).
-* Payment Method (select, required: true) - collects the payment method preferred by the customer (Cash, Credit, or Debit).
-* Order Comments (note, required: false) - collects any additional comments or notes about the order.
-
-Upon reviewing the form, I noticed that it does not seem to have any fields for product selection or description, which is typically included in order forms. This could be a potential improvement to the form's design.
-
-</thinking>
-
 # patriotic_collection_pre_order - Help Guide
 ## Purpose
 This form is used to collect customer information and order details for a patriotic collection.

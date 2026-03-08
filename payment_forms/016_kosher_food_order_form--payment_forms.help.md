@@ -1,7 +1,3 @@
-<thinking>
-Form purpose: This form is designed to collect order information from customers for kosher food delivery. The form asks for the customer's first name, email, phone number, order date and time, notes, items ordered, delivery options, and any special requests they may have. The form is intended to be filled out by customers who want to place an order for kosher food, and the information collected will be used to fulfill the order and communicate with the customer.
-</thinking>
-
 # Kosher Food Order Form - Help Guide
 ## Purpose
 The Kosher Food Order Form is designed to collect order information from customers for kosher food delivery. This form is intended to be filled out by customers who want to place an order for kosher food.

@@ -1,14 +1,3 @@
-<thinking> 
-This form is designed to collect information for a bulk order, allowing customers to provide detailed contact information, product preferences, and order requirements. 
-
-The form will help the supplier to better understand the customer's needs, providing a more accurate quote and efficient processing. 
-
-The form is divided into two sections: contact information and order details. 
-
-Before proceeding, please ensure that you have all the necessary information ready, as some fields are required. 
-
-The form will guide you through the process, and please ask if you have any questions or need help.</thinking>
-
 # Bulk Order Estimate Contact Form - Help Guide
 ## Purpose
 The Bulk Order Estimate Contact Form is a comprehensive order form designed to collect detailed information from customers for a bulk order. This form will help us better understand your needs and provide an accurate quote for your order.

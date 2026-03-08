@@ -1,19 +1,3 @@
-<thinking>
-This help guide is intended for festival food order template form users. The form is meant to collect information for festival food orders. To ensure the form is used correctly, this guide will walk the user through each section and explain each field purpose.
-
-This form appears to be a multi-page form with various fields for customer information, order details, and status updates. However, it seems to be missing some essential fields typically found in a standard festival food order form, such as menu item choices or order quantities. To complete this form, the user will need to fill in the provided fields and make sure to update the order status accordingly.
-
-To use this form correctly, the user should start by filling in the customer information page (customer_info_page) with the customer's name, address, phone number, and email. This will help the food order team to contact the customer and confirm the order.
-
-Next, the user should go to the order details page (order_details_page) and fill in the order date, time, and total amount. This will help the team to schedule the order and keep track of the order total.
-
-After that, the user should select the order status from the order status page (order_status_page) and update it accordingly. This will help the team to track the order progress and ensure that it is delivered on time.
-
-Finally, the user can add any additional order notes in the order notes page (order_notes_page). This is an optional section and can be used to provide further information about the order.
-
-It is essential to update the form submitted field (form_submitted) when the form is complete and ready to be submitted.
-</thinking>
-
 # Festival Food Order Template - Help Guide
 ## Purpose
 This form is intended to collect information for festival food orders.

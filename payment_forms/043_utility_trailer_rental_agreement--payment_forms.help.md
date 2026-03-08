@@ -1,8 +1,3 @@
-<thinking>
-We need to make sure this form doesn't duplicate existing information and that we're creating an actual utility trailer rental agreement form and not just gathering general contact information or rent payment info. Utility trailers are typically large vehicles used for construction, event, or other industrial purposes. This form should capture information specific to the rental of such equipment.
-The main goal is to have renters provide details about themselves, the rental period, payment information, and signed acknowledgment. We also want to ensure that all required fields are properly filled out.
-</thinking>
-
 # Utility Trailer Rental Agreement - Help Guide
 ## Purpose
 The Utility Trailer Rental Agreement form is for collecting information from renters who are renting utility trailers, typically used for construction, event, or industrial purposes. This form ensures both the renter and landlord have a clear understanding of the rental terms and details.

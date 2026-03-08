@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for schools to order school uniforms, and it's likely used for internal purposes to gather information for administrative tasks. I'm assuming this form is used to collect order details, customer information, payment details, and notes. I will not output the YAML in the response. This form appears to be a simple, multi-page form designed to collect various pieces of information related to school orders. I do not have any reason to believe the form is being duplicated elsewhere.</thinking>
-
 # School Uniform Order Form - Help Guide
 ## Purpose
 This form is used to collect and process school uniform orders. It contains multiple pages and fields that require completion by authorized users to gather accurate information for administrative tasks.

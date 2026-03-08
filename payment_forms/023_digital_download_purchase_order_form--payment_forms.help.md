@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help customers understand how to complete the Digital Download Purchase Order Form. This form is designed to collect information about a digital download purchase, including customer details, product details, and payment information. The form is meant to be filled out by customers who are purchasing digital downloads from the site, and it will help ensure that all necessary information is collected accurately and efficiently. 
-
-Please note that this guide will cover each section of the form in detail, providing explanations for each field to help customers understand what is required and how to fill it out correctly.
-</thinking>
-
 # Digital Download Purchase Order Form - Help Guide
 
 ## Purpose

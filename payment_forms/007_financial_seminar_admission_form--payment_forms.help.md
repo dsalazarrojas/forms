@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Seminar Admission Form - Help Guide
 ## Purpose
 The Financial Seminar Admission Form is designed to collect information from attendees and their representatives for the purpose of registering them for a financial seminar. This form is used to ensure that the necessary details are collected for the attendees' participation and to facilitate a smooth and organized seminar experience.

@@ -1,8 +1,3 @@
-<thinking>
-We are designing a user-facing help guide for the "Customer Bill Pay" form. The form is used for customers to pay their bills. To ensure that the form is filled out correctly, we need to explain its purpose, how to complete it, and what each field means.
-
-</thinking>
-
 # Customer Bill Pay - Help Guide
 ## Purpose
 The "Customer Bill Pay" form is used for customers to pay their bills. This form collects information from the customer to process a payment.

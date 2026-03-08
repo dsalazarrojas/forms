@@ -1,11 +1,3 @@
-<thinking>
-We are creating a form for collecting information from potential Tech Expo booth sponsors. The purpose of this form is to gather general information about the sponsor, logo and payment details, contact information, confirmation of sponsorship, and terms and conditions.
-
-To ensure that we do not receive duplicate applications from the same sponsor, we will be checking for duplicate records in our database. Please do not submit the same application multiple times.
-
-This form is designed to be completed by potential sponsors who are interested in being a part of the Tech Expo. The information collected will be used to process their sponsorship request and facilitate their participation in the event.
-</thinking>
-
 # Tech Expo Booth Sponsorship Application - Help Guide
 
 ## Purpose

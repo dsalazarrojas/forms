@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Stripe Meal Kit Delivery Subscription Form - Help Guide
 =================================================
 

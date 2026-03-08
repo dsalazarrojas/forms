@@ -1,8 +1,3 @@
-<thinking>
-The form is designed to collect information about a stop payment request, which is a request to halt further automatic payments from a user's account. This form will likely be used by users who need to temporarily or permanently stop payments on their accounts, perhaps due to a dispute or a change in financial situation. 
-The form will help you to identify the relevant information and ensure you're making the right decision about stopping payments.
-</thinking>
-
 # stop_payment_request_form - Help Guide
 ## Purpose
 This form is used to request to halt further automatic payments from a user's account, helping you to temporarily or permanently stop payments in cases like disputes or changes in financial situation.

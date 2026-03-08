@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information related to a nail stripes invoice request. It's intended to be used for internal purposes, such as tracking and managing orders. To ensure the form is used correctly, please note that it's meant to be filled out by a single user at a time. 
-
-This form contains various fields that are required or optional, depending on the field type. Please make sure to fill out all required fields before submitting the form. 
-
-Please ensure that the form is not filled out multiple times by the same user. If you need to update an existing order, please use the existing instance of the form or contact the relevant staff member.
-</thinking>
-
 # nail_stripes_invoice_request_form - Help Guide
 ## Purpose
 This form is designed to collect information related to a nail stripes invoice request. It's used for internal purposes, such as tracking and managing orders.

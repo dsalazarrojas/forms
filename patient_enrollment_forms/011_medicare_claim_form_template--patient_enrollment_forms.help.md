@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medicare Claim Form Template - Help Guide
 
 ## Purpose

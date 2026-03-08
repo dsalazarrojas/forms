@@ -1,10 +1,3 @@
-<thinking>
-This template is designed to collect information from a patient during a doctor visit. The primary purpose of this form is to gather essential details that help the healthcare provider understand the patient's background, medical history, and any relevant information that may impact their treatment. 
-
-This form should only be used for patients who have not already been registered or documented within our system. If a patient is already in our database, please use the existing patient registration form instead. 
-
-</thinking>
-
 # Doctor Visit Form Template - Help Guide
 ## Purpose
 The Doctor Visit Form Template is a form designed to collect information from patients during a doctor visit. The form gathers essential details that help healthcare providers understand the patient's background, medical history, and any relevant information that may impact their treatment.

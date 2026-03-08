@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll analyze the form purpose and structure. This "figurine_pre_order_form" is likely a form for customers to place pre-orders for figurines, collecting information from customers such as company details, product type preferences, quantity, contact information (email and phone), order comments, order confirmation, customer satisfaction, and figurine details selection. This form likely serves as a front-end gateway for customers to provide their input for the order processing system. The form's structure seems to be designed for flexibility, allowing customers to choose from multiple options for various fields. I'll make sure to cover all the fields and their purposes in the help guide.</thinking>
-
 # figurine_pre_order_form - Help Guide
 
 ## Purpose

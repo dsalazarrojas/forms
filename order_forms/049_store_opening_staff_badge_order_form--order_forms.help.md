@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a crucial tool for staff members of a store to request store opening badges. The form collects essential information about the staff member, including their personal details, shipping information, and payment method. This form ensures that the store can accurately process and track staff badge requests, making it a vital part of the store's operational workflow.
-
-Before proceeding, ensure that you are requesting a store opening badge for a valid purpose and that you have not already submitted a request for the same badge. Duplicate requests can lead to unnecessary delays and complications.
-
-</thinking>
-
 # store_opening_staff_badge_order_form - Help Guide
 ## Purpose
 The store_opening_staff_badge_order_form is designed to facilitate staff members in requesting store opening badges for themselves. This form ensures that the store has accurate and up-to-date information about staff badge requests, making it easier to process and manage these requests.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a part of a larger system for managing native plant sales. It captures information about the sale, including the customer's details, plant selection, and order status. The form has 25 fields, each with a specific purpose and requirements. To avoid duplication of effort, we should ensure that all required fields are filled out correctly before proceeding. The form is likely to be used by sales representatives to record and manage native plant sales efficiently.
-</thinking>
-
 # Native Plants Sale - Help Guide
 ## Purpose
 The Native Plants Sale form is designed to record and manage information about native plant sales, including customer details, plant selection, and order status.

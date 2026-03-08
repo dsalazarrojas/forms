@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Peripheral Vascular Emergency Assessment - Help Guide
 ## Purpose
 The Peripheral Vascular Emergency Assessment form is designed to collect information about a patient's medical history, contact information, and current symptoms and conditions. This form is intended for emergency situations where a quick and accurate assessment of the patient's situation is crucial.

@@ -1,5 +1,3 @@
-<thinking>...This form is used for setting up direct deposit for payroll processing. It's a crucial form that requires accurate information for secure and timely payment processing. Ensure you fill it out carefully. Please note that each field's relevance is checked to prevent duplication or missing information...</thinking>
-
 # Direct Deposit Setup Consent Form - Help Guide
 ## Purpose
 The Direct Deposit Setup Consent Form is used to set up direct deposit for payroll processing. It requires accurate and correct information to ensure secure and timely payment processing.

@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to capture advertising information for a souvenir booklet. This form should only be filled out by businesses or individuals who wish to advertise their products or services in the souvenir booklet. To prevent duplicate advertising submissions, only one advertisement per business/service will be accepted. Advertisements will be reviewed for approval before being published in the souvenir booklet.
-</thinking>
-
 # Souvenir Booklet Advertising Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>Internal reasoning block: This form is designed to collect critical information from patients or their representatives during urgent care visits. It ensures that all necessary details are captured to provide proper care. This form can be filled out by the patient or their representative to ensure the most up-to-date information is provided.
-
-Please note that some of the fields may be optional but are still relevant to the medical history and treatment of the patient.
-
-This form should only be filled out if the patient has a genuine urgent care need and not for administrative or testing purposes.</thinking>
-
 # urgent_care_patient_information - Help Guide
 ## Purpose
 This form is intended to collect critical information from patients or their representatives during urgent care visits.

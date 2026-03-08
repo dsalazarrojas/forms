@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Travel Payment Form - Help Guide
 
 ## Purpose

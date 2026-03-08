@@ -1,7 +1,3 @@
-<thinking> This form is used for customers to request quotes for seasonal display installation. It is likely used by sales team members to gather information from customers to create quotes. Each field should be filled in accordingly to provide relevant details for a proper quote.
-
-</thinking>
-
 # Seasonal Display Installation Quote Request Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers to create accurate quotes for seasonal display installation. Please fill out this form with as much detail as possible to ensure that our team can provide you with the best possible quote.

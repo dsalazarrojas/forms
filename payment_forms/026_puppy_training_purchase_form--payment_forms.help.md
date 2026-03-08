@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the purchase of a puppy training service. This form guides the user through the necessary steps to provide all required details for a smooth transaction. The form is designed to be easy to use and understand, with clear labels and concise explanations for each field. Please review the form carefully to ensure that all necessary information is provided.
-</thinking>
-
 # puppy_training_purchase_form - Help Guide
 ## Purpose
 This form is used to record and process payments for puppy training services. It gathers essential details from the user, including payment method, client details, and schedule preferences.

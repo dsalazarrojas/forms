@@ -1,9 +1,3 @@
-<thinking>
-
-This form is a standardized template for ordering insurance policies, aiming to ensure that all necessary information is captured to facilitate efficient processing and communication. This guide will cover the form's purpose, step-by-step instructions, and explanations of each field to aid users in completing the form accurately and efficiently.
-
-</thinking>
-
 # insurance_policy_order_form - Help Guide
 ## Purpose
 The insurance policy order form is a crucial document used to collect client and policy information for new insurance policy orders. Its primary purpose is to ensure that all relevant details are captured during the policy ordering process, facilitating smooth communication and policy execution.

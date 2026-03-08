@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place custom orders for heat transfer patches. It is a form that captures all the necessary information for the order to be processed, from customer contact information to order details. This form ensures that all required information is captured to avoid any errors or delays in the order process.
-</thinking>
-
 # custom_heat_transfer_patch_order_form - Help Guide
 ## Purpose
 This form is used to capture all the necessary information for a custom heat transfer patch order.

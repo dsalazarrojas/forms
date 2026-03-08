@@ -1,19 +1,3 @@
-<thinking>
-This form is designed to collect and track the status of diagnostic imaging refunds. It is intended for use by facilities that provide diagnostic imaging services to patients. The form is meant to be completed by the facility staff or billing department, and it will help them to keep track of the status of refunds for each patient.
-
-To ensure that the form is completed correctly, it is recommended to check the following before proceeding:
-
-* The facility name and ID should match the actual facility that provided the imaging services to the patient.
-* The patient's name and ID should match the patient's information on file.
-* The imaging type should match the type of imaging service provided to the patient.
-* The refund status should match the current status of the refund for the patient's imaging services.
-
-This form is not intended to be used for any other purpose than checking the status of diagnostic imaging refunds.
-
-Please note that completing this form is a mandatory process for facilities that provide diagnostic imaging services, and failure to do so may result in errors or delays in processing refunds.
-
-</thinking>
-
 # Diagnostic Imaging Refund Status Check - Help Guide
 ## Purpose
 The Diagnostic Imaging Refund Status Check form is used to track and update the status of refunds for diagnostic imaging services provided to patients.

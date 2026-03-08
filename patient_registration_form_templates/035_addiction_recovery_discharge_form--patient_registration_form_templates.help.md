@@ -1,8 +1,3 @@
-<thinking>
-The form is intended to document the discharge process of patients from an addiction recovery program, ensuring that they have achieved the necessary goals and completed any required steps, and outlining the aftercare process to be followed after leaving the program. This guide will walk you through the form fields to ensure you understand what information is needed and what steps to follow.
-
-</thinking>
-
 # Addiction Recovery Discharge Form - Help Guide
 ## Purpose
 The Addiction Recovery Discharge Form is used to document the discharge process of patients from an addiction recovery program. It ensures that patients have met the necessary goals and completed any required steps, and outlines the aftercare process to be followed after leaving the program.

@@ -1,9 +1,3 @@
-<thinking>
-- This form is intended to collect information from customers after a purchase.
-- Its purpose is to gather the customer's details and payment information for a single item or service purchased.
-- The form is designed for e-commerce applications, where customers can input their details and payment information for a smooth and secure transaction process.
-</thinking>
-
 # E Commerce Single Purchase Payment Form - Help Guide
 ## Purpose
 This form is used to collect information from customers after a purchase, ensuring accurate and efficient processing of their payment and order details.

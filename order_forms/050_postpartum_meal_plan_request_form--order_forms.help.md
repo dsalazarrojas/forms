@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their postpartum experience and preferences for support during this period. The main goal is to understand the user's needs and preferences for meal planning and support. This form is intended to be used by healthcare providers or support teams to tailor their services to the individual user's requirements.
-</thinking>
-
 # Postpartum Meal Plan Request Form - Help Guide
 ## Purpose
 The Postpartum Meal Plan Request Form is a tool designed to collect information from users about their postpartum experience and preferences for support during this period. It helps healthcare providers or support teams tailor their services to the individual user's requirements.

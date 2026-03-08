@@ -1,7 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and requirements of the Medical Exhibition Registration Form. This form is designed to collect essential information from exhibitors participating in a medical exhibition. It ensures that all necessary details are collected correctly, which may affect the exhibitor's ability to participate in the exhibition. Please ensure that you provide accurate and relevant information in this form to avoid any issues with your registration. 
-</thinking>
-
 # Medical Exhibition Registration Form - Help Guide
 ## Purpose
 The Medical Exhibition Registration Form is a critical document that helps us understand your exhibition details and ensures that you have the necessary information required to participate in the exhibition.

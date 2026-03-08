@@ -1,14 +1,3 @@
-<thinking>
-
-This form is designed to capture essential information for elderly care check-out purposes. It is meant to be used when discharging patients from a care facility, such as hospitals or nursing homes. The form will be reviewed by healthcare professionals to ensure accurate and comprehensive care. Before starting, please ensure that you have the necessary permissions and approvals from the patient's family or guardians if applicable.
-
-To complete this form, follow the steps below:
-
-1. Gather all necessary information and supporting documents for the patient.
-2. Fill out the form with accurate and up-to-date information.
-
-</thinking>
-
 # Elderly Care Check Out Form - Help Guide
 ## Purpose
 The Elderly Care Check Out Form is used to document the details of a patient's care during their stay in a facility. This information will be reviewed by healthcare professionals to ensure continuity of care and to provide accurate information to the patient's next care provider.

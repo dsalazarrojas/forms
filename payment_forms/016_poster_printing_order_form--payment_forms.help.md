@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form appears to be for customers to provide their order details for poster printing services. It likely checks for customer information, size and design preferences, quantity, and payment information. This form might be used for internal processing and order management purposes. To avoid duplication, ensure you've reviewed and followed the previous order form before submitting this one.
 
 </thinking>

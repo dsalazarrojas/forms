@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for ordering nail strips inventory. The user needs to select the category and subcategory of the order, enter the order date, description, and status. They can also add notes and select the priority level of the order. This form is likely used by inventory management teams or administrators to track and manage nail strips orders. Before filling out this form, make sure that you are authorized to place orders and that the necessary information is accurate and up-to-date.
-</thinking>
-
 # Nail Strips Inventory Order Form - Help Guide
 ## Purpose
 The "Nail Strips Inventory Order Form" is used to order and track nail strips inventory. This form helps inventory management teams or administrators to categorize, describe, and set status for each order.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to order tournament award ribbons in various styles and quantities. The form collects relevant information for payment and shipping purposes, including payment method, date, and contact details. It's crucial to ensure that all required fields are filled out to avoid any issues with the order.
-
-To avoid duplicates and ensure accurate ordering, please review the form carefully and fill in the required fields only once. If you're unsure about any field, please refer to the field explanations below.
-
-This guide will walk you through each field of the form to help you understand what information is required and what you need to input.
-</thinking>
-
 # Tournament Award Ribbon Color Choice Order Form - Help Guide
 ## Purpose
 This form is used to order tournament award ribbons for your event. Please provide the necessary details to complete your order.

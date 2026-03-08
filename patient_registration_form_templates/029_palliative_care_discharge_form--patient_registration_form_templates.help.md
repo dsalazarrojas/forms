@@ -1,7 +1,3 @@
-<thinking>
-This form, "palliative_care_discharge_form," is used for the discharge process of patients receiving palliative care. This form is likely to be completed by healthcare professionals to document the patient's status, medical history, and discharge plans. To ensure relevance, please confirm that this form is indeed for use in a palliative care setting and not for other purposes. Before proceeding, please review the form's fields to avoid duplication of effort.
-</thinking>
-
 # palliative_care_discharge_form - Help Guide
 ## Purpose
 The "palliative_care_discharge_form" is used to document the discharge process of patients receiving palliative care.

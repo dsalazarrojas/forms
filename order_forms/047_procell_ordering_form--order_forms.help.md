@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for customer orders, which is a critical function for any business. The form is called "procell_ordering_form" and is likely used in a business-to-customer or business-to-business context. 
-
-Before diving into the form's details, it's essential to ensure that the form's fields are filled out correctly to avoid duplication of orders. It's recommended to review the form's fields carefully before submission to guarantee accurate and complete data entry. The form's fields are designed to collect various information regarding the customer, order, and order details. The form has 8 fields which are: Customer Name, Customer Email, Customer Phone, Order Date, Order Time, Order Type, Order Details, and Customer Address.
-</thinking>
-
 # procell_ordering_form - Help Guide
 ## Purpose
 The procell_ordering_form is designed to collect information for customer orders, allowing you to efficiently manage and process orders.

@@ -1,10 +1,3 @@
-<thinking>
-This form is used to collect information from clients for landscaping services provided. 
-The form requires the client's name, service type, start and end dates of the project, the amount to be paid, and the payment method. 
-It also provides an option for clients to input any additional notes they want to provide to the landscaping team. 
-This form ensures that all relevant information is collected and recorded for accurate billing and communication purposes. 
-</thinking>
-
 # Landscaping Payment Form - Help Guide
 ## Purpose
 This form is used to collect information from clients for landscaping services provided.

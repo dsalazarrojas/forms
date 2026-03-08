@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow customers to input their information for organic product delivery. It will be used to gather customer data and order details for order processing and delivery purposes. Before starting, please review the form carefully and ensure that you have all necessary information ready. Note that some fields may have specific instructions or requirements for completion. Please only submit the form if you are ready to place an order for an organic product.
-</thinking>
-
 # Organic Product Delivery Form - Help Guide
 ## Purpose
 The Organic Product Delivery Form is a tool to help customers place an order for an organic product. This form requires basic customer information and order details. It ensures accuracy and efficiency in the ordering process, allowing for seamless processing and delivery of the organic product.

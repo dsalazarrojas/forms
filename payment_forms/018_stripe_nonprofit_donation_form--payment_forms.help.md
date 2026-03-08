@@ -1,9 +1,3 @@
-<thinking>... internal reasoning block to check if the form purpose and fields are clear and consistent with the provided YAML data ...
-
-The Stripe Nonprofit Donation Form appears to be designed for non-profit organizations to collect donations from users. The form has two main sections: donation amount and donation frequency. The donation amount section is optional, allowing users to choose a one-time or first-time donation amount. The donation frequency section is required, and users can select either a first-time or recurring donation frequency. The form also has specific fields for first-time and recurring donation amounts, which depend on the user's chosen frequency.
-
-... </thinking>
-
 # Stripe Nonprofit Donation Form - Help Guide
 ## Purpose
 The Stripe Nonprofit Donation Form is designed for non-profit organizations to collect donations from users. This form allows users to choose their donation amount and frequency, providing flexibility for one-time and recurring donations.

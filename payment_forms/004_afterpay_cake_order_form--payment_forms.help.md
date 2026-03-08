@@ -1,21 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers who are interested in purchasing a cake through the Afterpay payment method, which allows them to pay for the cake in installments. This form will guide you through the required and optional fields to ensure that the cake order is complete and accurate. Please fill out this form carefully, as it is crucial for us to understand your preferences and requirements.
-
-The Afterpay Cake Order Form is designed to be completed by individuals who are purchasing a cake from our bakery. Please ensure that the information provided is accurate and up-to-date to avoid any errors or misunderstandings.
-
-This form consists of several pages with different fields that are required and optional. Please go through each page and fill in the relevant information carefully.
-
-This form is divided into several sections:
-
-1. Customer Information: This includes personal details such as name, contact number, and email address.
-2. Cake Details: This section is where you can provide information about the cake, including size, flavor, and frosting type.
-3. Cake Customization: This section allows you to specify any special instructions or messages for the cake.
-4. Delivery Information: This section is where you can choose the delivery method and provide the address where the cake should be delivered.
-
-Please note that some fields are required, while others are optional. Ensure that you fill out all required fields before submitting the form.
-
-</thinking>
-
 # Afterpay Cake Order Form - Help Guide
 ## Purpose
 The Afterpay Cake Order Form is designed to gather information from customers who are interested in purchasing a cake through the Afterpay payment method. This form guides you through the process of ordering a cake, including providing personal details, cake preferences, and delivery information.

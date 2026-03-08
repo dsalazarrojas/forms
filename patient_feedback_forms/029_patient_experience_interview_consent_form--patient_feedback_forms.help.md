@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for patients to provide their consent for an interview to be conducted by a healthcare professional. The purpose of this form is to ensure that patients are aware of the interview process and have given their permission to be interviewed. This form should only be used for patients who are scheduled for an interview. 
-</thinking>
-
 # Patient Experience Interview Consent Form - Help Guide
 ## Purpose
 The Patient Experience Interview Consent Form is used to obtain consent from patients for an interview to be conducted by a healthcare professional. This form is an essential part of the patient's record and ensures that patients are aware of the interview process and have given their permission to be interviewed.

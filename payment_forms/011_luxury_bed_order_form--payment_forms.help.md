@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to help luxury bed customers provide their order details and payment information to complete a purchase. The purpose of this form is to collect customer and order data in a simple and structured way. This form is not affiliated with any form platform and is an original adaptation of a form created using AI. It's released under CC BY 4.0 and can be used, modified, and even sold freely. 
-
-This form is intended to be used for customers who want to order luxury beds. It is not for customers who are looking to return or cancel an order, or for any other purpose not related to placing an order for a luxury bed. Please make sure to fill out this form carefully and only if you are ready to place an order. 
-
-Please note that this form is only for one page, so you will not need to navigate through multiple pages to complete it. 
-
-Before proceeding, please make sure you have all necessary information ready to fill out this form accurately. 
-</thinking>
-
 # Luxury Bed Order Form - Help Guide
 ## Purpose
 This form is designed to help luxury bed customers provide their order details and payment information to complete a purchase.

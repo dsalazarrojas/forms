@@ -1,5 +1,3 @@
-<thinking>Internal note: The purpose of this form is to collect demographic and medical information from patients to facilitate the intake process for counseling services. This form is designed to be completed by patients themselves, either in-person or online. The form should not be used for duplicate entries, as it is intended to be a one-time submission. It is essential that the form be filled out accurately and completely to provide the necessary information for proper care and follow-up.</thinking>
-
 # Counseling Intake Form - Help Guide
 ## Purpose
 The Counseling Intake Form is used to collect necessary demographic and medical information from patients for the purpose of facilitating the intake process for counseling services.

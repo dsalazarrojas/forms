@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect donations and information from donors for the Mountain Rescue organization. It will allow donors to specify their donation amount, payment type (Donations, Donation, or Payment), frequency of donation (One-Time, Recurring, or Other), payment method (Bank Transfer, PayPal, Credit, or Cash), and other details such as the donation date, donor's personal details, and contact information. This form is a crucial tool for the organization to manage donations and interactions with donors efficiently.
-
-</thinking>
 # Mountain Rescue Donation Form - Help Guide
 ## Purpose
 The Mountain Rescue Donation Form is designed to collect donations and information from donors for the Mountain Rescue organization. This form helps us understand your contribution and provides a platform to interact with our team.

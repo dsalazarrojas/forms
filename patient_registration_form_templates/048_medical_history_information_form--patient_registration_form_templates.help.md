@@ -1,21 +1,3 @@
-<thinking>
-This is a help guide for the "medical_history_information_form" which is used to collect important information about a patient's medical history. This form is designed to gather details such as contact information, medical history, allergies, medications, medical conditions, and medical procedures.
-
-Before proceeding, please ensure that you have reviewed the form carefully and understand its purpose. This form should only be used for patients who have a medical background, and not for patients who are new to the healthcare system.
-
-To complete this form, you will need to provide the following information:
-
-1.  **Contact Information** (`contact_info`, text): Enter the patient's contact information, including their name, address, and any other relevant details.
-2.  **Medical History** (`medical_history`, text): Provide a brief description of the patient's medical history.
-3.  **Allergies** (`allergies`, select_multiple): Indicate whether the patient has any allergies or not.
-4.  **Medsications** (`medications`, select_multiple): Indicate whether the patient is taking any medications or not.
-5.  **Medical Conditions** (`medical_conditions`, select_one): Choose the medical condition(s) that applies to the patient.
-6.  **Medical Procedures** (`medical_procedures`, select_multiple): Indicate whether the patient has undergone any medical procedures or not.
-7.  **Medical History Date** (`medical_history_date`, date): Enter the date of the patient's medical history.
-8.  **Medical History Time** (`medical_history_time`, time): Enter the time of the patient's medical history.
-
-</thinking>
-
 # medical_history_information_form - Help Guide
 ## Purpose
 This form is used to collect important information about a patient's medical history.

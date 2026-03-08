@@ -1,7 +1,3 @@
-<thinking>
-To confirm, I will be creating a user-facing help guide for the "Custom Cufflink Order Form" in Markdown format. This form is likely used for customers to place orders for custom cufflinks. The form might ask for customer information, order details, and possibly other options like gift wrapping or custom messages. I will follow the provided YAML fields to ensure the guide is clear and concise. I will also check for any potential issues like required fields or duplicate labels.
-</thinking>
-
 # Custom Cufflink Order Form - Help Guide
 ## Purpose
 This form is used to place custom orders for cufflinks. Fill out the form with your details to ensure your order is processed correctly.

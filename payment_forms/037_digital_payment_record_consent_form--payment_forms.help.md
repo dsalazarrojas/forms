@@ -1,13 +1,3 @@
-<thinking> 
-This form is used to record digital payment transactions and obtain user consent for the same. It collects user input, contact details, authorization, date and time of the transaction, and digital payment record consent. 
-
-The form is divided into several sections: User Input, Contact Details, Authorization, Date and Time of Transaction, and Digital Payment Record Consent. 
-
-The form is designed to be completed by users to accurately record and track digital payments, ensuring accurate and timely payment records. 
-
-To avoid duplication and ensure compliance, ensure you have not submitted this form for the same transaction ID.
-
-</thinking>
 # Digital Payment Record Consent Form - Help Guide
 ## Purpose
 The Digital Payment Record Consent Form is used to record and confirm digital payment transactions. It is designed to collect user input, contact details, and other relevant information associated with the payment.

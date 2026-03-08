@@ -1,8 +1,3 @@
-<thinking>
-This form is used by individuals to make a donation to the Zero Waste Initiative, a program aimed at reducing waste in the community. The form asks for basic contact information, such as name and email, as well as details about the donation, including the amount and frequency of the donation. The form is likely to be used by people who want to support the initiative, perhaps in the form of regular contributions.
-
-To avoid duplication, this form might be triggered by certain actions or events, such as when a user reaches a certain milestone or completes a specific task. It is crucial to fill out the form accurately to ensure that the donation is properly processed and accounted for.</thinking>
-
 # Zero Waste Initiative Donation Form - Help Guide
 ## Purpose
 This form is designed to allow individuals to make a donation to the Zero Waste Initiative. Please fill out the form with your information and preferences to support this community-driven project.

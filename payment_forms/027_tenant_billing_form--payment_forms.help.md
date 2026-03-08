@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect billing information from tenants, allowing landlords to efficiently manage rent payments and related details. This form will be used to input data for a specific tenant, and it is required for the landlord to select a payment method and payment status. The form is divided into 12 fields, including contact information, payment details, and other relevant data.
-</thinking>
-
 # Tenant Billing Form - Help Guide
 ## Purpose
 The Tenant Billing Form is used to collect and manage billing information from tenants, including rent amount, payment method, payment status, and other relevant details.

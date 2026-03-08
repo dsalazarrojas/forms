@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this Macro Coaching Questionnaire form is to gather information about an individual's macro-nutrient goals and dietary preferences. This form is designed to collect data on the client's macro-nutrient intake, workout frequency, and specific goals related to macros and weight. The form will help coaches provide personalized guidance and support to clients in achieving their fitness and nutrition objectives.
-
-Before starting, please ensure that you have not filled out this form previously. If you are a returning client, please update your information accordingly.
-
-This form is divided into several sections, each focusing on a specific area of interest. Please follow the instructions below to complete each section accurately and thoroughly.
-
-</thinking>
-
 # Macro Coaching Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information about your macro-nutrient goals and dietary preferences. This data will help your coach provide you with personalized guidance and support.

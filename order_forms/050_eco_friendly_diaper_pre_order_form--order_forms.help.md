@@ -1,7 +1,3 @@
-<thinking>
-This form is meant for customers to pre-order eco-friendly diapers. It captures the necessary information for shipping and payment details. The form is divided into several sections, each corresponding to a different aspect of the pre-order process.
-</thinking>
-
 # Eco Friendly Diaper Pre Order Form - Help Guide
 
 ## Purpose

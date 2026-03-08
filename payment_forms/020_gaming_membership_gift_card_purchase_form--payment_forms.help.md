@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a user-facing help guide for the "gaming_membership_gift_card_purchase_form" form. This form is used for purchasing a gift card for a gaming membership, and the form fields are designed to gather information for payment processing and delivery. To create this guide, I will follow the provided YAML structure and create a concise and practical explanation for each field.</thinking>
-
 # gaming_membership_gift_card_purchase_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect order details for a School Carnival event. The form is designed to gather information about the orderer's shipping address, payment details, and any order comments. This form is likely to be used by event organizers or staff to collect and manage orders for wristbands to be distributed during the School Carnival event. 
-</thinking>
-
 # School Carnival Wristband Order Form - Help Guide
 ## Purpose
 This guide will walk you through the completion of the School Carnival Wristband Order Form. The form is designed to collect order details for wristbands to be distributed during the School Carnival event.

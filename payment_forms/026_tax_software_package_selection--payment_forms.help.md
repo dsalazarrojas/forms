@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be a selection form for choosing a tax software package. It is likely used to gather information from users to determine which software package best suits their needs.
-The form has multiple fields, including a software package selection, customer details, and package details. The "Customer Details" and "Package Details" sections seem to be used to collect additional information relevant to the selected software package.
-The form is designed to be completed by a person, as indicated by the "email" field. The "Package Details" sections appear to be optional, but it is unclear why multiple fields with the same label are present.
-The form is likely used for internal purposes within an organization, as there are many fields with no clear indication of their purpose. The form may be used for internal record-keeping or reporting.
-</thinking>
-
 # Tax Software Package Selection - Help Guide
 ## Purpose
 This form is used to select and configure a tax software package for a customer. It is designed to gather relevant information about the customer and the desired software package.

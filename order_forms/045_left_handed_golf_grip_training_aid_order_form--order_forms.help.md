@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from customers who are interested in ordering a training aid for left-handed golf grip technique. The form is likely used by sales representatives or customer support staff to collect necessary details from customers, such as their preferred training aid type and shipping address. This information will be used to process their order and provide relevant support.
-
-Before filling out this form, ensure you are ordering the correct training aid for your specific needs. If you are unsure about the product or have any questions, please don't hesitate to contact us.
-
-To complete this form accurately and efficiently, please follow the instructions below.
-
-</thinking>
-
 # left_handed_golf_grip_training_aids_order_form - Help Guide
 ## Purpose
 

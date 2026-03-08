@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist customers in filling out the CardConnect Furniture Purchase Order Form, which is used to process customer orders for CardConnect Furniture. The form collects essential customer information, product details, and payment information to facilitate a smooth and secure purchasing experience. 
-</thinking>
-
 # CardConnect Furniture Purchase Order Form - Help Guide
 
 ## Purpose

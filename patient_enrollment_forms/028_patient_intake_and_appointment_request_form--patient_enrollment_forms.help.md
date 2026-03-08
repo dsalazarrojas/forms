@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning block: This form is designed to collect patient information and schedule appointments with healthcare providers. It is intended for patients to submit their personal details and preferences for a medical consultation. It is not a duplicate of other forms, as it is focused on the specific needs of new patients. Please make sure to complete all required fields to ensure proper processing of your request... </thinking>
-
 # Patient Intake And Appointment Request Form - Help Guide
 ## Purpose
 The Patient Intake And Appointment Request Form is designed to gather essential information from patients who are new to the service or require a consultation. This form helps healthcare providers to understand the patient's needs and schedule an appointment accordingly.

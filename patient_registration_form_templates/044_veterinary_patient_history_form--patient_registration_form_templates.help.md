@@ -1,7 +1,3 @@
-<thinking>
-The form "Veterinary Patient History Form" is likely used for recording and maintaining patient information in a veterinary setting. The form likely aims to gather essential details about a patient's identification, breed, age, weight, and medical history. This form might be used by veterinary professionals to ensure accurate and comprehensive patient data for medical evaluation and treatment. Before proceeding, please ensure that this form is not already completed or duplicated for the same patient, as it may lead to unnecessary data redundancy and errors in patient care.
-</thinking>
-
 # Veterinary Patient History Form - Help Guide
 ## Purpose
 The Veterinary Patient History Form is a document used to collect and record essential information about a patient's identity, medical history, and current condition. This form helps veterinary professionals to gather detailed insights into a patient's breed, age, weight, and primary diagnoses, enabling accurate and effective treatment.

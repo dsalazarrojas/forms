@@ -1,5 +1,3 @@
-<thinking>...This form is designed to evaluate the process of discharging a patient from the hospital, taking into account several key aspects of the patient's stay. This guide will walk the user through the necessary steps to complete the form, which is crucial in ensuring that the patient's experience is satisfactory and meets the hospital's quality standards. The form should only be completed for patients who have been discharged from the hospital, and it's essential to verify that the patient's information is accurate and up-to-date before filling out the form. Please ensure that all required fields are filled out completely and accurately, as this information will be used to improve patient care and services. Before proceeding, please make sure you have the patient's consent to complete this form, as it contains sensitive information about their care and stay.</thinking>
-
 # Hospital Patient Discharge Process Evaluation Form - Help Guide
 ## Purpose
 This form is designed to assess the quality of the patient's hospital experience, especially during the discharge process. Your input will help us identify areas for improvement and enhance patient care.

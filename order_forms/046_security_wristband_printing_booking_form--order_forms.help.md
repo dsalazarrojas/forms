@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to book a Security Wristband printing service. The purpose of this form is to collect information from the user to fulfill their wristband printing request. This form should only be filled out once, as each submission is considered a separate booking. Please ensure that you have reviewed the form carefully and filled it out accurately before submitting.
-
-</thinking>
-
 # Security Wristband Printing Booking Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be designed for customers to provide payment details and feedback after receiving a car detailing service. It likely aims to ensure that the customer completes a payment and provides feedback on the service quality and any additional requests or comments. The form seems to be used for both online and offline payments, with options for various payment methods. The "promotional Code" field and "payment_date" field suggest that there may be promotions or discounts available, and the payment date might be used to keep track of payment deadlines.
-
-</thinking>
-
 # Car Detailing Payment Form - Help Guide
 ## Purpose
 This form is designed to help customers complete their payment and provide feedback on the car detailing service received. It captures essential details such as customer information, service rendered, payment method, and feedback.

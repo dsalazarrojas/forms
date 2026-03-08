@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a reserved parking spot reservation. The form is divided into several sections: "Reservation Details", "Additional Guest Details", "Parking Details", "Payment Details", "Guest Information", and "Additional Information". Each section asks for specific information such as reservation dates, guest name and contact information, payment method and amount, and spot size.
-The form requires users to complete all fields as indicated by the "required" tag in the YAML configuration.
-</thinking>
-
 # rv parking spot reservation form - Help Guide
 ## Purpose
 The rv parking spot reservation form is designed to collect information from users for a reserved parking spot.

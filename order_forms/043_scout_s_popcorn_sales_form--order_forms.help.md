@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is intended for Scout leaders and parents to facilitate ordering popcorn for their troops. The form is used to collect relevant information for each order, including the name of the scout, order date, time, type of popcorn, quantity, and more. The form should not be used for any other purpose and is designed for internal use only.
-
-</thinking>
-
 # Scout's Popcorn Sales Form - Help Guide
 ## Purpose
 This form is designed for Scout leaders to order popcorn for their troops. It gathers essential information about each order, such as the Scout's name, order details, and contact information.

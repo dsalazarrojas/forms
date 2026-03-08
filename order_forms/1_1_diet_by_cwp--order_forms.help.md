@@ -1,7 +1,3 @@
-<thinking>
-The form "1:1 Diet By CWP" is used to record customer orders. It captures customer information, order details, and payment information for efficient processing and delivery. This form is designed to provide a structured way of collecting all necessary data in a single submission, eliminating duplication and miscommunication. The form's sections allow users to enter their contact information, order specifications (product name, quantity, and price), packaging, delivery preferences, and payment details. The order total is automatically calculated based on the submitted data.
-</thinking>
-
 # 1:1 Diet By CWP - Help Guide
 ## Purpose
 The "1:1 Diet By CWP" form is used to collect information for customer orders, ensuring accurate and efficient processing and delivery of products.

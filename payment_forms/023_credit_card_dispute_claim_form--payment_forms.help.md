@@ -1,18 +1,3 @@
-<thinking>
-The form's purpose is to collect information for a credit card dispute claim, helping customers to report issues with their billing address, amount of the transaction, and other related details. This form should not be used for any other purpose, such as a general customer inquiry.
- 
-This guide is intended for customers who are aware of a discrepancy in their payment history. Please ensure you have not submitted a duplicate claim before proceeding.
- 
-Please review the following steps carefully:
- 
-- Ensure all required fields are populated with accurate and valid information.
-- Double-check all provided details for accuracy.
-- Review the supporting documentation for completeness and clarity.
- 
-This form will guide you through the process of filing a credit card dispute claim, and the following fields are used to gather the necessary information for this purpose.
- 
-</thinking>
-
 # Credit Card Dispute Claim Form - Help Guide
 
 ## Purpose

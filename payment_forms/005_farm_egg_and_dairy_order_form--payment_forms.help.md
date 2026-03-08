@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers for farm egg and dairy orders, ensuring that customers can easily place their orders and provide necessary details for processing. 
-This form is designed to gather customer information, order details, and payment information in a structured and organized manner. 
-Please ensure that this form is not duplicated or used for any other purpose than intended before proceeding.
-</thinking>
-
 # Farm Egg And Dairy Order Form - Help Guide
 ## Purpose
 The Farm Egg And Dairy Order Form is designed to collect information from customers for farm egg and dairy orders. This form is used to gather the necessary details to process the order efficiently.

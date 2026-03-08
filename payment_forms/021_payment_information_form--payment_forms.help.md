@@ -1,8 +1,3 @@
-<thinking>
-This form is used to collect payment information from users. The purpose of this form is to gather essential details related to payment, which may include shipping information and other relevant details. The payment details collected will be used for processing payments and other financial transactions. 
-To avoid duplication of work, this form should only be used for payment information, and users should not attempt to fill out non-relevant fields. 
-</thinking>
-
 # Payment Information Form - Help Guide
 ## Purpose
 This form collects essential payment information from users, including details about the payment name, shipping address, mobile number, and payment mode, among others.

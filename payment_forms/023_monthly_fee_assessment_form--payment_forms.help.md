@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assess monthly fees for various purposes such as membership, subscription, or other types of recurring payments. It is intended to be used by users to provide information about the form's title, category, description, assigned tool, month of assessment, year of assessment, and frequency of payment. It appears that there is a duplicated field "form_frequency" which could potentially be an error in the form design and may not be intended for end-users.
-</thinking>
-
 # Monthly Fee Assessment Form - Help Guide
 ## Purpose
 The form is used to calculate and record monthly fees for different categories and purposes. It is crucial to fill in accurate and detailed information to ensure correct assessments.

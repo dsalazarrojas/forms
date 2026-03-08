@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture shipping preferences and information for e-commerce transactions. It is used to communicate shipping details with customers and retailers. The form includes options for shipping method, speed, cost, contact method, payment terms, and delivery details. It also includes fields for customer and retailer notes, emails, and phone numbers.
-
-The form is intended for both customers and retailers to provide their preferences and information for shipping purposes.
-
-This guide will walk you through each field of the form to ensure you complete it accurately.</thinking>
-
 # E-Commerce Shipping Communication Form - Help Guide
 ## Purpose
 This form is used to capture shipping preferences and information for e-commerce transactions.

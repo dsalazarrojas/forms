@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Grocery Delivery Form - Help Guide
 
 ## Purpose

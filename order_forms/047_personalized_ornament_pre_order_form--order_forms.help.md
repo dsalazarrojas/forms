@@ -1,8 +1,3 @@
-<thinking>
-The form is likely intended for customers or customers-to-be to provide their personal and order-related information for a personalized ornament order. This form would help the business process and prepare for the order fulfillment. It might be used by a company that sells customized ornaments, possibly for special occasions or events.
-The form could be used for both individual and bulk orders, with the ability to select the type of ornament and its size.
-</thinking>
-
 # Personalized Ornament Pre Order Form - Help Guide
 
 ## Purpose

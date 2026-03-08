@@ -1,5 +1,3 @@
-<thinking>... thinking...</thinking>
-
 # Pest Control Service Check In Form - Help Guide
 ## Purpose
 The Pest Control Service Check In Form is a tool used to record and verify important information about pest control services provided to customers. This form helps to ensure accurate and consistent data collection, making it easier to manage and analyze customer interactions. By filling out this form, customers can provide their contact information, appointment details, and service requirements, which will help our staff to provide timely and efficient services.

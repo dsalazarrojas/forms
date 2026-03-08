@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect donations for a public health project from end users, ensuring that all required information is accurately captured for proper processing and follow-up. This form is designed to be simple, yet comprehensive, gathering essential details about the donor's preferences and the project being supported. 
-</thinking>
-
 # public_health_project_donation_form - Help Guide
 ## Purpose
 The public_health_project_donation_form is used to collect donations for a public health project. The form is used to gather information about the donor, the donation amount, and the project being supported.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is part of a larger system for monitoring patient health. It's used to set up alarm systems for patients, which will trigger alerts when certain conditions are met. This form is likely used by healthcare professionals to configure the alarm system for individual patients, taking into account their specific needs and requirements. It's possible that this form is used in conjunction with other forms or systems to gather more information about the patient or to set up more complex alarm systems.
-
-Before filling out this form, make sure that you have all the necessary information and permissions to proceed. This form is not intended to be used for patients themselves, but rather for healthcare professionals setting up alarm systems for patients.
-
-</thinking>
-
 # Health Monitoring Alarm Setup - Help Guide
 ## Purpose
 This form is used to set up alarm systems for patients, which will trigger alerts when certain conditions are met.

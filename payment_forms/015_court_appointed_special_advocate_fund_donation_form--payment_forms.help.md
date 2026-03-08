@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect donations for the Court Appointed Special Advocate Fund, which supports the work of Court Appointed Special Advocates (CASAs) in providing critical services to vulnerable children and families. 
-This form is intended to be completed by individuals wishing to make a donation to the fund, providing necessary information to process the donation and ensure that it is allocated effectively. Before starting, please ensure you are not duplicating the donation by checking the internal status of the donor. 
-This form is designed for one-time, monthly, quarterly, or annual payments, and it's essential to select the desired donation frequency. 
-Each field has been carefully crafted to ensure that it's easy to understand and fill out, and any unclear or missing labels are explained best-effort here. Please let's start with filling out the form.
-</thinking>
-
 # Court Appointed Special Advocate Fund Donation Form - Help Guide
 ## Purpose
 The Court Appointed Special Advocate Fund Donation Form is designed to collect donations for the critical services provided by Court Appointed Special Advocates (CASAs) to vulnerable children and families.

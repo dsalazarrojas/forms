@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather payment information and details related to a dental appointment. It is intended to be completed by patients or authorized personnel after an appointment has taken place. The purpose of this form is to ensure accurate and comprehensive record-keeping for payment processing and appointment management.
-</thinking>
-
 # Dental Appointment Check Out Form - Help Guide
 ## Purpose
 This form is used to collect payment details and confirm appointment information after a dental appointment has taken place. It ensures accurate and comprehensive record-keeping for payment processing and appointment management.

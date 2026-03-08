@@ -1,7 +1,3 @@
-<thinking>
-The Clinic New Patient Form is designed to collect essential information about new patients. This form is meant to be completed by the patient or their authorized representative. The form is split into several sections, each covering a specific aspect of the patient's personal and medical information. The form's fields are categorized to help the user navigate through the process smoothly and efficiently. To ensure accuracy, it is crucial to fill out the form carefully, especially the required fields. This form will not be completed or submitted without the required fields being filled out.
-</thinking>
-
 # Clinic New Patient Form - Help Guide
 ## Purpose
 The Clinic New Patient Form is a comprehensive form designed to capture essential information about new patients, ensuring a smooth registration process and accurate documentation.

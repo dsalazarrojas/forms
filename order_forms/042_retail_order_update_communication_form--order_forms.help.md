@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_order_update_communication_form - Help Guide
 ## Purpose
 This form is used to update and communicate with customers about their retail orders. It allows users to input and manage information about the order number, customer details, order status, shipping method, shipping date, and other relevant order details. This form is designed to facilitate efficient and accurate communication between customers and retailers.

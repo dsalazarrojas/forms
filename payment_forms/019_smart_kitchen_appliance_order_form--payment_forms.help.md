@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from users for a smart kitchen appliance order. The form likely collects user contact details and order specifics for order fulfillment. This form is not affiliated with or derived from any form platform, but rather was generated using AI to create an original adaptation of the "payment_forms" category.
-
-It is essential to review this form to ensure that the content is relevant and not duplicated.
-
-</thinking>
-
 # Smart Kitchen Appliance Order Form - Help Guide
 ## Purpose
 The Smart Kitchen Appliance Order Form is designed to collect user information and order specifics for a smart kitchen appliance order.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dog Bandana Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information, order preferences, and payment details to process orders for custom dog bandanas. The purpose of this form is to ensure accurate and efficient processing of orders while providing a smooth customer experience.

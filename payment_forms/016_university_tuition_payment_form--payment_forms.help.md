@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture relevant information from students who are making tuition payments to their university. This form is likely used by students to provide their payment details and other required information when paying tuition fees. Before proceeding, ensure you haven't filled out this form previously; if you're paying tuition for a new semester or academic year, please fill it out again to ensure the most up-to-date information. If you're not sure whether you've filled it out before, you can review your previous submissions or contact your university's payment department for assistance.
-</thinking>
-
 # University Tuition Payment Form - Help Guide
 
 ## Purpose

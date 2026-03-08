@@ -1,7 +1,3 @@
-<thinking>
-The Parking Fee Refund Form is used to request a refund for parking fees that were paid incorrectly or excessively. It is used to provide information about the vehicle, parking fee date, refund amount, and other relevant details to ensure a smooth and accurate refund process. This form should not be used for duplicate requests or if the parking fees have already been adjusted. Please fill out the form accurately and thoroughly, as it will be used to verify the refund eligibility and process the refund in a timely manner.
-</thinking>
-
 # Parking Fee Refund Form - Help Guide
 ## Purpose
 The Parking Fee Refund Form is a form used to request a refund for parking fees that were paid incorrectly or excessively. It is used to provide information about the vehicle, parking fee date, refund amount, and other relevant details to ensure a smooth and accurate refund process.

@@ -1,7 +1,3 @@
-<thinking>
-We're creating a form for users to provide assistance with professional certification, which involves collecting information about the user and details about their donation. This form is designed to gather essential data for processing and tracking donations. It's crucial to ensure that users fill out the form accurately and thoroughly. Before proceeding, take a moment to review this guide to guarantee you're filling out the form correctly.
-</thinking>
-
 # professional_certification_assistance_donation_form - Help Guide
 ## Purpose
 This form is designed for users to provide details about themselves and their donation to aid in professional certification. It's essential to fill out this form accurately to ensure that your certification can be processed correctly.

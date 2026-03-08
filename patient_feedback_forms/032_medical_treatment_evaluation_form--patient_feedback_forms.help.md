@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Treatment Evaluation Form - Help Guide
 
 ## Purpose

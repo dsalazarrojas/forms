@@ -1,5 +1,3 @@
-<thinking>...this form is designed to gather intake orders for single plane engines, providing a structured approach to ensure accurate and efficient order processing. This includes fields for selecting the plane type, specifying the order date, and other relevant details. It's essential to complete this form accurately to ensure correct order delivery and customer satisfaction. Please verify that you have selected the correct options for your order to prevent duplication or errors. Please review each field carefully...</thinking>
-
 # Single Plane Engine Intake Order Form - Help Guide
 ## Purpose
 This form is designed to collect orders for single plane engines with precision and accuracy. By providing clear and concise fields, you can ensure that your order is processed correctly and efficiently.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to capture relevant information from pet owners to schedule a pet grooming subscription. The purpose of this form is to gather essential details about the pet and the desired subscription type and schedule. This form is intended for pet owners to provide their pet's information, choose a subscription package, and specify a preferred appointment date and time. The form will be used by pet groomers to process the information and schedule the appointment accordingly.
-
-</thinking>
-
 # Pet Grooming Subscription Form - Help Guide
 ## Purpose
 The Pet Grooming Subscription Form is a tool for pet owners to schedule a subscription-based pet grooming service. It is designed to capture the necessary information for the groomer to provide quality service.

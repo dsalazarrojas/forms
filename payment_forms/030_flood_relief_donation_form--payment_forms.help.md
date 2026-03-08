@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect donations for flood relief efforts, allowing individuals to contribute to aid in disaster response and recovery efforts. This form is used to gather information about the donor, including their contact information, donation amount, frequency, and payment method. It also collects information about the gift option, payment details, and notes for the donation. This form is typically used by organizations and individuals to collect donations for flood relief efforts. Before filling out this form, please ensure that you are not a duplicate donor, and that you have the necessary information required for the donation.
-</thinking>
-
 # Flood Relief Donation Form - Help Guide
 ## Purpose
 The Flood Relief Donation Form is used to collect donations for disaster relief efforts. This form allows individuals to contribute to support the victims of floods and aid in response and recovery efforts.

@@ -1,13 +1,3 @@
-<thinking>
-This form is a "Payment Receipt" form, used to record and verify payments made to an individual or organization. The form will help ensure accurate and organized payment records, providing a clear and transparent financial transaction history. 
-
-When creating a payment receipt, the goal is to gather essential details that confirm the payment was made, to whom, and under what circumstances. 
-
-Before proceeding, ensure that all relevant payment information is accurately captured and that the form is complete and up-to-date. 
-
-Please note that the form will only be used for payment records and will not affect any financial or business decisions related to the payments made.
-</thinking>
-
 # Payment Receipt - Help Guide
 ## Purpose
 The purpose of this form is to record and verify payments made to an individual or organization. This will help ensure accurate and organized payment records, providing a clear financial transaction history.

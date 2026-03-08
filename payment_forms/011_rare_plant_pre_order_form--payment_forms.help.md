@@ -1,9 +1,3 @@
-<thinking>
-This form appears to be for customers or clients to place orders for rare plants. However, upon closer inspection, it seems there might be some redundancy in the fields provided. For instance, the "plant_name" field has two instances, which might not be intended. Additionally, some fields like "customer" and "customer_email" could be merged into a single "customer_details" field. The "payment_terms" field has two instances, which could be merged or made a single field with more specific options.
-
-To create a user-facing help guide, I will focus on the fields provided and aim to create a clear and concise explanation for the end-user.
-</thinking>
-
 # Rare Plant Pre Order Form - Help Guide
 ## Purpose
 This form is designed for customers to place orders for rare plants. To complete this form, follow the instructions below.

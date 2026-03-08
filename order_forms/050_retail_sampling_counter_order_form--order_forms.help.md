@@ -1,8 +1,3 @@
-<thinking>
-The Retail Sampling Counter Order Form is used to collect information about retail sampling orders from customers.
-To prevent errors, make sure to fill out this form completely and accurately.
-</thinking>
-
 # Retail Sampling Counter Order Form - Help Guide
 ## Purpose
 The Retail Sampling Counter Order Form is used to collect information about retail sampling orders from customers. This form helps the customer service team to process and manage sampling orders efficiently.

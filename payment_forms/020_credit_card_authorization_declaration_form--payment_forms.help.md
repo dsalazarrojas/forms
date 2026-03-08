@@ -1,11 +1,3 @@
-<thinking>
-This form is used for credit card authorization declaration purposes. It is used to collect information from users for the purpose of authorizing a credit card for a particular transaction. The form should only be filled out if the user is authorizing a credit card for a transaction, and the information entered should match the actual credit card being used for that transaction.
-
-To avoid any confusion or errors, the form should not be filled out if the user is using a debit card or if they are not authorizing a transaction with their credit card.
-
-Please fill out the form carefully and accurately to ensure that your credit card is authorized properly.
-</thinking>
-
 # credit_card_authorization_declaration_form - Help Guide
 ## Purpose
 This form is used to declare a credit card for a particular transaction. It is meant to be filled out by users who are authorizing the use of their credit card for a transaction.

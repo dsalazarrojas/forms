@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect consultant and billing information from clients, including their identification details, billing period, service line items, and payment instructions. The purpose of this form is to facilitate accurate billing and payment processing. To ensure accurate and complete information is captured, please review each field carefully and provide the required details. Note that some fields are calculated or determined by the system, so please ensure accurate input is provided in the relevant fields to ensure accurate calculations.</thinking>
-
 # Consultant Invoice Form - Help Guide
 ## Purpose
 This form collects consultant and billing information from clients, including their identification details, billing period, service line items, and payment instructions.

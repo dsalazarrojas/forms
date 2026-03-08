@@ -1,11 +1,3 @@
-<thinking>
-The Sprinkler System Delivery Form is a tool used to capture information about a customer's sprinkler system delivery. This form is likely used in a business or organization that handles deliveries and needs to track the status and details of sprinkler system deliveries.
-
-Before filling out this form, ensure that it is not a duplicate entry. If a delivery is already recorded in the system, do not fill out this form again.
-
-This form is designed to be completed by a customer or a representative of the customer. It is intended to be a quick and easy way to record the details of a sprinkler system delivery. If you are unsure about any of the fields or need clarification, please ask for assistance.
-</thinking>
-
 # Sprinkler System Delivery Form - Help Guide
 ## Purpose
 The Sprinkler System Delivery Form is used to record the details of a customer's sprinkler system delivery. This form captures key information such as customer name, delivery date and time, order number, sprinkler system type, delivery status, delivery address, and customer phone number.

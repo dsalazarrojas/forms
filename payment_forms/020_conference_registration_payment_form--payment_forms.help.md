@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect payment information from individuals registering for a conference. The form is part of a registration process that allows attendees to pay for their conference fees, workshops, or events in addition to the main conference. The form is divided into several sections, each with a specific set of questions related to the payment method and details.
-
-Before filling out the form, please ensure that you are familiar with the conference registration process and have a basic understanding of the payment options available.
-
-</thinking>
-
 # Conference Registration Payment Form - Help Guide
 ## Purpose
 The Conference Registration Payment Form is used to collect payment information from individuals registering for a conference or events. This form helps the organizers to efficiently process payments and ensures accurate and up-to-date records.

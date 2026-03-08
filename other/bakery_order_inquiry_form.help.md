@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect contact information and order details for a bakery. It is assumed that this form will be used by customers or internal staff to submit orders or provide updates about existing orders. The form should be completed only for new orders, and not for updating or editing existing orders.
-</thinking>
-
 # untitled_form_12739 - Help Guide
 ## Purpose
 The "untitled_form_12739" form is a contact form for customers to place orders or provide updates about their orders with the bakery. This form is intended to collect relevant contact and order information from customers.

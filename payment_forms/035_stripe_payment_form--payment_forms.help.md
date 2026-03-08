@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used for online transactions, such as e-commerce payments or donations. The purpose of the form is to collect information necessary for processing payments via different methods, specifically:
-* Credit Card
-* PayPal
-* Bank Transfer
-The form is designed to be simple and straightforward, with only a few fields required for payment processing. Each field is designed to collect specific information, which is used to complete the payment transaction.
-</thinking>
-
 # Stripe Payment Form - Help Guide
 ## Purpose
 The Stripe Payment Form is used to collect information for online payments via different methods, including credit cards, PayPal, and bank transfers.

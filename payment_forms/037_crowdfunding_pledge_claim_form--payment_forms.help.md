@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crowdfunding Pledge Claim Form - Help Guide
 
 ## Purpose

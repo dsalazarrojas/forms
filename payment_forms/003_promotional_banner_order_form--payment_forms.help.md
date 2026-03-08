@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture information from customers who want to order a promotional banner. The purpose of this form is to gather essential details from the customer to process their order efficiently. Please note that this form is not affiliated with any form platform and is created using AI-powered form design.
-
-To ensure you receive the order on time, please complete the form accurately and thoroughly. If you need assistance or have questions, do not hesitate to contact form@gic.mx.
-</thinking>
-
 # promotional_banner_order_form - Help Guide
 ## Purpose
 The promotional_banner_order_form is designed to collect customer information and promotional banner details for processing orders efficiently.

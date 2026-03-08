@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for capturing details related to digital device orders. It includes fields for student and teacher signatures, device status, and various other relevant details such as device type, condition, and accessories. This form is likely used within an educational institution for tracking and managing digital device orders, returns, and maintenance.
-</thinking>
-
 # OCPS Digital Device Form - Help Guide
 ## Purpose
 This form is used to collect information about digital devices ordered, managed, and maintained within the institution.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to capture payment information from customers, allowing them to provide their details and payment method. This form is crucial for processing payments and ensuring accurate billing. To verify that this form meets the requirements, the following conditions must be met: the form must have at least one required field (Payment Method), and all fields must be properly filled out before submission. This form should not be used for non-payment purposes, and all fields should have a clear and concise label to avoid confusion.
-</thinking>
-
 # Final Payment Form - Help Guide
 ## Purpose
 The Final Payment Form is a crucial tool for customers to provide their payment information, ensuring accurate and efficient processing of payments.

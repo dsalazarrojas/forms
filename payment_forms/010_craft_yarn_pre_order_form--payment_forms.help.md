@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to pre-order and provide payment information for crafting yarn. The fields provided are to gather necessary information for the order processing, including payment method, address, contact details, and order notes. This form is designed to be a simple and efficient way to collect the required information. Please make sure you have the necessary permissions and authorization to complete this form, and that you are aware of the terms and conditions outlined below.
-</thinking>
-
 # craft_yarn_pre_order_form - Help Guide
 ## Purpose
 This form is a pre-order form for customers to provide payment information for crafting yarn. It is used to gather necessary information for order processing.

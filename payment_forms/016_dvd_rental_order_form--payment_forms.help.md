@@ -1,7 +1,3 @@
-<thinking>
-This guide helps ensure that the user understands the purpose and functionality of the form, reducing support queries and improving user experience. This guide also helps non-technical team members and customers understand how to complete the form with ease. The form is a standard form in your company's system.
-</thinking>
-
 # DVD Rental Order Form - Help Guide
 ## Purpose
 The DVD Rental Order Form is used to collect information about a customer's DVD rental request. This form allows customers to provide their details, select their preferred pickup or delivery option, and specify the DVD title they wish to rent.

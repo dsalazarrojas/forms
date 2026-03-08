@@ -1,5 +1,3 @@
-<thinking>This form is designed to allow users to request backlinks from the platform. It is intended for users who want to request a backlink for their website. The form is not mandatory, and users are encouraged to provide a valid backlink URL in the required field for the request to be processed. This form is typically used by users who need to request backlinks for various reasons such as promoting their own website or for SEO purposes. To ensure that your backlink request is processed efficiently, please fill out this form accurately and completely.</thinking>
-
 # Backlink Request Form - Help Guide
 ## Purpose
 The Backlink Request Form is designed to allow users to request backlinks from the platform. It is a simple form that helps users provide necessary information to facilitate the backlink request process.

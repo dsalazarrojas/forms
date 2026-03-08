@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Makeup Order Form - Help Guide
 
 ## Purpose

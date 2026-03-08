@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used for its intended purpose and not duplicating effort. This form is meant to be a simple sales form for wines, where customers can select their preferred wine type, provide some basic contact information, and place an order. We will be using this form to gather data for our sales team, so the goal is to get the most relevant information possible to process the order efficiently.
-</thinking>
-
 # Wine Sale Form - Help Guide
 
 ## Purpose

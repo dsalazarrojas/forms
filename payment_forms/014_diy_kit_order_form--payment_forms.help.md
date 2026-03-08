@@ -1,15 +1,3 @@
-<thinking>
-Before creating the help guide, let's analyze the provided YAML form data:
-
-- The form is named "DIY Kit Order Form" and has 10 fields.
-- Each field is displayed on a separate page, which is likely to simplify the user experience.
-- Required fields are: `shipping_method` (id: 7) and `payment_method` (id: 10).
-- Fields that require some sort of selection (`select_one` type) are: `shipping_method` (id: 7) and `payment_method` (id: 10).
-- Some fields are optional, like `order_info` (id: 1), `shipping_info` (id: 2), `product_info` (id: 3), `payment_info` (id: 4), `contact_info` (id: 5), `order_summary` (id: 6), and `shipping_rate` (id: 8).
-- The `shipping_address` field (id: 9) is also not required.
-- There are some interesting fields that seem to be related to payment methods but are not directly related to payment options, which might be a potential confusion point for users. This will be addressed in the field explanations.
-</thinking>
-
 # DIY Kit Order Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-We need to create a user-facing help guide for the "healthcareDigitalTwinResearchRegistration" form. To ensure we're on the right track, let's review the form's purpose and fields. This form seems to be for patient registration, specifically for research purposes. It appears to be a multi-page form with various fields, including general information, contact information, medical history, research consent, participant details, contact person, email, and submission options. We should double-check that this form is not a duplicate and that its purpose is indeed for research registration.
-</thinking>
-
 # healthcareDigitalTwinResearchRegistration - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to gather information about the patient's health and care needs during an elderly care assessment. The form is intended for healthcare providers to collect data on the patient's medical history, medications, medical conditions, and other relevant information. This form should not be used for emergency or acute care situations.
-
-Before proceeding, please review the form carefully to ensure you are completing it correctly. If you are unsure about any section, please consult with the patient's healthcare provider or a supervisor.
-
-Please note that some fields have been left as optional, but are still important for a comprehensive assessment of the patient's care needs. Ensure you complete all relevant fields to provide the most accurate and thorough assessment.
-
-To confirm, this form is for routine, non-emergency care assessments for elderly patients. If you have any doubts or concerns about this form or its use, please reach out to a supervisor or healthcare expert.
-</thinking>
-
 # Elderly Care Assessment Form - Help Guide
 ## Purpose
 This form is designed to gather information about the patient's health and care needs during an elderly care assessment.

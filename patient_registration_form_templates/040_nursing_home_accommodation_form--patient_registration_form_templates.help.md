@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from patients or their representatives regarding their stay at a nursing home. This form is likely used for administrative and care planning purposes. Before filling out this form, please ensure you have not already submitted it in the past, as duplicate submissions might cause unnecessary administrative tasks and potentially lead to confusion or incorrect information being recorded. Ensure you have all the necessary information and approvals before proceeding.
-</thinking>
-
 # Nursing Home Accommodation Form - Help Guide
 ## Purpose
 

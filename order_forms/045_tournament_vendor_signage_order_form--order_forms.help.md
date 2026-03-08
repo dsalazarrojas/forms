@@ -1,6 +1,3 @@
-<thinking>
-This form is used to collect information about tournament vendor signage orders. The goal is to process orders efficiently and accurately. This form is designed for use by internal staff and external vendors, so we should verify that the form's purpose and fields align with both groups' needs. To prevent duplication of effort and confusion, we should double-check the form's requirements and fields before sharing it with users.</thinking>
-
 # Tournament Vendor Signage Order Form - Help Guide
 ## Purpose
 This form is used to collect information about tournament vendor signage orders for processing and management.

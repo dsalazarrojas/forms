@@ -1,21 +1,3 @@
-<thinking>
-Before designing a help guide for the "shipping_documentation_appointment_form", let's quickly review the form's purpose and its various fields. 
-
-The form is likely used for capturing information related to shipping documentation appointments, such as scheduling appointments for shipping, handling, or documentation processing. The form includes a mix of selection and input fields for collecting detailed information about the shipment, including customer details, shipping status, and additional notes.
-
-Looking through the fields, we see a range of options such as:
-
-* Schedule appointment options (Yes/No)
-* Selecting multiple services (Yes/No)
-* Date and time fields for shipping
-* Notes and text fields for customer and shipping details
-* Email and contact number fields
-* Select fields for shipping status and documentation type
-
-We'll aim to provide a clear and concise help guide that covers each of these fields and explains how to complete the form effectively.
-
-</thinking>
-
 # shipping_documentation_appointment_form - Help Guide
 ## Purpose
 The shipping_documentation_appointment_form is designed to capture essential information for shipping documentation appointments, enabling efficient handling and processing of shipments.

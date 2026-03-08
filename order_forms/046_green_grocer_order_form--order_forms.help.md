@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for capturing order details from customers, including delivery and customer information, order specifics, and other relevant details. This form appears to be designed for a green grocer or produce market, but its purpose is not entirely clear without further context. It may be used for online or offline order submission, or both. It is also unclear whether the form is for internal use or customer-facing, but it seems likely to be for customer-facing purposes. The form does not appear to be redundant, as each field seems to have a unique purpose.</thinking>
-
 # green_grocer_order_form - Help Guide
 ## Purpose
 The green grocer order form is for capturing customer orders, including delivery and customer information, order specifics, and other relevant details.

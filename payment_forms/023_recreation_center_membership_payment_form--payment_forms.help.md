@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for recreation center membership payments. It is crucial to ensure that the user understands the purpose of the form and its relevance to their needs. 
-Before proceeding, review the form's fields and determine if you are eligible for membership. This guide will help you navigate the form efficiently.
-</thinking>
-
 # Recreation Center Membership Payment Form - Help Guide
 ## Purpose
 The Recreation Center Membership Payment Form is designed to collect your payment information for recreation center membership. This form is typically used for new members to register and existing members to renew or update their membership details.

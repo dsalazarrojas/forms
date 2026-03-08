@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for a pizza order. The form is used by customers to specify their pizza preferences and provide contact information. It seems that the form is intended for a pizza delivery or take-out service.
-</thinking>
-
 # Pizza Order Form - Help Guide
 
 ## Purpose

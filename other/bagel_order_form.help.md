@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for customers to order bags and provide shipping information. Before proceeding, please note that this form is for demonstration purposes only and not intended for actual transactions. 
-
-The "bagel_order_form" form is composed of the following pages: 
-- Page 1: Bagel Name, Quantity, Price, 
-- Page 2: Payment Method, Shipping Address, Shipping City, Shipping State, Shipping Zip, 
-
-The following fields will be explained in detail below.
-</thinking>
-
 # bagel_order_form - Help Guide
 ## Purpose
 The "bagel_order_form" form is a template for customers to place an order for bags. It is used to collect information about the customer's bagel preferences and shipping details.

@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect information from businesses regarding their payment gateway pricing inquiry. This guide will walk you through the process of completing the form, explaining each field and its purpose. Please ensure you have all the necessary information before starting the form, as some fields may be required for proper submission.
-
-The form consists of the following fields:
-* Payment Gateway Pricing Inquiry Form (form_1): This is the main form title, which is simply a label to describe the form's purpose.
-* Payment Gateway Type (gateway_type): Select 'Yes' if you are a payment gateway, 'No' if you are not.
-* Business Name (business_name): Enter your business name for identification purposes.
-* Business Email (business_email): Enter your business email address for contact purposes.
-* Business Phone (business_phone): Enter your business phone number for contact purposes.
-* Business Address (business_address): Enter your business address for identification purposes.
-* Business City (business_city): Enter the city of your business address.
-* Business State (business_state): Enter the state of your business address.
-* Business Zip (business_zip): Enter the zip code of your business address.
-* Message (message): Enter a brief message with your inquiry.
-* Business Hours (form_12): Select your business hours of operation, which will be used to determine the best time for our team to contact you.
-* Time (form_11): This field is currently not used, but it might be related to the business hours of operation, though this requires further investigation. It's likely that it's meant for a specific time slot within your business hours.
-
-</thinking>
-
 # Payment Gateway Pricing Inquiry Form - Help Guide
 ## Purpose
 The Payment Gateway Pricing Inquiry Form is designed to collect information from businesses regarding their payment gateway pricing inquiry. Please fill out this form to provide us with the necessary details to assist you with your inquiry.

@@ -1,8 +1,3 @@
-<thinking> 
-This form is used to place an order for the store's cleaning crew supply. It is intended for employees or authorized personnel to submit an order for the necessary products and services for the cleaning crew. The form is designed to be completed by anyone who wants to order supplies for the cleaning crew, including managers, team leads, and other personnel who need to coordinate the cleaning crew's inventory.
-
-</thinking>
-
 # Store Cleaning Crew Supply Order Form - Help Guide
 ## Purpose
 The Store Cleaning Crew Supply Order Form is a tool used to order supplies and products for the store's cleaning crew.

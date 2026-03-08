@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from users for payment purposes. It is likely used for subscription or billing related activities. The form includes fields for personal details, payment method, and other relevant information. The payment method field is likely used to determine the payment option for the subscription. The CVV (Card Verification Value) fields are likely used for security purposes when using a credit card for payment. The address fields are used to collect billing or shipping information.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used to collect information for payment purposes, such as subscription or billing activities.

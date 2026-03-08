@@ -1,7 +1,3 @@
-<thinking>
-This form is for capturing information related to performer scheduling and coordination. It's likely used by staff or administrators responsible for managing performer availability and schedules. Before filling out this form, ensure you have all necessary information and permissions. It's also a good idea to review the form for any required fields, as some sections may be optional. Please note that some fields may have specific formatting requirements, such as for dates and times.
-</thinking>
-
 # Untitled Form - Help Guide
 
 ## Purpose

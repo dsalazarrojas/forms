@@ -1,6 +1,3 @@
-<thinking>
-This form is likely part of a system that handles participant payments and certification management for training sessions. It seems to be a straightforward form for end-users to complete when they have attended a training session and want to claim their certification. It's possible that this form is part of a larger system that tracks participant progress, payment history, and certification status. The presence of fields like "participant_name", "email", "course_date", "payment_method", and "certification_level" suggests that this form is designed to capture essential information for administrative and certification purposes. The form might be used in a medical or healthcare context, given the presence of "CPR Certification" in the title and options like "Basic life support" and "Advanced cardiac life support". 
-</thinking>
 # CPR Certification Check Out Form - Help Guide
 ## Purpose
 This form is used to complete the process of obtaining CPR certification after attending a training session. It captures essential information about the participant, payment, and certification level.

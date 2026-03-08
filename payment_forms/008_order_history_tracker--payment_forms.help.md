@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to track order history for customers, allowing users to record whether a customer has placed an order, view order details, status, and total, as well as record payment information and payment method. This form is not a payment processing form, but rather a form for storing customer order data. The form does not store payment details, only records of whether payment has been processed. It is intended to be used in a scenario where a customer's order history is relevant, such as when a customer service representative needs to look up a customer's order history.
-
-</thinking>
-
 # Order History Tracker - Help Guide
 ## Purpose
 The Order History Tracker form is used to record and store customer order history, including details such as order status, total, and payment information.

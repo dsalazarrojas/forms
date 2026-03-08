@@ -1,10 +1,3 @@
-<thinking>
-The goal of this form is to allow customers to preorder their Crawfish. The form will collect information about the customer, their order details, and the status of the crawfish availability. It will also collect feedback from both the customer and the vendor.
-To prevent duplication, we should ensure that the form is only accessible when the crawfish is available. This could be achieved by checking the crawfish availability status on the server-side before rendering the form.
-The customer will be able to select the type of crawfish they want to order, and they will be able to provide a date and time for their preorder. The vendor will be able to see the customer's message and provide a response.
-To prevent customers from ordering out of stock crawfish, we should ensure that the form will only be accessible when the crawfish is available.
-</thinking>
-
 # Crawfish Preorder Form - Help Guide
 ## Purpose
 The Crawfish Preorder Form is a form that allows customers to preorder their crawfish. The form collects information about the customer, their order details, and the status of the crawfish availability.

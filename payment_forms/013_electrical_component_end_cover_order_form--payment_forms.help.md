@@ -1,7 +1,3 @@
-<thinking>
-This is a payment form used for customers or suppliers to order electrical components. It's designed for end-users to provide their order details, including supplier information, payment methods, and delivery preferences. This form is intended for internal use, so it's possible that only authorized personnel will have access to it. To avoid duplication of effort, please ensure you have all necessary information and approval before proceeding.
-</thinking>
-
 # electrical_component_end_cover_order_form - Help Guide
 ## Purpose
 The purpose of this form is to collect and process orders for electrical components from suppliers. It helps the customer or supplier provide necessary information for processing the order, ensuring timely delivery, and facilitating payment.

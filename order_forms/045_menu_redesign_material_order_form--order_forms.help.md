@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for the purpose of ordering menu redesigns for materials. The form is intended for customers to select the materials they would like to have redesigned and submit their contact information for follow-up.
-The form should only be used by customers to place an order for a menu redesign material.
-Please do not use this form for other purposes.
-</thinking>
-
 # Menu Redesign Material Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from customers to order a menu redesign for materials. Please use this form to select the materials you want to have redesigned and enter your contact information for follow-up.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used for a winter skin care wish list, where users can provide information about their skin type, concerns, product preferences, and other details that can help a skin care professional understand their needs during the winter season. 
-</thinking>
-
 # Winter Skin Care Wish List - Help Guide
 ## Purpose
 The Winter Skin Care Wish List form is used to collect information about users' skin types, concerns, and preferences to provide personalized guidance for winter skin care.

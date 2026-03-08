@@ -1,11 +1,3 @@
-<thinking>
-
-The Pediatric Practice Onboarding Survey is a form designed to help us better understand your new patient information and preferences. Please ensure that you've read this help guide carefully before proceeding, as it will help us tailor our services to meet your unique needs.
-
-If you've already completed a similar form or survey with us, please do not fill out this one. Your input will be invaluable in helping us provide high-quality services to our new patients.
-
-</thinking>
-
 # Pediatric Practice Onboarding Survey - Help Guide
 ## Purpose
 The Pediatric Practice Onboarding Survey is a form that helps us understand your new patient information and preferences.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to generate a VIP hospitality service quotation for a client, which is a critical part of the sales process to establish a formal quote with the client. The purpose of this form is to collect necessary information from the client to create an accurate and personalized quotation. Before proceeding, please confirm that you are a qualified sales representative and that this quote is intended for the correct client.
-
-</thinking>
-
 # vip_hospitality_service_quotation_form - Help Guide
 ## Purpose
 The VIP hospitality service quotation form is used to collect information from the client to create a personalized quotation for the sale of a hospitality service. This form is a critical part of the sales process, and it is essential to complete it accurately and thoroughly.

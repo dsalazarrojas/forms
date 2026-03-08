@@ -1,7 +1,3 @@
-<thinking>
-This help guide is for a survey form designed for parents to provide feedback and insights about their child's education during the home schooling period. This form is not intended for data analysis or official administrative use; its purpose is to help parents express their thoughts and feelings about their child's education and gather general insights from the parents' perspectives. Before starting, please note that this form does not store personal identifiable information.
-</thinking>
-
 # untitled_form_10284 - Help Guide
 
 ## Purpose

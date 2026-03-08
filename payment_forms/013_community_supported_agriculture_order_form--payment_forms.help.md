@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers for a Community Supported Agriculture (CSA) subscription order. This form is used to collect essential details from customers, including their contact information, subscription preferences, and payment methods. The form is designed to be completed by customers who wish to subscribe to a CSA program, which typically involves purchasing a regular delivery of fresh produce from a local farm or community garden. To ensure accurate and efficient processing of customer orders, it is crucial to complete the form with attention to detail and accurate information.
-</thinking>
-
 # Community Supported Agriculture Order Form - Help Guide
 ## Purpose
 The Community Supported Agriculture Order Form is a crucial tool for customers to provide their details and preferences for a regular delivery of fresh produce from a local farm or community garden. This form helps farmers and administrators efficiently process customer orders and ensure timely delivery of produce.

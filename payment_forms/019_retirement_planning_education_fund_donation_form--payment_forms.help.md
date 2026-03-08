@@ -1,11 +1,3 @@
-<thinking>
-  This form is intended to collect information from individuals who wish to contribute to the Retirement Planning Education Fund. 
-  The form is not meant to process payments directly; it's a data collection tool to gather contact information from donors. 
-  The form is part of a broader system for tracking and managing donations. 
-  To avoid duplication, please note that this form is meant for new donations, not for recurring or one-time donations. 
-  The form should only be completed once for each new donor. 
-</thinking>
-
 # Retirement Planning Education Fund Donation Form - Help Guide
 ## Purpose
 The Retirement Planning Education Fund Donation Form is designed to collect information from individuals who wish to contribute to the Retirement Planning Education Fund. This form is not a payment processing form; it's a data collection tool to gather contact information from donors.

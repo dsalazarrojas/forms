@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect customer information for curbside service requests. This form is designed to gather relevant details from customers, including their name, phone number, email, pickup time, date, and order number, among other information. To confirm, this form is intended for customers to register their curbside service requests, making it essential for the customer service team to have this form available for reference.
-</thinking>
-
 # curbside_service_registration - Help Guide
 ## Purpose
 This form is designed to collect customer information for curbside service requests.

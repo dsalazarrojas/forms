@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to solicit feedback from parents on their experience with the school's virtual learning program. The purpose of this form is to gather information on what parents like and dislike about the program, what they think the school does well and poorly, and how the school can improve. This form is meant to be a one-way communication channel, where parents can provide their thoughts and suggestions without fear of judgment or repercussions.
-
-Before completing the form, please make sure you are not duplicating feedback that has already been provided. If you have previously submitted feedback, you may not need to complete this form again.
-</thinking>
-
 # School Virtual Learning Parent Survey - Help Guide
 
 ## Purpose

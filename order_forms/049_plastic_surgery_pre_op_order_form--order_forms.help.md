@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for a plastic surgery pre-operative order, which is a crucial document required before undergoing a plastic surgery procedure. The form ensures that the patient and their emergency contact are properly identified, their medical history is documented, and the surgeon and surgical team are aware of their needs and any necessary precautions. 
-
-The purpose of this form is to standardize the information collection process and reduce the risk of errors or miscommunication during the surgery process.
-
-Please note that this form is not intended to be a substitute for a medical professional's judgment or a comprehensive medical evaluation. It is essential to consult with a medical professional before undergoing plastic surgery.
-
-Before filling out this form, please ensure that you have all the necessary information and documents required.
-
-</thinking>
 # Plastic Surgery Pre Op Order Form - Help Guide
 ## Purpose
 This form is used to collect necessary information for a plastic surgery procedure.

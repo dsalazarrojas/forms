@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by teachers or staff members in an educational setting to document and communicate with parents regarding student progress, concerns, or support needs. The form's purpose is to gather information about the parent's perspective, the teacher's perspective, and any action plans discussed during a parent-teacher conference.
-</thinking>
-
 # Daily Parent Support Notes - Help Guide
 ## Purpose
 This form is designed to facilitate communication between parents and teachers during parent-teacher conferences. It helps to document the discussion, ensure that both parties are on the same page, and provide a record of any action plans or concerns that need to be addressed.

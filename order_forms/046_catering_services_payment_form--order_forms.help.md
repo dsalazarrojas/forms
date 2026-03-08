@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect payment information for catering services. The purpose of this form is to gather details about the payment from the client, including their contact information, payment details, and agreement to payment terms. This form will help us process payments efficiently and ensure that all parties are on the same page.
-</thinking>
-
 # Catering Services Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment information for catering services. The details provided will help us process payments accurately and efficiently.

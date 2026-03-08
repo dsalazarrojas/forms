@@ -1,10 +1,3 @@
-<thinking>
-The form is designed to collect payment information for craft booth transactions. It is likely used in a retail or market setting where customers can make purchases or payments for craft or handmade items. The form may be used by shop owners or administrators to record and manage payment details.
-The form is likely to be used by shop owners or administrators to record and manage payment information for craft booth transactions.
-The payment method options include Apple Pay, Bank Transfer, Credit Card, Google Pay, PayPal, and Venmo.
-The form collects various fields such as the craft booth ID, order ID, payment method ID, amount, tax rate, tax amount, total, notes, email, phone, first name, last name, customer note, payment status, created at, updated at, deleted at, created by, updated by, payment type, status, transaction reference, customer reference, and payment ID.
-</thinking>
-
 # Craft Booth Payment Form - Help Guide
 
 ## Purpose

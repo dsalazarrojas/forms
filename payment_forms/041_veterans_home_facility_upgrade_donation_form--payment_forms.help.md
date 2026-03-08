@@ -1,8 +1,3 @@
-<thinking>
-**Purpose:** 
-We are building a form to collect information for the Veterans' Home Facility Upgrade Donation, a program that aims to improve living conditions for homeless veterans. The form will gather basic details about donors, their contact information, and specific donation preferences to enable efficient and personalized support. 
-</thinking>
-
 # Veterans' Home Facility Upgrade Donation Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from donors interested in supporting the Veterans' Home Facility Upgrade program.

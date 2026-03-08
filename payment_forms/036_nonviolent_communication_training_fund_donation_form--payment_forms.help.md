@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nonviolent Communication Training Fund Donation Form - Help Guide
 ## Purpose
 The Nonviolent Communication Training Fund Donation Form is designed to collect donations for the Nonviolent Communication (NVC) Training program. This form helps us understand your willingness to support the program financially, allowing us to provide more people with the knowledge and skills of NVC.

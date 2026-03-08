@@ -1,7 +1,3 @@
-<thinking>
-We are designing a form for wedding photography contract and agreement with paypal invoicing. To confirm, this is a form for a wedding photographer to collect information and payment from clients for their photography services. The form will be used to capture client details, payment information, and details about the photography services provided. It's essential to make sure that the form is clear and easy to fill out for the clients, so we will make sure to explain each field and its purpose clearly. We will also ensure that all necessary fields are included, and that the client is able to provide all required information for the payment process. Before proceeding, please review the form structure and fields to make sure it meets your expectations.
-</thinking>
-
 # Wedding Photography Contract And Agreement Forms With Paypal Invoicing - Help Guide
 ## Purpose
 This form is designed to collect payment from clients for wedding photography services. It includes fields for client details, payment information, and service details.

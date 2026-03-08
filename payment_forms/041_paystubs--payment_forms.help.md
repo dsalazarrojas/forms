@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about employee paystubs. It appears to be used to track the status of paystubs for employees, potentially for payroll or accounting purposes. This form seems to be used in an HR or financial context.
-</thinking>
-
 # Paystubs - Help Guide
 ## Purpose
 The Paystubs form is used to collect information about employee paystubs for tracking and management purposes.

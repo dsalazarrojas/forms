@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather the necessary information from customers to process a streaming device order. Before filling out this form, ensure that you have already added the streaming device to your cart and are ready to complete the checkout process. This guide will walk you through each step of the process, but if you've already completed the cart checkout, please do not proceed.
-</thinking>
-
 # Streaming Device Order Form - Help Guide
 ## Purpose
 The Streaming Device Order Form is used to capture the essential details required to complete a streaming device order. Please follow this guide to ensure a smooth and accurate submission.

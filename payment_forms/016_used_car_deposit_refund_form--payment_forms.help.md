@@ -1,13 +1,3 @@
-<thinking>
-This form is used by customers to request a deposit refund for a used car purchase. The form captures essential information related to the refund request, including the customer's name, deposit amount, refund reason, vehicle details, and dealer notes. The form's purpose is to efficiently collect all necessary data to process the refund request and communicate with the customer.
-
-To ensure the form's purpose and content are relevant, we will consider the following:
-
-* The form should only be used for deposit refunds, not for general customer inquiries or other types of requests.
-* The form should not be used for duplicate or unnecessary refund requests.
-* The form's fields should capture all essential information required to process the refund request.
-</thinking>
-
 # used_car_deposit_refund_form - Help Guide
 ## Purpose
 The purpose of this form is to request a deposit refund for a used car purchase.

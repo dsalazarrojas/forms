@@ -1,9 +1,3 @@
-<thinking>
-
-The Personalized Wine Label Order Form is designed for customers to create a custom label for their wine bottles. This form collects information for both the label design and the order details, including wine type, label size, label color, and more. The form also includes fields for order and shipping information, such as shipping address, shipping method, and payment details. By filling out this form, customers can create a unique and personalized label for their wine bottles.
-
-</thinking>
-
 # Personalized Wine Label Order Form - Help Guide
 ## Purpose
 The Personalized Wine Label Order Form is used to create a custom label for a wine bottle. This form helps customers design and order their label according to their preferences.

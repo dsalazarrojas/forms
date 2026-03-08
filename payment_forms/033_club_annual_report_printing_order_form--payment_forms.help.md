@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to guide users through the process of placing an order for printing annual club reports. This form captures essential information for the print request, including contact details, report specifications, printing details, and delivery information. The fields are designed to be clear and self-explanatory, and the instructions should help ensure that users understand what data is needed and how it will be used.
-Before proceeding, double-check that the form matches your existing internal documentation and business logic.
-</thinking>
-
 # Club Annual Report Printing Order Form - Help Guide
 ## Purpose
 This form is used to place an order for printing annual club reports. It captures essential information for the print request, including contact details, report specifications, printing details, and delivery information.

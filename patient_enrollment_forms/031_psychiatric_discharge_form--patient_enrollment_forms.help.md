@@ -1,7 +1,3 @@
-<thinking>
-The psychiatric_discharge_form is a crucial tool for documenting and tracking patient discharge information in a psychiatric setting. This form ensures that essential details about the patient's mental health journey are accurately and thoroughly recorded, providing a comprehensive overview of their treatment and care. Before filling out this form, please ensure that you have the necessary permissions and clearance to access this information. Please note that each field is only visible if it's required or if there's at least one option selected. This guide will walk you through the form fields step by step.
-</thinking>
-
 # psychiatric_discharge_form - Help Guide
 ## Purpose
 The psychiatric_discharge_form is a critical document used to capture essential information for the discharge process of a patient receiving psychiatric treatment. This form helps healthcare professionals gather details about the patient's treatment history, diagnosis, medical history, and post-discharge instructions.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from businesses seeking cross-border fulfillment services. The purpose of this form is to collect business and individual identifying information, as well as scheduling preferences. The form will likely be used for scheduling and logistical purposes. Ensure that the information you provide is accurate and up-to-date to ensure a smooth experience. Please review all fields carefully to avoid errors.
-
-Please note that the form is not affiliated with, endorsed by, or derived from any form platform, but rather an AI-generated adaptation based on public survey topic metadata.
-</thinking>
-
 # cross_border_fulfillment_application_form - Help Guide
 ## Purpose
 This form is designed to collect business and individual identifying information, as well as scheduling preferences from businesses seeking cross-border fulfillment services.

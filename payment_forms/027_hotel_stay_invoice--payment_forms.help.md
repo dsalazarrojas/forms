@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This internal reasoning block explains the context and purpose of the form:
 The purpose of this form is to gather billing information and payment details for a hotel stay. The form will be used to create a hotel stay invoice, which is a document that outlines the cost of the stay, the method of payment, and the billing address. This form is typically used by hotel staff to generate invoices for customers. To ensure accuracy and efficiency, please review each field carefully before submitting the form.
 

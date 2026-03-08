@@ -1,12 +1,3 @@
-<thinking>
-To determine the correct help guide, let's first analyze the provided YAML fields to understand the form's purpose and requirements.
-
-The form appears to be for hospital admission billing, which involves collecting patient information, insurance details, payment information, and billing details. The form seems to be a comprehensive form that covers various aspects of the billing process.
-
-To ensure that the form is correctly filled out, I will analyze each field and provide a clear and concise explanation for the end-users.
-
-</thinking>
-
 # Hospital Admission Billing Form - Help Guide
 ## Purpose
 This form is used to collect patient information, insurance details, payment information, and billing details from patients for hospital admission billing purposes.

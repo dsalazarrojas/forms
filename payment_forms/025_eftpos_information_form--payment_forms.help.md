@@ -1,11 +1,3 @@
-<thinking>Here's a brief explanation of why we're designing this form and what kind of users we're trying to cater to:
-
-Form Design: This form, called "eftpos_information_form", is designed to collect information from merchants, banks, or third-party vendors related to EFTPOS (Electronic Funds Transfer Point of Sale) transactions. The form's goal is to gather relevant details about merchants' accounts and their EFTPOS terminals to facilitate processing payments. This form is intended for internal use within the organization responsible for managing and monitoring these transactions, so there's no need for external users like merchants or banks to fill it out directly. Our internal staff will be using this form to document and update records for merchants' accounts and terminals, ensuring accuracy and consistency for our internal systems and records. This form's structure and content should be self-explanatory, making it easy to complete and use.
-
-Form Purpose: The form is primarily used to collect and store data on merchants' accounts and terminals, including their contact information, terminal details, account status, and review dates. This data will be used to manage and process EFTPOS transactions efficiently and effectively.
-
-Form Duplication: We're using AI-generated form design to create this form. This form is a one-off creation, not derived from any existing form platform. We're using public survey topic metadata as inspiration for its design and content. We're releasing this form under a Creative Commons license, allowing anyone to use, modify, and even sell forms derived from it, provided they give credit.</thinking>
-
 # eftpos_information_form - Help Guide
 ## Purpose
 

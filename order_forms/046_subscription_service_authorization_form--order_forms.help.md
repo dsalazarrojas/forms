@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for customers to authorize their subscription services, providing a way to collect necessary information for subscription management. This form is likely used by a business to collect data for internal purposes, such as subscription status tracking or billing cycles management. 
-The form should be reviewed to ensure that it does not duplicate or conflict with existing forms in the system, and to guarantee that all necessary fields are present and accurately represented.
-</thinking>
-
 # subscriptionServiceAuthorizationForm - Help Guide
 ## Purpose
 The subscriptionServiceAuthorizationForm is a form used by customers to authorize their subscription services. This form is designed to collect necessary information for subscription management, including customer details, payment methods, billing information, and subscription terms.

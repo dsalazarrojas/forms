@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for a tech product pre-order. The form is intended to be filled out by customers who want to reserve a spot in the pre-order queue, and it will be used to gather necessary details such as shipping and payment information. This form is not intended for actual order placement, but rather for expressing interest in the product and providing preliminary information. It is recommended to fill out this form only if you are certain about pre-ordering the product. 
-
-</thinking>
-
 # tech_product_launch_pre_order_form - Help Guide
 ## Purpose
 The tech_product_launch_pre_order_form is designed to allow customers to express their interest in pre-ordering a tech product and provide preliminary shipping and payment information.

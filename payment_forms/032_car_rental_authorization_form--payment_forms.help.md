@@ -1,14 +1,3 @@
-<thinking>
-The Car Rental Authorization Form is used to authorize a car rental for a specific period. It captures essential information about the renter and the vehicle being rented. This form is used to ensure that both parties are aware of the terms of the rental and to verify the renter's identity. 
-
-This form is typically used for car rental services. It captures information about the renter's personal details, the vehicle being rented, and the rental period. It also includes authorization for a credit card for payment purposes. 
-
-It's essential to ensure that this form is filled out correctly to prevent any potential issues with the rental or payment. The form is divided into several sections, each focusing on a specific aspect of the rental process. 
-
-Before proceeding, please review the form carefully to ensure that you have provided all the necessary information.
-
-</thinking>
-
 # Car Rental Authorization Form - Help Guide
 
 ## Purpose

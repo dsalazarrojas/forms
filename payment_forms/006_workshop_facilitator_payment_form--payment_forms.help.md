@@ -1,5 +1,3 @@
-<thinking>...The purpose of the "Workshop Facilitator Payment Form" is to allow workshop attendees to submit payments for their participation in the workshop, ensuring that they can provide necessary information for processing and facilitating the transaction. This form is designed to be completed by workshop attendees, and it's crucial to fill it out accurately to avoid any payment discrepancies or delays. Please make sure to double-check the provided information before submitting it to avoid errors.</thinking>
-
 # Workshop Facilitator Payment Form - Help Guide
 ## Purpose
 The "Workshop Facilitator Payment Form" is a simple form designed for workshop attendees to submit their payment details.

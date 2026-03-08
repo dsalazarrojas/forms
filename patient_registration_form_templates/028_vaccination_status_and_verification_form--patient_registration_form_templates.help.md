@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the vaccination status and verification details of patients. This form will help healthcare professionals and administrators to accurately record and verify the vaccination history of patients, ensuring that the data is up-to-date and accurate. It's essential to fill this form out with care to maintain accurate patient records and prevent potential medical errors.
-
-The form is designed to collect multiple fields related to vaccination status, verification records, and uploaded files. The form will help ensure that the verification process is completed thoroughly, which may involve checking with the patient, reviewing medical records, or uploading supporting documents. The form is intended to be used in a healthcare setting, and the information collected will help healthcare providers make informed decisions about patient care.
-
-This form is part of a larger patient registration process, and the information collected will be stored and used to provide better patient care. Please ensure that the data entered is accurate and complete to maintain the highest standard of care.
-</thinking>
-
 # vaccination_status_and_verification_form - Help Guide
 ## Purpose
 This form is designed to collect vaccination status and verification details of patients. It's essential to fill this form out with care to ensure accurate patient records.

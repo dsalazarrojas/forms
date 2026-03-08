@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from donors about their individual donations, including their personal details, donation specifics, payment methods, and donation date. The form is used to streamline the donation process and ensure that all necessary information is collected for processing. The form is not intended for recurring donations or batch donations.
-</thinking>
-
 # individual_donation_form - Help Guide
 ## Purpose
 This form is used to collect information from individual donors about their donations, including personal details, donation specifics, payment methods, and date of donation.

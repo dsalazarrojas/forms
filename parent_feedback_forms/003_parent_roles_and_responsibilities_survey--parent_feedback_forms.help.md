@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about the parent's roles and responsibilities within a household. This survey aims to gather data on the relationships between parents, children, and guardians, as well as their interactions with teachers and the dynamics within the household. The form is intended to be filled out by parents or guardians to provide insight into their experiences and circumstances. 
-
-The form is not meant to be filled out by students themselves, and the questions are designed to be answered by the parent or guardian who is most familiar with the household's dynamics. 
-
-Please ensure that you are filling out the correct form and not duplicating efforts. If you are unsure, please double-check with your supervisor or colleague before proceeding.
-</thinking>
-
 # Parent Roles And Responsibilities Survey - Help Guide
 ## Purpose
 The Parent Roles And Responsibilities Survey is designed to collect information about the parent's roles and responsibilities within a household. This survey aims to gather data on the relationships between parents, children, and guardians, as well as their interactions with teachers and the dynamics within the household.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the restaurant menu prototype order form, which is designed to collect customer information for orders. The form is part of the "order_forms" category. The goal is to help end users understand the form's purpose, how to complete it, and what each field means, to ensure accurate and efficient data entry.
-</thinking>
-
 # restaurant_menu_prototype_order_form - Help Guide
 ## Purpose
 The restaurant menu prototype order form is used to collect customer information for orders. It is used to record and track customer details related to their orders.

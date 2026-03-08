@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cancel E-Transfer Request Form - Help Guide
 
 ## Purpose

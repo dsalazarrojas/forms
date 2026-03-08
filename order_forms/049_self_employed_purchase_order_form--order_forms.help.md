@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for self-employed individuals to create and manage their own purchase orders for clients. The form captures client details, work hours, and financial information, making it a crucial tool for self-employed professionals, such as freelancers, consultants, or independent contractors, to accurately track and report their work hours and earnings. It is essential to ensure that the form is used correctly to maintain accurate financial records and avoid discrepancies in billing. Please review the form carefully to ensure you understand the purpose and usage guidelines before proceeding.
-</thinking>
-
 # Self Employed Purchase Order Form - Help Guide
 
 ## Purpose

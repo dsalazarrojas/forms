@@ -1,15 +1,3 @@
-<thinking>
-**Why create this form?**
-This form is created to collect basic patient information for clinic registration.
- 
-**Is this form relevant?**
-This form is relevant for all patients who need to register in the clinic.
- 
-**Is this form duplicated?**
-No, this is a new form for patient registration.
- 
-</thinking>
-
 # Patient Clinic Registration Form - Help Guide
 ## Purpose
 The Patient Clinic Registration Form is used to collect basic information from patients for registration in the clinic.

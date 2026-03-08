@@ -1,5 +1,3 @@
-<thinking>... I am considering the provided YAML form definition for the "Cleaning Supply Order Form". The form consists of several sections, each focused on a specific type of cleaning supply. The purpose of the form appears to be to collect information about the requester, their department, contact details, and specific cleaning supplies needed, as well as additional items. The form also collects information on the urgency and approval status of the request, along with any special instructions or notes... </thinking>
-
 # Cleaning Supply Order Form - Help Guide
 ## Purpose
 This form is designed to collect information for cleaning supply orders from requesters. It guides the requester to provide necessary details about themselves, the supplies needed, and the reason for the order.

@@ -1,6 +1,3 @@
-<thinking>
-The form "eco_friendly_product_order_form" is designed to collect information for customer orders for eco-friendly products. It's intended to be used by customers to place their orders online or in-person. Before filling out this form, ensure you have all necessary information ready. If you have previously submitted an order, it's likely you can find the information you need in the order history.</thinking>
-
 # eco_friendly_product_order_form - Help Guide
 ## Purpose
 The "eco_friendly_product_order_form" is a form designed to help customers place orders for eco-friendly products. It's essential to fill out this form accurately to ensure your order is processed correctly.

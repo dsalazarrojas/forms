@@ -1,18 +1,3 @@
-<thinking>
-We need to ensure that the "Client History Form" is completed accurately and thoroughly by the patient. This form is a critical part of the patient's medical history, and its purpose is to gather essential information about the patient's health status, medical conditions, and other relevant details. It is crucial to complete this form truthfully, as it will be used to inform medical decisions and ensure that the patient receives proper care. This form is not intended to be a substitute for a thorough medical examination by a healthcare professional. Please review this help guide carefully to ensure you understand the purpose and required information for each field.
-
-The form is divided into several sections, each with its own fields and explanations. Please take the time to read through each field carefully to ensure you understand what is required.
-
-To complete this form, please start by reading through the instructions for each field and providing the requested information. Some fields are marked as "required," which means you must provide information in that field. Other fields are marked as "optional," which means you may provide information if you feel it is relevant.
-
-When completing this form, please be as accurate and thorough as possible. If you are unsure about any information, please ask your healthcare provider for guidance.
-
-This form is designed to be completed by the patient, but if you are a healthcare provider, you may need to review and verify the information provided.
-
-Please note that some fields may require special instructions or formatting, such as dates or phone numbers. If you are unsure about any field, please refer to the specific instructions provided.
-
-</thinking>
-
 # Client History Form - Help Guide
 ## Purpose
 The Client History Form is a comprehensive medical history form designed to gather essential information about a patient's health status, medical conditions, and other relevant details. This form is used to inform medical decisions and ensure that the patient receives proper care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for this form, I'll follow the required structure and guidelines. 
 
 # Patient Information - Help Guide

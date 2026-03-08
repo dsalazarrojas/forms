@@ -1,5 +1,3 @@
-<thinking>...this form seems to be a simple order form that likely tracks information related to machine efficiency, possibly for maintenance or service purposes. The form has three fields: "Order form", "Order details", and "Order summary". The "Order form" and "Order details" fields are free-text fields where users can provide additional information about the order. The "Order summary" field is a dropdown menu with two options: "option 1" and "option 2". This form likely doesn't have any specific validation rules or requirements, as none are specified in the YAML. Given this information, here's the help guide for the form:</thinking>
-
 # Machine Efficiency Tracker Order Form - Help Guide
 ## Purpose
 The Machine Efficiency Tracker Order Form is used to record information related to machine efficiency, such as orders for maintenance or services.

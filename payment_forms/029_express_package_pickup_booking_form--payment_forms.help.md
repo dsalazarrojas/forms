@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for express package pickup bookings. The form is intended for customers to provide their details for a package pickup at a specified date and time. The form should not be used for any other purpose, such as order placement or customer service requests. Ensure that the form is only used for express package pickup bookings to avoid duplication of efforts and confusion within the system.
-</thinking>
-
 # express_package_pickup_booking_form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for users to register their experiences, preferences, and comments for tastings. Please ensure you are only completing this form once for each unique tasting experience you have. If you have already registered for a tasting, please do not repeat the process.
-</thinking>
 # Tasting Experience Registration Form - Help Guide
 
 ## Purpose

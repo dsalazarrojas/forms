@@ -1,14 +1,3 @@
-<thinking>
-This guide is intended to support non-technical end users in completing the virtual_event_service_order_form. 
-
-The form is likely used in a business-to-business (B2B) or business-to-consumer (B2C) service delivery context, where event services are ordered or managed. 
-
-The form may be used to create, update, or inquire about events. It's possible that this form is used for both internal and external users, as it contains fields related to event details, services, and attendee information.
-
-Before proceeding, please ensure you're not duplicating work. If you're looking to create or update an event, ensure there are no existing events with the same name. If you're unsure, check with your supervisor or the relevant team lead.
-
-</thinking>
-
 # virtual_event_service_order_form - Help Guide
 ## Purpose
 The virtual_event_service_order_form is used to create, update, or inquire about events related to virtual event services. This form collects information about the event, including its name, service selection, participants, date and time, additional services, and details.

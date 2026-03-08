@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to submit a donation to the Inclusive Community Fund. The form is designed to collect basic user information and their donation amount. This form is part of a larger fundraising campaign, and the collected data will be used to track donations and provide updates to donors. Before filling out this form, please note that you will receive updates and information from the organization via the provided email and phone number.
-</thinking>
-
 # Inclusive Community Fund Donation Form - Help Guide
 ## Purpose
 The Inclusive Community Fund Donation Form is a tool for users to contribute to the Inclusive Community Fund. To submit a donation, complete the form by providing your name, email, and donation amount.

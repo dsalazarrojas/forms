@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather necessary information for the processing of Factory Automation Controller orders. To use this form, a user would likely be a sales or customer service representative who interacts with customers on a daily basis. The form should not be duplicated, as it is a critical component of our sales and order processing workflow.
-</thinking>
-
 # Factory Automation Controller Order Form - Help Guide
 ## Purpose
 The Factory Automation Controller Order Form is used to collect information for the processing of factory automation controller orders.

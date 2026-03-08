@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information about users participating in a veggie fundraising event. To ensure this form is being used correctly, it should only be used for its intended purpose and not duplicated without proper authorization. If you're unsure about the form's purpose or have concerns about its usage, please contact form@gic.mx.
-</thinking>
-
 # veggie_fundraising_participation_form - Help Guide
 ## Purpose
 

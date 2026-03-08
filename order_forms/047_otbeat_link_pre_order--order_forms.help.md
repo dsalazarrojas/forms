@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to create or update their link pre-order for "OTBeat Link Pre Order". The purpose of this form is to collect information from customers regarding their order preferences, such as their first name, email, phone number, date, time, order notes, and link details. This form is likely used by a business or organization to manage and fulfill customer orders for links. The form does not require any of the fields to be filled in and is primarily used for data collection purposes.
-</thinking>
-
 # OTBeat Link Pre Order - Help Guide
 ## Purpose
 This form is used to collect information for "OTBeat Link Pre Order" from customers.

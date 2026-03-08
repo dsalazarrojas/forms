@@ -1,13 +1,3 @@
-<thinking>
-
-Internal reasoning block: This form is designed to collect relevant information from patients with diabetes for medical evaluation and treatment planning. The form includes a mix of demographic information (name, contact details, medical record ID), medical history (date of birth, blood pressure, height, weight), and treatment specifics (diabetes type, medication, complications), as well as follow-up appointments and assigned tools.
-
-This form is intended for healthcare professionals to use for patient intake, assessment, and care planning. The required fields are marked as such, ensuring that essential information is captured to provide comprehensive care.
-
-The form also includes optional fields to gather additional context and details, such as medical tests, treatment outcomes, and assigned tools. These fields are intended for healthcare professionals to gather more information on a patient's condition and treatment plan.
-
-</thinking>
-
 # Diabetes Patient Application Form - Help Guide
 ## Purpose
 The Diabetes Patient Application Form is designed to collect relevant information from patients with diabetes for medical evaluation and treatment planning.

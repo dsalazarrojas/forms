@@ -1,19 +1,3 @@
-<thinking>
-
-To ensure the form is correctly filled out, we first need to understand its purpose and the fields it contains. The form is called "Custom Beer Order Form" and is likely used for customers to provide their information and order details for beer purchases.
-
-The form is not affiliated with any specific form platform, but rather was generated using AI and public metadata. This suggests that the form is an original creation and not a direct copy of any other form. The form consists of three pages, each with different fields.
-
-To determine the relevance and non-duplication of the form, let's consider the following:
-
-* The form title and category suggest it's a specialized form for ordering beers.
-* The page names ("customer_info", "delivery_info", and "order_summary") imply a focus on customer and delivery details.
-* The field types ("text") suggest a free-form input area for customers to provide their information and order details.
-
-Given these insights, we can infer that the form is intended for customers to provide their name, address, and order summary for beer deliveries.
-
-</thinking>
-
 # Custom Beer Order Form - Help Guide
 ## Purpose
 

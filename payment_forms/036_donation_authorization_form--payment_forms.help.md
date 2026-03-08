@@ -1,8 +1,3 @@
-<thinking>
-The "Donation Authorization Form" is a tool used to collect and process donations from individuals who wish to make contributions to a particular cause or organization. This form will guide users through the process of authorizing and recording their donations. It is essential to review the information provided to ensure accuracy and completeness before proceeding. This form is a crucial step in the donation process and should only be filled out when a donation is intended. 
-
-</thinking>
-
 # Donation Authorization Form - Help Guide
 
 ## Purpose

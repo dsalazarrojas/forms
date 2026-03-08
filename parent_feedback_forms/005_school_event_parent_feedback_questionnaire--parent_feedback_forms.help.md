@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents regarding a school event. The form should only be completed by parents who have attended a school event. Please ensure that you are only completing this form if you have indeed attended an event at the school. 
-This form should not be used by school staff or administrators to provide their own feedback, as they will likely already have a good understanding of the event's details and outcomes.
-</thinking>
-
 # School Event Parent Feedback Questionnaire - Help Guide
 ## Purpose
 The School Event Parent Feedback Questionnaire is a survey designed to collect feedback from parents who have attended a school event. This feedback will help the school understand what worked well and what could be improved for future events.

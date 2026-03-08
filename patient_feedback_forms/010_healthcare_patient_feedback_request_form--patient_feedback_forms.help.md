@@ -1,14 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback from patients on their healthcare experience. It appears to be a long form with multiple pages, each with its own set of questions or prompts. The form is designed to be completed by patients to provide their thoughts, feelings, and opinions on their healthcare experience. Before completing the form, please ensure you have the necessary information and authorization to do so.
-
-To confirm, this form is not intended for emergency or critical care situations. Please do not use this form for urgent or time-sensitive matters. If you have concerns or need immediate attention, please contact your healthcare provider directly.
-
-Also, note that the form is designed to be completed by individual patients, so please do not use this form for aggregating feedback from multiple patients.
-
-Now, let's dive into the form's details.
-
-</thinking>
-
 # Healthcare Patient Feedback Request Form - Help Guide
 ## Purpose
 The Healthcare Patient Feedback Request Form is designed to collect feedback from patients on their healthcare experience. This form is intended to be completed by individual patients, and it's not meant for urgent or time-sensitive matters.

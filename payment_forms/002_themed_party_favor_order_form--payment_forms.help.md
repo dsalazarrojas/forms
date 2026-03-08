@@ -1,7 +1,3 @@
-<thinking>
-To design a user-facing help guide for this form, we need to first understand the purpose and context of the form. This "Themed Party Favor Order Form" is likely used for a party planning or event organization scenario, where customers can order party favors, gifts, or food for a themed party. The form appears to gather information about the customer's order details, such as name, email, phone number, date and time of the event, order type, and payment method. It also captures additional information like order description, total items, and payment total. The form has several select_one options for order type, payment method, and order status, which might be relevant for internal processing or categorization of orders. Some fields are optional, indicating they might be used for additional or supplementary information.
-</thinking>
-
 # Themed Party Favor Order Form - Help Guide
 ## Purpose
 The Themed Party Favor Order Form is used to collect information for a party or event order. This form helps you place an order for party favors, gifts, or food for your party or event.

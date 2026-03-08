@@ -1,5 +1,3 @@
-<thinking>...This form is designed for customers to initiate a product return and refund process. It's a crucial document for our team to process returns efficiently and effectively. To ensure consistency in our return and refund process, it's essential that customers provide accurate information. We will review and respond to each request carefully. This form is not intended to be used for other purposes, so please do not submit it for any other reason. If you're unsure about anything, feel free to reach out to our customer support team.</thinking>
-
 # Product Return Refund Form - Help Guide
 ## Purpose
 The Product Return Refund Form is a crucial tool for customers to initiate a product return and refund process. This form ensures a smooth and efficient exchange between our team and customers. Your prompt and accurate submission will help us process your return request quickly.

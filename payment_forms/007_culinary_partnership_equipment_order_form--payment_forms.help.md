@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a Culinary Partnership's equipment order. It is intended for partners who wish to order equipment for their businesses. Please ensure this form is used only for the purpose of ordering equipment for a Culinary Partnership, and not for other purposes. This form should not be used for duplicate orders, as it is designed to handle a single order for each partner.
-</thinking>
-
 # CulinaryPartnershipEquipmentOrderForm - Help Guide
 ## Purpose
 The CulinaryPartnershipEquipmentOrderForm is a form used for partners to order equipment for their businesses. Fill out this form to place a new order with a partner's required information and equipment details.

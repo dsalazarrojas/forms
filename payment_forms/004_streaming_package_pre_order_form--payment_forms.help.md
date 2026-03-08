@@ -1,18 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I need to understand the form's purpose, structure, and requirements. This form is used for preprocessing a streaming package, which likely involves creating or reserving a streaming plan with a customer. The purpose of the form is to collect necessary information for processing the order. The form has multiple pages with fields for streaming plan selection, start date, customer details, and more. 
-
-The form is divided into several sections with the following fields:
-- **streaming_plan**: A select multiple field that allows users to choose one or more streaming plans, which are likely Basic, Premium, and Deluxe plans.
-- **start_date**: A date field where users can input the start date of the streaming plan.
-- **customer_details**: A text field where users can provide a brief description of the customer.
-- **customer_name**, **customer_email**, and **customer_phone**: Text fields for collecting customer contact information.
-- **customer_note**: A note field where users can add any additional information about the customer.
-- **form_submission_actions**: A select one field with three options: Save and close, Save and continue, and Cancel. This is likely used to determine what action to take after the form submission.
-
-This guide will help end-users understand the purpose of the form, how to complete it, and what each field means in the context of the form.
-
-</thinking>
-
 # streaming_package_pre_order_form - Help Guide
 ## Purpose
 The streaming package preorder form is used to process a streaming package with a customer. It helps you collect necessary information to create or reserve a streaming plan for the customer.

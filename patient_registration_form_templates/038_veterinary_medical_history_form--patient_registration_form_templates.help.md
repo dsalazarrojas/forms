@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the veterinary medical history form, I will consider the following:
-* The form is for collecting medical history information from patients.
-* The form will be completed by the patient or their representative.
-* The information collected will be used for medical diagnosis and treatment planning.
-* The form will be completed on a one-time basis.
-</thinking>
-
 # veterinary_medical_history_form - Help Guide
 ## Purpose
 This form is designed to collect medical history information from patients to help with medical diagnosis and treatment planning. It is a one-time form that should be completed by the patient or their representative.

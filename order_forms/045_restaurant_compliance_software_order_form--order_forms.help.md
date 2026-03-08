@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from customers about their restaurant compliance software needs. It's likely used by the sales team to understand customer requirements and follow up on their requests. I don't see any obvious fields for order-related data or payment information, so it's possible this form is part of a lead generation process rather than a direct sales transaction.
-</thinking>
-
 # restaurant_compliance_software_order_form - Help Guide
 ## Purpose
 This form collects information from customers about their restaurant compliance software needs and preferences.

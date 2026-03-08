@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a form designed to track construction progress and billing information for a project. It appears to be used by construction companies to report on the progress and financial status of a construction project. The form likely serves as a tool for project managers or billing managers to track and submit billing information to clients or stakeholders.
 
 Here is the user-facing help guide for the form:

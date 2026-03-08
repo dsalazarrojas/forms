@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # insurance_premium_payment_form - Help Guide
 
 ## Purpose

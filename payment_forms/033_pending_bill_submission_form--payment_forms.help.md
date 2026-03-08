@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for capturing information about pending bills to be submitted to the billing team for processing. The fields are designed to provide the necessary details about the bill, including the department and project it is associated with, the due date, and any relevant notes. The form should only be used for bills that are not yet due or submitted, and users should not submit bills that are already due or have been submitted.
-
-The fields are self-explanatory, but a brief explanation of each field will be provided below to ensure users understand their purpose and how to complete them correctly.
-
-</thinking>
-
 # pending_bill_submission_form - Help Guide
 ## Purpose
 The pending_bill_submission_form is used to capture information about pending bills to be submitted to the billing team for processing.

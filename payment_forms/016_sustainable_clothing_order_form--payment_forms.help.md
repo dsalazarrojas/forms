@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for ordering sustainable clothing. The form is not affiliated with, endorsed by, or derived from any form platform, but rather an original adaptation created using only public survey topic metadata as inspiration. It includes various fields for customer and payment information, order options, and shipping details. The form is released under CC BY 4.0 and can be used, modified, and sold by anyone, as long as credit is given. Please note that this form is not intended for commercial or sensitive use, and the fields and their labels are designed to be self-explanatory. The purpose of this form is to gather necessary information for a sustainable clothing order, and it should only be used for non-sensitive purposes.
-</thinking>
-
 # Sustainable Clothing Order Form - Help Guide
 ## Purpose
 The sustainable clothing order form is designed to collect customer information and order details for sustainable clothing orders. This form helps to streamline the ordering process, ensuring that all relevant information is collected in a single submission.

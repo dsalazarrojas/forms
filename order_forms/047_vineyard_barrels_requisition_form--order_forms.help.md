@@ -1,10 +1,3 @@
-<thinking>
-To ensure that users understand the purpose and requirements of the Vineyard Barrels Requisition Form, I will create a clear and concise help guide. The form is used to document and communicate the details of new requests, delivery schedules, and internal approvals for vineyard-related operations.
-
-The form is intended for vineyard professionals who need to record, track, and report various operational requirements, such as requisitioning new barreling materials, coordinating deliveries, and obtaining necessary internal approvals. The form aims to streamline and standardize this process, reducing errors and enhancing efficiency.
-
-Before proceeding, please review the form carefully to avoid duplication and ensure that the necessary information is accurately captured. If you are unsure about any aspect of the form or have questions, please don't hesitate to reach out to the form administrator for guidance.</thinking>
-
 # Vineyard Barrels Requisition Form - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the Vineyard Barrels Requisition Form, ensuring that you provide accurate and complete information.

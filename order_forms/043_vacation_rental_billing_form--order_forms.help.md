@@ -1,25 +1,3 @@
-<thinking>
-This form is used to process the billing information for a vacation rental order. The form is intended to capture key details about the order, such as the customer's name, email, and phone number, as well as the payment method and payment status. The purpose of this form is to ensure accurate and efficient billing processing. It is expected that the form will be filled out by a user, but it is not clear if this form is meant to be filled out by a customer or an internal user, so we will assume it is for internal use.
-
-This form captures the following information:
-- Customer name
-- Email address
-- Phone number
-- Payment method (options: Credit Card, PayPal, Bank Transfer, Cash)
-- Additional payment method details (text input)
-- Rental details
-- Order notes (if any)
-- Order amount
-- Total cost ( likely including tax)
-- Tax rate
-- Discount (if any)
-- Payment status (options: Paid, Unpaid, Partially Paid, Pending)
-- Payment method payment id and dates
-- Payment method transaction ids and dates
-
-We will provide a detailed explanation of each field below.
-</thinking>
-
 # Vacation Rental Billing Form - Help Guide
 ## Purpose
 This form is used to process the billing information for a vacation rental order.

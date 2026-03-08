@@ -1,13 +1,3 @@
-<thinking>
-
-**Form Purpose:**
-The payment withdrawal form is used to collect information from users when a payment is being withdrawn from their account. This form helps the user to provide their account details and transaction information in order to facilitate the withdrawal process.
-
-**Relevance Check:**
-Before proceeding, make sure you are filling out this form for a valid payment withdrawal reason. If you are unsure or have questions, please contact our support team.
-
-</thinking>
-
 # Payment Withdrawal Form - Help Guide
 ## Purpose
 This form is used to submit a payment withdrawal request to our system. Please fill out the form below to provide the required information.

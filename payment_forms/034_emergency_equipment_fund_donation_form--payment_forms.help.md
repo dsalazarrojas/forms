@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # emergency_equipment_fund_donation_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture order information from users, allowing them to submit their Fall/Winter 2020 Color Street product orders. This form has several fields to collect essential details such as customer information (name, address, phone), contact (phone, email), order details (date, time), and additional notes. To confirm the correct use of this form, please make sure to understand that it is for Fall/Winter 2020 orders only, and not for other seasons' orders.
-</thinking>
-
 # Fall/Winter 2020 Color Street Order Form - Help Guide
 ## Purpose
 This form is for customers to submit their Fall/Winter 2020 Color Street order. Please fill it out with accurate and complete information.

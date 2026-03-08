@@ -1,16 +1,3 @@
-<thinking>... internal logic checks:
-
-*   This form is intended for customers to place tool orders. 
-*   The form is divided into multiple pages with different sections. 
-*   To avoid duplication, we should only display the form to customers after we verify that they are not already logged in and that their order status is not already fulfilled.
-*   The form is designed to collect shipping details, contact information, and order preferences. 
-*   Some fields are not required, but it's crucial that customers provide accurate contact information. 
-*   If a customer orders a damaged tool, they will need to specify the type of order (change, new, or replacement). 
-*   The order type selection will impact the shipping details that are requested. 
-*   This form is designed to be simple and easy to use. 
-*   Customers can enter their contact information and shipping details in multiple languages, but we will need to ensure that this feature is properly implemented. 
-</thinking>
-
 # Tool Order Form - Help Guide
 ## Purpose
 The Tool Order Form is designed to help customers place orders for tools and equipment. This form collects essential information to process the order efficiently and accurately. Please fill out the form with your details, and our team will be in touch with you to confirm your order.

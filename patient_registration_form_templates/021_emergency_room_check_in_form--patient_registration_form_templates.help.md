@@ -1,5 +1,3 @@
-<thinking>Before you start filling out this form, let's ensure you're using the right form for the right purpose. This form is designed for patients to provide necessary information for emergency room check-in. Please ensure you're not using this form for any other purpose, as it may lead to duplication of effort or incorrect data collection. This form is meant to gather vital information for emergency medical situations, and any inaccuracies may have serious consequences.</thinking>
-
 # Emergency Room Check In Form - Help Guide
 ## Purpose
 The Emergency Room Check In Form is designed to gather necessary information from patients in emergency room situations. This information is used to quickly assess and treat any health issues that may be present.

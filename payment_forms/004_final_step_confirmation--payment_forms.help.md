@@ -1,9 +1,3 @@
-<thinking>
-The form is used as the final step in a payment process, where users can confirm their details before proceeding with the payment. The fields in this form are intended to be filled out with information that matches the user's identity and payment details. 
-The form is not intended for users to input information that does not match their real-life identity, so users are encouraged to double-check their details to ensure accuracy. 
-Please note that the form is not meant to be filled out multiple times, so any duplicate submissions will not be accepted. 
-</thinking>
-
 # Final Step Confirmation - Help Guide
 ## Purpose
 The final step confirmation form is used to verify the user's details before proceeding with the payment process. This form ensures that the user's identity and payment details are accurate.

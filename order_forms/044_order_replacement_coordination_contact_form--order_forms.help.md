@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect information for order replacement coordination contacts. It is intended for customers to provide their details and preferences for order replacement purposes. Please ensure this form is used correctly and is not duplicated or sent without consent from the customer.
-
-Before filling out this form, please note that:
-
-- Each form field is required unless explicitly marked as optional.
-- You can use this form for order replacements only.
-- This form is intended for customers, not for internal staff.
-- The form is not intended to be used for other purposes, such as creating new orders.
-
-Please ensure that you have obtained the customer's consent before sending this form to them.
-</thinking>
-
 # Order Replacement Coordination Contact Form - Help Guide
 
 ## Purpose

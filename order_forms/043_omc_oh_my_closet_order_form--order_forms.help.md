@@ -1,10 +1,3 @@
-<thinking>
-This form is intended for customers to provide shipping information and order details.
-This form will collect information on the customer's shipping address, order preferences, and other relevant details.
-The fields in this form are designed to be user-friendly and minimize errors.
-This form will not be used for payment processing or sensitive information collection.
-</thinking>
-
 # Order Form - Help Guide
 ## Purpose
 The Order Form is designed to collect information from customers about their shipping details and order preferences. This form is used to gather essential data for order fulfillment and communication with customers.

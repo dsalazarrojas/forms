@@ -1,11 +1,3 @@
-<thinking>
-
-We will be using this form to collect donations for the Clean Streets Campaign. This form is used to gather information from individuals who wish to support the campaign's efforts in keeping our community clean and green. 
-
-Please ensure that you have not already submitted this form as duplicate submissions may be discarded.
-
-</thinking>
-
 # Clean Streets Campaign Donation Form - Help Guide
 ## Purpose
 The Clean Streets Campaign Donation Form is a tool used to collect donations from individuals who want to support the campaign's efforts to keep our community clean and green.

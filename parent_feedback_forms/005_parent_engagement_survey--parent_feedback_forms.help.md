@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents regarding their engagement with the school or organization. The purpose of this form is to gather information about parent's level of engagement, communication, and involvement in their child's education. This form is meant to be completed by parents, and the information collected will be used to improve parent-teacher communication and tailor school programs to better serve the needs of parents and students. Before proceeding, ensure that you are not already responding to this survey. If you have previously completed this survey, please do not submit a duplicate response. This will help us to better understand your needs and make data-driven decisions to improve the school environment.</thinking>
-
 # parent-engagement-survey - Help Guide
 ## Purpose
 The parent-engagement-survey is designed to gather information from parents about their level of engagement with the school or organization. This survey aims to understand parent's involvement, communication, and satisfaction with the school or organization.

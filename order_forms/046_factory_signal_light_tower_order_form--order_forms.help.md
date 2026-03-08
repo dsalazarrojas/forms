@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information about a Factory Signal Light Tower order from the end user, ensuring accurate and efficient processing of their request. 
-
-This form should only be used for new orders and not for editing or updating existing orders. 
-
-Please ensure that all required fields are filled out completely and correctly before submitting the form.
-
-</thinking>
-
 # Factory Signal Light Tower Order Form - Help Guide
 ## Purpose
 The Factory Signal Light Tower Order Form is designed to collect necessary information for processing new orders of factory signal light towers.

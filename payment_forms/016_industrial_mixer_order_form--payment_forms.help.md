@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # industrial_mixer_order_form - Help Guide
 ## Purpose
 This form is designed to collect customer information, order details, shipping information, payment details, and order total and confirmation for industrial mixers. It is intended for customers or sales teams to input data for new orders, ensuring accurate and complete information for processing and fulfillment.

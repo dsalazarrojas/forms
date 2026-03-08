@@ -1,7 +1,3 @@
-<thinking>
-This help guide will provide a detailed explanation of the form "YonniRed Brand Products" to help end-users understand its purpose, complete it correctly, and navigate its fields.
-</thinking>
-
 # YonniRed Brand Products - Help Guide
 ## Purpose
 The YonniRed Brand Products form is designed to collect information related to payments made by customers for products. It serves as a platform for recording and tracking payment details, including customer information, payment methods, and product pricing. This form helps in maintaining accurate records and ensures that all payment transactions are properly documented.

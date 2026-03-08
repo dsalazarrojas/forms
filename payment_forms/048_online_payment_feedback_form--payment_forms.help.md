@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather feedback from customers about their experiences with our online payment method. The form is designed to be simple and easy to complete, with questions that cover various aspects of the payment process. To ensure that the form is completed correctly, please note that it is required that you fill out all fields that are marked as "required".
-</thinking>
-
 # online_payment_feedback_form - Help Guide
 ## Purpose
 This form is used to gather feedback from customers about their experiences with our online payment method. The form is designed to be simple and easy to complete, with questions that cover various aspects of the payment process.

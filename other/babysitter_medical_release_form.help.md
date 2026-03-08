@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information about a babysitter's medical release form, which is a legal document that allows parents or guardians to grant permission for their child to receive medical treatment in their absence. This form is typically used by parents or guardians who are leaving their child in the care of a babysitter and want to ensure that the babysitter is aware of any medical conditions or allergies that may affect their child's care. 
-
-The form is also used to collect contact information for emergency situations, such as medical emergencies or other unexpected events. The form is meant to be completed by the parent or guardian and returned to the babysitter before they begin caring for the child. This will help the babysitter be aware of any medical conditions or allergies that may affect the child's care and ensure that they can provide the best possible care for the child.
-
-To avoid duplication, it's essential to ensure that this form is completed for each new babysitter that the child is cared for, and that it is kept up to date with any changes in the child's medical information.
-
-</thinking>
-
 # Babysitter Medical Release Form - Help Guide
 ## Purpose
 The Babysitter Medical Release Form is a legal document that allows parents or guardians to grant permission for their child to receive medical treatment in their absence. It's essential to complete this form to ensure that the babysitter is aware of any medical conditions or allergies that may affect their care of your child.

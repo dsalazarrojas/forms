@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help parents and teachers schedule and organize parent-teacher conferences. It will allow users to select a date and time for the conference, specify the duration of the meeting, choose a location, and provide any necessary notes or contact information. The form will help facilitate smooth communication and planning between parents and teachers, ensuring that both parties are on the same page and can focus on the conference without unnecessary delays or miscommunications.
-
-Before proceeding, please ensure that you have filled out the form correctly and accurately. Please review this guide to ensure you understand the purpose and requirements of the form.
-
-</thinking>
-
 # Parent Teacher Conference Sign Up Form - Help Guide
 ## Purpose
 The Parent Teacher Conference Sign Up Form is a tool for parents and teachers to schedule and coordinate parent-teacher conferences.

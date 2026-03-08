@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place bulk orders for customized gym branded keychains. The form allows users to input their user information, order details, and billing and shipping information. Each field is designed to gather specific data required for order processing and delivery. The form is meant to be simple and easy to navigate.
-</thinking>
-
 # Gym Branded Keychain Bulk Order Form - Help Guide
 ## Purpose
 This form is used to place bulk orders for customized gym branded keychains. It is intended for customers who want to order multiple keychains with their gym's logo or branding.

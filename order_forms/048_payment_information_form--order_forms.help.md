@@ -1,9 +1,3 @@
-<thinking>
-The form is intended for customers to provide payment information for a purchase or service. This form collects various fields to capture relevant details such as customer's name, shipping address, mobile number, payment mode (e.g., Stripe, PayPal, Bank Transfer), payment schedule (e.g., Daily, Weekly, Monthly), and other options for payment and payment schedule. The form is likely used in a customer service or e-commerce context to facilitate secure and efficient transactions. It is not clear from the provided YAML whether the form is for new customers or existing customers, so the form's purpose could be for both.
-
-To ensure that this form is not being used incorrectly, we will review the form's usage and update this guide as needed.
-
-</thinking>
 # Payment Information Form - Help Guide
 ## Purpose
 This form is for customers to provide payment information for a purchase or service. It collects various details to facilitate secure and efficient transactions.

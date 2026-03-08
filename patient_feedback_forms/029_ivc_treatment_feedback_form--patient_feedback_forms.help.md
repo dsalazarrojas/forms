@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for patients to provide feedback on their experience with an IVC (Intravenous Contrast) treatment. The purpose of this form is to collect patient feedback on specific aspects of their experience, such as their overall satisfaction, any side effects they experienced, and suggestions for improvement. This form will help us understand what we're doing well and where we can improve to provide better care for our patients.
-
-</thinking>
-
 # IVC Treatment Feedback Form - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients on their experience with IVC treatment. Your input will help us understand how we can improve our services to better serve you.

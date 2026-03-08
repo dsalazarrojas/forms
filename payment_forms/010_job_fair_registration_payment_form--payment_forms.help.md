@@ -1,17 +1,3 @@
-<thinking>
-This is a form designed to collect payment information from job seekers and employers participating in a job fair event. The form is meant to gather essential details such as the event title, job seeker and employer information, registration type, payment amount, payment method, job fair date, job fair time, and job fair location. The goal is to ensure accurate and efficient processing of payments for the event. 
-
-Before filling out this form, please ensure that you have all the necessary information ready, including the event title, job seeker and employer details, payment amount, and other required fields. 
-
-The form is divided into several sections, each focusing on specific aspects of the job fair registration process. 
-
-This form is intended for job seekers and employers who wish to participate in the job fair event. 
-
-Please note that some fields are optional, while others are required for accurate processing of payments. 
-
-This form will guide you through the necessary steps to complete your registration and payment for the job fair.
-</thinking>
-
 # Job Fair Registration Payment Form - Help Guide
 ## Purpose
 The form is designed to collect payment information for job seekers and employers participating in a job fair event.

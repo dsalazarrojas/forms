@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information and track orders for home health supplies. The form collects details such as patient information, payment information, order details, and other relevant data. It is possible that this form is used for internal purposes within the organization, such as tracking orders, managing patient information, or processing payments. Before filling out this form, ensure that you have the necessary permissions and understand the purpose of the form to avoid errors or duplication of effort.
-
-</thinking>
-
 # home_health_supply_order_form - Help Guide
 ## Purpose
 The home health supply order form is used to collect and track information related to home health supply orders. This form is designed to gather details such as patient information, payment information, and order specifics to facilitate efficient order processing and management.

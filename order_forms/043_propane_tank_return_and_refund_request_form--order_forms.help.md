@@ -1,23 +1,3 @@
-<thinking>
-To create a comprehensive user-facing help guide for the "Propane Tank Return And Refund Request Form", we need to understand the purpose of this form and the context in which it's being used. This form is likely used for customers to request a refund for a propane tank that has been returned, which implies that the form is part of a process for managing customer returns and refunds. It's probable that the form is used in a retail or business-to-business setting where customers need to return propane tanks and receive refunds. To confirm, let's review the form fields and their requirements:
-
-*   `propane_tank_return_request_details`: This field is likely where customers provide a detailed description of the reason for the return, which could be for various reasons such as damaged, not functioning as expected, or other issues.
-*   `customer_info`: This field is probably where customers provide their contact information, which could be used to contact them in case of any questions or follow-up regarding their return request.
-*   `delivery_date`: This field might be used to track the date when the propane tank was delivered to the customer, which could be relevant for warranty purposes or tracking the tank's history.
-*   `delivery_time`: This field is likely used to track the time of day when the propane tank was delivered, which could be useful for delivery tracking or scheduling purposes.
-*   `propane_tank_capacity`: This field is probably used to record the capacity of the propane tank, which could be a critical piece of information for the customer and the company's inventory management.
-*   `propane_return_address`: This field is where customers provide the address where the propane tank was delivered, which could be used for logistics or delivery purposes.
-*   `return_date`: This field is where customers provide the date they are returning the propane tank, which could be used to track the return process and update the tank's status.
-*   `refund_status`: This field is likely used to keep track of the status of the refund request, whether it's approved, pending, or rejected.
-*   `refund_details`: This field might be used to provide more detailed information about the refund, which could include any relevant documentation or supporting evidence.
-*   `notes`: This field is probably used for any additional comments or notes that need to be attached to the return and refund request.
-*   `customer_phone`: This field is where customers provide their phone number, which could be used for communication purposes.
-*   `customer_email`: This field is where customers provide their email address, which could be used for communication or follow-up regarding the return and refund request.
-
-Given this understanding, the form is likely used to collect information about a customer's return request for a propane tank, including details about the tank, the customer's contact information, and the status of the refund request.
-
-</thinking>
-
 # Propane Tank Return And Refund Request Form - Help Guide
 ## Purpose
 The "Propane Tank Return And Refund Request Form" is used for customers to request a refund for a propane tank that has been returned. This form is part of the process for managing customer returns and refunds.

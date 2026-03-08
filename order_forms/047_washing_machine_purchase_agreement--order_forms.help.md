@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # washing_machine_purchase_agreement - Help Guide
 ## Purpose
 This form is intended to collect information for a washing machine purchase agreement. It is used to gather details from customers regarding their purchase experience, including sales and delivery terms.

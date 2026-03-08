@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for collecting information related to backhaul orders and requests. It is likely used in a transportation or logistics context, possibly for managing backhaul operations or for requesting backhaul services. The form is not clearly intended for any specific business or industry, so it could be used in various contexts.
-</thinking>
-
 # untitled_form - Help Guide
 ## Purpose
 The untitled_form is designed to collect relevant information related to backhaul orders and requests. This form is likely used in a transportation or logistics context for managing backhaul operations or requesting backhaul services.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for plant training orders. It is a general-purpose form for any type of plant training order, including but not limited to, plant training for trees, flowers, and other types of plants. This form does not require a specific reason for its usage, making it a good option for various scenarios. 
-</thinking>
-
 # plant_training_wire_order_form - Help Guide
 ## Purpose
 This form is used to collect information from customers for plant training orders. Please fill out this form to place an order for plant training services.

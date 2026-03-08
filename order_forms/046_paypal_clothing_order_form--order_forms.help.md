@@ -1,22 +1,3 @@
-<thinking>
-This is a form for users to enter information about their PayPal clothing order. The purpose of this form is to collect order details, such as customer contact information (first name, last name, email, phone), shipping information (shipping address, city, state, zip), and order specifics (order total, items ordered). This form is designed to be completed by customers who are placing an order through PayPal, and the data collected will be used to process and fulfill the order.
-
-The form has 10 fields:
-- first name
-- last name
-- email
-- phone
-- shipping address
-- shipping city
-- shipping state (select one from a list of 13 options)
-- shipping zip
-- order total
-- items ordered (select multiple from a list of 10 options)
-
-Each field is optional, but providing accurate and complete information will help with order fulfillment and ensure that the order is processed correctly.
-
-This form can be completed by customers in a few minutes, and the information provided will be used to create an account in the system for future orders.
-</thinking>
 # PayPal Clothing Order Form - Help Guide
 ## Purpose
 This form is for customers to enter their order details when placing a PayPal clothing order.

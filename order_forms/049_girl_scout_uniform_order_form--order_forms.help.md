@@ -1,6 +1,3 @@
-<thinking>
-This form is for processing Girl Scout Uniform orders. The form will likely be used internally to fulfill customer requests for Girl Scout uniforms.
-</thinking>
 # Girl Scout Uniform Order Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers to process their Girl Scout Uniform orders. It will help the Girl Scout organization understand what the customer needs, including size, color, and quantity of uniforms.

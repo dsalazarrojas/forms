@@ -1,5 +1,3 @@
-<thinking>...This form is intended to gather information for a PayPal purchase order. It includes fields for the customer's personal details, such as first and last name, email, address, city, and state. It also requires information about the purchase, including total items, unit price, and shipping cost. Additionally, the form asks for payment method options and includes fields for PayPal-specific information, including PayPal email, password, and token. This form is designed to be completed by the customer to provide the necessary details for a seamless payment process....</thinking>
-
 # PayPal Purchase Order Form - Help Guide
 ## Purpose
 This form is intended to gather information for a PayPal purchase order. It includes fields for the customer's personal details, such as name, address, and email, as well as information about the purchase, including total items, unit price, and shipping cost.

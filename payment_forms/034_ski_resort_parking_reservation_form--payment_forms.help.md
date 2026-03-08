@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for employees who need to assist guests with reserving parking spots at the ski resort. Please ensure that you have reviewed all parking policies before proceeding. This form is designed to gather information about the guest's arrival time, vehicle type, and payment method, which is required for efficient parking spot allocation. This guide will help you understand how to complete the form accurately and effectively.
-</thinking>
-
 # Ski Resort Parking Reservation Form - Help Guide
 ## Purpose
 The Ski Resort Parking Reservation Form is used to reserve a parking spot for guests arriving at the ski resort. It helps us to manage parking efficiently and ensure that guests can park their vehicles in a convenient location during their visit.

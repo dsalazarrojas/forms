@@ -1,9 +1,3 @@
-<thinking>
-This guide will cover the creation of a user-facing help document for the "Factory Insulation Material Order Form". This form is likely used to capture information for a factory that needs to order insulation materials. The form will be used internally within the factory or for communication with external stakeholders or customers.
-The form will have fields for material type, quantity ordered, insulation product, delivery date, delivery time, customer name, contact number, email, address, notes, assigned status, and assigned to personnel. The purpose of the form is to ensure accuracy and completeness of the order, and to facilitate smooth communication and processing within the factory or with external parties.
-Please ensure that the form is not used for other purposes than intended, and that the fields are completed according to their intended use.
-</thinking>
-
 # Factory Insulation Material Order Form - Help Guide
 
 ## Purpose

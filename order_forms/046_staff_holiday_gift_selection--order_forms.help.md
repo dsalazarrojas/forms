@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form "Staff Holiday Gift Selection" is a form used to collect information about staff holiday gift preferences and other relevant details. This form is likely intended for human resources or department management teams to gather input from staff on their gift preferences and other details such as delivery options and gift amount. To avoid duplication, it's essential to ensure that the staff has not previously submitted their gift preferences.
 
 </thinking>

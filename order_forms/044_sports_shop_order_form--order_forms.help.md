@@ -1,7 +1,3 @@
-<thinking>
-To create a user-friendly and effective help guide for the "Sports Shop Order Form", I'll first consider the purpose and design of the form. The form seems to be designed for customers to place orders at a sports shop, likely for products or services related to sports. The purpose of the form is to collect information about the customer and their order details for processing and fulfillment.
-</thinking>
-
 # Sports Shop Order Form - Help Guide
 ## Purpose
 This form is designed for customers to provide information about their orders for sports-related products or services.

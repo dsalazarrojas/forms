@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information and donations from individuals who wish to support the military and their families. The form is intended for those who want to contribute financially to military support projects, which can be selected from a list of options. The form also asks for personal contact information to allow for follow-up communication. The form is not intended for general donations, but specifically for military support purposes.
 
 # Military Support Donation Form - Help Guide

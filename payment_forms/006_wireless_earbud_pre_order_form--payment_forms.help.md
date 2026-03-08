@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to place a pre-order for wireless earbuds. The purpose of this form is to gather necessary information from the customer to process their order accurately and efficiently. It is crucial to complete this form carefully to avoid any errors or issues with the order. Please make sure to fill out this form only once and not duplicate any existing orders. If you have any existing orders, you can check your order history to confirm the status of your order.
-</thinking>
-
 # Wireless Earbud Pre Order Form - Help Guide
 ## Purpose
 The Wireless Earbud Pre Order Form is designed to collect necessary information from customers to process their pre-orders for wireless earbuds.

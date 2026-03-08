@@ -1,11 +1,3 @@
-<thinking>
-We're going to create a user-facing help guide for the "drone_model_pre_order_form" form. 
-This form is used for customers to pre-order a drone model. 
-It's crucial that we provide clear guidance on how to complete this form accurately. 
-Each field is essential for the pre-order process, and customers need to fill out all required fields. 
-We'll ensure that every field is explained in simple, concrete language.
-</thinking>
-
 # drone_model_pre_order_form - Help Guide
 ## Purpose
 This form is a pre-order form for customers to reserve a drone model before it's available for sale. To ensure a smooth pre-order process, please fill out all required fields accurately.

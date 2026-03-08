@@ -1,38 +1,3 @@
-<thinking>
-The Seafood Fresh Catch Order Form is a form designed to collect information from customers for ordering seafood products. The form is used to gather order details, customer information, and payment method. It is intended for customers to submit their orders and payment information, which will then be reviewed and processed by the assigned staff member.
-
-To ensure that the form is filled out correctly, please review the following steps:
-
-1.  Ensure you are ordering seafood products.
-2.  The form must be submitted by the customer.
-3.  The form is not intended for staff use.
-
-This form is used to collect the following information:
-
-- The order date, which is the date when the customer wants to place the order.
-- The catch type, which is the type of seafood product the customer wants to order (Fresh Catch, Frozen Seafood, or Frozen Fish).
-- The catch size, which is the amount of seafood the customer wants to order.
-- The quantity, which is the number of units of the seafood product the customer wants to order.
-- The unit price, which is the price per unit of the seafood product.
-- The total price, which is the total price of the order.
-- The payment method, which is how the customer wants to pay (Credit Card or PayPal).
-- Any additional note from the customer.
-- The customer's email address.
-- The customer's phone number.
-- A text field for the customer to provide order details.
-- The staff member assigned to the customer's order.
-- Information about who submitted and completed the form.
-- The time when the form was submitted and completed.
-- The status of the payment.
-- The customer's name.
-- The customer's address.
-- The customer's city.
-- The customer's country.
-- The customer's zip code.
-- The customer's state.
-
-Please fill out the form accurately and thoroughly to ensure that your order is processed correctly.</thinking>
-
 # Seafood Fresh Catch Order Form - Help Guide
 ## Purpose
 The Seafood Fresh Catch Order Form is a form designed to collect information from customers for ordering seafood products.

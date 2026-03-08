@@ -1,26 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers for the purchase of books through the Afterpay payment method. It is intended to be used to place orders for books, allowing customers to select their preferred payment method and agree to the terms and conditions of the transaction.
-
-The form is composed of the following fields:
-
-*   Customer Full Name: This field is required and asks the customer to enter their full name as it appears on their identification.
-*   Email Address: This field is required and is for the purpose of order confirmation.
-*   Phone Number: This field is required and is for delivery updates.
-*   Shipping Address: This field is required and is for the address where the books should be delivered to.
-*   Billing Address (if different from Shipping): If the billing address is different from the shipping address, this field is required.
-*   -- Book Selection --: This is a note field that serves as a separator between the customer information and book selection sections.
-*   Book Title: This field is required and asks the customer to enter the title of the book they wish to order.
-*   Author Name: This field is required and asks the customer to enter the name of the book's author.
-*   ISBN Number: This field is optional and is for the customer to enter the ISBN number of the book if known.
-*   Quantity: This field is required and asks the customer to select the number of copies they wish to order.
-*   Book Condition Preference: This field is required and asks the customer to select their preferred condition of the book.
-*   Special Requests: This field is optional and is for any special instructions or requests the customer may have for their order.
-*   Payment Method: This field is required and asks the customer to select Afterpay as their payment method.
-*   Terms Agreement: This field is required and asks the customer to agree to the Afterpay terms and conditions.
-
-</thinking>
-
 # Afterpay Book Order Form - Help Guide
 
 ## Purpose

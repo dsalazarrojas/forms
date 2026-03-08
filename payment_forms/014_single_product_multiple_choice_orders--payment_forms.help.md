@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # single_product_multiple_choice_orders - Help Guide
 
 ## Purpose

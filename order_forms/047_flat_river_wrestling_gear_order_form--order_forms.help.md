@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to capture customer information and order details for flat river wrestling gear. This form will be used to process orders with the required fields being customer email and phone, customer name, and order quantity. Date and time are not required fields but provide optional additional information. Product image and product description are optional fields to provide more details about the ordered product. Options list is a multiple select field to capture any additional options for the product.
-</thinking>
-
 # flat_river_wrestling_gear_order_form - Help Guide
 ## Purpose
 The flat river wrestling gear order form is designed to collect customer information and order details for flat river wrestling gear.

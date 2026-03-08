@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect feedback and understanding from end-users regarding youth climate policy awareness, attitudes, and participation. It is essential to ensure that the questions are clear and concise, and that the form is completed accurately and effectively. This form is part of a larger effort to gauge the effectiveness of climate policy initiatives for youth engagement and to identify areas for improvement. To avoid duplication of effort, please ensure that you have not previously completed this form.
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 The Youth Climate Policy Understanding Survey is designed to collect information from end-users on their climate policy awareness, attitudes, and participation. This survey aims to gather valuable insights to improve climate policy initiatives for youth engagement.

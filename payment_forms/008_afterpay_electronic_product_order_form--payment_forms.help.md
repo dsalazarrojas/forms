@@ -1,14 +1,3 @@
-<thinking>
-**Checking for form purpose and relevance**
-
-The Afterpay Electronic Product Order Form is used to create electronic orders for products that can be paid in installments. The form captures customer information, product details, and payment preferences.
-
-**Form purpose:** The form is for customers who want to purchase electronic products but want to pay for them in installments. It is a crucial tool for customers who need to budget their purchases and for businesses that want to provide flexible payment options.
-
-**Checking for non-duplication:** I have checked that the form is not being used as a duplicate of another form. The fields and form layout are distinct and serve a unique purpose.
-
-</thinking>
-
 # Afterpay Electronic Product Order Form - Help Guide
 ## Purpose
 The Afterpay Electronic Product Order Form is used to create electronic orders for products that can be paid in installments.

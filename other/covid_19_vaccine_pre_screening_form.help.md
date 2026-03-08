@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive patient intake form designed for medical professionals to collect information about patients. It likely serves as a template for gathering data on patient demographics, medical history, vaccination records, and follow-up information. The form includes fields for patient details such as age, medical conditions, allergies, and medical history. It also includes fields for vaccination information such as vaccine type, dose, and date of administration. Additionally, it includes fields for contact information, follow-up dates, and vaccination site details. The form's structure suggests it is designed to be used in a clinical setting, possibly for vaccine administration or patient care. Before proceeding, please ensure that you are using this form for its intended purpose and that the information collected is relevant to the specific patient's needs.
-
-</thinking>
-
 # untitled_form_80883 - Help Guide
 ## Purpose
 This form collects patient information for vaccine administration and follow-up purposes.

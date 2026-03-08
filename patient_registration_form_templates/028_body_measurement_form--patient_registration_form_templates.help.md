@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect body measurements from a client, which will be used for various purposes such as clothing fitting, fitness tracking, medical assessment, bodybuilding, and health monitoring. This form ensures that the measurements are taken correctly and accurately, and that the client acknowledges and understands their measurements. The form is divided into two main sections: client information and measurement fields. Client information includes fields for client name, measurement date, and person taking the measurements. Measurement fields include various body parts such as height, weight, chest circumference, waist circumference, hip circumference, arm circumference, thigh circumference, calf circumference, neck circumference, forearm circumference, inseam length, shoulder width, torso length, body fat percentage, notes on measurements, measurement method used, recommended clothing size, changes from previous measurement, recommended follow-up date, and client acknowledgment.
-
-</thinking>
-
 # Body Measurement Form - Help Guide
 ## Purpose
 This form is used to collect body measurements from clients for various purposes such as clothing fitting, fitness tracking, medical assessment, bodybuilding, and health monitoring.

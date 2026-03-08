@@ -1,5 +1,3 @@
-<thinking>...The garage service subscription form is designed to capture essential information from customers for their garage service needs. This form will help us understand their preferences, requirements, and payment details. It is meant to be completed by customers who wish to subscribe to our garage services. To avoid duplication, please ensure that you have not submitted this form previously. If you have any concerns, please contact our support team...</thinking>
-
 # Garage Service Subscription Form - Help Guide
 ## Purpose
 The Garage Service Subscription Form is a tool used to capture essential information from customers who wish to subscribe to our garage services. This form helps us understand their preferences, requirements, and payment details.

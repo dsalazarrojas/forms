@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for healthcare professionals to place orders for home health services, such as nursing visits, equipment deliveries, and other home-based care services. The form will collect relevant details about the patient, their medical history, and the ordered services. To prevent duplication, this form should only be used for initial or updated orders, not for resubmitting or modifying existing orders.
-</thinking>
-
 # Home Health Physician Order Form - Help Guide
 ## Purpose
 The Home Health Physician Order Form is designed to provide a structured way for healthcare professionals to place orders for home health services. This form gathers essential information about the patient, their medical history, and the ordered services.

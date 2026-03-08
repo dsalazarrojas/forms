@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is designed to collect information from users about their order requests. It appears to be used in a business or service-related context, possibly for customer service or support purposes. The form has several sections that gather various types of information from the user, including personal details, order-related information, and free-text notes.
-
-Before filling out this form, ensure that you are submitting a legitimate request and that your request has not already been processed. If you're unsure about the purpose or status of your request, please contact the relevant authorities or customer support.
-
-</thinking>
-
 # ประก Offer Request Form V2 - Help Guide
 ## Purpose
 This form is used to submit an order request to our team. Please fill out the form carefully to ensure that your request is processed efficiently.

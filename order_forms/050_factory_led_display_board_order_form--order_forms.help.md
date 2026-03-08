@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information for a custom LED display board order. The form is divided into several pages, each with different fields to capture specific details. The purpose of this form is to gather all necessary information before processing the order. To complete this form, the user will navigate through each page, filling in the required and optional fields as prompted. Please note that some fields are for optional input and do not affect the order processing.
-
-</thinking>
-
 # Factory LED Display Board Order Form - Help Guide
 ## Purpose
 This form collects information for a custom LED display board order. Fill in the required and optional fields to provide all necessary details for order processing.

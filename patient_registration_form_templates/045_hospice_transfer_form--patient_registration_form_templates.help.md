@@ -1,7 +1,3 @@
-<thinking>
-This form is used for transferring a patient's care from one hospice provider to another. The purpose of this form is to facilitate a smooth transition of care by ensuring that necessary information is exchanged between the current and new providers. This form should be completed by the individual responsible for making the transfer decision. If you've already completed this form recently, please make sure you have the necessary information updated to reflect any changes that have occurred since the last submission. If you're unsure about any of the fields, refer to the field-by-field explanation below for further clarification.
-</thinking>
-
 # hospice_transfer_form - Help Guide
 ## Purpose
 This form is designed to facilitate the transfer of a patient's care from one hospice provider to another.

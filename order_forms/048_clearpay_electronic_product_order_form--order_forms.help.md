@@ -1,11 +1,3 @@
-<thinking> 
-- The form purpose is to collect customer information for a Clearpay Electronic Product Order. 
-- This form is part of the order process for electronic products sold by Clearpay. 
-- This form should only be used for new orders, not for modifications to existing orders.
-- The form is not for internal use, but for end-users to provide their information to place an order.
-- Please ensure you have the necessary permissions and authorization to use this form.
-</thinking>
-
 # Clearpay Electronic Product Order Form - Help Guide
 ## Purpose
 The Clearpay Electronic Product Order Form is used to collect customer information and order details for electronic products sold by Clearpay. This form is designed for end-users to provide their information to place a new order.

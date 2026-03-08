@@ -1,15 +1,3 @@
-<thinking>
-This form is intended for patients to provide information about themselves for the purpose of a health consultation. The form collects personal details, medical history, health status, and other relevant information that will help the healthcare provider understand the patient's needs and provide appropriate care. This form should only be filled out by the patient themselves or their authorized representative. 
-
-It is assumed that the patient has read and understood the contents of this form before completion. The information collected here will be used to support the healthcare consultation and may be used to create medical records. The form should only be used for the purpose of the initial consultation, and any follow-up consultations may require additional information. It is essential that the patient completes this form truthfully and accurately. 
-
-This form is designed to be completed once for the initial consultation. 
-
-The information collected may be shared with other healthcare professionals as necessary for treatment. 
-
-Please complete this form accurately and honestly. 
-</thinking>
-
 # Client Health Consultation Survey - Help Guide
 ## Purpose
 This form is for patients to provide information about themselves for the purpose of a health consultation.

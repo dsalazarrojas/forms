@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to reserve a jet ski rental. The customer will provide their information, select a jet ski type, choose the start and end times of the rental, and provide their phone number. This form should be filled out by customers who want to rent a jet ski. Please ensure that this form is not filled out by employees of the company or anyone who has already reserved a jet ski, as it's meant for customer use only.
-</thinking>
-
 # Jet Ski Rental Reservation Form - Help Guide
 ## Purpose
 This form is used to reserve a jet ski rental. Please complete it to provide us with the necessary information to prepare for your rental.

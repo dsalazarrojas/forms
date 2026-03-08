@@ -1,7 +1,3 @@
-<thinking>
-The form "Online Purchase Information Collection Form" is likely used to collect information from customers about their online purchases. This form may be used by businesses or organizations to gather details such as delivery preferences, customer details, order details, contact information, payment methods, and other relevant details. This form should not be used for duplicate submissions or for purchases not requiring this specific information. This form's structure suggests it's primarily designed for a single-time purchase or a specific type of transaction.
-</thinking>
-
 # Online Purchase Information Collection Form - Help Guide
 ## Purpose
 This form collects information about an online purchase, including delivery preferences, customer details, order details, and contact information. It is intended to be filled out once for each purchase or transaction.

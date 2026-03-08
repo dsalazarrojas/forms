@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Down Payment Form - Help Guide
 
 ## Purpose

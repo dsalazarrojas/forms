@@ -1,7 +1,3 @@
-<thinking>
-The Flight Booking Extension Form is used for booking flights and handling related payment and shipping information. It is not a duplicate of the main flight booking form, but rather an extension of the existing process. Please ensure you have completed the main flight booking form before proceeding with this form. This form is typically used for customers who require special handling of their flight booking, such as extra payment details or shipping information. It is recommended to review the main flight booking form for a comprehensive overview of the flight booking process.
-</thinking>
-
 # Flight Booking Extension Form - Help Guide
 ## Purpose
 The Flight Booking Extension Form is used to gather additional information for customers who require special handling of their flight booking, including extra payment details or shipping information.

@@ -1,7 +1,3 @@
-<thinking>
-**Internal note:** This form is used to order real estate documentation, such as deeds, mortgages, and titles, for a specific property. It is intended for clients to provide their contact information and other relevant details. The form is likely used by real estate agents or attorneys to process orders for these documents.
-</thinking>
-
 # real_estate_documentation_order_form - Help Guide
 ## Purpose
 The real_estate_documentation_order_form is a form used to order real estate documentation for a specific property. It collects client information and contact details to facilitate the ordering process.

@@ -1,11 +1,3 @@
-<thinking>...checking and reasoning behind the form purpose...
-
-The purpose of the Custom Collar Order Form is to collect information necessary to place an order for a custom collar from a customer, such as collar type, size, and customer contact details.
-
-Upon review, I've determined that this form is meant to be used by a business or organization to collect orders from customers. There are no duplicate fields, and all the fields seem to be necessary to fulfill the order and establish contact with the customer.
-
-... </thinking>
-
 # Custom Collar Order Form - Help Guide
 
 ## Purpose

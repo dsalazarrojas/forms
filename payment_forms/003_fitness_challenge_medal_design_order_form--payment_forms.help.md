@@ -1,5 +1,3 @@
-<thinking>Form purpose: This form allows users to order fitness challenge medals. The form consists of various fields that users can fill out to complete their order. The form is intended to gather information about the participant, design preferences, and payment details. This form is likely used for ordering medals for a fitness challenge event or program. It is designed to be completed by participants or organizers of the fitness challenge.</thinking>
-
 # fitness_challenge_medal_design_order_form - Help Guide
 ## Purpose
 The fitness challenge medal design order form is a form for ordering medals for a fitness challenge event or program.

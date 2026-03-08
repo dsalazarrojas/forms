@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I need to understand the context and purpose of this form to create a comprehensive help guide for end-users. The form is called "Daily Remittance Entry Form" and is used for entering daily remittance payments. This form likely collects information from customers or clients, and the fields may include details such as names, account numbers, dates, transaction amounts, payment methods, and tools assigned to handle the transactions. To ensure the form's purpose and fields are clear, I will review each field and provide concrete, concise explanations for end-users.</thinking>
-
 # Daily Remittance Entry Form - Help Guide
 ## Purpose
 The Daily Remittance Entry Form is designed to collect daily remittance payments from customers or clients. This form helps track and record remittance transactions, which are important for accounting, auditing, and financial record-keeping purposes.

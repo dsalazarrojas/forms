@@ -1,7 +1,3 @@
-<thinking>
-This form is used for ordering game balls for a sports league. The form will help users provide necessary information for fulfilling their game ball supply needs. To ensure consistency and accuracy in order fulfillment, please make sure to fill out each field carefully. This form is designed to capture relevant details about the order, including player and delivery information. If a field is not relevant to your order, please leave it blank or indicate that it's not applicable. Please do not submit duplicate orders.
-</thinking>
-
 # Sports League Game Ball Supply Order Form - Help Guide
 ## Purpose
 This form is used to order game balls for a sports league. Please fill out the form accurately to ensure timely and correct delivery of the game balls.

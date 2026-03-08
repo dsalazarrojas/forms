@@ -1,13 +1,3 @@
-<thinking>
-The Smart Power Distribution Unit Order Form is used for customers to place orders for Smart Power Distribution Units (SPDUs). The form is designed to gather information from customers, including their contact details, order details, and payment information. 
-
-This form appears to be a general-purpose order form, allowing customers to provide their contact information, details about the order, and specify the type and quantity of units they want to purchase. The form also includes options for selecting the payment method and order status. It does not seem to have any specific validation rules or restrictions, suggesting that it is meant for general information gathering and order management. 
-
-However, the field "form_id" and "customer_id" are both present, which might suggest that this form is also used for internal purposes, such as order tracking or system identification.
-
-Please note that some fields like "unit_price", "order_date" and "order_status" do not seem to be related to each other. 
-</thinking>
-
 # Smart Power Distribution Unit Order Form - Help Guide
 ## Purpose
 This form is used to place orders for Smart Power Distribution Units.

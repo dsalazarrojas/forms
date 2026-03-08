@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to gather feedback from patients regarding their experiences with the outpatient care service. The form helps to identify areas of improvement and ensure that the service meets the needs and expectations of the patients. To complete this form, please ensure that the patient's feedback is honest and accurate. Please do not repeat any existing feedback, as this form is designed to capture new and unique experiences.
-
-</thinking>
-
 # Outpatient Care Service Assessment Form - Help Guide
 ## Purpose
 The Outpatient Care Service Assessment Form is designed to collect feedback from patients about their experiences with our outpatient care service. This form helps us understand their satisfaction levels, identify areas of improvement, and make informed decisions to enhance the service.

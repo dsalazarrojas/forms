@@ -1,6 +1,3 @@
-<thinking>
-The main purpose of this form is to allow individuals to submit a claim for reimbursement for expenses related to fundraising events. This form will help ensure that all necessary information is gathered for processing and approval. Please note that this form is a standard template and may require further review and validation by the relevant authorities before approval.</thinking>
-
 # Fundraising Event Expense Claim Form - Help Guide
 ## Purpose
 The Fundraising Event Expense Claim Form is used to submit a claim for reimbursement for expenses related to fundraising events. This form helps to gather all necessary information for processing and approval of expense claims.

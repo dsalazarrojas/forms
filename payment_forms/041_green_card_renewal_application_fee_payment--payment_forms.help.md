@@ -1,6 +1,3 @@
-<thinking>
-The form is intended to collect payment information for green card renewal applications. This form is likely used by a specific group of users, such as customers or individuals applying for a green card, to pay the associated fees. It's possible that this form is part of a larger process for handling green card renewals, and the payment details collected here will be used to update the user's status or trigger some other process.</thinking>
-
 # Green Card Renewal Application Fee Payment - Help Guide
 ## Purpose
 This form is used to collect payment information for green card renewal applications. It is intended for customers or individuals who are renewing their green card and need to provide payment details.

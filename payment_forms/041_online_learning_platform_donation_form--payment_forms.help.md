@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect donations for an online learning platform. It is used to gather information from donors about their identity, donation preferences, and payment methods. This form is used to process donations in an efficient and organized way, ensuring that all relevant details are captured and recorded correctly. 
 
 Please ensure that you have read this guide carefully to avoid any confusion when filling out the form.

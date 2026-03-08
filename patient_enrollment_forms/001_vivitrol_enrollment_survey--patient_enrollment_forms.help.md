@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect various types of information from patients, including their details, medical history, eligibility for treatment, consent, follow-up, patient enrollment, patient status, patient outcomes, and treatment information. 
-
-The primary purpose of this form is to gather comprehensive data from patients. However, it's essential to note that all these fields are not necessarily required to be filled by the patients, as they are marked as "required: false" in the provided YAML schema. This implies that the form's intention is not to enforce strict data collection but rather to provide a structured and organized way to gather information that might be relevant to the patient's health and treatment.
-
-Before proceeding, ensure that the data provided is accurate and relevant. If any fields are unclear or redundant, consider discussing them with the patient to ensure you understand their context correctly.
-
-</thinking>
-
 # vivitrol_enrollment_survey - Help Guide
 ## Purpose
 This form is designed to collect information from patients for various purposes, including treatment planning and outcomes assessment.

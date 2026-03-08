@@ -1,13 +1,3 @@
-<thinking>
-This form appears to be a pre-order form for phone cases. The purpose of this form is to gather information from customers before processing their order. The form is divided into several sections, including customer information, shipping information, payment information, order details, and confirmation and comments. The form is required to be completed to ensure accurate order processing. The form fields are:
-- customer_info: This field is required to collect customer information, likely name and contact details.
-- shipping_info: This field is not required and is likely used for customers to provide additional shipping instructions.
-- payment_info: This field is required for payment processing.
-- order_details: This field is required to collect order details.
-- confirm_order: This field is not required and is likely used to confirm the order.
-- form_comments: This field is not required and is likely used for customers to provide additional comments.
-</thinking>
-
 # phone_case_pre_order_form - Help Guide
 ## Purpose
 The phone_case_pre_order_form is a pre-order form designed to collect customer and order information for accurate order processing.

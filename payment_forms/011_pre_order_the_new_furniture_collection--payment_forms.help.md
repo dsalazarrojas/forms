@@ -1,8 +1,3 @@
-<thinking> 
-This form is designed to collect information for pre-ordering of a new furniture collection. It is intended for customers who are interested in purchasing furniture from the collection. The form should be completed by customers who want to reserve their spot in the line for the new collection. 
-
-This form is also likely used for internal purposes to track customer information, delivery details, and order status.</thinking>
-
 # Pre Order The New Furniture Collection - Help Guide
 
 ## Purpose

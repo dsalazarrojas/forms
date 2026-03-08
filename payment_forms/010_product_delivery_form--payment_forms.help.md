@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for customers to provide delivery information for their orders. This form is not meant to be filled out by customers who have already completed their deliveries or have not yet received their orders. Customers must fill out this form for each order separately.
-
-Before completing this form, ensure that you have already placed your order and have received a delivery confirmation email from us. If you've misplaced or lost your delivery confirmation email, please contact our support team for assistance.
-
-Please complete this form for each order you wish to provide delivery information for.
-
-</thinking>
-
 # product Delivery Form - Help Guide
 
 ## Purpose

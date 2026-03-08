@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to process payment information for dance class students.
-The form appears to be intended for managing student accounts, tracking payment history, and handling billing details such as tuition fees, payment methods, and payment due dates. It seems to cover various aspects of payment processing, including confirmation of payment, payment terms, and billing status.
-
-</thinking>
-
 # Dance Class Billing Form - Help Guide
 ## Purpose
 The Dance Class Billing Form is designed to manage payment information for dance class students, providing a comprehensive overview of payment history, tuition fees, and billing details.

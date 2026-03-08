@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # golf_course_equipment_order_request - Help Guide
 
 ## Purpose

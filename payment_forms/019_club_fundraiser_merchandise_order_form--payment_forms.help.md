@@ -1,7 +1,3 @@
-<thinking>
-This form is used for ordering merchandise related to a fundraiser event, where buyers can purchase items such as T-Shirts, hoodies, hats, water bottles, sticker packs, mugs, and tote bags. The form captures the buyer's information, order details, and payment method for a smooth transaction process. Please ensure that all required fields are completed accurately to ensure proper processing of the order. If a buyer is not sure about a specific field, they can leave it blank or ask for clarification.
-</thinking>
-
 # Club Fundraiser Merchandise Order Form - Help Guide
 ## Purpose
 This form is designed for ordering merchandise related to a fundraiser event. It captures the buyer's information, order details, and payment method for a smooth transaction process.

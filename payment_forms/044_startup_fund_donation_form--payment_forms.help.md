@@ -1,24 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly by providing clear instructions and explanations for each field. This form is for collecting information about startup fund donations, including donation details, payment methods, and reporting requirements. The fields should be completed by the donor to provide accurate and complete information about their donation. We should also check if the form has any redundant or unnecessary fields that could cause confusion. For example, if a field is optional but not clearly marked, it may lead to inconsistent or incorrect data.
-
-The form has a wide range of fields, including text, select options, and numbers, which should be filled in accordingly. We should also consider adding a section for tips or best practices for filling out the form correctly.
-
-Before we start, let's quickly review the field types and their corresponding explanations to ensure clarity and accuracy in our help guide.
-
-Here are some potential areas of improvement:
-
-* The form has a few fields that seem to be redundant or unnecessary, such as "payment_method_other" and "donor_notes". We should review these fields to see if they can be removed or simplified.
-* Some fields, like "donation_frequency" and "payment_frequency" seem to be similar, we should ensure they are not confusing for the user.
-* The "report_date" and "report_time" fields seem to be unnecessary and can be removed.
-* The "form_id" field is likely a system-generated field and not necessary for user input.
-* The "startup_id" field may be a sensitive field and should be treated as such.
-
-We should also review the field labels for clarity and accuracy.
-
-Let's review the form structure and field explanations to ensure they are concrete, concise, and practical.
-
-</thinking>
-
 # Startup Fund Donation Form - Help Guide
 ## Purpose
 This form is designed for collecting information about startup fund donations, including donation details, payment methods, and reporting requirements.

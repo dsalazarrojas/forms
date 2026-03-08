@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Assesment Team Lamar - Help Guide
 ## Purpose
 The Health Assesment Team Lamar form is used to collect patient information for medical assessment purposes. This form is designed to gather basic demographic information, medical history, and contact details to facilitate accurate and efficient medical assessments.

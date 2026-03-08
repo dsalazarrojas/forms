@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to assist users in ordering images with ease, providing a structured approach to gathering essential information. It's intended for users who want to place orders for images from a service provider. The form is not affiliated with any specific platform and is an original adaptation created using AI. Its purpose is to gather necessary details for a smooth and efficient image ordering process.
-</thinking>
-
 # Image Order Form - Help Guide
 ## Purpose
 This form is used to collect information for placing an order for an image or a set of images. It's a straightforward and user-friendly tool to gather the necessary details required for a successful image ordering process.

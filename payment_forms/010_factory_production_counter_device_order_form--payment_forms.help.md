@@ -1,7 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Factory Production Counter Device Order Form" that explains its purpose, how to complete it, and each field's meaning to the end user. The form is designed to collect order details and payment information for production counter devices, and we will base our explanation on the provided YAML fields.
-</thinking>
-
 # Factory Production Counter Device Order Form - Help Guide
 ## Purpose
 The Factory Production Counter Device Order Form is designed to collect details about a production counter device order, including the payment method and payment details. This form will help the user efficiently complete the order process for production counter devices.

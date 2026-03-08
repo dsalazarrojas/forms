@@ -1,9 +1,3 @@
-<thinking>
-This form is used for requesting orders for the Gourmet Market Festival. It is essential to understand that the form is divided into two pages with different fields and purposes. The first page (page 1) asks about the order preferences (pickup or delivery) and some general information. The second page (pages 2) asks more specific information about the order, such as event details and vendor information.
-
-When filling out this form, please make sure to answer all required fields, which are marked with an asterisk (\*) in this guide.
-</thinking>
-
 # Gourmet Market Festival Order Request Form - Help Guide
 ## Purpose
 This form is used to request an order for the Gourmet Market Festival. Please provide the required information to ensure a smooth ordering process.

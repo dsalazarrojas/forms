@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pet Care Reminder Form - Help Guide
 ## Purpose
 The Pet Care Reminder Form is designed to collect information for patients' upcoming procedures. This form is used by medical staff to create reminders for patients' appointments, procedures, and other important dates and times.

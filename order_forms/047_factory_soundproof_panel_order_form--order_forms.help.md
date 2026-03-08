@@ -1,10 +1,3 @@
-<thinking>
-This form is used to capture information for the "Factory Soundproof Panel Order Form" used by customers to place orders for soundproof panels. 
-The form is designed to gather delivery date and installation notes, and other delivery details for the ordered panels. 
-The purpose of this form is to ensure accurate delivery and installation of the panels by capturing the required information in a structured manner. 
-
-</thinking>
-
 # Factory Soundproof Panel Order Form - Help Guide
 ## Purpose
 This form is used to capture information for the "Factory Soundproof Panel Order Form" used by customers to place orders for soundproof panels.

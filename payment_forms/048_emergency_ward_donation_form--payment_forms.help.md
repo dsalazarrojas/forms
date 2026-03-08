@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect donations for the emergency ward, a special section of the hospital dedicated to providing care for people who are unable to pay for their care. It is crucial to have accurate and complete donor information to process the donation correctly and follow any necessary procedures. To prevent errors or duplications, please ensure you have filled out all fields correctly and accurately. This form will be used as a reference for our records and will be used in conjunction with other hospital records to provide the best possible care for our patients.
-</thinking>
-
 # Emergency Ward Donation Form - Help Guide
 ## Purpose
 

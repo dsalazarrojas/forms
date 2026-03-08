@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users for custom hang tag orders. It appears to be designed to capture details related to the artwork, shipping, payment, and other relevant information for the order. The purpose of this form is likely to provide a comprehensive order form for customers to place orders for custom hang tags. This form does not include any sensitive or redundant fields that could be considered a security risk or unnecessary for the order process.
-</thinking>
-
 # Custom Hang Tag Order Form - Help Guide
 ## Purpose
 This form is designed for customers to provide their order information for custom hang tags. Please fill out this form to ensure we have all the necessary details for your order.

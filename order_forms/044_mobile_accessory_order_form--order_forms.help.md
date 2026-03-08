@@ -1,10 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed for customers to input their details for a mobile accessory order. The form is split into five sections: Customer Details, Order Details, Delivery Preferences, Customer Verification, and Order Summary. Each section is meant to collect relevant information for the customer to place an order successfully.
-The form is intended for customers who want to place an order for a mobile accessory, such as a phone case or screen protector. The sections are designed to gather the necessary information for the order to be processed efficiently.
-There's no indication that the form is part of a larger system, so it appears to be a standalone form for customer orders.
-</thinking>
-
 # Mobile Accessory Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers for mobile accessory orders. It is intended for customers who want to place an order for a mobile accessory, such as a phone case or screen protector.

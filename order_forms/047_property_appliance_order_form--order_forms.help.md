@@ -1,24 +1,3 @@
-<thinking>
-To create an effective user-facing help guide for the "Property Appliance Order Form", you must first understand the form's purpose and the intent behind each field. The form is designed to collect relevant information about a property appliance order, which can be used by property managers or administrators to process and track orders.
-
-When reviewing the form's structure and fields, ensure you don't duplicate any information that's already been explained in the "Purpose" section. This will prevent redundant explanations and make the guide more concise.
-
-Here's a brief overview of the form's fields and their intended use:
-
-*   "order_form_page": This field is not explicitly used in the YAML, but it might be a page header or introduction.
-*   "order_details": Collects information about the order, such as its description or details.
-*   "property_manager_details": This field is likely used to capture contact information for the property manager or administrator responsible for the order.
-*   "property_details": Gather information about the property, such as its address or location.
-*   "order_notes": Allows users to add any additional notes or comments about the order.
-*   "contact_details": Collects contact information for the person placing the order.
-*   "order_date": This field is likely used to select or input the date the order was placed or expected to be completed.
-*   "status": This field seems to be a status update, possibly indicating whether the order is "Draft", "Open", or "Closed".
-*   "order_date_time": Similar to "order_date", this field might collect the time of the order or completion.
-*   "contact_phone": Capture the contact phone number for the person placing the order.
-*   "contact_email": Collects the email address for the person placing the order.
-*   "order_form_comments": This field is likely a notes section for any additional comments about the order.
-</thinking>
-
 # Property Appliance Order Form - Help Guide
 ## Purpose
 This form is designed to collect information about property appliance orders. It gathers essential details to help property managers and administrators process and track orders efficiently.

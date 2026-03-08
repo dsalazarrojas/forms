@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the payment process for exam fees. It is intended for both staff and students to use, hence the "user" field. The form is structured in two pages, with the first page focused on basic payment details and the second page asking for more detailed information and confirmation. Each field is designed to capture specific aspects of the payment, such as payment method, amount, and exam details.
-
-The form is used to process payments for exam fees, which might be a crucial aspect of the institution's or organization's operations. This guide will walk you through how to complete the form, highlighting the meaning and purpose behind each field.
-
-</thinking>
-
 # exam_fees_payment_form - Help Guide
 ## Purpose
 This form is for staff and students to enter payment details for exam fees.

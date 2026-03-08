@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to support end-users in completing the Dog Walking Service Check Out Form. This form is a crucial document that outlines the details of a dog walking service transaction. To avoid confusion and errors, please ensure that you review the form carefully before proceeding.
-</thinking>
-
 # Dog Walking Service Check Out Form - Help Guide
 
 ## Purpose

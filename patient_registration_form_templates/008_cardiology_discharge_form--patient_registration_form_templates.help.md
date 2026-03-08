@@ -1,10 +1,3 @@
-<thinking>
-To confirm whether the form purpose is relevant, I will consider the following points:
-1. The form is related to cardiology patients, indicating a specialized medical context.
-2. The form includes fields like "Primary Cardiac Diagnosis", "Prescribed Medications and Dosages", and "Follow-up Appointment Date", which are specific to cardiology care.
-3. The form has multiple sections, including one for "Discharge Date", "Physical Activity & Lifestyle", and "Follow-up Care", which suggests a comprehensive approach to handling patient discharge.
-</thinking>
-
 # Cardiology Discharge Form - Help Guide
 ## Purpose
 The Cardiology Discharge Form is designed to document the details of a patient's discharge from a cardiology department. It collects information about the patient's medical status, medications, lifestyle restrictions, and follow-up care instructions.

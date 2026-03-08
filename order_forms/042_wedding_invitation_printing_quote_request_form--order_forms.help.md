@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to allow users to request a quote for wedding invitation printing services. This form is used to gather information about the user's preferences for the invitation's style, quantity, paper type, finish, printing technology, ink color, quantity, unit of measurement, unit price, additional services, comments, date, time, phone number, email, and name. The form is designed to be completed by wedding invitation requesters who want to get a quote from a printer for their wedding invitations.
-
-This form should only be used to request a quote for wedding invitation printing services. If you are not a wedding invitation requester, please do not use this form.
-
-To avoid duplication of quotes, please do not submit duplicate requests for the same wedding invitation printing quote.
-</thinking>
-
 # Wedding Invitation Printing Quote Request Form - Help Guide
 ## Purpose
 This form is used to request a quote for wedding invitation printing services.

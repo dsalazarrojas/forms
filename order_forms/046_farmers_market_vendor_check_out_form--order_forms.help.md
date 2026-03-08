@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture relevant information for a farmer's market checkout process. It's meant to be used by market vendors to document and verify their sales, including the customer's details and payment information. This form should not be filled out if the vendor is not conducting a sale, as it's primarily intended for recording transactions. 
-</thinking>
-
 # farmers_market_vendor_check_out_form - Help Guide
 ## Purpose
 The **farmers_market_vendor_check_out_form** is used to document and verify sales during a farmer's market transaction. This form captures information about the vendor and customer, including their contact details and payment specifics.

@@ -1,14 +1,3 @@
-<thinking>
-I am designing a help guide for a Catering Deposit Form. This form is used for clients to securely deposit their payment for events. To ensure that I provide accurate and relevant instructions, I will be focusing on the following aspects of the form:
-
-* Clarify the form's purpose
-* Ensure that each field's label is clear and concise
-* Verify that each field's type and options are correctly reflected in the guide
-
-The form is intended to collect client information and payment details for catering services. To complete this form, the user will provide their client information and payment method details.
-
-</thinking>
-
 # Catering Deposit Form - Help Guide
 ## Purpose
 The Catering Deposit Form is used to securely deposit payments for events. The form is designed to collect essential information from clients and process payment details.

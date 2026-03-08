@@ -1,6 +1,4 @@
-> <thinking>...</thinking>
-
-## Urology Patient Information Form - Help Guide
+> ## Urology Patient Information Form - Help Guide
 
 ### Purpose
 The Urology Patient Information Form is used to collect essential patient information for urology consultations. This form is essential for healthcare professionals to understand the patient's medical history, current conditions, and contact information. Please note that this form may be used in conjunction with other medical records.

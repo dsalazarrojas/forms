@@ -1,12 +1,3 @@
-<thinking>
-The AI-generated form is designed to collect feedback from patients on their discharge experience from a hospital. The form's purpose is to gather information on various aspects of the patient's experience, such as the date and time of discharge, the nurse's name, and the patient's overall satisfaction with the care received. The form aims to measure the patient's perception of the communication effectiveness, care quality, and experience with the staff, as well as their willingness to recommend the hospital. The questions are designed to be straightforward and easy to understand, ensuring that patients can provide accurate and honest feedback.
-
-This form is intended for patients to provide feedback on their personal experience, and it is not designed for patients to report medical information or discuss medical procedures. 
-
-To ensure the form is used correctly, it would be beneficial to review the form carefully and ask any questions or concerns before completing it. Please note that this form is not a formal medical evaluation or assessment tool. If you have any questions or concerns, please contact [form@gic.mx](mailto:form@gic.mx).
-
-</thinking>
-
 # Patient Discharge Experience Questionnaire - Help Guide
 ## Purpose
 

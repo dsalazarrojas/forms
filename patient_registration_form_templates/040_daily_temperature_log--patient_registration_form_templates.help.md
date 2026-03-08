@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect patient temperature readings on a daily basis. The purpose of this form is to monitor patient vital signs and identify any potential health issues early on. The form is intended to be completed by healthcare staff members who will be taking the patient's temperature readings. The form will be used to record daily temperature readings for each patient, ensuring accurate and reliable information for medical professionals to review and act upon.
-
-</thinking>
-
 # Daily Temperature Log - Help Guide
 
 ## Purpose

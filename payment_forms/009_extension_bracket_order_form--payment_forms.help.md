@@ -1,5 +1,3 @@
-<thinking>This form is designed to capture information for an extension bracket order. The form includes various fields for user, shipping, payment, and customer details. It is crucial to ensure the form is filled out accurately to prevent errors and ensure timely order processing. Please review the form carefully and fill it out according to your needs. Do not duplicate any orders or fill out any fields in an attempt to mislead our system.</thinking>
-
 # Extension Bracket Order Form - Help Guide
 ## Purpose
 The Extension Bracket Order Form is used to capture information for an extension bracket order. This form includes fields for user, shipping, payment, and customer details.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # dental_billing_form - Help Guide
 ## Purpose
 The purpose of this form is to collect patient billing information and payment details for dental treatments. This form is used to capture essential data for processing payments and updating patient records.

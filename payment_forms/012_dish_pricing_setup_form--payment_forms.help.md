@@ -1,9 +1,3 @@
-<thinking>
-This help guide is for the Dish Pricing Setup Form, a crucial form used to configure and manage menu pricing and updates. The form's purpose is to collect and process essential information for pricing setup, ensuring accurate and up-to-date menu prices. This guide will help users understand the form's purpose, how to complete it, and what each field represents.
-
-
-</thinking>
-
 # Dish Pricing Setup Form - Help Guide
 ## Purpose
 The Dish Pricing Setup Form is a crucial tool for managing menu pricing and updates. This form collects and processes essential information for setting up and maintaining accurate menu prices.

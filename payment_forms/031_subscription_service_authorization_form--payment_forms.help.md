@@ -1,14 +1,3 @@
-<thinking>
-To confirm the form purpose, I will analyze the YAML and the context:
-
-This form is a "Subscription Service Authorization Form", which suggests it's used for customers to sign up for a subscription-based service. The purpose is likely to obtain authorization from customers to access their subscription services.
-
-The form has several fields, but most seem to be optional. The required fields are unclear. I will assume that all fields are required unless specified otherwise.
-
-The form has a mix of text, email, phone, select, note, date, time, and select_multiple fields.
-
-</thinking>
-
 # Subscription Service Authorization Form - Help Guide
 ## Purpose
 The "Subscription Service Authorization Form" is used for customers to provide their authorization to access their subscription services.

@@ -1,8 +1,3 @@
-<thinking>
-This help guide will cover the Chiropractic Table Order Form, designed to facilitate the ordering of chiropractic tables for clinics or individuals. To confirm the purpose of this form, it's essential to note that it is intended for clinics or individuals to order chiropractic tables with various models and payment options. This form will ensure that all relevant information is gathered for efficient order processing and delivery.
-
-</thinking>
-
 # Chiropractic Table Order Form - Help Guide
 ## Purpose
 The Chiropractic Table Order Form is designed to gather all necessary information to process and deliver chiropractic tables for clinics or individuals. Please refer to the form's internal reasoning block for a brief explanation.

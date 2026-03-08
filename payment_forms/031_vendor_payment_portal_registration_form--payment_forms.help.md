@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect vendor information for payment processing. This form is meant to be used by vendors to provide their details, payment method, and other relevant information. It is expected that vendors will only fill out this form once for each vendor entity. 
 
 </thinking>

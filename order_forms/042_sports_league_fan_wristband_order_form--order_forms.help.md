@@ -1,5 +1,3 @@
-<thinking>This form is used to capture details for ordering sports league fan wristbands. This guide will help users understand what the form is for, how to fill it out, and what each field means. The form is designed to collect essential information for both the user and the administrator to ensure accurate orders are placed and processed.</thinking>
-
 # sports_league_fan_wristband_order_form - Help Guide
 ## Purpose
 The sports league fan wristband order form is used to collect information for ordering custom sports-themed wristbands. This form is essential for ensuring that the user's order is processed correctly and for our administration to track and fulfill orders accurately.

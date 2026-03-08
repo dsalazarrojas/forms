@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers who want to pre-order the "February Good Hart" product. This form will ask for the customer's name, email, phone number, and a brief description of their order. The form's goal is to gather necessary information for fulfilling the pre-order, and it is intended for individuals who have not yet completed a purchase.
-</thinking>
-
 # February Good Hart Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect customer information for pre-orders of the "February Good Hart" product. Please fill in the required fields to provide us with the necessary details.

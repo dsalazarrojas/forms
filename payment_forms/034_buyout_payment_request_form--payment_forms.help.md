@@ -1,28 +1,3 @@
-<thinking>
-This form is used to request a buyout payment for a company or department. To use this form, you must be a valid requester with access to the system. Ensure that you are not submitting duplicate requests for the same payment.
-
-This form is only for requesting buyout payments and should only be used for the following purposes:
-* Employment buyouts
-* Contract settlements
-* Equity buyouts
-* Lease terminations
-* Partnership dissolutions
-* Other buyout payments
-
-Please ensure that you fill out all required fields accurately and completely. If you are requesting a payment for a reason not listed above, use the "Other" option in the "Type of Buyout" field.
-
-When filling out this form, you will need to provide the following information:
-* Your name and contact information
-* The name and contact information of the payee (the person or company being paid)
-* The total payment amount
-* The payment terms (lump sum, installments, etc.)
-* When the payment should be made
-* Any supporting documentation (if applicable)
-* A brief business justification for the payment
-
-Please ensure that all fields are filled out accurately and completely to avoid delays in processing your request.
-</thinking>
-
 # Buyout Payment Request Form - Help Guide
 ## Purpose
 The purpose of this form is to submit a buyout payment request for a company or department.

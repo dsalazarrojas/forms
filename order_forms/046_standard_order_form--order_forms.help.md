@@ -1,5 +1,3 @@
-<thinking>...this form was created to gather information about a standard order. This form is likely to be used in various contexts, such as retail, wholesale, or business-to-business sales. It's essential to verify that this form is not being used in duplicate and its purpose is not already covered by another form in our system. If you're unsure, please consult our internal documentation or reach out to your manager...</thinking>
-
 # Standard Order Form - Help Guide
 ## Purpose
 The Standard Order Form is a simple and straightforward form designed to collect information for a standard order. It's intended to capture order-related details, such as item numbers, products, and quantities.

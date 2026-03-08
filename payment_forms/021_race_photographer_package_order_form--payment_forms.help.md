@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for users who need to order a photographer package for a race event. The form is used to collect information from the customer about the photographer package they want to order, including the details of the photographer, event, and order, as well as payment and delivery preferences. The form is designed to be completed by the customer, but it is not intended for internal staff use. To ensure accurate ordering, please carefully complete each field.
-</thinking>
-
 # Race Photographer Package Order Form - Help Guide
 ## Purpose
 This form is used to order a photographer package for a race event.

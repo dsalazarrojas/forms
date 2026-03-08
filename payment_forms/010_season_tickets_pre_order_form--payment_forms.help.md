@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for customers to pre-order season tickets for a specific team and game date. It's meant to capture essential customer and order information, payment details, and order status.
-To prevent duplication, we'll check if a customer has already pre-ordered for the same game date and team combination.
-</thinking>
-
 # season_tickets_pre_order_form - Help Guide
 ## Purpose
 This form is used to capture information for pre-ordering season tickets. Fill it out to reserve your spot for the upcoming season.

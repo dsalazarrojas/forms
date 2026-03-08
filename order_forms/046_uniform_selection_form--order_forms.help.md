@@ -1,7 +1,3 @@
-<thinking>
-This form is for selecting uniform-related information for an order. It's likely to be used in a context where the user needs to specify the type of uniform, its size, style, quantity, and color. The form is designed to be optional, as not all fields are required. This form is typically used in a scenario where the user needs to customize the uniform for a specific purpose or occasion. To avoid duplication of work, please ensure that you have all necessary information before submitting this form.
-</thinking>
-
 # Uniform Selection Form - Help Guide
 ## Purpose
 The Uniform Selection Form is used to select uniform-related information for an order. This form is designed to guide the user in specifying the type of uniform, its size, style, quantity, and color.

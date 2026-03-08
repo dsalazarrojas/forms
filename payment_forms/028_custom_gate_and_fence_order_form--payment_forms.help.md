@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to place orders for custom gates and fences. This form is likely to be used by customers who want to purchase custom-made gates or fences for their homes or businesses. The form should be used only once in each session to prevent duplicate orders.
-</thinking>
-
 # Custom Gate And Fence Order Form - Help Guide
 ## Purpose
 This form is designed to guide customers through the process of ordering custom gates and fences. The form collects various details about the order, including project details, payment information, gate type, material type, fence type, order status, and additional notes.

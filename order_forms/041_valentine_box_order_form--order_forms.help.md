@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to capture information for a Valentine's Day gift delivery order. It is a multi-page form with various fields for customers to provide their order, customer, delivery, payment, and shipping details. The form should not be duplicated, and users should only fill it out for a single order. The form will be used to process orders for a specific date and will only be available for a limited time around Valentine's Day.
-</thinking>
-
 # Valentine Box Order Form - Help Guide
 ## Purpose
 This form is used to capture order information, customer details, delivery information, payment, and shipping details for Valentine's Day gift delivery orders.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medication Plan Change Request Form - Help Guide
 
 ## Purpose

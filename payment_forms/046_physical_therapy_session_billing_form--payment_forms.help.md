@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed for billing purposes to track the payment details of a physical therapy session. The form is to be completed by the submitter, which could be the patient or a healthcare provider. The purpose of this form is to provide an overview of the payment details, making it easier for the billing team to process and verify payments.
-
-The form is not intended to be completed by the patient, only by the submitter (e.g., the healthcare provider). The submitter should ensure that the form is filled out accurately, as the billing team relies on this information to process payments.
-
-Please note that some fields may not be required for billing purposes. The submitter should only fill out the necessary fields that are required for the specific situation.
-
-</thinking>
-
 # Physical Therapy Session Billing Form - Help Guide
 ## Purpose
 The Physical Therapy Session Billing Form is used to record payment details for a physical therapy session. It helps the billing team track and process payments efficiently.

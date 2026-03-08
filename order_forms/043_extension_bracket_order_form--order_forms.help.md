@@ -1,5 +1,3 @@
-<thinking>...This form is designed for customers to provide order details and payment information for an extension bracket order. The form includes fields for shipping and billing details, payment method, customer and supplier information, and order notes. It's likely intended for use by customers or suppliers in a business-to-business or business-to-customer setting. To complete the form, you will need to provide accurate and detailed information for each field... </thinking>
-
 # Extension Bracket Order Form - Help Guide
 
 ## Purpose

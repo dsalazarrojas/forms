@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # investment_withdrawal_request_application_form - Help Guide
 
 ## Purpose

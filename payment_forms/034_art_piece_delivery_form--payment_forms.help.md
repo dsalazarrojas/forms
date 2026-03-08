@@ -1,7 +1,3 @@
-<thinking>
-The "Art Piece Delivery Form" is designed to collect relevant information for delivering art pieces. This form will likely be used by art galleries, museums, or artists to coordinate deliveries. It's essential to ensure that the form is filled out completely and accurately to ensure smooth and timely delivery. The form collects information such as delivery dates, sender and recipient details, artwork specifications, and delivery instructions. Please ensure that you're filling this form for the correct purpose and that the information provided is accurate.
-</thinking>
-
 # Art Piece Delivery Form - Help Guide
 
 ## Purpose

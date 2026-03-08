@@ -1,5 +1,3 @@
-<thinking>...This form is used to collect registration information and equipment orders from players. It is used for administrative purposes and is not intended for general public access. This form is not a duplicate of any other form within the organization, and users should be able to complete it without any issues.</thinking>
-
 # Player Registration And Equipment Order Form - Help Guide
 
 ## Purpose

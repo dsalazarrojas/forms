@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for same-day delivery services. It's crucial to ensure that the form is filled out accurately to facilitate seamless delivery experiences. Please review each field to understand its purpose and requirements. This form is not a duplicate of any existing form, and its content is generated based on public survey topic metadata. It's essential to fill out the form carefully to avoid any confusion or errors.
-
-</thinking>
-
 # same-day-delivery-form - Help Guide
 ## Purpose
 This form is used to collect information for same-day delivery services. It's essential to fill out the form accurately to ensure a smooth delivery experience.

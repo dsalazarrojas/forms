@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for staff members to reorder supplies for the restroom, ensuring that essential items are restocked in a timely manner. To confirm, this form is intended for internal use only and should not be filled out by external users. It's essential to fill out the form accurately and completely to avoid any issues with the supply delivery.
-
-</thinking>
-
 # Restroom Supplies Reorder Form - Help Guide
 ## Purpose
 This form is used by staff to reorder essential supplies for the restroom, helping to maintain a clean and hygienic environment.

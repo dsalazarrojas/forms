@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hospital Admission Verification Form - Help Guide
 ## Purpose
 The Hospital Admission Verification Form is used to verify patient information before admittance to the hospital. This form collects essential details about the patient to ensure accurate and efficient processing of their medical records.

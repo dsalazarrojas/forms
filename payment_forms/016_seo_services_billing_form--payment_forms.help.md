@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # seo_services_billing_form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-Form fields should be self-explanatory. I've seen some poorly designed forms before where users get frustrated trying to fill them out, so a good help guide can make a big difference in user experience. Let me create a comprehensive help guide for this form that is concrete, concise, and practical.
-</thinking>
-
 # monthly_payment_authorization_form - Help Guide
 ## Purpose
 The purpose of this form is to provide a convenient and secure way for users to authorize and schedule monthly payments. It is designed to collect necessary information to facilitate smooth and efficient payment processing.

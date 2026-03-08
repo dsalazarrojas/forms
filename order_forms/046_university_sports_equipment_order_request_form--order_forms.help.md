@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for requesting sports equipment for University departments. The form will be used by department staff to request sports equipment, which will be reviewed and approved by the sports department. The form should only be filled out once for each request, and not repeatedly for the same equipment. The sports department will verify the equipment condition and ensure it is in good condition before issuing it to the department. The form will be reviewed and approved on a case-by-case basis. The form will not be used for non-sports related requests.
-</thinking>
-
 # University Sports Equipment Order Request Form - Help Guide
 ## Purpose
 This form is designed to help University departments request sports equipment for their activities. It is a simple and straightforward process to ensure that the equipment is properly ordered and reviewed before being issued to the department.

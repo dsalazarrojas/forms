@@ -1,6 +1,3 @@
-<thinking> 
-To confirm, the form is intended for ordering kitchen ventilation filters, and it is likely used in a business setting, possibly for e-commerce or customer service purposes. The purpose of this form is to gather information from the user to process a kitchen ventilation filter order. It's crucial to check if the form is not already in use for another purpose or project, as it might be a duplication of efforts. The form fields suggest that the customer will need to provide personal and shipping information, and the customer might also have specific instructions or requests for the shipping process. This form appears to be designed to collect a wide range of data, including user's details, shipping information, and additional notes. I assume the form is used in an e-commerce context, and the user will be using it to place an order for kitchen ventilation filters. Please let me know if this assessment is correct or if there are any corrections or additional details to consider.</thinking>
-
 # Kitchen Ventilation Filter Order Form - Help Guide
 ## Purpose
 The Kitchen Ventilation Filter Order Form is designed to gather information from customers to process their kitchen ventilation filter orders. This form is intended for customers who want to place an order for kitchen ventilation filters.

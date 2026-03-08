@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to be used for authorizing or declining work-related activities for employees who have been exposed to COVID-19. The form should be completed by the employee who has been exposed to COVID-19 and needs to report their status to their healthcare provider and HR department. The form is a simple text-based form with a few fields that need to be filled out by the employee. The purpose of this form is to gather information about the employee's exposure to COVID-19 and to obtain their healthcare provider's confirmation of their status. This form should only be used for this specific purpose and should not be used for any other type of work authorization.</thinking>
-
 # COVID 19 Work Authorization Form - Help Guide
 ## Purpose
 The COVID 19 Work Authorization Form is a simple text-based form designed to gather information about an employee's exposure to COVID-19. It is intended to be used by employees who have been exposed to COVID-19 and need to report their status to their healthcare provider and HR department.

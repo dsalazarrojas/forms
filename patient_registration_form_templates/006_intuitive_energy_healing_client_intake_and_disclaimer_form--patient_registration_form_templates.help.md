@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Intuitive Energy Healing Client Intake And Disclaimer Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from clients for an Intuitive Energy Healing session. It includes a range of fields to gather details about the client, their medical history, and their consent to participate in the session. The purpose of this form is to ensure that the client provides necessary information for a safe and effective healing experience.

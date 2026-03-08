@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ubam_hostess_rewards_order_form_for_jenns_team - Help Guide
 ## Purpose
 The ubam_hostess_rewards_order_form_for_jenns_team form is used to record orders from customers for rewards from Jenn's Team.

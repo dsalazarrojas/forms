@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a clear and concise user guide that helps end-users understand the purpose and requirements of the "gourmet_ingredient_starter_pack_order_form". This form is used for placing orders, and its purpose is to gather essential information from users. Before creating the guide, I will review the form schema to ensure I cover all the necessary fields and provide a comprehensive overview. I will aim to keep the explanation simple and straightforward, using plain language to convey complex information. I will also make sure to address any unclear or weak field labels by providing additional context or explanations.</thinking>
-
 # gourmet_ingredient_starter_pack_order_form - Help Guide
 ## Purpose
 This form is designed to collect information for placing orders. It is essential to fill out the form accurately to ensure that your order is processed correctly.

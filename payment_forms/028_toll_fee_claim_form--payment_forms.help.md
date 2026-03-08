@@ -1,10 +1,6 @@
 # Toll Fee Claim Form - Help Guide
 
 ## Purpose
-<thinking>
-The purpose of this form is to gather information from claimants for toll fee claims. This form is used to collect details about the claimant, the toll fee, and the submitter. The form helps to ensure that all necessary information is provided for a claim to be processed correctly.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow the steps below:
 

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for managing mail delivery information for a package. It is used to capture details such as shipping name, recipient name, delivery address, and delivery status. The form is designed to be completed by shipping personnel to ensure accurate and efficient mail delivery.
-
-The form is divided into several sections, each containing relevant fields for collecting specific information. The purpose of this guide is to explain each field in detail, making it easier for users to complete the form correctly and accurately.
-
-</thinking>
-
 # mail_delivery_form - Help Guide
 ## Purpose
 

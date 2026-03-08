@@ -1,7 +1,3 @@
-<thinking>
-This form is for patients to provide information about their nutritional needs and goals. It will be used by healthcare professionals to assess and address these needs. Please ensure that you fill out this form accurately and honestly, as it will help us better understand your situation and provide you with more effective care. If you have any pre-existing medical conditions or are currently undergoing treatment, please let us know so we can tailor your consultation accordingly. Also, please be aware that this form will be used for internal purposes only, and your data will not be shared with any third party without your consent.
-</thinking>
-
 # Nutrition Consultation Form - Help Guide
 ## Purpose
 The Nutrition Consultation Form is designed for patients to provide information about their nutritional needs and goals. This form will be used by healthcare professionals to assess and address these needs.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for CPD (Customer-Provided Data) representatives to provide feedback on their experience with a feedback session. The form collects information on the representative's name, the date and time of the session, the location of the session, their rating of the session, their feedback, and any action items for next steps. This information will help the organization better understand the representative's perspective and make data-driven decisions to improve future feedback sessions.
-To use this form, simply fill out the required fields with your relevant information and submit. Please make sure to provide as much detail as possible in your feedback and action items.
-</thinking>
 # Cpd Representative Feedback Form - Help Guide
 ## Purpose
 The Cpd Representative Feedback Form is designed for CPD representatives to provide feedback on their experience with a feedback session.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form, "mri_order_form," appears to be for ordering an MRI procedure with patient information, appointment details, and payment specifics.
-The form likely serves as a centralized location for medical professionals to gather essential information from patients, including their name, address, and date of birth for patient identification and consent. The appointment section includes fields for the date and time of the appointment, duration of the procedure, and payment method, indicating that this form is used for scheduling and payment arrangements. Additionally, the "payment_method" field with select options suggests that the form also handles payment processing. The form does not appear to have any sensitive or confidential fields that would require additional explanation for non-medical professionals.
-</thinking>
-
 # mri_order_form - Help Guide
 ## Purpose
 The mri_order_form is used for ordering and scheduling an MRI procedure for patients, gathering essential information for the appointment and payment process.

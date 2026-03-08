@@ -1,8 +1,3 @@
-<thinking>
-To create this form, we first need to identify the purpose and requirements. This form is used for requesting proof of payment from clients, which helps us verify the payment status of an invoice. It's essential to understand the payment process to avoid any duplication or unnecessary requests.
-The form has multiple fields that need to be filled out by the client. We need to ensure that the client fills out all necessary fields correctly to avoid any confusion.
-</thinking>
-
 # Invoice Payment Proof Request Form - Help Guide
 ## Purpose
 The Invoice Payment Proof Request Form is used to request proof of payment from clients to verify the payment status of an invoice. This form helps to ensure that payments are correctly received and processed.

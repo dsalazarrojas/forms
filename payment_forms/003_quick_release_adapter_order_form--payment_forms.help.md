@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect order information from suppliers for quick release adapter orders. The form helps in capturing all relevant details such as supplier name, address, contact information, order quantity, unit price, shipping details, and payment status among other things. 
-
-Before proceeding, ensure that you're on the correct page to place an order for a quick release adapter. You won't need to fill out this form if you already have a similar order in progress, as it may lead to duplicate entries and confusion.
-
-</thinking>
-
 # Quick Release Adapter Order Form - Help Guide
 ## Purpose
 The Quick Release Adapter Order Form is used to collect necessary information for placing an order for a quick release adapter from a supplier. It's recommended to fill out this form only once for each new order.

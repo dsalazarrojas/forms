@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Powder Release Product Order Form - Help Guide
 
 ## Purpose

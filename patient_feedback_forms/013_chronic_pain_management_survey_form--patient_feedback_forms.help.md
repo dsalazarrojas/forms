@@ -1,28 +1,3 @@
-<thinking>... 
-
-This guide is intended to help patients understand the purpose and process of completing the Chronic Pain Management Survey Form. The form aims to collect patient feedback on their current treatment plan, pain management, and interaction with healthcare providers, which will help healthcare professionals better understand patient needs and improve care quality.
-
-The form collects information on:
-
-*   Date of the survey
-*   Current primary treatment method
-*   Level of pain reduction from treatment (0-100%)
-*   Frequency of side effects from treatment
-*   Description of side effects
-*   Quality of life improvement since starting treatment
-*   Provider interaction (listening, explaining treatment options, etc.)
-*   Ease of scheduling follow-up appointments
-*   Primary functional goal for the next 3 months
-*   Additional feedback for the medical team
-
-The form will help healthcare providers:
-*   Assess the effectiveness of current treatment plans
-*   Identify areas for improvement in patient care
-*   Better understand patient needs and expectations
-
-Please ensure that your answers are honest and accurate. This information will be used to improve your care.
-
-</thinking>
 # Chronic Pain Management Survey Form - Help Guide
 ## Purpose
 The Chronic Pain Management Survey Form is designed to collect patient feedback on their current treatment plan and interactions with healthcare providers. This feedback is crucial for healthcare professionals to better understand patient needs, improve care quality, and optimize treatment outcomes.

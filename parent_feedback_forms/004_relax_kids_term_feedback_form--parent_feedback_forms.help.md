@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect feedback from parents about their experience with a relaxation program aimed at kids. The purpose of this form is to gather information on how effective the program has been in helping kids relax and manage their stress levels. The form is not affiliated with any form platform and is an original adaptation of publicly available metadata.
-</thinking>
-
 # relax_kids_term_feedback_form - Help Guide
 ## Purpose
 The form is used to collect feedback from parents about their child's experience with a relaxation program. The goal is to understand how effective the program has been in reducing kids' stress levels.

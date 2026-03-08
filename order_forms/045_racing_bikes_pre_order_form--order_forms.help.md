@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure the form is used correctly and efficiently, the form's purpose and each field's explanation should be clear and concise. The Racing Bikes Pre Order Form is designed to collect customer information and order details for bike orders. The form is likely to be used in the context of an e-commerce website or a bike dealership.
 
 The form can be divided into four sections: Customer Info, Order Details, Delivery Details, and Order Summary. Each section should be filled in accordingly.

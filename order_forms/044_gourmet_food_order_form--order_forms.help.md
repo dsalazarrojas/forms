@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gourmet Food Order Form - Help Guide
 
 ## Purpose

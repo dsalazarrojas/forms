@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to facilitate the process of renewing a subscription for an individual or company. The form collects information about the customer and their subscription, allowing them to provide details about the subscription they wish to renew and make payment arrangements if necessary. This form is an essential part of our subscription management process, ensuring that customers can easily renew their subscriptions without hassle.
-</thinking>
-
 # subscription_renewal_form - Help Guide
 ## Purpose
 The subscription_renewal_form is designed for customers to provide information about their subscription renewal. It collects customer and subscription details, and allows customers to make payment arrangements.

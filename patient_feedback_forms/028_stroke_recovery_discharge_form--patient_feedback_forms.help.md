@@ -1,5 +1,3 @@
-<thinking>As a form expert, I'll create a user-facing help guide for the "Stroke Recovery Discharge Form" to ensure end users understand its purpose, how to complete it, and what each field means. This guide will be comprehensive, concise, and practical, explaining each field without inventing unsupported business logic. I'll base it on the provided YAML fields and structure it according to the required Markdown structure.</thinking>
-
 # Stroke Recovery Discharge Form - Help Guide
 ## Purpose
 The "Stroke Recovery Discharge Form" is a tool used to document a patient's progress and status after a stroke recovery. It helps healthcare professionals gather essential information to ensure a smooth transition between care settings and provide the best possible outcomes for the patient.

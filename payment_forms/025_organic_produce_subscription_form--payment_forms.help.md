@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow customers to subscribe to organic produce delivery service. This form is designed to collect information about the customer's preferences and payment method. The fields in this form are divided into two sections: customer information and payment and subscription details. The form does not require any payment information, but the customer must provide their contact information and select their preferred delivery frequency, subscription length, and payment method. The customer can also choose to start and end their subscription on specific dates. 
-</thinking>
-
 # organic_produce_subscription_form - Help Guide
 ## Purpose
 This form is used to collect information from customers to set up their organic produce subscription.

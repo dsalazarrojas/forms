@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to gather information from patients about their chronic care program lead enrollment. It collects data on the patient's personal details, medical history, insurance information, communication preferences, and support needs. The purpose of this form is to ensure that patients are properly enrolled in the program and can be provided with tailored care and support.
-The form is divided into different sections, each containing relevant information and fields. Patients are asked to fill out their full name, date of birth, gender, email address, phone number, and address information. They are also required to list their current medications, medical history, and preferred contact method.
-The form also asks patients to indicate their interest in the program, what they hope to achieve through it, and whether they have any transportation needs or caregiver support. Additionally, patients are asked to provide their consent to participate in the program and acknowledge their understanding of their privacy rights.
-Before submitting the form, patients should ensure that they have provided accurate and complete information. This includes ensuring that they have listed all their current medications, medical history, and transportation needs. Patients should also carefully read and understand the privacy acknowledgment section before submitting their application.
-</thinking>
-
 # Chronic Care Program Lead Form - Help Guide
 ## Purpose
 The Chronic Care Program Lead Form is a patient-facing form designed to collect necessary information for enrolling patients in the program.

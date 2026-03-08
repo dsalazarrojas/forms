@@ -1,7 +1,3 @@
-<thinking>
-This form is used for customers to register their domain name and make a payment. 
-</thinking>
-
 # Domain Name Registration Payment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect domain name registration information and payment details from customers. This form is part of the domain name registration process, allowing customers to provide their domain name and payment method details.

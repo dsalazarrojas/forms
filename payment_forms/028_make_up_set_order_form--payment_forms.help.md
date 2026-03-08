@@ -1,18 +1,3 @@
-<thinking>
-The form purpose is to create a payment up set order which can be used to collect information for payment processing purposes. This form is likely used for customers or merchants to provide necessary details about their order, such as payment method and total amount. The form is structured as a multiple-page form with the following fields:
-
-- Order Form: This is the first page of the form where customers can enter their order details.
-- Payment Method: This field allows customers to select their preferred payment method, which can be credit card or paypal.
-- Total Amount: This field is used for customers to enter the total amount of their order.
-- Order Notes: This field is for customers to provide any additional notes or comments about their order.
-- Customer Address and Customer Phone: These fields are used for customers to enter their address and phone number for shipping and contact purposes.
-
-It is assumed that customers are entering this form to create a payment order that will be processed accordingly. The form is designed to collect necessary information to facilitate the payment process. However, it is not clear from the provided YAML whether all fields are required or not.
-
-To confirm whether this form is being used correctly and not being duplicated, it would be good to check with the relevant stakeholders or business owners to clarify the form's purpose and usage.
-
-</thinking>
-
 # Make Up Set Order Form - Help Guide
 
 ## Purpose

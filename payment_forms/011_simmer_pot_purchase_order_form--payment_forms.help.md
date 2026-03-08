@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for customers to place orders for simmer pots, which is a type of product that requires special handling and shipping instructions. The form is likely to be used by a company that sells simmer pots online or in-person, and the customers are filling out the form to specify their order details, payment preferences, and delivery instructions. This form is not designed for duplicate or repetitive tasks, and it's intended for a specific use case.
-</thinking>
-
 # Simmer Pot Purchase Order Form - Help Guide
 ## Purpose
 This form is used to place an order for a simmer pot. Please fill out the form with your order details, payment preferences, and delivery instructions.

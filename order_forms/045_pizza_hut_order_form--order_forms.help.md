@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Pizza Hut Order Form is to collect information from customers for their orders. The form is designed to accommodate different delivery options and to collect relevant customer information.
 
 Before filling out the form, please ensure that you have the necessary details ready, such as your delivery choice and contact information. The form is not designed to be filled out for non-human entities, so it's essential to enter accurate and up-to-date information.

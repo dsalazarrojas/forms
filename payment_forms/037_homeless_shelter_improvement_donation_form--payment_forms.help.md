@@ -1,12 +1,3 @@
-<thinking>
-**Contextualizing the form purpose and checking for relevance:**
-
-The "homeless-shelter-improvement-donation-form" is a form designed to collect donations for improving homeless shelters. The form's purpose is to gather information from users about their willingness to donate, the type of upgrade they'd like to support, the amount of their donation, and other relevant details. This form is likely intended for organizations or individuals working with homeless shelters to gather support and resources for shelter improvements.
-
-Before filling out this form, please ensure you're completing it for a valid reason and not duplicating efforts. The form is designed to collect specific, actionable information and is not intended for general feedback or comments.
-
-</thinking>
-
 # homeless-shelter-improvement-donation-form - Help Guide
 ## Purpose
 This form is for those who want to support the improvement of homeless shelters by making a donation. It will help us understand how you'd like to help and what specific improvements you're interested in supporting.

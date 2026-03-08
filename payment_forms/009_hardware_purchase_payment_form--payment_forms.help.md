@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hardware Purchase Payment Form - Help Guide
 
 ## Purpose

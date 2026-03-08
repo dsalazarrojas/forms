@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from patients or their representatives regarding superbill insurance claims. The purpose of this form is to gather relevant details about the claim, including patient information, insurance information, claim details, and submission date. 
-The form will be used by [healthcare organization/insurance company] to process and review the claim. 
-To prevent duplication, please ensure that the form is only completed once per claim. 
-The form is intended for use by authorized personnel only.
-</thinking>
-
 # Superbill Submission Form - Help Guide
 ## Purpose
 The Superbill Submission Form is a simple text-based form designed to collect relevant information from patients or their representatives regarding superbill insurance claims.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for creating a deposit schedule agreement between a client and a provider. The purpose of this form is to collect information about the client, including their name, contact information, and agreement details. This form is likely used in a financial or business context, where the client and provider need to establish a mutually agreeable payment schedule. The form ensures that both parties are on the same page regarding payment terms and expectations.
-</thinking>
-
 # Deposit Schedule Agreement Form - Help Guide
 ## Purpose
 The Deposit Schedule Agreement Form is used to establish a payment schedule between a client and a provider. This form collects essential information to ensure both parties are aware of payment terms, amounts, and frequencies.

@@ -1,9 +1,3 @@
-<thinking>
-This form is used to manage the check-out process for science lab equipment and tools. The form is designed to collect information about the user, the date and time the equipment is checked out, the name and quantity of the item, and other relevant details such as return date and time, item status, and notes. This form is intended for internal use within the science lab and is used to keep track of equipment checked-out to ensure accurate inventory and minimize losses. 
-
-Form data is not duplicated in this guide, and this form is not intended to be used by external users.
-</thinking>
-
 # science_lab_check_out_form - Help Guide
 ## Purpose
 The science lab check-out form is used to document the check-out process of science lab equipment and tools, ensuring accurate inventory and minimizing losses.

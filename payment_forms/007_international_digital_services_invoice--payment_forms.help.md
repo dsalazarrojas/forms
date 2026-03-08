@@ -1,9 +1,3 @@
-<thinking>
-This form is used to generate an international digital services invoice for a customer. The form will guide you in collecting billing information and payment details for a customer's international digital services.
-The form will only collect information that is relevant to the customer's international digital services usage. Please ensure that you only fill out the form if the purpose is to generate an invoice for international digital services.
-
-</thinking>
-
 # international_digital_services_invoice - Help Guide
 ## Purpose
 This form is used to generate an international digital services invoice for a customer. It collects relevant information for billing and payment purposes.

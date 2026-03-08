@@ -1,9 +1,3 @@
-<thinking>
-We'll create a user-friendly help guide for the "Custom Shed Order Form". This form is designed to capture essential customer information for custom shed orders. It collects details such as customer name, order type, delivery date, contact information, and payment method. 
-The form is split into multiple pages, making it easier for customers to provide the necessary information. 
-Please make sure to fill out the form completely and accurately to ensure a smooth order process. 
-</thinking>
-
 # Custom Shed Order Form - Help Guide
 ## Purpose
 The Custom Shed Order Form is designed to collect customer information for custom shed orders. It ensures accurate and complete orders are received and processed efficiently.

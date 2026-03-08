@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information from customers who want to pre-order a book series. It's essential to ensure that the form is filled out correctly, so we'll review the purpose, how to complete it, and each field's explanation to avoid any confusion. The form collects details such as the buyer's name, email, address, selected book title, quantity, gift options, payment method, special instructions, and agreement to terms and conditions. 
-
-Before filling out the form, please make sure you have read and understood the policy related to pre-orders. Some fields are required for order processing, so please ensure you provide accurate information for these fields. If you're unsure about any field, please refer to this guide for clarification.
-
-</thinking>
-
 # Children Book Series Pre Order Form - Help Guide
 ## Purpose
 The form is designed to collect pre-order information for a book series. Fill out this form to place an order for the book series and provide the required details for processing the order.

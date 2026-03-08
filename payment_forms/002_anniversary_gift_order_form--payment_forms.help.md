@@ -1,9 +1,3 @@
-<thinking>
-  This form is designed to facilitate the process of ordering anniversary gifts. The form captures essential information to ensure accurate gift delivery and customization.
-  The form is divided into sections that guide users through the necessary details for a successful gift-giving experience.
-  This form is intended for customers to order anniversary gifts for their loved ones.
-</thinking>
-
 # Anniversary Gift Order Form - Help Guide
 ## Purpose
 The Anniversary Gift Order Form is used to gather information for ordering anniversary gifts, including customer details, gift preferences, and delivery instructions.

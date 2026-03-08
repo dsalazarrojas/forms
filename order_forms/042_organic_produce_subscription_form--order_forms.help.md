@@ -1,20 +1,3 @@
-<thinking>
-This is a guide to the organic_produce_subscription_form form. The form is used to manage organic produce subscriptions for customers. It collects information from customers about their preferences, delivery details, and billing information. This form helps the customer management team to process customer requests and set up their subscriptions efficiently. 
-
-The form has 14 fields, each serving a specific purpose. This guide will walk through each field, explaining its purpose and how to complete it. This guide is intended for end-users who will be filling out this form. 
-
-Before proceeding, please note that the form is divided into different sections. This guide will cover each section individually. 
-
-The following sections are covered in this guide:
-
-- Customer details
-- Subscription settings
-- Delivery information
-- Billing and payment details
-- Additional notes
-
-</thinking>
-
 # organic_produce_subscription_form - Help Guide
 ## Purpose
 The organic_produce_subscription_form is a comprehensive form designed to collect customer information and preferences for managing organic produce subscriptions. 

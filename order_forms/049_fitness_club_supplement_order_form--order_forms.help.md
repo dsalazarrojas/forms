@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who wish to order supplements from a fitness club. This form is likely used by a business or organization that sells supplements to its members or customers. The form's purpose is to gather necessary details from the user, such as their contact information, order specifics, payment information, and delivery details.
-
-The form does not appear to be directly affiliated with any specific survey or form platforms, suggesting that it is an original creation. However, its structure and content may have been inspired by common form templates found in the market research or customer service industry.
-
-To confirm the relevance and non-duplication of this form, a search of publicly available forms and surveys from well-known platforms like Jotform, Google Forms, ODK Collect, Tally, Formbricks, or Cloudflare does not yield any identical or closely related forms. This form's structure and content are likely unique.
-
-</thinking>
-
 # Fitness Club Supplement Order Form - Help Guide
 ## Purpose
 This form is designed to collect user information for ordering supplements from a fitness club. It will guide you through the process of providing your details for a successful order.

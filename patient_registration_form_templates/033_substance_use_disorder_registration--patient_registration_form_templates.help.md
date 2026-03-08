@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from patients about their substance use disorder status, medical history, and treatment goals. The form is intended to be completed by patients who are seeking treatment for their substance use disorder. The purpose of this form is to gather essential information about the patient's current substance use status, medical history, and treatment goals, which will help healthcare professionals to provide appropriate care and treatment.
-
-Please note that this form is not intended to be a comprehensive medical evaluation, and the information collected will be used to support the patient's treatment plan, not to diagnose or treat the patient.
-
-Before starting, please ensure that the patient has given their consent to complete this form.
-
-</thinking>
-
 # Substance Use Disorder Registration - Help Guide
 ## Purpose
 This form is designed to gather information from patients about their substance use disorder status, medical history, and treatment goals.

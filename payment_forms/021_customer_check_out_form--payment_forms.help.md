@@ -1,7 +1,3 @@
-<thinking>
-This form is used to facilitate customer checkout for orders, ensuring accurate and efficient payment information collection. It's crucial that this form is not duplicated, as it's a vital part of the customer interaction process. To avoid duplication, this form should not be filled out by customers who have already checked out or are currently logged in. The provided fields are designed to gather the necessary details for successful order fulfillment.
-</thinking>
-
 # customer_check_out_form - Help Guide
 ## Purpose
 The "Customer Check Out Form" is a crucial tool used to gather essential customer information, payment details, and order specifics for smooth order checkout. This form ensures accurate and reliable data collection, aiding in efficient order fulfillment and minimizing errors.

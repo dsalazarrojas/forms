@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to allow users to order food for a sports event. The purpose of the form is to collect information from users about their food preferences and payment methods for the event. This form should only be used for users who are attending the sports event. The information collected will be used to process food orders and payments for the event.
-
-</thinking>
-
 # Sports Event Food Order Form - Help Guide
 ## Purpose
 The Sports Event Food Order Form is a simple online form designed to gather information from attendees at a sports event about their food preferences and payment methods.

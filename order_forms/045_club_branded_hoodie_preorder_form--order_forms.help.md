@@ -1,7 +1,3 @@
-<thinking> 
-To prevent duplication, ensure that each user fills out the form completely and accurately. This is a pre-order form for users who wish to purchase a custom-made Club Branded Hoodie. Users can choose from various options such as hoodie color, size, style, and quantity. They can also add custom details like name and number on the hoodie. The form also requires users to enter their shipping address, delivery date, and preferred payment method. Finally, users must confirm their preorder and payment details. 
-</thinking>
-
 # Club Branded Hoodie Preorder Form - Help Guide
 ## Purpose
 This form is designed to allow users to place a preorder for a custom-made Club Branded Hoodie. By filling out the form, users can select their preferred hoodie color, size, style, and quantity, as well as add custom details like name and number. They will also be able to provide their shipping address, delivery date, and preferred payment method.

@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect patient information and treatment plans for medical professionals to review and use in their practices. 
-This form is intended to be used for patient registration and treatment planning purposes. 
-Please note that this form is not a replacement for a comprehensive medical history or diagnosis. 
-The form is divided into several sections to help the user input patient information systematically. 
-The form fields are explained below. 
-
-</thinking>
-
 # Patient Treatment Plan Extension Form - Help Guide
 ## Purpose
 This form is designed to collect patient information and treatment plans for medical professionals to review and use in their practices.

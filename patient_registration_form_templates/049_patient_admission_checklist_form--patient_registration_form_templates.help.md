@@ -1,14 +1,3 @@
-<thinking>
-This is a patient admission checklist form. It is designed to collect relevant information about a patient's demographic, medical history, and treatment details. The form will be used to gather data from patients who are being admitted to the hospital or clinic.
-
-The purpose of this form is to ensure that the patient's information is accurately and thoroughly documented, which is crucial for providing quality care and ensuring the patient's safety.
-
-Before proceeding, please ensure that the form is completed with the patient's consent and understanding. This form is not intended to be a comprehensive medical history, but rather a quick reference guide for the medical staff to quickly gather essential information.
-
-Before filling out the form, please note that some sections may require additional documentation or clarification. If you need help or have questions, don't hesitate to reach out to the medical staff.
-
-Please complete the form carefully and accurately, as it will be used as a reference for the patient's treatment and care.</thinking>
-
 # patient admission checklist form - Help Guide
 ## Purpose
 The patient admission checklist form is designed to collect essential information about a patient's demographic, medical history, and treatment details.

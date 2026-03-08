@@ -1,10 +1,3 @@
-<thinking>
-The "Gymnastics Term Fee Payment" form seems to be a payment form for gym term fees. The purpose of this form is to collect information from users regarding their payment method and details. 
-
-This form likely belongs to the "payment_forms" category, and it's intended for users to make payments for their gym term fees. There should not be any confusion with other forms, and users should be able to clearly understand what information is being asked of them.
-
-</thinking>
-
 # Gymnastics Term Fee Payment - Help Guide
 ## Purpose
 This form is used to collect payment method and details for gym term fees.

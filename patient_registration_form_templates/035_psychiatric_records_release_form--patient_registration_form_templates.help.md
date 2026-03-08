@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # psychiatric_records_release_form - Help Guide
 ## Purpose
 The Psychiatric Records Release Form is a document that allows patients to authorize the release of their psychiatric records to certain providers. This form is used to request access to a patient's mental health information and treatment history.

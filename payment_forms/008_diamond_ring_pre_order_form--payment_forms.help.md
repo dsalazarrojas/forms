@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed to gather information from customers who want to pre-order a diamond ring. The form is divided into five sections. Pre-order information is required, as it includes fields such as name, email, and ring details. Engraving requests are optional and allow customers to choose from various engravings for their ring. Delivery information is also optional and includes fields for shipping address and details. Payment information is not included in this form as it's not necessary for pre-ordering, but will be collected later in the payment process. Review is a final section where customers can review their order before submitting it.
-</thinking>
-
 # Diamond Ring Pre Order Form - Help Guide
 ## Purpose
 This form is designed to collect pre-order information from customers for a diamond ring. It is intended to be used as a starting point for customers who wish to place an order.

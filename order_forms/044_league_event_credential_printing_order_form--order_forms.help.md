@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users to print league event credentials, which are likely badges or certificates that commemorate a particular event. The form is designed to be completed by users who need to print these credentials for their league events. This form is likely used in a sports or community organization setting.
-The form should only be completed by users who have a legitimate reason to print league event credentials. The form is not intended for general informational purposes or to collect feedback.
-To avoid duplication of work, please ensure that you have all necessary information before completing the form, such as artwork and event details.
-</thinking>
-
 # League Event Credential Printing Order Form - Help Guide
 ## Purpose
 This form is used to collect information from users to print league event credentials.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Health Nutrition Form - Help Guide
 ## Purpose
 This form collects information from patients about their health and nutrition goals, dietary habits, and medical history. The form is used to help health coaches and nutritionists understand the patient's needs and create personalized nutrition plans.

@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to request access cards from the access card system, which are used to control access to certain areas or buildings within an organization. This form is used by employees, visitors, and contractors to submit a request for a new or replacement access card. The form requires the requester to provide their full name, email address, phone number, employee or contractor ID number, department, job title, type of access card requested, reason for the request, areas or buildings requiring access, access schedule, date of need, end date, approving supervisor or manager name, and their email address. 
-It is essential that all required fields are completed for the request to be processed.
-
-</thinking>
-
 # Access Card Requisition Form - Help Guide
 ## Purpose
 This form is used to submit a request for a new or replacement access card to control access to certain areas or buildings within the organization.

@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from customers regarding their preferences and contact details for a custom sports order. It is designed to be simple and easy to use, with minimal required fields to ensure that users can provide the necessary information without feeling overwhelmed. This form can be used by sports organizations, teams, or companies to collect orders from their customers or clients.
-
-The form consists of five sections: customer details, order preferences, payment details, confirm order, and contact details. Each section is designed to collect specific types of information from the user, making it easy to understand and fill out.
-
-This form is a great tool for businesses that need to collect customer orders without having to worry about complex form logic or integrations. With its simple and intuitive design, it's perfect for online order collection, surveys, or any other type of customer feedback.
-</thinking>
-
 # custom_sports_order_form - Help Guide
 ## Purpose
 

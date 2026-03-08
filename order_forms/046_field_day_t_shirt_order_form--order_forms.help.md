@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 We need to create a user-facing help guide for this form. This form is called "Field Day T Shirt Order Form" and it is used to collect order information from customers. We will need to cover the purpose of the form, how to complete it, and provide field-by-field explanations for each field.
 
 The form has several fields for customer information, order details, and order specifics. The fields include:

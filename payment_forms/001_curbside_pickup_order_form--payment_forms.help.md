@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Curbside Pickup Order Form - Help Guide
 ## Purpose
 The Curbside Pickup Order Form is used for customers to place orders for curbside pickup at a store. This form is designed for customers to provide their order details, including order number, customer information, and payment method.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Custom Gate And Fence Order Form - Help Guide
 ## Purpose
 This form is designed to collect project details and contact information from customers who are interested in ordering custom gates and fences. It is intended to be completed by customers or their representatives to provide the necessary information for our team to process their order.

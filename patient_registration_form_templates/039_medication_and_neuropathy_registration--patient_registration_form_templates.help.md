@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect patient registration information for medication and neuropathy treatment. It is meant to be filled out by patients who are experiencing neuropathy symptoms and are interested in seeking treatment. This form will be reviewed by medical professionals to ensure accuracy and completeness of the patient's information. Please fill out this form carefully and accurately to ensure that your medical history and needs are properly documented. If you have any existing medical forms or records from other healthcare providers, please do not submit them as they will not be processed. Instead, please fill out this form completely and accurately. 
-</thinking>
-
 # Medication And Neuropathy Registration - Help Guide
 
 ## Purpose

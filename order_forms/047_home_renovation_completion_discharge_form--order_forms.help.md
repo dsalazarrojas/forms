@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information about home renovation projects, specifically the completion and discharge process. It is intended for use by project managers and inspectors to document the status of home renovation projects. The form is used to gather details about the project, such as the project address, customer name, and project status. It also includes fields for signatures, comments, and dates. The form is an internal tool for managing home renovation projects, and it is not intended for external use or public distribution. It is assumed that the form will be completed by authorized personnel, such as project managers and inspectors, within the organization. 
-</thinking>
-
 # home_renovation_completion_discharge_form - Help Guide
 ## Purpose
 This form is designed to capture information about home renovation projects, specifically the completion and discharge process.

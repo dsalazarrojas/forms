@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture order details for a conveyor roller bearing, which is a type of industrial equipment. This form will guide users through the process of entering the necessary information to place an order for the bearing. The form is designed to collect relevant details to ensure accurate and efficient processing of the order.
-
-The form has two main sections: "Order Details" and "Order Information". The "Order Details" section collects information about the customer, shipping address, and order specifics, while the "Order Information" section collects payment and additional details.
-
-Before proceeding, please ensure you have all necessary information about the order ready and not duplicate any existing orders. This will prevent confusion and ensure accurate processing.
-
-</thinking>
-
 # Conveyor Roller Bearing Order Form - Help Guide
 ## Purpose
 This form is designed to guide customers through the process of placing an order for a conveyor roller bearing. Please fill out this form with the necessary information to ensure accurate and efficient processing of your order.

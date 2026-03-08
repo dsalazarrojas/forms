@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for patients to register for the Digital Therapeutics Pilot program. The form will gather information on the patient's medical condition, treatment plan, and medication history. This form is not intended for medical professionals, but rather for patients who want to participate in the pilot program. This form has multiple sections with various fields, and the patient must fill out all required fields to complete the registration process. Before starting, please ensure that you have not already registered for this program to avoid duplication of effort.</thinking>
-
 # Digital Therapeutics Pilot Registration Form - Help Guide
 ## Purpose
 The Digital Therapeutics Pilot Registration Form is designed for patients to register for the Digital Therapeutics Pilot program. This form will gather information on the patient's medical condition, treatment plan, and medication history.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hvac_system_order_form - Help Guide
 ## Purpose
 The Hvac_system_order_form is used for customers to place orders for hvac systems, including heating and cooling systems. This form allows customers to provide their personal details, order specifics, and payment information to ensure a smooth ordering process.

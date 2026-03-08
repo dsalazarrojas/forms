@@ -1,12 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Seasonal Gift Wrapping Set Order Form", I'll need to understand the context and purpose of the form, as well as each field's purpose and requirements. Based on the YAML provided, here's a brief internal reasoning block to clarify the form's purpose and fields:
-
-The Seasonal Gift Wrapping Set Order Form is designed to collect information for ordering gift wrapping sets for customers. The form asks for details about the order, including the gift sets, size, style, quantity, customer contact info, and shipping address. This form is likely to be used by customers to place orders for gift-wrapped sets that will be shipped to them.
-
-Form fields are categorized into several sections, including "Gift Wrapping Set", "Order Details", "Customer Information", and "Shipping". Each field is explained below to help users fill out the form correctly.
-
-</thinking>
-
 # Seasonal Gift Wrapping Set Order Form - Help Guide
 
 ## Purpose

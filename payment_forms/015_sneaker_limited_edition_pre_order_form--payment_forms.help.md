@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sneaker Limited Edition Pre Order Form - Help Guide
 
 ## Purpose

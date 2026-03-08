@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers for their beach supply orders. The form is divided into several sections, including customer information (name, email, and phone number), order details (order date, delivery date, and delivery address), and order items (beach chairs, umbrellas, towels, coolers, boogie boards, surfboards, snorkel sets, beach toys, sunscreen, and other items). The form also requires the customer to select a payment method and provide a subtotal, shipping cost, and total amount. The "other items" field allows customers to list any additional items they would like to order. This form is intended for customers who wish to place an order for beach supplies. It is likely used by a business that sells beach supplies, such as surf shops or beach rental companies.
-</thinking>
-
 # Beach Supply Order Form - Help Guide
 
 ## Purpose

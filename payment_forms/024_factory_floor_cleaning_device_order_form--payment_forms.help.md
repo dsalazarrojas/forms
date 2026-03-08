@@ -1,7 +1,3 @@
-<thinking>
-We will create a help guide for the Factory Floor Cleaning Device Order Form, ensuring end users understand the form's purpose, how to complete it, and each field's meaning. Before proceeding, let's consider that this form is likely used in a business setting for processing orders, and the various fields seem to cover order details, payment information, shipping, and customer contact information. This form appears to be comprehensive, covering multiple pages. To prevent duplication, we will ensure that each page's explanation is clear and concise, and that we don't repeat information across fields. We will also aim to keep the language concrete and practical, making it easy for end-users to understand the required fields and their purposes.
-</thinking>
-
 # Factory Floor Cleaning Device Order Form - Help Guide
 ## Purpose
 The Factory Floor Cleaning Device Order Form is used to collect order details from customers, including payment information, shipping addresses, contact details, and order notes. This form helps to process orders efficiently and ensure that all necessary information is captured accurately.

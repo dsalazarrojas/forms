@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is intended to collect payment information from participants in a fantasy sports league. The primary goal is to ensure that all participants register and pay their fees in a fair and organized manner. The form is designed to gather details such as participant name, contact information, and payment method, which will later be used for processing payments and other administrative tasks. 
-
-Before filling out this form, please ensure that you have all the necessary details ready. The form is not intended for duplicate registrations, so please check that you are not already registered before proceeding. Also, kindly be aware that some fields are not mandatory, and you can skip them if not applicable.
-
-</thinking>
-
 # Fantasy Sports Registration Payment Form - Help Guide
 ## Purpose
 The Fantasy Sports Registration Payment Form is a tool to collect payment information from fantasy sports participants. It is an essential part of the registration process, and it helps us process payments and update participant details.

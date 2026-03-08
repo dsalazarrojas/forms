@@ -1,17 +1,3 @@
-<thinking>
-The form purpose is to collect information for a gas service connection order from customers. This form likely exists to streamline the ordering process and reduce errors. It's essential to fill it out correctly to avoid duplication of efforts and ensure the order is processed accurately.
-
-To complete this form, follow these steps:
-
-1.  Fill in the customer information section, which includes the customer name, email, phone number, and account number.
-2.  Select the service location and connection type.
-3.  Provide the meter reading and connection date and time.
-4.  Choose the service status, gas type, meter type, and account type.
-5.  Add any internal notes or customer notes if necessary.
-6.  Review the order before submission.
-
-</thinking>
-
 # Gas Service Connection Order Form - Help Guide
 
 ## Purpose

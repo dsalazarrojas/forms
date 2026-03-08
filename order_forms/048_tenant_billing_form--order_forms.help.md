@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This block will be used to check if the form purpose is relevant and not duplicating any other form's purpose in your system, and it's also a good spot to add any other relevant context or information.
 
 **Internal Reasoning Block:**

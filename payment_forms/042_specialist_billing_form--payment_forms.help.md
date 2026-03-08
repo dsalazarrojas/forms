@@ -1,11 +1,3 @@
-<thinking>
-
-This form appears to be a payment form for billing specialists, possibly for medical or professional services. It's likely used to collect payment information and status for patients or clients. I'll create a help guide that assumes the form is used for medical billing, but the explanation will be general enough to apply to other industries. The form likely aims to streamline the billing process, making it easier for billing specialists to collect and track payment information.
-
-The form has multiple pages with various fields, including patient information, billing details, and payment method and status. It seems that the form is designed for both billing specialists and patients/cients to fill out, which may require clear explanations for each field to avoid confusion.
-
-</thinking>
-
 # Specialist Billing Form - Help Guide
 
 ## Purpose

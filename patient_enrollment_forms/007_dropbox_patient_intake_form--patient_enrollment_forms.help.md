@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about patients for intake purposes. It should only be used to register new patients in the system. Please ensure that a single instance of this form is not submitted multiple times for the same patient. This is to prevent data duplication and ensure accurate records. The form fields are designed to collect relevant information about the patient, including their demographic details, medical history, and contact information. Each field is labeled clearly to help guide the user through the process. Please review the form carefully to ensure that all required fields are filled in correctly.
-</thinking>
-
 # Dropbox Patient Intake Form - Help Guide
 ## Purpose
 This form is designed to collect demographic, medical, and contact information from patients for intake purposes.

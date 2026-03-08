@@ -1,13 +1,3 @@
-<thinking>... 
-
-This form is designed to collect donations for the Assistive Technology Fund, which supports people with disabilities by providing access to assistive technology such as wheelchairs, communication devices, and other essential tools. The form is intended for individuals and organizations to contribute to the fund, either as a one-time or recurring donation. 
-
-The form is divided into several sections to collect information about the donor, the donation details, and any additional preferences or comments. 
-
-The purpose of this form is to ensure that the donor's information and donation details are accurately recorded, and that they are properly processed for tax deduction purposes. 
-
-</thinking>
-
 # Assistive Technology Fund Donation Form - Help Guide
 ## Purpose
 The Assistive Technology Fund Donation Form allows individuals and organizations to contribute to the fund, providing support for people with disabilities through assistive technology.

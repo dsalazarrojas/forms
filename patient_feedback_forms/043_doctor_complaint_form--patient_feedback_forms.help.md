@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather feedback from patients about their experiences with medical doctors. The purpose of this form is to help doctors understand their patients' concerns, complaints, and suggestions, which can inform improvements to their care and services. To ensure that this form is used correctly and effectively, we'll need to consider whether there's already a similar form in use or whether the form is still relevant to the current situation. Let's review the form's fields to see if they are clear and well-defined.
-</thinking>
-
 # Doctor Complaint Form - Help Guide
 ## Purpose
 The Doctor Complaint Form is designed to gather feedback from patients about their experiences with medical doctors. This feedback can help doctors understand their patients' concerns, complaints, and suggestions, which can inform improvements to their care and services.

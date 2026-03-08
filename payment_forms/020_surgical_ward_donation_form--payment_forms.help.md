@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect donations from individuals for a specific surgical ward. This form is intended for general use, but it's essential to review the form carefully to ensure that all required information is provided. Please do not fill out the form if you have already donated or if the donor information has changed.
-
-</thinking>
-
 # Surgical Ward Donation Form - Help Guide
 ## Purpose
 The Surgical Ward Donation Form is a tool for individuals to donate to a surgical ward. This form will help you collect donations for a specific purpose and keep a record of the donation details.

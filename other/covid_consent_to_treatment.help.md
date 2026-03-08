@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended to be used for obtaining informed consent for patients to receive treatment related to COVID-19. This form is used to capture the necessary information required from patients before administering treatment, ensuring that they understand the treatment process and the risks associated with it. It is essential to fill out this form accurately and truthfully to ensure that patients receive proper care.
 
 # COVID Consent To Treatment - Help Guide

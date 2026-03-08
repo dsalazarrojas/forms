@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for users to input information for a donation to the "Vision Support" cause. This form will guide users through the process of specifying their donation amount, frequency, type, and other details. The form is likely used by administrators or support staff to process and follow up on individual or recurring donations from users. The form is designed with multiple fields for specifying the donation amount, frequency of donation, type of donation, and other relevant details.
-</thinking>
-
 # Vision Support Donation Form - Help Guide
 ## Purpose
 This form is designed for users to make a donation to the Vision Support cause. It allows you to specify the amount of your donation, how often you want to receive it, and other relevant details.

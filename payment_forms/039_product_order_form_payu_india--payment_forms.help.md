@@ -1,17 +1,3 @@
-<thinking>
-
-This form, "product_order_form_payu_india", appears to be a complex order form for products, possibly for a company in India, as evidenced by the "payu india" label. To determine the form's purpose and relevance, we must analyze the fields provided:
-
-- The form includes a mix of text, select_one, select_multiple, date, email, text fields, and notes fields, indicating it might be used for both product information and order details.
-- There are no fields related to billing or payment options, which suggests it might be more focused on customer order requests rather than payment processing.
-- The lack of fields requiring payment information, such as credit card numbers or expiry dates, further supports the idea that it's focused on order requests.
-
-To confirm, this form might be used internally or externally for a specific business process, like customer support or sales, to gather order details without processing payments. However, without more context, this is speculative.
-
-The form's structure suggests it might be used for gathering multiple products' information, possibly with multiple selection options. 
-
-</thinking>
-
 # product_order_form_payu_india - Help Guide
 ## Purpose
 The "product_order_form_payu_india" is a form designed to collect customer order information for various products. It's intended for internal or external use, possibly for customer support or sales purposes.

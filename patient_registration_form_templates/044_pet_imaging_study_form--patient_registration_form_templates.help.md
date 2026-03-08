@@ -1,7 +1,3 @@
-<thinking>
-To create this help guide, I'll need to analyze the provided YAML fields to understand the form's purpose, layout, and field explanations. The form appears to be a patient registration form, specifically designed for pet imaging studies. The title "Pet Imaging Study Form" suggests that it's used for collecting patient information related to imaging studies, such as X-rays, MRIs, or CT scans. I'll assume the form is used to gather essential details from patients before their imaging studies to ensure accurate and efficient processing of their cases. The form has three pages: "Patient Details", "Imaging Details", and "Contact Details". Each page has a single field of type "text". I'll need to infer the intended use of these fields based on their labels and context.
-</thinking>
-
 # Pet Imaging Study Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to provide users with a clear understanding of the Charity Badminton Marathon Tournament Entry Form. Please note that before proceeding, ensure that you are not already registered for the tournament. If you have previously submitted an entry, please do not resubmit.
-</thinking>
-
 # Charity Badminton Marathon Tournament Entry Form - Help Guide
 
 ## Purpose

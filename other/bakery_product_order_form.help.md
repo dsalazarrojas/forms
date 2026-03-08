@@ -1,5 +1,3 @@
-<thinking>...This form is a generic "Untitled Form" with three fields: "customer info", "order details", and "submit". It is not marked as required, so users can optionally complete all fields if they choose to do so.</thinking>
-
 # Untitled Form - Help Guide
 ## Purpose
 This form is intended to collect information from users, but its purpose is not specified in the schema. Based on the field names, it may be used to collect contact information and order details from a customer.

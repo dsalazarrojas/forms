@@ -1,13 +1,3 @@
-<thinking>
-This form is a payment refund claim form used by donors to request a refund for their donations. The purpose of this form is to collect information from donors about their donations that they wish to be refunded. This form will help us identify the reason for the refund request, the donor's details, and the donation date and amount. 
-
-Please note that this form is only for legitimate refund requests and is subject to our review and approval. If a refund is approved, you will be contacted separately for further instructions. 
-
-Please ensure that you have reviewed our refund policy before submitting this form. This form will be used to determine the eligibility of your refund request. 
-
-If you have already submitted a refund request, please do not submit this form again. Duplicate submissions will not be processed.
-</thinking>
-
 # Donation Refund Claim Form - Help Guide
 ## Purpose
 The donation refund claim form is a form used by donors to request a refund for their donations. This form gathers information about the donor's details and the donation details.

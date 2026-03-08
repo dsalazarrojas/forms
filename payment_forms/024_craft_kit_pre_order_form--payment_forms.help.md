@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect pre-order details and payment information from customers. It is intended to be used for customers who want to place an order for a craft kit before the official release date. The form is not meant to be used for actual payment processing, but rather for gathering information about the pre-orders. This form should not be used if the customer has already placed a payment for the craft kit. 
-</thinking>
 # craft_kit_pre_order_form - Help Guide
 ## Purpose
 The purpose of this form is to collect pre-order details and payment information from customers for the craft kit before the official release date. This information will be used to confirm the pre-order and provide updates to the customer on the status of their order.

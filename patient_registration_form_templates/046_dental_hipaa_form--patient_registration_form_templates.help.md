@@ -1,8 +1,3 @@
-<thinking>
-This form is a patient registration form for HIPAA (Health Insurance Portability and Accountability Act) compliance, which is a federal law that sets standards for the protection of patient health information. This form is designed to collect essential information about a patient, including their name, address, birth date, and contact number. 
-This form is part of a HIPAA-compliant system, which means that any data collected will be handled in accordance with the law's rules and regulations.
-</thinking>
-
 # dental_hipaa_form - Help Guide
 ## Purpose
 The dental_hipaa_form is a patient registration form used for HIPAA compliance in dental care settings. It is essential to fill out this form to register a patient and ensure that their information is collected, stored, and handled according to the law.

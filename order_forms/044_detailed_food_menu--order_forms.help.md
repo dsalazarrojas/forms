@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Detailed Food Menu - Help Guide
 ## Purpose
 This form is used to create and manage detailed information about food items, including categories, prices, descriptions, and other relevant details.

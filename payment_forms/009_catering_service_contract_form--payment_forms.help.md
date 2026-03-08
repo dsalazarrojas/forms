@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from clients and the catering company for the purpose of creating a catering service contract. This guide is meant to walk users through each field and its corresponding field label explanation.
-</thinking>
-
 # Catering Service Contract Form - Help Guide
 ## Purpose
 The Catering Service Contract Form is a necessary document to be completed by clients and catering companies prior to catering services for an event. The form captures essential information regarding event details, services provided, pricing, and payment terms.

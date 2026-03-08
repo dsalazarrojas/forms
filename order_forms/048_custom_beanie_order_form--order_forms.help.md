@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help customers place an order for a custom beanie. The form is intended for individual customers and will be used to collect order details for a single order at a time. This form will be used by sales teams to facilitate the ordering process and ensure that customers receive their beanie on time. It is essential to fill out the form accurately to avoid any delays in the order processing. Please ensure you are filling out this form for the correct purpose and not as a duplicate submission.
-</thinking>
-
 # Custom Beanie Order Form - Help Guide
 ## Purpose
 The Custom Beanie Order Form is a tool used to gather information from customers for their custom beanie orders. It helps sales teams to understand the customer's preferences for their beanie and process the order efficiently.

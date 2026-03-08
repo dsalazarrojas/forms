@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to validate patient consent for medical procedures.
-It's essential to ensure that patients understand and agree to the terms and conditions of their treatment.
-The form is not meant for creating new patients or modifying existing patient records.
-The form can be used by healthcare providers to obtain patient consent for medical procedures.
-</thinking>
-
 # Patient Consent Validation Form - Help Guide
 ## Purpose
 This form is used by healthcare providers to obtain patient consent for medical procedures.

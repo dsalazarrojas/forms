@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to gather information for a Quick Release Connector Order, which is likely used in the context of a business-to-business (B2B) transaction, possibly for ordering electrical or technical components. The form's purpose is to collect customer, delivery, payment, and shipping details for the ordered items. 
-
-The form's purpose is to confirm the order details with various stakeholders such as suppliers, distributors, and the procurement team. The form is likely used in industries where connectors or parts are ordered in bulk. The form's layout and field structure are minimal and straightforward, indicating that the focus is on collecting necessary information for the order process.
-
-The form does not ask for any sensitive or personal data, which is a plus from a user experience perspective.
-
-The form seems to be a simple, one-page form that asks for some basic details such as names, phone numbers, and addresses. The fact that all fields are of type "text" suggests that the form is intended for inputting free-formatted text data.
-
-The form has many pages, each with a single field, which could be an attempt to create a simple "wizard-like" experience for the user, asking one question at a time.
-
-The form does not have any complex dependencies or conditional logic, which means that the form is straightforward and easy to fill out.
-</thinking>
-
 # Quick Release Connector Order Form - Help Guide
 ## Purpose
 This form is used to gather information for a Quick Release Connector Order, which is likely used in the context of a business-to-business (B2B) transaction. The form collects customer, delivery, payment, and shipping details for the ordered items and confirms the order details with various stakeholders such as suppliers, distributors, and the procurement team.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow team management to efficiently manage and process supply orders for the league locker room. This includes ordering equipment and supplies, scheduling deliveries, and keeping track of ordered items. 
-The form is designed to be user-friendly and accessible to all team members, with clear explanations and examples to guide them through the process.
-
-</thinking>
-
 # League Locker Room Supply Order Form - Help Guide
 ## Purpose
 The League Locker Room Supply Order Form is used to order supplies for the league locker room. This form helps team management track and process orders for essential items such as water bottles, trash cans, and cleaning products.

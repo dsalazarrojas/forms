@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for a customized corporate gift basket order. The form will be used by corporate gift buyers to provide details about the gift basket they wish to order, including the gift option, gift item, order date and time, recipient information, payment method, and shipping details. The form is intended for internal use within a company and will help streamline the gift ordering process. This form is likely used by employees or departments responsible for ordering and managing corporate gifts.
-</thinking>
-
 # Customized Corporate Gift Basket Order Form - Help Guide
 ## Purpose
 This form is used to collect information for a customized corporate gift basket order. It will help the gift buyer provide all the necessary details to successfully complete the order.

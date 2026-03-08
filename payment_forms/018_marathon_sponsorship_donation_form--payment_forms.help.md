@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential donors for the marathon sponsorship program. This form will help us understand the level of interest and willingness of donors to support the event. We need to ensure that the form is clear and easy to understand, and that the fields are properly completed by the end-user.
-</thinking>
-
 # Marathon Sponsorship Donation Form - Help Guide
 ## Purpose
 The Marathon Sponsorship Donation Form is a simple form designed to collect information from potential donors for the marathon sponsorship program. This form will help us understand the level of interest and willingness of donors to support the event.

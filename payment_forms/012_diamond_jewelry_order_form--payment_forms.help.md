@@ -1,16 +1,3 @@
-<thinking>
-This form is used to collect information from customers who want to place an order for diamond jewelry. The purpose of this form is to gather essential details about the customer, including their name, email, and phone number, as well as information about the order they would like to place. This form is designed to be completed by customers who have not yet received their order or are following up on the status of an existing order.
-
-Before filling out this form, please ensure you have the following:
-
-* A valid email address (to receive updates and confirmations)
-* A phone number (to contact our customer support team)
-* A clear description of your order (to help us process it efficiently)
-
-This form is not intended for customers who have already received their order or are trying to place a new order without providing the required information.
-
-</thinking>
-
 # diamond_jewelry_order_form - Help Guide
 ## Purpose
 The diamond_jewelry_order_form is used to collect information from customers who want to place an order for diamond jewelry.

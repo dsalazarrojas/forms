@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Data Storage Billing Form", we need to ensure that the form's purpose is understood and that each field's meaning is clear. The form's purpose is likely for users to input their billing information for data storage services. This form might be used in a variety of contexts, such as when a user is requesting more storage space on a cloud-based platform or for services that require periodic billing.
-
-To determine if this form is being duplicated, we would need to know if there are other forms with similar fields or if this form is being used in conjunction with another form. However, based on the provided YAML fields, this form seems to be a single, straightforward data collection form. We should ensure that users understand that this form is meant for billing purposes and that all fields are required to accurately calculate and process the payment. If any of these assumptions are incorrect, we would need to add more context or clarify the form's purpose and requirements.
-
-The form appears to be for collecting billing information, which may include payment method, amount due, credit card details, and other relevant fields. This information is likely used to charge the user for the services they are using.
-
-</thinking>
 # Data Storage Billing Form - Help Guide
 ## Purpose
 The Data Storage Billing Form is a form used to collect billing information from users for data storage services. This form is meant to be completed with accurate and up-to-date information to ensure that charges are calculated correctly.

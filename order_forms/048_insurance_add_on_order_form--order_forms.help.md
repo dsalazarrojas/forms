@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to order insurance add-ons for their policies. The form will be used to gather information about the type of policy, start and end dates, coverage, and additional coverage options. The purpose of this form is not to be a comprehensive policy application or to replace any existing policy documents, but rather to supplement existing policies with specific add-ons. The form should not be used for policies that are already active or past due.
-</thinking>
-
 # Insurance Add On Order Form - Help Guide
 ## Purpose
 This form is designed to help agents and clients order insurance add-ons for their policies in a quick and efficient manner.

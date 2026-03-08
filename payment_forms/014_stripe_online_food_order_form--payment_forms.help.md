@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for online food orders. It will be used to process payments and store relevant customer information. This form has multiple fields to capture details about the order, customer, and payment method. The form will guide the user through the process of submitting an order, including selecting the payment method, providing customer contact and address information, and finalizing the order.
-</thinking>
-
 # Stripe Online Food Order Form - Help Guide
 ## Purpose
 The Stripe Online Food Order Form is used to process online food orders and collect customer information for payment purposes.

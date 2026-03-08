@@ -1,11 +1,3 @@
-<thinking>
-The form is designed to collect information from users who want to subscribe to a beverage service. This form will help the user provide their account details, delivery address, subscription preferences (frequency, day, and time), beverage selection, and payment information. The form is meant to be completed by a potential customer, and the data collected will be used to provide a quote or initiate a subscription process. This form should only be used once the customer has been pre-qualified and has shown interest in purchasing from the company.
-
-The form has two main sections: "Account Details", "Delivery Address", "Subscription Plan", "Beverage Selection", "Custom Options", "Payment Information". Each section is designed to collect specific information from the user. The form has a mix of select-one, select-multiple, text, and number fields, which are all necessary for the business logic of the subscription process.
-
-The form should only be submitted after the user has been pre-qualified and has shown interest in purchasing from the company. The form data will be used to generate a quote or initiate a subscription process. Please make sure to fill out all required fields accurately and thoroughly.
-</thinking>
-
 # Beverage Service Subscription Form - Help Guide
 ## Purpose
 This form is used to collect information from potential customers who want to subscribe to a beverage service. It will help us provide you with a quote or initiate a subscription process.

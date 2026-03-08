@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be intended for clients or customers to provide information about their insurance policy delivery details. The purpose of this form is to collect essential information that will facilitate the efficient delivery of their insurance policies. This guide will walk the user through each field of the form, explaining their purpose and how to complete them correctly.
-</thinking>
-
 # insurance_policy_delivery_form - Help Guide
 ## Purpose
 This form is designed to collect information from clients or customers about their insurance policy delivery preferences. It helps the delivery team understand how their policy should be delivered, making the process smoother and more efficient.

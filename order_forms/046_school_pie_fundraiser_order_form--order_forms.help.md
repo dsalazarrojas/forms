@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information for a school pie fundraiser. The purpose of this form is to capture details about the fundraiser, including the type of pie, quantity, and other relevant information. This form will be used by administrators or staff to track and manage the orders received for the school pie fundraiser.
-
-</thinking>
-
 # School Pie Fundraiser Order Form - Help Guide
 
 ## Purpose

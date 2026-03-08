@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my first step is to analyze the form's purpose and ensure it's not duplicating any existing forms. Upon reviewing the provided YAML, I notice that this form appears to be a comprehensive mental health intake form designed to gather information about a patient's demographic data, mental health history, medical history, and other relevant details. It's not affiliated with any form platform, ensuring its originality and adaptability. I'll make sure to create a clear and concise user-facing help guide that explains each field's purpose, helping users complete the form efficiently and effectively.</thinking>
-
 # Psychology Intake Form - Help Guide
 ## Purpose
 The Psychology Intake Form is a comprehensive questionnaire designed to gather information about a patient's demographic data, mental health history, medical history, and other relevant details. This form will help our clinicians assess your mental health status and provide personalized support and guidance.

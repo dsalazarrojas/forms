@@ -1,13 +1,3 @@
-<thinking>
-
-This form is likely designed to collect information for a photo shoot, specifically for a "Princess Photo Shoot". The form appears to be collecting various details about the photo shoot, including the category, description, photo session details, booking date and time, notes, email, phone number, form ID, user ID, user name, form title, form description, form category, assigned tool, output file, form IDs, user phone number, photo session details 2, photo session booking date and time, user phone number 2, photo session booking 2, and other similar fields.
-
-This form does not have any clear business logic or rules to prevent duplicate forms. It seems to be a simple, free-form input form for collecting various information.
-
-This form might be used by a photographer or an agency to collect information from clients or customers about a photo shoot. It might be used to schedule and prepare for a photo shoot.
-
-</thinking>
-
 # Princess Photo Shoot - Help Guide
 ## Purpose
 This form is designed to collect information for a photo shoot, specifically a "Princess Photo Shoot". It allows users to input various details about the shoot, including category, description, and other relevant information.

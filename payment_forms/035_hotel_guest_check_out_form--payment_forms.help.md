@@ -1,6 +1,3 @@
-<thinking>
-To ensure that the Hotel Guest Check Out Form is completed accurately and efficiently, we need to verify that the form is not being used for a different purpose. This form is designed to collect information from hotel guests upon check-out, typically to facilitate check-out processes, provide feedback or ratings, or collect contact information. Please note that the presence of multiple "Comment" fields may indicate an attempt to use the form for a different purpose; in such cases, kindly reevaluate the form's original intent.</thinking>
-
 # Hotel Guest Check Out Form - Help Guide
 ## Purpose
 The Hotel Guest Check Out Form is designed to collect information from hotel guests upon check-out. This includes personal details, contact information, and payment methods to facilitate smooth interactions and ensure accurate records.

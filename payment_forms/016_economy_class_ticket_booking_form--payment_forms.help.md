@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for booking economy class tickets. The purpose of this form is to gather necessary details from the customer, such as their contact information, ticket price, and payment method, to complete the booking process. This form is likely used in a travel agency or airline setting to streamline ticket booking for customers. Before proceeding, please ensure you have reviewed and understand the requirements below.
-</thinking>
-
 # Economy Class Ticket Booking Form - Help Guide
 ## Purpose
 This form collects information for booking economy class tickets. It gathers customer details, payment information, and other essential requirements for the booking process.

@@ -1,7 +1,3 @@
-<thinking>
-The form is likely used for electronic funds transfers, which involves the movement of money between accounts, typically between banks or financial institutions. The form is probably used by financial institutions or individuals to authorize and document electronic fund transfers. It's likely a standardized form to ensure accuracy and consistency in the transfer process. It's possible that the form is used for both internal and external purposes, such as auditing or regulatory compliance. The form might be part of a larger system or process for managing and tracking electronic funds transfers.
-</thinking>
-
 # Electronic Funds Transfer (EFT) Authorization Form - Help Guide
 ## Purpose
 The Electronic Funds Transfer (EFT) Authorization Form is used to authorize and document electronic fund transfers. This form helps ensure accuracy and consistency in the transfer process, and is likely used by financial institutions or individuals to manage and track electronic funds transfers.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be for collecting payment information related to real estate listings. The purpose of the form is to allow users to provide details about the property listing, payment amount, and other relevant payment information. This form likely serves as a template for processing payments for real estate listings. However, I will assume that the form may be part of a more comprehensive system for managing real estate listings, which includes other fields that are not present in this provided YAML.
-</thinking>
-
 # Real Estate Listing Payment Form - Help Guide
 ## Purpose
 This form is used to collect payment information related to real estate listings, including property listing details, payment amount, and other relevant payment information.

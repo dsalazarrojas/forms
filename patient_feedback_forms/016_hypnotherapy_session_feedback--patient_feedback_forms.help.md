@@ -1,7 +1,3 @@
-<thinking>
-The form is used for patients to provide feedback on their hypnotherapy sessions. It is essential to collect feedback from patients to gauge the effectiveness of the sessions and improve the quality of service provided. Before you start, make sure that you're not already completing this form if you have previously done so, to avoid duplicate entries. Ensure you're using this form for its intended purpose.
-</thinking>
-
 # Hypnotherapy Session Feedback - Help Guide
 ## Purpose
 This form is designed to collect your feedback on the hypnotherapy sessions you've attended. Your input will help us understand how well the sessions met your needs and identify areas for improvement.

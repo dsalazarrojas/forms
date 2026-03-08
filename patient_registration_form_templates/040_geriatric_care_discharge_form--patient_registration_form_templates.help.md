@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Geriatric Care Discharge Form - Help Guide
 ## Purpose
 The Geriatric Care Discharge Form is designed for healthcare providers to document the necessary information for the discharge of a patient from a care facility. This form helps to ensure a smooth and efficient discharge process by collecting relevant details about the patient's personal and medical information, contact details, and other critical discharge information.

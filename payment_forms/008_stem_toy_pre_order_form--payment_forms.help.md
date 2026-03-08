@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who want to pre-order a toy. The purpose of this form is to gather necessary details from customers to fulfill their pre-order requests efficiently and accurately. The form is divided into several sections, each with its own set of questions that the customer needs to fill out. The sections are not mutually exclusive, meaning that customers may be able to answer questions from multiple sections before moving on to the next one. This guide will walk you through each section of the form, explaining what each field is for and how to complete it.
-</thinking>
-
 # Stem Toy Pre Order Form - Help Guide
 ## Purpose
 The Stem Toy Pre Order Form is designed to collect information from customers who want to pre-order a toy. This form will help us understand their order requirements and provide a smooth experience for both the customer and our team.

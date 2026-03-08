@@ -1,8 +1,3 @@
-<thinking>
-This form is used for declaring the value of shipments entering or exiting a country. It is typically required for customs clearance, tax calculations, and other regulatory purposes. The form is meant to capture essential information about the shipment, the contact person responsible, and the details of the shipment, including its value, currency, and shipping method. This form is a standard template and does not necessarily require any special knowledge or technical expertise to fill it out.
-
-</thinking>
-
 # Customs Value Declaration Form - Help Guide
 ## Purpose
 

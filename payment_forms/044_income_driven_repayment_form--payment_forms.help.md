@@ -1,9 +1,3 @@
-<thinking>
-This form is used for borrowers to provide information about their income and family size to determine their repayment plan for income-driven repayment.
-The purpose of this form is to gather information about the borrower's income and family size, which will be used to determine their repayment plan for income-driven repayment. This form is part of the process of applying for income-driven repayment, a type of repayment plan that takes into account the borrower's income and family size.
-To avoid duplication of effort, please note that this form should only be filled out if you are an eligible borrower who has not already submitted a similar form.
-</thinking>
-
 # Income Driven Repayment Form - Help Guide
 ## Purpose
 This form is used to gather information about your income and family size to determine your repayment plan for income-driven repayment.

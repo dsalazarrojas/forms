@@ -1,7 +1,3 @@
-<thinking>
-This is a payment form for legal services, likely used by law firms or legal organizations to manage client payments. The form should collect necessary details about the order, services rendered, payment method, and other relevant information. To ensure accuracy, please review the form fields carefully and only submit accurate data. If you're unsure about any field, contact the relevant authority for clarification.
-</thinking>
-
 # Legal Services Payment Form - Help Guide
 ## Purpose
 The Legal Services Payment Form is used to collect payment information and details about the services rendered to a client. This form is essential for maintaining accurate financial records and tracking client payments.

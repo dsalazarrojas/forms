@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help customers place an order for a retail tablet display stand. It collects basic customer information, shipping address, and order notes to facilitate the fulfillment of the order. The form also allows customers to choose from several options for the display stand size. Please ensure that the form is filled out correctly to ensure accurate order processing. 
-Please do not fill out this form if you have already placed an order for the same product.
-</thinking>
-
 # Retail Tablet Display Stand Order Form - Help Guide
 ## Purpose
 The purpose of this form is to collect order details for a retail tablet display stand. It is designed to be completed by customers who wish to purchase a display stand for their tablets.

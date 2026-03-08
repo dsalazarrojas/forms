@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate the process of making payments towards loan repayments. The form is designed to collect necessary information from the user to process the payment correctly. Before proceeding, please ensure that you are filling out this form for a legitimate loan repayment purpose, and not duplicating any existing payments. Please review the form carefully and ensure that all required fields are filled out correctly.
-</thinking>
-
 # Loan Repayment Payment Form - Help Guide
 ## Purpose
 The Loan Repayment Payment Form is used to make payments towards loan repayments.

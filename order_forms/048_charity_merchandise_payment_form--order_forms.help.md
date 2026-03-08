@@ -1,17 +1,3 @@
-<thinking>
-
-Before creating this form, let's ensure we're clear about its purpose. This form is for customers to order merchandise from a charity, and it's essential to be straightforward and easy to use. 
-
-To confirm, the form is for customers to provide contact information, select a merchandise item, specify order details, and make a payment. This should be a one-page form, and we want to make sure all the required fields are clearly marked. 
-
-Let's review the form fields: First Name, Last Name, Email Address, Phone Number, Mailing Address, City, State, and ZIP Code are all essential for contact information. 
-
-The form also includes the merchandise item selection, size, color, quantity, unit price, subtotal, shipping method, shipping cost, a donation add-on, and total amount, as well as payment method and gift message. Each field is required except for the donation add-on. 
-
-We'll ensure the form is user-friendly and easy to understand. If there are any unclear labels or confusing fields, we'll clarify their intent.
-
-</thinking>
-
 # Charity Merchandise Payment Form - Help Guide
 ## Purpose
 The Charity Merchandise Payment Form is designed for customers to order merchandise from a charity. This form gathers contact information, merchandise details, and payment details in a clear and concise manner.

@@ -1,7 +1,3 @@
-<thinking>
-The Slime Ingredient Order Form is used by customers to submit their slime orders, including the items they want to buy, any accessories they'd like to add, and payment and shipping information. Before filling out this form, make sure you've reviewed the product catalog to ensure the correct items are available. To avoid delays, please submit your order in a single form. If you have a large or complex order, you may need to contact our customer support team for assistance.
-</thinking>
-
 # Slime Ingredient Order Form - Help Guide
 ## Purpose
 This form is used to place a order for slime ingredients, including the selection of items, optional accessories, payment details, and shipping information.

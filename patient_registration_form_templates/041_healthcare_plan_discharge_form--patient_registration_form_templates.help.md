@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Healthcare Plan Discharge Form - Help Guide
 ## Purpose
 This form is designed to collect relevant information from patients during discharge from a healthcare facility. It aims to gather a comprehensive understanding of the patient's medical history, medications, and vital signs to ensure a smooth transition to post-discharge care. The form is intended to be used by healthcare professionals to provide personalized care instructions and guidance to patients after they leave the hospital.

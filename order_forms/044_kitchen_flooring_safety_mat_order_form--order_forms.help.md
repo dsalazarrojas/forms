@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect contact information for potential customers interested in ordering kitchen flooring safety mats. It is a simple, non-technical form for gathering basic details about the customer and their desired product. The form should not be used for any other purpose.
-</thinking>
-
 # kitchen-flooring-safety-mat-order-form - Help Guide
 ## Purpose
 The kitchen-flooring-safety-mat-order-form is a form used to collect contact information and product details from customers who are interested in ordering kitchen flooring safety mats.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect data for orders of sustainable steel raw materials. The form is likely used by sales teams or customer service representatives to gather relevant information from customers before fulfilling an order. To prevent duplication, this form should only be used for new orders and not for repeat or existing orders.
-</thinking>
-
 # Sustainable Steel Raw Material Order Form - Help Guide
 ## Purpose
 The Sustainable Steel Raw Material Order Form is used to collect information for orders of sustainable steel raw materials. This form is intended to be used by sales teams or customer service representatives to gather relevant details from customers before fulfilling an order.

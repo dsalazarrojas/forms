@@ -1,9 +1,3 @@
-<thinking>
-The purpose of the Event Order Tracking Form is to collect relevant information related to events, including event details, attendee information, payment status, specific requests, and other relevant data.
-The form aims to streamline the tracking and management of event orders, providing a structured platform for users to submit their event-related requests or details. This form will likely be used by event organizers or coordinators to collect and review information before processing event orders.
-Before filling out this form, please ensure that you have all the necessary information required for the event order. This form is designed to be filled out once per event order.
-</thinking>
-
 # Event Order Tracking Form - Help Guide
 
 ## Purpose

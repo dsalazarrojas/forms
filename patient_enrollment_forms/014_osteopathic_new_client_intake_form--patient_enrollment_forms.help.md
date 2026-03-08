@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather essential information from new clients to create their profile, allowing them to access healthcare services. This form collects personal details, insurance information, medical history, and contact details for emergency situations. 
-The purpose of this form is to streamline the enrollment process and ensure that the client has the necessary information required for effective care.
-
-</thinking>
-
 # Osteopathic New Client Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from new clients to create their profile and ensure they can access healthcare services.

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from inquirers for catering services. This form is designed to be used by customers who are interested in getting more information about our catering services or to inquire about a potential event. The form is meant to be used for internal business purposes, and the information collected will be used to provide personalized service and follow-up communication. To ensure that the form is used correctly, we will be checking for duplicate inquiries and relevant information, and will only be using this form for legitimate business purposes.</thinking>
-
 # Catering Services Inquiry Form - Help Guide
 ## Purpose
 The Catering Services Inquiry Form is designed to collect information from customers who are interested in our catering services. This form is meant to be used for internal business purposes and to provide personalized service and follow-up communication.

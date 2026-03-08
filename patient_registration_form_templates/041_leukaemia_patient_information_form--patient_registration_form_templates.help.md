@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The Leukaemia Patient Information Form is designed to collect information about patients with leukaemia, a type of cancer that affects the blood and bone marrow. This form is used to gather essential details about the patient's personal and medical history, contact information, and ongoing care requirements. By completing this form, patients can provide healthcare professionals with the necessary information to provide effective care and support. This form is not intended for patients who have never had leukaemia or do not have any relevant medical history.
 
 </thinking>

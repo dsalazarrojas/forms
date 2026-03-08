@@ -1,5 +1,3 @@
-<thinking> 
-This form is for registering attendees for a gaming convention. The form is designed to collect information about the convention, payment details, and attendee specifics. The form has multiple fields that require specific types of information, including text, select options, and email. To ensure accuracy and efficiency, please review the form carefully before submitting. This form should not be filled out for any other purpose. If there is a need for a different form, please contact the form administrator. </thinking>
 # gaming_convention_payment_form - Help Guide
 ## Purpose
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is used to capture payment and order information from customers who wish to make a purchase from the company. The form includes fields for first name, last name, address, city, state, zip, items ordered, order date, payment method, phone number, email, confirmation of payment, and order total. It's likely that this form is used for an e-commerce website or a similar platform where customers can place orders. Before filling out this form, ensure you have the necessary permissions or clearance to complete the payment.
-
-</thinking>
-
 # Paypal Furniture Order Form - Help Guide
 ## Purpose
 This form is used to collect payment and order information from customers.

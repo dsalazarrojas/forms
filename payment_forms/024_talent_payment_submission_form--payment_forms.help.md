@@ -1,8 +1,3 @@
-<thinking>
-To confirm, this form is intended to collect information about talent payments, including payment methods, amounts, currencies, dates, and other relevant details. This form should only be used for legitimate talent payments, not for other purposes. It's essential to ensure that each talent payment is correctly recorded in the system to maintain accurate financial records. This form will not be duplicated, and any existing payments should be reviewed before proceeding to avoid conflicts.
-
-</thinking>
-
 # talent_payment_submission_form - Help Guide
 
 ## Purpose

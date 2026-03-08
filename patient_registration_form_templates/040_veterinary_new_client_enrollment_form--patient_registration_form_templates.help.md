@@ -1,9 +1,3 @@
-<thinking>
-This form is used to enroll new pets and their owners into a veterinary clinic or hospital. It collects relevant information about the pet, its owner, and their payment details. The form is intended for use by clients visiting the clinic for the first time. The required fields are marked as "required" in the form.
-
-The form is designed to be completed by the client, and the data collected will be used to create a record for the pet and its owner in the clinic's system.
-</thinking>
-
 # veterinary_new_client_enrollment_form - Help Guide
 ## Purpose
 This form is used to enroll new pets and their owners into the veterinary clinic, ensuring accurate and up-to-date information is collected.

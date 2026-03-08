@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information about youth perspectives on climate policy and environmental protection. The form is meant to gather insights on what young people think about climate change, their awareness and ideas on policy, and how they think they can participate in climate action. The form should be completed by young people who are interested in contributing to climate policy discussions.
-
-Before starting the form, please review the questions and make sure you have not already completed this form. Your feedback is valuable, and we want to ensure that your responses are captured accurately.
-
-This form will be used to gather anonymous and aggregated data to understand young people's views on climate policy. All responses are anonymous, and no personal identifiable information will be stored.
-
-Please answer the questions honestly, and take your time to provide detailed responses. Your input is crucial to shaping climate policy that represents your views and concerns.
-</thinking>
-
 # Youth Climate Policy Understanding Survey - Help Guide
 ## Purpose
 This survey aims to gather information on what young people think and feel about climate policy and environmental protection. It will help identify the needs, concerns, and ideas of young people in relation to climate change.

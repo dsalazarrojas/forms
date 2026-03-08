@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from customers or end-users about their home security system bundle orders. The form is likely used by sales or customer service teams to gather necessary details for processing and completing the order. The form does not seem to have any duplicate fields and its purpose is to gather a variety of information related to home security systems.
-</thinking>
-
 # Home Security System Bundle Order Form - Help Guide
 ## Purpose
 The Home Security System Bundle Order Form is used to collect information from customers or end-users about their home security system bundle orders.

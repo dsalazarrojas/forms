@@ -1,7 +1,3 @@
-<thinking>... internal reasoning block to check for form purpose and non-duplication ...
-
-This form is designed to collect payment information for photo album printing orders. The purpose of the form is to gather data from customers to process and complete their photo album printing orders. The form appears to be a comprehensive form with various fields to collect different types of information, including form data, photo count, album type, payment method, and refund details. There does not seem to be any duplication of fields, and each field appears to serve a specific purpose. The form is likely used to process payment information for photo album printing orders, which can be used to generate invoices, track payment status, and provide refund information to customers... </thinking>
-
 # Photo Album Printing Order Form - Help Guide
 ## Purpose
 This form is used to collect payment information for photo album printing orders. It gathers data from customers to process and complete their orders.

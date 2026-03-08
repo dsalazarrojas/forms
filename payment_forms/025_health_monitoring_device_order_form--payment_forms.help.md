@@ -1,5 +1,3 @@
-<thinking>...this form is designed to facilitate the ordering process for health monitoring devices. It gathers relevant information from patients and healthcare providers. Please note that this form is for informational purposes only and may not be a comprehensive or legally binding document. Before proceeding, please ensure you have the necessary permissions and approvals in place...</thinking>
-
 # health_monitoring_device_order_form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>Internal reasoning: The form is designed to capture information about a Square product order. The form includes various fields related to payment terms and products. It seems that the form is intended to be used for a specific business or commercial purpose, possibly for ordering or purchasing Square products. Each field appears to correspond to a different aspect of the order or payment terms. To ensure accurate completion, the field labels and descriptions should be clear and concise, and the form should be reviewed regularly to prevent duplication or redundancy in fields.</thinking>
-
 # Square Product Order Form - Help Guide
 ## Purpose
 The Square Product Order Form is designed to capture information about Square products and their associated payment terms. This form is intended for use in a commercial or business setting, such as when ordering or purchasing Square products.

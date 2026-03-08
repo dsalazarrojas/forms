@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for ordering academic journals from a university. It is intended for use by university staff to collect information about journal orders. The fields in this form are meant to capture relevant details about the order, such as delivery preferences, journal name, order details, and billing information. Before proceeding, please ensure that you are using this form for its intended purpose and that you have the necessary permissions to complete it.
-</thinking>
-
 # University Academic Journal Order Form - Help Guide
 ## Purpose
 The University Academic Journal Order Form is a tool used by university staff to collect information about journal orders. This form helps streamline the ordering process and ensures that all necessary details are captured.

@@ -1,5 +1,3 @@
-<thinking>...checking the YAML fields... it appears that this form is for online ordering of food and allows users to select their meal type, dietary restrictions, quantity, temperature, payment method, delivery details, and whether they want to order online or not. This form is likely used by customers or users to place orders with a food establishment or online food service. There seems to be no duplicate fields or non-relevant information... let's proceed with the help guide...</thinking>
-
 # Food Online Order Form - Help Guide
 ## Purpose
 The Food Online Order Form is a tool used to place orders with a food establishment or online food service. Fill out this form to inform us of your food preferences and requirements.

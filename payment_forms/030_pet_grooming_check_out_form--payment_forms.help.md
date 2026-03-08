@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from pet owners for pet grooming services. The form is designed to be completed by the pet owner, providing essential details for the pet grooming process. The purpose of this form is to gather payment information, select the services required for the pet, and confirm the payment details. This form should not be used for any other purpose than pet grooming services. To ensure data quality, please ensure that the information is accurately filled in and that the services and payment method selected are correct.
-</thinking>
-
 # pet_grooming_check_out_form - Help Guide
 ## Purpose
 The pet_grooming_check_out_form is a form designed to collect information from pet owners for pet grooming services. It is used to gather essential details for the pet grooming process, including the services required, payment information, and confirmation of payment details.

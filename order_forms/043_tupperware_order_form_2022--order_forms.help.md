@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tupperware Order Form 2022 - Help Guide
 ## Purpose
 The "Tupperware Order Form 2022" is used to collect customer information and order details for Tupperware products. This form is essential for ensuring accurate and efficient processing of orders, and it's only meant to be filled out once for each order.

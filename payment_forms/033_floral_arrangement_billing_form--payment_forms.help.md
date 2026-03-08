@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to be used for billing purposes of floral arrangements, likely for an e-commerce or retail business that offers customized floral arrangements. The form should only be completed when a floral arrangement is sold or a payment is made. This form is likely not intended for internal use, such as for employees within the company.
-
-To complete this form, the user will need to navigate through the different pages, which are likely organized by category, such as "Order Details", "Customer Info", "Costs", etc. Each page should be filled out accordingly, making sure that all required fields are completed. The form may not have any conditional logic that would prevent users from proceeding, as indicated by the "required" property being set to "false" for all fields.
-
-The form's purpose is to accurately calculate and display the subtotal, total, and other relevant costs associated with a given floral arrangement. This form likely relies on the "service_cost", "labor_cost", and "materials_cost" fields to calculate the "subtotal" which is then added to "taxes" to calculate the "total".
-
-</thinking>
-
 # floral_arrangement_billing_form - Help Guide
 ## Purpose
 The purpose of this form is to accurately calculate and display the costs associated with a given floral arrangement, including subtotal, total, and taxes.

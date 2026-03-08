@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from donors making a payment on behalf of a school. It includes fields for donor information, payment details, and additional context. The form is intended for both online and offline donations, allowing donors to specify their preferred payment method. It's crucial to ensure that donors understand the form's purpose and requirements to provide accurate and relevant information.
-
-To verify the form's relevance and non-duplication, we should consider the following:
-
-- This form is not designed for general donations; it's specific to school donations.
-- The form requires both donor and payment information, suggesting it's for school-related donations.
-- The form has multiple fields for payment methods, donation frequencies, and payment statuses, indicating it's for tracking and processing different types of payments.
-- The form has fields for student information, implying it's for student-related donations.
-- The form is likely used by schools to collect and process donations from various sources.
-
-Given the form's structure and fields, it's essential to ensure that donors understand its purpose and requirements to provide accurate and relevant information. This guide will walk users through the form's fields and help them complete it accurately.</thinking>
-
 # School Donation Form - Help Guide
 ## Purpose
 The School Donation Form is designed to collect information from donors making a payment on behalf of a school. This form is used to track and process donations for schools, ensuring accurate and efficient record-keeping.

@@ -1,7 +1,3 @@
-<thinking>
-This form is likely intended for food truck operators or their staff to collect information from customers about their orders. The form appears to be designed to gather essential details about the customer and their order, which can help the food truck staff manage orders efficiently.
-</thinking>
-
 # Food Truck Order Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers about their orders from a food truck. It helps the food truck staff to accurately process and fulfill customer requests.

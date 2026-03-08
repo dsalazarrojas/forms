@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect feedback from patients about their experiences with a general practice. The form is designed to gather information about the patient's overall experience, the communication skills of the practitioners, the knowledge of the practitioners about the patient's health, the overall care received, and any suggestions for improvement. This form is intended to be completed by patients after their visit to the practice. Before completing this form, please ensure that you have not already submitted a similar form, as duplicate feedback may not be collected. Please provide your honest and constructive feedback to help us improve our services...</thinking>
-
 # General Practice Reporting Survey - Help Guide
 ## Purpose
 The General Practice Reporting Survey is a form designed to gather feedback from patients about their experiences with a general practice. This feedback is used to improve the quality of service and make necessary adjustments to better meet the needs of our patients.

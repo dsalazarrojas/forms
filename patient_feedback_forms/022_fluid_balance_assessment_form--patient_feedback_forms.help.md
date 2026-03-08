@@ -1,12 +1,3 @@
-<thinking>
-The form is intended for assessing a patient's fluid balance, which is an essential aspect of their medical status. This form will help healthcare professionals gauge the balance between a patient's fluid intake and output, and any discrepancies that may indicate an issue. This form will help identify potential problems early, ensuring timely interventions and better patient outcomes. It's crucial to complete this form accurately, as it will provide valuable insights into the patient's fluid balance status.
-
-Please note that this form is not intended for duplicate submissions. Each submission should be a new assessment of the patient's fluid balance. If a patient's status has not changed, there's no need to submit another form.
-
-Before filling out this form, ensure you have the latest information on the patient's intake and output, as well as any relevant medical history or previous assessments.
-
-</thinking>
-
 # Fluid Balance Assessment Form - Help Guide
 ## Purpose
 The Fluid Balance Assessment Form is used to assess a patient's current fluid balance status. This form helps healthcare professionals monitor and manage fluid balance issues, ensuring timely interventions and better patient outcomes.

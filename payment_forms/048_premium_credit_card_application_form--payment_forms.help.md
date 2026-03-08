@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure this form is the correct tool for your needs. The "Premium Credit Card Application Form" is designed to collect information from applicants to assess their creditworthiness for a premium credit card. This form is typically used by banks and financial institutions to verify an applicant's employment status, income, credit score, and other relevant details. Ensure you're completing this form for the intended purpose and not for other financial or credit-related inquiries.</thinking>
-
 # Premium Credit Card Application Form - Help Guide
 ## Purpose
 The Premium Credit Card Application Form is a collection of questions to assess your creditworthiness for a premium credit card. This form helps banks and financial institutions evaluate your employment status, income, credit score, and other relevant details.

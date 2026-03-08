@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Payment Infrastructure Agreement" form, I will follow the instructions provided. Here is the guide in Markdown format:
 
 # Payment Infrastructure Agreement - Help Guide

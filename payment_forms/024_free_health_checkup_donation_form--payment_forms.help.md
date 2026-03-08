@@ -1,12 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-
-This form is part of a larger system for managing donations and payment processes. Its primary purpose is to gather essential details from donors, including their preferred payment method, the amount they wish to donate, and their contact information for follow-up. This form is designed to ensure a smooth and efficient process for both the donor and the organization receiving the donations.
-
-Before proceeding, please ensure that the form is relevant to your specific situation. If you have already provided donation details or made a payment in the past, please do not resubmit the form to avoid duplication of records.
-
-</thinking>
-
 # Free Health Checkup Donation Form - Help Guide
 ## Purpose
 This form allows you to provide donation details for free health checkup services. It is essential to fill out the form accurately to ensure that your donation is processed correctly and efficiently.

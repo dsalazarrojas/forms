@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inpatient Care Discharge Form - Help Guide
 ## Purpose
 The Inpatient Care Discharge Form is used to document the discharge process and ensure a smooth transition of care for patients. It collects information about the patient's medical condition, treatment, and follow-up needs.

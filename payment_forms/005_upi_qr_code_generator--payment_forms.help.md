@@ -1,10 +1,3 @@
-<thinking>
-This form is used to generate QR codes for UPI (Unified Payments Interface) payments. The UPI QR Code Generator form is meant to be used by end-users to generate QR codes for payments, which can then be used for making payments to merchants. The form is designed to collect necessary information from the user to generate a valid QR code. To avoid any confusion or errors, users should ensure that they complete each field accurately and according to the provided instructions.
-
-To avoid any duplication of QR code generation, users should not use the form for the same purpose more than once with the same information.
-
-</thinking>
-
 # UPI QR Code Generator - Help Guide
 
 ## Purpose

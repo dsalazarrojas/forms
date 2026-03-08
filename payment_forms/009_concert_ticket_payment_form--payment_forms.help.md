@@ -1,7 +1,3 @@
-<thinking>
-This form is a payment form for customers to complete when they want to purchase concert tickets. The form is intended for ticket payments, and it ensures that the customer provides accurate information for the payment method, order details, and other relevant information. To avoid any duplication or errors, please ensure that you have the required information ready and that you are using the correct payment method. The form will guide you through the process of providing necessary details for a smooth and secure payment transaction.
-</thinking>
-
 # Concert Ticket Payment Form - Help Guide
 ## Purpose
 This form is designed to collect payment details from customers for concert tickets. It ensures that you provide accurate information for a successful and secure payment transaction.

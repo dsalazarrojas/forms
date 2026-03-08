@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to place orders for Safety Lighting Control Units. The form gathers customer and delivery information, including details about the unit's quantity, type, and any additional features or equipment required. The form also captures notes and signatures from both the customer and supplier to confirm the order. The order status and date are also tracked throughout the process. This form likely belongs to a specific department or team within an organization, such as a warehouse or procurement team. To ensure accuracy, please review this form carefully before completing it. If you're unsure about any field, please ask your supervisor or team lead for clarification.
-</thinking>
-
 # Safety Lighting Control Unit Order Form - Help Guide
 ## Purpose
 This form is used to collect order information for Safety Lighting Control Units from customers. It ensures that all necessary details are captured accurately and efficiently.

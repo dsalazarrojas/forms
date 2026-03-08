@@ -1,7 +1,3 @@
-<thinking>
-The goal of this form is to gather relevant information from clients to process a produce box payment request. The main objective of this form is to collect details such as the box type, delivery method, payment method, order date, and contact information for successful order processing. This form should only be used for produce box payment requests, and all the fields should be filled out completely to ensure the correct order is processed. It should not be used for other purposes or requests.
-</thinking>
-
 # produce_box_payment_form - Help Guide
 
 ## Purpose

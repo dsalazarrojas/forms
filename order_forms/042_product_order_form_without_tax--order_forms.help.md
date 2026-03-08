@@ -1,9 +1,3 @@
-<thinking>
-This form is a Product Order Form Without Tax, used for customers or end-users to place orders for products without tax.
-The form is designed to be simple and user-friendly, allowing users to quickly and easily place their product orders.
-The form is not intended for sales purposes, rather for demonstration or testing purposes, and therefore, tax is not applied.
-</thinking>
-
 # Product Order Form Without Tax - Help Guide
 ## Purpose
 This form is for customers or end-users to place product orders without tax. It's designed for demonstration or testing purposes.

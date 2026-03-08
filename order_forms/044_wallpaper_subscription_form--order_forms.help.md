@@ -1,9 +1,3 @@
-<thinking>
-
-This guide is for users who want to subscribe to our wallpaper services. This form allows them to select their subscription plan, enter their customer details, and provide billing information. Please note that this form requires careful completion to ensure accurate and efficient processing of subscriptions. To avoid errors, please fill out the form completely and accurately.
-
-</thinking>
-
 # Wallpaper Subscription Form - Help Guide
 ## Purpose
 The Wallpaper Subscription Form is designed to collect information from customers who want to subscribe to our wallpaper services. This form is used to gather details required for the subscription process, including subscription plans, customer contact information, and billing details.

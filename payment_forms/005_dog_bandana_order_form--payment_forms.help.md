@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for customers to place an order for a custom dog bandana, a stylish piece of dog fashion that can be customized with a customer's name, design, and even their own custom message. The form asks for customer information (name and email), contact information (phone number), bandana type and design type, and payment details (payment method and amount). This form is designed to be completed by customers who are interested in ordering a custom dog bandana, ensuring that the correct information is collected for a smooth and accurate order fulfillment process.
 
 # Dog Bandana Order Form - Help Guide

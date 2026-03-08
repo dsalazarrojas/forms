@@ -1,7 +1,3 @@
-<thinking> 
-This form is a pre-order form for customers to select and customize their bike of choice. The form is used to gather information such as bike selection, customization requests, preferred delivery date, payment method, and delivery location. This information will be used to process the order and ensure timely and accurate delivery. Please ensure that you have read and understand the form's purpose before proceeding. This form should not be used for any other purpose than pre-ordering bikes. If you are not pre-ordering a bike, please do not fill out this form. 
-</thinking>
-
 # Racing Bikes Pre Order Form - Help Guide
 ## Purpose
 The Racing Bikes Pre Order Form is used to gather information for pre-ordering bikes. This form is used to select and customize bike preferences, payment method, and delivery details.

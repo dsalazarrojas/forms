@@ -1,10 +1,3 @@
-<thinking>
-# health_insurance_order_form - Help Guide
-## Purpose
-This form is used to collect information for health insurance orders, including client details, policy status, payment terms, and other related information. 
-The form is intended to capture all necessary details required for processing health insurance policies, ensuring accurate and efficient handling of client data.
-</thinking>
-
 ## How To Complete This Form
 To complete this form, please follow the steps below:
 1. Enter your Client Name.

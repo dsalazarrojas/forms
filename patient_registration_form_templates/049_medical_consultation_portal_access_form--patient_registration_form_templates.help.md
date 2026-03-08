@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate patient access to the medical consultation portal. It is not required for every patient to complete this form, but it is recommended for optimal portal access. The form can be completed by a patient representative or by the patient themselves. Please only provide the information requested in this form.
-</thinking>
-
 # Medical Consultation Portal Access Form - Help Guide
 ## Purpose
 The Medical Consultation Portal Access Form is used to facilitate patient access to the medical consultation portal. It is a one-time form that requires information about the patient to verify their identity and ensure accurate medical consultations. The portal is not mandatory, but it provides patients with easier access to consult with medical experts.

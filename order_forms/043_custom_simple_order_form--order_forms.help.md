@@ -1,24 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the "Custom Simple Order Form", we must first understand its purpose. This form appears to be designed for customers to place orders, specifying products, quantities, and delivery instructions for each item. The form structure suggests it is intended to handle multiple product entries.
-
-The form's fields suggest it is meant to handle multiple products, each with its own product ID, name, quantity, and delivery instructions. The presence of "quantity" fields and "delivery_instructions" fields for each product indicates a need for precise quantity specification and special delivery instructions.
-
-Given the structure and field names, it seems the form is focused on order management, likely for an e-commerce or order fulfillment platform.
-
-To confirm relevance, one can consider the typical requirements for such forms:
-
-- **Product ID**: A unique identifier for each product being ordered.
-- **Product Name**: The name of the product being ordered.
-- **Quantity**: How many units of the product are being ordered.
-- **Delivery Instructions**: Special instructions for the delivery of the product.
-- **Submission**: A final action to complete the order.
-
-Considering the fields provided and the form's structure, it seems this form aligns with these typical requirements, suggesting it's indeed for order management.
-
-To confirm non-duplication, there's no field duplication that would suggest unnecessary redundancy in the form's design. Each field type and its corresponding label suggests a logical progression for order placement, without duplication of any specific field type.
-
-</thinking>
-
 # Custom Simple Order Form - Help Guide
 
 ## Purpose

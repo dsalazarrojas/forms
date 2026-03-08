@@ -1,8 +1,3 @@
-<thinking>
-This guide will walk end-users through the steps needed to complete the Membership Registration Form, a critical component for onboarding new members into the community. To ensure accurate and complete information is collected, it's crucial to understand the purpose and expectations of this form.
-The Membership Registration Form is the initial step in the membership onboarding process. It's used to gather essential information about the individual seeking membership, including their name, address, contact details, and specific aspects related to their involvement in the community.
-</thinking>
-
 # Membership Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from new members seeking to join the community. It's a required step for onboarding new members and is critical for accurate and efficient processing of their membership application.

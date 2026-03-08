@@ -1,25 +1,3 @@
-<thinking>
-This form is designed to gather information from customers regarding their purchase of Sims files. The form is intended to collect essential details such as customer contact information, purchase preferences, and payment methods. The "form_owner" and "form_submitter" fields appear to be redundant or unused, as they do not influence the form's functionality or purpose. The form's primary purpose is to record and confirm purchase orders, and the "form_updated" field also appears to be unused.
-
-Form fields that are marked as required must be completed for the form to be submitted successfully.
-
-The following fields are required for the form to be submitted:
-* Email
-* Quantity
-* Delivery
-* Payment Method
-* Purchase Confirm
-* Purchase Date
-* Purchase Reason
-* Purchase Status
-* Form Submitter
-* Purchase Reason
-* Delivery Status
-
-Please note that some fields are not used in the form's functionality and may be removed or modified in the future.
-
-</thinking>
-
 # Sims Files Purchase Form - Help Guide
 ## Purpose
 The Sims Files Purchase Form is a form designed to gather information from customers about their purchase of Sims files. This form is used to record and confirm purchase orders, ensuring that all relevant details are captured accurately and efficiently.

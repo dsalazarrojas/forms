@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for patients to refer themselves to healthcare providers or health initiatives. The purpose of this form is to gather essential information about the patient's identity and contact details, as well as the name of the health initiative or program they are referring themselves to. The form should only be completed by the patient themselves, and not by healthcare providers or anyone else on their behalf. This form is not a replacement for the usual clinical documentation that healthcare providers would typically complete.
 
 # health_initiative_referral_form - Help Guide

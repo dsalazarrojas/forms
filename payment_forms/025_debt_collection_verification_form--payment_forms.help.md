@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for this debt collection verification form, I'll first consider the context and requirements of the form. This form is for verifying debt collection information, likely for credit reporting or collections agencies. It's designed to gather essential details from the user to confirm or dispute an outstanding debt. Given the provided YAML fields, I'll aim to create a clear and concise guide to help users fill out the form accurately and efficiently.</thinking>
-
 # Debt Collection Verification Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about an outstanding debt, which is used to verify or dispute its existence. This form helps ensure accurate and complete records for credit reporting and collections agencies.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to gather information for a frozen meal order. It is a crucial part of the ordering process for our customers. The form ensures that the customer provides all the necessary details for their order, including order information, contact details, and special instructions. Please ensure that this form is filled out correctly to avoid duplication of information and ensure a smooth ordering process.
-</thinking>
-
 # Frozen Meal Order Form - Help Guide
 ## Purpose
 This form is used to gather information for a frozen meal order, including order information, customer details, and special instructions.

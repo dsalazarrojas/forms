@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for a one-time payment through Braintree. To avoid duplication, users should not use this form if they have already made a payment using another Braintree template. This form is intended for customers who wish to make a one-time payment. It captures necessary details such as customer contact information, payment method, and authorization details. This form will only be used once the customer has agreed to the payment terms and conditions. Users can save their payment information for future purchases, but this is not required. This form will only be used to create a one-time payment record in the system.
-</thinking>
-
 # Braintree One Time Payment Template - Help Guide
 ## Purpose
 This form is designed to collect necessary information for a one-time payment through Braintree.

@@ -1,5 +1,3 @@
-<thinking>Form design is a crucial part of user experience, and it's essential to create a well-structured form that guides users through the order process. In the case of the "Cold Brew Coffee Pre Order Form", the purpose is to collect information from customers to fulfill their cold brew coffee orders. The form should be clear, concise, and easy to navigate. To ensure that the form is used correctly, it's essential to provide a clear guide that explains each field's purpose and requirement.</thinking>
-
 # Cold Brew Coffee Pre Order Form - Help Guide
 ## Purpose
 The Cold Brew Coffee Pre Order Form is designed to collect information for your cold brew coffee order. This form ensures that we have all the necessary details to fulfill your order accurately and efficiently.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information for degree evaluation and payment purposes. The form is part of a larger evaluation process that assesses the quality of a degree earned from a university. The form is not intended for students to request additional credits or courses, nor is it meant for general inquiries. The form is specific to the payment of a fee for the evaluation process.
-</thinking>
-
 # Degree Evaluation Fee Payment Form - Help Guide
 ## Purpose
 This form is used to provide information for degree evaluation and payment purposes. It is used to process payments for the evaluation of a degree from a university.

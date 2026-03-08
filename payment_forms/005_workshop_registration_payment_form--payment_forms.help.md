@@ -1,17 +1,3 @@
-<thinking>
-This form is a generic, text-based registration payment form designed to collect information from workshop attendees. The form is intended for use in various contexts, such as conferences, workshops, or events where attendees need to provide their registration details and payment information. 
-
-The form has five fields: 
-1. Registration Form (id 1): This field is likely intended to collect basic attendee information, such as name, email, or contact details.
-2. Attendee Info (id 2): This field might be used to collect additional attendee information, such as address, phone number, or other relevant details.
-3. Workshop Info (id 3): This field is probably used to collect information about the workshop itself, such as workshop name, date, or location.
-4. Payment Method (id 4): This field is intended to collect payment details, but it's unclear what specific payment method is being requested (e.g., credit card, PayPal, etc.).
-5. Payment Details (id 5): This field might be used to collect additional payment details, such as payment amount, transaction ID, or other relevant payment-related information.
-
-The form is not strictly designed for a specific use case, so it may be used in various contexts. However, it appears to be intended for collecting workshop registration and payment information.
-
-Given the form's generic nature, some field labels are unclear or weak. I'll do my best to provide practical explanations based on the provided YAML fields.</thinking>
-
 # Workshop Registration Payment Form - Help Guide
 ## Purpose
 

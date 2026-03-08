@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be related to the payment terminal exchange process. It's designed to collect information about the exchange process, likely for administrative or auditing purposes. The form is likely used to record details of payment terminal activities, such as payment types, dates, and times of transfers. It might be used by staff or administrators to track and manage payment terminal operations. This form is intended to be a standard form, without any complex conditional logic or branching based on user input, so users should be able to complete it in a straightforward manner.
-</thinking>
-
 # e_payment_terminal_exchange_form - Help Guide
 ## Purpose
 The e_payment_terminal_exchange_form is used to record details about payment terminal exchange process for administrative purposes.

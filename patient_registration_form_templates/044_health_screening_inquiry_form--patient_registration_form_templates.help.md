@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # health-screening-inquiry-form - Help Guide
 ## Purpose
 This form is designed to collect general information and specific medical details from patients. It is intended for health care professionals to gather essential data for patient screening and assessment.

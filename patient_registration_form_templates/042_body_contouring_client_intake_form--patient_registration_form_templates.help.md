@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from clients who are interested in body contouring treatments. It is intended for clients who are looking to reduce fat, sculpt their body, or improve their overall contour. The questions cover a range of topics, including personal details such as name, contact information, and medical history, as well as information about their goals and preferences for treatment. The form is meant to be completed by clients before their initial consultation with a provider.
-This form is a comprehensive intake form, and it is recommended that it be completed thoroughly and accurately to ensure that the provider has a complete understanding of the client's needs and goals.
-</thinking>
-
 # Body Contouring Client Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from clients who are interested in body contouring treatments.

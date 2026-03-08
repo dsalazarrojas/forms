@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from customers for their personal nail strip orders. The form is intended for internal use by the business and is not meant to be publicly accessible. It's designed to collect various details related to the customer, their order, and payment method. 
-
-The form has multiple pages with different fields, and each page is meant to be filled out in a specific way. This guide will walk you through each page and field explanation to ensure the end-user is aware of the purpose and correct way to complete the form.
-
-</thinking>
-
 # Personal Nail Strip Order Form - Help Guide
 ## Purpose
 This form is used to collect information from customers for their personal nail strip orders.

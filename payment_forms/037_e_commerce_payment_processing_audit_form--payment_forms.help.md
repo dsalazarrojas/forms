@@ -1,21 +1,3 @@
-<thinking>
-Internal reasoning block:
-The form "e_commerce_payment_processing_audit_form" is designed to collect information about e-commerce payment processing, including details about payment workflows, security practices, reliability ratings, internal reviews, payment gateways, audit dates and times, auditor signatures, payment amounts, payment methods, payment statuses, payment remarks, reviewer information, reviewer signatures, and review dates. The form is likely used by auditors or reviewers to document and verify the accuracy of e-commerce payment processing activities. 
-
-The form has 16 fields in total, which are grouped into several categories. The fields include:
-
-* E-commerce payment information (2 fields: payment_workflow and reliability_rating)
-* Security and reliability (2 fields: security_practices and reliability_rating)
-* Internal reviews (1 field: internal_reviews)
-* Payment gateways (1 field: payment_gateways)
-* Audit information (2 fields: audit_date and audit_time)
-* Payment details (4 fields: payment_amount, payment_method, payment_status, and payment_remark)
-* Reviewer information (3 fields: reviewer_info, reviewer_signature, and review_date)
- 
-Please note that this form is not designed for general users, but for auditors and reviewers, so the form's complexity and field options might be more suited for their specific needs.
-
-</thinking>
-
 # e_commerce_payment_processing_audit_form - Help Guide
 ## Purpose
 This form is used to collect and verify information about e-commerce payment processing activities. It is designed for auditors and reviewers to document and verify the accuracy of e-commerce payment processing activities.

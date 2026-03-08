@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture feedback and support information from parents on a daily basis. It is not meant to be a comprehensive survey, but rather a quick and easy way to keep track of daily interactions between parents and teachers. Each field is meant to provide relevant information to facilitate a quick and effective support process. Please ensure that you're only completing the form if you're a parent or caregiver, as it's designed to be used by these individuals.
-
-This form is part of the "parent_feedback_forms" category, which suggests it may be used in educational settings to gather feedback and support needs from parents. To the best of our knowledge, the form has not been directly influenced by any proprietary form creation platforms, and it's an original adaptation of a form design based on public metadata.
-</thinking>
-
 # Daily Parent Support Notes - Help Guide
 ## Purpose
 The Daily Parent Support Notes form is a tool designed to help teachers gather information from parents on a daily basis. It's a quick and easy way to keep track of parent feedback, support needs, and action plans.

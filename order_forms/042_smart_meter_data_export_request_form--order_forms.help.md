@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Smart Meter Data Export Request Form - Help Guide
 
 ## Purpose

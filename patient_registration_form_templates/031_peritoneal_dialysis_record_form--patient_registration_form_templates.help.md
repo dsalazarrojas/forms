@@ -1,10 +1,3 @@
-<thinking>...
-This form is for recording information about peritoneal dialysis sessions. To confirm, peritoneal dialysis is a treatment used in kidney disease, where a machine or manual method is used to remove excess fluids from the body. This form is meant to document each session, ensuring accurate and consistent data collection.
-
-Please note that each field is designed to capture specific information about the session. Ensure you complete each field accurately and thoroughly. If you're unsure about any field, please refer to the field-by-field explanations below.
-
-</thinking>
-
 # Peritoneal Dialysis Record Form - Help Guide
 
 ## Purpose

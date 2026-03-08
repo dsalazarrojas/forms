@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to request a shipping fee refund for an order. To complete this form, you should follow the steps outlined in this guide.
 
 # shipping_fee_refund_form - Help Guide

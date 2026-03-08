@@ -1,9 +1,3 @@
-<thinking>
-This form is for customers to place orders for fencing materials. The purpose of the form is to collect relevant information about the customer, material type, quantity, and price of the order. It's essential to fill out this form correctly to ensure accurate processing of the order. 
-Please verify that this form is not a duplicate and that the customer has access to this form to prevent unnecessary duplication of efforts. 
-Before proceeding, make sure to read the entire form instructions to avoid any confusion or missing information.
-</thinking>
-
 # Fencing Material Order Form - Help Guide
 ## Purpose
 The Fencing Material Order Form is used to place orders for fencing materials. This form captures essential details about the customer, material type, and order requirements to facilitate accurate processing and delivery.

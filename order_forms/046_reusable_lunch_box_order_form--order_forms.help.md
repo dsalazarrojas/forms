@@ -1,9 +1,3 @@
-<thinking>
-
-This form will be used for users to place a reusable lunch order. The form is designed to capture information from users about their meal preferences, payment methods, and other relevant details. This is a unique and original adaptation of a survey topic, created by AI using only public metadata, and is not associated with any form creation platform. The form allows users to input their name, order details, meal preferences, meal restrictions, and payment method.
-
-</thinking>
-
 # Reusable Lunch Box Order Form - Help Guide
 ## Purpose
 The Reusable Lunch Box Order Form is designed to capture user information for a lunch box order. This form will help streamline the ordering process, allowing users to input their meal preferences and payment details in an efficient and organized manner.

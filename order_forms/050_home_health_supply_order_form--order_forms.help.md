@@ -1,6 +1,3 @@
-<thinking>
-The Home Health Supply Order Form is used to order medical supplies for patients, allowing healthcare providers to select from available options and customize orders with special instructions. This form is designed for use by healthcare professionals, ensuring accuracy and consistency in order processing. It's essential to understand the form's purpose and usage to ensure seamless order processing and minimize errors. Please review the form's content to ensure it aligns with your current practices and policies.</thinking>
-
 # Home Health Supply Order Form - Help Guide
 ## Purpose
 The Home Health Supply Order Form is a tool used to order medical supplies for patients. It allows healthcare providers to select from a list of available medical supplies, including bandages, gauze, and gloves, and customize the order with special instructions if needed.

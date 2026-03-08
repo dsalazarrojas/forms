@@ -1,11 +1,3 @@
-<thinking>
-This form is likely used for customers to authorize payments or transactions through their E-Wallets, such as Apple Pay or Google Pay. 
-The E-Wallet Authorization Form is designed to gather information about the customer, their payment method, and transaction details. 
-The form likely aims to verify the customer's identity and E-Wallet details before authorizing a payment or transaction. 
-This could be used for various purposes such as payment processing, transaction monitoring, or customer verification. 
-Ensure that each field is filled in correctly to avoid errors or missed information. 
-This form may be part of a larger process, so ensure you understand the purpose and context of this form.</thinking>
-
 # E Wallet Authorization Form - Help Guide
 ## Purpose
 The E Wallet Authorization Form is used to gather information about customers and their E-Wallets for payment or transaction purposes.

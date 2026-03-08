@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to allow customers to order a personalized mug with their name and a custom message, and to select a category that reflects their interests. The form is designed to be completed by individual customers who want to purchase a unique and personalized product. It is expected that the form will be filled out by a single user at a time.
-
-To prevent non-duplication and ensure accurate data collection, please ensure that only one person completes the form.
-</thinking>
-
 # Personalized-Mug-Order-Form - Help Guide
 ## Purpose
 This form is used to order a personalized mug with your name and a custom message, as well as select a category that reflects your interests.

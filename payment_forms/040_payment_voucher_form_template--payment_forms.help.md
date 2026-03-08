@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to capture payment voucher information from vendors. The purpose of this form is to collect and store details about the payment vouchers issued to vendors, including the payment method, amount, date, and status. This form is intended to be completed by vendors or their representatives to provide accurate and up-to-date information about their vouchers. 
-
-This form is part of a larger payment system, and its completion is necessary for the vendor to receive payment from the company. The form will be reviewed and processed by the payment team to ensure that all the required information is accurate and complete before making any payments.
-</thinking>
-
 # Payment Voucher Form Template - Help Guide
 ## Purpose
 The Payment Voucher Form Template is designed to capture payment voucher information from vendors, including payment method, amount, date, and status.

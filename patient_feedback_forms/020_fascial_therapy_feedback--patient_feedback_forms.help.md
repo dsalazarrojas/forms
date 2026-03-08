@@ -1,9 +1,3 @@
-<thinking>
-I will analyze the form purpose and create a user-facing help guide for the "Fascial Therapy Feedback" form.
-The form is likely used to collect feedback from patients about their fascial therapy sessions, which helps the therapy team to improve their services and provide better care to patients.
-The form will ask patients to rate their experience, provide suggestions, offer feedback, and include any additional comments from the therapist. It also includes fields for the patient's name and contact information (email and phone number), which could be used to follow up on the feedback.
-</thinking>
-
 # Fascial Therapy Feedback - Help Guide
 ## Purpose
 This form is designed to collect feedback from patients about their fascial therapy sessions. Your responses will help us understand how we can improve our services and provide better care to our patients.

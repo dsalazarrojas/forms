@@ -1,8 +1,3 @@
-<thinking>
-  The custom cutting board order form is designed for customers to input their order details to place a custom cutting board order. 
-  The form should only be used for this specific purpose and not for other use cases.
-</thinking>
-
 # Custom Cutting Board Order Form - Help Guide
 ## Purpose
 This form is intended for customers to enter their details to place a custom cutting board order.

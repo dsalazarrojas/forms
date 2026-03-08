@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a patient's social medical history, which is crucial for healthcare providers to understand their medical background and provide personalized care. This form should only be used for patients who have not previously completed a social medical history survey. Please ensure that each field is filled out accurately and thoroughly.
-</thinking>
-
 # Social Medical History Survey - Help Guide
 
 ## Purpose

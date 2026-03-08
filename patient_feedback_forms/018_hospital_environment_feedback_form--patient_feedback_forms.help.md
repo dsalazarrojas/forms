@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I must ensure that the user-facing help guide is clear, concise, and easy to understand. Before I start writing the help guide, I will review the form's purpose and ensure that it is not a duplicate effort. After reviewing the YAML fields, I notice that the form is designed to gather feedback from patients about their experience in the hospital environment. The form is divided into several pages, each with its own set of questions or fields. I will make sure to explain each field in a way that is easy to understand and relevant to the patient's experience.</thinking>
-
 # Hospital Environment Feedback Form - Help Guide
 ## Purpose
 The Hospital Environment Feedback Form is designed to collect feedback from patients about their experience in the hospital environment. Your input will help us identify areas for improvement and ensure that our hospital is providing the best possible care and service to our patients.

@@ -1,7 +1,3 @@
-<thinking>
-The Winter Collection Pre Order Form is designed to gather information from customers for pre-ordering of a winter collection. This form should only be filled out by customers who have not yet received their pre-ordered items. If you have already received your pre-ordered items, please do not fill out this form again. This form will help us update your order status and ensure that we have all necessary information to process your pre-order correctly.
-</thinking>
-
 # Winter Collection Pre Order Form - Help Guide
 ## Purpose
 The Winter Collection Pre Order Form is a tool used to gather information from customers who have pre-ordered a winter collection. It helps us update the order status and ensure that we have all necessary information to process the pre-order correctly.

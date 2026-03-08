@@ -1,12 +1,3 @@
-<thinking>
-The purpose of the "online-payment-form" is to collect information from users for online payments, such as payment methods, amount, and other relevant details. This form is likely used for e-commerce or digital transactions.
-
-To avoid duplication of effort, we should ensure that this form is only used when a payment is actually required, and not for other purposes.
-
-The form has multiple pages, but for the sake of this help guide, we will focus on one page at a time.
-
-</thinking>
-
 # online-payment-form - Help Guide
 ## Purpose
 The "online-payment-form" is used to collect information for online payments, such as payment methods, amount, and other relevant details.

@@ -1,9 +1,3 @@
-<thinking>
-The Catering Supplies Requisition Form is used to request catering supplies and equipment for events, meetings, or other occasions within the organization. This form is intended to be completed by individuals responsible for requesting supplies for their department and to ensure that the request is accurately and efficiently fulfilled.
-Before proceeding, please ensure that you are the correct person to submit this form, and that the supplies you are requesting are not already ordered or available in your department's inventory. To avoid delays, it is also recommended to submit your request in a timely manner, ideally with enough lead time for the supplies to be received and processed.
-
-</thinking>
-
 # Catering Supplies Requisition Form - Help Guide
 ## Purpose
 The Catering Supplies Requisition Form is used to request catering supplies and equipment for events, meetings, or other occasions within the organization.

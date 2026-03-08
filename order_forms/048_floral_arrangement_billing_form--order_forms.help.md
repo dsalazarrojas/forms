@@ -1,18 +1,3 @@
-<thinking>
-This form is a billing form for floral arrangements, designed to collect relevant information from customers for orders placed. This guide will walk you through each section of the form to ensure you complete it accurately and efficiently. Please review the form carefully to understand its purpose and requirements.
-
-To complete this form, you will need to provide the following information:
-* Customer details
-* Order details
-* Billing information
-* Payment terms
-* Date and time of service
-* Service charge and subtotal
-* Tax and grand total
-
-Each section of the form has been designed to gather specific details, so please follow the instructions carefully to ensure you don't miss any important information.
-</thinking>
-
 # Floral Arrangement Billing Form - Help Guide
 ## Purpose
 This form is designed to collect billing information for floral arrangements ordered by customers. It will help you accurately process and manage orders, ensuring all necessary details are included.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "craft_supplies_order_form" is to gather information from customers about their craft supplies orders, including customer details, order items, shipping information, order date, payment method, payment details, customer notes, and order total. This form is likely used in a retail or online setting where customers need to place orders for craft supplies. The form appears to be optional, which suggests that customers may not be required to complete every field. The fields seem to be focused on order details rather than customer identification or contact information. However, it would be good to confirm this interpretation with a subject matter expert or business stakeholder.
-</thinking>
-
 # craft_supplies_order_form - Help Guide
 ## Purpose
 The "craft_supplies_order_form" is a form used to gather information from customers about their craft supplies orders.

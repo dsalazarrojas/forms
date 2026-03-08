@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for registering payment optimization information for a supplier. The form asks for details about the supplier's payment terms, frequency, and methods, as well as their contact information. To avoid duplicating entries, the system checks for existing records before allowing a new entry. The purpose of this form is to gather accurate and up-to-date information about a supplier's payment habits to optimize payment processing.
-
-</thinking>
-
 # Supplier Payment Optimization Registration Form - Help Guide
 ## Purpose
 The Supplier Payment Optimization Registration Form is designed to collect information about a supplier's payment habits to optimize payment processing. This form helps to gather accurate and up-to-date data about a supplier's payment terms, frequency, and methods.

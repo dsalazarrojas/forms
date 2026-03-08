@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect weekly test data for COVID-19 patients. The form is intended to gather information from patients who have been visited by healthcare professionals during the pandemic. The purpose of this form is to track and analyze the data for public health monitoring and research purposes. 
-
-Before proceeding, please ensure that you are filling out this form for the correct purpose and that you have the necessary permissions to access patient data. This form should not be used for any other purpose other than tracking COVID-19 patient data. 
-
-Also, please note that this form is designed to be filled out once a week, so please fill it out for each patient you visit each week. If you have already filled out this form for a patient, you should not fill it out again.
-
-</thinking>
-
 # covid_19_weekly_test_form - Help Guide
 ## Purpose
 The covid_19_weekly_test_form is designed to collect data for patients visited during the COVID-19 pandemic. 

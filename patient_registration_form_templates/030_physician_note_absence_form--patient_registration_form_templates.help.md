@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for healthcare professionals to document the absence of a patient, providing essential information about the patient's identity, reason for absence, and other relevant details. This form helps ensure that the patient's absence is properly recorded and communicated within the healthcare system. The form should only be used for legitimate absence cases, and not for other purposes. Please ensure that you are using this form correctly and not duplicating any existing records.
-</thinking>
-
 # Physician Note Absence Form - Help Guide
 ## Purpose
 This form is used to document a patient's absence from the healthcare system, ensuring that their absence is properly recorded and communicated.

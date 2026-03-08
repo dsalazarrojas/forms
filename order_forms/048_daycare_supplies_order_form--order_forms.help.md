@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from daycare center staff or parents to place an order for daycare supplies. It's intended for use by authorized personnel or parents who need to order goods and services on behalf of their child or children. The form allows you to select one or multiple items, choose delivery options, and enter additional details such as quantity, note, and contact information. 
-
-The form is a multi-page form, but it appears to be a single page form with multiple fields. The fields are organized into categories, such as "Order Details", "Delivery", "Parent Information", and "Order Summary". 
-
-The form does not appear to have any specific business logic or validation rules that would prevent it from being completed, other than the requirement that some fields may be empty if not applicable. 
-
-</thinking>
-
 # Daycare Supplies Order Form - Help Guide
 
 ## Purpose

@@ -1,15 +1,3 @@
-<thinking>
-This form appears to be a financial assessment form, likely used for tracking assets and liabilities. 
-The form contains a mix of text, number, and date/time input fields. 
-The presence of multiple "Asset" and "Liability" fields suggests that the form is designed to track the values of various assets and liabilities. 
-The inclusion of fields like "Asset Increase" and "Asset Decrease" suggests that the form is also concerned with tracking changes in asset values over time. 
-There is no indication of a specific business purpose or industry that this form is intended for. 
-However, given the financial nature of the fields, it's likely that the form is used for personal or business financial planning and assessment. 
-The form does not appear to have any duplicate fields or conflicting requirements. 
-It seems to be a straightforward and comprehensive collection of financial data.
-
-</thinking>
-
 # untitled form - Help Guide
 ## Purpose
 This form is designed to collect financial data for assessment and planning purposes.

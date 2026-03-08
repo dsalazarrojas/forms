@@ -1,7 +1,3 @@
-<thinking>
-This form is used for restaurants to take orders from customers and manage their orders.
-</thinking>
-
 # restaurant_order_form - Help Guide
 ## Purpose
 This form is used for restaurants to take orders from customers and manage their orders. It collects information such as pickup location, pickup time, order notes, customer name, email, phone, delivery option, payment method, online options, offline options, delivery address, delivery instructions, order ID, restaurant ID, created at, updated at, deleted at, user ID, form ID, online total, offline total, and delivery status.

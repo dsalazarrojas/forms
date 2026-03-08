@@ -1,5 +1,3 @@
-<thinking>This form is part of the "patient_registration_form_templates" category, which suggests it's designed for medical professionals to gather essential information about patients visiting their office or clinic. This template aims to streamline the data collection process, ensuring a smooth and efficient patient registration experience. Please note that this form might need to be adjusted based on specific medical facility requirements. Before filling out this form, make sure to review the required fields and ensure you have all necessary information to accurately complete it. Ensure you're completing the form for the correct patient visit and not duplicating any existing records.</thinking>
-
 # Initial Visit Patient Forms (MDR) - Help Guide
 ## Purpose
 The Initial Visit Patient Forms (MDR) is a comprehensive form designed to collect essential information about patients visiting a medical facility. This form ensures accurate and efficient data collection, streamlining the registration process.

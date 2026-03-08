@@ -1,5 +1,3 @@
-<thinking> This form is used for hospital admission to collect patient demographics, contact information, medical history, allergies, insurance details, emergency contact information, patient consent, medical condition, treatment, and hospital admission date. This form is intended to be completed by patients or their authorized representatives. The form is divided into sections for easy understanding, and each field is labeled clearly. The fields marked as 'required' are essential for the hospital's administrative and treatment purposes. </thinking>
-
 # hospital admission referral form - Help Guide
 ## Purpose
 This form is used to gather essential information from patients for their hospital admission. Please complete this form carefully to provide accurate and up-to-date information.

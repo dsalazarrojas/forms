@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for bulk grocery orders from customers. It is used to gather details about the order date, customer information, delivery address, and preferences for the order. The form is likely used by a business or organization to process and fulfill large orders for groceries. To avoid duplication of effort and ensure accurate data collection, please fill out this form with care and attention to detail.
-</thinking>
-
 # Bulk Grocery Order Form - Help Guide
 ## Purpose
 The Bulk Grocery Order Form is used to collect information for bulk grocery orders. It is essential for our business to have accurate and complete data to process and fulfill your order efficiently.

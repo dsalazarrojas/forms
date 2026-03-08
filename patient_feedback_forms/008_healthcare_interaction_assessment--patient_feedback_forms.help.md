@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to assess the quality of healthcare interaction between patients and their healthcare providers. This form will help healthcare professionals understand how well they interact with their patients, identify areas of improvement, and provide feedback to patients. This guide is meant to be used by patients who have had a recent interaction with their healthcare provider. The form will not be used for duplicate assessments, so please complete it only once per interaction.
-</thinking>
-
 # healthcare_interaction_assessment - Help Guide
 ## Purpose
 This form is used to assess the quality of healthcare interaction between patients and their healthcare providers.

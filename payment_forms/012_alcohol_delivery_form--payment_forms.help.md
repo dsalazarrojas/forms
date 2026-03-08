@@ -1,16 +1,3 @@
-<thinking>
-The form "Alcohol Delivery Form" is designed to collect information for alcohol delivery orders, ensuring a smooth and secure experience for both customers and delivery personnel. This form will be used to gather customer information, order details, and payment methods, while also verifying the customer's age and ensuring they agree to the delivery terms.
-
-To avoid duplication, this form will only be filled out once per order. Before filling out the form, please ensure that all required fields have been completed accurately and thoroughly.
-
-This form is used for orders of alcohol and mixers. Please select all applicable products and ensure accurate quantities are entered.
-
-This form is intended for customers aged 21 and above. Please ensure you are of the required age to fill out this form.
-
-If you are under 21 or have other concerns, please do not fill out this form. We will contact you to discuss alternatives.
-
-</thinking>
-
 # Alcohol Delivery Form - Help Guide
 ## Purpose
 

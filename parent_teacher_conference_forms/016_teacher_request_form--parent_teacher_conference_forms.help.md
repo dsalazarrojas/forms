@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "teacher_request_form", is to facilitate communication between teachers and parents regarding student information and parent-teacher conference scheduling. This form is intended for teachers to request information from parents regarding their child's academic performance, to schedule parent-teacher conferences, and to share any necessary details with parents. Please ensure that you are not duplicating an existing form or requesting information that has already been shared with the teacher.
-</thinking>
-
 # teacher_request_form - Help Guide
 ## Purpose
 The "teacher_request_form" is used to collect information and schedule meetings between teachers and parents of students.

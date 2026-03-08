@@ -1,8 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "wellness_product_order_form" form. This form is designed to collect information from customers for a wellness product order. It appears to be a straightforward order form with fields for product selection, customer details, payment information, and order status.
-We will follow the provided YAML fields to create a concrete and concise guide.
-</thinking>
-
 # Wellness Product Order Form - Help Guide
 ## Purpose
 The wellness_product_order_form is a form used to collect information for a wellness product order. It helps us understand your needs and preferences to provide you with the best possible services.

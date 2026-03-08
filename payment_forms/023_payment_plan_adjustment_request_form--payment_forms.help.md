@@ -1,18 +1,3 @@
-<thinking>
-This form is for customers to request adjustments to their payment plans. A payment plan is a set of installments that a customer has agreed to pay in order to settle a debt or fulfill a financial obligation. An adjustment to the plan can be a change in the payment schedule, a cancellation, or a refund.
-
-The form will help customers to:
-
-- Provide their personal details (name and email)
-- Specify the type of adjustment they want to make (e.g. change in payment schedule, cancellation, refund)
-- Enter a specific amount they want to adjust (if applicable)
-- Select a payment method (e.g. credit card, bank transfer, check)
-- Optionally provide notes about the adjustment
-
-Before filling the form, ensure that the customer has a payment plan in place and is seeking to make a change to it. This form is not meant to create a new payment plan but rather modify an existing one.
-
-</thinking>
-
 # Payment Plan Adjustment Request Form - Help Guide
 
 ## Purpose

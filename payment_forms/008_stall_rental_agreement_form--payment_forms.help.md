@@ -1,7 +1,3 @@
-<thinking>
-This form is for creating a stall rental agreement, a legal contract between two parties: the stall owner and the event organizer. The purpose of this form is to outline the terms and conditions of the rental, including payment details, event information, and terms of use. This guide will walk you through each field in the form, ensuring you understand what each one is for and how to fill it out correctly.
-</thinking>
-
 # Stall Rental Agreement Form - Help Guide
 ## Purpose
 The Stall Rental Agreement Form is used to document the terms and conditions of renting a stall at an event. It is a legal contract between the stall owner and the event organizer.

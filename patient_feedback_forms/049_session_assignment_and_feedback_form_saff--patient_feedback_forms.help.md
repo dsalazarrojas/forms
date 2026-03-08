@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect feedback from patients on their sessions, assigning a therapist to work with them, and confirming the submission of the form. This form is intended for internal use and should not be filled out by patients themselves. The fields are designed to be completed by staff members or other authorized personnel. 
-
-Before starting the form, please make sure you have all the necessary information and permissions to complete it accurately and without duplication. If you are unsure about any field or have questions, please reach out to your supervisor or IT department for clarification.
-
-</thinking>
-
 # Session Assignment And Feedback Form (SAFF) - Help Guide
 ## Purpose
 The Session Assignment And Feedback Form (SAFF) is a tool used to assign a therapist to a patient and collect feedback on the session. It is a crucial part of the patient's care process, providing valuable insights for staff members to improve their practice.

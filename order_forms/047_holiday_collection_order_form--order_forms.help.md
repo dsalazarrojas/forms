@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # holiday_collection_order_form - Help Guide
 
 ## Purpose

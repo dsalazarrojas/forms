@@ -1,8 +1,3 @@
-<thinking>
-This form is a payment form for customers to place orders for handmade bags, which is used to collect payment details, order information, and customer contact information. It is used to facilitate secure payment processing and order fulfillment. 
-The form has multiple pages with various fields for different purposes, such as payment method, order type, customer details, and payment status. To ensure accurate and successful orders, it is essential to fill out the form correctly and completely.
-</thinking>
-
 # HandMade Bag Order Form Worldpay UK Payment Form - Help Guide
 ## Purpose
 This form is used for customers to place orders for handmade bags, and it ensures secure payment processing and order fulfillment.

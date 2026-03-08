@@ -1,10 +1,3 @@
-<thinking>
-This form is used for users to subscribe to wallpaper services. The form is designed to collect information from users to create a subscription plan that suits their needs. This guide will walk users through each field of the form and provide an explanation of what each field means and how to complete it.
-
-Before proceeding, please note that the form is not meant to be filled out multiple times. Each time you fill out this form, it will create a new subscription plan.
-
-</thinking>
-
 # Wallpaper Subscription Form - Help Guide
 ## Purpose
 The Wallpaper Subscription Form is used to collect information from users to create a subscription plan for wallpaper services. This form will guide you through the process of selecting a plan that meets your needs.

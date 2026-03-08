@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Patient Safety Assessment Survey - Help Guide
 ## Purpose
 The purpose of this form is to collect patient feedback on potential safety risks and events related to their care. By completing this form, you will help us assess patient safety risks and identify areas for improvement.

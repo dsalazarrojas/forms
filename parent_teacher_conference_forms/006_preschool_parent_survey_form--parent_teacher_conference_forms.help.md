@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to collect information from preschool parents about their experiences and feedback, providing valuable insights for the school to improve its services. The form is structured to be completed by parents in a short and efficient manner. Each section is designed to cater to different aspects of the parent experience. This guide will walk you through the form's purpose, how to fill it out, and a field-by-field explanation of each question.</thinking>
-
 # Preschool Parent Survey Form - Help Guide
 ## Purpose
 The Preschool Parent Survey Form is a tool designed to gather feedback and information from parents about their experiences at our preschool. It aims to help us understand how we can better support our students and families.

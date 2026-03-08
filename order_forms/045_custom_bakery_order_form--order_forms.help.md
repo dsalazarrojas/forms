@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from customers for their custom bakery order. This form is designed to be a straightforward and efficient way to collect relevant details required for the order processing. It consists of four main sections: customer information, delivery information, order details, and payment information. To ensure that the form is used correctly, please make sure to fill in all the required fields. If any fields are left blank, it may lead to incomplete or incorrect orders.
-</thinking>
-
 # Custom Bakery Order Form - Help Guide
 ## Purpose
 The Custom Bakery Order Form is designed to collect information from customers for their custom bakery orders. This form will guide you through the process of submitting your order.

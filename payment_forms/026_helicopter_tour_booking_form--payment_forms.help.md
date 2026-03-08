@@ -1,12 +1,3 @@
-<thinking>
-The "helicopter_tour_booking_form" form is a generic form designed to collect user information for a helicopter tour booking system. It has three pages: "User Details", "Tour Details", and "Payment Details". The form is intended to be used for booking and payment purposes, and it is not affiliated with, endorsed by, or derived from any form platform. It was created using AI-generated public survey topic metadata, making it an original adaptation. The form can be used, modified, and even sold, as it is released under CC BY 4.0.
-
-To determine the relevance and non-duplication of this form, consider the following:
-- Is the form purpose aligned with your business needs?
-- Are there any similar forms already in use within your organization?
-- Are there any proprietary forms that this form could potentially infringe upon?
-</thinking>
-
 # helicopter_tour_booking_form - Help Guide
 ## Purpose
 The helicopter_tour_booking_form is designed to collect user information for a helicopter tour booking system.

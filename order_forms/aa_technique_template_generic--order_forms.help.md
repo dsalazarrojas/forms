@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # AA Technique Generic - Help Guide
 
 ## Purpose

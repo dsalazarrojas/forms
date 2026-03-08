@@ -1,7 +1,3 @@
-<thinking>
-I'm checking the form purpose and fields to make sure I don't create a duplicate help guide. The form seems to be a payment form for wedding planning, likely used to track payments and services rendered by vendors. It has various fields to collect payment method, amount, and other relevant details. I'll create a help guide that's clear and concise, explaining each field in a way that's easy to understand for end-users.
-</thinking>
-
 # Wedding Planning Payment Form - Help Guide
 ## Purpose
 This form is used to record payments and services for wedding planning. It helps vendors track payments and services rendered for each wedding.

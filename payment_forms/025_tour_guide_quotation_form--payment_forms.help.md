@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect information from customers for tour guide quotation requests, likely for travel agencies or tour operators. This form is designed to gather details such as the date of the quotation, operator information, tour type, start and end location, travel duration, tour price, customer contact details, and any additional customer or agency notes. The form's purpose is to ensure that all necessary information is collected for a smooth and efficient tour quotation process.
-
-To ensure this form doesn't overlap with any existing forms, let's assume that this form is used specifically for tour guides or travel quotations, and no other form with the same purpose and similar fields exists within the system.
-
-The form does not seem to be a payment form, as the field types suggest it's more focused on collecting data rather than processing payment information.
-</thinking>
-
 # Tour Guide Quotation Form - Help Guide
 ## Purpose
 The Tour Guide Quotation Form is designed to collect necessary information for tour quotations, including quotation date, tour operator details, tour type, start and end locations, travel duration, tour price, customer contact details, and any additional notes.

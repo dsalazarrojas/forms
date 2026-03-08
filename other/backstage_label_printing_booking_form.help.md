@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for booking printing services, specifically for backstagelabel printing. The form is designed to collect information from customers, including their name, contact details, and booking preferences. Each field is essential for the booking process, but not all fields are required. 
-
-The form is divided into two pages, and users can access the second page by scrolling down. Each field on both pages is explained below, so please read carefully.
-
-This help guide is intended for customers who are unfamiliar with the form and its requirements.
-
-</thinking>
-
 # Untitled Form - Help Guide
 ## Purpose
 The "Untitled Form" is a form used for booking printing services for backstagelabel printing.
