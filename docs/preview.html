@@ -7,6 +7,16 @@
   <meta name="description" content="Preview and interact with this YAML form template.">
   <link rel="canonical" href="https://forms.gic.mx/preview.html" />
 
+  <!-- Google Analytics (GA4) -->
+  <!-- TODO: Replace G-XXXXXXXXXX with the real GA4 Measurement ID before production verification. -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+
   <!-- FOUC prevention: apply dark mode before render -->
   <script>if(localStorage.getItem('gic-theme')==='dark'||(!localStorage.getItem('gic-theme')&&window.matchMedia('(prefers-color-scheme: dark)').matches)){document.documentElement.classList.add('dark')}</script>
 
@@ -285,6 +295,10 @@
           <span class="material-symbols-outlined icon-sm">table_view</span>
           Download XLSX
         </button>
+        <button id="btn-view-form-guide" type="button" class="btn-outline hidden" aria-haspopup="dialog" aria-controls="help-md-modal" onclick="openFormGuideModal()">
+          <span class="material-symbols-outlined icon-sm">menu_book</span>
+          View Form Guide
+        </button>
       </div>
     </div>
 
@@ -471,6 +485,10 @@
             <div class="flex items-center justify-between px-4 py-2 bg-slate-800 dark:bg-slate-950 border-b border-slate-700">
               <span class="text-xs font-mono text-slate-400">form.yaml</span>
               <div class="flex items-center gap-2">
+                <button id="yaml-save-current" type="button" class="text-xs text-slate-400 hover:text-white flex items-center gap-1 transition-colors" onclick="saveCurrentFormFromPage()">
+                  <span class="material-symbols-outlined icon-sm">save</span>
+                  Save Current Form
+                </button>
                 <button id="edit-yaml-btn" class="text-xs text-slate-400 hover:text-white flex items-center gap-1 transition-colors" onclick="editYaml()">
                   <span class="material-symbols-outlined icon-sm">edit</span>
                   Edit
@@ -507,7 +525,7 @@
               <div>
                 <h2 class="text-lg font-bold text-slate-900 dark:text-slate-100 mb-2">My Forms</h2>
                 <p class="text-sm text-slate-600 dark:text-slate-400">
-                  Save graphical editor drafts locally, reload them later, and launch preview or deployment from the same place.
+                  Save forms locally to My Forms, reload them later, and launch preview or deployment from the same place.
                 </p>
               </div>
               <div class="flex flex-wrap gap-2">
@@ -716,6 +734,24 @@
   </aside>
 
 </div><!-- end flex h-screen -->
+
+<div id="help-md-modal" class="hidden fixed inset-0 z-[60]" role="dialog" aria-modal="true" aria-labelledby="help-md-modal-title">
+  <div class="absolute inset-0 bg-slate-950/70 backdrop-blur-sm" onclick="closeFormGuideModal()"></div>
+  <div class="relative flex min-h-full items-center justify-center p-4 sm:p-6">
+    <div class="relative w-full max-w-3xl overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-2xl dark:border-slate-800 dark:bg-slate-900">
+      <div class="flex items-center justify-between border-b border-slate-200 px-5 py-4 dark:border-slate-800">
+        <div class="flex items-center gap-2">
+          <span class="material-symbols-outlined text-primary" style="font-size:22px;">menu_book</span>
+          <h2 id="help-md-modal-title" class="text-lg font-semibold text-slate-900 dark:text-slate-100">Form Guide</h2>
+        </div>
+        <button type="button" class="inline-flex h-9 w-9 items-center justify-center rounded-lg border border-slate-200 text-slate-500 transition-colors hover:border-primary hover:text-primary dark:border-slate-700 dark:text-slate-300" onclick="closeFormGuideModal()">
+          <span class="material-symbols-outlined icon-sm">close</span>
+        </button>
+      </div>
+      <div id="help-md-modal-content" class="prose prose-sm max-h-[75vh] overflow-y-auto p-5 text-sm leading-relaxed text-slate-600 dark:prose-invert dark:text-slate-400 sm:p-6"></div>
+    </div>
+  </div>
+</div>
 
 <script src="assets/preview-page.js"></script>
 </body>

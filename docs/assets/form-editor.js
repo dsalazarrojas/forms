@@ -43,7 +43,7 @@
       this.form = this.codec.createBlankForm();
       this.documentMeta = {};
       this.dirty = false;
-      this.statusMessage = 'No local draft loaded.';
+      this.statusMessage = 'Edit the form, then save it to My Forms when ready.';
       this.statusIsError = false;
       this.draggingQuestionIndex = null;
       this.draggingOption = null;
@@ -226,12 +226,6 @@
       return Array.isArray(this.form.questions) ? this.form.questions.length : 0;
     }
 
-    getDraftKey() {
-      return typeof this.options.getDraftKey === 'function'
-        ? this.options.getDraftKey()
-        : 'gic-editor-draft';
-    }
-
     getDownloadName() {
       return typeof this.options.getDownloadName === 'function'
         ? this.options.getDownloadName()
@@ -248,8 +242,6 @@
       const statusEl = this.container.querySelector('[data-editor-status]');
       const dirtyEl = this.container.querySelector('[data-editor-dirty]');
       const countEl = this.container.querySelector('[data-editor-count]');
-      const draftEl = this.container.querySelector('[data-editor-draft]');
-
       if (statusEl) {
         statusEl.textContent = this.statusMessage || '';
         statusEl.className = this.statusIsError
@@ -266,11 +258,6 @@
 
       if (countEl) {
         countEl.textContent = `${this.getQuestionCount()} question${this.getQuestionCount() === 1 ? '' : 's'}`;
-      }
-
-      if (draftEl) {
-        const hasDraft = Boolean(localStorage.getItem(this.getDraftKey()));
-        draftEl.textContent = hasDraft ? 'Local draft available' : 'No local draft saved';
       }
     }
 
@@ -666,7 +653,7 @@
         <div class="rounded-2xl border border-dashed border-slate-300 bg-white p-10 text-center dark:border-slate-700 dark:bg-slate-900">
           <span class="material-symbols-outlined mb-3 inline-flex h-14 w-14 items-center justify-center rounded-full bg-primary/10 text-primary" style="font-size:28px;">quiz</span>
           <h3 class="text-lg font-semibold text-slate-900 dark:text-slate-100">No questions yet</h3>
-          <p class="mt-2 text-sm text-slate-500 dark:text-slate-400">Add a question, paste YAML from the clipboard, or start from a saved draft.</p>
+          <p class="mt-2 text-sm text-slate-500 dark:text-slate-400">Add a question or paste YAML from the clipboard to start building your form.</p>
         </div>`;
 
       this.container.innerHTML = `
@@ -695,18 +682,6 @@
                   <span class="material-symbols-outlined text-[18px]">assignment_returned</span>
                   Paste YAML
                 </button>
-                <button type="button" data-action="save-draft" class="${BUTTON_OUTLINE}">
-                  <span class="material-symbols-outlined text-[18px]">save</span>
-                  Save Draft (Local)
-                </button>
-                <button type="button" data-action="load-draft" class="${BUTTON_OUTLINE}">
-                  <span class="material-symbols-outlined text-[18px]">history</span>
-                  Load Draft
-                </button>
-                <button type="button" data-action="clear-draft" class="${BUTTON_OUTLINE}">
-                  <span class="material-symbols-outlined text-[18px]">delete</span>
-                  Clear Draft
-                </button>
                 <button type="button" data-action="copy-yaml" class="${BUTTON_OUTLINE}">
                   <span class="material-symbols-outlined text-[18px]">content_copy</span>
                   Copy YAML
@@ -718,13 +693,16 @@
                 <button type="button" data-action="edit-yaml" class="${BUTTON_OUTLINE}">
                   <span class="material-symbols-outlined text-[18px]">code</span>
                   Edit YAML
+                </button>
+                <button type="button" data-action="save-current-form" class="${BUTTON_OUTLINE}">
+                  <span class="material-symbols-outlined text-[18px]">save</span>
+                  Save Current Form
                 </button>`}
               </div>
 
               <div class="flex flex-wrap items-center gap-2 text-xs">
                 <span data-editor-dirty class="inline-flex items-center gap-1 rounded-full bg-emerald-100 px-2.5 py-1 text-xs font-semibold text-emerald-700 dark:bg-emerald-500/20 dark:text-emerald-300">Applied state</span>
                 <span data-editor-count class="inline-flex items-center gap-1 rounded-full bg-slate-100 px-2.5 py-1 font-semibold text-slate-600 dark:bg-slate-800 dark:text-slate-300">${this.getQuestionCount()} question${this.getQuestionCount() === 1 ? '' : 's'}</span>
-                <span data-editor-draft class="inline-flex items-center gap-1 rounded-full bg-slate-100 px-2.5 py-1 font-semibold text-slate-600 dark:bg-slate-800 dark:text-slate-300">No local draft saved</span>
               </div>
 
               <p data-editor-status class="text-sm ${this.statusIsError ? 'text-red-500' : 'text-slate-500 dark:text-slate-400'}">${escapeHtml(this.statusMessage)}</p>
@@ -895,30 +873,17 @@
         case 'move-option-down':
           this.moveOptionStep(questionIndex, optionIndex, 'down');
           return;
-        case 'save-draft':
-          localStorage.setItem(this.getDraftKey(), this.buildYaml());
-          this.setStatus('Draft saved locally.');
-          this.refreshHeader();
-          return;
-        case 'load-draft': {
-          const draft = localStorage.getItem(this.getDraftKey());
-          if (!draft) {
-            this.setStatus('No local draft found for this form.', true);
+        case 'save-current-form': {
+          const saveFn = typeof window.saveCurrentFormFromPage === 'function'
+            ? window.saveCurrentFormFromPage
+            : window.saveCurrentFormToMyForms;
+          if (typeof saveFn !== 'function') {
+            this.setStatus('Save Current Form is unavailable right now.', true);
             return;
           }
-          try {
-            this.loadYaml(draft, { markClean: false, statusMessage: 'Draft loaded. Review it, then apply changes.' });
-            this.notifyStateChange();
-          } catch (error) {
-            this.setStatus(error.message || 'Unable to load the saved draft.', true);
-          }
+          await saveFn();
           return;
         }
-        case 'clear-draft':
-          localStorage.removeItem(this.getDraftKey());
-          this.setStatus('Draft cleared.');
-          this.refreshHeader();
-          return;
         case 'copy-yaml':
           try {
             await navigator.clipboard.writeText(this.buildYaml());

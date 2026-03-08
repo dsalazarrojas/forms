@@ -91,15 +91,10 @@
     return `${slug}.yaml`;
   }
 
-  function getDraftKey() {
-    return `gic-form-draft:${currentFormPath || currentLocalFormId || 'local'}`;
-  }
-
   function getCurrentEditor() {
     if (!editor) {
       editor = new window.GICFormEditor({
         container: 'editor-root',
-        getDraftKey: getDraftKey,
         getDownloadName: getSuggestedFileName,
         onApply: async yaml => {
           await loadYamlDocument(yaml, {
@@ -271,10 +266,9 @@
     const textarea = document.getElementById('yaml-textarea');
     const editBtn = document.getElementById('edit-yaml-btn');
     const errorDiv = document.getElementById('yaml-edit-error');
-    if (!textarea) return;
+    if (!textarea) return false;
     const newYaml = textarea.value;
     try {
-      // Validate by parsing
       const parsed = codec().parse(newYaml);
       if (!parsed) throw new Error('Empty or invalid YAML.');
       await loadYamlDocument(newYaml, {
@@ -284,13 +278,14 @@
         markOriginal: false,
         editorStatus: 'YAML source edited and applied.'
       });
-      // Restore read-only view
       pre.classList.remove('hidden');
       editContainer.classList.add('hidden');
       editBtn.classList.remove('hidden');
+      return true;
     } catch (err) {
       errorDiv.textContent = `Parse error: ${err.message || String(err)}`;
       errorDiv.classList.remove('hidden');
+      return false;
     }
   }
 
@@ -489,7 +484,7 @@
       `Use this template to launch faster with a structured schema instead of building from scratch. The form covers key prompts for ${category.toLowerCase()} workflows, uses clear field definitions, and stays editable in the graphical editor and YAML source.`;
     document.getElementById('seo-steps').innerHTML = [
       'Review the live preview and graphical editor before publishing.',
-      'Save a local draft or add the questionnaire to My Forms.',
+      'Save the questionnaire to My Forms when you want to keep a local copy.',
       'Export YAML or deploy directly to Cloudflare Workers when the form is ready.',
       'Test required fields and choice options with sample responses before sharing the link.'
     ].map(step => `<li>${escapeHtml(step)}</li>`).join('');
@@ -526,22 +521,59 @@
     }
   }
 
-  async function fetchAndRenderHelpMd(formPath) {
+  function closeFormGuideModal() {
+    const modal = document.getElementById('help-md-modal');
+    if (!modal) {
+      return;
+    }
+    modal.classList.add('hidden');
+    document.body.classList.remove('overflow-hidden');
+  }
+
+  function openFormGuideModal() {
+    const modal = document.getElementById('help-md-modal');
+    const modalContent = document.getElementById('help-md-modal-content');
+    if (!modal || !modalContent || !modalContent.innerHTML.trim()) {
+      return;
+    }
+    modal.classList.remove('hidden');
+    document.body.classList.add('overflow-hidden');
+  }
+
+  function setHelpGuideContent(html) {
     const card = document.getElementById('help-md-card');
-    const contentEl = document.getElementById('help-md-content');
-    if (!card || !contentEl) return;
-    card.classList.add('hidden');
-    contentEl.innerHTML = '';
+    const inlineContent = document.getElementById('help-md-content');
+    const modalContent = document.getElementById('help-md-modal-content');
+    const trigger = document.getElementById('btn-view-form-guide');
+    const hasContent = Boolean(html && html.trim());
+
+    if (inlineContent) {
+      inlineContent.innerHTML = hasContent ? html : '';
+    }
+    if (modalContent) {
+      modalContent.innerHTML = hasContent ? html : '';
+    }
+    if (card) {
+      card.classList.toggle('hidden', !hasContent);
+    }
+    if (trigger) {
+      trigger.classList.toggle('hidden', !hasContent);
+    }
+    if (!hasContent) {
+      closeFormGuideModal();
+    }
+  }
+
+  async function fetchAndRenderHelpMd(formPath) {
+    setHelpGuideContent('');
     if (!formPath) return;
     const helpUrl = `https://raw.githubusercontent.com/dsalazarrojas/forms/main/${formPath.replace(/\.(yaml|yml)$/i, '.help.md')}`;
     try {
       const res = await fetch(helpUrl);
       if (!res.ok) return;
       let text = await res.text();
-      // Remove thinking blocks
       text = text.replace(/<thinking>[\s\S]*?<\/thinking>/g, '').trim();
       if (!text) return;
-      // Simple markdown-to-HTML conversion (headers, bold, lists, paragraphs)
       const html = text
         .replace(/^#### (.+)$/gm, '<h4 class="text-sm font-semibold text-slate-800 dark:text-slate-200 mt-4 mb-1">$1</h4>')
         .replace(/^### (.+)$/gm, '<h3 class="text-base font-semibold text-slate-800 dark:text-slate-200 mt-5 mb-1">$1</h3>')
@@ -554,8 +586,7 @@
         .replace(/(<li[\s\S]*?<\/li>\n?)+/g, m => `<ul class="space-y-1 my-2">${m}</ul>`)
         .replace(/\n\n+/g, '</p><p class="mb-3">')
         .replace(/^(?!<[hul])(.+)$/gm, '<p class="mb-3">$1</p>');
-      contentEl.innerHTML = html;
-      card.classList.remove('hidden');
+      setHelpGuideContent(html);
     } catch (_) {
       // If fetch fails, silently skip
     }
@@ -568,7 +599,7 @@
     }
 
     if (!currentPath || categorySlug === 'custom_forms') {
-      container.innerHTML = '<p class="text-xs text-slate-400 dark:text-slate-500">Save this questionnaire to My Forms to manage your local drafts and deployments.</p>';
+      container.innerHTML = '<p class="text-xs text-slate-400 dark:text-slate-500">Save this questionnaire to My Forms to manage your saved forms and deployments.</p>';
       return;
     }
 
@@ -667,12 +698,6 @@
     }
   }
 
-  function getDraftStatusMessage(defaultMessage) {
-    return localStorage.getItem(getDraftKey())
-      ? 'Local draft found for this form. Click “Load Draft” to continue editing.'
-      : defaultMessage;
-  }
-
   function updateDeploySummary() {
     const summary = document.getElementById('deploy-target-summary');
     if (!summary) {
@@ -681,7 +706,7 @@
     try {
       const form = getCurrentEditor().getForm();
       const title = form.title || getAppliedTitle();
-      const source = currentFormPath ? `Source: ${currentFormPath}` : currentLocalFormId ? 'Source: My Forms draft' : 'Source: current browser draft';
+      const source = currentFormPath ? `Source: ${currentFormPath}` : currentLocalFormId ? 'Source: My Forms' : 'Source: unsaved editor state';
       summary.innerHTML = `
         <p class="text-sm font-semibold text-slate-900 dark:text-slate-100">Current deployment target</p>
         <p class="mt-1 text-sm text-slate-600 dark:text-slate-400">${escapeHtml(title)}</p>
@@ -742,11 +767,11 @@
     updateStats(pages);
     updateSeoContent(title, categorySlug, pages, language);
     await updateRelatedForms(categorySlug, currentFormPath);
-    fetchAndRenderHelpMd(currentFormPath);
+    await fetchAndRenderHelpMd(currentFormPath);
     renderMyForms();
     updateDeploySummary();
 
-    const editorStatus = config.editorStatus || getDraftStatusMessage('No local draft loaded.');
+    const editorStatus = config.editorStatus || (currentLocalFormId ? 'Saved form ready to edit.' : currentFormPath ? 'Library form ready. Save it to My Forms when you want a local copy.' : 'New form ready. Save it to My Forms when you want to keep it.');
     getCurrentEditor().loadYaml(currentYaml, { markClean: true, statusMessage: editorStatus });
   }
 
@@ -882,6 +907,19 @@
     });
   }
 
+  async function saveCurrentFormFromPage() {
+    const yamlEditContainer = document.getElementById('yaml-edit-container');
+    const isEditingYaml = yamlEditContainer && !yamlEditContainer.classList.contains('hidden');
+    if (isEditingYaml) {
+      const applied = await saveYamlEdit();
+      if (!applied) {
+        return false;
+      }
+    }
+    await saveCurrentFormToMyForms();
+    return true;
+  }
+
   async function saveCurrentFormToMyForms() {
     const currentEditor = getCurrentEditor();
     const yaml = currentEditor.buildYaml();
@@ -918,7 +956,7 @@
       localFormId: null,
       category: 'custom_forms',
       updateUrl: true,
-      editorStatus: 'Blank form ready to edit.',
+      editorStatus: 'Blank form ready. Save it to My Forms when you want to keep it.',
       switchTab: 'editor'
     });
   }
@@ -946,7 +984,7 @@
 
     if (saveButton) {
       saveButton.addEventListener('click', () => {
-        saveCurrentFormToMyForms();
+        saveCurrentFormFromPage();
       });
     }
 
@@ -1191,7 +1229,7 @@
       formPath,
       localFormId: null,
       updateUrl: true,
-      editorStatus: getDraftStatusMessage('No local draft loaded.')
+      editorStatus: 'Library form ready. Save it to My Forms when you want a local copy.'
     });
   }
 
@@ -1237,7 +1275,10 @@
   window.saveYamlEdit = saveYamlEdit;
   window.cancelYamlEdit = cancelYamlEdit;
   window.downloadXlsx = downloadXlsx;
+  window.saveCurrentFormFromPage = saveCurrentFormFromPage;
   window.saveCurrentFormToMyForms = saveCurrentFormToMyForms;
+  window.openFormGuideModal = openFormGuideModal;
+  window.closeFormGuideModal = closeFormGuideModal;
   window.createNewBlankForm = createNewBlankForm;
 
   window.addEventListener('DOMContentLoaded', () => {
