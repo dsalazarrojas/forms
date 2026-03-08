@@ -1,7 +1,3 @@
-<thinking>
-We need to verify the form's purpose and ensure that the user hasn't already submitted the form to prevent duplication. This form is designed to collect participant details, breakdown timing, locations, and consent for the "Unicorn Breakdown Participation" process. The form fields require some explanation to ensure that users understand their relevance and intended use cases. The goal is to guide users through the submission process, ensuring they provide accurate and complete information without confusion. We will now create a concise user-facing help guide for this form.
-</thinking>
-
 # Unicorn Breakdown Participation Form - Help Guide
 ## Purpose
 This form is designed to collect participant details, breakdown timing, locations, and consent for the "Unicorn Breakdown Participation" process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to help collect relevant player information for soccer-related financial aid requests. It will be used to track and manage financial aid requests for soccer players. This form is not intended to be used for other sports. This form should only be filled out by players who are seeking financial aid specifically for their participation in soccer. There should be a separate form for other sports.
-</thinking>
-
 # soccer_financial_aid_agreement - Help Guide
 ## Purpose
 This form is designed to gather information from players who are seeking financial aid for soccer-related expenses. Please fill out the form below to provide the necessary details for processing your request.

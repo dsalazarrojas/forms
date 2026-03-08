@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information for a virtual contest registration. It is likely used for art, literature, or music contests where entrants can showcase their submissions. The form requires fields for the entrant's basic information such as name, email, phone number, and category of submission. Additionally, it includes fields for the submitter's contact information and their submission details like title, description, image, video, and audio file. The form is designed to be completed by both the entrant and the submitter.
-
-</thinking>
-
 # virtual-contest-registration-form - Help Guide
 ## Purpose
 This form is designed to collect information for a virtual contest registration. It is intended for art, literature, or music contests where entrants can showcase their submissions.

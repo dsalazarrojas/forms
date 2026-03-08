@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # In Person Training Registration Form - Help Guide
 
 ## Purpose

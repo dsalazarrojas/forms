@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to collect participant information and payment details for the Pole Bending Event. This form helps to ensure that all participants have a unique email and a valid payment method, and provides a field for any additional participant notes. This form is not intended to be completed multiple times by the same participant, so please do not submit this form more than once.
-</thinking>
-
 # Pole Bending Event Registration - Help Guide
 ## Purpose
 The Pole Bending Event Registration form is used to collect participant information and payment details for the event.

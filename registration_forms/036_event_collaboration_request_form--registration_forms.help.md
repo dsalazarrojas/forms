@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information about events that require collaboration with partners or sponsors. It's used to request support or partnership for events such as conferences, festivals, or other gatherings. When completing this form, please ensure that you are the authorized representative of your organization or event, and you're not duplicating an existing request. This will help us to process your request efficiently and effectively.
-
-</thinking>
-
 # Event Collaboration Request Form - Help Guide
 ## Purpose
 The Event Collaboration Request Form is a tool used to request collaboration or partnership for events such as conferences, festivals, or other gatherings. This form helps us to gather essential information about your event and your collaboration request.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # global_innovation_forum_registration_form - Help Guide
 
 ## Purpose

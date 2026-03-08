@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The `Football Camp Release Form` is a document designed for parents to provide informed consent and acknowledge risks associated with their child's participation in a football camp. This form is intended for parents to review, sign, and submit, ensuring they are aware of the camp's rules, risks, and responsibilities. To ensure accurate completion, please review each field carefully and answer accordingly.
 
 # Football Camp Release Form - Help Guide

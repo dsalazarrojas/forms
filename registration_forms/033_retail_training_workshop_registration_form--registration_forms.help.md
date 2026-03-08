@@ -1,24 +1,3 @@
-<thinking>
-We're creating a help guide for the "retail_training_workshop_registration_form" form. This form is designed to collect registration information from individuals who are interested in attending a retail training workshop. The goal of this form is to gather essential details from applicants, which will be used to manage the workshop's attendee list and ensure a smooth experience for all participants.
-
-Before proceeding, let's quickly review the form's purpose and fields:
-
-- Form name: "retail_training_workshop_registration_form"
-- Form type: Registration form for retail training workshop
-- Fields:
-  - First name
-  - Last name
-  - Email address
-  - Phone number
-  - Session preference (select one)
-  - Date of attendance
-  - Time of attendance
-  - Additional notes
-
-To ensure accuracy and clarity in filling out this form, please refer to the provided help guide.
-
-</thinking>
-
 # retail_training_workshop_registration_form - Help Guide
 ## Purpose
 The "retail_training_workshop_registration_form" is a registration form for individuals interested in attending a retail training workshop. This form collects necessary information to manage the workshop's attendee list and ensure a smooth experience for all participants.

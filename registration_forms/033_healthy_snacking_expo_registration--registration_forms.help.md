@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for attendees to register for the Healthy Snacking Expo, providing necessary information for their participation. This guide will walk you through the form fields and their purpose to ensure a smooth registration process.
-</thinking>
-
 # Healthy Snacking Expo Registration - Help Guide
 ## Purpose
 This form is for registering attendees to the Healthy Snacking Expo. Please fill out the form to provide us with your information and preferences.

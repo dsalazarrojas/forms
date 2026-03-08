@@ -1,10 +1,3 @@
-<thinking>
-This help guide is designed to assist users in understanding the purpose and process of completing the "science_fair_access_subscription_form" form. 
-This form is intended for registering event organizers and event participants for a science fair, providing necessary information for event management. 
-
-It's essential to review the form fields carefully to ensure accurate and complete input. Duplicate or incomplete submissions may result in delays or rejections. Please review this guide thoroughly to guarantee correct form completion. 
-</thinking>
-
 # science_fair_access_subscription_form - Help Guide
 ## Purpose
 The "science_fair_access_subscription_form" is a registration form used to gather essential information from event organizers and participants for a science fair event. The form is designed to ensure accurate and efficient event management.

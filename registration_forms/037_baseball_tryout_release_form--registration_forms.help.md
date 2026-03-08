@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather essential information from participants and parents or guardians before the participant attends a baseball tryout. This form is used to collect demographic information, medical history, and consent for liability and medical treatment. It's essential to fill out this form accurately and completely to ensure a smooth and safe tryout experience for the participant. Please note that some fields are required for the participant to be eligible for the tryout, and some fields are required for the participant's parent or guardian to provide consent.
-</thinking>
-
 # Baseball Tryout Release Form - Help Guide
 ## Purpose
 The Baseball Tryout Release Form is a crucial document that must be filled out by participants and their parents or guardians before they can attend a baseball tryout. This form serves as a waiver and consent document, allowing the organization to collect necessary information about the participant and their medical history.

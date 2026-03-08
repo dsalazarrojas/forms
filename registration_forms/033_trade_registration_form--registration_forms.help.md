@@ -1,5 +1,3 @@
-<thinking>...This form is designed for businesses to register their trade information for various reasons such as trade licenses, permits, or other official purposes. The form is divided into multiple pages, each covering different aspects of business information. To ensure accurate and complete registration, users should carefully review each field before submitting the form.</thinking>
-
 # Trade Registration Form - Help Guide
 ## Purpose
 This form is for businesses to register their trade information for official purposes.

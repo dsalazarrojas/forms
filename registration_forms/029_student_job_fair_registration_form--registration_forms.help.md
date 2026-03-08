@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Job Fair Registration Form - Help Guide
 ## Purpose
 This form is a registration form designed for students to provide their information, contact details, and job fair preferences. It includes fields for student information, contact details, job fair details, and submission of preferred job titles. The form is meant to be completed by students who wish to attend the job fair and interact with potential employers.

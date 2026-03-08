@@ -1,6 +1,3 @@
-<thinking>
-The form is designed to collect user information for trade season pass registration. It's likely used for events or festivals where users can purchase a pass for access to multiple days or specific events within a trade season. The purpose of this form is to gather essential details from users to efficiently process their pass registration. To avoid duplication, users should only submit the form once with accurate and complete information.</thinking>
-
 # trade-season-pass-registration - Help Guide
 ## Purpose
 The trade-season-pass-registration form is used to collect user information for trade season pass registration. This form is designed to gather essential details from users to process their pass registration efficiently.

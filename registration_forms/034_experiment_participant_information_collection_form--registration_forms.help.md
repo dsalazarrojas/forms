@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect demographic information about an experiment participant, including their name, contact information, education level, languages spoken, and interests.
-The form will likely be used by researchers or study administrators to gather data about participants for their experiment.
-Before completing this form, please ensure that you have not already submitted your information for this experiment. This will save you time and avoid duplicate submissions.
-</thinking>
-
 # Experiment Participant Information Collection Form - Help Guide
 ## Purpose
 The Experiment Participant Information Collection Form is used to gather demographic data about participants in an experiment.

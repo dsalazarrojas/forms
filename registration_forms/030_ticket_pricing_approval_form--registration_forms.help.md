@@ -1,6 +1,3 @@
-<thinking>
-This form is used for ticket pricing approval, allowing event organizers to submit their ticket pricing proposals for review and approval. The form is intended to gather necessary information from event organizers to ensure accurate and compliant pricing. To prevent duplicate submissions, this form should only be filled out by the authorized event organizer. Please ensure that all required fields are filled out and submitted correctly.</thinking>
-
 # Ticket Pricing Approval Form - Help Guide
 ## Purpose
 The Ticket Pricing Approval Form is used to submit ticket pricing proposals for review and approval. This form captures essential information about the event, ticket pricing, and related details from the event organizers.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registration to the Renewable Energy Manufacturing Conference. It allows users to provide their personal details, language preferences, and dietary restrictions, if any. Before proceeding, please ensure you are not already registered for this conference. To avoid any inconvenience, please fill out this form carefully.
-</thinking>
-
 # Renewable Energy Manufacturing Conference Registration - Help Guide
 ## Purpose
 The purpose of this form is to register you for the Renewable Energy Manufacturing Conference. Please fill out this form to provide your personal details and preferences to ensure a smooth and enjoyable experience for you at the conference.

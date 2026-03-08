@@ -1,8 +1,3 @@
-<thinking> 
-This form is intended to collect information about a Green Transport Initiative project. It is likely to be used by applicants who wish to apply for funding or support for their green transport projects. The form is designed to be a comprehensive collection of relevant details about the project, including project details, applicant information, and contact details. This form should only be filled out by individuals or organizations directly related to the project, to prevent duplication or misrepresentation of projects. Please note that all fields are optional except for those marked as required, which are necessary to ensure the completeness and accuracy of the project submission.
-
-</thinking>
-
 # Green Transport Initiative Application Form - Help Guide
 ## Purpose
 This form is used to collect information about Green Transport Initiative projects. It is intended for applicants who wish to apply for funding or support for their projects.

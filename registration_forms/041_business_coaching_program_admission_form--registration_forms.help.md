@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Coaching Program Admission Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Camp Registration Form PayPal Checkout - Help Guide
 
 ## Purpose

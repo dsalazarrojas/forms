@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register participants in a real estate data strategy program. The purpose of this form is to gather information about the participant's details, interests, location, and contact information. This form will help us to understand who is participating in the program, their areas of interest, and how to get in touch with them.
-</thinking>
-
 # real_estate_data_strategy_registration_form - Help Guide
 ## Purpose
 This form is used to register participants in a real estate data strategy program. It will help us to understand who is participating, their areas of interest, and how to contact them.

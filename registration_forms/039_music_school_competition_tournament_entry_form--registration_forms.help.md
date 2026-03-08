@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students, parents, and teachers for the Music School Competition Tournament Entry Form. It ensures that all necessary details are provided for a smooth and fair competition process. Please note that this form is intended for students who wish to participate in the music school competitions. 
-
-The form will be reviewed for relevance and non-duplication before submission. 
-
-</thinking>
-
 # Music School Competition Tournament Entry Form - Help Guide
 ## Purpose
 The Music School Competition Tournament Entry Form is a mandatory document required for students to participate in the music school competitions. It helps to gather essential information about each student's performance, their category of participation, and other relevant details.

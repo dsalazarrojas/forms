@@ -1,7 +1,3 @@
-<thinking>
-Are we sure the form is being used in a context where the end user is familiar with the concept of a "Model Fitting" and what it entails? Are we aware of any potential duplicates or similar forms that could cause confusion? Are we considering the needs and pain points of the end user? Are we considering any specific requirements or constraints that could impact the form design?
-</thinking>
-
 # Model Fitting Appointment Form - Help Guide
 ## Purpose
 This form is designed to help clients schedule appointments for hair model fittings. It collects essential information to book an appointment, allowing our stylists to prepare and deliver the best experience for you.

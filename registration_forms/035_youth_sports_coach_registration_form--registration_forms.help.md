@@ -1,6 +1,3 @@
-<thinking>
-This form is a crucial step in the process of registering a youth sports coach with our organization. It is used to collect relevant information about the coach, including their personal details, sports experience, and certifications. This form should only be filled out by coaches who are new to our organization and not already registered. If you have previously registered with us, please do not fill out this form again.</thinking>
-
 # Youth Sports Coach Registration Form - Help Guide
 ## Purpose
 This form is used to register a new youth sports coach with our organization. It requires information about the coach's personal details, sports experience, and certifications.

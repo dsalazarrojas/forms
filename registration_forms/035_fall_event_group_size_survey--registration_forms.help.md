@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information about the size and type of groups attending a fall event. The purpose of the form is to collect data on the demographic details of the groups, including their size, type, and preferences. This information will be used to better understand the needs and expectations of the groups and to provide them with the most suitable event experience.
-
-It's essential to note that this form is not a registration form for a specific event but a general survey to gather information about groups attending events in the fall. The information collected will help event organizers to plan and tailor their events to cater to the diverse needs of their attendees.
-
-Before proceeding, ensure that you are not duplicating an existing entry by checking the list of submitted forms.
-
-</thinking>
-
 # Fall Event Group Size Survey - Help Guide
 ## Purpose
 The Fall Event Group Size Survey is a form designed to collect demographic information about groups attending fall events. This data will help event organizers to better understand the needs and expectations of their attendees and tailor their events accordingly.

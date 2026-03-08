@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dream Life Workshop Registration - Help Guide
 
 ## Purpose

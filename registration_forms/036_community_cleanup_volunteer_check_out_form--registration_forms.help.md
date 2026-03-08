@@ -1,15 +1,3 @@
-<thinking>
-Internal reasoning:
-This form is designed to gather information from volunteers who have participated in a community cleanup event. The purpose of the form is to collect check-out details, which includes verifying the volunteer's identity, tracking their cleanup area, and ensuring they have returned all necessary tools. Additionally, the form aims to collect feedback and ratings from volunteers to improve future events.
-The form is divided into sections that cover:
-- Check-out details (name, ID, email, check-in and check-out times)
-- Cleanup results and impact (estimated number of bags collected, area cleaned)
-- Volunteer feedback and suggestions (rating, comments, suggestions)
-- Final submission and acknowledgment (digital signature, date of check-out)
-The form is designed to be completed in a straightforward and efficient manner, with most fields marked as "required" to ensure accurate and comprehensive data collection.
-
-</thinking>
-
 # Community Cleanup Volunteer Check Out Form - Help Guide
 
 ## Purpose

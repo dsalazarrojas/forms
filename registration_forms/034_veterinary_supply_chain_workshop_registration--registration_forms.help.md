@@ -1,11 +1,3 @@
-<thinking>
-Before generating the help guide, let's review the purpose of this form and the fields provided in the inputSchema:
-
-This form is for registering users to participate in a Veterinary Supply Chain Workshop. The form allows users to provide their user information, select their preferred dates, consent to share their data with specific entities, and provide contact information for the attendee (attendee's name, email, and phone number). The form has 8 fields in total, with only 2 required fields, indicating that the form is mostly optional and meant to gather additional information.
-
-The form is likely used for event registration, where attendees can choose their preferred dates, select which entities they consent to share their data with, and provide their contact information to be notified about updates or follow-ups.
-</thinking>
-
 # Veterinary Supply Chain Workshop Registration - Help Guide
 ## Purpose
 This form is for registering users to participate in the Veterinary Supply Chain Workshop. It allows attendees to provide their information, select their preferred dates, and consent to share their data with various entities.

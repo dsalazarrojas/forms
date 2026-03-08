@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Choir Media Release Waiver Form - Help Guide
 
 ## Purpose

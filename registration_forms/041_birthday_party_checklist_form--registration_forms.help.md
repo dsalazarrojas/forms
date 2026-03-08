@@ -1,7 +1,3 @@
-<thinking>
-The form is used to create a comprehensive checklist for planning a birthday party. This form helps users to organize and track various aspects of party planning, including guest list, decorations, food, drinks, activities, and supplies. The form is useful for party hosts to ensure that all necessary tasks are completed and all aspects of the party are taken care of. This form can also be used as a reference point for future parties and can be modified to suit the specific needs of each party. It's essential to fill out the form carefully and thoroughly to guarantee a successful and stress-free party experience.
-</thinking>
-
 # Birthday Party Checklist Form - Help Guide
 ## Purpose
 This form is designed to help you plan and organize a birthday party by guiding you through various stages of party planning, from guest list and invitations to decorations, food, and supplies.

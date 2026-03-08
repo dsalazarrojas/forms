@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registration to a workplace recognition event. It's essential to ensure that the attendee's information is accurate and complete to facilitate proper recognition and communication. Please verify that you have the necessary permissions to register for this event. If you've registered for this event before, please do not register again.
-</thinking>
-
 # Workplace Recognition Event Registration - Help Guide
 ## Purpose
 This form is used to register for a workplace recognition event. It gathers essential information about the attendee, including their name, contact details, and event-specific data.

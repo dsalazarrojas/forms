@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed for participants to register for an employer branding workshop. It's used to gather information about the participant, which will be helpful for the workshop organizers to plan and prepare for the event. The form should be filled out by each participant to provide accurate and up-to-date information. 
-</thinking>
-
-# employer_branding_workshop_registration_form - Help Guide
+> # employer_branding_workshop_registration_form - Help Guide
 ## Purpose
 This form is meant for registration of participants to the Employer Branding workshop.
 

@@ -1,8 +1,3 @@
-<thinking>
-The Aqua Registration And Waiver Form is used for participants to register for programs or activities offered by the aquatics facility. It's essential to complete this form accurately to ensure that the participant's information is up-to-date and their needs are met.
-Before proceeding, ensure that you haven't already registered or filled out a similar form, as this can cause duplicate entries in our system.
-</thinking>
-
 # Aqua Registration And Waiver Form - Help Guide
 
 ## Purpose

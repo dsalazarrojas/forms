@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture registration information for the Data Analytics Retail Bootcamp, which is a training program focused on data analytics and retail strategies. The form should only be filled out once, and it's essential that each participant fills it out accurately and completely. To ensure a smooth registration process, please review the fields carefully and provide clear and concise information. The form is divided into several sections, each with its own fields and requirements. Please make sure to fill out all required fields and take note of the optional ones.
-</thinking>
-
 # Data Analytics Retail Bootcamp Registration Form - Help Guide
 ## Purpose
 The Data Analytics Retail Bootcamp Registration Form is designed to collect information from participants to facilitate their registration and preparation for the bootcamp. It is crucial to fill out this form accurately and completely to ensure that you receive the necessary materials and have a smooth experience during the bootcamp.

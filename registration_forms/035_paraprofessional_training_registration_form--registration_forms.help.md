@@ -1,9 +1,3 @@
-<thinking>
-The Paraprofessional Training Registration Form is designed for professionals to register for training sessions. It collects relevant information to facilitate the training process. Please ensure the form is filled out correctly to avoid delays in receiving training materials or being contacted about missing information.
-The form is not intended for duplicate registrations. Each unique registration will be treated as a new request.
-Before completing this form, please ensure you are registering under the correct training type and dates.
-</thinking>
-
 # Paraprofessional Training Registration Form - Help Guide
 
 ## Purpose

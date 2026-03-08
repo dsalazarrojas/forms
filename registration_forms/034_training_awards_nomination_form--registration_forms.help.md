@@ -1,5 +1,3 @@
-<thinking>...The form is a "training awards nomination form" used to gather information for nominating colleagues, peers, or managers for recognition and rewards related to their training and development activities. The form helps in identifying and acknowledging outstanding performance, skills, and achievements of individuals within the training department or organization. To ensure a successful nomination, please review the following guidelines:... </thinking>
-
 # training_awards_nomination_form - Help Guide
 ## Purpose
 The form is used to gather information for nominating individuals for recognition and rewards related to their training and development activities.

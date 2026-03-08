@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in making a reservation on an island. The form will gather details about the customer's travel dates, preferences, and contact information. It will also collect payment details and customer agreement information.
-To prevent duplicate submissions and ensure that customers are correctly filling out the form for their intended purpose, I will include questions and hints to guide them through the process.
-
-The fields in this form are divided into several categories to ensure a smooth and efficient process.
-
-The form is intended to be filled out by customers who are interested in making a reservation on an island. It is not intended for general inquiries or other purposes.
-</thinking>
-
 # Island Reservation Form - Help Guide
 
 ## Purpose

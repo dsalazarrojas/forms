@@ -1,8 +1,3 @@
-<thinking>
-The form is used for registering attendees for a health conference. This form is likely to be used by healthcare professionals who want to attend the conference. The purpose of the form is to collect information about the attendees, including their personal details, area of specialty, and a brief bio.
-Before filling out the form, please make sure you have not already registered for this conference. If you have any doubts, you can check the conference website or contact the conference organizers.
-</thinking>
-
 # Health Conference Registration Form - Help Guide
 ## Purpose
 The Health Conference Registration Form is used to collect information from healthcare professionals who want to attend the conference. This form is designed to be completed by the attendees to provide their details and preferences for the conference.

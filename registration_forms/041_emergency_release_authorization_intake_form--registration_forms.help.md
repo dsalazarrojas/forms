@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information about the emergency contact person and their relationship with the individual in need of care or support. This form ensures that in case of an emergency, the emergency contact person can be reached and informed. It is designed for internal use within an organization and is not intended for public use. Please ensure that you are completing this form for a genuine reason and not duplicating efforts.
-
-Before starting, please review the provided fields and their explanations to ensure you understand what information is required and why.
-
-Please note that the fields marked as "required" are mandatory and must be completed to proceed.
-
-</thinking>
-
 # Emergency Release Authorization Intake Form - Help Guide
 ## Purpose
 This form is used to collect information about emergency contact persons and their relationship with the individual in need of care or support.

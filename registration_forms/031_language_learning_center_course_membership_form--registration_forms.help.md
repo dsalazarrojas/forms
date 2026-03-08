@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from users who want to join the Language Learning Center's course membership program. The form is meant to gather details about the user, their preferred time slots, language of interest, chosen course, and any additional comments or notes they may have. This information will be used to assign a suitable tool and tool type to the user based on their preferences.
-</thinking>
-
 # Language Learning Center Course Membership Form - Help Guide
 ## Purpose
 This form is used to register for the Language Learning Center's course membership program. Please fill out the form with your details and preferences to be assigned a suitable tool and tool type for your course.

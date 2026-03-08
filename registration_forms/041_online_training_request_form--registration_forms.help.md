@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # online-training-request-form - Help Guide
 ## Purpose
 This form is for requesting online training sessions. It is designed to collect information about the user's preferences and requirements for a training session. This form is intended to be completed by users who wish to request online training sessions for themselves or their organization. 

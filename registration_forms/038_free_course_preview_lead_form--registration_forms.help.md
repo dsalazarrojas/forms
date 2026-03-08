@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended for the "free_course_preview_lead_form" form, a registration form that collects information from users who are interested in previewing a free course. The form is designed to gather basic contact information and preferences for follow-up communication. The form is not intended to capture sensitive or financial information, and users may fill it out for the purpose of expressing interest in a course without committing to a purchase.
-
-The form has two main sections: a contact information section and a follow-up preferences section. The contact information section includes fields for first name, email, phone number, and additional emails and names. The follow-up preferences section includes fields for preferred contact method (phone, email, or both), a date and time for follow-up, and a field for additional notes.
-
-To avoid duplication and ensure accurate communication, users are encouraged to fill out the form once and provide only one instance of each type of information (e.g., only one email address, only one phone number).
-
-</thinking>
-
 # free_course_preview_lead_form - Help Guide
 ## Purpose
 The free_course_preview_lead_form is a registration form designed to gather contact information and follow-up preferences from users interested in previewing a free course. Fill out this form to express your interest in a course without committing to a purchase.

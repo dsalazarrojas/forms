@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Fashion Designer Luncheon RSVP Form - Help Guide
 ## Purpose
 This form is used for Fashion Designer Luncheon RSVP registration, where you can provide your personal details such as name, email, and phone number to help us know who's attending.

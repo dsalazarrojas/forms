@@ -1,10 +1,3 @@
-<thinking>
-This form is for collecting participant consent for research or other purposes. 
-This form is likely used in research, academia, or other settings where participants provide some form of consent, such as signing a document, agreeing to a certain condition, or providing information. 
-This form may be used in conjunction with other forms or surveys to collect additional information. 
-It's recommended that the form be completed with care and attention to ensure participant information is accurate and up-to-date.
-</thinking>
-
 # Participant Consent Form Upload - Help Guide
 
 ## Purpose

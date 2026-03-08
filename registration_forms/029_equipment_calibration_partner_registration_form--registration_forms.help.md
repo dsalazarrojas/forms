@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for equipment calibration partners to register themselves with the organization. It collects information about the vendor details, contact information, address, phone number, email, fax number, equipment, equipment type, and calibrations offered. The form is designed to be completed by authorized representatives of the equipment calibration partners. The form data will be used to create a partner database for future communication and collaboration. Please ensure that you are an authorized representative before filling out this form, and that the information provided is accurate and up-to-date. This form is not intended for customers or other non-partner entities.
-</thinking>
-
 # Equipment Calibration Partner Registration Form - Help Guide
 ## Purpose
 The Equipment Calibration Partner Registration Form is a document used to collect information from equipment calibration partners, including vendor details, contact information, and equipment specifics. This form is essential for establishing and maintaining partnerships between the organization and its equipment calibration partners.

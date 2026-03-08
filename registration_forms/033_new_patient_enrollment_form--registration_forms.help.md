@@ -1,7 +1,3 @@
-<thinking>
-This form is used for new patient enrollment, which is a process for patients to provide their personal and contact information when they first visit a healthcare provider or medical facility. This form is designed to help gather necessary details about the patient's medical history, emergency contacts, and other relevant information for their medical care. The fields included in this form are general and not specific to any particular healthcare provider or facility.
-</thinking>
-
 # New Patient Enrollment Form - Help Guide
 ## Purpose
 This form is for new patients to provide their personal and contact information when they first visit a healthcare provider or medical facility.

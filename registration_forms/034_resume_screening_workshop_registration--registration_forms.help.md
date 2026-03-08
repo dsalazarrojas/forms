@@ -1,7 +1,3 @@
-<thinking>
-This form is likely used by HR or HR-related teams to gather information from individuals about their attendance and preferences for a resume screening workshop. The purpose of this form is to collect details about the individual's workshop experience, such as their attendance, session preferences, and workshop expectations. To avoid duplication of efforts, the form may be used to screen attendees before the workshop to ensure that they are well-versed on the topic and will be able to actively participate in the workshop.
-</thinking>
-
 # Resume Screening Workshop Registration - Help Guide
 ## Purpose
 This form is used to collect information from attendees to the Resume Screening Workshop. 

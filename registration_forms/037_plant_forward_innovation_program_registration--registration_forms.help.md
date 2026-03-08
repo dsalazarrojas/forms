@@ -1,19 +1,3 @@
-<thinking>
-This form is for registering applications to the "Plant Forward Innovation Program". The purpose of this form is to gather information about the applicant, their project, and any supporting files. The form is not intended for multiple submissions; once a submission is made, it should not be resubmitted. 
-
-The form has several sections, including "Application Information", "Contact Information", "Program Interest", "Project Description", and "Attachments". 
-
-The "Application Information" section captures the basic contact information of the applicant. The "Program Interest" section allows the applicant to select which type of program they are interested in, and the "Project Description" section is where the applicant can provide a detailed description of their project. 
-
-The "Attachments" section allows the applicant to upload up to 5 files to support their application. 
-
-The form is designed to be completed by the applicant and should be done so in a straightforward and clear manner. 
-
-This guide will walk you through each section of the form to ensure that you complete it accurately and successfully. 
-
-Please note that all fields marked as "required" are mandatory and must be completed. If a field is marked as "optional", it can be skipped or left blank if not applicable. 
-</thinking>
-
 # Plant Forward Innovation Program Registration - Help Guide
 ## Purpose
 The purpose of this form is to register an application to the "Plant Forward Innovation Program". This form is meant to capture contact information, project details, and attachments to support the application. 

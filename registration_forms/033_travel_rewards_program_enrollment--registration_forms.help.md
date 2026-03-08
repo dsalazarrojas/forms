@@ -1,9 +1,3 @@
-<thinking>
-This form is for users to enroll in the travel rewards program. The purpose of this form is to gather essential information from the user. Please ensure this form is not already populated with information, as this would be an error.
-
-To complete this form, click on the "Member Sign Up" page. Then, fill in your details for "First Name", "Last Name", and provide a valid "Email". Next, select your city of residence from "Address". Finally, input your "Phone Number" and confirm with "Segment Pledge".
-</thinking>
-
 # Travel Rewards Program Enrollment - Help Guide
 ## Purpose
 The Travel Rewards Program Enrollment form is a user-facing form designed to collect information from individuals interested in enrolling in the travel rewards program.

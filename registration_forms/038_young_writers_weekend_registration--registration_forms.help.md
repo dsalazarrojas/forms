@@ -1,7 +1,3 @@
-<thinking>
-The Young Writers Weekend Registration form is designed to gather information from participants who wish to attend the Young Writers Weekend. This form will help us understand their preferences and needs, including their workshop preferences and payment status. It is intended for end-users who wish to register for the Young Writers Weekend event. Before proceeding, please ensure that you are eligible to register and are not attempting to register multiple users at once. Duplicate registrations will be rejected.
-</thinking>
-
 # Young Writers Weekend Registration - Help Guide
 ## Purpose
 The Young Writers Weekend Registration form is designed to collect information from participants for the Young Writers Weekend event.

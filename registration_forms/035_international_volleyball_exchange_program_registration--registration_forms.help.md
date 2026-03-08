@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering users for the International Volleyball Exchange Program. It is recommended that users read this guide carefully before filling out the form. 
-</thinking>
-
 # International Volleyball Exchange Program Registration - Help Guide
 ## Purpose
 This form is used to register participants for the International Volleyball Exchange Program. It is essential to provide accurate and complete information in the form to ensure a smooth and successful experience.

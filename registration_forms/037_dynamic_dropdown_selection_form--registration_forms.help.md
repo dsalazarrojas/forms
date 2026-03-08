@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect various types of information from users, including first and last names, date of birth, time of day, email address, phone number, and multiple selection fields (e.g., "Select One", "Select Multiple"). The form is intended to be a template that can be easily duplicated and customized for different purposes, with two separate sets of fields for "first" and "second" types of information.
-
-This form will not check for duplication, so users may need to fill out multiple versions of the same form to create multiple records.
-
-</thinking>
-
 # Dynamic Dropdown Selection Form - Help Guide
 ## Purpose
 

@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a registration form for a crisis management planning workshop. The purpose of this form is to collect participant information for the workshop. The form is designed to gather basic contact information, participant details, and organizational details. The fields are mostly optional, suggesting that the form is meant to be completed by participants who want to provide their information voluntarily. The form also includes a mix of text, email, select, and note fields, indicating that it may be used for both personal and organizational registration.
-
-To determine if this form is a duplicate or not, I'll check the form's purpose and content. Based on the provided YAML, this form seems to be a unique registration form for a specific workshop.
-
-Upon reviewing the form's content, I can see that it collects contact information (email, phone, and name), participant details (name, job title, department, location, and notes), and organization information (name, address, phone, and email). The form also includes confirm fields for both participant and organization information, which could be used to verify the accuracy of the submitted data.
-
-The form's structure suggests that it is designed for registration purposes, and the fields are mostly self-explanatory. The form's purpose and content are clear, and it is likely that this form is a specific registration form for a workshop.
-
-</thinking>
-
 # crisis_management_planning_workshop_registration - Help Guide
 ## Purpose
 The crisis management planning workshop registration form is a tool designed to collect participant information for the workshop.

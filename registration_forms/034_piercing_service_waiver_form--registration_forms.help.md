@@ -1,5 +1,3 @@
-<thinking>...checking if form purpose is clear and relevant... verifying if fields are correctly labeled and properly aligned with the form's goal... ensuring that the help guide is concise and practical...</thinking>
-
 # Piercing Service Waiver Form - Help Guide
 ## Purpose
 This form is used to obtain the necessary consent and signatures from clients for piercing services. It ensures that clients understand the risks involved and agree to the terms of service.

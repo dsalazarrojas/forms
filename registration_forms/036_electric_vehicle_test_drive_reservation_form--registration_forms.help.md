@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering customers for an electric vehicle test drive. To ensure the form is filled out correctly, please note that it is intended for customers who are interested in test driving an electric vehicle. The form should only be filled out by customers who have not already test driven an electric vehicle with our company. If the customer has already test driven with us, please contact the dealer directly to update their information.
-</thinking>
-
 # electric_vehicle_test_drive_reservation_form - Help Guide
 ## Purpose
 The electric_vehicle_test_drive_reservation_form is used to register customers for an electric vehicle test drive. This form collects essential customer and vehicle information to facilitate a smooth test drive experience.

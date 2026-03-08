@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Crowd Flow Simulation Application Form - Help Guide
 ## Purpose
 The Crowd Flow Simulation Application Form is designed to gather information about a project's registration forms, including details such as project title, description, start and end dates, contact information, and participant details. This form helps project organizers gather necessary data to manage and coordinate project activities effectively.

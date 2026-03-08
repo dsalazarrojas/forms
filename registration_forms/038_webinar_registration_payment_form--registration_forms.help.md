@@ -1,12 +1,3 @@
-<thinking>
-# The purpose of this form is to collect registration information and payment details for attendees of a webinar.
-The form is designed to capture essential data for event organizers to efficiently process attendee registrations.
-This form is intended for public use, ensuring that attendees can quickly and easily provide their details and payment information.
-Before filling out this form, please ensure that you are registering for a webinar that you are authorized to attend.
-Additionally, be aware that filling out this form does not guarantee your spot at the webinar.
-To confirm your attendance, please contact the event organizers directly.
-</thinking>
-
 # Webinar Registration Payment Form - Help Guide
 ## Purpose
 The Webinar Registration Payment Form is a crucial tool for gathering essential details from webinar attendees. It is designed for event organizers to collect attendee information, payment details, and track registration and payment statuses.

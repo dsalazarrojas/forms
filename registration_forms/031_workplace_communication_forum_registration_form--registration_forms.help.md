@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from employees or team members about their workplace communication preferences and work-related details. The form will ask for personal details such as first and last name, email, phone number, and date of birth. It will also collect information about their workplace, department, team, job title, manager, team lead, job status, role, reporting line, work location, work start and end date, work shift, role description, job description, job requirements, work hours, and availability. The form is intended to help managers and team leads understand who is available to communicate and work on specific projects or tasks. It is also useful for HR to keep track of employee details and preferences.
-To avoid duplication, please fill out this form only once.
-</thinking>
-
 # Workplace Communication Forum Registration Form - Help Guide
 ## Purpose
 The Workplace Communication Forum Registration Form is designed to collect information about employees or team members' workplace communication preferences and work-related details. This form helps managers and team leads understand who is available to communicate and work on specific projects or tasks, and HR to keep track of employee details and preferences.

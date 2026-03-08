@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information from individuals who wish to be admitted into a special needs education training program. The form should only be filled out by individuals who have not already been admitted into the program. Please do not submit duplicate forms. This form is designed to be completed by the individual themselves, but in some cases it may be completed by a parent/guardian on behalf of the individual. If this form is being completed by a parent/guardian, please ensure that you have the individual's consent to do so... </thinking>
-
 # Special Needs Education Training Admission Form - Help Guide
 ## Purpose
 The Special Needs Education Training Admission Form is used to collect information from individuals who wish to be admitted into a special needs education training program.

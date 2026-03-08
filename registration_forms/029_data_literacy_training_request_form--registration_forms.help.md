@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be for requesting data literacy training for participants, gathering details about their preferences and requirements for the training session. The purpose of this form is to provide trainers with necessary information about the participants and their preferences to deliver the training effectively. The form is designed to collect participant details, session preferences, date, time, training type, and other relevant information.
-</thinking>
-
 # Data Literacy Training Request Form - Help Guide
 ## Purpose
 The Data Literacy Training Request Form is designed to collect information from participants about their training preferences, needs, and requirements. This form will help trainers to tailor the training sessions to meet the needs of the participants.

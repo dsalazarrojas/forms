@@ -1,9 +1,3 @@
-<thinking>
-The form is intended to collect personal information from clients who are seeking tax services. This form is likely used by tax professionals or accountants to gather relevant details about the client's personal and financial situation. The purpose of the form is to ensure that the client's needs are met and that the tax professional has the necessary information to provide accurate and efficient tax services. 
-To avoid duplication, it's essential to ensure that the client is not already registered or has not submitted the same form in the past. 
-This guide will walk you through the fields in the form, ensuring that the client completes it accurately and efficiently.
-</thinking>
-
 # Personal Tax Client Intake Form - Help Guide
 
 ## Purpose

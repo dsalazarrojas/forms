@@ -1,7 +1,3 @@
-<thinking>
-The purpose of the "creative_concept_developer_application_form" is to collect information from potential applicants for a creative concept developer position. This form is designed to gather relevant details about the applicant's background, experience, and skills. It is essential to fill out this form accurately to provide the best possible information for the application review process. Please note that this form is not intended to be filled out multiple times.
-</thinking>
-
 # creative_concept_developer_application_form - Help Guide
 ## Purpose
 The "creative_concept_developer_application_form" is a form designed to collect information from potential applicants for a creative concept developer position. Fill out this form to provide relevant details about your background, experience, and skills.

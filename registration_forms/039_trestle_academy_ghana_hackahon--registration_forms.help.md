@@ -1,7 +1,3 @@
-<thinking>
-The Trestle Academy Ghana Hackathon form is designed for participants to provide their personal and logistical information for the hackathon event. This information will be used to prepare for the event and ensure that participants have a comfortable and enjoyable experience. Please make sure to fill out the form accurately and thoroughly, as it will help us better understand your needs and preferences.
-</thinking>
-
 # Trestle_Academy_Ghana_Hackahon - Help Guide
 ## Purpose
 The form is for registering for the Trestle Academy Ghana Hackathon event. It will help us understand your preferences, needs, and logistical arrangements for the event.

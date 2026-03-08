@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is intended to gather information from gym facility users (both members and guests) to grant them access to the gym facility. The form is divided into sections for member and guest information, as well as for access level and category selection. This information will help the gym management to manage access permissions and track visitor records.
-
-The purpose of this form is to streamline the process of granting access to the gym facility, ensuring that all necessary details are captured accurately and securely.
-
-</thinking>
-
 # Gym Facility Access Form - Help Guide
 ## Purpose
 The Gym Facility Access Form is designed to collect information from gym facility users (members and guests) to grant them access to the gym facility. This form helps the gym management to track and manage visitor records, ensuring that users have the necessary permissions and access levels to enter the facility.

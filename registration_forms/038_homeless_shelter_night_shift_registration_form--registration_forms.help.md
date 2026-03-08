@@ -1,7 +1,3 @@
-<thinking>
-This help guide is meant to be used by homeless shelter staff to register their shifts. The form is used to collect information about the staff member's availability and duties during their assigned shifts. This form is likely to be used internally for scheduling and management purposes. There is no internal or external validation on this form, it is a straightforward information gathering form.
-</thinking>
-
 # Homeless Shelter Night Shift Registration Form - Help Guide
 ## Purpose
 The Homeless Shelter Night Shift Registration Form is designed to collect information about your availability and duties during your assigned shifts. This form is used for internal purposes by homeless shelter staff to manage shift schedules.

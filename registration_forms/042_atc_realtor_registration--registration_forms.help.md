@@ -1,5 +1,3 @@
-<thinking>Before generating the help guide, let's break down the form's purpose and the fields involved. This form is designed for realtors to register for a program, likely focused on debt-to-wealth strategies. The goal is to gather information about the realtor's background, experience, and goals. The form is structured to collect various aspects of the realtor's business, such as their name, contact information, experience, and goals for joining the program. The fields are a mix of text inputs for personal information, select-one options for experience levels and goals, and select-multiple options for availability and marketing channels. It's essential to ensure that the realtor understands the purpose and requirements of the form to fill it out accurately.</thinking>
-
 # ATC Realtor Registration - Help Guide
 ## Purpose
 This form is designed for realtors to register for the Debt to Wealth program. It helps us understand your background, experience, and goals as a realtor and ensures you understand the program's policies and requirements.

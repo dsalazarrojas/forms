@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to consider that this "Supplier Check In Form" is likely intended for logistics and supply chain management purposes. It probably serves to track and record supplier information for deliveries, pickups, or other interactions. This form might be used by warehouse staff, delivery personnel, or customer service agents to ensure accurate and efficient communication with suppliers. When completing this form, it's essential to ensure the correct supplier company and contact name are provided to avoid miscommunication or delays. Additionally, the delivery date and time fields are crucial for scheduling and planning. This form should not be completed by the supplier themselves, but rather by someone in the logistics or administrative team.
-
-</thinking>
-
 # Supplier Check In Form - Help Guide
 
 ## Purpose

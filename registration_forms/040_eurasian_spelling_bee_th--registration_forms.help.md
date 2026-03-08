@@ -1,7 +1,3 @@
-<thinking>Form purpose: This form is for individuals to provide registration information for the Eurasian Spelling Bee TH. Form fields include First Name, Last Name, Eurasian ID, and Date of Birth. This form will be used for registration purposes only. No data is being collected for marketing or spamming. This form is not affiliated with or endorsed by any form creation platform. It is an AI-generated form released under CC BY 4.0 license. You are free to use, modify, or even sell this form, just give credit.
-
-</thinking>
-
 # eurasian spelling bee th - Help Guide
 ## Purpose
 The "Eurasian Spelling Bee TH" form is designed for individuals to register their information for the Eurasian Spelling Bee event. This form collects basic personal details that will be used for registration purposes only.

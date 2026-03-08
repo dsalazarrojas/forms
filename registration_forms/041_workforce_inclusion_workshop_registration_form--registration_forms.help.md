@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is intended for users to register for a "Workforce Inclusion Workshop" and collect their contact information and preferences. The purpose of this form is to provide a streamlined way for attendees to sign up for the workshop without requiring extensive information. 
 
 - The form is meant to be used once during registration for the workshop.

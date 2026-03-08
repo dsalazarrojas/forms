@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for hospitality suite managers to register their information for the first time, providing general details about themselves, their experience, availability, and documents required for their position. This form should only be filled out once by each manager, and should not be repeated or duplicated. It is essential to fill out this form accurately and completely, as it will be used to create their profile for future reference.
-</thinking>
-
 # hospitality_suite_manager_registration_form - Help Guide
 ## Purpose
 

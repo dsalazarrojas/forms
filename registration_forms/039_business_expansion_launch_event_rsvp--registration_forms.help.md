@@ -1,11 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Business Expansion Launch Event RSVP form. The form is used to collect information from guests about their attendance and preferences for a business expansion launch event.
-To ensure data accuracy and relevance, please note the following:
-* The form is used to gather information from individuals who are planning to attend the event.
-* The form should only be filled out by individuals who are actually attending the event.
-* Please provide accurate and clear information about your attendance and preferences.
-</thinking>
-
 # Business Expansion Launch Event RSVP - Help Guide
 
 ## Purpose

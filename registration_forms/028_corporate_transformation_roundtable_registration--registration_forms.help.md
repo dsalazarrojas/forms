@@ -1,11 +1,3 @@
-<thinking>
-
-**Internal Reasoning Behind This Form**
-
-This form is designed to help participants register for the Corporate Transformation Roundtable, a valuable platform for executives to engage in discussions, share experiences, and learn from one another. The purpose of this form is to collect basic contact information and relevant details from interested executives, so we can better tailor our event to their needs and preferences. This information will not be used for any other purpose beyond sending out event details and reminders.
-
-</thinking>
-
 # Corporate Transformation Roundtable Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from interested executives to participate in the Corporate Transformation Roundtable event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # VIP Membership Renewal Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Smart Metering Initiative Registration - Help Guide**
 
 ## Purpose

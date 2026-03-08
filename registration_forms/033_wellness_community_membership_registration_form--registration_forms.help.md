@@ -1,7 +1,3 @@
-<thinking>
-The Wellness Community Membership Registration Form is used to onboard new members into the wellness community. This form will guide you in creating a new member registration form that captures essential details about the member, their preferences, and payment information. Ensure you are aware of the membership plan and payment method before proceeding. This form should not be completed by existing members. Please ensure that the member is aware of and agrees to the terms and conditions, privacy policy, and sharing of member data before proceeding with the registration process.
-
-</thinking>
 # Wellness Community Membership Registration Form - Help Guide
 
 ## Purpose

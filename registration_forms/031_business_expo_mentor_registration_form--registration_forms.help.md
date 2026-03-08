@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Business Expo Mentor Registration Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register participants for an evaluation meeting, and its purpose is to gather information about the meeting, such as date, time, location, and participant details. This form is a crucial step in the meeting planning process as it ensures that the necessary information is collected for the meeting's organization and follow-up.
-</thinking>
-
 # Evaluation Meeting Registration Form - Help Guide
 ## Purpose
 The Evaluation Meeting Registration Form is a crucial tool for planning and organizing evaluation meetings. It helps to collect essential details about the meeting, allowing for effective organization and communication.

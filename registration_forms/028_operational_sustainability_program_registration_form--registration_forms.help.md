@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information for the Operational Sustainability Program, which is a process that aims to ensure the ongoing success and effectiveness of various programs within the organization. This form is used to register new programs and track their progress.
-Before starting the form, please note that you may only submit one program at a time. If you need to register multiple programs, please submit each one separately.
-This form is divided into several sections, each with specific fields that require information. Please read through each section carefully to ensure you have all the required information before submitting.
-</thinking>
-
 # Operational Sustainability Program Registration Form - Help Guide
 ## Purpose
 The Operational Sustainability Program Registration Form is used to register new programs and track their progress.

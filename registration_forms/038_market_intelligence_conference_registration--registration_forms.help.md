@@ -1,8 +1,3 @@
-<thinking>
-This form is a registration form for the Market Intelligence Conference. It will be used to gather information from attendees about their session interests and requirements. The goal is to create a comprehensive list of attendees who have expressed interest in various sessions. This form will help the conference organizers to better understand the attendees' preferences and tailor the event accordingly. This form should not be completed by those who are not attending the conference, as it's intended for registered attendees only. 
-
-</thinking>
-
 # market_intelligence_conference_registration - Help Guide
 ## Purpose
 The Market Intelligence Conference registration form is a tool for attendees to express their interests and requirements for the conference sessions. It helps the conference organizers to tailor the event to the attendees' needs and preferences.

@@ -1,14 +1,3 @@
-<thinking>
-This form is for registration of charity fundraiser vendors. The main goal is to collect necessary information from vendors to facilitate their participation in the event. This form is required for all vendors who wish to vend at the charity fundraiser.
-
-Before filling out this form, ensure that you have read and understand the terms and conditions of the event. If you have any questions or need clarification on any of the fields, please don't hesitate to reach out to the organizers.
-
-The form will be reviewed and validated by event organizers to ensure that all necessary information is complete and accurate. Incomplete or inaccurate submissions may result in delays or denial of participation.
-
-This form has multiple fields to gather various details from vendors, including contact information, event details, and payment and logistical information. Please fill out the form carefully and honestly, and do not repeat your application if you've already done so in the past.
-
-</thinking>
-
 # Charity Fundraiser Vendor Registration - Help Guide
 ## Purpose
 This form is for registration of charity fundraiser vendors. The main goal is to collect necessary information from vendors to facilitate their participation in the event.

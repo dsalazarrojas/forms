@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical Humanities Conference Registration - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for registration purposes, specifically for the Second Term Childcare Program. It is a multi-page form designed to collect information from users. The form is not affiliated with or endorsed by any form platform, and it is an original adaptation created using AI. It is released under the Creative Commons BY 4.0 license, allowing users to use, modify, and even sell forms derived from it, as long as they give credit.
-</thinking>
-
 # Second Term Childcare Program Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from parents or guardians for the Second Term Childcare Program.

@@ -1,9 +1,3 @@
-<thinking>Before diving into the help guide, let's break down the internal reasoning behind this form. The shipper_intake_form is designed to collect information from shipper (shipping) companies or individuals for package delivery purposes. The form likely serves as a data collection tool for tracking and managing package deliveries. It's possible that the form is used in a logistics or shipping management system.
-
-The form consists of multiple pages with various fields, including text, date, time, number, email, select options, and note fields. These fields cover a range of information, from shipper details and package specifics to package status and tracking numbers. The presence of fields like shipper_signature_date, shipper_signature_time, and shipper_signature_note suggests that the form might be used for electronic or paper-based signature capture.
-
-Given the variety of fields, it's essential to ensure that each field is explained in a clear and concise manner to avoid confusion. In this help guide, we will focus on walking through each field and providing step-by-step instructions on how to complete the form.</thinking>
-
 # shipper_intake_form - Help Guide
 ## Purpose
 The shipper_intake_form is a data collection tool used for tracking and managing package deliveries from shippers.

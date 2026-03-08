@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for attendees to register for the Inclusive Tourism Innovation Summit, providing information about themselves, their accessibility needs, session interests, dietary preferences, and submitting their registration. To ensure accurate and complete data, this guide will help users understand the purpose and structure of the form.
-</thinking>
-
 # Inclusive Tourism Innovation Summit Registration - Help Guide
 ## Purpose
 The Inclusive Tourism Innovation Summit Registration form is used to gather information from attendees about their participation in the summit. By filling out this form, you will be able to provide essential details about yourself, your accessibility requirements, and your interests for the summit.

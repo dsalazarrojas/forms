@@ -1,5 +1,3 @@
-<thinking>Are you looking to create a comprehensive guide for your "strategic_investment_forum_registration_form"? Let's break down the form's purpose and fields to ensure users understand what's required and what's expected of them.</thinking>
-
 # strategic_investment_forum_registration_form - Help Guide
 ## Purpose
 This form is designed for users to register for a strategic investment forum. The purpose of this form is to collect relevant information from users to facilitate their participation in the forum.

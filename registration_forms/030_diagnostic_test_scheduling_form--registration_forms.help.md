@@ -1,9 +1,3 @@
-<thinking>
-The Diagnostic Test Scheduling Form is used to schedule a diagnostic test for patients. It captures essential information about the test, such as the patient's details, the type of test, the date and time of the test, the provider conducting the test, and the test's status and any additional notes. This form helps ensure that the test is correctly scheduled and all relevant information is recorded.
-
-To avoid duplication, please note that this form is intended for new test scheduling purposes only and should not be used to update existing test schedules.
-</thinking>
-
 # Diagnostic Test Scheduling Form - Help Guide
 ## Purpose
 The Diagnostic Test Scheduling Form is a critical tool used to schedule and manage diagnostic tests for patients. It captures key information about each test, allowing for efficient and accurate scheduling.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from workshop participants about their expectations and experiences during the workshop. The purpose of this form is to gather data on the overall satisfaction and participation level of attendees. The collected data will be used to identify areas for improvement and to make future workshops more engaging and effective.
-
-This form should only be filled out by those who have attended the workshop. If you have not attended the workshop, please do not complete this form.
-
-</thinking>
-
 # Workshop Participation Questionnaire - Help Guide
 ## Purpose
 This form is designed to collect information from workshop participants about their expectations and experiences during the workshop.

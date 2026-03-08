@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture personal and event details for registration purposes. This guide will walk you through the fields and help you complete the form accurately. Before proceeding, ensure you have all necessary information ready to avoid incomplete or duplicate registrations.
-
-</thinking>
-
 # Organizational Strategy Alignment Event Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Organizational Strategy Alignment Event. Fill out this form to provide accurate and complete details about yourself and your event.

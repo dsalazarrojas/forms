@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or entities applying to rent a studio or office space. The form asks for details about the applicant's office and studio addresses, application date, studio type, application reason, studio size, and equipment needs. This form is intended to gather relevant information for the landlord or property manager to consider the application. Before filling out this form, make sure you have the necessary information and permissions to submit. Please note that some fields are marked as required, which means that they must be filled out to successfully submit the application.
-</thinking>
-
 # Office And Studio Application Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or entities applying to rent a studio or office space.

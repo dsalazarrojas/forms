@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from players who wish to register for a flag football league. It gathers essential details such as player information, emergency contact, contact method, payment information, team details, player skills, and registration status. The form is not intended to be used for any other purpose than the specified league registration.
-</thinking>
-
 # Flag Football League Registration Form - Help Guide
 ## Purpose
 The Flag Football League Registration Form is designed to collect necessary information from players registering for the Flag Football League. This form ensures that all required data is gathered for efficient and accurate registration processing.

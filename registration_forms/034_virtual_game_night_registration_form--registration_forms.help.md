@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information about Virtual Game Nights, a recurring event where players gather to play games together. It's essential to provide accurate and complete information so that the Game Master can prepare properly for the event. Make sure to fill out each field accurately and thoroughly.
-</thinking>
-
 # Virtual Game Night Registration Form - Help Guide
 ## Purpose
 This form is used to register for Virtual Game Nights, providing essential information to the Game Master so they can prepare for the event.

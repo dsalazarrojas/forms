@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect RSVPs from parents and guardians for the school's annual Back-to-School Night event. The form helps the school understand who will be attending, how many students will be coming, and what topics of interest are. It also allows parents to request childcare services and express their interest in joining the Parent-Teacher Association (PTA). The form should only be filled out by parents and guardians who are attending the event.
-</thinking>
-
 # Back To School Night RSVP Form - Help Guide
 ## Purpose
 

@@ -1,11 +1,3 @@
-<thinking>
-The University Enrollment Form is a crucial document for new students who are enrolling in a university program. 
-To ensure that you provide accurate and complete information, this guide will walk you through the form's purpose, how to complete it, and what each field means.
-
-Before we begin, please note that this guide is based on the provided YAML fields, which are subject to change. If you have any questions or concerns, please contact your university's enrollment department.
-
-</thinking>
-
 # University Enrollment Form - Help Guide
 ## Purpose
 The University Enrollment Form is used to capture essential information about new students who are enrolling in a university program. This form helps the university's administration to process the enrollment application and ensure a smooth transition for the students.

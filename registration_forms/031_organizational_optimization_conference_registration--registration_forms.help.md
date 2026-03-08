@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to allow attendees to register for the Organizational Optimization Conference. The purpose of this form is to collect registration information from attendees, including their session choices and any special requirements they may have. This form is intended to be completed by individuals who are interested in attending the conference, not by conference organizers or other staff members.
-
-The form is split into several sections, each corresponding to a different page. Each page is designed to collect specific information from the attendee. 
-
-Before filling out the form, please ensure that you have the necessary information and permissions required to complete it. If you are unsure about any field, please contact the conference organizers for clarification.
-
-Please note that this form will be used to generate attendee lists and may be used for other purposes related to the conference.
-
-</thinking>
-
 # Organizational Optimization Conference Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees for the Organizational Optimization Conference.

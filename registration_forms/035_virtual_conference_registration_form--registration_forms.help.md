@@ -1,6 +1,3 @@
-<thinking>
-This form is a Virtual Conference Registration Form, designed for attendees to register for a virtual conference. The form should be used by anyone interested in attending the virtual conference. The purpose of the form is to collect attendee information, including name, contact details, and preferences. This guide will walk you through each field, explaining its purpose and how to complete it correctly.</thinking>
-
 # Virtual Conference Registration Form - Help Guide
 ## Purpose
 This guide will help you complete the Virtual Conference Registration Form for a virtual conference.

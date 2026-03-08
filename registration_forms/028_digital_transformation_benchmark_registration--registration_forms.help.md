@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from organizations for the Digital Transformation Benchmark Registration, which is likely a survey or assessment tool used to gauge an organization's level of digital maturity. This form is intended to gather data on various aspects of digital transformation, including enrollment dates, organizational details, goals, and more. It's essential to ensure that the form is completed accurately and thoroughly to provide valuable insights for analysis.
 
 ## Digital Transformation Benchmark Registration - Help Guide

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in completing the Natural Ingredient Research Network Registration Form.
-The form is designed to collect information about researchers' research interests, focus areas, and other relevant details for the Natural Ingredient Research Network. This guide will help ensure that users understand what is required and what to expect during the registration process.
-To be eligible to join the Natural Ingredient Research Network, you should not have previously registered with this form.
-</thinking>
-
 # Natural Ingredient Research Network Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from researchers interested in joining the Natural Ingredient Research Network. The information collected will be used to understand your research interests, focus areas, and other relevant details.

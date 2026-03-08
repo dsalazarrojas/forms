@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a comprehensive registration form for a kayaking program or activity, likely designed to collect information from participants. It seems to be intended for individuals signing up for a kayaking event or program, possibly for minors or those with medical conditions. The form collects personal details, emergency contact information, and medical information. It appears that the form is meant to be completed by participants themselves, and some fields are required, indicating that they are crucial for processing the registration.
-
-</thinking>
-
 # Kayaking Waiver Form - Help Guide
 ## Purpose
 This form is a registration form for a kayaking activity or program. It is used to collect personal information, emergency contact details, and medical information from participants. Completing this form will help us ensure that we have the necessary contact and medical information in case of any incidents during the activity.

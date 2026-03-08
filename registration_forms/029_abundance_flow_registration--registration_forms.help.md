@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participants to register for Abundance Flow sessions, a program focused on personal growth, spiritual development, and wellness. This guide will walk you through the registration process and explain each field's purpose.
-</thinking>
-
 # Abundance Flow Registration - Help Guide
 ## Purpose
 This form is designed for participants to register for Abundance Flow sessions. By filling out this form, you will be providing essential information about yourself to help us better understand your needs and accommodate you for the session.

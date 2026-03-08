@@ -1,12 +1,3 @@
-<thinking>
-The form's internal purpose is to collect demographic data from participants for the Datathon event, ensuring that the information is accurate and up-to-date. This is an important step to create a comprehensive participant database.
-
-The form will likely be used by people attending an event where data science is a focus (e.g., a data marathon), and the information collected will be used for planning and marketing purposes. It's essential to verify if the participant's email, phone number, and company affiliation are correctly filled in.
-
-The form will be displayed in multiple pages to make it easier to fill in for participants. 
-
-</thinking>
-
 # Datathon Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants of the Datathon event. It includes multiple pages, each with its own fields and purposes.

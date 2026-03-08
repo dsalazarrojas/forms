@@ -1,9 +1,3 @@
-<thinking>Internal reasoning block for the form purpose and non-duplication check:
-
-This form is designed to collect information from individuals interested in registering as free agents for the Bocce League. The form fields are designed to collect necessary contact information, playing history, and preferences to accommodate the player's needs. The goal is to register free agents for the Bocce League with accuracy and efficiency. Before completing this form, please review the fields carefully and ensure that all required information is provided. If you need help or clarification, feel free to ask!
-
-</thinking>
-
 # Bocce League Free Agent Registration - Help Guide
 ## Purpose
 The Bocce League Free Agent Registration form is designed to collect necessary information from individuals interested in registering as free agents for the Bocce League. This information will be used to create a player profile and help facilitate the league's operations.

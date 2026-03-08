@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register participants in a Website Development Course. The purpose of this form is to gather information from users who want to enroll in the course. This form is not intended for instructors or staff members.
-Before filling out this form, please ensure that you have not already registered for the same course. Duplicate registrations will not be processed.
-</thinking>
-
 # Website Development Course Registration Form - Help Guide
 ## Purpose
 This form is used to register participants in the course. It is essential to provide accurate information for a smooth enrollment process.

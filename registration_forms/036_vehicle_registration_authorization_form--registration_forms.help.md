@@ -1,9 +1,3 @@
-<thinking>... (internal reasoning block)
-
-This form is intended to gather information about a vehicle's registration, including its owner's details and authorization status. The form is likely used for official purposes, such as government agencies, dealership, or insurance companies, to verify vehicle ownership and registration. Before proceeding, ensure you are authorized to complete this form and that the vehicle's registration information is accurate.
-
-</thinking>
-
 # Vehicle Registration Authorization Form - Help Guide
 ## Purpose
 This form is used to gather vehicle registration information from the owner or authorized person, to verify and document vehicle ownership and authorization status.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Digital Campaign Registration Form - Help Guide
 ## Purpose
 This form is for registering for a digital campaign. It's a tool to collect information from users who are interested in participating in the campaign.

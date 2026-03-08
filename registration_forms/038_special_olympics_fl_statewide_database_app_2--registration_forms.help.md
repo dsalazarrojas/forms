@@ -1,14 +1,3 @@
-<thinking>
-The form purpose is to collect information from participants for the Special Olympics FL Statewide Database App 2. The form will be used to record and store data about the participants' events and their related information.
-
-To avoid duplication and ensure accurate data entry, the form will only allow one event per participant at a time. This means that if you want to register a participant for multiple events, please create a separate entry for each event.
-
-The form is divided into two main sections: Registration Form and Contact Form. The Registration Form collects information about the participant, while the Contact Form collects contact information about the person responsible for the participant.
-
-Please make sure to fill out the form accurately and completely, and do not enter duplicate entries.
-
-</thinking>
-
 # special_olympics_fl_statewide_database_app_2 - Help Guide
 ## Purpose
 The Special Olympics FL Statewide Database App 2 form is designed to collect information from participants for the Special Olympics Florida Statewide Database App 2. This form is used to record and store data about participants' events and their related information.

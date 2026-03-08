@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sauna Use Waiver - Help Guide
 
 ## Purpose

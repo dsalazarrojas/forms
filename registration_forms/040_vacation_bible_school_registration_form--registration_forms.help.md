@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to register students for the Vacation Bible School program. The purpose of this form is to gather essential information from parents or guardians to ensure proper registration and communication during the program. 
-
-This form should only be filled out for each student registering for the program. Please ensure that you are filling out the form for the correct student. If you have multiple students registering, you should fill out a new form for each student.
-
-To avoid any confusion, review the form carefully before submitting it. Ensure all required fields are completed accurately. If a field is optional, it is up to your discretion whether to fill it out or not.
-</thinking>
-
 # Vacation Bible School Registration Form - Help Guide
 ## Purpose
 This form is for registering students for the Vacation Bible School program.

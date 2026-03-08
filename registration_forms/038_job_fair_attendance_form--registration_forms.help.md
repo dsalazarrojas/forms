@@ -1,8 +1,3 @@
-<thinking>
-The goal of this form is to gather information from attendees who have participated in a job fair event. The form will help us track the attendee's details, such as their name, contact email, contact phone, company, position, job fair ID, check-in time, checked in by, follow-up notes, and whether they attended the event. This form is designed to be completed by attendees themselves, and the information collected will be used for internal purposes only.
-This form does not collect any sensitive or personally identifiable information, and the data collected will not be used for any external purposes. The form is not intended to be completed by anyone other than the actual attendee.
-</thinking>
-
 # job_fair_attendance_form - Help Guide
 ## Purpose
 The job_fair_attendance_form is a registration form designed for attendees of a job fair event. It is used to collect demographic information and track attendee engagement with the event.

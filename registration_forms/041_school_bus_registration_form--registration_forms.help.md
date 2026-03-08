@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Bus Registration Form - Help Guide
 
 ## Purpose

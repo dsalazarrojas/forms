@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect participant information for registration purposes. This form is likely used for a research study, event, or conference. The form asks for participant's name, date of birth, age, contact information, preferred communication channel, additional comments, participant's address, participant's phone number, and participant's email. 
-</thinking>
-
 # Qualifier Registration Form - Help Guide
 ## Purpose
 

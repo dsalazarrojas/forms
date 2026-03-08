@@ -1,8 +1,3 @@
-<thinking> 
-To create an effective user-facing help guide for the HGV Training Registration form, we need to understand the form's purpose and the functionality of each field. This form is likely used to register individuals for training programs related to Heavy Goods Vehicles (HGV), which could include truck drivers, taxi drivers, or other types of drivers who require specialized training. The form's fields are designed to collect information about the registrant's license status, training preferences, contact details, and training schedule. Given that the form is optional for all fields, it's possible that this form is intended for informational or interest purposes rather than for actual registration. This form could be used by training providers or institutions to gather feedback or to collect information from potential students. 
-
-</thinking>
-
 # HGV Training Registration - Help Guide
 
 ## Purpose

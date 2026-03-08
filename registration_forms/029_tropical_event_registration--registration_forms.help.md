@@ -1,11 +1,3 @@
-<thinking>
-  This form is designed to collect user registration information for a tropical event. 
-  It is a multi-page form with fields that cover various aspects of attendee registration, 
-  including event preferences, attendee details, and consent. 
-  This guide will help users understand the purpose of each field and how to complete the form successfully. 
-  Please note that while the form is not mandatory for all fields (unless specified as required), it is recommended that users fill in all relevant information for accurate and efficient processing.
-</thinking>
-
 # tropical_event_registration - Help Guide
 ## Purpose
 The "tropical_event_registration" form is designed to collect user registration information for a tropical event. It allows users to select their event preferences, provide contact information, and indicate their consent for the event.

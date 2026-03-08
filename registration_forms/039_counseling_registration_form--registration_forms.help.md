@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information for counseling sessions. This form will be used to create a database of clients and their corresponding registration details. Please make sure you only fill out this form for yourself or someone else, and not for other clients. If you're not sure about any information on this form, please contact the relevant authorities.
-</thinking>
-
 # Counseling Registration Form - Help Guide
 
 ## Purpose

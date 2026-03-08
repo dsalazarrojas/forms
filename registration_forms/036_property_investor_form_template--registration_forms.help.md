@@ -1,8 +1,3 @@
-<thinking>
-The form is used for registering properties with the investor form, and we should check that it's not already registered to prevent duplication. The fields are divided into two main categories: property details and contact information. The form should be filled out completely and accurately to ensure that the property information is correct and up-to-date.
-
-</thinking>
-
 # property_investor_form_template - Help Guide
 ## Purpose
 The purpose of this form is to provide a detailed description of a property, its status, and contact information for the investor. This form ensures that all relevant property information is captured accurately and consistently.

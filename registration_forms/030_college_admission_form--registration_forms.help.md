@@ -1,15 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the College Admission Form. The guide will provide a step-by-step explanation of the form's purpose, how to complete it, and a field-by-field explanation of each section. This guide will help users understand the form's requirements and ensure they can accurately fill out the form without any issues. 
-
-Before filling out the form, please note that it is crucial to read this guide carefully to understand the form's purpose and requirements. 
-
-This guide will cover the following sections: 
-- **Purpose**
-- **How To Complete This Form**
-- **Field-by-Field Explanation**
-- **Tips**
-
-</thinking>
 # College Admission Form - Help Guide
 ## Purpose
 The College Admission Form is a comprehensive form designed to gather information from potential students who are interested in applying to the college. This form is used to collect demographic, academic, and personal information that will be used to evaluate a student's eligibility and suitability for admission. Please ensure that all provided information is accurate and up-to-date.

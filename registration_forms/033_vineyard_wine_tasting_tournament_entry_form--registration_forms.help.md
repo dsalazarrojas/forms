@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users complete the vineyard wine-tasting-tournament-entry-form. The form is used to register a new tournament. To ensure accuracy, please review the form fields carefully before submitting. If you've already registered a similar tournament, please do not re-register it.
-</thinking>
-
 # vineyard-wine-tasting-tournament-entry-form - Help Guide
 ## Purpose
 The vineyard wine-tasting-tournament-entry-form is a registration form used for users to register new tournaments.

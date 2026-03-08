@@ -1,23 +1,3 @@
-<thinking>
-The Sorority Registration Form is designed to collect information from prospective members for sorority chapter registration. This form will be used to gather details such as name, email address, phone number, date of birth, grade level, major, academic status, enrollment fee, and other relevant details. The form is intended to help the sorority chapter administrators to process registration applications efficiently and accurately.
-
-Before proceeding, please note that the following fields are required for a successful submission:
-
-* Name
-* Sorority Name
-* Chapter Name
-* Email Address
-* Phone Number
-* Date of Birth
-* Grade Level
-* Academic Status
-* Enrollment Fee
-* Recruitment Agreement
-
-Please ensure that all required fields are filled out correctly to avoid any issues with your registration.
-
-</thinking>
-
 # Sorority Registration Form - Help Guide
 ## Purpose
 The Sorority Registration Form is designed to collect information from prospective members for sorority chapter registration.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration details from participants for a global conversation. The form has multiple sections, each gathering different types of information. Before starting, please ensure you have all the required details at hand, as some fields are mandatory and cannot be skipped. To avoid duplication, please note that you can only register once for this global conversation. This guide will walk you through the process step-by-step.
-</thinking>
-
 # Global Conversation Registration - Help Guide
 ## Purpose
 The Global Conversation Registration form is designed to collect participant details for a global conversation event. This form gathers essential information to ensure that you have a place in the conversation and receive relevant updates.

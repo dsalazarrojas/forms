@@ -1,8 +1,4 @@
-> <thinking>Are you sure you have a form to help you generate the perfect user-facing help guide? In that case, let's get started!
-
-The goal of this form is to gather information from festival attendees about their accommodation requests for the event. The form will be used by event staff to process and assign the right accommodation to each attendee. Please fill out the form correctly to ensure accurate and efficient service.</thinking>
-
-# Festival Accommodation Request Form - Help Guide
+> # Festival Accommodation Request Form - Help Guide
 ## Purpose
 This form is designed to help festival attendees request accommodation for the event. Please fill out the form with your details to enable our staff to process your request efficiently.
 

@@ -1,8 +1,3 @@
-<thinking>
-This form is likely used for registering participants for a Traffic Control Supervisor Course, which is a training program for individuals working or interested in working in traffic control roles. The fields on this form seem to collect information on participant demographics, organization affiliation, training sessions, contact information, and confirmation of registration. The form's purpose is to gather necessary details for course administration and potential follow-up communication. 
-
-</thinking>
-
 # Traffic Control Supervisor Course Registration - Help Guide
 ## Purpose
 This form is used to register participants for the Traffic Control Supervisor Course. It collects information on participant demographics, organization affiliation, and contact details.

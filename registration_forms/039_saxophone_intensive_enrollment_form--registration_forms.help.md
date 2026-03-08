@@ -1,8 +1,3 @@
-<thinking> 
-This form aims to gather enrollment details for the Saxophone Intensive program, and ensure users understand the purpose and usage of each field. This form was created to collect information that will aid in managing the program's participant list, scheduling sessions, and tracking payments. Please note that this form's design is based on public survey topic metadata and does not contain any proprietary content from other form platforms. To avoid duplication and misrepresentation, please do not modify this form without proper understanding of its intent and usage. If you need further clarification, contact form@gic.mx for assistance. 
-
-</thinking>
-
 # Saxophone Intensive Enrollment Form - Help Guide
 
 ## Purpose

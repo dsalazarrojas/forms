@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for boat owners to renew their boat registrations. The form is required for boat owners to provide updated information and pay any necessary fees for registration renewal. This form should only be filled out by the current boat owner and not by a third party on their behalf. If you're unsure about any of the fields or have questions, please contact the relevant authorities for assistance.</thinking>
-
 # Boat Registration Renewal Form - Help Guide
 ## Purpose
 This form is for renewing a boat registration. It's essential to fill out this form accurately to ensure a smooth and hassle-free registration renewal process.

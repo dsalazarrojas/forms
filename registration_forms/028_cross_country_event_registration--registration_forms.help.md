@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure this form is not used for any purposes other than registering for a cross-country event. We must prevent duplication of effort and avoid confusion among team members. This form should only be filled out by participants to register for the event. 
-</thinking>
-
 # cross_country_event_registration - Help Guide
 ## Purpose
 This form is used for registering participants for a cross-country event. Please complete this form to sign up for the event and provide necessary information for your registration.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to register a Summit Breakout Session Host. The purpose of this form is to collect information from hosts about their session details, including title, name, contact information, session topic, date, time, duration, and capacity. This form is intended for hosts to provide accurate and consistent data for Summit Breakout Session organization.
-
-Before proceeding, please ensure that you are a registered host and that you have not already submitted a registration form for the same session. To complete this form, please follow the steps below:
-
-</thinking>
-
 # Summit Breakout Session Host Registration Form - Help Guide
 ## Purpose
 This form is used to register a Summit Breakout Session Host and gather information about their session details.

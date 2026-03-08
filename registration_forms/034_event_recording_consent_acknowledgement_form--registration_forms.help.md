@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form purpose is to obtain consent from users to record events on their person or property, likely for research or survey purposes. This form ensures that users understand and agree to the recording of events, which may involve video or audio capture. The form will be used to gather information about the recording process, the device used for recording, and any additional comments or concerns the user may have. 
 
 </thinking>

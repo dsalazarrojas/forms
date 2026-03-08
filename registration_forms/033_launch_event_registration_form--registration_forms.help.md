@@ -1,7 +1,3 @@
-<thinking>
-This form helps the user to register an event. It is designed for users who want to create an event and get registered for it. This form ensures that the users provide all the necessary information to make the event visible in the system. Please note that this form cannot be used to register for an event that has already been registered by another user.
-</thinking>
-
 # Launch Event Registration Form - Help Guide
 ## Purpose
 This form is used to register a new event. It gathers all the necessary information to make the event visible in the system and allow other users to view and register for it.

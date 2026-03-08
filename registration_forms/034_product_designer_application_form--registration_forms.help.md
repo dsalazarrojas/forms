@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to apply for a product design position within the company. It collects information from potential candidates about their first name, last name, email address, phone number, portfolio, portfolio link, experience in product design, education background, skills, and ability to submit their portfolio files. The form aims to gather relevant details to assess the candidates' qualifications and suitability for the position. This form should not be submitted by non-product designers or those without a genuine interest in applying for the position. Please ensure you have read this help guide before completing the form.
-</thinking>
-
 # Product Designer Application Form - Help Guide
 ## Purpose
 This form is for individuals interested in applying for a product design position. Please fill it out carefully and accurately to provide the best possible chance of getting noticed by our team.

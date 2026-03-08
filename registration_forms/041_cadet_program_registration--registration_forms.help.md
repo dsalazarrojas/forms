@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to collect information from cadet applicants for the Cadet Program. This form likely serves as an intake process to register cadets for the program, gathering essential details such as contact information, medical needs, and personal preferences. The form is designed to be completed by the cadet or their parent/guardian.
-It's essential to verify that the form is filled out correctly, without any duplication or irrelevant information being entered. This ensures that the program administrators have accurate and complete data for each cadet.
-</thinking>
-
 # Cadet Program Registration - Help Guide
 ## Purpose
 The Cadet Program Registration form is used to collect essential information from cadet applicants to register them for the program. This form helps gather details such as contact information, medical needs, and personal preferences to provide an efficient and safe experience for the cadets.

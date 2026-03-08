@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the Vaccination Clinic Pre-Registration Form. This form is designed to gather information from patients before their visit to the vaccination clinic, allowing staff to prepare for their appointment and ensure a smooth process. The form includes fields for patient demographic information, appointment details, insurance information, and additional notes. The following guide provides a step-by-step explanation of the form and its fields.
-
-</thinking>
-
 # Vaccination Clinic Pre Registration Form - Help Guide
 ## Purpose
 This form is used to gather essential information from patients prior to their visit to the vaccination clinic. Completing this form helps our staff prepare for their appointment and ensures a smooth and efficient process for everyone.

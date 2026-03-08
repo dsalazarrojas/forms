@@ -1,11 +1,3 @@
-<thinking>
-
-The Free Gym Pass Lead Form is a tool used by our gym management team to capture leads from potential gym-goers who are interested in obtaining a free gym pass. The purpose of this form is to gather information about the individual's lead information, fitness interests, and preferences, which can be used to tailor a personalized gym experience for them. This form helps us to understand their needs and offer a more efficient and effective service.
-
-Before proceeding, please ensure that you have not already submitted a lead for this individual, as duplicate submissions may lead to unnecessary data duplication and confusion. 
-
-</thinking>
-
 # Free Gym Pass Lead Form - Help Guide
 
 ## Purpose

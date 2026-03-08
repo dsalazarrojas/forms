@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for students to submit leave of absence requests for the Student Exchange Program. The form is used to document leave types, dates, and reasons for absence, as well as other relevant information such as contact details and university affiliation. This guide will walk you through completing the form, understanding each field's purpose, and providing tips for accurate and efficient submission.
-
-The form consists of 11 fields, each with specific requirements. Please ensure that all required fields are filled out correctly to avoid any errors.
-
-This guide is not intended to be a comprehensive explanation of the Student Exchange Program's policies and procedures. For detailed information, refer to the program's documentation and guidelines.
-</thinking>
-
 # Student Exchange Program Leave Of Absence Form - Help Guide
 ## Purpose
 This form is used by students to submit leave of absence requests for the Student Exchange Program.

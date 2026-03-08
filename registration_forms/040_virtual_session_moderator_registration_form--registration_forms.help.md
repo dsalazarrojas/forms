@@ -1,7 +1,3 @@
-<thinking>
-This form was created to gather registration information for virtual session moderators. To ensure that your registration information is accurate and up-to-date, please review the form carefully before submitting. If you've already submitted this form, please do not resubmit, as this may cause duplicate entries. To avoid any confusion, please use the same email address for both the email and confirm email fields. 
-</thinking>
-
 # Virtual Session Moderator Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for virtual session moderators. By filling out this form, you will be able to register as a moderator for our virtual sessions.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Athlete Team Trial Application Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to help parents register their children for a robotics camp. The parent will be required to provide information about themselves and their child to ensure a smooth and enjoyable experience for both the child and the robotics camp staff. 
-
-The form will be used to collect the following information:
-- Parent Information: This section will collect the parent's name, email, and phone number.
-- Child Information: This section will collect the child's name and date of birth.
-
-To prevent non-duplication, the form will check if a parent is already registered for the same child in the same camp. If they are, it will redirect them to a confirmation page.
-</thinking>
-
 # Robotics Camp Booking Form - Help Guide
 ## Purpose
 This form is used to register your child for a robotics camp. Please fill out the form with your information to ensure a smooth and enjoyable experience for your child and the camp staff.

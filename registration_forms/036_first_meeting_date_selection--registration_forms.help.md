@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # First Meeting Date Selection - Help Guide
 
 ## Purpose

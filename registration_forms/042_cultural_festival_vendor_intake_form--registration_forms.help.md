@@ -1,5 +1,3 @@
-<thinking>... internal note: This form is meant to collect information from potential vendors participating in a cultural festival, gathering essential details such as vendor name, event type, contact information, and event date/time. Ensure this form is filled out only once per vendor and only by the vendor itself or its representative. Please do not fill out this form on behalf of others. Fill out this form accurately and thoroughly to ensure smooth communication and processing. ...</thinking>
-
 # Cultural Festival Vendor Intake Form - Help Guide
 ## Purpose
 The Cultural Festival Vendor Intake Form is used to collect necessary information from potential vendors participating in a cultural festival. This form helps us understand your event's specifics, ensuring a smooth and successful experience for you and all attendees.

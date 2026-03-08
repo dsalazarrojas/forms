@@ -1,6 +1,3 @@
-<thinking>Utility Auto Pay Enrollment Form is used to enroll customers to a specific auto pay service with their chosen service provider. It collects information about the customer's name, address, phone number, email, start and end dates of the service, and other relevant details. This form ensures that all necessary information is accurate and up-to-date to process the enrollment. Ensure that all fields are filled out correctly and all required fields have been completed before submitting the form.
-</thinking>
-
 # Utility Auto Pay Enrollment Form - Help Guide
 ## Purpose
 This form is used to enroll customers to a specific auto pay service with their chosen service provider.

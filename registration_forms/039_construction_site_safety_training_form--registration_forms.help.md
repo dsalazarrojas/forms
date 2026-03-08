@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Construction Site Safety Training Form - Help Guide
 ## Purpose
 This form is designed to record and track the details of safety training sessions on construction sites. The form captures information about the training date, time, location, trainer, and trainees, as well as their understanding and feedback about the training.

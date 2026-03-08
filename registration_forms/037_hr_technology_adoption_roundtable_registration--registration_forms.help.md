@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect registration information for the HR Technology Adoption Roundtable, which is intended to facilitate discussion and collaboration among HR professionals on technology adoption in the industry. The form is designed to gather relevant details from registrants, including their organizational affiliation, role, and interests, to ensure a diverse and representative group of participants. 
-
-Before proceeding, please ensure you are not already registered for this event, and that your organization is not already represented. Duplicate registrations may cause inconvenience to other attendees and the organizers. 
-
-This guide is designed to walk you through the process of completing the form in a clear and concise manner.
-
-</thinking>
-
 # HR Technology Adoption Roundtable Registration - Help Guide
 ## Purpose
 This form collects registration information for the HR Technology Adoption Roundtable to facilitate collaboration and discussion among HR professionals. 

@@ -1,5 +1,3 @@
-<thinking>Form purpose is to collect real estate digital identity application data for users. This form is designed to gather essential information about the user, including their name, contact details, and employment history, to facilitate digital identity verification and authentication.</thinking>
-
 # Real Estate Digital Identity Application Form - Help Guide
 
 ## Purpose

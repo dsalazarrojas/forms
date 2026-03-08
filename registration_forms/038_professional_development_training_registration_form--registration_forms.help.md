@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants for professional development training programs. The purpose of this form is to gather information from participants about their program preferences, contact details, and training schedule. This form ensures that participants are informed about the training options available and helps the training administrators to manage participant expectations.
-</thinking>
-
 # Professional Development Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants about their professional development training needs and preferences.

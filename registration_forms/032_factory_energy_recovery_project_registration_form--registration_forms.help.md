@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register a new factory energy recovery project with the relevant authority. Before starting to fill out this form, make sure that your project is eligible for registration. Check that you are not duplicating a project that has already been registered. This will ensure that your project is registered correctly and efficiently.
-</thinking>
-
 # Factory Energy Recovery Project Registration Form - Help Guide
 ## Purpose
 

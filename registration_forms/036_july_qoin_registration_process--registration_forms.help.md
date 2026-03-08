@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to be a comprehensive registration process for businesses, capturing essential details about the business and its registration. The form will guide users through a series of fields to provide accurate and detailed information about the business, its category, and other relevant attributes. This form is likely to be used by business owners or administrators to register their businesses with a platform or service.
-
-</thinking>
-
 # July_Qoin_Registration_Process - Help Guide
 ## Purpose
 This form is designed to gather business registration information for categorization and record-keeping purposes.

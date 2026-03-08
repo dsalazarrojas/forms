@@ -1,13 +1,3 @@
-<thinking>...thinking>
-
-This form is a crucial tool for healthcare providers to bill patients for vaccination services. The form collects essential information from patients to ensure accurate and timely billing. It is a one-page form divided into three sections: patient name, patient age, and patient email. The form is essential for the following reasons:
-
-1.  Patient identification: The form helps identify the patient accurately, which is crucial for billing and insurance purposes.
-2.  Age verification: The patient's age is vital to determine the eligibility for vaccination services and for billing purposes.
-3.  Communication: The patient's email is used for communication and billing purposes.
-
-</thinking>
-
 # Vaccination Billing Form - Help Guide
 ## Purpose
 The Vaccination Billing Form is a one-page form used to collect information from patients for accurate and timely billing.

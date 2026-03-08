@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register a solo event. The event details will be used to display on the event page. Please ensure that all required fields are filled in accurately and completely. 
-
-This form is designed for one-time event registration. If you're looking to register a recurring event, please use the "recurring_event_registration_form" instead.
-</thinking>
-
 # solo_event_registration_form - Help Guide
 ## Purpose
 The solo_event_registration_form is used to register a solo event. This form captures essential details about the event, including its name, date, start and end time, organizer, attendee name, email, and phone number.

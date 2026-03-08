@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect event sponsorship referrals, gathering information about the interests and reasons behind the referral. It is not a mandatory form, but rather a tool to help event organizers understand potential sponsorships opportunities. The form is divided into four sections: 
-- The first section asks for a brief description of the event or sponsorship opportunity.
-- The second section inquires about the interests and reasons behind the referral.
-- The third section asks for a suggested date for the event or sponsorship opportunity.
-- The form does not contain any sensitive or personal information, and the fields are not mandatory.
-</thinking>
-
 # event_sponsorship_referral_form - Help Guide
 ## Purpose
 This form is designed to collect event sponsorship referrals, gathering information about the interests and reasons behind the referral.

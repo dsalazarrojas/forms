@@ -1,7 +1,3 @@
-<thinking>
-This form is a crucial document used to obtain waivers and contracts from participants prior to engaging in adventure activities. Its primary purpose is to ensure participants are aware of and agree to the terms and risks associated with these activities. The form is also a necessary step to provide medical clearance for high-risk activities and capture essential information for emergency contacts and insurance providers.
-</thinking>
-
 # Adventure Activity Waiver And Contract Form - Help Guide
 ## Purpose
 This form is designed to gather essential information and agreements from participants before they engage in adventure activities. The form helps to clarify the terms and risks associated with these activities, ensure the participant's consent, and provide important details for emergency contacts and potential medical considerations.

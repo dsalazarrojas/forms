@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering with the Hospitality Blockchain Network. It's essential to provide accurate and complete information to ensure a smooth registration process. Please note that this form is not a duplicate of any other form, and providing incorrect or incomplete data may lead to delays or issues with your registration.
-</thinking>
-
 # hospitality_blockchain_network_registration_form - Help Guide
 ## Purpose
 The hospitality_blockchain_network_registration_form is a registration form for individuals or organizations to join the Hospitality Blockchain Network. This form collects contact information and other relevant details to facilitate a secure and seamless registration process.

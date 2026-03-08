@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register for the Valentine's Ball online event. The form will collect basic contact information such as name and email, as well as some preferences for the event, like attending with whom and special requests. This form will not allow duplicate submissions. The form is required for attendees who want to join the event, regardless of whether or not they are bringing a partner. Please ensure you complete it accurately and submit it at least 24 hours prior to the event.
-</thinking>
-
 # Valentine Ball Online Registration Form - Help Guide
 ## Purpose
 This is a registration form for the Valentine's Ball online event.

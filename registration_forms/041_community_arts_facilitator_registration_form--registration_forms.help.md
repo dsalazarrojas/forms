@@ -1,8 +1,3 @@
-<thinking>
-To confirm that the form purpose and fields align with the intended functionality, I will review the provided YAML fields.
-The form is intended to collect information from community arts facilitators, and it appears to cover various aspects such as personal details, arts background, facilitation experience, and availability. The form also includes fields for program preferences, age groups, and background checks.
-</thinking>
-
 # Community Arts Facilitator Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register community arts facilitators, collect their personal and professional information, and gather details about their facilitation experience and availability.

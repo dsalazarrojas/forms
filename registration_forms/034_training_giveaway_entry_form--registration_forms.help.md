@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to enter their information to participate in a training giveaway. To be eligible to enter the giveaway, users must not have previously submitted their information. This form is not intended for users who have already entered the training giveaway.
-</thinking>
-
 # Training Giveaway Entry Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users who wish to participate in a training giveaway. By filling out this form, users will be entered into a random draw for a chance to win the training giveaway.

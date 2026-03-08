@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register media access for events, allowing individuals to request access to events and provide necessary information for coordination. 
-This form will be used by individuals who are planning events that involve media access, such as journalists, photographers, and other individuals who require access to events. 
-Please ensure that you are submitting this form for the correct event, and not duplicating an existing form submission. 
-</thinking>
-
 # media-access-registration-form - Help Guide
 ## Purpose
 This form is used to register media access for events, allowing individuals to request access and provide necessary information for coordination.

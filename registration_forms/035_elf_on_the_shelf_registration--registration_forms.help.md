@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To confirm the form purpose and ensure relevance, I've reviewed the provided YAML form structure. The "Elf On The Shelf Registration" form appears to be designed for managing participant registrations and schedules for an Elf On The Shelf program. It includes fields for organization information, school details, schedule dates and times, participant registration, and participant contact information.
 
 </thinking>

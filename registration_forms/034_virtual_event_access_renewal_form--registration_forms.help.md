@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Event Access Renewal Form - Help Guide
 
 ## Purpose

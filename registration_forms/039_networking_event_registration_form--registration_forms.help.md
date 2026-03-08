@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Networking Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for a Networking Event. Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It was created using publicly available metadata as inspiration.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from an individual who is committing to attend and pay for an event, specifically a retreat. This form is typically used for internal purposes within an organization, and the information collected will be used to track commitments and facilitate communication with attendees. To ensure accuracy and consistency, please complete this form with the utmost care, and refrain from submitting duplicate or incomplete submissions.
-</thinking>
-
 # Retreat Deposit Commitment Form - Help Guide
 ## Purpose
 This form is used to collect commitments from individuals who are attending an event. It captures essential information such as name, contact details, and commitment status.

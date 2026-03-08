@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in participating in a support code giveaway program. The purpose of this form is to gather participant information, entry details, support code details, and other relevant data for the giveaway. This form is used to ensure that participants provide accurate and complete information, which will be reviewed and verified before the giveaway process begins. To prevent duplicate registrations, this form includes a unique identifier for each participant.
-</thinking>
-
 # Support Code Giveaway Registration - Help Guide
 ## Purpose
 The Support Code Giveaway Registration form is designed to collect information from individuals interested in participating in a support code giveaway program. This form helps us understand your participation requirements and provides a unique identifier for each registrant.

@@ -1,7 +1,3 @@
-<thinking>
-We will create a comprehensive help guide for the "Crop Innovation Day Registration Form" that will walk users through the purpose of the form, how to complete it, and provide a field-by-field explanation of each element.
-</thinking>
-
 # Crop Innovation Day Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register for the Crop Innovation Day event. It is used to gather information about your interests, details, and requirements for the event.

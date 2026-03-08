@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to register stage production crews for a stage production. The form is intended for crew members to provide their information and availability for the production. It's likely used by production managers or coordinators to manage and organize the crew for the production.
-
-It's worth noting that this form has a mix of fields that are likely used for different purposes. Some fields, such as name, title, email, and phone number, are likely used for general contact information and registration. Other fields, such as employed by, availability, and hours worked, seem to be used to schedule and manage the crew. 
-
-Some fields, like backstage, stage equipment, and other equipment, could potentially be used to track specific responsibilities or requirements for different crew members. It's also worth noting that some fields are required, which implies that they are mandatory for registration.
-
-</thinking>
-
 # Stage Production Crew Registration Form - Help Guide
 ## Purpose
 The Stage Production Crew Registration Form is used to register stage production crew members for a stage production. This form is completed by crew members to provide their contact information, availability, and other relevant details.

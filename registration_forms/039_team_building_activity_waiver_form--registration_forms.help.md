@@ -1,7 +1,3 @@
-<thinking>
-Please ensure that the form purpose is clear and understandable for end-users. The form is for Team Building Activity Waiver Form. Ensure each field's label and explanation are clear and concise. The form is required for team building activities. Please review the form schema and provide a well-structured help guide for the end-user.
-</thinking>
-
 # Team Building Activity Waiver Form - Help Guide
 ## Purpose
 The Team Building Activity Waiver Form is a document that requires participants to acknowledge and agree to certain risks and conditions before engaging in team building activities. This form is mandatory for all team building activities to ensure that participants are aware of and assume the risks associated with the activity.

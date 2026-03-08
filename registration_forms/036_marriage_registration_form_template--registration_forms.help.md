@@ -1,7 +1,4 @@
-## <thinking>
-This form is intended to collect information about a marriage registration, used for internal record-keeping and administrative purposes. Please ensure that you are filling out this form for a legitimate marriage registration. Duplicate or incorrect submissions will be discarded and may result in further investigation.
-</thinking>
-# Marriage Registration Form Template - Help Guide
+## # Marriage Registration Form Template - Help Guide
 
 ## Purpose
 This form is used to collect information about a marriage registration for internal record-keeping and administrative purposes.

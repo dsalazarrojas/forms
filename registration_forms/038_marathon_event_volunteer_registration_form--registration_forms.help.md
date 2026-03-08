@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from volunteers for a marathon event. It's likely designed to gather data for volunteer management, scheduling, and communication purposes. It's possible that this form is used in conjunction with other systems or tools for event planning and coordination. I'll review the form fields to provide a clear and concise guide for end-users.
-</thinking>
-
 # Marathon Event Volunteer Registration Form - Help Guide
 ## Purpose
 The Marathon Event Volunteer Registration Form is designed to collect essential information from volunteers participating in the marathon event. This form helps the event organizers manage volunteer data, track volunteer roles and shifts, and communicate with volunteers throughout the event.

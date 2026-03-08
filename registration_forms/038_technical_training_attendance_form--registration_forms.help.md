@@ -1,7 +1,3 @@
-<thinking>
-This form is used to record attendance information for technical training sessions. It is intended for attendees to provide their details and feedback after attending a training session. The form is used by administrators to track attendance and gather feedback. To ensure that this form is filled out correctly, please review the fields below and make sure to provide accurate information.
-</thinking>
-
 # Technical Training Attendance Form - Help Guide
 ## Purpose
 This form is used to record attendance information for technical training sessions.

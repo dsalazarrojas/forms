@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # hvac_technician_training_form - Help Guide
 
 ## Purpose

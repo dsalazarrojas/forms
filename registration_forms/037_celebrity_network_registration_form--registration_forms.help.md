@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and functionality of the Celebrity Network Registration Form. The form is used to gather information about users who want to join the Celebrity Network, a platform that allows users to connect with their favorite celebrities. This guide will walk users through each field of the form, explaining its purpose and requirements.
-</thinking>
-
 # Celebrity Network Registration Form - Help Guide
 ## Purpose
 The Celebrity Network Registration Form is used to create a user account on the Celebrity Network platform. It gathers information about the user's personal details, interests, and preferences to create a customized experience.

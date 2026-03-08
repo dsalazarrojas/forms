@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering participants for virtual CPR/BLSE (Basic Life Support/Emergency Life Support) training sessions. To ensure accurate and efficient registration, please review the form carefully before proceeding. This form is designed to collect information from participants, including their details, session scheduling preferences, and certifications. Please note that this form is not intended for duplicate submissions. If you've already submitted a registration form, do not resubmit. Each participant can only be registered once.
-</thinking>
-
 # Virtual CPR/BLS Registration - Help Guide
 ## Purpose
 This form is designed to register participants for virtual CPR/BLSE training sessions.

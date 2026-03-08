@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to gather user information for a Smart Material Management Program. This is a mandatory form for users who wish to register for the program. The form is used to collect demographic and preference data from users, including their name, contact frequency, and program participation details. This information will be used to manage and communicate with program participants effectively. The form should only be completed once per user and is not duplicative.
-</thinking>
-
 # Smart Material Management Program Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Smart Material Management Program. It is a mandatory form that collects demographic and preference data from users.

@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication and ensure the form is relevant to the user's needs, please consider the following: 
-- The form is a part of the application process for the Fashion Design Admission program. 
-- The form is designed to collect personal and academic information from applicants, including their name, contact information, language skills, date of birth, time preferences, and other relevant details. 
-- Review the form carefully to ensure it aligns with the program's requirements and your personal experience. 
-</thinking>
-
 # Fashion Design Admission Form - Help Guide
 
 ## Purpose

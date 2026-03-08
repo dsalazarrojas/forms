@@ -1,12 +1,3 @@
-<thinking>
-This form is used for registration and data collection for the Food System Digitalization initiative. The form will help us gather necessary information from participants, NGOs, and hubs to ensure a successful and efficient digitalization process. This guide is to help you understand the form's purpose and how to complete it.
-
-Before proceeding, please ensure that you have read and understood the form's instructions and requirements. This will save you time and avoid unnecessary complications.
-
-Please note that this form is for internal use only, and the information collected will be used to support the initiative's goals and objectives.
-
-</thinking>
-
 # Food System Digitalization Registration - Help Guide
 ## Purpose
 This form is for the registration and data collection of participants, NGOs, and hubs for the Food System Digitalization initiative. It helps us gather necessary information to ensure a successful and efficient digitalization process.

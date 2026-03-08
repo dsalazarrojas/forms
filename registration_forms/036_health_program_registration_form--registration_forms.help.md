@@ -1,10 +1,3 @@
-<thinking>
-The form "prophets" is used for registering and managing participant and provider information for programs. This form collects personal and contact details, program specifics, and status updates. It appears to be a form for tracking programs and their associated participants. The fields include text inputs for names, emails, addresses, and notes, as well as select options for program type and status. The required fields suggest that the form is used for official record-keeping and communication purposes.
-
-To avoid duplication of effort, please review the form carefully and ensure you understand its purpose and usage. This help guide is meant to clarify any doubts and ensure you fill out the form correctly.
-
-</thinking>
-
 # prophets - Help Guide
 ## Purpose
 The "prophets" form is used for registering and managing participant and provider information for programs. This includes collecting personal and contact details, program specifics, and status updates.

@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, let's ensure that this guide is only shown to users who need to register for the self-care program. This guide should be concise and easy to understand, explaining each field in a clear and concise manner. We'll cover the form's purpose, how to complete it, and a field-by-field explanation of each section. We'll also include some general tips to help users fill out the form effectively.
-</thinking>
-
 # Self Care Program Registration - Help Guide
 ## Purpose
 The Self-Care Program Registration form is designed to collect information from participants who want to register for our self-care program. This form will help us understand your needs and preferences, ensuring that we can provide you with the best possible support and resources.

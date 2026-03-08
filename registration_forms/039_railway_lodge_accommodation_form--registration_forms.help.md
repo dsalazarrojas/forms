@@ -1,11 +1,3 @@
-<thinking>
-Railway Lodge Accommodation Form is used to provide accommodation information for guests arriving at railway stations. This form is designed to gather essential details about the guests, such as their check-in and check-out dates, room preferences, and contact information. It also includes a field for special requirements, which can be helpful for guests with specific needs.
-
-To avoid duplication of form submissions, this form should only be filled out if you have not done so previously or if your previous form submission is invalid.
-
-This form is typically required for guests who need assistance with accommodation arrangements at the railway station. Please ensure you only fill out this form if you are actually in need of such accommodations.
-</thinking>
-
 # Railway Lodge Accommodation Form - Help Guide
 ## Purpose
 This form is designed to provide accommodation information for guests arriving at railway stations. Please fill out this form to provide essential details about your stay.

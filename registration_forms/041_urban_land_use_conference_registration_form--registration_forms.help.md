@@ -1,8 +1,3 @@
-<thinking>
-The internal reasoning block is used to ensure that the form is only displayed to users who meet the specified criteria and to prevent duplicate registrations. The form is designed to collect information from users who are interested in attending the Urban Land Use Conference. The form is used to gather personal details such as name, surname, company, email, phone number, date of birth, and dietary requirements. Additionally, it asks about conference attendance, comments, and assigned tool. The form also includes fields for comments and output file. The form is intended to provide a smooth and efficient registration process for users.
-
-</thinking>
-
 # Urban Land Use Conference Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from users who are interested in attending the Urban Land Use Conference. It is designed to be simple and user-friendly.

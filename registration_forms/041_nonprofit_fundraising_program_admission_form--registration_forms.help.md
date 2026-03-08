@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to help organizations and their representatives register for the Nonprofit Fundraising Program, providing them with a platform to showcase their fundraising efforts and connect with other participants. This form is designed to collect essential information about the organization, event, and fundraising goals, ensuring a smooth and efficient registration process. To avoid duplication of efforts, we recommend that organizations only register once for each event. If you have already registered for a previous event, please refrain from re-registering.
-</thinking>
-
 # Nonprofit Fundraising Program Admission Form - Help Guide
 ## Purpose
 The Nonprofit Fundraising Program Admission Form is designed for nonprofit organizations to register for the program, providing them with a platform to showcase their fundraising efforts and connect with other participants.

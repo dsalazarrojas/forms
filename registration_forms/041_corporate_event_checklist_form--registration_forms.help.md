@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Corporate Event Checklist Form - Help Guide
 
 ## Purpose

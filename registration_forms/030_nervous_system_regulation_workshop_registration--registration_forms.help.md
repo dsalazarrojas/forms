@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information from individuals who want to register for a Nervous System Regulation Workshop. The purpose of this form is to collect basic contact information, workshop preferences, and other relevant details from attendees. It is likely used by an organization or company to manage workshop registrations, handle logistics, and ensure that attendees have the necessary consent and preferences recorded.
-
-Before proceeding, please ensure that this form is not a duplicate submission for you. If you have already registered for this workshop or have previously submitted a registration form for this event, you may be prompted to review or update your existing registration rather than creating a new one.
-
-</thinking>
-
 # Nervous System Regulation Workshop Registration - Help Guide
 ## Purpose
 The Nervous System Regulation Workshop Registration form is used to collect information from individuals interested in attending the Nervous System Regulation Workshop. This form helps the organizers to manage workshop registrations and ensure that attendees have the necessary details recorded.

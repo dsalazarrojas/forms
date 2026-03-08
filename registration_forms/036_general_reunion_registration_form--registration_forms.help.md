@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and consistently, we need to check for non-duplication and ensure that the form is filled out for the right purpose. This form is intended to collect personal details for a general reunion event. We need to verify that all required fields are filled out and ensure that the correct type of form is being used in the system.
-</thinking>
-
 # General Reunion Registration Form - Help Guide
 ## Purpose
 The General Reunion Registration Form is used to collect personal details for a general reunion event. This form is required for all attendees and should be filled out accurately and completely.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information about a member's activity status, type, date, and frequency. It is intended for internal use by the membership management team to track and analyze membership activity. To use this form, ensure that the information you provide is accurate and up-to-date.
 
 </thinking>

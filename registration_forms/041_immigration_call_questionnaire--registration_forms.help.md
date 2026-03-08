@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # immigration_call_questionnaire - Help Guide
 
 ## Purpose

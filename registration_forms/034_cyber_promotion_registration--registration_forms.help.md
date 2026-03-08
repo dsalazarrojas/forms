@@ -1,9 +1,3 @@
-<thinking>... internal reasoning and checking for relevance and non-duplication ...
-
-The Cyber Promotion Registration form is a registration form designed to collect personal contact information from users who are interested in participating in cyber promotions or programs. This form is used to capture first name, last name, email address, and phone number of the registrant. It is not intended for commercial or marketing purposes, but rather for promotional and informational purposes only.
-
-</thinking>
-
 # Cyber Promotion Registration - Help Guide
 ## Purpose
 The Cyber Promotion Registration form is a registration form used to collect personal contact information from users who are interested in participating in cyber promotions or programs.

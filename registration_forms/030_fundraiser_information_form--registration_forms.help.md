@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to provide information about a fundraising event. It's crucial to ensure that the form is filled out correctly to avoid duplication and provide accurate data for future reference. Before proceeding, please review this guide to understand the purpose and requirements of the form. If you've already created a similar event, please refrain from duplicating data.
-</thinking>
-
 # Fundraiser Information Form - Help Guide
 
 ## Purpose

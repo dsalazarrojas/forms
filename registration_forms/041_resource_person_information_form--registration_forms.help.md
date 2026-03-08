@@ -1,22 +1,3 @@
-<thinking>
-This form is designed to collect resource person information, likely for internal use within an organization or project management. The fields are intended to capture various details about an individual's role, contact information, and availability. Before filling out this form, please ensure that you're not duplicating an existing record.
-
-The purpose of this form is to gather necessary information for resource management, such as job titles, work contact details, and availability schedules. This information will help the administrators or project managers to efficiently coordinate tasks and resources within the organization.
-
-The form has 10 fields, which are divided into the following pages:
-- **Main Page**: This page contains general information about the form.
-- **Name**: A text field to input the name of the resource person.
-- **Job Title**: A text field to specify the job title of the resource person.
-- **Job Type**: A multiple selection field to select from a list of predefined job types.
-- **Work Email**: An email field to input the work contact email of the resource person.
-- **Phone Number**: A text field to input the work contact phone number of the resource person.
-- **Work Address**: A note field to input the work address of the resource person. 
-- **Availability**: A date field to input the start date of the resource person's availability.
-- **Availability End**: A date field to input the end date of the resource person's availability.
-- **Qualifications List**: A text field to input any relevant qualifications or skills of the resource person.
-
-Please fill out each field accordingly, ensuring that you're using a format that matches the field type (e.g., date, email, etc.).
-</thinking>
 # Resource Person Information Form - Help Guide
 ## Purpose
 The Resource Person Information Form is designed to collect information about resource persons for internal use within the organization.

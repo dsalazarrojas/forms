@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Cancer Support Registration - Help Guide
 ## Purpose
 This form is designed to collect information about a child diagnosed with cancer and their support needs to provide personalized support services and resources. 

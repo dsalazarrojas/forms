@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Ultra Trail Event Registration - Help Guide
 ## Purpose
 This form is designed to register participants for the Ultra Trail event, a challenging trail running event. Please ensure that you are registering for a valid event and not duplicating your registration.

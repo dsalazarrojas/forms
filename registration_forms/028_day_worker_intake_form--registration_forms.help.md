@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose: registering day workers who are available to work in various capacities. 
-The form should only be filled out by individuals who are genuinely interested in working as a day worker. 
-We must verify that each individual meets the necessary criteria before proceeding with their application. 
-</thinking>
-
 # Day Worker Intake Form - Help Guide
 ## Purpose
 This form is intended for individuals who are interested in registering as a day worker. It captures essential information about the applicant, including contact details, availability, and work experience.

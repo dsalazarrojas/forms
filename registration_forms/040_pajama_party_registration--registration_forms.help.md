@@ -1,21 +1,3 @@
-<thinking>
-This form is designed for registering participants to an event called "Pajama Party". The purpose of this form is to collect information from participants, including their name, email, phone number, and attendance type. This form will be used to manage participant information for the event.
-
-The form has 6 fields:
-
-* Participants Info: A text field where participants can provide additional information about themselves.
-* Attendance Type: A dropdown select field with three options: Label 1, Label 2, and Label 3.
-* Event Info: A text field where participants can provide information about the event.
-* Participant Name: A text field where participants can enter their name.
-* Participant Email: An email field where participants can enter their email address.
-* Participant Phone: A text field where participants can enter their phone number.
-
-Please note that all fields are optional, except for Participant Name which is required.
-
-This form is designed to be completed by participants who want to attend the Pajama Party event.
-
-</thinking>
-
 # Pajama Party Registration - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Pajama Party event.

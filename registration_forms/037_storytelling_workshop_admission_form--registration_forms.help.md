@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Storytelling Workshop Admission Form - Help Guide
 ## Purpose
 The Storytelling Workshop Admission Form is designed to gather information from participants who are interested in joining a storytelling workshop. This form helps the organizers to collect relevant details such as the participant's interest in the workshop, their contact information, and their preferred date and time of attendance.

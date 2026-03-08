@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information from event attendees for the purpose of event registration. The fields in this form should be filled out by event attendees to provide their personal and event-related information. The form is not intended for event organizers or staff to fill out. If you are an event organizer, you should not fill out this form.
-Please note that this form was generated based on public data and is not affiliated with any form platform. The purpose of this form is to provide a basic structure for event registration, and it may need to be adapted or modified based on your specific event needs.
-</thinking>
-
 # Event Attendance Sign In - Help Guide
 ## Purpose
 This form is designed to collect information from event attendees for event registration purposes.

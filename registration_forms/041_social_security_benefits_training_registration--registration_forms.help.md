@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed to capture information from users for training registration purposes, specifically for social security benefits training. The purpose of this form is to gather data from users to create a comprehensive profile of their training needs and preferences. The form is divided into multiple pages, each containing different sections for user information, session signups, attendee needs, session preferences, and more.
-
-Before proceeding, please note that this form is not designed to be filled out multiple times. Each user's data should be submitted only once, and any changes should be made by editing the existing record.
-
-To ensure accurate data, please fill out the form carefully and make sure to select the correct options for each section.
-
-</thinking>
-
 # Social Security Benefits Training Registration - Help Guide
 ## Purpose
 The Social Security Benefits Training Registration form is designed to collect information from users for social security benefits training purposes. This data will be used to create a comprehensive profile of training needs and preferences.

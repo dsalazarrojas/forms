@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect registration information from attendees and speakers for the Protein Innovation Conference. This includes general contact information, speaker details, talk details, and submission materials. The form is likely used to organize and track speaker and talk data for the conference.
-
-To ensure accurate and relevant data collection, please fill out the form carefully and thoroughly. If you are unsure about any field, refer to this guide for clarification.
-
-The form is divided into sections, each with its own specific fields. The fields are labeled and explained below:
-
-</thinking>
-
 # Protein Innovation Conference Registration Form - Help Guide
 ## Purpose
 The Protein Innovation Conference Registration Form is designed to collect registration information from attendees and speakers. This includes contact details, speaker and talk information, and submission materials. The form is used to track and organize data for the conference.

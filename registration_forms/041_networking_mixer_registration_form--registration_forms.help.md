@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration purposes for a networking mixer event. The main goal is to collect information about attendees, their company, and their role in the organization. This form aims to help the event organizers manage and prepare for the event by gathering essential details from participants. This form should not be used for any other purpose and is intended for internal use only. Please ensure that you are registered for the correct event and that your information is accurate and up-to-date.
-</thinking>
-
 # networking_mixer_registration_form - Help Guide
 ## Purpose
 This form is used for registering attendees for a networking mixer event. It collects essential information to help the event organizers manage and prepare for the event.

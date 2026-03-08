@@ -1,16 +1,3 @@
-<thinking>Internal reason for this form: 
-- This form is for sports clubs to register their vendor booths for events.
-- The form is split into two pages: Registration Form 1 and Payment Details.
-- The vendor needs to fill in their contact information, payment details, and other necessary information.
-- The form requires vendor name, email, phone number, address, and payment method.
-- Payment method can be chosen from a list of options or entered as other.
-- The form also asks for additional details such as payment terms, vendor needs, and vendor type.
-- The vendor can select multiple options for vendor needs.
-- The form also includes a submit button to confirm the registration.
-- There is no internal logic that checks for duplicate registrations.
-
-</thinking>
-
 # Sports Club Vendor Booth Registration Form - Help Guide
 ## Purpose
 This form is for sports clubs to register their vendor booths for events. It's a two-page form that requires vendor contact information, payment details, and other necessary information.

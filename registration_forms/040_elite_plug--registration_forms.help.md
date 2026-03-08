@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Elite Plug - Help Guide
 
 ## Purpose

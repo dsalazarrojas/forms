@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in joining the Whiskey Enthusiasts Club. It includes personal details, preferences, and agreements to the club's terms and conditions, as well as other optional agreements related to the club's activities and services. The form is meant to be completed by individuals who wish to join the club, either as a member or for other purposes such as volunteering or donating.
-
-The form is split into different sections, each collecting specific types of information. It is essential to fill out all required fields and carefully consider the optional agreements before submitting the form. The collected data will be used to tailor the club's experience to the individual's interests and preferences.
-
-Note that some fields are required for the membership process, while others are optional and related to the club's activities. It is crucial to understand the purpose and implications of each field before proceeding.
-
-To avoid duplication of efforts, it's worth noting that the club already has a database of existing members, and this form is intended to collect new member information and preferences. Non-members may still use this form to express interest or inquire about the club's activities.
-
-Before proceeding, ensure that all required fields are correctly filled out, and take the time to review each field's purpose and options carefully.
-</thinking>
-
 # Whiskey Enthusiasts Club Membership Form - Help Guide
 
 ## Purpose

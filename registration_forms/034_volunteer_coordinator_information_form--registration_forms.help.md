@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for Volunteer Coordinators to record and update information on volunteers who are involved with the organization. The form will likely be filled out by the Volunteer Coordinator, possibly by other administrators or staff members, or potentially by volunteers themselves.
-Each field in this form is crucial for maintaining accurate records and facilitating effective communication among stakeholders. Please take a moment to review each field carefully and make sure you have the necessary information before submitting this form.
-</thinking>
-
 # Volunteer Coordinator Information Form - Help Guide
 ## Purpose
 The purpose of this form is to collect and store information about volunteers, including their program, start and end dates, status, contact details, and any additional information relevant to their role.

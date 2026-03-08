@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tuition Payment Form - Help Guide
 ## Purpose
 The Tuition Payment Form is designed to collect detailed information about tuition payments, including payment details, student and guardian information, and payment status. This form ensures that all necessary information is gathered for efficient and accurate processing of tuition payments.

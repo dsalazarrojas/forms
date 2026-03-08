@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to register for the Sustainable Workforce Program. The purpose of this form is to ensure that all necessary contact and program information is collected to facilitate effective communication and program management. Please fill out this form carefully and accurately to ensure that your registration is processed smoothly.
-</thinking>
-
 # Sustainable Workforce Program Registration Form - Help Guide
 ## Purpose
 The Sustainable Workforce Program Registration Form is designed to collect information from users who want to register for the program. The purpose of this form is to gather necessary contact and program information to facilitate effective communication and program management.

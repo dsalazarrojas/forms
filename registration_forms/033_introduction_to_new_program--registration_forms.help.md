@@ -1,15 +1,3 @@
-<thinking>
-This form seems to be a registration form designed for gathering information about participants in a new program or event. The fields suggest that it's collecting data on participant contact information, program details, and event information. It appears to be a long form with many fields, possibly due to the complexity of the information being collected. Before starting to fill out this form, please take a moment to review each field carefully to ensure you're providing the correct information.
-
-Note: This form is likely used in a business-to-business or academic setting where participants need to provide detailed information about themselves and the event they're attending/participating in.
-
-Before filling out this form, ensure you have all the necessary information ready, and take your time to provide accurate details. If you're unsure about any field, feel free to ask for clarification or assistance. 
-
-This form is designed to be completed by one person, and the data will be used for [insert purpose here, e.g., event organization, participant tracking, etc.]. The fields are designed to collect comprehensive information, so please be thorough when filling them out.
-
-If you need any help or have questions while filling out this form, please don't hesitate to reach out to the form owner or support team.
-</thinking>
-
 # Introduction to new program - Help Guide
 ## Purpose
 This form is designed to collect participant information for a new program or event. It's essential to fill it out accurately and thoroughly to ensure that we have all the necessary details.

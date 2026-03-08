@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register attendees for an Environmental Awareness Workshop. It is intended for internal use within the organization, and its purpose is to track information about the attendees, their contact information, and workshop details. This form is not intended for external use, and its data will not be publicly accessible. To avoid duplication, please ensure that you only fill out this form once for each attendee.
-</thinking>
-
 # Environmental Awareness Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register attendees for an Environmental Awareness Workshop. It collects contact information and details about the workshop.

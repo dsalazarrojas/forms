@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # precision-oncology-data-forum-registration-form - Help Guide
 ## Purpose
 This form is designed to collect registration information from attendees for the precision oncology data forum. It collects details such as contact information, address, event and workshop preferences, and any additional notes from the attendee. The form is intended for registration purposes only.

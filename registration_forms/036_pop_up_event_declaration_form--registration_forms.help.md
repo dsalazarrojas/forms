@@ -1,7 +1,3 @@
-<thinking>
-  This form is used for users to declare their interest in participating in a pop-up event. It is intended to be filled out by individuals who wish to take part in the event, and requires their personal details such as name, email, and phone number. The form is meant to be completed in a few simple steps, with each field having a specific purpose in mind. This guide will walk you through the form's purpose, how to fill it out, and explain each field's significance.
-</thinking>
-
 # Pop Up Event Declaration Form - Help Guide
 ## Purpose
 The Pop Up Event Declaration Form is used to declare your interest in participating in a pop-up event. This form collects basic information about you, such as your name and contact details, to ensure you receive updates and instructions about the event.

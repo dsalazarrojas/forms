@@ -1,13 +1,3 @@
-<thinking>
-To ensure that the "voice_placement_form" form is used correctly and efficiently, please note the following:
-
-*   This form is used for the purpose of submitting information and data related to voice placement.
-*   The form is designed to collect relevant details such as name, email, phone number, voice type, years of experience, previous studios or production companies, demo reels, voice samples, and a resume.
-*   The form is divided into sections to make it easy to follow and fill out.
-*   Please fill out the form accurately and completely to ensure that your submission is processed correctly.
-
-</thinking>
-
 # voice_placement_form - Help Guide
 ## Purpose
 This form is used to submit information and data related to voice placement.

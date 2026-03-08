@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide will cover the drumming battle tournament entry form, providing users with a clear understanding of its purpose, completion process, and field explanations.
 
 # drumming_battle_tournament_entry_form - Help Guide

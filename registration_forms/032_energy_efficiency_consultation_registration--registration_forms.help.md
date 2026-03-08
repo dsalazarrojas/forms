@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from potential clients interested in consulting on energy efficiency solutions for their properties. The purpose of this form is to gather essential details to schedule a consultation, which will likely involve assessing the client's property energy usage and identifying areas for improvement.
-The form aims to collect relevant information to ensure a successful consultation, and it is essential to fill it out accurately to avoid any potential issues or miscommunications.
-</thinking>
-
 # Energy Efficiency Consultation Registration - Help Guide
 ## Purpose
 The Energy Efficiency Consultation Registration form is a tool used to collect information from potential clients interested in consulting on energy efficiency solutions for their properties. This form is designed to gather essential details to schedule a consultation and provide a successful consultation experience.

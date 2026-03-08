@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow individuals to register their interest in the Factory AI Integration Council. The form will help us understand the backgrounds and motivations of potential council members, which will aid in the effective organization and management of the council's activities. The form is not a requirement for membership, but rather a way for us to get a better understanding of our potential council members. Please fill out this form carefully and truthfully to help us better understand your interest in the Factory AI Integration Council.
-</thinking>
-
 # Factory AI Integration Council Registration Form - Help Guide
 ## Purpose
 The Factory AI Integration Council Registration Form is designed to gather information from individuals interested in joining the Factory AI Integration Council. This form helps us understand your background, roles, and motivations for joining the council.

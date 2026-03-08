@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for fitness classes. It's used to collect information from participants and staff members about their registration details. The form is essential for organizing and tracking participant and staff attendance, roles, and other relevant information. To ensure accurate and complete data, it's crucial to fill out the form carefully.
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

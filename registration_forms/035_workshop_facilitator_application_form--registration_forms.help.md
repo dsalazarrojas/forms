@@ -1,8 +1,3 @@
-<thinking>
-We will use this form to collect information from potential workshop facilitators who wish to lead our workshops. This form will help us assess their experience, skills, and availability to host and facilitate our workshops. We want to ensure that our facilitators are aligned with our organization's values and terms of service. This form will help us evaluate and approve or reject potential facilitators based on their application.
-We will review this form to prevent duplicate applications and ensure that only suitable facilitators are selected.
-</thinking>
-
 # Workshop Facilitator Application Form - Help Guide
 ## Purpose
 The Workshop Facilitator Application Form is designed to collect information from potential workshop facilitators who wish to lead our workshops. This form helps us assess their experience, skills, and availability to host and facilitate our workshops.

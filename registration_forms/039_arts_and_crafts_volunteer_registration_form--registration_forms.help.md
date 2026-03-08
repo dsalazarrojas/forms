@@ -1,7 +1,3 @@
-<thinking>
-This guide is designed to help users understand the purpose and process of completing the Arts And Crafts Volunteer Registration Form. The form is intended to gather information from potential volunteers for arts and crafts events, including their personal details, skills, and availability. This guide will outline each field in the form and provide instructions on how to fill it out correctly.
-</thinking>
-
 # Arts And Crafts Volunteer Registration Form - Help Guide
 ## Purpose
 This form is used to register volunteers for arts and crafts events. It helps us to gather information about your availability, skills, and interests to ensure a successful event.

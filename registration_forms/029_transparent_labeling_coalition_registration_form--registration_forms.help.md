@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for organizations to register with the Transparent Labeling Coalition. The registration process involves providing essential information about the organization, including its name, address, contact person, and contact email. The form also asks for event details, if applicable, and other relevant information such as website, notes, and assigned tool. The registration process is required for all organizations and individuals seeking to participate in the coalition's activities.
-</thinking>
-
 # Transparent Labeling Coalition Registration Form - Help Guide
 ## Purpose
 This form is for organizations to register with the Transparent Labeling Coalition. It is a mandatory process for all organizations seeking to participate in the coalition's activities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from investors, specifically their name, contact number, email, company name, investment type, investment amount, investment status, and additional comments. The form is likely used for registration or data collection purposes.
-</thinking>
-
 # investor_information_form - Help Guide
 ## Purpose
 This form is used to collect and store investor information for [Insert purpose, e.g., record-keeping or reporting].

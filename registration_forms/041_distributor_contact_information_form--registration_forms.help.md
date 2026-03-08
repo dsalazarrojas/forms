@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about distributors, including their contact details and other relevant information. It's intended for use by authorized personnel within the organization to gather contact information for communication and collaboration purposes. Please ensure that you only submit accurate and up-to-date information to avoid any potential issues or miscommunications. It's also important to note that this form should not be used for any other purpose other than its intended use, as it contains sensitive information.
-</thinking>
-
 # Distributor Contact Information Form - Help Guide
 ## Purpose
 This form is designed to collect contact information for distributors, including name, email, phone number, and other details. Please fill out this form accurately and completely to ensure proper communication with our team.

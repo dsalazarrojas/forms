@@ -1,8 +1,3 @@
-<thinking>
-The form purpose is to register individuals or teams for a disaster recovery medical coordination system. The internal reasoning block checks for relevance and non-duplication of registrations. This form is to be filled out by individuals or teams to provide contact information, role, location, and availability for medical disaster response efforts.
-
-</thinking>
-
 # Disaster Recovery Medical Coordination Registration - Help Guide
 ## Purpose
 This form is designed to gather information from individuals or teams to register for a disaster recovery medical coordination system. It helps the system to efficiently manage medical responses during disasters.

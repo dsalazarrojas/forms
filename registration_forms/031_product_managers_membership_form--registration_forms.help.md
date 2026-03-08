@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about product managers seeking membership to a certain community or group. The form is meant to be a straightforward and simple way to collect necessary contact and job-related details from interested product managers. 
-
-Please ensure that the information provided here is not used in conjunction with any existing or similar form and will instead serve as a unique adaptation for this use case.
-
-You are free to use this form for any purpose as long as you provide the proper credits.
-</thinking>
-
 # Product Managers Membership Form - Help Guide
 ## Purpose
 The **Product Managers Membership Form** is a tool used by product managers to provide their information for consideration of membership to a certain community or group.

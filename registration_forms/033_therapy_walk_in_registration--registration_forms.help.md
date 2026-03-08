@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for a therapy walk-in registration, likely for a medical facility or clinic. The purpose of this form is to gather essential details about the user, including contact and therapy information, medical history, insurance details, and consent. This form is intended to be used by patients or their representatives to provide necessary information for treatment planning and consent. 
-</thinking>
-
 # Therapy Walk In Registration - Help Guide
 ## Purpose
 The Therapy Walk In Registration form is designed to collect user information for a therapy walk-in appointment. This information will help the medical facility prepare for the appointment and ensure that the patient receives proper treatment.

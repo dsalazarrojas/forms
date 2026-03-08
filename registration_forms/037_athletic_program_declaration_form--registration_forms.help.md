@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help athletes declare their participation in various athletic programs at their school. It is essential for the school administration to have accurate and up-to-date information about each athlete's personal details, medical conditions, and other relevant data.
-Before completing this form, please note that some of the fields are mandatory and must be filled out correctly to avoid any issues with registration. The form is divided into several sections, each containing specific fields that need to be filled out accordingly.
-Please ensure that you have all the necessary information ready before starting the form, and fill out each section carefully.
-</thinking>
-
 # Athletic Program Declaration Form - Help Guide
 ## Purpose
 This form is used to declare participation in athletic programs and gather relevant information about student athletes.

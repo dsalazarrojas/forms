@@ -1,11 +1,3 @@
-<thinking>
-
-This form is meant for individuals to register their interest in joining the Industrial Resilience Council. The purpose of this form is to collect relevant information from potential members, such as their name, contact information, and their current involvement with industrial resilience-related projects or initiatives. This form is not intended for existing members to update their profiles. If you are already a member, please do not fill out this form.
-
-Please ensure that you are registering as a new individual and not as a representative of a company or organization. If you are registering as a representative, please use the corresponding registration form for companies/organizations.
-
-</thinking>
-
 # Industrial Resilience Council Registration Form - Help Guide
 ## Purpose
 The Industrial Resilience Council Registration Form is a form used to collect information from individuals interested in joining the council. This form is designed to gather relevant details to determine whether someone is a good fit for the council and to ensure that we have the most up-to-date information about our members.

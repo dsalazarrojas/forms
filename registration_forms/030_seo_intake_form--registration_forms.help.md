@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that end users understand the purpose and structure of this form for accurate and efficient completion. The form is designed for SEO intakes, gathering information about projects and their related details. Before starting, please review the form fields carefully to avoid duplication of effort and ensure you provide accurate information. The form fields are organized into categories, including project details, company information, contact details, project goals, and SEO-specific information. Make sure to fill in all required fields and provide clear and concise information for each field. Review the form carefully and save your progress before submitting.
-</thinking>
-
 # seo-intake-form - Help Guide
 ## Purpose
 The SEO Intake Form is designed to gather information about projects and their related details for SEO purposes.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to register for an annual review workshop. It collects information about the participant, including their name, email, phone number, company or organization, position title, department, role in the review process, preferred workshop date, attendance method, experience level, goals for attending the workshop, and any special accommodations needed. The form is used to ensure that the participant is committed to attending the workshop and to gather information about their interests and needs. It is essential to complete this form accurately and honestly to ensure that the workshop organizers can provide the best possible experience for all participants.
-To complete this form, users should start by providing their full name, email address, and phone number. They should then select their role in the review process, preferred workshop date, attendance method, and confirm their commitment to attending the workshop. Additionally, users should indicate their experience level, goals for attending the workshop, and any special accommodations they may need. Finally, they can select topics of specific interest and provide any additional comments or feedback they have about previous workshops.
-Please review each field carefully to ensure that you are providing the correct information.</thinking>
-
 # Annual Review Workshop Attendance Form - Help Guide
 ## Purpose
 This form is designed for users to register for an annual review workshop.

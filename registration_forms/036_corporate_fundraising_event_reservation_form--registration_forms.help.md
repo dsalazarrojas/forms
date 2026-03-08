@@ -1,7 +1,3 @@
-<thinking>
-This form is for registration for a corporate fundraising event. It captures information from attendees, event organizers, and event details. The purpose of this form is to gather information necessary for event planning, coordination, and follow-up.
-</thinking>
-
 # corporate_fundraising_event_reservation_form - Help Guide
 ## Purpose
 This form is used to register for a corporate fundraising event. It captures the necessary information from the attendees and the event organizer to ensure a smooth planning and execution of the event.

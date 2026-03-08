@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for volunteer program training enrollment. To ensure that the information you enter is accurate and relevant, please read the following help guide carefully before submitting your application.
-The form is used to collect information from volunteers enrolling in a training program. It is not intended for non-volunteers or individuals who are not enrolling in a training program.
-Before starting this form, please ensure that you have all the required information ready and that the training session you are selecting aligns with your goals and availability.
-</thinking>
-
 # Volunteer Program Training Enrollment Form - Help Guide
 ## Purpose
 This form is designed to help volunteers enroll in a training program. Please fill out the following fields to register your interest.

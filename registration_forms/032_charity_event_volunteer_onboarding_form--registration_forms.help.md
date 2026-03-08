@@ -1,7 +1,3 @@
-<thinking>
-We are building a form to collect information from potential volunteers for a charity event. This form is intended for individuals who are interested in volunteering for the event. We will not be collecting unnecessary information and aim to provide a user-friendly experience. Please note that some information is required to ensure the volunteer's identity, availability, and role preferences. This form will help us understand the volunteer's background, skills, and experience, which will be used to place them in the most suitable position during the event.
-</thinking>
-
 # Charity Event Volunteer Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential volunteers for the charity event. It will help us understand your availability, skills, and experience, which will be used to place you in the most suitable position during the event.

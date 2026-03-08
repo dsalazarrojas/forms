@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for companies and individuals to register for a circular manufacturing economy conference. The purpose of this form is to gather information about the registrant's company, including their name, email, phone number, and job title. It also collects data about the company's department, size, and type of manufacturing. The form asks about the company's current practices related to circular economy, their waste percentage, and their sustainability goals. The registrant is asked to select the session tracks they are interested in, as well as whether they are interested in networking sessions or exhibition booths. Finally, the form asks for payment method information.
-</thinking>
-
 # Circular Manufacturing Economy Registration - Help Guide
 ## Purpose
 This guide will walk you through the steps to complete the circular manufacturing economy registration form.

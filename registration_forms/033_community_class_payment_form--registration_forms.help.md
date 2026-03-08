@@ -1,11 +1,3 @@
-<thinking>
-This form is used to register participants for a community class, collecting information for class payment and participation details. The form is intended for individuals interested in enrolling in a class, and it is crucial to ensure accurate and complete participant information is collected.
-
-To avoid duplication of registration efforts, we will be checking for existing registrations for the same participant name and class session date. If you have already registered for this class, you will not be able to submit this form.
-
-Please note that some fields are mandatory, while others are optional or for reference. Ensure to fill out all required fields accurately and thoroughly.
-</thinking>
-
 # Community Class Payment Form - Help Guide
 ## Purpose
 The Community Class Payment Form is used to register participants for a community class, collecting necessary information for payment and participation details.

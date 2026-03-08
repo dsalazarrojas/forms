@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register their sonship information. To be eligible for this form, users should be a son or daughter of a member of the organization. The form is not meant for individuals who are already registered as members. Please ensure you are eligible before proceeding to fill out this form.
-</thinking>
-
 # Sonship Registration Form - Help Guide
 ## Purpose
 This form is for registering your sonship information with our organization. It helps us to keep track of your family relationships and ensures that we can contact you in case of emergencies.

@@ -1,7 +1,3 @@
-<thinking>
-The Youth Camp Attendance Form is designed to help camp administrators track and collect information from youth participants attending the camp. This form aims to gather essential details such as name, date, and contact information for each participant, as well as their staff status and emergency contact details. The form is typically filled out by the participant themselves or their parent/guardian, providing a clear and concise record of each individual's presence and status during the camp. 
-</thinking>
-
 # Youth Camp Attendance Form - Help Guide
 ## Purpose
 The Youth Camp Attendance Form is a document used to collect information about each participant attending the camp. This form is essential for keeping track of participant details, including name, date of arrival and departure, participant type, staff status, and emergency contact information.

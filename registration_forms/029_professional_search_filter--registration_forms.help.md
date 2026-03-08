@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect professional information for search filtering purposes. This form will be used to gather data about professionals, such as job titles, experience, skills, and certifications. It will help in filtering data based on specific criteria for professional search results. The form does not require any specific authentication or login credentials. This form does not have any conditional logic or dependencies on other form fields. It seems that the form is designed to be a self-contained, one-page form for collecting basic professional information.
-</thinking>
-
 # Professional Search Filter - Help Guide
 ## Purpose
 This form is designed to collect professional information for search filtering purposes. It will help in filtering data based on specific criteria for professional search results.

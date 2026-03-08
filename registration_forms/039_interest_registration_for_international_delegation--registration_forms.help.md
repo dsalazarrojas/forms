@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Interest Registration For International Delegation - Help Guide
 
 ## Purpose

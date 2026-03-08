@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to manage the subscription to a customer relationship management system. It is used to collect information about a customer's subscription, including their name, email, phone number, subscription type, start date, end date, payment method, payment amount, and payment frequency. This form is designed to be completed by customers who are interested in subscribing to the service. Before filling out this form, ensure you are authorized to do so and that the subscription details are accurate. The information collected will be used to process and manage the subscription.
-
-</thinking>
-
 # customer_relationship_management_subscription_form - Help Guide
 ## Purpose
 The customer relationship management subscription form is used to collect information about a customer's subscription to the customer relationship management system. It is used to process and manage the subscription details.

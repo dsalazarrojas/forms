@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for users to register on the Hair Artist Community Forum. The purpose of this form is to collect contact information and preferences from potential members, which will be used to create an account for them on the forum. This form is not intended for existing registered users, as they do not need to register again. Please ensure that you are not attempting to register as a duplicate account.
-
-</thinking>
-
 # Hair Artist Community Forum Registration - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Hair Artist Community Forum Registration form.

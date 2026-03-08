@@ -1,13 +1,3 @@
-<thinking>
-
-The Gym Membership Enrollment Form is a critical step for new customers to sign up for a membership at the gym. This form captures essential information for the gym management to process the membership application and for the customer to confirm their details. 
-
-This form appears to be designed for individuals, not businesses, given the personal information required such as date of birth, emergency contact details, and billing address. The form is quite comprehensive, covering various aspects of membership enrollment, including payment methods and billing information. 
-
-Before proceeding, ensure the customer understands the form's purpose and the information needed to complete it accurately. 
-
-</thinking>
-
 # Gym Membership Enrollment Form - Help Guide
 
 ## Purpose

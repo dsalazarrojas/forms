@@ -1,18 +1,3 @@
-<thinking>
-We are creating a help guide for a form used to register candidates for a Cybersecurity Specialist position. The form should be clear, concise, and easy to understand for end-users. To ensure accuracy, we'll base our explanations on the provided YAML fields and avoid making assumptions about the business logic.
-
-Before filling the form, please take a moment to read this help guide to understand each section's purpose and what information is required.
-
-This form is designed to collect information from candidates applying for a Cybersecurity Specialist position. It's essential that you provide accurate and relevant information to increase your chances of being considered for this role.
-
-Please note that this form is used for initial registration purposes only and may not be a substitute for an interview or assessment process.
-
-We recommend reviewing your answers carefully and saving your progress as you go along, as the form does not allow saving and loading of partially completed forms.
-
-Also, be aware that some sections might require specific formatting or have specific constraints, such as email addresses or phone numbers. Ensure that you provide the correct format to avoid errors or rejection of your submission.
-
-</thinking>
-
 # Cybersecurity Specialist Candidate Registration Form - Help Guide
 ## Purpose
 The form is designed to collect information from candidates applying for a Cybersecurity Specialist position. It's essential that you provide accurate and relevant information to increase your chances of being considered for this role.

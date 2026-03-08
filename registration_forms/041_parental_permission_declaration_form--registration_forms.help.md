@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from parents or guardians of students, typically to obtain their consent for a student to participate in a particular activity or event. It's a general-purpose form, not specific to any particular activity or event. To avoid duplication, please ensure you have filled out a similar form for the same student previously, or if this is a new student, make sure the activity has been registered with the school administration. If you're not sure, please contact the school administration to clarify.
-</thinking>
-
 # Parental Permission Declaration Form - Help Guide
 ## Purpose
 This form is used to collect information from parents or guardians of students for a particular activity or event. It's essential for the school administration to have this information to ensure the student's safety and well-being.

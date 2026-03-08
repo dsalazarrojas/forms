@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register companies in the smart manufacturing software system. The purpose of the form is to gather contact and company information from new users to onboard them into the system. The form is not a duplicate registration form, as users must complete it only once to create their company profile.
-</thinking>
-
 # smart_manufacturing_software_registration - Help Guide
 ## Purpose
 This form is used to register companies in the smart manufacturing software system. It is a one-time registration process that captures essential company and contact information.

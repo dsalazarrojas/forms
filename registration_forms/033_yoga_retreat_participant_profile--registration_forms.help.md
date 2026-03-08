@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users understand its purpose and how to fill it out. The form is a "Yoga Retreat Participant Profile" which is likely used to collect essential information from individuals participating in a yoga retreat. This information will help the retreat organizers to understand the participants' needs and provide a safe and comfortable environment for everyone.
-We should check if this form is being used correctly and not duplicated unnecessarily. If there's any doubt, it's always better to double-check.
-</thinking>
-
 # Yoga Retreat Participant Profile - Help Guide
 
 ## Purpose

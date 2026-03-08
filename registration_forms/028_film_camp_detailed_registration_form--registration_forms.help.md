@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register participants for a film camp. This form is designed to collect detailed information from participants to create a comprehensive profile. The form is divided into multiple pages, and each page has fields that require specific information from the participant. The form requires the participant's name, email, contact number (optional), camp name, registration date, participant type, and notes (optional). The participant type field is a select multiple field, allowing the participant to select multiple options from a list. If the participant's type does not match any of the provided options, they can select "other" and provide a custom type in the participant_type_other field. This form is intended for film camp registration, and the information collected will be used to manage participant information and facilitate communication with them throughout the camp.
-
-</thinking>
-
 # Film Camp Detailed Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for a film camp.

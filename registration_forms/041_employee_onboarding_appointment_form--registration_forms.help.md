@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to gather information from new employees to schedule an onboarding appointment. The purpose of this form is to streamline the onboarding process by collecting necessary details from the employee, such as their name, job title, email, phone number, preferred schedule for the appointment, and start time of the appointment. This information will be used to create a personalized onboarding experience for the employee.
-
-Before completing this form, ensure that you are an authorized representative of the company or an HR representative. This form should only be filled out by employees who are about to start their new role.
-
-</thinking>
-
 # Employee Onboarding Appointment Form - Help Guide
 ## Purpose
 This form is designed to gather essential details from new employees for an efficient onboarding process. Please fill out the form accurately to ensure a smooth transition into your new role.

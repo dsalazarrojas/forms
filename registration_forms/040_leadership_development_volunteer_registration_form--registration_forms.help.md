@@ -1,12 +1,3 @@
-<thinking>
-To create this form, I considered the following internal reasoning and checks for relevance and non-duplication:
-- The form is designed for people to register as volunteers in a leadership development program, implying that the form is used for organizational or educational purposes.
-- The form includes fields for personal details such as first name, last name, and phone number, which suggests that the form is intended for individuals to provide contact information.
-- The form also asks for an email address, which is a common requirement for many online forms, implying that the form may be used for communication purposes.
-- The select_one field for volunteer type allows the user to choose from a set of pre-defined options, which might include different types of leadership positions or roles within the organization.
-- The select_multiple field for skills and interests implies that the user may be able to provide multiple skills or interests relevant to the program.
-</thinking>
-
 # Leadership Development Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals to register as volunteers in a leadership development program. Completing this form will help the program organizers gather the necessary information to place you in a suitable position or team within the program.

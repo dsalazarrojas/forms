@@ -1,7 +1,3 @@
-<thinking>
-This form is a waiver form designed for horseback riding, which is a common legal requirement for horseback riding activities. The form's purpose is to collect information from riders and their emergency contacts, as well as obtain their consent for liability and other related matters. To avoid duplication, this form is not affiliated with any specific horseback riding platform or organization, and is an original adaptation created using public metadata from surveys on the topic. The form's fields are designed to be straightforward and easy to fill out, with no redundant or unnecessary questions. Before filling out the form, make sure you have all the necessary information and contacts ready.
-</thinking>
-
 # Horseback Riding Waiver Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from blood donors during the check-in process. This form is designed to be completed by the donor upon arrival, and the required fields ensure that the donor's identity, contact information, and medical history are collected accurately. To prevent duplication, the form should not be filled out by individuals who have already completed the form in the current session.</thinking>
-
 # Blood Donation Check In Form - Help Guide
 
 ## Purpose

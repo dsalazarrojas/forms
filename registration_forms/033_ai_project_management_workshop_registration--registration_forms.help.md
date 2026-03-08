@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees interested in attending the AI Project Management Workshop. The form aims to collect details about the attendee's background, experience, and preferences regarding the workshop. The primary purpose of this form is to facilitate effective registration for the workshop.
-
-To ensure that the form is used correctly, it's essential to check for relevance and non-duplication of entries. This form is for registration purposes only and should not be used for other purposes. 
-
-Please note that this form is divided into several sections, each covering a specific aspect of the attendee's information and preferences.
-
-</thinking>
-
 # AI Project Management Workshop Registration - Help Guide
 ## Purpose
 This form is designed to gather information from attendees interested in attending the AI Project Management Workshop. It collects details about the attendee's background, experience, and preferences regarding the workshop.

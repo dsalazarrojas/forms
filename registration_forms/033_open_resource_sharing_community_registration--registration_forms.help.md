@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in joining the Open Resource Sharing Community. The purpose of this form is to gather essential details about the registrant, their needs, and what they can offer to the community. The form is divided into several sections, each focusing on different aspects of community membership. Please note that this form is not intended for internal use within the organization, but rather for external registration purposes. To ensure accuracy, please review the form carefully and ensure you're filling it out correctly. If you're unsure about any field, please ask for clarification.
-</thinking>
-
 # Open Resource Sharing Community Registration - Help Guide
 ## Purpose
 The Open Resource Sharing Community Registration Form is a simple, user-friendly form designed to collect information from individuals interested in joining the Open Resource Sharing Community. The form is meant to be completed by those wishing to become members of the community, and it should only take a few minutes to fill out.

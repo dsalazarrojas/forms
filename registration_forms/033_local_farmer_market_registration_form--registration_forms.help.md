@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering a local farmer market with the market name, vendor information, and market details. The purpose of this form is to collect information from farmers and vendors who want to participate in the local farmer market. This form should only be used by farmers and vendors who are interested in selling their products at a local farmer market. 
-</thinking>
-
 # local_farmer_market_registration_form - Help Guide
 ## Purpose
 This form is used to register a local farmer market and collect information from farmers and vendors. Fill out this form to provide your market name, vendor name, contact information, and market details.

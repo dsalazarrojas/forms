@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to RSVP to an open house event in their neighborhood. Before proceeding, please ensure that you have not already RSVPed to this event, as duplicate submissions will not be accepted. If you have any issues with your RSVP or need to cancel your attendance, contact your neighborhood representative directly.
-</thinking>
-
 # Neighborhood Open House RSVP Form - Help Guide
 ## Purpose
 This form is used to RSVP to the neighborhood open house event. Please fill out the form accurately and completely to ensure that your attendance is recorded correctly.

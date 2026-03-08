@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form is filled out correctly and to prevent duplication of effort, please review and understand the form's purpose and requirements before filling it out. The "Art Gallery Expansion Launch RSVP Form" is meant to gather essential information from guests and individuals interested in attending the launch event of our art gallery expansion. This form will help us determine attendance, provide hospitality and accessibility accommodations, and facilitate communication about future VIP events.
-</thinking>
-
 # Art Gallery Expansion Launch RSVP Form - Help Guide
 ## Purpose
 The Art Gallery Expansion Launch RSVP Form is designed to collect information about your plans to attend our upcoming launch event, ensuring that we can provide the best possible experience for all attendees, including accessibility accommodations and hospitality. Please review the following instructions to complete the form correctly.

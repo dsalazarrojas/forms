@@ -1,11 +1,3 @@
-<thinking>
-
-This form, titled "ski_resort_season_pass_enrollment," is designed to help users register themselves or someone else for a seasonal pass at a ski resort. The purpose of this form is to collect relevant information to determine eligibility and process the enrollment. It is a multi-page form with five distinct sections, each requiring user input for different aspects of the registration process.
-
-The form should only be submitted if the user has a legitimate reason to purchase a seasonal pass, i.e., they are a returning customer or have been given a special offer. Duplicate submissions will not be processed.
-
-</thinking>
-
 # ski_resort_season_pass_enrollment - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-
-The FARO Initiative Registration Form is used to register users for the FARO Initiative program. It appears to be a comprehensive form with multiple sections, each designed to collect specific information from the user. To complete this form, you will be guided through each section, and the explanations below will help clarify each field's purpose.
-
-</thinking>
-
 # FARO Initiative Registration Form - Help Guide
 ## Purpose
 The FARO Initiative Registration Form is a program registration form designed to collect essential information from users for the FARO Initiative. 

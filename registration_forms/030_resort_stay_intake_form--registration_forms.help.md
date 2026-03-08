@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from guests staying at a resort. The purpose of this form is to gather necessary details for smooth guest management, including arrival and departure dates, contact information, room preferences, and payment methods. This form will be used by resort staff to process guest reservations and provide personalized services.
-
-Before completing the form, please ensure that you are providing accurate and honest information. This form is designed to be completed by one guest per submission.
-
-The form has 10 fields that must be completed for the guest reservation to be processed.
-
-**Note:** The form has been designed to be as user-friendly as possible, please take a few minutes to read through each section carefully before answering.
-
-</thinking>
-
 # resort_stay_intake_form - Help Guide
 ## Purpose
 This form is used to collect guest information for a resort stay. It includes arrival and departure dates, guest contact details, room preferences, reservation ID, special requests, payment method, email, and additional comments.

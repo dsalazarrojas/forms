@@ -1,7 +1,3 @@
-<thinking>
-This form was created to aid in the registration process for wholesale booking platforms. Its primary purpose is to gather essential information from users, ensuring a smooth and secure transaction experience. This form will not collect any sensitive or personal data, and all the data collected will be used for internal business purposes only. This guide will walk you through the form's fields and explain each section's relevance and importance in the registration process.
-</thinking>
-
 # Wholesale Booking Platform Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from users to register their wholesale booking platforms.

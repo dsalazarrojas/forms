@@ -1,9 +1,3 @@
-<thinking>
-
-We need to create a user-facing help guide for a form used to register users for a beta test of a Voice Commerce platform. The purpose of this form is to collect information from interested individuals who want to be part of the beta test, allowing them to provide feedback and help shape the development of the Voice Commerce platform. We need to ensure that users understand what information we need from them and how to provide it accurately. This form has 7 fields, including first name, last name, email, phone number, date of birth, gender, and location. All fields, except for date of birth, are optional.
-
-</thinking>
-
 # Voice Commerce Beta Test Registration - Help Guide
 ## Purpose
 

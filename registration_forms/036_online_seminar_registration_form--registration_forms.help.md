@@ -1,10 +1,3 @@
-<thinking>
-# Online Seminar Registration Form is used to register a new online seminar. 
-The form allows the user to input various information such as seminar title, description, start date and time, end date and time, capacity, location, price, and registration fee. 
-The form also includes fields to input user information such as first name, last name, email, phone, and address. 
-The fields are organized into pages, which allows the user to input information page by page. 
-</thinking>
-
 # Online Seminar Registration Form - Help Guide
 ## Purpose
 This form is used to register a new online seminar. 

@@ -1,8 +1,3 @@
-<thinking>
-Form purpose: To confirm the admission of a student to a program or course of study.
-Non-duplication: This form is meant for individual students, not for multiple students at once. Please fill out the form for your own admission status.
-</thinking>
-
 # Admission Confirmation Form - Help Guide
 
 ## Purpose

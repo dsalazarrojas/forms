@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about attendees' plans to attend a strategic planning meeting. It is not intended for external users, but rather for internal staff members or team leaders to provide information about their expected attendance. This form should only be filled out by those who have been invited to the meeting. 
-</thinking>
-
 # Strategic Planning Meeting RSVP Form - Help Guide
 ## Purpose
 This form is used to help the meeting organizers track the attendance and plans of team members who have been invited to the strategic planning meeting.

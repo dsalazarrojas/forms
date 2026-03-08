@@ -1,7 +1,3 @@
-<thinking>
-This form will serve as a digital record for users to track checkouts of science lab equipment. To confirm, users will be asked to input their email address, select lab names, the name of the equipment being checked out, the date they are checking out the equipment, the date they expect to return the equipment, the condition of the equipment, and any additional notes. The form will also ask for the user to input which user they are assigning the equipment to and what status the equipment is in. The form will not ask for duplicate entries if the user has already checked out equipment for this lab on this date.
-</thinking>
-
 # science_lab_check_out_form - Help Guide
 ## Purpose
 This form is used to digitally record the checkout of science lab equipment for tracking and management purposes.

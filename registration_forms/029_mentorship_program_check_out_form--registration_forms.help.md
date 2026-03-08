@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants and mentors for the Mentorship Program. The form is intended for program administrators and coordinators to collect feedback, evaluate the program's effectiveness, and identify areas for improvement.
-</thinking>
-
 # Mentorship Program Check Out Form - Help Guide
 ## Purpose
 The purpose of this form is to gather feedback from participants and mentors in the Mentorship Program. The collected data will be used by program administrators and coordinators to evaluate the program's effectiveness and identify areas for improvement.

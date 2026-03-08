@@ -1,9 +1,3 @@
-<thinking>
-This form is used to collect registration information for an operational benchmarking event. The event is likely related to the collection of data or metrics for a company's operational performance. This form will help users provide their personal details, role, job title, department, team, contact number, company, address, country, timezone, date, time, location, and description for the event. The form is likely used by internal staff or external participants in an organization.
-The form will not be used for public purposes and will have no impact on business decisions.
-The form will only allow the user to register once for each event.
-No other checks or verifications are performed on the data entered.
-</thinking>
 # Operational Benchmarking Event Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration information for an operational benchmarking event. The purpose of the form is to gather personal details and event preferences from participants.

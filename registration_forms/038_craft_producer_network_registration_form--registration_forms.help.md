@@ -1,12 +1,3 @@
-<thinking>
-We will create the help guide for the "Craft Producer Network Registration Form" in Markdown format, which will outline the form's purpose, provide step-by-step instructions, and offer field-by-field explanations for each section. 
-
-This form appears to be designed for producers to register their details within a network, providing an opportunity for producers to network and collaborate. It captures information related to producer details, categorization, contact information, and registration status.
-
-We'll make sure to explain each field in a clear and concise manner, without overcomplicating the explanations with too much business logic.
-
-</thinking>
-
 # Craft Producer Network Registration Form - Help Guide
 ## Purpose
 This form is designed for producers to register their details within the network, enabling them to collaborate and network with other producers.

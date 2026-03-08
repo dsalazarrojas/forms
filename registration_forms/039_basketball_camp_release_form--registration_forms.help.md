@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from participants and parents/guardians about a basketball camp. The form is used for registration and to gather important details about the participant and their emergency contacts. It's essential to provide accurate and complete information to ensure a smooth and safe experience for all campers. Please review the form carefully and fill it out completely to avoid any issues.</thinking>
-
 # Basketball Camp Release Form - Help Guide
 ## Purpose
 The Basketball Camp Release Form is a registration form designed to collect essential information from participants and their parents/guardians about their participation in the basketball camp. This form helps the camp staff to have accurate and up-to-date information about each participant, ensuring a safe and enjoyable experience for everyone.

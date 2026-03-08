@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for users who are registering an E Commerce Payment Integration with the system. The form is used to collect information from the user about their business and payment integration details. This guide will walk you through each field and provide a clear explanation of what each field is used for.
-
-To ensure that this guide is relevant and helpful, it is assumed that the user has a basic understanding of what an E Commerce Payment Integration is and what information is typically required for such an integration.
-
-It is also assumed that the user has already navigated to the form and is ready to start filling it out. 
-
-</thinking>
-
 # E Commerce Payment Integration Registration - Help Guide
 ## Purpose
 This form is used to register an E Commerce Payment Integration with the system. This integration is used to connect your E Commerce platform to the system, allowing you to process payments and manage orders seamlessly.

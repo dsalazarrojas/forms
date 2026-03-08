@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for donors to share their impact and stories on a platform, showcasing the events they have been a part of. To complete this form, you'll be providing information about the event you're showcasing, including your name, a brief story about your involvement, the type of event it was, the date and time it took place, and any additional information you'd like to share. Please ensure you only submit the form once with your real and unique story.
-</thinking>
-
 # Donor Impact Showcase Registration Form - Help Guide
 ## Purpose
 The Donor Impact Showcase Registration Form is designed for donors to share their impact stories and experiences with our organization. By filling out this form, you will be able to create a unique showcase of your involvement and share it with others.

@@ -1,35 +1,3 @@
-<thinking>
-This form is a registration form for talent show participants. To ensure that the form is completed correctly and efficiently, it's essential to understand its purpose and how it should be filled out. 
-
-The purpose of this form is to collect information from participants about their talent, performance details, and registration status. The form is divided into different sections to make it easier to navigate and provide a smooth user experience.
-
-The following sections are included in this form: 
-* First Name
-* Last Name
-* Contact Name
-* Email
-* Phone
-* Talent
-* Category
-* Description (optional)
-* Performance Date and Time
-* Registration Fee (optional)
-* Registration Type (optional)
-* Additional Comments (optional)
-* Payment Status (optional)
-* Registration Status (optional)
-* Payment Method (optional)
-* Payment Type (optional)
-* Event Status (optional)
-* Participant Number (optional)
-* Participant ID (optional)
-* User ID (optional)
-
-When filling out this form, it's crucial to ensure that all required fields are completed accurately and thoroughly. This includes providing your first name, last name, contact name, email, phone number, talent, category, date, time, and event location. 
-
-Please follow the instructions in the next section for a clear and concise explanation of each field. 
-</thinking>
-
 # Talent Show Registration Form - Help Guide
 ## Purpose
 The Talent Show Registration Form is a document used to collect information from participants for a talent show event. This form aims to gather essential details such as name, contact information, performance details, and registration status.

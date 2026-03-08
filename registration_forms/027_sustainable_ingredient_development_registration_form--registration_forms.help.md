@@ -1,14 +1,3 @@
-<thinking>
-This form is a registration form for sustainable ingredient development. It is likely intended for use within an internal project or organization focused on sustainable agriculture or food development.
-
-This form is intended for data collection purposes, and users are expected to register their interest in sustainable ingredients. However, without further context, it is unclear what exactly the form is used for, what kind of data is expected from users, and who will have access to the registered data. 
-
-There is no duplication check mentioned in the provided YAML. If the form is intended for repeated submissions, this should be clarified in the internal reasoning block or the form's description.
-
-This guide will help users navigate the form based on the provided fields.
-
-</thinking>
-
 # Sustainable Ingredient Development Registration Form - Help Guide
 ## Purpose
 This form is for users to register their interest in sustainable ingredients. Users can submit information about themselves, including their first name, last name, email, ingredient name, ingredient type, category, evaluation date, evaluation time, rating, and comments.

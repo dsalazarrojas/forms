@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's review the form purpose and fields. This form is for registering new volunteers, and it collects information about the individual, such as their name, contact details, and volunteer schedule. The form is designed to be completed by potential volunteers, who will provide their personal and scheduling information to be considered as a volunteer. The form fields seem to be fairly self-explanatory, but it's essential to double-check that the form's purpose and fields are clear to the end users.</thinking>
-
 # New Volunteer Registration Form - Help Guide
 ## Purpose
 This form is for registering new volunteers, collecting information about the individual, such as their name, contact details, and volunteer schedule.

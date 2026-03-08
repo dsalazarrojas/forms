@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering participants for a Quality Benchmarking Session. The goal is to collect information about the participant's details, preferences, and interests related to the session. This form is likely used to prepare for a benchmarking session, where participants will be sharing their expertise and experiences. The form should not be used to create duplicate entries, as it is not designed to be filled out multiple times. Participants are expected to fill out this form to indicate their interest in joining a session and to provide details about their availability for the session.
-</thinking>
-
 # Quality_Benchmarking_Session_Registration - Help Guide
 ## Purpose
 This form is used to register participants for a Quality Benchmarking Session.

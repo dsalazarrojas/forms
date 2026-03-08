@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from volunteer coordinators to track their training progress. The form should be used by volunteer coordinators to register for a training program, provide details about the program, select a training date, choose a training time, specify a training location (if applicable), and enter contact information for the coordinator.
-To ensure that this form is completed accurately and efficiently, please review the following instructions and field explanations:
-</thinking>
-
 # Volunteer Coordinator Training Form - Help Guide
 ## Purpose
 This form is designed to collect information from volunteer coordinators to track their training progress.

@@ -1,7 +1,3 @@
-<thinking>
-This form seems to be designed for users to register themselves into a yoga club, likely for membership, classes, or other activities. The form likely aims to collect general information about the user, payment details, and scheduling preferences for yoga classes. It's worth checking if the form already exists in the system, as there might be an existing registration form for the same purpose.
-</thinking>
-
 # Yoga Club Registration Form - Help Guide
 ## Purpose
 This form is designed for users to register themselves into the yoga club, providing general information about themselves, payment details, and scheduling preferences for yoga classes.

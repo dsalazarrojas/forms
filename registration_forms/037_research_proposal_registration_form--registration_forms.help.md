@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for research proposals to be submitted to a review process. Each section should be filled out carefully, ensuring accuracy and relevance. Please note that some fields are marked as required, meaning they are necessary for the submission process. Before starting, ensure that your institution and proposal details align with the options provided. Also, keep in mind that the review process may involve multiple parties, so ensure that your submission is complete and correct.
-</thinking>
-
 # research_proposal_registration_form - Help Guide
 ## Purpose
 This form is used to collect and submit research proposals for review.

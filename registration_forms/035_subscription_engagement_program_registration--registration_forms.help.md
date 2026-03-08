@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Subscription Engagement Program Registration - Help Guide
 ## Purpose
 The Subscription Engagement Program Registration form is designed for users to register their interest in participating in the program. This form collects demographic information about the user, including their contact preferences and language preference. The collected data will be used to tailor the program's communication and engagement activities to the user's preferences.

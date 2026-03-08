@@ -1,12 +1,3 @@
-<thinking>
-The STEM Fair Attendance Form is intended to track the attendance of attendees at the STEM fair. To determine if this form is relevant to the end user, let's consider that they are likely individuals who are attending or have attended the event.
-
-This form likely needs to be completed by event organizers to track attendees' information and feedback. To avoid duplication of effort, ensure that you're completing this form for the correct event and have not previously filled out this form for the same event.
-
-This guide will help you understand the purpose of the form and walk you through each field to ensure accurate and efficient completion.
-
-</thinking>
-
 # STEM Fair Attendance Form - Help Guide
 
 ## Purpose

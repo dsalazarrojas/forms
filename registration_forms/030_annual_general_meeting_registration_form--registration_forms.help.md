@@ -1,18 +1,3 @@
-<thinking>
-**Internal Note:**
-
-This form is designed to collect registration information for the Annual General Meeting (AGM). The form is intended for attendees, including members and non-members, to provide details about their participation in the meeting, such as their name, email, phone number, membership status, and attendance preferences. The form also includes fields for meal selection, breakout sessions, and accessibility requirements. This form ensures that the meeting organizers have accurate and up-to-date information about attendees' needs and preferences, which enables them to provide a more enjoyable and accessible experience.
-
-To avoid duplication, please ensure that:
-
-* You are not registering for the same meeting multiple times.
-* You are not using someone else's email address or phone number.
-* You are providing accurate information about your membership status and attendance preferences.
-
-Please review the form carefully and ensure that you enter all required fields.
-
-</thinking>
-
 # Annual General Meeting Registration Form - Help Guide
 
 ## Purpose

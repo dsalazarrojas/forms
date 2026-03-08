@@ -1,7 +1,3 @@
-<thinking>
-This form was created by AI using public survey topic metadata as inspiration, without affiliation with or extraction from any form platform. The form is an original adaptation and does not copy, extract, or use proprietary content from any form creation, data collection, or survey platform. This form is released under CC BY 4.0.
-</thinking>
-
 # legal_compliance_workshop_attendance_form - Help Guide
 ## Purpose
 This form is intended to gather information from attendees to the Legal Compliance Workshop. Please provide the required details to ensure accurate records.

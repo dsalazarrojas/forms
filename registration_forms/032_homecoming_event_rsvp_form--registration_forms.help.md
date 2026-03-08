@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals attending a homecoming event. It is intended for students and their families to provide event details and RSVP. This form should only be completed by students and their family members attending the event. Please do not submit duplicate or incomplete responses.
-</thinking>
-
 # Homecoming Event RSVP Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking> 
-This form is used for registering a child. It is used for parents to provide personal details of each child they wish to register. This form is typically used for children aged 0-5. The form is used in an educational setting to gather information about each child for educational records and administrative purposes. Please make sure you are only registering children you have parental authority over.</thinking>
-
 # Psa Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>**Internal Reasoning Block:**
-
-This form is intended to gather information from students for the Study Abroad Orientation Registration. The form is designed to collect basic student information, contact details, and emergency contact information. The form is likely used by the Study Abroad program to organize and prepare students for their orientation. This form should not be used for any other purpose, and if you are not a student participating in the Study Abroad program, please do not complete this form.
-
-</thinking>
-
 # Study Abroad Orientation Registration Form - Help Guide
 
 ## Purpose

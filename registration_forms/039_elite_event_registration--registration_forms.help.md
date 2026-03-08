@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user registration data for the "Elite Event". The purpose is to gather essential details from attendees, including their names, contact information, and event preferences. The form is structured to ensure that users can easily navigate through its pages and provide the required information. The required fields are marked, and the optional fields are meant to provide additional context or preferences. This guide will walk through each page and field to ensure a smooth and accurate completion of the form.
-</thinking>
-
 # Elite Event Registration - Help Guide
 ## Purpose
 The "Elite Event Registration" form is designed to collect necessary details from attendees for the "Elite Event". Completing this form will enable you to provide your information to the event organizers and receive updates, notifications, or other communications related to the event.

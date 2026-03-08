@@ -1,7 +1,3 @@
-<thinking>
-This form was created to collect event registration information for the Snow Tube event. It aims to gather participant details, contact information, and any necessary emergency contact data. Please ensure you have all necessary permissions and consents before completing this form. If you have already registered for this event, please do not submit this form again.
-</thinking>
-
 # Snow Tube Event Registration - Help Guide
 ## Purpose
 This form collects registration information for the Snow Tube event, including participant details, contact information, and emergency contact data.

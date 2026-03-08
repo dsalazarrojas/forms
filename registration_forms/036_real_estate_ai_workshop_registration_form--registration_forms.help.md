@@ -1,7 +1,3 @@
-<thinking>
-This is a form to register individuals for a Real Estate AI Workshop. Before proceeding, ensure you are registering for the correct workshop. If you have already registered for this workshop in the past, you do not need to register again. Please review the following help guide to complete the form correctly.
-</thinking>
-
 # Real Estate AI Workshop Registration Form - Help Guide
 ## Purpose
 This form is for registering individuals for the Real Estate AI Workshop. It collects information about the attendee, including name, contact details, payment method, and any special requests.

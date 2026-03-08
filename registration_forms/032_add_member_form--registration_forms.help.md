@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for adding new members to the organization. It collects essential information from the individual to facilitate their onboarding process. The form will not be duplicated for the same email address, assuming the system checks for and prevents duplicates. This guide ensures the user completes the form accurately and efficiently.
-</thinking>
-
 # Add Member Form - Help Guide
 
 ## Purpose

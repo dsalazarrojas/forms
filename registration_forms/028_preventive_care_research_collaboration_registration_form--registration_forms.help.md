@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information from researchers and institutions interested in collaborating on preventive care research projects. This form will help us understand your interests and needs, so we can better facilitate collaboration and provide relevant support. Please note that by submitting this form, you are not committing to any specific project or partnership. If you have already registered, you will not need to fill out this form again.
 
 # Preventive Care Research Collaboration Registration Form - Help Guide

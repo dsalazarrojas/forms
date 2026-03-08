@@ -1,8 +1,3 @@
-<thinking>
-The Sustainability Forum Panelist Registration Form is intended for users who want to participate in the sustainability-focused discussion forum on our platform. This form helps us gather necessary information from potential panellists, including their areas of expertise, contact details, and other relevant information.
-This form is used to ensure that only relevant and interested individuals join the sustainability panel, and to reduce the risk of duplicate registrations. By requiring some fields to be optional, we can accommodate users with varying levels of engagement and expertise.
-</thinking>
-
 # Sustainability Forum Panelist Registration Form - Help Guide
 ## Purpose
 The Sustainability Forum Panelist Registration Form is designed to collect information from users who want to participate in the sustainability-focused discussion forum. The form helps us understand their areas of interest, expertise, and contact details to better match them with relevant discussion topics and other users.

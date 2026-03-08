@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## e_commerce_service_registration_form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>Internal reasoning checks:
-* This form is meant for users to submit applications for Machine Learning programs. 
-* There might be multiple programs available. 
-* Users can select multiple programs from the "program_selection" field. 
-* The form is intended to be completed by a single user, hence no need for any user ID or username. 
-* Users can provide contact information (email and phone number) if they want. 
-* The form is meant for general user submissions, not internal staff use, so there's no internal user context checks needed. 
-* All fields are optional except the ones explicitly marked as required. 
-* There's no need for user authentication or authorization checks.</thinking>
-
 # Machine Learning Program Application - Help Guide
 
 ## Purpose

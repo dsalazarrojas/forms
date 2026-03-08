@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the Sports Team Volunteer Registration Form is used to collect information from individuals interested in volunteering with the team. This form helps us understand the volunteer's contact details, volunteer role, and availability. We need to ensure we don't receive duplicate registrations, so please check that you're not already registered as a volunteer before filling out this form.
-</thinking>
-
 # Sports Team Volunteer Registration Form - Help Guide
 ## Purpose
 The Sports Team Volunteer Registration Form is used to collect information from individuals interested in volunteering with the team.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to register their hair coloring certification. The form collects information about the user's certification status, name, email, phone number, date of birth, address, city, state, country, zip code, and upload their certification document. This form is meant to be completed by those who want to register with the hair coloring association.
-</thinking>
-
 # Hair Coloring Certification Registration Form - Help Guide
 
 ## Purpose

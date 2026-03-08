@@ -1,10 +1,3 @@
-<thinking>
-This form is for registering participants for the Organizational Agility Workshop. The purpose of this form is to gather information from attendees about their interests, preferences, and contact details. 
-This form will help us understand who is attending the workshop and what they are expecting from the event.
-We will review each field carefully to ensure that it is filled out correctly and that no duplicates are submitted. 
-The form will be saved for reference purposes.
-</thinking>
-
 # Organizational Agility Workshop Registration - Help Guide
 ## Purpose
 The Organizational Agility Workshop Registration form is a tool used to gather information from participants about their interests, preferences, and contact details in order to better understand who is attending the workshop and what they are expecting from the event.

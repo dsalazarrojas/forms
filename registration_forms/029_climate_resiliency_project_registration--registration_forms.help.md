@@ -1,6 +1,3 @@
-<thinking>Internal reasoning check:
-This form is designed for registering Climate Resiliency Projects. It gathers information about organizations, project details, and funding. The purpose is to understand and track climate resiliency projects. The user should be able to register a project with an associated organization and provide contact and funding information. We are checking for relevance and non-duplication of projects.</thinking>
-
 # Climate Resiliency Project Registration - Help Guide
 ## Purpose
 This form is designed to register climate resiliency projects. It helps us understand and track project details, such as organization, project name, and funding information.

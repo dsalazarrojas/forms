@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Initial Consultation Questionnaire - Help Guide
 ## Purpose
 This form is an initial consultation questionnaire designed to gather essential information from individuals seeking services. It's used to collect personal and scheduling details for the service provider.

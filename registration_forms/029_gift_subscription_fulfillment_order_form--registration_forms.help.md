@@ -1,18 +1,3 @@
-<thinking>
-This is a gift subscription fulfillment order form. The purpose of this form is to provide a way for gift subscription customers to submit their order information for fulfillment.
-
-To ensure that this form is used correctly, please note that:
-
-*   The form requires the customer's name, email, phone number, and order date to be filled in.
-*   The customer can choose between Gift Subscription, Gift Certificate, or Other as the type of order.
-*   The customer can provide notes for the order.
-*   The customer can select the payment method and provide additional payment details.
-*   The customer can provide gift details and gift subscription ID.
-
-Before proceeding with the submission, review this form carefully to ensure that all required fields are filled in accurately.
-
-</thinking>
-
 # Gift Subscription Fulfillment Order Form - Help Guide
 ## Purpose
 This form is used to collect information from gift subscription customers for order fulfillment purposes.

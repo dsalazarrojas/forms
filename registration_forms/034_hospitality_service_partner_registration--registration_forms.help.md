@@ -1,7 +1,3 @@
-<thinking>
-The form is designed for hospitality service partners to register themselves with the organization. To ensure accurate registration, please review the following guide before submitting your application. Note that this form is intended for service providers that offer hospitality-related services. If you have previously registered with us, please do not submit another registration form.
-</thinking>
-
 # Hospitality Service Partner Registration - Help Guide
 ## Purpose
 This form is for service providers that offer hospitality-related services to register themselves with the organization. By completing this form, you will provide necessary information to be listed as a hospitality service partner.

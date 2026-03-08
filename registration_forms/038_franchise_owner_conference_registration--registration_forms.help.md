@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended to collect information from franchise owners who are registering to attend a conference. The purpose of the form is to gather details about the attendee's attendance, contact information, accommodation requirements, special needs, dietary needs, accessibility needs, and event preferences. This information will be used to tailor the conference experience to the individual's requirements and ensure that they have a smooth and enjoyable experience.
-
-Before filling out this form, please note that it is intended for franchise owners who are registering themselves, not for their employees or representatives. If you are an employee or representative, please use the corresponding registration form.
-
-Also, be aware that some fields are not required, which means that you can skip them if you don't have any information to provide. Please fill out the form in a way that makes sense for your needs and circumstances.
-
-</thinking>
-
 # Franchise Owner Conference Registration - Help Guide
 ## Purpose
 

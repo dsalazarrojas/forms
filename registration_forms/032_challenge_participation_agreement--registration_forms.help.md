@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is to collect information and consent from participants who are entering a challenge. The form requires participants to provide their personal details, consent for media release, and agreement to follow rules and codes of conduct. It also includes medical clearance, risk acknowledgment, and liability waiver sections to ensure that participants are aware of and agree to the challenges' terms.
-
-Before filling out this form, please ensure that you have read and understood the terms and conditions of the challenge. If you have not yet signed up for the challenge, please do not fill out this form until you have received the challenge details and terms.
-
-To complete this form, please fill out each section carefully and accurately. If you are unsure about any field, please ask for clarification from the challenge organizers.
-
-</thinking>
-
 # Challenge Participation Agreement - Help Guide
 ## Purpose
 The Challenge Participation Agreement form is a mandatory document that requires participants to provide their personal details, consent for media release, and agreement to follow rules and codes of conduct.

@@ -1,5 +1,3 @@
-<thinking>This form is intended for referees to register for an online session. The purpose of this form is to gather information about the referee, including their personal details, session details, and any relevant associations. Before submitting the form, please ensure that you are not a duplicate registration. Each field has been carefully designed to collect the required information in a clear and concise manner. This guide will walk you through each field to help you complete the form accurately and efficiently.</thinking>
-
 # Referee Online Session Registration - Help Guide
 ## Purpose
 The Referee Online Session Registration form is designed for referees to provide their details and register for online sessions. This form is essential for the organization to track and manage referee information and sessions effectively.

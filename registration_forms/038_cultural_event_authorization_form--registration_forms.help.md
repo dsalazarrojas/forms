@@ -1,7 +1,3 @@
-<thinking>**This form is intended for event organizers to request authorization for cultural events. The form is used to collect information about the event, including event type, name, date, location, and organizer contact details. The form is typically used by authorized personnel to evaluate and approve or reject event requests.**
-
-</thinking>
-
 # Cultural Event Authorization Form - Help Guide
 ## Purpose
 This form is for event organizers to submit information about upcoming cultural events that require authorization. The form helps gather necessary details to evaluate and manage event requests efficiently.

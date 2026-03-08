@@ -1,7 +1,3 @@
-<thinking>
-... internal reasoning and checks for relevance and non-duplication ...
-</thinking>
-
 # Digital Humanities Collaboration Registration - Help Guide
 ## Purpose
 The Digital Humanities Collaboration Registration form is a tool used to collect information from researchers and project leads about their digital humanities projects. This form helps us understand the projects' details, such as title, description, location, and budget. It also allows us to gather information about the lead's contact information, research interests, and collaboration preferences.

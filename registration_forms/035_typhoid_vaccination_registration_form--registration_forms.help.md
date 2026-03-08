@@ -1,5 +1,3 @@
-<thinking>... This form is designed to collect information from individuals who have traveled to or reside in areas with a high risk of typhoid fever. The goal is to register users for vaccination against typhoid, ensuring they receive the necessary protection against this disease. This form will collect basic user information, medical history, travel information, vaccination details, appointment scheduling, and consent for vaccination. It is essential to complete this form accurately to ensure proper vaccination and follow-up care... </thinking>
-
 # Typhoid Vaccination Registration Form - Help Guide
 ## Purpose
 The Typhoid Vaccination Registration Form is a tool designed to collect essential information from individuals who have traveled to or reside in areas with a high risk of typhoid fever. This form helps healthcare professionals track and manage vaccination records for effective disease prevention.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is for individuals to register for organ donation, providing personal details such as name, contact information, and medical history. This form ensures that the individual's information is accurately recorded and allows the organ donation organization to process their request efficiently.
-Before proceeding, please ensure that the form is not already completed for the same individual, to avoid duplication of efforts.
-</thinking>
-
 # Organ Donation Registration Form - Help Guide
 ## Purpose
 The Organ Donation Registration Form is designed to collect personal and medical information from individuals who wish to register for organ donation. This form will help our organization process your request and ensure that you are informed about the organ donation process.

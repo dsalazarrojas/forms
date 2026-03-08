@@ -1,7 +1,3 @@
-<thinking>
-We are checking to make sure this form is the correct "Product Registration Form". This form will likely be used by customers or partners to register new products, providing relevant information about the product such as name, description, and price. We also want to ensure the form is correctly filled out to avoid unnecessary processing and potential issues.
-</thinking>
-
 # Product Registration Form - Help Guide
 ## Purpose
 The Product Registration Form is designed to collect information about new products being registered for use in our system. This form should be completed by customers or partners to provide a clear and concise overview of the product, its name, description, price, and other relevant details.

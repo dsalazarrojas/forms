@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information for event registration. The form is intended to gather personal details, event specifics, and payment information. Ensure the form is used in accordance with the event's requirements and guidelines. Duplicate submissions are not allowed.
-</thinking>
-
 # Event Registration Form - Help Guide
 ## Purpose
 The Event Registration Form is a user-facing form designed to collect event registration information from participants. This form is used to gather personal details, event specifics, and payment information for event registration purposes.

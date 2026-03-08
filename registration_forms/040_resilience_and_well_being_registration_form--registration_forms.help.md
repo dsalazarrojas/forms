@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who are interested in resilience and well-being programs. The purpose of this form is to gather demographic data (first name, last name, email, phone number, and date of birth), program interest, frequency of interest, and additional comments. The form is intended to be completed by individuals who wish to register for one of the offered programs. To ensure accuracy, the form will not be duplicated in the database for any given participant.
-
-</thinking>
-
 # Resilience And Well Being Registration Form - Help Guide
 ## Purpose
 

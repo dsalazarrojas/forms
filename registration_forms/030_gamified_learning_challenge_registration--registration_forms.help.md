@@ -1,16 +1,3 @@
-<thinking>
-This form is for registering participants in a gamified learning challenge. The purpose of this form is to collect information from participants, including details about themselves, their teams, and their submissions. The form is designed to gather all the necessary information in a clear and concise manner.
-
-To ensure that the form is filled out correctly, please note that:
-
-* Each field is labeled and explained below to help guide you through the process.
-* Required fields are marked as such.
-* Date fields are formatted as MM/DD/YYYY.
-* The form is designed to be easy to navigate and submit.
-
-Please make sure to complete the form carefully, as some fields are required to be filled out correctly.
-</thinking>
-
 # Gamified Learning Challenge Registration - Help Guide
 ## Purpose
 This guide explains how to fill out the gamified learning challenge registration form correctly and efficiently.

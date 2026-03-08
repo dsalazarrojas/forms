@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for registering a new organization to become a member of a parent organization. The form collects information from the organization, including their name, contact person, email, phone number, membership type, membership duration, address, start date, and end date, as well as any additional notes. It is designed to be completed by the organization's representative or their designated contact person. Please ensure that you are filling out this form on behalf of your organization and that the information provided is accurate and up-to-date. Before starting, please make sure that you have all the necessary information and permissions required to complete the form. This form should only be submitted once for each organization.
-</thinking>
-
 # parent_organization_membership_application - Help Guide
 ## Purpose
 The parent organization membership application form is used to register a new organization to become a member of our parent organization. It is essential to provide accurate and up-to-date information to ensure a smooth registration process.

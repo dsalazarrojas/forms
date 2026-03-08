@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect registration information for an individual interested in the Corporate Relocation Program. The purpose of this form is to gather essential details from the registrant, including their company name, first name, last name, and email address. This form is intended for internal use within an organization, and the information collected will be used to verify the registrant's identity and ensure they are eligible for the program.
-This form is not intended for external use or for sharing with third parties. The registrant's information will be stored securely within the organization's systems and used only for program administration and communication purposes.
-</thinking>
-
 # Corporate Relocation Program Registration Form - Help Guide
 ## Purpose
 The Corporate Relocation Program Registration Form is designed to collect essential details from individuals interested in the program. Please refer to the internal reasoning block above for a detailed explanation of the form's purpose and usage.

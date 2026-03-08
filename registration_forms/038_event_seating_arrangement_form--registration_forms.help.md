@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information related to an event's seating arrangement. The purpose is to help event organizers and hosts to plan and organize their events more efficiently. This form is designed to be completed by the person responsible for the event, typically the event host or coordinator. The form will be used to determine the seating capacity of the event, whether or not there will be special requests, and other relevant details. It is recommended to fill out this form as soon as possible to ensure that all necessary arrangements are made for the event.
-</thinking>
-
 # Event Seating Arrangement Form - Help Guide
 ## Purpose
 The Event Seating Arrangement Form is used to collect information about an event's seating arrangement to help event organizers and hosts plan and organize their events more efficiently.

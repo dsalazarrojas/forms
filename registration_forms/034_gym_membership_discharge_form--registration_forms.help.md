@@ -1,7 +1,3 @@
-<thinking>
-The Gym Membership Discharge Form is designed for gym members to formally notify the gym administration of their intention to cancel their membership. This form helps the gym management to process the cancellation request and keep track of reasons why members are leaving. The purpose of this form is to collect information about the member's identity, the reason for cancellation, and any additional comments they may have. Please ensure that you are completing this form if you are a gym member and wish to cancel your membership. To avoid filling out this form in vain, please check with your gym administration if you are unsure whether you are eligible to cancel your membership.
-</thinking>
-
 # Gym Membership Discharge Form - Help Guide
 ## Purpose
 The Gym Membership Discharge Form is a document used by gym members to notify the gym administration of their intention to cancel their membership. The form is used to gather information about the member and the reason for cancellation.

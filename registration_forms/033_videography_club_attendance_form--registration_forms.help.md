@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is used for registering attendance at the Videography Club meetings. The purpose of this form is to capture essential details about the meeting, including the date and time, attendees, and contact information for follow-up. This form will help club organizers keep track of attendance records and stay in touch with members.
-</thinking>
-
 # Videography Club Attendance Form - Help Guide
 ## Purpose
 The Videography Club Attendance Form is used for registering attendance at club meetings. It ensures that organizers have accurate and up-to-date records of who attended each meeting.

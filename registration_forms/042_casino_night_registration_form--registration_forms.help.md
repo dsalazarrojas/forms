@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to register for a Casino Night event. The form collects information about the event and the attendee, including the event's details, attendee's contact and demographic information, party details, and payment information. The form is designed to be completed by attendees who are registering for the event. Please ensure you have the necessary permission from your event organizers or management to access and complete this form.
-</thinking>
-
 # Casino Night Registration Form - Help Guide
 ## Purpose
 The Casino Night Registration Form is a necessary step for attendees to register for the Casino Night event. It collects essential information about the event and the attendee, ensuring that you receive the correct tickets and accommodations.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect user profile information for the website and app users. The form is designed to collect various details about the user, including name, contact information, preferences, and technical details. This form is meant to be completed by users who want to create or update their profile on the website or app.
 
 # Website And App User Profile Form - Help Guide

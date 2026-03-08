@@ -1,20 +1,3 @@
-<thinking>
-The Employee Life Balance Awareness Program Registration Form is designed to collect information from employees about their registration and demographics. This form is intended to be used in-house to track and analyze employee data, and not to be shared publicly. To avoid duplication, employees are only allowed to register once. 
-
-This form collects the following information:
-- Employee Id: a numeric identifier for the employee
-- Employee Name: the name of the employee
-- Email: a unique identifier for the employee
-- Phone: a phone number associated with the employee
-- Category: an optional dropdown menu with three options, likely for organizational or categorization purposes
-- Date of Birth: the date of birth of the employee
-- Time: likely refers to a time zone or work schedule
-- Note: a free text field for additional comments
-- Submitted By: an optional field for tracking who submitted the form
-- Created By: an optional field for tracking who created the form
-
-</thinking>
-
 # Employee Life Balance Awareness Program Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow parents to report absences from school activities, such as classes, workshops, or field trips. The purpose is to gather information about the student's absence, which can help the school administration keep track of attendance and ensure that students are accounted for during events. It's essential to fill out this form accurately to avoid any confusion or missed opportunities. Please make sure to fill out the form only once for each absence.
-</thinking>
-
 # School Activity Absence Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect registration information from individuals who wish to join the choir. It includes a series of questions to gather data about the member's personal details, vocal abilities, availability, and commitments. The form is divided into several sections, including Member Information, Vocal Information, Availability, Membership Details, and Additional Information. Each field is designed to collect specific data about the individual's background, abilities, and commitments, which will be used to manage the choir's membership and schedule.
-
-To avoid duplication, we've implemented a unique registration ID for each member. Members are required to agree to follow choir rules and guidelines, commit to regular attendance, and provide a digital signature. The form also has options for members to indicate their availability and preferences for rehearsals and performances.
-
-Before submitting this form, please ensure that you've completed it correctly and thoroughly. If you have any doubts or concerns, please reach out to the relevant contact person. This form is designed to be as clear and concise as possible, but if you require any clarifications, please don't hesitate to ask.
-</thinking>
-
 # Choir Registration Form - Help Guide
 
 ## Purpose

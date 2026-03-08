@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for retail marketing certification purposes. The goal is to provide users with a simple and straightforward registration process. Before proceeding, ensure you have not already submitted a registration form for this certification program. If you have, you can skip this form and proceed to the next step.
-</thinking>
-
 # Retail Marketing Certification Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from users seeking retail marketing certification. It is a registration form for users to enroll in certification programs related to retail marketing.

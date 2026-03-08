@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to allow customers to upgrade their loyalty tier status. This form is likely used to collect information from customers who want to upgrade their status to a higher tier, which may provide them with more benefits or exclusive rewards. To confirm, the form should only be used for customers who are already registered and have a valid customer account. This is not a form for creating a new customer account.
-</thinking>
-
 # Customer Loyalty Tier Upgrade Registration Form - Help Guide
 ## Purpose
 The Customer Loyalty Tier Upgrade Registration Form is used to help customers upgrade their loyalty tier status. This form is for customers who are already registered and want to take advantage of upgraded benefits and rewards.

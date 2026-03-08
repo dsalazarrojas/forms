@@ -1,6 +1,3 @@
-<thinking>
-...The purpose of this form is to collect participant information for the junior tennis camp, ensuring that all necessary details are provided before the participant's enrollment. This form is designed to gather information about the participant's name, age, contact details, tennis experience, and emergency contact information. By filling out this form accurately and thoroughly, you will help us provide the best possible experience for each participant. To prevent errors, please review each page carefully and ensure that all required fields are filled correctly.</thinking>
-
 # junior_tennis_camp_registration - Help Guide
 ## Purpose
 The junior tennis camp registration form is designed to collect participant information to ensure a smooth and enjoyable experience for each attendee. Please take a few minutes to complete this form accurately, providing all required details for your registration.

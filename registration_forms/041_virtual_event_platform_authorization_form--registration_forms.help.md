@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information for a virtual event platform. It is meant to be filled out by event organizers to provide authorization for participants to attend a virtual event. The form is a crucial part of the event planning process, and it's essential to ensure that participants meet the necessary requirements and agree to the terms of the event. To avoid duplication, it's recommended to fill out the form only once per participant.
-</thinking>
-
 # Virtual Event Platform Authorization Form - Help Guide
 ## Purpose
 The Virtual Event Platform Authorization Form is used to collect information from participants for a virtual event, ensuring they meet the necessary requirements and agree to the event terms.

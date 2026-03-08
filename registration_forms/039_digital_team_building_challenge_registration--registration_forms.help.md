@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a digital team building challenge. This form is likely used for internal purposes, such as to register teams for a challenge, competition, or similar events. The form should only be completed if the user is participating in or interested in participating in a team building challenge. If the user has already registered, please do not complete this form again. Please make sure to fill out all required fields accurately to ensure your team's registration is processed correctly.
-</thinking>
-
 # digital_team_building_challenge_registration - Help Guide
 ## Purpose
 This form is for registering your team for a digital team building challenge. Please fill it out carefully to ensure your team's registration is complete and accurate.

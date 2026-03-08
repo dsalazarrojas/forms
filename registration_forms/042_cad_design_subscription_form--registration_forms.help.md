@@ -1,15 +1,3 @@
-<thinking>
-We are creating a help guide for users to complete a form that collects information for a CAD design subscription form. This form is used for users to register their interest in a CAD design subscription service, which likely provides access to a set of design tools and resources. The form aims to gather contact information, industry and experience level, CAD software expertise, primary use for CAD designs, subscription plan, and payment information. We want to ensure that users understand the purpose of the form and know what to expect when completing each field.
-
-To complete this form, users should carefully read each field explanation and follow the instructions below.
-
-The main goal of this form is to collect information that helps us better understand the user's preferences and needs.
-
-This form is designed to be simple and easy to understand, but it is essential to provide clear instructions and explanations for each field to avoid any confusion.
-
-Before starting, please make sure you have the necessary information and resources ready to complete the form accurately.
-</thinking>
-
 # CAD Design Subscription Form - Help Guide
 ## Purpose
 This form is for users who want to subscribe to a CAD design subscription service. It collects information about the user's contact details, industry, experience level, CAD software expertise, primary use for CAD designs, subscription plan, and payment information.

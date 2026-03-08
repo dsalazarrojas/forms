@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Property Manager Information Form - Help Guide
 ## Purpose
 The Property Manager Information Form is a tool used to gather crucial information about a property, its current status, and the person or people associated with it. This form is essential for property managers to accurately document and track various aspects of properties under their care.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # milestone_celebration_rsvp - Help Guide
 ## Purpose
 The milestone celebration RSVP form is used to track and manage attendees and their responses to a milestone celebration event. It is essential to fill this form accurately to ensure that the event planners can manage attendance and communication effectively.

@@ -1,11 +1,3 @@
-<thinking>
-This form is used for registering players and teams into the Ultimate Frisbee League. The purpose of this form is to collect necessary information about the players and teams, including their contact details, team size, and payment information. This form will help the league administrators to keep track of the registered players and teams and ensure a smooth running of the league.
-
-Before proceeding, please ensure that you are not already registered. If you are already registered, you will not need to fill this form again. If you are not sure whether you are already registered or not, please contact the league administrators for verification.
-
-Please note that some fields are required while others are optional. Required fields are marked with an asterisk (\*) symbol.
-</thinking>
-
 # Ultimate Frisbee League Registration Form - Help Guide
 ## Purpose
 This form is used for registering players and teams into the Ultimate Frisbee League.

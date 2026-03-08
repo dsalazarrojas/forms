@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to help patients and medical staff register and schedule appointments at a Foot and Ankle Care Center. The purpose of this form is to gather essential information from the patient, including their name, contact details, medical condition, appointment time, and doctor's specialty, among other details. It's essential that you provide accurate and truthful information to ensure that our medical professionals can provide the best possible care for you. 
-Please note that some fields are mandatory, and it's crucial that you fill them in to avoid any issues with your registration or appointment.
-Before starting, please make sure you have all the required information handy to save time and reduce errors.</thinking>
-
 # Foot And Ankle Care Center Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from patients to register and schedule appointments at a Foot and Ankle Care Center.

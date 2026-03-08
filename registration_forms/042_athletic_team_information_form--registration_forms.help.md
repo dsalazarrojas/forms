@@ -1,6 +1,3 @@
-<thinking>... (internal reasoning block)
-This form is designed to collect information about an athlete's personal details, team affiliation, and medical history. It is intended to be filled out by athletes who wish to register for a sports team or competition. The form is divided into several sections, each collecting different types of information. The purpose of this form is to gather accurate and comprehensive data about the athlete to ensure their safe and successful participation in team activities. Before filling out this form, ensure that you have gathered all the necessary information and have the relevant permissions from parents or guardians if required. This form should not be duplicated for the same athlete, as it is a one-time registration process. After completing the form, submit it to the relevant authorities for review and processing.</thinking>
-
 # Athletic Team Information Form - Help Guide
 ## Purpose
 The Athletic Team Information Form is a one-time registration process for athletes to provide accurate and comprehensive information about themselves, their team affiliation, and medical history. It ensures their safe and successful participation in team activities.

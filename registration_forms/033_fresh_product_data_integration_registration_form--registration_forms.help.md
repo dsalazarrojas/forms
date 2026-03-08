@@ -1,7 +1,3 @@
-<thinking>
-This form is likely created for businesses or individuals to register their product data integration, such as suppliers or retailers, with various fields for providing details like category, description, and technical and business contacts. The form might be used for internal purposes or for external integration with other services. The form's purpose is to collect relevant and accurate product data, possibly for data synchronization, reporting, or other business purposes. The form's fields are designed to be flexible, allowing users to choose what information to provide, but it's essential to fill out the required fields for the form to be complete and valid. 
-</thinking>
-
 # Fresh Product Data Integration Registration Form - Help Guide
 ## Purpose
 The Fresh Product Data Integration Registration Form is designed to help businesses or individuals register their product data integration, providing a platform to collect and manage product information.

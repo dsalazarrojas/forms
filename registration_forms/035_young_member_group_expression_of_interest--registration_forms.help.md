@@ -1,7 +1,3 @@
-<thinking>
-This form is used for young members to express their interest in joining the group. The purpose of this form is to collect necessary information from young members who want to be part of the group. This form is not mandatory, and filling it out is entirely voluntary. However, providing accurate and complete information will help the group administrators to understand the young member's interests and motivations better. Before proceeding, please note that this form is meant for informational purposes only and does not guarantee membership in the group. It's essential to fill out the form carefully, as it will be reviewed by the group administrators.
-</thinking>
-
 # young_member_group_expression_of_interest - Help Guide
 ## Purpose
 This form is used to collect information from young members who want to join the group. It helps the group administrators to understand the member's interests and motivations better.

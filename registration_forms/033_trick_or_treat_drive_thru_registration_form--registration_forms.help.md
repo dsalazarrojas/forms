@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the Trick Or Treat Drive Thru registration process. The form is likely used to gather demographic information and vehicle details for a drive-thru event, where participants will be driving their vehicles through a designated area to collect treats. This form will help the organizers of the event to manage participant registrations and ensure that they have the necessary information to execute the event smoothly.
-To ensure that the form is completed correctly, please review the following guidelines:
-* The form is divided into two sections: personal information and vehicle information.
-* All fields marked as "required" must be filled out.
-* Please use a valid email address for the "Email" field.
-* For the "Vehicle Registration" field, select the correct year range of your vehicle's registration.
-* If you have any issues or questions while filling out the form, feel free to contact the event organizers.
-</thinking>
-
 # Trick Or Treat Drive Thru Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Trick Or Treat Drive Thru event.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Language Camp Accommodation Form - Help Guide
 
 ## Purpose

@@ -1,21 +1,3 @@
-<thinking>
-
-To determine the best approach for the user-facing help guide, I'll analyze the provided YAML fields. The form has 8 fields, each with its own label, type, and hint (where available). Based on the field types and labels, here's the internal reasoning block:
-
-The form is intended for teachers to register their information for a specific event or purpose, which isn't explicitly mentioned in the YAML. Given the presence of "Location" and "Event Title" fields, it might be for teachers attending a convention, workshop, or conference. The "Event Date" and "Event Time" fields suggest a schedule or appointment-based event. The "Phone" field might be for communication purposes. However, without further context, these are just assumptions.
-
-Upon closer inspection, there are a few fields that might be worth clarifying for the end users:
-
-*   "Name" - a common field for identification purposes.
-*   "Email" - likely for communication and verification.
-*   "Phone" - possibly for emergency contacts or follow-up.
-*   "Location" - might indicate the venue or location of the event.
-*   "Event Title" - a field to input the name or description of the event.
-*   "Event Date" and "Event Time" - fields for scheduling and appointment purposes.
-*   "Event Venue" (not present in the YAML but implied by "Event Date" and "Event Time") - likely refers to the location where the event takes place.
-
-</thinking>
-
 # Teacher's Registration Form - Help Guide
 
 ## Purpose

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to gather essential information for the registration of a boat. The form collects data about the owner, boat details, and registration preferences. The purpose of this form is to ensure accurate and efficient registration processing. Before proceeding, please note that you must be the legal owner of the boat and provide accurate information to avoid any issues with the registration process. Please review each field carefully and ensure that you are providing the correct information to avoid any duplication or errors. Ensure that you have all the necessary information before starting the registration process.</thinking>
-
 # Boat Registration Form - Help Guide
 ## Purpose
 The Boat Registration Form is designed to gather essential information for the registration of a boat. This form collects data about the owner, boat details, and registration preferences to ensure accurate and efficient registration processing.

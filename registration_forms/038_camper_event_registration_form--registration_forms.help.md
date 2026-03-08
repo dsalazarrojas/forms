@@ -1,11 +1,3 @@
-<thinking>
-To be clear and concise, we should consider the following internal reasoning:
-
-*   Is the form purpose to collect camper data for event registration?
-*   Are there any specific fields that can be excluded or simplified if they don't apply?
-*   Are there any fields that can be marked as required or optional based on business logic?
-</thinking>
-
 # Camper Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect camper data for event registration, allowing us to gather essential information to ensure their safety and participation. Please review each field to ensure you complete it accurately and completely.

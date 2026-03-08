@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information for a pet loss support group. The purpose of this form is to gather essential data from participants to provide them with the necessary support and resources. The form is intended for people who have experienced the loss of a pet and are seeking support. 
-
-The form will be used by the support organization to schedule sessions with the participant, understand their needs, and provide them with relevant support materials. The participant will be asked to provide their contact number, email, and other relevant information. 
-
-The form is designed to be completed by participants who are registering for a pet loss support group. This form will guide the participant through the registration process, ensuring they provide all the necessary information for the support organization to schedule sessions and provide support.
-
-</thinking>
-
 # pet_loss_support_group_registration - Help Guide
 ## Purpose
 The pet loss support group registration form is designed to collect registration information from participants who have experienced the loss of a pet and are seeking support. This form will help the support organization to understand the participant's needs and schedule sessions accordingly.

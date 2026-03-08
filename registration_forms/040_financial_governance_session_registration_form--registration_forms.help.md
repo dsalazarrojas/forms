@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registration for financial governance sessions. The goal is to collect information about the attendee, such as their name, contact information, and background in finance. The form also allows attendees to specify their financial expertise, experience, and industry. Additionally, it covers payment details, session attendance options, and confirmation settings. This form appears to be a comprehensive registration form for financial professionals.
-</thinking>
-
 # Financial Governance Session Registration Form - Help Guide
 ## Purpose
 This form is designed to register attendees for financial governance sessions. It collects essential details such as name, contact information, and financial expertise to ensure an effective session experience.

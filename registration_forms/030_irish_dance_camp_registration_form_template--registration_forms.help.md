@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who want to register for an Irish dance camp. The purpose of this form is to gather essential details about the participant, their medical condition, and emergency contact information. This form will help the camp organizers to manage participant data effectively and provide a safe and enjoyable experience for all attendees.
-
-This form will be used to collect the following information:
-
-*   Participant details (name, etc.)
-*   Participant consent (terms and conditions)
-*   Class signups (classes they want to attend)
-*   Payment information (fees, etc.)
-*   Contact information (address, phone number, etc.)
-*   Emergency contact information
-*   Medical information (any health conditions or allergies)
-*   Emergency medical information (in case of an emergency)
-
-Internal considerations: This form is designed to be completed by a single person, and the information collected will be used to manage the camp's participants. It's essential to ensure that all fields are filled accurately to avoid any issues during the camp.
-
-Please ensure that you fill in all the required fields, as this will help the camp organizers to process your registration efficiently.
-
-</thinking>
-
 # Irish Dance Camp Registration Form Template - Help Guide
 ## Purpose
 The Irish Dance Camp Registration Form is designed to collect essential information from participants to ensure a smooth and enjoyable experience for everyone.

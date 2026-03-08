@@ -1,5 +1,3 @@
-<thinking>Is the form used for registering telecommunications services? Does it cover the necessary information for a service request? Is it used by customers or internal staff?</thinking>
-
 # telecommunications_service_registration - Help Guide
 ## Purpose
 This form is used for registering telecommunications services, which requires gathering essential details for successful service installation and management.

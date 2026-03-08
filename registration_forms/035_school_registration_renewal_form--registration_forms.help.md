@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # School Registration Renewal Form - Help Guide
 ## Purpose
 This form is for the school registration process. It is meant to capture important information from students and parents to update student records and ensure accurate enrollment. Please complete this form carefully and accurately to ensure proper registration.

@@ -1,16 +1,3 @@
-<thinking>
-This form is designed to collect information from college athletes who wish to participate in a showcase event. The form is intended for athletes who are already registered at their high school or college and are seeking to showcase their skills to potential recruiters or coaches. The purpose of this form is to provide a standardized way of collecting athlete's personal and sport-specific information to make it easier for them to be considered for the showcase event. 
-
-This form will be used by organizers of the showcase event to get a better understanding of the athletes who are participating, including their contact information, sports experience, and other relevant details. 
-
-The form should only be filled out by athletes who are interested in participating in the showcase event and should be completed as accurately and thoroughly as possible. 
-
-Please ensure that the information provided is up-to-date and accurate before submitting the form. 
-
-This form will be processed manually by the event organizers, so please allow up to [number] days for a response.
-
-</thinking>
-
 # College Athlete Showcase Registration - Help Guide
 ## Purpose
 The College Athlete Showcase Registration form is designed to collect information from college athletes participating in a showcase event. The purpose of this form is to provide a standardized way of collecting athlete's personal and sport-specific information for consideration for the showcase event.

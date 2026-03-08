@@ -1,14 +1,3 @@
-<thinking>
-The form "Fleece Show Entry Form" is likely a registration form designed for exhibitors to enter information about their exhibit at a trade show or exhibition, which could be related to the industry or category "Fleece" and "Show". This form's purpose is to collect exhibitor details, fleece information, and entry information in a simple and straightforward manner. This form doesn't seem to have any conditional or branching logic based on the provided YAML fields, so it's likely intended for general information gathering.
-
-Before starting, please check that this form is not a duplicate or a copy of an existing form, and make sure you understand the required fields (if any) before proceeding.
-
-This form has only four fields, all of which are text fields without any options or validation rules. Therefore, users can enter any text value in each field.
-
-Given the form's simplicity, this guide will walk through each field and provide a clear explanation of what each field means and how to complete it.
-
-</thinking>
-
 # Fleece Show Entry Form - Help Guide
 
 ## Purpose

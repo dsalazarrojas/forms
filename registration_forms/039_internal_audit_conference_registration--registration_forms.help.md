@@ -1,9 +1,3 @@
-<thinking>Internal Audit Conference Registration - Help Guide
-
-This form is intended for registration purposes only, specifically for attendees to provide their session preferences and attendee details. Please ensure you are registering with the correct information and session preferences to avoid any inconvenience. If you have already registered for this event, please do not fill out this form again, as duplicate registrations may cause issues with the event organization.
-
-</thinking>
-
 # Internal Audit Conference Registration - Help Guide
 ## Purpose
 The Internal Audit Conference Registration form is designed to collect information from attendees on their session preferences and attendee details. This form is used to facilitate the organization and management of the conference.

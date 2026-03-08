@@ -1,13 +1,3 @@
-<thinking>...
-This help guide is intended to assist end-users in completing the "match_setup_survey" form. The form is designed to collect information from participants about their preferences and preferences for a match setup. This guide will walk users through each page and field of the form to ensure they understand the purpose and requirements of each section.
-
-The form is used to collect participant information and preferences for a match setup. This includes text fields for event info and participant info, as well as select fields for participant preferences such as dates, times, and participant preferences. Some fields are required, while others are optional.
-
-To complete this form, users will navigate through a series of pages, each with its own set of fields. The first page will ask for event info and participant info. The second page will ask for more participant preferences, including select options and text fields. Users must complete all required fields, but can skip optional fields if not applicable.
-
-The form is intended to be completed by participants who are part of a match setup process. The information collected will be used to configure the match setup.
-</thinking>
-
 # match_setup_survey - Help Guide
 ## Purpose
 This form is used to collect participant information and preferences for a match setup.

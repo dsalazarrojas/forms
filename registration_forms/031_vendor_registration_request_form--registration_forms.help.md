@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be a vendor registration request form, used by businesses and individuals who want to register with the organization. The purpose of this form is to collect necessary information from vendors, such as their business name, contact details, and services offered. The form is divided into multiple pages, each containing specific fields that require completion.
-
-The form is intended for businesses and individuals who want to register with the organization, and it is not meant for internal employees or other types of registration. Please ensure that you are eligible to fill out this form before proceeding.
-
-Before starting, please note that some fields are optional, but it is recommended to fill out as much information as possible to ensure a smooth registration process.</thinking>
-
 # Vendor Registration Request Form - Help Guide
 ## Purpose
 The Vendor Registration Request Form is a form used by businesses and individuals to register with the organization. It collects necessary information such as business name, contact details, and services offered.

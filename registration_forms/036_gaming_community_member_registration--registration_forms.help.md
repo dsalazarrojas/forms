@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect registration information from new members of the gaming community. It is meant to be completed by users who are interested in joining the community and participating in its activities. Please note that some fields are not required, and you may choose to skip them if you do not wish to provide that information.
-
-This form is part of the overall registration process, which may involve multiple forms and steps. Please ensure that you have reviewed and accepted the relevant terms and policies before proceeding.
-
-Some fields may be self-explanatory, but others may not be immediately clear. Take your time to read each field's label and understand what it is asking for. If you have any questions or concerns, feel free to ask for clarification.
-
-After completing this form, you will be taken to a review page where you can review and finalize your submission.
-
-</thinking>
-
 # Gaming Community Member Registration - Help Guide
 ## Purpose
 This form is a registration form for new members of the gaming community.

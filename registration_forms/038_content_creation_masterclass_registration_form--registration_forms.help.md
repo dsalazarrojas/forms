@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect registration information from participants for a "Content Creation Masterclass". The purpose of this form is to gather essential details about each participant, including their contact information, preferred masterclass session, payment details, dietary preferences, and any additional requirements. 
-
-The form should be filled out by each participant who wishes to register for the masterclass. The form is divided into several sections, each with its own specific fields and instructions. 
-
-This form should not be filled out by people who do not intend to participate in the masterclass.
-
-Please note that the form will be used to determine the participant's eligibility for the masterclass.
-</thinking>
-
 # Content Creation Masterclass Registration Form - Help Guide
 ## Purpose
 The Content Creation Masterclass Registration Form is a form designed to collect registration information from participants for the masterclass. The form gathers essential details such as contact information, preferred masterclass session, payment details, dietary preferences, and any additional requirements.

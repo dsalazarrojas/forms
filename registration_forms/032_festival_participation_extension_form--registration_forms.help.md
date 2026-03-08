@@ -1,12 +1,3 @@
-<thinking>
-To confirm, the purpose of this form is to capture information related to festival participation. The form likely aims to gather details from vendors, performers, or volunteers regarding their involvement in a festival event. The fields are designed to collect a range of data, including contact information, performance dates, times, durations, and other relevant details. 
-
-This form will likely be used internally by the festival organizers to manage and track participant information. However, without more context, it's difficult to confirm the exact purpose and usage of this form within a specific festival event.
-
-Please ensure that you complete the form accurately and only if your role involves festival participation. If you're unsure about filling this form, please reach out to the festival organizers for clarification.
-
-</thinking>
-
 # Festival Participation Extension Form - Help Guide
 ## Purpose
 The Festival Participation Extension Form is designed to collect information from vendors, performers, or volunteers about their participation in a festival event.

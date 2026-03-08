@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, let's first analyze the form structure and purpose. This form appears to be for registering attendees for the Process Digitization Summit. The form captures demographic information, accessibility needs, and special requirements for the attendees. The fields are categorized into three main sections: attendee information, accessibility and preferences, and arrival and departure details. This guide will help users understand the form's purpose and complete it accurately.
-
-Please note that the form requires attendees to be registered under specific categories, such as Digital Transformation Conference, Sponsor, Press, or Guest. It also asks for their first name, last name, organization, job title, and contact information. The accessibility needs section is optional and includes options for attendees with hearing, visual, or mobility impairments. Additionally, the form asks for their arrival and departure times, as well as their t-shirt preferences, including size, style, and color. This form is intended to ensure that attendees have a seamless experience at the summit.
-
-</thinking>
-
 # Process Digitization Summit Registration - Help Guide
 ## Purpose
 This form is for registering attendees for the Process Digitization Summit. Please fill out this form accurately to ensure that you receive the necessary information for the event and that we can provide you with the best experience possible.

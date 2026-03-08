@@ -1,7 +1,3 @@
-<thinking>
-We're creating a help guide for users to understand the purpose and completion process of the "Insurance Plan Participant Information" form. This form appears to be used for capturing participant information for insurance plans, likely as part of an enrollment or application process. The fields seem to be designed to collect contact and demographic details, such as name, email, phone number, address, date of birth, identification number, group affiliation, and insurance plan selection. It's likely that the form is used by insurance providers or administrators to gather necessary information for participant management and plan administration. We'll aim to explain each field clearly and concisely to facilitate completion and reduce confusion. We should also consider that this form might be part of a larger workflow or system, so any explanations should be mindful of that context. Let's assume that this form is used for participant registration for various insurance plans.
-</thinking>
-
 # Insurance Plan Participant Information - Help Guide
 ## Purpose
 This form is used to collect participant information for insurance plan registration. You will need to provide demographic details to be enrolled in a plan.

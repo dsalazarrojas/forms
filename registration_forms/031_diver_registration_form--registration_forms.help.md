@@ -1,13 +1,3 @@
-<thinking>
-
-As a form designer, my task is to create a user-facing help guide for a Diver Registration Form that is concrete, concise, and practical. The form appears to be designed for collecting information about divers, including personal details, certification, and emergency contact information. The goal is to ensure that users understand the form's purpose and how to complete it correctly.
-
-The form does not appear to have any strict requirements or validation rules, which may indicate that it is for general information collection rather than a critical, mission-critical process. However, it does require the user to provide some sensitive information, such as phone numbers and email addresses. It's essential to emphasize the importance of accuracy and completeness in filling out these fields.
-
-The "Dive Site" field may be a location or a specific site where the diver has dived, whereas "Dive Info" and "Last Dive Date" could be related to the diver's experience and recent dive history. This form might be used by diving clubs, instructors, or other organizations that deal with diver registration and certification.
-
-</thinking>
-
 # Diver Registration Form - Help Guide
 ## Purpose
 The Diver Registration Form is a form designed to collect information about divers, including personal details, certification, and emergency contact information. This information will help organizations, clubs, or instructors to better manage and serve the needs of their diver community.

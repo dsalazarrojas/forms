@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose and that users understand the fields and their requirements correctly. 
-The form is designed to collect information from users, specifically for a "legal collection forum" which likely refers to a legal or professional conference, workshop, or forum. This could be for collecting registration data from attendees, speakers, or organizers for such events.
-To avoid duplication of effort, please check if you have already filled out this form in the past or if you have access to the event's management system.
-</thinking>
-
 # legal collection forum registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users to create a legal collection forum, a professional conference, workshop, or forum. This form will help us gather relevant details such as user contact information, event details, and attendee information.

@@ -1,13 +1,3 @@
-<thinking>
-This form is a registration form for festivals, which allows users to provide information about their event. The purpose of this form is to collect essential details about the festival, including its name, dates, venue, type, and contact information. This form is intended for internal use within the organization, and its submissions will be reviewed and processed accordingly. 
-
-It is assumed that the form will be filled out by event organizers or representatives to register their festival with the relevant authorities or event listings. 
-
-To avoid any duplicate submissions, users are not allowed to register the same event multiple times. 
-
-The form is designed to be completed by a single person or entity per festival, hence the "Contact Name" field.
-</thinking>
-
 # festival_registration_form_with_eway - Help Guide
 ## Purpose
 This form is a registration form for festivals, which allows users to provide information about their event.

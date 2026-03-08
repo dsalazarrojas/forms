@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering a smart hospitality cluster, which is a grouping of companies and organizations that are working together to achieve common goals and objectives in the hospitality industry. The purpose of this form is to collect information about each cluster, including its name, description, interest areas, cluster type, number of employees, and more. This form is used to ensure that all necessary information is collected and stored correctly, and to prevent duplication of efforts.
-</thinking>
-
 # Smart Hospitality Cluster Registration Form - Help Guide
 ## Purpose
 This form is used for registering a smart hospitality cluster, which is a grouping of companies and organizations that are working together to achieve common goals and objectives in the hospitality industry.

@@ -1,5 +1,3 @@
-<thinking>...I'll create a user-facing help guide for the Social Agreement Form based on the provided YAML fields. This form is designed to collect important information from participants, including their agreement, expectations, emergency contact information, and participant emergency contact details. It seems to be a form used for registration purposes, possibly for events or programs where participants need to provide their consent, emergency contacts, and other essential details. I will ensure that the help guide is clear, concise, and practical, explaining each field in simple terms...</thinking>
-
 # Social Agreement Form - Help Guide
 ## Purpose
 The Social Agreement Form is a registration form used to collect essential information from participants, ensuring a smooth and safe experience for everyone involved. Please take a few minutes to complete this form carefully.

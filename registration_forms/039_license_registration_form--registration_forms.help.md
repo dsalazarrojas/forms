@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information for license registration purposes, likely for an insurance company or related business. The form is divided into multiple pages with various fields to gather different types of information. The fields include text boxes for license numbers, insurance company names, agent names, and other relevant details, as well as select options for certain types of licenses and policies. The form also includes fields for dates, numbers, and email addresses. It is likely used by agents or users to register licenses and provide information about policies and customers. I'm assuming that the form is used in a business or professional setting, and the fields are relevant to that context.
-
-This form appears to be a comprehensive form that requires some basic information about license registration. There are fields for user input, policy details, agent information, and contact details. The form is relatively simple and does not require any specific technical knowledge or expertise. Each field has a specific purpose and is labeled accordingly.
-
-I will review the form carefully and provide a clear and concise explanation for each field. I will avoid any unsupported business logic and explain the fields based on their labels and possible context.
-
-Please let me know if this is correct or if I need to make any changes before outputting the final help guide in Markdown format.
-</thinking>
-
 # License Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information for license registration purposes, likely for an insurance company or related business. It is divided into multiple pages with various fields to gather different types of information.

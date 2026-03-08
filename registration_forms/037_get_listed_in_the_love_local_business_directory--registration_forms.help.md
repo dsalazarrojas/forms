@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # get_listed_in_the_love_local_business_directory - Help Guide
 ## Purpose
 This form is designed to help you list your business in the Love Local Business Directory. Fill out the form to provide your basic information and category of your business, and we'll take care of the rest to get your business listed in the directory.

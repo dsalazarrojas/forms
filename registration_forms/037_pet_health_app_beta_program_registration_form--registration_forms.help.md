@@ -1,16 +1,3 @@
-<thinking>
-This form is for registering a user's pet in the Pet Health App Beta Program. The user will provide information about themselves and their pet to receive access to the app's features. The form should only be completed once per user and should not be duplicated.
-
-The form is divided into several sections:
-
-1. Owner information (name, email, phone)
-2. Pet information (name, type)
-3. Contact preferences (preferred contact method)
-4. Terms and conditions (acceptance of terms, privacy policy, and sharing)
-
-The form will ask the user to confirm their agreement to the terms and conditions, and to agree to share their data with the app developers. The user will need to agree to both terms and conditions before submitting the form.
-</thinking>
-
 # Pet Health App Beta Program Registration Form - Help Guide
 ## Purpose
 The Pet Health App Beta Program Registration Form is designed to collect information from users who want to join the beta program. This form helps us understand your pet's health and behavior, and allows you to access exclusive features and services.

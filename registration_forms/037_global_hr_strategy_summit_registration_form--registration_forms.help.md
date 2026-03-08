@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to collect registration information for the Global HR Strategy Summit. The purpose of this form is to gather data from participants to better understand their interests and special requirements for the summit. This form is not meant to be filled out by non-participants, such as speakers or organizers. Please ensure you are filling out this form as a registered participant.
-
-</thinking>
-
 # Global HR Strategy Summit Registration Form - Help Guide
 ## Purpose
 The Global HR Strategy Summit Registration Form is designed to collect information from participants about their interests and special requirements for the summit. Please fill out this form accurately and completely to ensure your needs are taken into account.

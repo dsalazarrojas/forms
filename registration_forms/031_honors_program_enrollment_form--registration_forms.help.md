@@ -1,15 +1,3 @@
-<thinking>
-
-This form is meant to collect information from students to help them enroll in the Honors Program at a university. The form is designed to collect demographic information about the student and their faculty sponsor. The form is required for all students who wish to enroll in the program. 
-
-This form is not intended to be used for other purposes, such as course registration or course evaluation. 
-
-The form has two main sections: student information and faculty information. The student section requires the student's name, email, phone number, address, city, state, zip, GPA, GPA scale, and faculty information (name, contact, email, phone, institutional affiliation, position, department, and faculty signature).
-
-The faculty section requires the faculty member's name, contact, email, phone, institution, position, department, and faculty signature. If the faculty member's institutional affiliation is not with the university, they will be required to answer "Yes" to the "program_type" field.
-
-</thinking>
-
 # Honors Program Enrollment Form - Help Guide
 ## Purpose
 This form is for students to provide information to enroll in the Honors Program. It is required for all students who wish to participate.

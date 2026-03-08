@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and the onboarding process is straightforward for the end-users. The form is designed to collect information from makeup artists who want to join the platform. We need to verify that the user has provided accurate and relevant information. The form will be used to onboard artists who can work on the platform, and we need to ensure that we don't duplicate efforts or onboard artists who are not qualified or available for work. We also need to keep the form as simple and user-friendly as possible.
-</thinking>
-
 # Makeup Artist Onboarding Form - Help Guide
 ## Purpose
 This form is used to onboard makeup artists who want to join the platform. It collects essential information about the artist's details, contact, availability, and work experience.

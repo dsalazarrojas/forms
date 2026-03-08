@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a comprehensive form for registering swimmers to participate in a tournament organized by a swimming club. It requires basic information about the swimmer, such as their name, contact information, and details about their age, gender, and level of swimming. The form also requires information about the parents' contact details and their relationship with the swimmer. The form seems to have a clear structure and categorization of fields, which should help in understanding and filling it out. Upon reviewing the form, I will break down the explanation into the required sections for the end-user.
-</thinking>
-
 # Swimming Club Tournament Entry Form - Help Guide
 ## Purpose
 

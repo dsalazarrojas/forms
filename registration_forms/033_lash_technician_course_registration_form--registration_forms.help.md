@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to ensure users understand the purpose and correct usage of the Lash Technician Course Registration Form. It is crucial to verify that users understand the form's intended use and can complete it accurately without duplication or confusion. This form is used to collect course registration data from users and is essential for course organizers and instructors to track course progress and participant information.
-
-Before proceeding, please ensure that the form is relevant to your needs and you are not duplicating an existing form. If you are unsure, please seek guidance from the form's administrators.
-
-This guide will walk you through the form's structure and each field's purpose to ensure a smooth and successful registration process.
-
-</thinking>
-
 # Lash Technician Course Registration Form - Help Guide
 ## Purpose
 The Lash Technician Course Registration Form is designed to collect registration data from users interested in enrolling in a Lash Technician course. This form helps course organizers and instructors track course progress and participant information.

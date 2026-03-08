@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is used correctly and that users understand what they are submitting. Since it's a registration form, we don't want users to complete it unless they are interested in attending a sound bath session. Additionally, we should check if the user has already registered or not to avoid duplication.
-</thinking>
-
 # Sound Bath Registration Form - Help Guide
 ## Purpose
 The Sound Bath Registration Form is designed to collect information from individuals interested in attending a sound bath session. This form helps us understand your preferences and requirements for the session.

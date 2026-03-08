@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for athletes seeking to register for a tryout session with a specific scholarship program. The tryout session is designed for athletes to showcase their skills and demonstrate their eligibility for a scholarship. The form collects personal and athletic information, including demographic details, contact information, and athletic history. The goal is to provide a comprehensive application process for athletes to secure a spot in the tryout session and potentially receive a scholarship. This form is not intended for general inquiries or informational purposes, and athletes must meet the eligibility criteria specified in the form to be considered for the tryout session. Please ensure that you carefully review each field and provide accurate information to ensure a smooth and successful application process.
-</thinking>
-
 # Athletic Scholarship Tryout Registration Form - Help Guide
 ## Purpose
 This form is designed to gather essential information from athletes seeking to participate in a tryout session for a scholarship. Please fill out the form accurately and completely to ensure your application is considered.

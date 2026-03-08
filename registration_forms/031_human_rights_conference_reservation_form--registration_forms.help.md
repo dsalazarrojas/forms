@@ -1,10 +1,3 @@
-<thinking>
-This form appears to be for reserving a spot at a human rights conference. The form likely aims to collect information about attendees, their dietary restrictions, meal preferences, payment status, and emergency contact information. This form is likely used to ensure that the conference organizers have all the necessary details to accommodate attendees' needs and requirements.
-
-To confirm, I will proceed to create a help guide for this form based on the provided YAML fields.
-
-</thinking>
-
 # human_rights_conference_reservation_form - Help Guide
 ## Purpose
 This form is used to reserve a spot at a human rights conference. It collects attendee information, dietary restrictions, meal preferences, payment status, and emergency contact details to ensure a smooth and enjoyable experience for all attendees.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for participants to register for a Cross-Functional Management Workshop. The purpose of this form is to gather necessary information from participants to facilitate the workshop's smooth execution. This form will help us track participant details, availability, and submission status for workshop organizers. Please ensure that you are registering with your correct email address and availability for a smooth workshop experience.
-
-The fields in this form should not be completed for non-existent or fictional participants to prevent duplicate registrations. Ensure that you are registering with your real name, email, and availability as this information will be used for workshop communication and organization purposes.
-</thinking>
-
 # Cross Functional Management Workshop Registration Form - Help Guide
 ## Purpose
 This form is used to register participants for the Cross-Functional Management Workshop. It captures essential details such as participant name, contact information, availability, and submission status to ensure efficient workshop organization and communication with participants.

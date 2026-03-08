@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather RSVP information for a product anniversary celebration. It is meant for attendees to provide their event details, attendee information, number of guests, meal preferences, and any dietary restrictions they may have. It is expected to be completed by those attending the celebration.
-The fields within this form are designed to be completed by each guest, and it is expected that each guest will submit their own entry. The form is not designed to be a general registration form for the event, and attendees are expected to provide their own information. Therefore, it is not expected that the same person will submit multiple entries. If a guest is planning to attend with a large group, it is expected that they will submit multiple entries for each member of their group.
-The form requires the "Meal Preferences" field to be completed, as it is a required field. The other fields are optional, allowing guests to provide as much or as little information as they feel is necessary.
-</thinking>
-
 # product_anniversary_celebration_rsvp - Help Guide
 ## Purpose
 This form is designed to gather RSVP information for a product anniversary celebration. Please use this form to provide your event details, attendee information, number of guests, meal preferences, and any dietary restrictions you may have.

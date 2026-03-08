@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for swimmers to register for a swimming race. The purpose of this form is to collect essential information from participants, including their registration details, emergency contact information, swimmer details, and payment information. 
-The form is intended for individual use, and the collected data will be used for administrative purposes. It is recommended to check that the form is not a duplicate and has the necessary information before submitting.
-This form was generated using a combination of natural language processing (NLP) and machine learning algorithms, ensuring its accuracy and relevance to the swimming race registration topic.
-</thinking>
-
 # Swimming Race Registration Form - Help Guide
 
 ## Purpose

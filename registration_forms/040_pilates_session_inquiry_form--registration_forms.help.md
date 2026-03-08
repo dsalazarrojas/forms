@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pilates Session Inquiry Form - Help Guide
 ## Purpose
 This form is designed to help users inquire about available Pilates sessions. It collects relevant information to facilitate the process of booking and scheduling a session.

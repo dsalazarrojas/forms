@@ -1,7 +1,3 @@
-<thinking>
-This form is primarily used for users to register their information for various services. The form consists of multiple fields that require input from the user, each field is designed to gather specific information. The purpose of this form is to ensure accurate and complete registration data. It is a one-time registration form and not intended for repeated submittal.
-</thinking>
-
 # Simple Registration Form - Help Guide
 ## Purpose
 This form collects information for registration purposes. Please complete the required fields for accurate and complete data.

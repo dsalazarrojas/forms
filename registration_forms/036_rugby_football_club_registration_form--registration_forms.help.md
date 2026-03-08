@@ -1,7 +1,3 @@
-<thinking>
-To create a well-crafted user-facing help guide for the Rugby Football Club Registration Form, we first need to understand the form's purpose and ensure it's being used for its intended purpose without duplication. This form is designed for individuals or teams to register with the rugby club, providing essential information for club management and emergency contact details. It's essential to verify that the registrant is not already registered with the club to prevent duplicate entries. This guide will walk the user through each field in the form, ensuring they understand what's required and how to complete it accurately.
-</thinking>
-
 # Rugby Football Club Registration Form - Help Guide
 ## Purpose
 The Rugby Football Club Registration Form is used for individuals or teams to register with the club. It collects essential information about the registrant and their emergency contacts. Please ensure you only register once with the club to avoid duplicate entries.

@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from attendees for the virtual convention. This form is likely used by organizers or administrators to collect contact and demographic data from attendees. This form is probably used for registration and planning purposes.
-To ensure that the form is filled out correctly, check that the form fields are accurate and up-to-date. Make sure that the form is not duplicated in any other forms.
-</thinking>
-
 # Virtual Convention Registration Form - Help Guide
 ## Purpose
 This form is used to collect contact and demographic information from attendees for the virtual convention.

@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, my goal is to create a user-friendly and informative help guide that will help end-users understand the purpose and functionality of the "Product Sampling Volunteer Registration Form". I will review the provided YAML fields to ensure that every detail is accurately explained in the help guide.</thinking>
-
 # Product Sampling Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from volunteers interested in sampling products and potentially assisting at events. By filling out this form, you will be helping us to understand your availability and preferences, which will enable us to better organize our volunteer program.

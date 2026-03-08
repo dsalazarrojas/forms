@@ -1,11 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the form's purpose, how to complete it, and what each field means. The form is called "startup-management-training-form" and seems to be related to managing training or education programs for startups or small businesses. The form might be used to collect information from participants in the training program, including their personal and organizational details. The form's purpose could be to register participants for the training program, collect their feedback, or track their progress.
-
-The form has multiple pages with fields for personal and organizational details, training dates, durations, and locations. Some fields are for participant and organization status, confirmation, and verification. The form also includes fields for training description and start time AM/PM. We need to ensure the form is completed correctly and that users understand what information to enter in each field.
-
-We also need to consider that some fields might be optional or have specific formats (e.g., email, date, time). We should provide clear explanations and examples to help users complete the form accurately.
-</thinking>
-
 # startup-management-training-form - Help Guide
 ## Purpose
 This form is used to register participants for a training or education program. It collects personal and organizational details, training dates, durations, and locations.

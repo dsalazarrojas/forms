@@ -1,12 +1,3 @@
-<thinking>
-  As an expert form designer and technical writer, I've crafted a help guide for the Entrepreneurship Program Volunteer Registration Form to ensure end-users understand its purpose, completion process, and each field's meaning.
-
-  This form is a crucial tool for registering volunteers for an entrepreneurship program. Its primary goal is to collect necessary information from potential volunteers, helping the program's administrators to manage and coordinate their efforts effectively.
-
-  To avoid duplication, please note that this form is designed for first-time registrants. If you're a returning volunteer, you might not need to fill this form out again. In case of doubts or discrepancies, feel free to reach out to the program's administrators.
-
-</thinking>
-
 # Entrepreneurship Program Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals interested in participating as volunteers in the Entrepreneurship Program. It collects necessary information to manage and coordinate volunteer efforts effectively.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for gym owners or staff to record the fee payment details for gymnastics terms. The form likely exists to keep track of payment records for the terms fees of students or members. It appears to be a simple payment registration form that requires basic information such as name, email, and payment details. The form is likely not intended for public-facing usage, and the fields seem to be mostly for internal tracking purposes.
-</thinking>
-
 # Gymnastics Term Fee Payment - Help Guide
 ## Purpose
 This form is used to record payment details for gymnastics term fees.

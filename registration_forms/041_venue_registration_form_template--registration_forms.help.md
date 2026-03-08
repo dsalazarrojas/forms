@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering event venues with details such as event information, attendee info, and payment details. The form allows users to provide a brief description of the event and its attendees, including the total number of attendees. The form also collects information on the payment method, payment status, and special requests. This form is likely to be used by event planners or venue owners to collect necessary information for event organization and management.
-</thinking>
-
 # Venue Registration Form Template - Help Guide
 
 ## Purpose

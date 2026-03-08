@@ -1,6 +1,3 @@
-<thinking>
-This form is intended to collect information from media partners about their attendance at an event, specifically the Media Partner Luncheon. The purpose of this form is to gather guest details, dietary preferences, and any additional information that may be relevant to the event organizers. It is crucial to complete the form accurately to ensure that the correct information is captured for the event.
-</thinking>
 # Media Partner Luncheon RSVP - Help Guide
 ## Purpose
 This form is designed to collect essential information from media partners about their attendance at the Media Partner Luncheon. Please complete this form accurately to ensure that your details are captured correctly for the event.

@@ -1,7 +1,3 @@
-<thinking>
-Internal reasoning block: This form is for creating a new win event ticket. The user is expected to provide details of the event ticket such as event organizers, ticket name, ticket start and end dates, ticket price, ticket quantity, ticket availability, ticket description, ticket image, ticket image URL, and ticket URL. The user should only fill in the relevant fields and ensure that the required fields are completed if the field is marked as required. If a field is not relevant to the event ticket, the user can leave it empty.
-</thinking>
-
 # Win Event Tickets - Help Guide
 ## Purpose
 The purpose of this form is to create a new win event ticket, providing details such as event organizers, ticket name, dates, price, quantity, availability, description, image, and URL.

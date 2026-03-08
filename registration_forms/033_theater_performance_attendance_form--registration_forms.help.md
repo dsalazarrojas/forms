@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for users to provide information about their attendance at a theater performance. It captures details such as user contact information, ticket purchasing status, payment status, and other relevant performance details. This form likely serves to track attendee data for administrative purposes or to provide attendees with personalized experiences during and after the performance.
-
-To avoid duplication, the form likely ensures that users can only submit one set of information per performance, and that users cannot submit multiple forms for the same performance.
-
-This form is likely used by the theater management or staff to gather information about attendees and their interactions with the theater.
-
-</thinking>
-
 # theater_performance_attendance_form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their attendance at a theater performance. It is used to gather details such as user contact information, ticket purchasing status, and performance details. The form helps the theater management to track attendees' data and provide personalized experiences.

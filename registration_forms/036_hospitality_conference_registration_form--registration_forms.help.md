@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for the registration process of a Hospitality Conference. It captures essential information about the attendees such as their first and last names, email, phone number, event details, and other relevant data. The form is a required part of the registration process and should only be completed once for each attendee. 
-</thinking>
-
 # Hospitality Conference Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Hospitality Conference. Please provide the required information to complete your registration.

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for individuals to register their interest in the Community Dads Initiative. The form aims to gather contact information and details about the individual's preferences for participation in the initiative. This includes their name, email address, phone number, date of birth, residential address, and other relevant information. The form also includes fields for selecting initiatives and activities they are interested in, specifying their level of participation, and describing their skills and experience. The form requires a digital signature to confirm the accuracy of the information provided. It also asks if they would like to receive the community center's newsletter and how they heard about the initiative.
-Before proceeding, please ensure you have not already registered for the Community Dads Initiative, as this form is intended for first-time registrants.
-</thinking>
-
 # Community Dads Initiative Registration - Help Guide
 ## Purpose
 The purpose of this form is to register your interest in the Community Dads Initiative. Please fill out the form carefully to ensure accurate and complete information.

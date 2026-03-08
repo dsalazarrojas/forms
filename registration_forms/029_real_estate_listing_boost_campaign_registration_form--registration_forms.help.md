@@ -1,9 +1,3 @@
-<thinking>
-  To prevent non-duplication of effort, ensure you've checked the relevant internal documentation and campaigns before proceeding.
-  This form is meant to collect information for a real estate listing campaign, specifically targeting properties for sale or lease.
-  Please note that the following form fields are mandatory and must be completed to be valid.
-</thinking>
-
 # real_estate_listing_boost_campaign_registration_form - Help Guide
 ## Purpose
 This form is used to collect information for a real estate listing campaign, specifically for properties for sale or lease.

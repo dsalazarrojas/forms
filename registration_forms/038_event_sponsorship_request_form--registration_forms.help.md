@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from event organizers to request sponsorship for their events. The form is intended to be completed by event organizers to provide details about their event and to submit a request for sponsorship. The form should only be completed by event organizers who are looking to request sponsorship for their events. Please ensure that each form is only completed once per event, and that the correct information is entered to avoid errors. The form has two pages: Page 1 collects general information about the event, and Page 2 is left blank for potential additional details. 
-</thinking>
-
 # Event Sponsorship Request Form - Help Guide
 ## Purpose
 The Event Sponsorship Request Form is designed to collect information from event organizers to request sponsorship for their events. Please review the form carefully and ensure that all required fields are completed accurately.

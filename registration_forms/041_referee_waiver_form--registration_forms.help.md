@@ -1,14 +1,3 @@
-<thinking>...
-Internal reasoning:
-
-This form is used for referees to waive liability related to participation in events or activities. The form asks for personal and contact information, referee certifications, waiver terms and conditions, and signature details. The fields include First Name, Last Name, Address, Email, Phone, Date of Birth, Date of last referee training, Referee Training Certification, Referee Certification Number, Referee Certification Expiration, Emergency Contact First Name, Emergency Contact Last Name, Emergency Contact Address, Emergency Contact Phone, Allow Referee to list emergency contact, how you know the referee, Referee Signature, Official Signature, Date of Signature, Waiver of Liability, Date of Waiver, Signed by, Referee Waiver Signed By Title, and Refee Waiver Signed At.
-
-The form is required by the referee to provide accurate and up-to-date information, and to acknowledge the risks associated with participation. The waiver terms and conditions are also important for both the referee and the organization hosting the event.
-
-Before proceeding, ensure that all required fields are completed accurately and honestly. This form is a legal document and should be treated as such.
-
-</thinking>
-
 # Referee Waiver Form - Help Guide
 ## Purpose
 This form is used for referees to waive liability related to participation in events or activities.

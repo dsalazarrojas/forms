@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering for a brewery tasting tour. It's a crucial step for visitors to ensure they receive a spot on the desired tour date and time. This guide will walk you through each field to help users provide accurate and complete information, avoiding any potential issues due to missing or incorrect data.
-</thinking>
-
 # Brewery Tasting Tour RSVP Form - Help Guide
 ## Purpose
 The Brewery Tasting Tour RSVP Form is designed to register visitors for a guided tour of the brewery. It ensures that the visitor can choose their preferred tour date and time and provides essential information to the brewery about the guests' needs and preferences.

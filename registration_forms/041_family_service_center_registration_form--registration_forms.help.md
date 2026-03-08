@@ -1,7 +1,3 @@
-<thinking>
-We need to determine the purpose of this form and ensure it's not a duplicate of another form. This is a registration form for individuals to provide information about themselves and their family members. It likely contains personal and sensitive data, so it's crucial to ensure the form's purpose and scope are clear and well-defined. We should verify that there are no similar forms that cover the same information and requirements. After double-checking, we can proceed with creating the help guide.
-</thinking>
-
 # Family Service Center Registration Form - Help Guide
 ## Purpose
 This form is designed for individuals to register themselves and their family members with the Family Service Center. It collects personal data, family details, and emergency contact information. Please fill out this form accurately and completely to ensure proper registration.

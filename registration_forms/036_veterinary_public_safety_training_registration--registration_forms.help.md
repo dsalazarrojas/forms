@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from veterinary professionals who wish to participate in public safety training programs. This form is used to gather participant information, experience details, registration status, and schedule session dates. 
-
-Before proceeding, please ensure that this form is not a duplicate and that you are eligible to participate in the training program.
-
-</thinking>
-
 # veterinary_public_safety_training_registration - Help Guide
 ## Purpose
 This form is intended for veterinary professionals to register their interest in participating in public safety training programs.

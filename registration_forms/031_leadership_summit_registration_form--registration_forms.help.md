@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Leadership Summit Registration Form - Help Guide
 ## Purpose
 This form is designed for participants to register for a leadership summit. It gathers information about the participants, including their contact details, company, job title, and notes. The form is intended to be completed by individuals who wish to attend the leadership summit.

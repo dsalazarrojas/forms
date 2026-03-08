@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from members and guests for the Annual General Meeting (AGM) reservation process. It is intended for individuals and entities who wish to attend the AGM, and the collected data will be used to facilitate the reservation and seating arrangements.
-
-The form should not be submitted multiple times, as each submission will create a new reservation. Please ensure that you only submit the form once and provide accurate information to avoid any confusion or errors during the AGM.
-
-</thinking>
-
 # Annual General Meeting Reservation Form - Help Guide
 ## Purpose
 This form is for reserving attendance at the Annual General Meeting. Please complete it carefully to ensure your reservation is successful.

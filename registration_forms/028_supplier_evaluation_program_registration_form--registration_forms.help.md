@@ -1,7 +1,3 @@
-<thinking>
-The Supplier Evaluation Program Registration Form is designed to collect information from suppliers who wish to participate in the evaluation program. This form serves as a registration mechanism to help us understand the suppliers' details, documentations, and contact information. Please note that this form is for registration purposes only and does not imply any endorsement or approval of the supplier. We will review each submission carefully to avoid duplication of efforts and ensure that only relevant submissions are processed. If you are an existing supplier with an active registration, please do not resubmit your information.
-</thinking>
-
 # Supplier Evaluation Program Registration Form - Help Guide
 ## Purpose
 The Supplier Evaluation Program Registration Form is a registration mechanism for suppliers who want to participate in the evaluation program. This form helps us understand the suppliers' details, documentations, and contact information.

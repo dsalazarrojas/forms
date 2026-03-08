@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a land restoration project meeting. It captures essential information about the meeting, including the attendees' details, preferred meeting time, and meeting dates. This form is designed to ensure that all necessary information is collected for the successful organization and execution of the meeting. It is intended for use by individuals and organizations involved in land restoration projects. 
-</thinking>
-
 # land_restoration_project_meeting_registration - Help Guide
 ## Purpose
 This form is used to register a land restoration project meeting. It helps to collect essential information about the meeting, including attendees' details, preferred meeting time, and meeting dates.

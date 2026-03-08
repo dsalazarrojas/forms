@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **Internal Notes:**
 
 This form is intended to collect registration information for customers to access our loyalty portal. We need to ensure that customers have provided accurate and valid information to prevent duplicate registrations and maintain data consistency. Please review each field carefully and provide clear explanations to help end-users understand the purpose and requirements of each field.

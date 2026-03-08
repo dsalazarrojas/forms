@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a pregnant woman and her baby. The form is intended to be completed by the mother or a authorized person on her behalf. The form will be used for the purpose of [insert purpose here, e.g., "registering a new baby" or "tracking pregnancy details"]. It is recommended that the form be completed in a private setting and with the mother's consent.
-</thinking>
-
 # Form For Pregnant Women - Help Guide
 ## Purpose
 This form is used to collect information about a pregnant woman and her baby.

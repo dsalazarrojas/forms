@@ -1,5 +1,3 @@
-<thinking>As we strive to provide a seamless experience for both our families and staff, we want to ensure that our Childcare Center Pre-Registration Form is filled out correctly and efficiently. This form is designed to gather essential information about your child and family, which will help us tailor our services to meet your needs. Please note that this form is a pre-registration form, not a contract or commitment. It's a way for us to get to know you and your family before we begin the registration process. We're excited to learn more about you and your loved ones! Please take your time to fill out this form, and don't hesitate to reach out to us if you have any questions or concerns.</thinking>
-
 # Childcare Center Pre-Registration Form - Help Guide
 ## Purpose
 The Childcare Center Pre-Registration Form is a way for us to get to know you and your family before we begin the registration process. This form helps us tailor our services to meet your needs and ensures a smooth and efficient experience for both our families and staff.

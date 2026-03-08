@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for the Homeschooling Symposium, and the purpose of this form is to collect information from attendees who wish to participate in the symposium. The information collected will be used to manage attendee registrations and facilitate communication with them. To ensure that we do not have duplicate registrations, we will be checking if the email address and phone number already exist in our database before accepting a new registration.
-</thinking>
-
 # Homeschooling Symposium Registration - Help Guide
 ## Purpose
 The Homeschooling Symposium Registration form is designed to collect necessary information from attendees who wish to participate in the symposium.

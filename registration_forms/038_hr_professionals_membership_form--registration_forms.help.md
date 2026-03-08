@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from HR professionals who wish to join a membership program. This form is likely intended for internal use within an organization, possibly for employee onboarding or membership management purposes. To complete this form, users should follow the steps outlined below. 
-
-Before filling out the form, ensure that all required fields are completed as they will be needed to process your membership application. Please note that some fields may be optional, but completing them can provide more context and help with your application.
-
-</thinking>
-
 # HR Professionals Membership Form - Help Guide
 ## Purpose
 The HR Professionals Membership Form is a registration form designed to collect information from HR professionals who wish to join a membership program. This form helps us to gather necessary details for processing your membership application.

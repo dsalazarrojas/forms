@@ -1,8 +1,3 @@
-<thinking>... internal reasoning block ...
-This form is for registering an employee's social gathering, where employees can provide their personal details for the event. The form is not required but is used to help the event organizers gather necessary information for the event. This form is used to collect the following information: first name, last name, email, phone number, date of the event, and time of the event. This information will be used to send reminders and updates to the employees who registered for the event.
-
-</thinking>
-
 # employee_social_gathering_registration - Help Guide
 ## Purpose
 The employee social gathering registration form is used to gather information from employees about their participation in social gatherings. This information is used by the event organizers to send reminders and updates about the event.

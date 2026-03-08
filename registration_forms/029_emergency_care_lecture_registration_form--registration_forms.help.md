@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather registration information from individuals who wish to attend an Emergency Care Lecture. The form is used to collect the registrant's name, contact details, and medical license information. The purpose of this form is to facilitate the registration process and ensure that the necessary information is collected accurately.
-</thinking>
-
 # Emergency Care Lecture Registration Form - Help Guide
 
 ## Purpose

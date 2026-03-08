@@ -1,14 +1,3 @@
-<thinking>
-This form is used to register a participant in a play-reading event. The form is intended to be completed by participants who want to join a reading of a play and be part of the production team. 
-
-The participant will be required to provide some personal information to register for the event. This information will be used to identify the participant and to ensure that they are correctly assigned roles and availability for the reading.
-
-The purpose of this form is to efficiently register participants for the event, reducing the time spent on manual data collection and entry. The form will automatically generate a confirmation message with the participant's details once submitted.
-
-To avoid duplication, participants can only register once for each production team.
-
-</thinking>
-
 # play_reading_signup_form - Help Guide
 ## Purpose
 The "play_reading_signup_form" is used to register participants for a play-reading event. It collects personal information from the participant to ensure correct role assignment and availability.

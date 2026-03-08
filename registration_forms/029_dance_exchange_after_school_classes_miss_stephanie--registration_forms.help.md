@@ -1,13 +1,3 @@
-<thinking>
-
-This form appears to be a registration form for Dance EXchange After School Classes, likely a dance class program for students. The form collects information about the student, their emergency contact, and medical details. 
-
-The form is not strictly tied to any specific platform or service, but it seems to be designed for data collection purposes. It's not clear if this form is intended for online or offline use.
-
-Before filling out this form, please ensure that you're not duplicating any existing registration.
-
-</thinking>
-
 # Dance EXchange After School Classes (Miss Stephanie) - Help Guide
 ## Purpose
 This form is designed to collect information about students registering for Dance EXchange After School Classes. The data collected will be used to manage student registrations.

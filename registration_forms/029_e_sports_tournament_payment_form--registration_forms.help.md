@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information for the payment of e-sports tournament participants and teams. It is a comprehensive form that requires various details such as participant information, team details, and payment method. The form will be used by the e-sports tournament organizers to collect accurate and detailed information about each participant and team, which will help in processing their payments efficiently and effectively. 
-
-Before proceeding, please ensure that you have the required information and permissions to complete this form. 
-
-This guide will walk you through each section of the form, explaining what to fill in each field and why it is necessary.
-
-</thinking>
-
 # e_sports_tournament_payment_form - Help Guide
 
 ## Purpose

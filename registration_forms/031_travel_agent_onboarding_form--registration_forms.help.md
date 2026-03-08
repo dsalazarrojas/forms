@@ -1,5 +1,3 @@
-<thinking>...This form is designed for travel agents to onboard onto a platform, which is used for managing travel-related activities. The form is not affiliated with or endorsed by any form platform, and its content is generated based on public survey topic metadata. The form has 18 pages, each with a text field for inputting information... </thinking>
-
 # travel_agent_onboarding_form - Help Guide
 ## Purpose
 This form is used for travel agents to onboard onto a platform for managing travel-related activities.

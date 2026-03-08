@@ -1,9 +1,3 @@
-<thinking>
-This form is for registering participants in the Social Prescribing Program, a initiative that aims to improve the health and wellbeing of individuals. The form is designed to collect relevant information from participants, including their contact details, interests, and wellbeing status. 
-
-Internal note: This form is a registration form, so the fields should be clear and concise, and the user should be able to easily provide the required information. The form should be user-friendly and accessible for all participants.
-
-</thinking>
 # social_prescribing_program_registration - Help Guide
 ## Purpose
 This form is for registering participants in the Social Prescribing Program. It is used to collect information about participants, including their contact details, interests, and wellbeing status. 

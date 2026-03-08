@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a registration form for attendees to sign up for an AI Predictive Modelling Workshop. The primary purpose of this form is to collect information from attendees about their professional details, technical background, and preferences for the workshop. The form is designed to help the workshop organizers understand the attendees' needs and tailor the content of the workshop accordingly.
-
-The form is divided into several sections, each covering different aspects of the attendee's information and preferences. The form is designed to be completed by the attendee themselves, and the information collected will be used to personalize their workshop experience.
-
-Before filling out this form, please make sure you are not already registered for the workshop. If you have any questions or concerns about the form, please don't hesitate to contact the workshop organizers.
-
-</thinking>
-
 # AI Predictive Modelling Workshop Registration Form - Help Guide
 
 ## Purpose

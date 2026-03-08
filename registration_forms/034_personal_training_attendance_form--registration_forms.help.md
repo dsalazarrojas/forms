@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect data about client attendance to personal training sessions. This form should be used to track client engagement, attendance, and feedback. It should not be used to collect sensitive or financial information, and the client's privacy and security should be respected at all times. 
-
-Before filling out this form, please ensure that you have not already filled it out with the same information in the past, or that the information provided is up-to-date and relevant. 
-
-This form is designed to be used for personal training sessions. 
-
-</thinking>
-
 # Personal Training Attendance Form - Help Guide
 ## Purpose
 The Personal Training Attendance Form is designed to collect data about client attendance to personal training sessions. This form is intended for trainers to record client attendance and feedback after each session. 

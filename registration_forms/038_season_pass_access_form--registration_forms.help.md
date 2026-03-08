@@ -1,13 +1,3 @@
-<thinking>
-
-The Season Pass Access Form is designed to help users register for a season pass access with their organization's season pass program. The form gathers essential information about the user, such as their season pass type, organization affiliation, and any additional details they want to provide. 
-
-To determine if the user is eligible to access the season pass, the form checks if the user has selected a valid season pass type and organization affiliation. If any of the required fields are left blank or invalid, the user will be prompted to correct their input. 
-
-This form is meant for users who are interested in accessing the season pass program. It is not intended for internal administrative use.
-
-</thinking>
-
 # Season Pass Access Form - Help Guide
 ## Purpose
 

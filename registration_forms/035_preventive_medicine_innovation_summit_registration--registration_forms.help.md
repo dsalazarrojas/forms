@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The form is designed for registration to the Preventive Medicine Innovation Summit, allowing attendees to provide their attendance type, name, email, phone number, and any key details about their participation. This form serves as a central hub for gathering information from attendees before the summit, which will help organizers prepare for a successful and organized event. This form is not meant to be a comprehensive survey, but rather a brief registration process.
 
 # Preventive Medicine Innovation Summit Registration - Help Guide

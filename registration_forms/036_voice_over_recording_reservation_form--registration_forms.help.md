@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for the internal use of the company to help end-users understand and fill out the Voice Over Recording Reservation Form. Before proceeding, please ensure that you are not using this guide for other purposes or duplicating efforts.
-
-</thinking>
-
 # Voice Over Recording Reservation Form - Help Guide
 ## Purpose
 The Voice Over Recording Reservation Form is a tool used to reserve and schedule voice over recording services. This form helps us to gather essential information from customers, such as project details, required dates and times, and contact information. It allows us to efficiently manage reservations and ensure smooth communication with clients.

@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather general information from users, including demographic and personal data such as email, phone number, and user preferences. The form is not designed for specific business processes like user authentication or sensitive data collection, but rather for general user input and feedback.
-
-Before completing the form, please ensure that you haven't already provided this information. Duplicate submissions might be unnecessary and may cause confusion in the system.
-</thinking>
-
 # wellness_questionairre - Help Guide
 ## Purpose
 This form is designed to gather general information from users, including demographic and personal data such as email, phone number, and user preferences.

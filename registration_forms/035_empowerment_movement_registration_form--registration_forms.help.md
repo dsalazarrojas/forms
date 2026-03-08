@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from participants in the Empowerment Movement, a program that aims to empower individuals or organizations to achieve their goals. The form will likely be used by participants who are seeking support or resources to aid in their empowerment journey. Before proceeding, ensure that you are registering for the correct program type (Empowerment or Support) and that your participant information is accurate and up-to-date. Please note that some fields are required, while others are optional, and that you can select multiple languages for yourself and your participant. Ensure that you have all necessary information ready before starting to fill out the form.
-</thinking>
-
 # Empowerment Movement Registration Form - Help Guide
 ## Purpose
 The Empowerment Movement Registration Form is designed to register participants in the Empowerment Movement program, which aims to support individuals or organizations in achieving their goals.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Climate Action Workshop Registration Form - Help Guide
 
 ## Purpose

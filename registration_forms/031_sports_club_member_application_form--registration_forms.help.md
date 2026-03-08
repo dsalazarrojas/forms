@@ -1,11 +1,3 @@
-<thinking>
-The form is designed for users to register as a member of a sports club, providing personal and emergency contact information. It's essential to ensure the provided information is accurate and up-to-date. Please make sure to fill in all required fields and provide clear and concise answers to help us better understand your needs and provide the best service possible.
-
-Before filling in the form, please note that some fields are marked as "optional". However, providing as much information as possible will help us serve you better. If you're unsure about any field, please don't hesitate to contact us for clarification.
-
-Please fill the form in a single session, as saving and continuing later may cause issues. Make sure to review your answers before submitting the form.
-</thinking>
-
 # sports-club-member-application-form - Help Guide
 ## Purpose
 This form is intended for users who wish to register as a member of the sports club. It collects personal and emergency contact information to help us serve you better.

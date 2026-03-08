@@ -1,7 +1,3 @@
-<thinking>
-We're using the Event Planning Intake Form to collect essential details about an event from clients. This form helps us understand the client's needs and preferences, ensuring that we provide the best possible service for their event. Please fill out this form accurately to help us plan your event effectively.
-</thinking>
-
 # Event Planning Intake Form - Help Guide
 ## Purpose
 The Event Planning Intake Form is a tool used to gather information about an event, including event details, dates, times, and other relevant particulars. This information helps us tailor our services to your specific needs.

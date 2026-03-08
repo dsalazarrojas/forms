@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the football registration form, I will analyze the provided YAML structure and identify the form's purpose, how to complete it, and explain each field in detail.
-The form, titled "football_registration_form," is designed to collect information about players registering for a football team. The form's purpose is to gather essential details about each player, including their personal information, playing status, emergency contact, and team affiliation.
-
-The form is divided into multiple pages, each focusing on a specific aspect of player registration. This guide will cover each page and field in a clear and concise manner, helping users understand what information to provide and how to fill out the form accurately.
-
-After this internal reasoning block, I will present the final help document in Markdown format.
-</thinking>
-
 # football_registration_form - Help Guide
 ## Purpose
 The "football_registration_form" is designed to collect essential information about players registering for a football team. This form helps the team administrators gather details such as player personal information, playing status, emergency contacts, and team affiliation.

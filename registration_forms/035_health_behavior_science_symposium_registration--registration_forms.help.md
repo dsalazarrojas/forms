@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Health Behavior Science Symposium. It is intended for attendees who wish to participate in the symposium. Please note that this form should not be used for other purposes, such as soliciting business opportunities or promoting unrelated events. 
-
-Before filling out this form, please ensure that you have all the necessary information ready. The form will guide you through the registration process, which includes providing basic attendee information, indicating session interests, and detailing any special needs or requirements. 
-
-</thinking>
-
 # Health Behavior Science Symposium Registration - Help Guide
 ## Purpose
 This form is designed to register attendees for the Health Behavior Science Symposium. It collects necessary information to provide a smooth and enjoyable experience for all attendees.

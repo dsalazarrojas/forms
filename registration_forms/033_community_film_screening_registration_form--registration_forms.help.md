@@ -1,15 +1,3 @@
-<thinking>
-
-This help guide is meant to assist users in understanding the purpose and requirements of the Community Film Screening Registration Form. To ensure the form is used correctly, please note that:
-
-* This form is for registering attendees for community film screenings.
-* All fields are required unless specified otherwise.
-* Please ensure that you select the correct film selection, screening date and time, and ticket type to accurately represent your registration.
-* The form is designed to collect demographic information and preferences for the screening event, which will help us tailor the experience to your needs.
-* If you have any special requests or accommodations, please provide detailed information in the relevant fields.
-
-</thinking>
-
 # Community Film Screening Registration Form - Help Guide
 ## Purpose
 The Community Film Screening Registration Form is designed to collect information from attendees for the community film screenings. This form helps us understand your preferences and needs for the screening event, ensuring a tailored experience for you.

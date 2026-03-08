@@ -1,5 +1,3 @@
-<thinking>As we are creating a help guide for the "residents_booking" form, let's ensure it serves its intended purpose. Upon reviewing the form's schema, we aim to capture essential details related to resident bookings, likely for property management or similar scenarios. The form doesn't appear to be intended for sensitive or critical personal data. To avoid duplication, it's essential that the resident fills out the form correctly and accurately. If not completed correctly, it might lead to incorrect booking records. This form's purpose and fields should be straightforward and easy to understand for the end-user.</thinking>
-
 # residents_booking - Help Guide
 ## Purpose
 The residents_booking form is designed to capture essential information related to resident bookings for property management or similar purposes. This includes details about the apartment number, visit date, visit time, trade services, and resident contact information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Futsal League Team Registration Form - Help Guide
 ## Purpose
 The Futsal League Team Registration Form is designed to gather information from teams that want to participate in the Futsal League. This form is used to collect team details and player information, which will help the league administrators verify the legitimacy and eligibility of the teams and players for the league.

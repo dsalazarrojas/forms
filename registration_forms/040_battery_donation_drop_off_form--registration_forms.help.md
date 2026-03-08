@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals or organizations who want to donate batteries for recycling. This form will be used by recycling centers to track and manage the drop-off of batteries. The form will help in ensuring that the batteries are properly handled and recycled. 
-
-This guide will walk you through how to fill out this form for a successful and hassle-free drop off.
-
-You will need to answer the following fields:
-</thinking>
-
 # Battery Donation Drop Off Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or organizations who want to donate batteries for recycling. This information will be used by recycling centers to track and manage the drop-off of batteries.

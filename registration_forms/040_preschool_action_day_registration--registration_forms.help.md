@@ -1,8 +1,3 @@
-<thinking>**Internal Reasoning Block**
-This form is intended for preschool administrators to collect registration information from parents or guardians for a preschool action day event. The form collects demographic information about the child, including their name, date of birth, school, and grade level. It also collects contact information for the guardian, such as their phone number and email address. Additionally, the form collects payment information, including the payment method and amount. The form allows parents to provide any additional comments or notes about their child's registration. The purpose of this form is to ensure that all necessary information is collected accurately and efficiently for the preschool action day event.
-
-</thinking>
-
 # Preschool Action Day Registration - Help Guide
 ## Purpose
 The Preschool Action Day Registration form is designed to collect demographic and contact information from parents or guardians for the preschool action day event. This information will be used to organize and plan the event, ensuring that each child's needs are met and that the event runs smoothly.

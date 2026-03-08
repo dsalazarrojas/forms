@@ -1,11 +1,3 @@
-<thinking>
-
-The form is designed to collect information from users to create a new Ensemble Group. This form is intended for users who want to join or create an Ensemble Group for various types of events, such as rehearsals, events, or performances. The form allows users to provide details about the event, including the name, type, date, time, location, group size, group type, instrument, and other relevant information. This form will help the organizers of the Ensemble Group to gather necessary information to manage their events and groups effectively.
-
-The form is a simple, user-friendly interface for users to input their data, which will be stored for later use by the organizers.
-
-</thinking>
-
 # Ensemble Group Signup Form - Help Guide
 ## Purpose
 The Ensemble Group Signup Form is designed for users to join or create an Ensemble Group for events such as rehearsals, events, or performances.

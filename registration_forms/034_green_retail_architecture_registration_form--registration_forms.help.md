@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants in a green retail architecture event or conference. This form aims to gather details about the participants, their interests, and their affiliation with organizations. The form is likely to be used by event organizers to get a better understanding of their attendees' backgrounds and preferences. It's essential to fill out the form accurately to ensure that the event organizers have a complete and correct record of the participants' data.
-
-Before starting, please ensure that you have not filled out this form before, as it may lead to duplication of effort. If you're unsure about the form's purpose or have any questions, feel free to ask the event organizers for clarification.
-</thinking>
-
 # Green Retail Architecture Registration Form - Help Guide
 ## Purpose
 

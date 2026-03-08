@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect training enrollment details and other relevant information from users. It is used to manage the training process and track user progress. Please review this form carefully to ensure you have filled out all required fields accurately. If you have previously completed this form, please ensure you are not duplicating efforts.
-</thinking>
-
 # procurement_and_purchasing_training_enrollment_form - Help Guide
 ## Purpose
 This form is used to collect and record participant training enrollment details and other relevant information.

@@ -1,11 +1,3 @@
-<thinking>
-Internal reasoning to ensure this form is the correct one for the end-user: 
-The "Strategic Innovation Accelerator Registration Form" is a form used to register programs within the innovation ecosystem. 
-The form is designed for users to submit relevant information about the programs they're applying for or participating in. 
-This form will not be used for other purposes. 
-No duplication of forms or data is allowed.
-
-</thinking>
 # Strategic Innovation Accelerator Registration Form - Help Guide
 ## Purpose
 The Strategic Innovation Accelerator Registration Form is used to collect information about programs applying or participating in the innovation ecosystem. This form is designed to help us better understand your needs and goals.

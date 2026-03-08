@@ -1,13 +1,3 @@
-<thinking>
-This form is used for user registration for a digital marketing training program. The purpose of this form is to collect information from users who are interested in attending the training program. The form collects user's name, email, company, job title, company website, phone number, date of birth, selected training session, and any additional comments. The user is also asked to confirm their registration.
-
-The user can choose which training session they want to attend from a dropdown list of available sessions. They can also add any additional comments if needed. The form does not enforce the "confirm" field as required, so the user can choose to confirm or not confirm their registration.
-
-This form is designed to be user-friendly and easy to use. The fields are labeled clearly, and the options for the "training session" field are provided as a dropdown list for easy selection. The "confirm" field is also provided as a way to validate the user's registration, but it is not strictly required.
-
-Please note that the "confirm" field is actually two different fields: "confirm" and "confirm_email". The "confirm" field is a select_one field with two options "True" and "False", while the "confirm_email" field is an email field. This is likely a mistake in the form schema and should be reviewed and corrected.
-</thinking>
-
 # Digital Marketing Training Registration Form - Help Guide
 ## Purpose
 

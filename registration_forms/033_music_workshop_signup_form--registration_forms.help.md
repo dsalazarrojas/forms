@@ -1,11 +1,3 @@
-<thinking>
-The form is intended to collect information from potential participants in a music workshop, allowing them to select their preferred session time and provide their details and preferences. This form is designed to be user-friendly and easy to complete, with minimal required fields to ensure maximum participation. The form's purpose is to gather relevant information for workshop organizers to tailor the event to the participants' needs and preferences.
-
-This form is not affiliated with, endorsed by, or derived from any form platform, and its creation is an original adaptation using public survey topic metadata as inspiration. The form is released under the Creative Commons Attribution 4.0 license, allowing users to modify and use it as they see fit, as long as they give credit.
-
-Before completing this form, please ensure that you have not previously registered for this music workshop, as duplicate registrations will not be accepted. If you have any questions or need further assistance, please contact form@gic.mx.
-</thinking>
-
 # Music Workshop Signup Form - Help Guide
 ## Purpose
 The Music Workshop Signup Form is designed to collect participant information for a music workshop event.

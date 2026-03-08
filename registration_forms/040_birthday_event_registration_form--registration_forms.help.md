@@ -1,7 +1,3 @@
-<thinking>
-Please note that this form is intended to collect information for a birthday event registration process. The form's purpose is to gather details about the birthday child, parents or guardians, and the event itself. This includes event details such as name, date, and location, as well as information about the number of guests, dietary restrictions, and payment methods. The form also includes fields for special requests, party preferences, and acknowledgments, such as photo and liability consent. Please ensure that you only fill out the form if the birthday event is indeed for the child specified, and do not register multiple events or parties. If you are unsure about any field or have questions, please refer to the help guide for clarification. 
-</thinking>
-
 # Birthday Event Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data about event participation, providing a structured and organized format for capturing essential details. The form's primary function is to gather information about events, including attendee data, event specifics, and related details. It's intended for use in various settings, such as events, conferences, workshops, or any other gathering where participation data is valuable. This form was created to facilitate efficient and accurate data collection, reducing the likelihood of missing crucial information. By using this form, users can ensure they gather all necessary details about events, improving the overall experience and outcomes. 
-</thinking>
-
 # Event Participation Data Collection - Help Guide
 ## Purpose
 This form is designed to collect data about event participation, providing a structured and organized format for capturing essential details. 

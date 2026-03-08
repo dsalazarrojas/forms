@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for new vendor registration requests. It is intended to collect information from vendors who want to partner with our company. This form will help us understand their name, contact details, and category of services they offer. Please ensure that you have not submitted a registration request for this vendor before, and that your submission is relevant to our business needs.
 
 # New Vendor Registration Request Form - Help Guide

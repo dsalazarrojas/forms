@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect patient registration information for a teledermatology service, which is a remote medical consultation service for skin-related medical conditions. The form requires patients to provide their basic information such as name, contact number, email, and date of birth. Medical practitioners also need to provide their information including their ID, specialty, address, phone number, and license number. The form also captures additional information about the patient's medical history, medical certifications, and any medical practitioner notes.
-
-To avoid duplication of efforts, this form is intended for new patient registrations only. If a patient has already registered with the teledermatology service, they should not fill out this form.
-
-</thinking>
-
 # Teledermatology Patient Registration Form - Help Guide
 ## Purpose
 The Teledermatology Patient Registration Form is designed to collect basic patient and medical practitioner information for the teledermatology service. This form is only for new patient registrations.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from users regarding their interest in attending underfloor heating training sessions. The form should be completed by users who want to register for the training sessions. It's essential to ensure that the form is filled out accurately, as the provided information will be used to schedule the sessions and allocate resources. To avoid duplication, ensure that the form is not submitted multiple times by the same user. If you're not sure if you should be filling out this form, please ask your supervisor or departmental contact.
-</thinking>
-
 # Underfloor Heating Training Registration - Help Guide
 ## Purpose
 This form is designed to gather information from users interested in attending underfloor heating training sessions. It helps us schedule sessions and allocate resources effectively.

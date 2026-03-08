@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-friendly help guide for the "Online Assessment Innovation Challenge Registration Form", we'll follow the given guidelines and focus on the provided YAML fields. This form appears to be designed for registering participants in an online challenge, gathering various details about the participants and their team members.
 
 The form consists of several fields, including personal details (first name, last name, email, phone number), challenge-related fields (challenge name, challenge type, submit time, submit date, submit location), and team information (team members, team members count, team members name, team members email, team members phone, team members location, team members challenge, team members challenge type).

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Space Camp Accommodation Form - Help Guide
 ## Purpose
 The Space Camp Accommodation Form is designed to collect information from parents or guardians regarding their stay at Space Camp. This form helps us understand your needs and preferences to provide a comfortable and safe environment for you and your family.

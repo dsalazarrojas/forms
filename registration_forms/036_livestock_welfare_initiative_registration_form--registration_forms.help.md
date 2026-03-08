@@ -1,14 +1,3 @@
-<thinking> 
-The Livestock Welfare Initiative Registration Form is designed to collect information from farms and individuals who want to participate in the Livestock Welfare Initiative. This form is intended for farms and individuals who want to register themselves or their animals for various services and programs offered by the initiative. The form is meant to be completed by farm owners, operators, or representatives who want to provide accurate and up-to-date information about their farm and the animals they care for.
-
-Before filling out this form, please ensure that you have not already registered with the Livestock Welfare Initiative. Duplicate registrations may cause confusion and slow down the registration process.
-
-The information collected on this form will be used to determine the eligibility of the farm or individual for the services and programs offered by the Livestock Welfare Initiative. The form should be filled out accurately and completely to ensure that the farm or individual receives the correct information and support.
-
-Please note that the form is divided into several sections, each with its own specific purpose. This guide will walk you through each section and explain what information is required and how to complete it correctly.
-
-</thinking>
-
 # Livestock Welfare Initiative Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from farms and individuals who want to participate in the Livestock Welfare Initiative. The form helps to ensure that the farm or individual is eligible for the services and programs offered by the initiative.

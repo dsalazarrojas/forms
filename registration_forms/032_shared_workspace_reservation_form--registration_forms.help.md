@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of the Shared Workspace Reservation Form is to gather information from users for the reservation of a shared workspace. This form helps to collect necessary details to ensure that the reservation is made accurately and efficiently.
 
 **Shared Workspace Reservation Form - Help Guide**

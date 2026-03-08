@@ -1,5 +1,3 @@
-<thinking>Internal purpose of this form is to collect necessary information from a business founder about their startup, team, and current stage of development to provide relevant support and resources during the onboarding process. This form should only be filled out once the founder has been accepted into the program.</thinking>
-
 # Business Founder Onboarding Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from business founders about their startup, team, and current stage of development. This information will be used to provide tailored support and resources during the onboarding process.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering passengers for a cruise. It is crucial to provide accurate and complete information to ensure a smooth check-in process and to prevent any potential issues or complications during the cruise.
-</thinking>
-
 # Cruise Registration Form - Help Guide
 ## Purpose
 The cruise registration form is designed to collect essential information about passengers for the smooth operation of the cruise. It is essential to fill out the form accurately to ensure a hassle-free experience during the cruise.

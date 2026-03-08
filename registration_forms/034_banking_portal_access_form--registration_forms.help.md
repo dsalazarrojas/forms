@@ -1,11 +1,3 @@
-<thinking>
-The form "Banking Portal Access Form" is intended to collect personal and account information from users seeking access to the banking portal. The purpose of this form is to verify the user's identity, gather their account details, and ensure they are aware of and agree to the terms and conditions of the portal's usage.
-
-This form is a one-time registration process for new users or a refresh for existing users. The user will be prompted to fill in their personal details such as name, email, phone number, address, date of birth, and account number. They will also be asked to select their account type and access level, choose security questions and answers, and provide their username preference. Additionally, the user will be asked about their notification preferences, authorized users, and device registration.
-
-Please note that this form is not intended to collect sensitive or unnecessary information, but rather to provide a secure and convenient way for users to access the banking portal.
-</thinking>
-
 # Banking Portal Access Form - Help Guide
 ## Purpose
 The Banking Portal Access Form is a registration process for new or existing users to access the banking portal. This form collects personal and account information to verify user identity and ensure compliance with the terms and conditions of the portal's usage.

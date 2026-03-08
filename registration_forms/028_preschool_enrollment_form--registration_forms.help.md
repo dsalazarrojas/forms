@@ -1,12 +1,3 @@
-<thinking>
-**This form is intended to be a tool for collecting information from parents and guardians to enroll their children in a preschool program.**
-
-It is designed to gather essential details about the parent and child, including contact information, emergency contact, and child-specific information. Additionally, it includes a section for payment details, which will be crucial for administrative purposes. To ensure accurate and comprehensive enrollment, please take a few minutes to fill out this form carefully. Make sure to check your answers for completeness and accuracy before submitting. Also, please be aware that incomplete or missing information may delay the enrollment process.
-
-The preschool administration will review the submitted forms, and a staff member will get in touch with the parents/guardians to complete or clarify any outstanding details. This form is an online adaptation of the traditional manual forms used in the preschool. It is designed for your convenience and efficiency.
-
-Please note that this is not a survey or test, and the data collected will be used to ensure a smooth enrollment process and to keep your child safe and happy at our preschool. If you have any questions or concerns, please don't hesitate to contact us at form@gic.mx.
-</thinking>
 # Preschool Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect information from parents and guardians to enroll their children in a preschool program.

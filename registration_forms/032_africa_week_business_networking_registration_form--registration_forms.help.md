@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for business owners or representatives to register for the Africa Week Business Networking event. The form is intended to collect relevant business information, networking goals, and preferences to ensure the best possible experience for attendees. The form's 29 fields are divided into several sections, including Personal Information, Business Information, Networking Goals, and Africa Focus. 
-
-Before proceeding, please confirm that this form is relevant to your business needs and that you are not duplicating an existing registration. 
-
-Please answer the questions accurately and thoroughly, as the information provided will be used to tailor the event to your needs and preferences. 
-
-Please note that the form requires a valid email address and a signature to confirm your registration. 
-
-Please take a few minutes to review the form carefully before proceeding. 
-</thinking>
-
 # Africa Week Business Networking Registration Form - Help Guide
 ## Purpose
 This form is designed to collect business information and preferences to ensure the best possible experience for attendees at the Africa Week Business Networking event.

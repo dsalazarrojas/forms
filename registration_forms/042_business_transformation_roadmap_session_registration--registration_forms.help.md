@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Business Transformation Roadmap Session Registration - Help Guide
 
 ## Purpose

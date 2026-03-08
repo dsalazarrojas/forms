@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from music event organizers and producers about their stage setup, performer details, and other related specifications. The primary purpose of this form is to help event coordinators and technical teams understand the technical requirements and stage settings for the event. It's essential to accurately provide this information to ensure a smooth and successful execution of the music event.
-
-When completing this form, please make sure you're providing clear and concise information about your stage setup, performer details, and other specifications. The form is divided into several sections, each focusing on a specific aspect of your event. Ensure that you fill out each section according to your event's specific needs.
-
-Before you start, review each field and its label carefully. This guide will walk you through each field, explaining its purpose and what you need to provide to complete it successfully.
-
-</thinking>
-
 # Music Event Stage Setup Registration Form - Help Guide
 ## Purpose
 The Music Event Stage Setup Registration Form is designed to collect information about your music event, specifically about stage setup, performer details, and technical specifications. This form will help event coordinators and technical teams understand your event's requirements, ensuring a smooth execution.

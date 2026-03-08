@@ -1,13 +1,3 @@
-<thinking>
-This form is used to register participants for Kundalini Activation sessions, which is a practice aimed at awakening the energy at the base of the spine, also known as the kundalini, a supposed spiritual energy. The purpose of this form is to collect general information from participants, including their session scheduling preferences, participant details, and consent for the activation process. This form is designed to ensure that participants are properly registered and informed about the process. 
-
-It's essential to understand that the form is not affiliated with, endorsed by, or derived from any form platform, and it's released under CC BY 4.0. This means you're free to use, modify, and share the form as you see fit, while giving proper credit to its origin.
-
-Before starting the form, please note that it's designed to collect general information from participants, which might not be required for everyone. Some fields are marked as optional, but providing accurate details helps us better serve and manage the participants.
-
-This guide will walk you through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Kundalini Activation Registration - Help Guide
 ## Purpose
 The Kundalini Activation Registration form is designed to collect information from participants about their session scheduling preferences, participant details, and consent for the activation process. This form ensures that participants are properly registered and informed about the process.

@@ -1,17 +1,3 @@
-<thinking>
-This form is designed to collect information for a makeup artist licensing application. It appears to be a standard form for collecting details about the applicant, their license, payment, contact, and fees, as well as some additional certification and address fields.
-The form has 14 fields across 7 pages, which include:
-- Applicant details (name, address, etc.)
-- License details (type, state, federal, etc.)
-- Payment details (likely payment method or amount)
-- Contact information (phone number, email, etc.)
-- Fees (payment schedule or amount)
-- Certification (type of certification required)
-- Address (applicant's address)
-The form is likely used for official government licensing purposes. The fields are mostly simple text fields, with some select one option for the certification type. It is crucial to fill this form out accurately and thoroughly to ensure a smooth and successful application process.
-
-</thinking>
-
 # Makeup Artist Licensing Application Form - Help Guide
 ## Purpose
 This form is designed to collect essential information for a makeup artist licensing application. It's a standard form used for official government licensing purposes, ensuring that applicants provide accurate and complete details about themselves, their licenses, and other relevant information.

@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and process of completing the "Healthy Sexuality Event Registration" form. The form is designed to gather information from participants about their interests and preferences for a particular event, and it is used to help organizers prepare for and execute the event effectively. Before starting, please ensure that you have all the necessary information and that you are not duplicating your registration. The form is divided into several sections, each focusing on a different aspect of the participant's experience. 
-
-Please take a few moments to review the form and ensure that you have all the required fields completed.
-</thinking>
-
 # Healthy Sexuality Event Registration - Help Guide
 ## Purpose
 The "Healthy Sexuality Event Registration" form is designed to collect information from participants about their interests and preferences for a specific event. This form helps the event organizers to prepare and execute the event according to participant needs and expectations.

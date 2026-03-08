@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from participants who are interested in registering for an international dance competition. To ensure a smooth registration process, we will use this guide as a reference to fill out the form correctly. 
-
-To check for internal duplication, this form is not intended for use in production yet. However, we will be using it for testing purposes only. This guide will serve as a reference point for users to understand each field and how it should be completed.
-
-We will be using the provided YAML field to create the guide. If any field label is weak or unclear, we will provide an explanation for its intended purpose. If a field is not clear, we will explain its purpose without inventing unsupported business logic.</thinking>
-
 # International Dance Competition Registration Form - Help Guide
 ## Purpose
 The International Dance Competition Registration Form is designed to collect participant's information and registration details for the upcoming dance competition. The form aims to gather essential details from each participant, ensuring a smooth and organized registration process.

@@ -1,9 +1,3 @@
-<thinking>
-...This form is intended for vendors to register and provide their contact and identification information. The form is used for Know Your Customer (KYC) purposes to verify and establish a relationship with the vendor. The fields are designed to collect relevant information from the vendors to create a comprehensive and accurate profile.
-...This form will only be filled out once per vendor and will not be duplicated. Vendors are expected to provide accurate information to ensure a successful registration process.
-
-</thinking>
-
 # Vendor KYC Registration Form - Help Guide
 ## Purpose
 The Vendor KYC Registration Form is designed to collect information from vendors for Know Your Customer (KYC) purposes. This form is required for all vendors to register and provide their contact and identification information.

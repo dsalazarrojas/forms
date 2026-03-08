@@ -1,18 +1,3 @@
-<thinking>
-This form is a registration form used to collect information from fitness program participants. It is not intended for internal users only and is designed to be a publicly accessible form. Therefore, it's essential that end-users understand what data they are inputting to maintain data accuracy and user trust. 
-
-The form has 7 fields to collect the following:
-- A unique name for each member
-- Their email address
-- Phone number
-- Physical address
-- Date of Birth for age verification
-- Additional member notes for special cases
-- Selected programs they have enrolled in
-
-Before completing this form, please ensure you have all the required information and verify that the member's data is accurate. This guide will walk you through each field's purpose and help you complete the form efficiently.
-</thinking>
-
 # Fitness Member Information Form - Help Guide
 ## Purpose
 The Fitness Member Information Form is a registration form designed to collect information from fitness program participants. This form is intended for publicly accessible use.

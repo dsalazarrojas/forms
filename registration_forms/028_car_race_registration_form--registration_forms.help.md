@@ -1,14 +1,3 @@
-<thinking>
-To prevent confusion, we'll break down the registration process to ensure accurate and successful form completion.
-
-First, we want to verify that you understand the purpose of this form is to register you for a car race. This includes providing accurate and complete information about yourself as the driver, your vehicle, and any emergency contact details we might need in case of an emergency during the race.
-
-Before you start, please ensure you have all necessary documents ready, such as your driver's license number and your vehicle's VIN (Vehicle Identification Number) code.
-
-Next, we'll guide you through each section of the form, ensuring you understand what to expect and what to fill in.
-
-</thinking>
-
 # Car Race Registration Form - Help Guide
 ## Purpose
 

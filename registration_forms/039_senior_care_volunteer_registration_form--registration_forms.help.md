@@ -1,6 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and usage of the Senior Care Volunteer Registration Form. Before proceeding, ensure you are not already registered as a volunteer and are authorized to register. This form is for individuals who wish to volunteer their time to support senior care services. Please fill out the form with accurate and truthful information to ensure a smooth registration process. 
-</thinking>
 # Senior Care Volunteer Registration Form - Help Guide
 
 ## Purpose

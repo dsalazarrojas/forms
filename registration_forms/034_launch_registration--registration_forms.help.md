@@ -1,13 +1,3 @@
-<thinking>
-This form is used for registering a new launch. The form is designed to collect relevant information about the launch, including the launch team and details about the launch event. This information will be used to track and manage the launch process.
-
-The form is structured into two main sections: personal details, which includes fields for first name, email, and phone number; and launch details, which includes various fields for collecting specific information about the launch, such as date and time, notes, and estimates.
-
-The form requires a few different types of input from the user, including text, date, time, email, and selection inputs. The selection inputs ask the user to choose from pre-defined options, such as yes/no or multiple options.
-
-This form is required for all users to register their launch.
-</thinking>
-
 # Launch Registration - Help Guide
 ## Purpose
 The launch registration form is used to collect information about the launch team and details about the launch event.

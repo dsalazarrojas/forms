@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information for registration to a UX workshop. To avoid duplication, ensure that each user only submits the form once. The form collects personal contact information and preferences for selecting a workshop.
-</thinking>
-
 # UX Workshop Registration Form - Help Guide
 ## Purpose
 This is a registration form for the UX workshop. It helps us collect necessary information from participants to facilitate the event's organization and planning.

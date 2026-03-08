@@ -1,7 +1,3 @@
-<thinking>
-The Spoken Word Event Reservation Form is designed to help event organizers register their events and provide essential details for attendees to RSVP. The form ensures that all necessary information is collected, including event name, date, time, and other relevant details. This form should be filled out by event organizers to create a new event, and by attendees to RSVP for events they wish to join.
-</thinking>
-
 # Spoken Word Event Reservation Form - Help Guide
 ## Purpose
 This form is used to register a new event and gather essential details from attendees for RSVP purposes.

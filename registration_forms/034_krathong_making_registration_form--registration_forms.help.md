@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registration data collection for Krathong making event. To ensure accuracy and consistency in collected data, please fill out this form carefully and only submit once for each event. Please do not submit duplicate registrations for the same event.
-</thinking>
-
 # Krathong Making Registration Form - Help Guide
 ## Purpose
 This form is used for registering participants for the Krathong making event. Please use this form to provide accurate and complete information about the event and yourself.

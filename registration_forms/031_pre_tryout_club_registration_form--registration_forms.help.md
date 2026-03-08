@@ -1,7 +1,3 @@
-<thinking>
-The form is used for user registration, specifically for joining the Pre Tryout Club. The purpose of this form is to collect information from users who want to become part of the club. To prevent duplicate registrations, we'll be checking the provided email address against a list of existing users.
-</thinking>
-
 # Pre Tryout Club Registration Form - Help Guide
 
 ## Purpose

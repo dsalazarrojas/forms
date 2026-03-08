@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help users register for the Smart Booking Platform Certification. The form is intended to collect relevant information from users to process their certification requests. This form may only be filled out once per user. Please ensure that you are only registering to certify once. If you have already registered, you can disregard this form.</thinking>
-
 # Smart Booking Platform Certification Registration Form - Help Guide
 ## Purpose
 The Smart Booking Platform Certification Registration Form is a user-friendly form designed to collect information from users who are interested in obtaining certification through the Smart Booking Platform. This form ensures that users provide the necessary details to process their certification request efficiently.

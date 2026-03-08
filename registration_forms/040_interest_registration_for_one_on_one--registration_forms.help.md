@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to help users express their interest in one-on-one meetings for various reasons. To ensure that this form serves the intended purpose and avoids duplicate registrations, please verify the following:
-* The form will automatically be checked to prevent registration of the same interest from the same IP address.
-* To avoid duplicate registrations, users cannot register the same interest more than once.
-</thinking>
-
 # Interest Registration For One On One - Help Guide
 ## Purpose
 This form is designed to allow users to register their interest in one-on-one meetings. The form will automatically prevent duplicate registrations from the same IP address and will not allow users to register the same interest more than once.

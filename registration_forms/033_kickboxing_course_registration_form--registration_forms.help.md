@@ -1,5 +1,3 @@
-<thinking>This form is used for registering for a kickboxing course. It collects information about the user, course details, and other relevant data.</thinking>
-
 # Kickboxing Course Registration Form - Help Guide
 ## Purpose
 This form is used to register for a kickboxing course. It is a simple form designed to collect basic information about the user and course details.

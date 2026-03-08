@@ -1,9 +1,3 @@
-<thinking>
-
-This form appears to be a basic registration form designed to collect personal and socioeconomic data from individuals. The form may be used for various purposes such as demographic studies, research, or administrative tasks. Before filling out this form, please ensure you have the necessary information and authorization to do so. 
-
-</thinking>
-
 # Socioeconomic Registration Form - Help Guide
 ## Purpose
 The Socioeconomic Registration Form is used to collect demographic information from individuals. This form helps us to understand your personal and socioeconomic characteristics, which may be used for research, administrative, or other purposes.

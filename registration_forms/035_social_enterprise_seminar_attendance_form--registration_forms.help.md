@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist users in understanding the purpose and process of completing the Social Enterprise Seminar Attendance Form. 
-This form is meant to gather information from attendees for the Social Enterprise Seminar, ensuring that all necessary data is collected to facilitate a smooth and organized event.
-Before proceeding, please verify that this form is not a duplicate or unnecessary, as it is intended to be a one-time submission.
-</thinking>
-
 # Social Enterprise Seminar Attendance Form - Help Guide
 ## Purpose
 The Social Enterprise Seminar Attendance Form is used to collect attendee information for the Social Enterprise Seminar.

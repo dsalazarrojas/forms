@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, we need to understand the form's purpose and how to complete it. The form is for corporate talent recognition, and it seems to be a registration form for events or meetings. It's likely used to gather information from guests or attendees before they arrive at the event. The form is quite extensive, with multiple pages and fields for various details. To complete the form, the user needs to provide general information like guest details, preferences, and RSVP responses. Some fields are required, like phone numbers and email confirmations, while others are optional, like notes and event details. To ensure accuracy, it's a good idea to review each field carefully before submitting.
-</thinking>
-
 # Corporate Talent Recognition RSVP Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended for end-users who are completing the "Public Event Participation Waiver Form". The purpose of this form is to collect essential information from individuals or their legal guardians to participate in a public event. This form requires users to provide personal details such as name, contact information, and consent, while also asking for information about the event, including its location and date.
-
-To avoid duplication of effort and ensure accurate completion of the form, please review the form carefully before submitting it. Make sure to fill out each field accurately and completely.
-</thinking>
-
 # Public Event Participation Waiver Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from potential candidates for an Adventure Guide position. The form is used during the onboarding process to collect relevant details about the candidate, such as their name, years of guiding experience, and availability for shifts. This information is crucial for determining the candidate's eligibility and fit for the position. Please ensure that you have filled out the form accurately and completely before submission. 
-</thinking>
-
 # Adventure Guide Onboarding Form - Help Guide
 ## Purpose
 This form is intended for potential candidates to provide their details in order to be considered for an Adventure Guide position. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is used to create a new membership application for the Travel Agents Association. It collects information about the travel agent, their contact details, and their membership status. The form is intended for travel agents who wish to join the association. It is essential to fill in the form accurately to avoid any errors or discrepancies. Please ensure you are completing the form with the correct information to process your membership application successfully.
-</thinking>
-
 # Travel Agents Association Membership Form - Help Guide
 ## Purpose
 This form is used to register a new member for the Travel Agents Association.

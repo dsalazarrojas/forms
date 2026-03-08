@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be a simple registration form for the Worker Skills Validation Program. It is likely used by workers to register themselves and provide information about their skills and work status. This form should be straightforward and easy to complete, with clear and concise labels for each field. Before proceeding, please ensure that you are registering for the right program and that you have all the necessary information required. To avoid duplication, please check if you have already registered in the past and do not submit duplicate submissions.
-</thinking>
-
 # Worker Skills Validation Program Registration Form - Help Guide
 ## Purpose
 This form is for workers to register themselves and provide information about their skills and work status for the Worker Skills Validation Program.

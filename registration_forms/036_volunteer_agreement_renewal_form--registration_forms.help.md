@@ -1,7 +1,3 @@
-<thinking>
-This form is used to renew the agreement of volunteers within an organization. The purpose of this form is to collect updated information from volunteers and ensure they are still committed to their roles. This form is usually filled out by volunteers when their agreement is up for renewal or when they need to make changes to their agreement terms.
-</thinking>
-
 # Volunteer Agreement Renewal Form - Help Guide
 ## Purpose
 This form is used to renew the agreement of volunteers within an organization. The purpose of this form is to collect updated information from volunteers and ensure they are still committed to their roles.

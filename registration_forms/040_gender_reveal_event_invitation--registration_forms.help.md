@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to assist end-users in completing the "gender_reveal_event_invitation" form, which is designed to collect essential information for a gender-reveal event. The form is intended to gather contact details, event specifics, and RSVP information from event guests. It is used to facilitate effective communication and organization for event planning.
-</thinking>
-
 # gender_reveal_event_invitation - Help Guide
 ## Purpose
 The "gender_reveal_event_invitation" form is used to collect information from event guests for a gender-reveal event, allowing the host to organize and coordinate the event smoothly.

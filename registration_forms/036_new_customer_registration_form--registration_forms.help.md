@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This help guide is intended to assist users in understanding the New Customer Registration Form, which is a crucial tool for customers to register and provide their personal and contact information. By following this guide, users will be able to efficiently complete the form and ensure that all necessary details are collected accurately. 
 
 Before proceeding, please ensure that you are completing the form only once for each new customer, as duplicating this process for the same customer may lead to errors in their information and inconsistencies in our records. 

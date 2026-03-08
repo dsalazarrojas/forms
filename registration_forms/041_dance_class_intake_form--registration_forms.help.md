@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Dance Class Intake Form - Help Guide
 ## Purpose
 The Dance Class Intake Form is designed to collect information from prospective dance students to help us tailor our classes to their needs and preferences. Please take a few minutes to fill out this form to ensure you have the best possible experience in our dance classes.

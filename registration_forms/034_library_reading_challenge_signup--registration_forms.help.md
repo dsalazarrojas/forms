@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for users to sign up for the "Library Reading Challenge", a program that aims to encourage reading among students in schools. Before proceeding, please ensure that the school or user has not already signed up for this challenge previously. 
-The form is divided into different sections that collect information about the user's school and teacher participation in the challenge.
-</thinking>
-
 # Library Reading Challenge Signup - Help Guide
 ## Purpose
 This guide will walk you through the Library Reading Challenge Signup form, which is used to sign up schools and teachers for the Library Reading Challenge program.

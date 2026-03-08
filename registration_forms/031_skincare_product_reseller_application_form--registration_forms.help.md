@@ -1,7 +1,3 @@
-<thinking>
-This help guide is to ensure that users understand the purpose and requirements of the form. It should be used for internal purposes and will not be shared with external users, hence, this guide is meant for in-house users. This form is not meant to be submitted multiple times, so users should only fill out one instance of the form. 
-</thinking>
-
 # Skincare Product Reseller Application Form - Help Guide
 ## Purpose
 The Skincare Product Reseller Application Form is designed to collect information from resellers who wish to sell skincare products. This form helps us understand their reseller status and preferences, which we will use to tailor our services and products accordingly.

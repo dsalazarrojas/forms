@@ -1,6 +1,3 @@
-<thinking>
-To ensure that the form is being filled out correctly and accurately, we should first confirm that the form is relevant to the intended user group, which in this case are students applying for university admission. We also need to verify that the form is not being duplicated or filled out in error by multiple users. This guide should help prevent potential mistakes and ensure that users understand what each field means, reducing the likelihood of incorrect submissions.
-</thinking>
 # University Admission Form - Help Guide
 ## Purpose
 This form is for students who wish to apply for university admission. It will help university officials track and manage applications.

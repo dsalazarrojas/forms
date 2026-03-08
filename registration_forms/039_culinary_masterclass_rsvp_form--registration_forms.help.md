@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is properly filled out and that the information is accurate before we can process the RSVPs. This form should only be used for the specific event it's intended for, and the user should only fill it out if they actually want to attend the event. If they've already RSVP'd for the same event, please do not fill out this form again.
-</thinking>
-
 # Culinary Masterclass RSVP Form - Help Guide
 ## Purpose
 This form is used to register for the Culinary Masterclass event. Please fill it out accurately to ensure that you are registered for the correct event.

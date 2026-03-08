@@ -1,6 +1,3 @@
-<thinking> 
-This form is intended to collect information from individuals who wish to join the Mountaineering Club's expeditions. The primary purpose of this form is to gather essential details from applicants, including their contact information, expedition preferences, and safety planning requirements. By completing this form, applicants can express their interest in joining the club's expeditions and provide necessary information to ensure a safe and enjoyable experience. Please ensure that you are eligible to join the club's expeditions before filling out this form. If you have already submitted an application, please do not submit it again, as this may cause duplicate entries and delay the processing of your application. </thinking>
-
 # Mountaineering Club Expedition Admission Form - Help Guide
 ## Purpose
 The Mountaineering Club Expedition Admission Form is designed to collect necessary information from individuals who wish to join the club's expeditions. This form helps the club to assess your eligibility, plan for your safety, and ensure a smooth expedition experience.

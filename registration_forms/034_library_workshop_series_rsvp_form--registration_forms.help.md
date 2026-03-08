@@ -1,18 +1,3 @@
-<thinking>
-The form is designed to allow users to RSVP (Respond to a Service Request and Preference) to a Library Workshop Series. This is a multiple-page form with the following fields:
-1. Workshop Selection
-2. Name
-3. Email Address
-4. Phone Number
-5. RSVP Date (in YYYY-MM-DD format)
-6. RSVP Time (in "HH:MM AM/PM" format)
-7. Workshop Details
-8. Additional Information (open field for any other comment or note)
-9. RSVP Message (open field for any additional message to the host or organizer)
-
-This form is not intended for any internal business logic or technical purposes, but solely for end-user interaction with the workshop series organizers.
-</thinking>
-
 # Library Workshop Series RSVP Form - Help Guide
 ## Purpose
 The Library Workshop Series RSVP Form is designed to allow users to RSVP to a workshop series hosted by the library. This form is used to gather information from users about their interest in attending the workshop series.

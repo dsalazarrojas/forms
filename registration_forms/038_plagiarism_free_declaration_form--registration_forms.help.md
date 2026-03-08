@@ -1,7 +1,3 @@
-<thinking>
-This form is used to declare that all work submitted is original and has not been plagiarized. The purpose of this form is to obtain a clear understanding of the author's intentions and to ensure that the submitted work is plagiarism-free. This form is designed to be completed by authors to declare their original work and to provide accurate submission details.
-</thinking>
-
 # Plagiarism Free Declaration Form - Help Guide
 ## Purpose
 The Plagiarism Free Declaration Form is used to declare that all work submitted is original and has not been plagiarized.

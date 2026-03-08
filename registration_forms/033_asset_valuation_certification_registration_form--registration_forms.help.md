@@ -1,7 +1,3 @@
-<thinking>
-The Asset Valuation Certification Registration Form is designed to collect personal and professional information from applicants seeking certification in asset valuation. This form is used to verify the eligibility of applicants for the certification program. The information collected will be used to assess the applicant's qualifications, experience, and background. Before proceeding, please ensure that you have reviewed the form carefully and provided accurate information. Note that this form is not intended to be duplicated, and submitting duplicate forms may result in delays or rejection of your application.
-</thinking>
-
 # Asset Valuation Certification Registration Form - Help Guide
 ## Purpose
 This form is used to collect personal and professional information from applicants seeking certification in asset valuation. The information collected will be used to assess the applicant's qualifications, experience, and background.

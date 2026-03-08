@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants in a kayaking safety course. The purpose of this form is to collect relevant information about each participant, including their personal details, emergency contact information, medical conditions, and instructor information. This form is likely used by an organization that offers kayaking safety courses and requires participants to provide accurate and complete information to ensure their safety and well-being during the course. Before filling out the form, please make sure that you are a real person and that the information is accurate and up-to-date. Also, please note that some fields are required and must be completed before submission.
-</thinking>
-
 # Kayaking Safety Course Registration Form - Help Guide
 ## Purpose
 This form is used to register participants in a kayaking safety course.

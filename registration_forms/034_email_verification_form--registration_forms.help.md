@@ -1,7 +1,3 @@
-<thinking>
-This form is used to verify a user's email address. To ensure that the user has access to a valid email account, the form requests that they confirm their email address by entering a verification code sent to the user's registered email. This form is used internally and does not affect the public-facing website experience. This form is not meant to be filled in by the end-user, but rather to facilitate verification of email addresses for internal processes.
-</thinking>
-
 # Email Verification Form - Help Guide
 ## Purpose
 The Email Verification Form is used to verify a user's email address for internal processes.

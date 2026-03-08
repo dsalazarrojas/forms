@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from sports advisory panel members. It is intended for individuals who wish to join or be part of a sports advisory panel. The form will ask for personal details such as name, email, phone number, and address. Additionally, it will ask about the sport of interest, role in the panel, and a brief bio. The form also includes fields to agree to the terms of service and privacy policy of the sportspersonnel. This form should not be used for any other purpose, such as general public registration or event registration.
-</thinking>
-
 # Sports Advisory Panel Registration - Help Guide
 ## Purpose
 The Sports Advisory Panel Registration form is a tool for individuals to sign up to be part of a sports advisory panel. This form collects relevant information to identify and categorize individuals for their respective roles within the panel.

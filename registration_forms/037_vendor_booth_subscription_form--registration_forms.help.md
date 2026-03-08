@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for vendors to reserve a booth at a specific event.
-The form is meant to be filled out by individual vendors who want to participate in the event. It is not a registration form for general event attendees. 
-The form fields are designed to collect necessary information from the vendor for event planning and communication purposes.
-No field is required to be filled out, although some fields are marked as required for the form to be considered valid.
-</thinking>
-
 # Vendor Booth Subscription Form - Help Guide
 ## Purpose
 The Vendor Booth Subscription Form is designed for vendors to reserve a booth at a specific event.

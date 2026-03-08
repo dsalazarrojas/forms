@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from individuals who want to participate in the Ethical Sourcing Awareness Forum. This form is intended for those interested in learning about ethical sourcing practices and contributing to the discussion. The form will not be used for any other purpose, and the data collected will only be used for forum administration and management. By completing this form, users will be registered to the Ethical Sourcing Awareness Forum and receive updates on new discussions, events, and resources. Please ensure that you are completing this form for the correct purpose and not for any other reason. 
-</thinking>
-
 # Ethical Sourcing Awareness Forum Registration Form - Help Guide
 ## Purpose
 The Ethical Sourcing Awareness Forum is a platform for individuals interested in learning about and discussing ethical sourcing practices. By registering on this form, you will be granted access to the forum, where you can engage with others, share your knowledge, and participate in discussions on ethical sourcing.

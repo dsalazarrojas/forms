@@ -1,7 +1,3 @@
-<thinking>This form is intended for guests to RSVP for a welcome party, which may be related to an upcoming trade event or conference. This form is a registration form that collects information about the guest's presence, contact details, and event preferences. The form is designed to be simple and easy to fill out, with most fields being optional. However, some fields, like email and phone, are required for communication purposes. The form also includes select_one and select_multiple options for guests to indicate their attendance status and other event preferences.
-
-To avoid duplication of effort and unnecessary registrations, this form should be reviewed carefully by the party organizers before sending it out to the guests.</thinking>
-
 # trade_delegation_welcome_party_rsvp - Help Guide
 ## Purpose
 This form is used to collect RSVP information for a welcome party related to a trade event or conference.

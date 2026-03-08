@@ -1,7 +1,3 @@
-<thinking>
-The School Tour Appointment Form is used to schedule a tour of a school for a group of students. This form should be filled out by the teacher or school staff to register a tour event. To ensure that the form is filled out correctly, please review this help guide carefully before proceeding.
-</thinking>
-
 # School Tour Appointment Form - Help Guide
 ## Purpose
 The School Tour Appointment Form is used to schedule a tour of a school for a group of students. This form is designed to collect essential information for planning and executing a successful school tour event.

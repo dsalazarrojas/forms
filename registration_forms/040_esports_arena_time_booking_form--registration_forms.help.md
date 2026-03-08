@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to be used by end-users to book time slots for various events at the Esports Arena. The event can be of three types: Gaming Station, Event Room, or Other. The form gathers information about the event, such as the date and time it will take place, its duration, and any additional details or notes. The form also captures contact information for the event organizer, including a phone number and email address. This information will help event organizers manage their events efficiently and communicate with them effectively.
-
-Before proceeding, ensure that you have not already submitted a booking for this time slot. If you have any questions or concerns, please contact your account manager or support team for further assistance.
-
-</thinking>
-
 # Esports Arena Time Booking Form - Help Guide
 ## Purpose
 The Esports Arena Time Booking Form is used to book time slots for various events at the arena. This form gathers information about the event, including its type, date, time, duration, and contact details.

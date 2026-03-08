@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for the registration of individuals who wish to donate to a specific cause or organization. It is crucial that users complete this form accurately and truthfully to ensure that the donation process is smooth and secure. The form will help the organization understand the contact information and preferences of the donors, which is essential for further communication and follow-up. Please make sure to complete the form only once for each donor family.
-</thinking>
-
 # Donor Family Registration Form - Help Guide
 ## Purpose
 The Donor Family Registration Form is designed to collect contact and donation information from individuals who wish to donate to a specific cause or organization. This form helps the organization understand the contact details and donation preferences of the donors, enabling them to communicate and follow-up effectively.

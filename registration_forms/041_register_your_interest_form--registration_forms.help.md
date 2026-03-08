@@ -1,10 +1,3 @@
-<thinking>
-We will be using this form to help users register their interest in a particular service or opportunity. The form will be used to collect basic contact information and preferences, allowing us to follow up with them about potential next steps.
-
-Before we get started, please note that we are only accepting one submission per user. If you've already submitted your interest, there's no need to fill out this form again. Please be patient and respectful of others who may be waiting to register their interest.
-
-</thinking>
-
 # Register Your Interest Form - Help Guide
 ## Purpose
 This form is used to register your interest in a service or opportunity. We'll use the information provided to follow up with you about potential next steps.

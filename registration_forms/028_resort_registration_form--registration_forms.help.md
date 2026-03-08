@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to gather information from individuals registering for a resort event. It captures basic contact information (first name, last name, email, and phone number) and event details (date, time, location, and assigned user). The form is not meant to be a comprehensive or complex form, but rather a simple registration form for event management.
-This form is likely used by event organizers to collect attendee information and track event details. It is not intended for complex business logic or data validation, so it should be straightforward and easy to complete.
-Please review the form carefully before submitting to ensure the information is accurate and complete.
-</thinking>
-
 # Resort Registration Form - Help Guide
 
 ## Purpose

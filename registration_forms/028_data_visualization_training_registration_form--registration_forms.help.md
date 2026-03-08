@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from individuals attending a data visualization training session. The form is not intended for internal use within the organization, but rather for external purposes, such as tracking attendance and demographics of the participants. To ensure the form is not being duplicated, a check is made to see if a submission already exists for the participant's email. If an email is already registered, the form will not accept duplicate submissions.
-</thinking>
-
 # data_visualization_training_registration_form - Help Guide
 ## Purpose
 

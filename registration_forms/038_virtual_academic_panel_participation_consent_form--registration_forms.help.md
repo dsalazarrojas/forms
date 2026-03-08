@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to assist end-users in understanding how to complete the Virtual Academic Panel Participation Consent Form.
-The form is used for registering participants in an academic panel and collecting their details, including contact information and consent status.
-Before proceeding, ensure that you are not duplicating your participation and that you have not already registered with the virtual academic panel.
-This form is a crucial step in the registration process and will help ensure that you receive important updates and information related to the event.
-Ensure that you fill out all required fields and that the participant details you provide are accurate.
-</thinking>
-
 # virtual_academic_panel_participation_consent_form - Help Guide
 ## Purpose
 The Virtual Academic Panel Participation Consent Form is used to register participants in a virtual academic panel and collect their details, including consent status and contact information.

@@ -1,8 +1,3 @@
-<thinking>
-To ensure relevance and non-duplication, I will create the help guide with the required structure and content. This form is for parents to RSVP for family visitation days, providing essential information for visitation planning. The purpose of this form is to collect data about the parent's name, contact details, visitation preferences, and special needs.
-
-</thinking>
-
 # Family Visitation Day RSVP Form - Help Guide
 
 ## Purpose

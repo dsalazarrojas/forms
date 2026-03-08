@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from students about their allergies, including type, severity, and treatment plans. The form is designed to be completed by students, parents, or guardians to provide essential details for teachers, medical staff, or school administrators to handle allergy-related emergencies.
-This form is meant to be a one-time submission form. Please ensure you only fill it out once for each student.
-</thinking>
-
 # Student Allergy Registration Form - Help Guide
 ## Purpose
 The Student Allergy Registration Form is designed to provide detailed information about a student's allergies, ensuring proper handling and safety in case of allergy-related emergencies. This form helps teachers, medical staff, and school administrators understand the severity and type of allergies, treatment plans, and contact information for emergencies.

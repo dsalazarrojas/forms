@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer, I will create a user-facing help guide for the Detox Program Subscription Form. This guide will help end-users understand the purpose of the form, how to complete it, and what each field means. I will base my explanation on the provided YAML fields and aim to be concrete, concise, and practical. I will also follow the required Markdown structure and output the final help document in Markdown format.</thinking>
-
 # Detox Program Subscription Form - Help Guide
 ## Purpose
 The Detox Program Subscription Form is designed to collect information from individuals who want to subscribe to a detox program. This form will help us gather essential details from you, which will aid us in providing a smooth and personalized experience for our detox program.

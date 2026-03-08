@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from VIP guests for approval prior to an event. This form should be used by event planners and organizers to verify the identity and attendance of their VIP guests. The form is intended to prevent duplicate submissions by checking if the guest with the same email and VIP code has already been added to the guest list. This form is not meant for general event attendees.
-</thinking>
-
 # VIP Guest List Approval Form - Help Guide
 ## Purpose
 The VIP Guest List Approval Form is used to collect and verify the information of VIP guests for an event.

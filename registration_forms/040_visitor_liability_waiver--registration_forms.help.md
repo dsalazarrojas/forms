@@ -1,13 +1,3 @@
-<thinking>
-
-The purpose of this form is to capture information for a visitor liability waiver, which is a legal document that protects the business and its representatives from potential claims or liabilities arising from a visitor's presence on the premises. This form is intended to be completed by visitors before they enter the premises, and it serves as a record of their acknowledgement and agreement to certain terms and conditions.
-
-To ensure that this form is used correctly, please note that it is only meant for visitors who are physically present on the premises. It is not to be used for online or virtual interactions.
-
-Before completing this form, please review the following fields carefully to ensure you provide accurate and complete information.
-
-</thinking>
-
 # visitor_liability_waiver - Help Guide
 ## Purpose
 The visitor liability waiver is a legal document that protects the business and its representatives from potential claims or liabilities arising from a visitor's presence on the premises.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from participants who are interested in joining the Young Girls Leadership Bootcamp. The form is used to gather basic contact information, demographic details, and emergency contact information. The purpose of the form is to ensure that participants can be contacted and informed about any updates or changes related to the bootcamp.
-
-Before filling out this form, please ensure that you are not already registered for this event. If you are unsure, please contact the organizers to confirm your registration status.
-
-Please note that some fields are optional, but providing accurate and complete information will help us better serve you and ensure your participation in the bootcamp.
-
-The form is composed of several pages, each with its own set of fields. Below is a detailed guide on how to complete this form:
-
-</thinking>
-
 # Young Girls Leadership Bootcamp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who are interested in joining the Young Girls Leadership Bootcamp.

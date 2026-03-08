@@ -1,7 +1,3 @@
-<thinking>
-This guide is for the "Dance Class Enrollment Form" used to collect information from students enrolling in dance classes. The form is used to gather contact details, dance style preferences, and class schedule information for enrolled students. This guide is intended for end-users who are filling out the form, and it will walk them through each step and what is required for completion.
-</thinking>
-
 # Dance Class Enrollment Form - Help Guide
 ## Purpose
 The Dance Class Enrollment Form is used to collect information from students enrolling in dance classes, including contact details and class schedule preferences.

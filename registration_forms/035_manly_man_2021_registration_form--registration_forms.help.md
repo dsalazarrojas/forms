@@ -1,13 +1,3 @@
-<thinking>
-
-This form, "manly_man_2021_registration_form," is designed to collect information from units and their corresponding emergency contacts. It is intended to be used in a military or scouting context, where units are groups of people (e.g., troops, teams, or crews) that are likely to be away from their main bases or locations for extended periods. 
-
-The form aims to gather general information about the unit, including its details, unit type, size, and leader's contact information. It also collects personal details about the unit members and their emergency contacts. The form is used to register or update unit information and emergency contact data.
-
-The form is not strictly used for official government records but rather for internal organization and management purposes. The submitted data may be used to create internal lists, send notifications, or facilitate communication between unit leaders and emergency contacts.
-
-</thinking>
-
 # manly_man_2021_registration_form - Help Guide
 ## Purpose
 The manly_man_2021_registration_form is a comprehensive form designed to collect and store information about units and their corresponding emergency contacts. This data will be used for internal organization and management purposes.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for exhibitors to register for the Plant Based Product Expo, a trade show where plant-based products and companies can showcase their products and connect with potential customers. This guide will walk you through how to complete the form accurately and efficiently.
-
-To determine if your business is eligible to exhibit at the Plant Based Product Expo, please review our guidelines and eligibility criteria [here](insert link). This guide assumes you have already confirmed that your business meets the required criteria and have been invited to exhibit.
-
-Before starting, please review all fields carefully and have all necessary information ready for completion.
-
-</thinking>
-
 # Plant Based Product Expo Registration Form - Help Guide
 ## Purpose
 This form is used for exhibitors to register for the Plant Based Product Expo. Please ensure you have all required documents and information ready for a smooth registration process.

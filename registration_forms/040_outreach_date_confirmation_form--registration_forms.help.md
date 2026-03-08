@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from event attendees for outreach purposes, likely for conferences, meetings, or other events where attendees have expressed interest in attending a specific event. This form ensures that attendees can confirm their event date, provide their name and contact information, and express their preferred date for attendance. The form also allows attendees to provide comments or feedback, confirm their attendance, and specify their organization. Before completing this form, ensure that:
-* You have a valid reason for using this form (e.g., event planning, marketing, or sales purposes).
-* You are not duplicating effort or submitting unnecessary information.
-</thinking>
-
 # outreach_date_confirmation_form - Help Guide
 ## Purpose
 This form is for event attendees to provide information about their event attendance and preferences. Use it to:

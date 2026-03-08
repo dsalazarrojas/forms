@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants who wish to register for sports coaching. This form is designed to gather essential details about the participant, including their contact information, payment preferences, and payment status. It's essential that the participant understands how to complete this form accurately to ensure their information is correctly recorded.
-The form should not be filled out by non-participants or for other purposes. Ensure that you are registering for sports coaching and are aware of the information required.
-</thinking>
-
 # sports_coaching_registration_form - Help Guide
 ## Purpose
 The sports coaching registration form is designed to collect information from participants who wish to register for sports coaching. This form gathers essential details about the participant, including their contact information, payment preferences, and payment status, to facilitate a smooth and efficient registration process.

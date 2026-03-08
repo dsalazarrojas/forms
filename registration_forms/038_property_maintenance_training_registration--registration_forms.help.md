@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for property maintenance training registrations. The form purpose is to gather participant details, session choices, special requirements, and participant notes. This form is typically used by property maintenance staff to register for training sessions. The form is not intended for duplicate submissions, and users should not resubmit their information. 
-</thinking>
-
 # property-maintenance-training-registration - Help Guide
 ## Purpose
 This form collects information for property maintenance training registrations.

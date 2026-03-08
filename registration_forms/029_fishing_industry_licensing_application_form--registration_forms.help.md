@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to capture essential information from businesses operating in the fishing industry for the purpose of obtaining a fishing industry license. The purpose of this form is to gather details from businesses such as commercial fishing vessels, seafood processors, and wholesalers. The form will be reviewed by regulatory authorities to ensure compliance with industry standards and regulations. It's crucial to complete this form accurately and thoroughly to avoid any issues with the license application. Please ensure that you are eligible to complete this form, and do not submit duplicate applications.
-
-Please note that some of the fields in this form are optional, but providing accurate and complete information will facilitate a smoother review process. If you are unsure about any field, please contact the relevant authorities for clarification.
-</thinking>
-
 # Fishing Industry Licensing Application Form - Help Guide
 ## Purpose
 The Fishing Industry Licensing Application Form is designed to gather essential information from businesses operating in the fishing industry, such as commercial fishing vessels, seafood processors, and wholesalers, for the purpose of obtaining a fishing industry license.

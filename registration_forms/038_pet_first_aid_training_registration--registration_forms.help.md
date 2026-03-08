@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: To create a registration entry for pet first aid training, including participant details and course information.
-Form completion instructions: To complete the form, fill in the required fields with the requested information, following the guidelines provided.
-Form fields are divided into two sections: "Participation Details" and "Training Information". Ensure to fill in "First Name", "Phone", "Training Date", "Training Time", "Location" and "Registration Date" as they are required. "Email" and "Organization" are optional but recommended for contact purposes. "Number of Participants" is optional, but please note that the number of participants you register may affect the course capacity. Select "Payment Method" as per your preference, either "Online Payment" or "Offline Payment". "Comments" is optional, use it to provide any additional details or questions. "Assigned Tool" is optional but recommended for future reference. 
-
-</thinking>
-
 # Pet First Aid Training Registration - Help Guide
 ## Purpose
 This form is designed to register participants for pet first aid training courses. 

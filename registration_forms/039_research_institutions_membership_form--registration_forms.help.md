@@ -1,9 +1,3 @@
-<thinking>
-The form is used to register an individual as a member of a research institution. The institution is responsible for managing its members' information, and this form is a part of the process. To avoid duplication of effort, users should ensure that the information provided is accurate and up-to-date.
-
-This form is designed to collect basic contact information of the member, their affiliation with the institution, and relevant details about their membership. Before proceeding, please review each field carefully to ensure you have the correct information.
-</thinking>
-
 # Research Institutions Membership Form - Help Guide
 ## Purpose
 This form is used to register an individual as a member of a research institution. It is essential for accurate and up-to-date member information.

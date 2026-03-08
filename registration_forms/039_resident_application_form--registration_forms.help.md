@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from residents for the purpose of managing their application process. It is crucial that the information provided is accurate and up-to-date to ensure a smooth and efficient process. Please note that you may only submit one application per resident. If you are a landlord or property manager, please make sure to collect all necessary information from the resident before submitting the application.
-</thinking>
-
 # Resident Application Form - Help Guide
 ## Purpose
 The Resident Application Form is designed to collect personal and contact information from residents, as well as details about their employment status, move-in date, and lease agreements.

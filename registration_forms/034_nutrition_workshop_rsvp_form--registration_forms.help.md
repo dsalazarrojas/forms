@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to be a simple registration form for a nutrition workshop, allowing participants to RSVP to the event, specify their name, contact information, and dietary restrictions. It will help us gauge interest in the workshop and gather important details for event organizers. To ensure that users do not complete the form multiple times, we should display a message after submission, indicating that duplicate submissions will not be accepted.
-
-</thinking>
-
 # nutrition_workshop_rsvp_form - Help Guide
 ## Purpose
 This form is for registering your interest and providing necessary information for the upcoming nutrition workshop. Please complete this form carefully to ensure that we can accommodate your needs and preferences during the event.

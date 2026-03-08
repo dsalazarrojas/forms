@@ -1,7 +1,3 @@
-<thinking>
-This guide will cover the "scenic-flight-registration-form" to help users complete it efficiently and effectively. The form is part of the "registration_forms" category, and it aims to gather information from users related to scenic flight registration. This form is not a duplicate of any other form in the system, and it is specifically designed to collect relevant details for scenic flight purposes.
-</thinking>
-
 # Scenic-Flight-Registration-Form - Help Guide
 ## Purpose
 The scenic-flight-registration-form is a form designed to gather information from users related to scenic flight registration. It's used to collect personal details, tour selections, date and time, flight details, payment methods, contact information, and emergency contact details.

@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to capture essential information from players who want to sign up for a poker game. The main purpose of this form is to collect details about the players, such as their buy-in amount, game type, date, time, and location. This information will be used to create a schedule and communicate with players about the game details. It's essential to ensure that the form is filled out accurately and completely to prevent any confusion or miscommunication.
-
-Before proceeding, it's crucial to verify that there are no duplicate entries for the same game. If a duplicate entry is discovered, it will be removed to maintain data consistency and prevent errors.
-
-</thinking>
-
 # poker_game_sign_up - Help Guide
 ## Purpose
 This form is designed to collect information from players who want to sign up for a poker game. It's used to create a schedule and communicate with players about game details.

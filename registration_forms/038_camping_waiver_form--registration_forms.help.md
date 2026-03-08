@@ -1,5 +1,3 @@
-<thinking>As a user-facing help guide, this document aims to provide a clear and concise overview of the Camping Waiver Form, its purpose, and how to complete it. The form is designed to collect crucial information from participants and guardians for camping activities. Before proceeding, please ensure you have not completed this form previously. If you have any questions or concerns, please reach out to the relevant authorities.</thinking>
-
 # Camping Waiver Form - Help Guide
 ## Purpose
 The Camping Waiver Form is a document that aims to ensure participants' safety and well-being during camping activities. It collects personal and medical information, acknowledges risks, and grants permission for emergency medical treatment. Completing this form is mandatory for all participants.

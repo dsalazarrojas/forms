@@ -1,7 +1,3 @@
-<thinking>
-This form is for guests to RSVP to a grand reopening party. This form is used to gather information from guests about whether they will be attending the party and if so, provide some basic contact information.
-</thinking>
-
 # grand_reopening_party_rsvp_form - Help Guide
 ## Purpose
 This form is for guests to RSVP to a grand reopening party. It is used to gather information about who will be attending and their contact details.

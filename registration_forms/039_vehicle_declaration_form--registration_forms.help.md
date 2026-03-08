@@ -1,7 +1,3 @@
-<thinking>
-To create this form, I will need to understand that it is likely used in the context of vehicle registration, ownership, or other similar administrative purposes. The form's fields seem to gather various information about vehicles, their owners, and other related details. There is no obvious indication of specific business rules or validation logic, so I will create a form guide that explains each field's purpose based on the given information. The fields appear to be quite generic, so the explanation will focus on how to complete the form without assuming specific business rules or validations.
-</thinking>
-
 # Vehicle Declaration Form - Help Guide
 
 ## Purpose

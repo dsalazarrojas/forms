@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to allow guests to RSVP to the Wedding Showcase Afterparty, which is likely a social event held by a wedding show or exhibition. This form collects guest information, including their name, email address, phone number, and whether they will be attending. It also includes a field for guests to provide a reason for their response, which could be used to facilitate communication or follow-up.
-The form is designed to be completed by individuals who have been invited to the event, and it's likely used to manage guest attendance and communication. To prevent duplication, it's recommended that guests should not attempt to RSVP multiple times.
-</thinking>
-
 # Wedding Showcase Afterparty RSVP Form - Help Guide
 ## Purpose
 The Wedding Showcase Afterparty RSVP Form is used to let guests know whether they will be attending the event and why. This information is collected to facilitate communication and help with event organization.

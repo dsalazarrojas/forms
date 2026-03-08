@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from film crew members about their attendance at a Film Crew Appreciation Party. The form asks for party details, attendees, date and time of the party, location, and contact information. This form is essential for organizing and planning the party. It is crucial to ensure that all the relevant fields are filled in to provide accurate information for party arrangements.
-
-To prevent duplication, we should check if a form with the same title is already filled out, and if so, display it to the user instead of making them fill it out again.
-
-</thinking>
-
 # Film Crew Appreciation Party RSVP Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from film crew members about their attendance at a Film Crew Appreciation Party.

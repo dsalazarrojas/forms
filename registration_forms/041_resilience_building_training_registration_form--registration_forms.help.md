@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Resilience Building Training Registration Form - Help Guide
 ## Purpose
 The Resilience Building Training Registration Form is designed to collect participant information and preferences for a workshop focused on resilience building and training. This form helps us to track participant registration, manage expectations, and tailor the workshop experience to their needs.

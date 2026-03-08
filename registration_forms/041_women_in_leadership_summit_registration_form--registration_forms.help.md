@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that this form is for registering attendees for the Women in Leadership Summit, and not for any other purpose. We also need to prevent duplication of registrations. This form will be used to collect information from attendees, including their name, contact information, job title, organization, role, bio, dietary restrictions, accessibility needs, comments, and confirmation of attendance. We should only allow one submission per attendee.
-</thinking>
-
 # Women in Leadership Summit Registration Form - Help Guide
 ## Purpose
 This form is for registering attendees for the Women in Leadership Summit. Please fill out this form to ensure your spot at the event.

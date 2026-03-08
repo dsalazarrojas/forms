@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in signing up for the unlimited internet plan. The fields on this form will guide you in providing the necessary details to create a successful registration process. Please ensure that you have read and understand the form before completing it. 
-
-Before proceeding, check if you have already submitted this form in the past to avoid duplication of efforts. 
-
-Please note that the fields are not necessarily mandatory, but providing accurate and complete information will facilitate the registration process.
-
-</thinking>
-
 # Unlimited Internet Plan Registration - Help Guide
 ## Purpose
 This form is for customers who want to register for the unlimited internet plan. It collects relevant details such as contact information, plan choice, and other necessary fields to complete the registration process.

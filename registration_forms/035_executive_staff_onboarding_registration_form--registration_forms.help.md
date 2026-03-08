@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather information from new executive staff members during their onboarding process. It aims to collect the relevant details needed for their integration into the company's system. Please ensure that you are filling this form for the correct purpose and do not submit it multiple times. The form is divided into multiple pages, each with its own set of questions.
-
-This form has been generated using AI and is not associated with any proprietary form platforms. It is an original adaptation of a generic form structure and is released under the Creative Commons 4.0 license.
-</thinking>
-
 # Executive Staff Onboarding Registration Form - Help Guide
 
 ## Purpose

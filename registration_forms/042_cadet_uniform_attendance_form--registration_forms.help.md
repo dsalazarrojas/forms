@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I'll first need to understand the purpose and context of this form before creating a user-facing help guide. This Cadet Uniform Attendance Form appears to be used for recording and tracking the attendance and uniform distribution records of cadets, likely for military or uniformed services. The form collects information on the cadet's name, ID number, platoon or unit, attendance status, uniform condition, and inspection results. It seems that the form is used for both data collection and inspection purposes, ensuring that the cadets' uniforms are properly distributed, inspected, and maintained. I'll make sure the help guide is clear, concise, and practical for the end-users.</thinking>
-
 # Cadet Uniform Attendance Form - Help Guide
 
 ## Purpose

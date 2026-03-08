@@ -1,5 +1,3 @@
-<thinking>As an HR Collaboration Networking Event Registration form, the purpose of this form is to collect information from attendees about their interest, consent, and details for a networking event. This form should be completed by individuals interested in attending the HR Collaboration Networking Event. Before completing this form, please ensure that you have not already registered for the event to avoid duplicate registrations.</thinking>
-
 # HR Collaboration Networking Event Registration - Help Guide
 
 ## Purpose

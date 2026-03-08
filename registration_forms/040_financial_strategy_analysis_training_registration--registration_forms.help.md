@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Strategy Analysis Training Registration - Help Guide
 ## Purpose
 

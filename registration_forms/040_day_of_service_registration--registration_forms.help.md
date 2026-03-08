@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Day Of Service Registration - Help Guide
 ## Purpose
 The Day Of Service Registration form is designed for individuals to register for volunteer work. This form is used to collect information about the volunteer, including their personal details, emergency contact information, and medical conditions. The form also includes a section for volunteers to agree to the terms and conditions of service.

@@ -1,8 +1,4 @@
-> <thinking>
-To prevent duplicate registrations and to provide accurate information, this form is intended for mental health program registrations. Please ensure that you have all required information before submitting. This form will be reviewed by the administration team before it is approved or rejected.
-</thinking>
-
-# mental_wellness_program_registration_form - Help Guide
+> # mental_wellness_program_registration_form - Help Guide
 ## Purpose
 The mental wellness program registration form is used to register mental wellness programs for individuals who seek support and resources for their mental well-being. By filling out this form, you'll be able to provide essential information about your program to help us better understand your needs and offer tailored support.
 

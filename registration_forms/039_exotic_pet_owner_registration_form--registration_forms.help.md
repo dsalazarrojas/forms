@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a registration form for exotic pet owners, likely for veterinary clinics or animal care services. The form is designed to collect information about the owner and their pet, including contact details, pet species, breed, health insurance, vaccinations, medical history, and other relevant information. The form seems to be used for both registration and administrative purposes. It's essential to ensure that the form is filled out accurately and completely to provide the necessary information for the staff to provide the best care for the exotic pet. 
-</thinking>
-
 # exotic_pet_owner_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information from exotic pet owners for registration and administrative purposes.

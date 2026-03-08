@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Technology Fair Booth Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information for booking a booth at the Technology Fair. The form is used to gather essential details such as exhibit name, booth type, and contact person's information. It also captures the technology fair's date, time, location, and other relevant details.

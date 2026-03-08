@@ -1,10 +1,3 @@
-<thinking>
-This guide will help you understand what the After Hours Park Registration Form is for and how to complete it. The form is used to register for after-hours access to various parks within the park system. The goal of this guide is to help you fill out the form accurately and ensure you're providing all necessary information to ensure a smooth registration process.
-
-Before filling out the form, please ensure that you're eligible for after-hours access and understand the park rules and regulations.
-
-</thinking>
-
 # After Hours Park Registration Form - Help Guide
 ## Purpose
 The After Hours Park Registration Form is used to register for after-hours access to parks within the park system. This form collects necessary information to ensure a safe and enjoyable experience for both you and other park users.

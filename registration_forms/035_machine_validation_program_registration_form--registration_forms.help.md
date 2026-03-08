@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for users to register their machines with the Machine Validation Program. The purpose of this form is to collect essential information about the machine, including its details, type, model, year, hours, location, image, and notes from both the user and the machine owner. 
-
-When filling out this form, ensure that you only submit the form if you have the necessary permissions to do so. This form is not intended for public submission, and it is recommended that users only access it through a secure and authorized channel.
-
-Please ensure that you have reviewed the submission guidelines and terms of service before proceeding.
-
-</thinking>
-
 # Machine Validation Program Registration Form - Help Guide
 ## Purpose
 The Machine Validation Program Registration Form is used to register machines for the program. 

@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to allow students to book a time slot for a dance workshop. It collects information about the student, including their name, email, and phone number, as well as details about the workshop they wish to attend. The form also collects information about the instructor, including their name, email, and phone number. This form is likely used for events management, and the information collected can be used for communication and coordination with the students and instructors. Before proceeding, please ensure that you have filled out any required fields and that you have the necessary permissions or approvals to submit this form. This form is meant to be a simple booking system and not a complex registration process. Please review the fields below for more information.
-
-</thinking>
-
 # Dance Workshop Schedule Booking Form - Help Guide
 ## Purpose
 This form is designed to allow students to book a time slot for a dance workshop.

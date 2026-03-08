@@ -1,13 +1,3 @@
-<thinking>
-
-This form, titled <string>, is designed to collect information from individuals interested in joining a community of like-minded people with a shared interest in sustainable living. The purpose of this form is to gather details about the member, their address, contact information, and their involvement in various activities related to sustainable living. 
-
-This form is intended for internal use within our organization, and the information collected will be used to facilitate communication and collaboration among members. 
-
-Before starting the form, please ensure that you have not filled it out before, as this will help us prevent duplicate entries and maintain the accuracy of our member database.
-
-</thinking>
-
 # <string> - Help Guide
 
 ## Purpose

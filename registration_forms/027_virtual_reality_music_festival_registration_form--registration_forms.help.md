@@ -1,8 +1,3 @@
-<thinking>
-
-This form appears to be a registration form for a virtual reality (VR) music festival. It's likely used to collect information from attendees, including personal details, event specifics, and payment information. The form might be used by festival organizers to manage attendee registrations, track event details, and process payments. To confirm, let's review each field and its purpose to create a comprehensive help guide.
-
-</thinking>
 # Virtual Reality Music Festival Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for a Virtual Reality Music Festival. The data collected will be used by festival organizers to manage registrations, event details, and payments.

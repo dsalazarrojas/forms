@@ -1,11 +1,3 @@
-<thinking> 
-
-This form is for registering sustainable cleaning practices. The purpose of this form is to collect information about sustainable cleaning practices, including their description, location, and status. This form is intended for individuals or organizations who want to register their sustainable cleaning practices for documentation and tracking purposes. Please note that this form is not for registering non-sustainable or unsustainable practices.
-
-Before filling out this form, please ensure that the practice you are registering is actually a sustainable cleaning practice and not a duplicate registration. 
-
-</thinking>
-
 # Sustainable Cleaning Practice Registration Form - Help Guide
 ## Purpose
 This form is designed to register and track sustainable cleaning practices, including their description, location, and status.

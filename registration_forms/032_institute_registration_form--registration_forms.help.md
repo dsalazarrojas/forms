@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals to register them as members of an institute. The form will be used to gather basic personal details, such as name, contact information, and other relevant details like departmental affiliation and role. This information will be used to update the institute's member database.
-
-The form will be used to register both new and existing members. To ensure that the form is filled out correctly, it is recommended that the user checks the form carefully before submitting it.
-
-The following fields are not required, but providing accurate information will help the institute update the member database correctly.
-</thinking>
-
 # Institute Registration Form - Help Guide
 ## Purpose
 The Institute Registration Form is used to collect information from individuals to register them as members of the institute. This form will be used to update the institute's member database.

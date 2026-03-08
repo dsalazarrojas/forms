@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 **pre-session-information-form - Help Guide**
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Academic Seminar Volunteer Registration Form - Help Guide
 ## Purpose
 The Academic Seminar Volunteer Registration Form is designed to gather essential information from individuals interested in volunteering for an academic seminar. By providing your contact details, availability, skills, and preferences, you will be able to express your interest in helping with various tasks during the seminar. This form helps us to efficiently manage volunteer roles and ensure a smooth event experience for all attendees.

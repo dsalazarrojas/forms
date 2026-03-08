@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to help veterans register their information and provide details about their military service. The purpose of this form is to collect data on veteran status and other relevant information. Please make sure to fill out this form accurately and thoroughly, and only if you are a veteran or authorized to submit this form on behalf of a veteran.
-
-Before you begin, please review this form carefully to ensure that you are not duplicating any existing records.
-
-This guide will walk you through each field of the form, so you can complete it with confidence.
-</thinking>
-
 # Veterans Registration Form - Help Guide
 
 ## Purpose

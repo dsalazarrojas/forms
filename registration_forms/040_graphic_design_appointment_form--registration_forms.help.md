@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for graphic design project appointments. It is intended for clients who want to book a graphic designer for a specific project. The form is meant to be filled out by the client to provide necessary details about the project and their contact information.
-</thinking>
-
 # graphic_design_appointment_form - Help Guide
 ## Purpose
 The graphic design appointment form is used to collect information from clients to schedule a graphic design project. This form helps the client to provide necessary details about the project and their contact information, allowing the designer to prepare for the appointment and ensure a smooth workflow.

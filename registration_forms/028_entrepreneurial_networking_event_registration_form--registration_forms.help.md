@@ -1,7 +1,3 @@
-<thinking>
-The Entrepreneurial Networking Event Registration Form is a tool for event organizers to gather information from attendees about their participation in the event. The form collects essential details such as name, business name, job title, contact information, and categories of interest. The form helps event organizers to categorize attendees and tailor the experience based on their preferences and needs.
-</thinking>
-
 # Entrepreneurial Networking Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees about their participation in the entrepreneurial networking event. The collected data will help event organizers to categorize and tailor the experience for each attendee.

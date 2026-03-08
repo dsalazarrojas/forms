@@ -1,7 +1,3 @@
-<thinking>
-This form will help you register for the Healthcare Data Ethics Roundtable, a platform for discussing and addressing ethics in healthcare data management. Please ensure you are filling this form for the correct purpose and not duplicating registrations. This guide will walk you through each field, explaining its purpose and expectations.
-</thinking>
-
 # Healthcare Data Ethics Roundtable Registration - Help Guide
 
 ## Purpose

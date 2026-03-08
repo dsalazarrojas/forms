@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to be used for registering participants to virtual training programs. The purpose of this form is to collect information from individuals who are interested in attending a virtual training session. This form is used by training organizers to gather details about the participants' preferences and requirements. It is not intended to replace any other form platform, but rather an original creation using AI-generated content.
-
-To ensure accuracy, please note that this form was not derived from any other form creation platform, and the content is released under a Creative Commons license. If you have any feedback or questions, feel free to contact form@gic.mx.
-
-</thinking>
-
 # Virtual Training Registration Form - Help Guide
 ## Purpose
 The Virtual Training Registration Form is designed to collect information from participants interested in joining a virtual training session.

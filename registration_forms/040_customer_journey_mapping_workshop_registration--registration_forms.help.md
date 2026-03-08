@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from customers about their workshop registration process. This includes details such as the workshop name, attendee name, email, phone number, workshop date and time, whether they will be attending with colleagues or team members, the current status of the workshop, the primary manager of the workshop, and any additional notes or questions they may have. The form is likely used for event management, customer relationship management, or sales and marketing purposes. The form's structure and field types suggest that it is meant to be completed by workshop attendees or representatives, and the required fields indicate that the form must be filled out in its entirety.
-</thinking>
-
 # Customer Journey Mapping Workshop Registration - Help Guide
 ## Purpose
 This form is used to collect information from customers about their workshop registration process. It helps us understand who is attending, what workshops they are interested in, and what their needs are.

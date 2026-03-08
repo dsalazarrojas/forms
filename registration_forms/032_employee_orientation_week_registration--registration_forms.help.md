@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from employees to register for the employee orientation week. This form will likely be used by HR or administration departments to track employee participation and session attendance. There might already be a similar form in use, such as an excel sheet or a different digital form, so it is essential to confirm that this new form is not duplicating existing efforts. The field names are clear and straightforward, but some fields could be more user-friendly. For example, "session_sign_up" could be renamed to "Session Selection" or "Session Preferences" to better convey its purpose. 
-</thinking>
-
 # Employee Orientation Week Registration - Help Guide
 ## Purpose
 This form is designed to collect information from employees to register for the employee orientation week. It will help the HR or administration department track employee participation and session attendance.

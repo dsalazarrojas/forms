@@ -1,14 +1,3 @@
-<thinking>
-This form appears to be a placement registration form designed for users who are seeking or have found employment opportunities. It's possible that this form is used for internal registration processes within an organization or a company, and it might be used for HR or talent management purposes. The form seems to be asking for user information, contact details, and job-related data such as placement status, graduation date, employment status, job title, company name, job description, location, job type, job category, job URL, job ID, job status, resume, job address, job city, job state, job zip, contact name, contact number, and contact email. Each field seems to be optional, but there are a few select_one and select_multiple fields for categorizing job information. I'm assuming that this form is used to store and organize user data for employment-related purposes.
-
-Given the form's structure and options, it's likely that this form is used to collect and store data for internal use within an organization or company, such as HR departments, recruitment teams, or talent management teams. It's also possible that this form is used for external purposes, such as job postings or candidate applications.
-
-Before using this form, ensure that you have the necessary permissions and approvals to access and manipulate the data collected through this form. Additionally, be aware that some fields may have specific formatting or entry requirements to ensure accurate data entry and to prevent errors.
-
-To avoid duplication of efforts, check if similar forms or systems are already in place within the organization or company before proceeding with this form.
-
-Please verify and confirm the form's purpose and intended use with your internal stakeholders or team leaders to ensure a smooth and accurate onboarding process.</thinking>
-
 # Placement Registration Form - Help Guide
 
 ## Purpose

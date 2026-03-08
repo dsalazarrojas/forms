@@ -1,13 +1,3 @@
-<thinking>
-This form is used for teams to express their interest in participating in events and activities. The goal is to gather information about the team's experience, team type, event type, and other relevant details. This form is required for teams to be eligible to participate in certain events.
-
-To ensure accurate completion of this form, please follow these steps:
-
-- Make sure you are a team representative and have the necessary permissions to fill out this form on behalf of your team.
-- Fill out the form completely and accurately, as incomplete or incorrect information may lead to rejection or issues with your team's participation.
-- Double-check your information before submitting the form, especially for required fields.
-</thinking>
-
 # relay_team_expression_of_interest - Help Guide
 ## Purpose
 The "relay_team_expression_of_interest" form is used for teams to express their interest in participating in events and activities. 

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from suppliers for the Golf Day event. The form's purpose is to collect contact and registration details of suppliers, along with their payment options, and obtain their acceptance of terms and conditions. This form serves as a template for data collection and event organization.
-</thinking>
-
 # Supplier Golf Day Registration - Help Guide
 ## Purpose
 The Supplier Golf Day Registration form is designed to collect necessary information from suppliers to organize and coordinate the Golf Day event. To ensure accurate and efficient data collection, please follow these steps:

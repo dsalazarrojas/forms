@@ -1,8 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for a "health justice advocacy roundtable registration" form. This form aims to gather information from individuals to register for a health justice advocacy roundtable discussion. The goal is to understand the needs and interests of participants for effective advocacy. The form will help us understand attendee contact information, their role, organization, and accessibility needs. We will not duplicate existing contact information and will only allow one submit button at the end.
-
-</thinking>
-
 # Health Justice Advocacy Roundtable Registration - Help Guide
 
 ## Purpose

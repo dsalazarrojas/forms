@@ -1,7 +1,3 @@
-<thinking>
-The Mentorship Program Extension Form is used to extend the duration of a mentorship program. It should only be filled out by the person extending the program (e.g., the mentor). The form is not required if the program duration is not being extended. To submit this form, make sure that you have the necessary permissions and that the extension is within the approved timeframe. Please note that this form is not to be used for initial program applications.
-</thinking>
-
 # Mentorship Program Extension Form - Help Guide
 ## Purpose
 The Mentorship Program Extension Form is used to extend the duration of a mentorship program.

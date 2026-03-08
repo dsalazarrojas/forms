@@ -1,11 +1,3 @@
-<thinking>This guide is for the "Religious Reunion Registration Form" used for collecting information from attendees for a religious reunion event. This form is used to collect the main information, contact details, and RSVP choices such as date and time of the event. It will help us get the necessary information required for the planning and organization of the event.
-
-To avoid duplicate forms and unnecessary registrations, please fill out the form for only one person per household.
-
-Before proceeding, it's essential to note that some fields are optional; however, filling them out is necessary for accurate contact and event planning.
-
-</thinking>
-
 # religious_reunion_registration_form - Help Guide
 ## Purpose
 This form is used for collecting information from attendees of a religious reunion event.

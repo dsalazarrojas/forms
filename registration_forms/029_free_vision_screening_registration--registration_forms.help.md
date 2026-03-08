@@ -1,6 +1,3 @@
-<thinking>...
-This form is for registering participants for a free vision screening. This form should be used for participants who are new to the system. The purpose of this form is to collect information about the participant, including their name, age, gender, and other relevant details. Before starting to fill out the form, please make sure to read through the form carefully and ensure that you are not duplicating an existing registration.
-</thinking>
 # free_vision_screening_registration - Help Guide
 ## Purpose
 This form is for registering participants for a free vision screening. It is used to collect demographic information, scheduling details, and screening status.

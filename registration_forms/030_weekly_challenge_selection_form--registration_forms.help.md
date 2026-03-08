@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Weekly Challenge Selection Form - Help Guide
 ## Purpose
 This form is used to select the details of a weekly challenge for participants. Please provide the necessary information to ensure the challenge runs smoothly. Make sure to fill out all required fields and provide accurate information to avoid errors.

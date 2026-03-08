@@ -1,7 +1,3 @@
-<thinking>
-This form is used for participants to register for a scavenger hunt event. The goal is to collect information from participants, including their basic contact details and team leader information. This form does not currently require any specific fields to be filled, but it's likely that some of these fields will be required in the future to ensure accurate participant registration and team management. It's also possible that some of these fields might be used for internal purposes, such as event organization and communication. To confirm, please check with the event organizers for the most up-to-date information.
-</thinking>
-
 # Scavenger Hunt Registration Form - Help Guide
 ## Purpose
 

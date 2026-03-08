@@ -1,24 +1,3 @@
-<thinking>
-To avoid confusion or misinterpretation, I will first need to analyze the form's purpose and ensure that it is relevant and not a duplication of existing forms. This form appears to be for registering festival coordination partners, collecting information about their details, and setting up their participation in the festival. It is likely that this form is part of a larger system for managing festival partners and their activities.
-
-The form's purpose is to collect the following information from festival partners:
-
-*   Partner name and contact details (name, first name, last name, email, phone, website)
-*   Partner description and category (category of festival, whether they have a logo, social media presence, etc.)
-*   Festival details (festival date, start and end times, address, organizer)
-*   Submission status (confirmation of submission and status of partner's participation)
-
-Upon reviewing the form, it seems that all fields are mandatory, indicating that the system requires complete and accurate information for each partner.
-
-The form's structure and fields appear to be well-designed, with a clear distinction between partner information and festival details.
-
-To ensure that the form is user-friendly, the labels and fields should be self-explanatory, and the instructions should be clear and concise.
-
-Before proceeding, I would like to confirm that the form is correctly designed to serve its purpose and that no unnecessary fields are included.
-
-After verifying the form, I will create a user-friendly help guide for festival coordination partners to fill out the form correctly.
-</thinking>
-
 # ประก prophet Festival Coordination Partner Registration Form - Help Guide
 ## Purpose
 This form is for festival coordination partners to register and provide information about themselves and their participation in the festival. Please fill out the form accurately and completely to ensure successful registration.

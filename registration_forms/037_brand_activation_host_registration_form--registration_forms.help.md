@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from individuals interested in becoming Brand Activation Hosts. The form is designed to assess a person's experience, availability, and suitability to host brand-related events. By filling out this form, applicants will be evaluated for potential partnerships with the company. The form is not intended to be a commitment or a guarantee of partnership. Each field is critical in evaluating a person's qualifications and fit for this role. 
-
-</thinking>
-
 # Brand Activation Host Registration Form - Help Guide
 ## Purpose
 The Brand Activation Host Registration Form is designed to collect information from individuals interested in becoming Brand Activation Hosts. This form is used to assess a person's experience, availability, and suitability to host brand-related events.

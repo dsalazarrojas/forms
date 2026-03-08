@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is designed to collect information from translators about their availability and productivity. It's intended for internal use, possibly for project planning or resource allocation purposes. Please ensure that the form is being filled out correctly and consistently to avoid data duplication.</thinking>
-
 # Translator Availability Reminder 2 - Help Guide
 ## Purpose
 The Translator Availability Reminder 2 form is a tool for translators to report their availability and productivity. This information will be used internally to plan projects and allocate resources effectively.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information from individuals or couples seeking to register their marriage. 
-The purpose of this form is to collect the couple's and officiant's information, including wedding details. 
-This form has been designed to minimize duplication and ensure accuracy in recording the essential information required for marriage registration. 
-To fill out this form, please follow the steps below.
-</thinking>
-
 # Marriage Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or couples seeking to register their marriage. The form is intended to be completed by the couple and the officiant who performed the marriage ceremony.

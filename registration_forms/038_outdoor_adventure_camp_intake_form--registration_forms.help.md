@@ -1,7 +1,3 @@
-<thinking>
-To determine if the form needs to be created for the user, I will review the provided YAML fields and assess the context of the form. The form "Outdoor Adventure Camp Intake Form" appears to be a registration form for participants who wish to join an outdoor adventure camp. It seems that the form is meant to gather information about the participant, their emergency contact, medical information, and other relevant details. I will now create a user-facing help guide that explains the form's purpose and how to complete it.
-</thinking>
-
 # Outdoor Adventure Camp Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who wish to join an outdoor adventure camp. The form will be used to gather details about each participant, including their emergency contact, medical information, and other relevant details.

@@ -1,16 +1,3 @@
-<thinking>
-This guide is intended to be used by end users to register students for a course. The form is designed to collect relevant information about the student and course details.
-
-The form has 12 fields, each with its own specific purpose.
-
-Before proceeding, ensure that you have all the required information ready.
-
-This form should only be filled out once for each student.
-
-After filling out this form, it will help the administration team to process the registration and keep a record of the student's information.
-
-</thinking>
-
 # <string> - Help Guide
 ## Purpose
 This form is used for registering students for a course.

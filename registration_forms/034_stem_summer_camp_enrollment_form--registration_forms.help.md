@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to collect registration information for participants of a summer camp program. It will gather basic participant and parent contact information, payment details, and any relevant medical information. To ensure a smooth enrollment process, please review the form carefully and provide accurate answers to all required fields. Note that some fields may be optional, but providing this information will help the camp staff better understand your needs and preferences.
-
-Before proceeding, please ensure you are not already registered for this summer camp program. If you are unsure, you can check with the camp staff or refer to your previous registration records.
-
-</thinking>
-
 # stem_summer_camp_enrollment_form - Help Guide
 ## Purpose
 The stem_summer_camp_enrollment_form is designed to collect participant and parent information, payment details, and medical information for the summer camp program.

@@ -1,15 +1,3 @@
-<thinking>
-
-To confirm the form's purpose and ensure it does not duplicate any existing functionality, I will review the YAML fields provided. The form is intended to collect information related to a "Teacher Event Organization Form" which could be used for various purposes such as event planning, participant management, or other related administrative tasks.
-
-Upon analyzing the YAML fields, I notice that they cover a wide range of categories such as event details, participants, organizers, and agreements. This form likely aims to gather essential data for organizing and managing events.
-
-To avoid duplication, I will check for any forms with similar purposes within our system. After reviewing our existing forms, I found no direct duplicates, suggesting that this form serves a unique purpose.
-
-Given this analysis, I will create a comprehensive user-facing help guide for the "Teacher Event Organization Form" form based on the YAML provided.
-
-</thinking>
-
 # Teacher Event Organization Form - Help Guide
 ## Purpose
 The Teacher Event Organization Form is designed to collect information for event planning, participant management, or other administrative tasks related to teaching events. This form helps you gather essential details about events and participants in a structured way.

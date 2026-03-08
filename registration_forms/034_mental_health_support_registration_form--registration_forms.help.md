@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # mental_health_support_registration_form - Help Guide
 
 ## Purpose

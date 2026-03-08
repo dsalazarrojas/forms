@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from participants after a training session, likely for evaluation, feedback, or follow-up purposes. The form should only be filled out by participants who have attended the session. This form has four fields: participant name, participant email, participant phone number, and session ID.
-</thinking>
-
 # Export Documentation Training Form - Help Guide
 ## Purpose
 The Export Documentation Training Form is designed to collect information from participants after a training session, which will be used for evaluation, feedback, or follow-up purposes.

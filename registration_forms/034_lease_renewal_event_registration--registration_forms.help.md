@@ -1,7 +1,3 @@
-<thinking>
-## Internal reasoning block
-This form is designed for collecting event registration information for lease renewal events, likely from property managers or owners. The purpose is to gather essential details, contact information, and RSVP responses from attendees. The form should be completed by individuals registering for the event, and the responses will help event organizers understand who's attending, their contact preferences, and gather feedback/suggestions for future events.
-</thinking>
 # Lease Renewal Event Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information for lease renewal events. Please complete this form to let us know you're interested in attending or participating in the event.

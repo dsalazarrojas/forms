@@ -1,6 +1,3 @@
-<thinking>
-This form is for registering a retail application. The form is used to collect information about the applicant, including their personal details and work preferences. This guide is to help the end user understand how to complete the form correctly and make informed decisions.
-</thinking>
 # Retail Application Form - Help Guide
 ## Purpose
 The Retail Application Form is a registration form used to collect information from applicants for retail positions. The form is designed to be completed by the applicant, and the collected data will be used to assess their eligibility and suitability for the position.

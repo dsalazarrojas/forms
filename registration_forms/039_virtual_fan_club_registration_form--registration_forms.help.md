@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect user information for virtual fan club registration. The fields included are for identifying the user's personal details (first name, last name, email, phone number, country, age, and occupation), membership details (membership start date, membership end date, membership status, membership level, and membership payment status), and additional information such as member since, member since time, and note. The form also includes a field for agreeing to the terms and conditions.
-</thinking>
-
 # virtual_fan_club_registration_form - Help Guide
 
 ## Purpose

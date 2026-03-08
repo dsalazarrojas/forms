@@ -1,5 +1,3 @@
-<thinking>... internal reasoning block: This form is for users to register as a smoothie and bowl maker for a workshop, providing personal information and selecting their maker type. It's not a critical form, meaning it's not required for critical business functions, and it's intended for non-duplication purposes. The form fields are mostly for collecting user preferences and interests. We don't have any specific business rules for this form, so we'll just focus on explaining each field clearly... </thinking>
-
 # Smoothie and Bowl Maker Registration - Help Guide
 
 ## Purpose

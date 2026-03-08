@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # fda_importer_registration_form - Help Guide
 ## Purpose
 

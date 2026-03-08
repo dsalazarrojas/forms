@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 This block of code is for creating a help guide for a form, specifically the Equipment Energy Certification Registration Form. The form appears to have the following fields:
 * User input 1
 * Select one

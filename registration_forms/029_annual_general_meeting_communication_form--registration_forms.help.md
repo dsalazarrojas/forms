@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Annual General Meeting Communication Form - Help Guide
 ## Purpose
 This form is intended for members to communicate with the Annual General Meeting (AGM) committee, providing information about their attendance, agenda items, and any specific concerns or ideas they would like to raise during the meeting. 

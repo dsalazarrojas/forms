@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Dental Patient Intake Form, we need to first understand the form's purpose and ensure that the form is not already filled out by the user before proceeding. The form's purpose is to collect essential information about the patient, including demographic details, medical history, and insurance information. We'll guide users through the form completion process, explaining each field in detail to ensure they understand what's required and what's optional.</thinking>
-
 # Dental Patient Intake Form - Help Guide
 ## Purpose
 This form is used to collect essential information about a new patient for our dental care services. Please fill out this form to help us get to know you better and provide the best possible care.

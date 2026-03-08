@@ -1,15 +1,3 @@
-<thinking>Form purpose: 
-- The Hawaii Event Registration Form is designed to collect information from users who want to register for a specific event in Hawaii. 
-- The form is used to gather basic information about the user and their event details such as date, time, location, etc. 
-- The form also allows the user to select the payment method and amount for registration. 
-- The form is intended for event organizers to collect necessary details for smooth event management. 
-- This form is a general form and should be filled up by users for general events. 
-
-Note: 
-- Please make sure you're filling the form only once. If you're an organizer, please fill this form carefully to avoid duplicating entries. 
-
-</thinking>
-
 # Hawaii Event Registration Form - Help Guide
 ## Purpose
 The Hawaii Event Registration Form is designed to collect information from users who want to register for a specific event in Hawaii. This form is used by event organizers to gather essential details for smooth event management.

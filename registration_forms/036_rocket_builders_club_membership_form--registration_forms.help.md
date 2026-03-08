@@ -1,8 +1,3 @@
-<thinking>
-This form is designed for individuals interested in joining the Rocket Builders Club. The purpose of this form is to gather information from potential members to facilitate the registration process. The form collects personal details, payment information, and membership preferences. To avoid duplication, please ensure you have not submitted this form previously, as the club has a one-time registration process. Please review the form carefully before submitting it to ensure accurate and complete information.
-
-</thinking>
-
 # Rocket Builders Club Membership Form - Help Guide
 
 ## Purpose

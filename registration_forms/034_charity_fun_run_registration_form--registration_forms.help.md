@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication, I'll first check if there's a similar form that already exists in the system. If there isn't, I'll create a new one.
-The purpose of this form is to collect registration information from participants of the charity fun run event. This form gathers essential details such as name, contact information, race distance, and payment method to ensure a smooth registration process.
-</thinking>
-
 # Charity Fun Run Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from participants of the charity fun run event.

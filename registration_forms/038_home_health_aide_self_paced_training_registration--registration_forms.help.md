@@ -1,7 +1,3 @@
-<thinking>
-The form is likely intended for individuals or organizations interested in self-paced online training for Home Health Aides. This form would be used to capture relevant information from users, such as their interest in specific modules, personal details like name and email, and training-related information like start date and program length. The form might be used to gather data for registration purposes, to track interest or to collect contact information for follow-up communications. To avoid duplication or irrelevant submissions, the form should be filled out only once, with the user carefully selecting their interest in modules, providing accurate contact information and specifying their training requirements.
-</thinking>
-
 # Home Health Aide Self Paced Training Registration - Help Guide
 ## Purpose
 This guide is designed to help you complete the Home Health Aide Self-Paced Training Registration form. This form is for users interested in online training for Home Health Aides.

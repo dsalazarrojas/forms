@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register for a cultural program membership, gathering essential information for subscription purposes. The fields are designed to collect details necessary for processing membership applications in a clear and structured manner.
-</thinking>
-
 # cultural_program_membership_subscription_form - Help Guide
 ## Purpose
 This form is for registering for a cultural program membership. It gathers essential information to process your membership application.

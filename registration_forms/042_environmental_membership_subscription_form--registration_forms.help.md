@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is only filled out by intended individuals. This form is for registering individuals for environmental membership, and we want to prevent duplication of effort. If a user has filled out this form before, we'll want to let them know that it's not necessary to repeat the process.
-</thinking>
-
 # Environmental Membership Subscription Form - Help Guide
 ## Purpose
 This form is for registering individuals for environmental membership. It's meant for people who are interested in supporting environmental initiatives or want to be part of our community.

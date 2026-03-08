@@ -1,5 +1,3 @@
-<thinking>... checking for relevance and non-duplication ... form purpose: registration for participants in day camp activities. This form is used to collect demographic and health information from participants. No existing forms with the same purpose were found in the database. ...</thinking>
-
 # Day Camp Registration Form - Help Guide
 ## Purpose
 This form is used for participants to register for day camp activities. It collects demographic and health information to ensure a safe and enjoyable experience for all campers.

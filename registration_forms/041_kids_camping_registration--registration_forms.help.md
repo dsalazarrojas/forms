@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect registration information from parents or guardians for kids' activities or events. The form is likely used in educational settings, such as schools, summer camps, or youth organizations, to gather necessary details about each child participating in an activity. The purpose of this form is to streamline the registration process and ensure that all necessary information is collected in a standardized format. This way, organizers can efficiently manage participant data and communicate with parents/guardians.
-
-Before proceeding, please ensure that you are completing this form for the correct purpose and not duplicating efforts. If you are unsure or have questions, contact the relevant authorities or organization administering the form.
-
-</thinking>
-
 # kids_camping_registration - Help Guide
 ## Purpose
 The kids_camping_registration form collects registration information from parents or guardians for kids' activities or events.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from students who wish to enroll in a Drama Class or Workshop. It is essential to fill in the form accurately to ensure proper registration and communication with the class instructor. Please make sure to fill in the form only once, as multiple submissions may cause confusion.
-</thinking>
-
 # Drama Class Appointment Form - Help Guide
 ## Purpose
 The Drama Class Appointment Form is a crucial document that helps us understand the student's preferences and schedule for enrolling in our drama classes. It is vital to fill out the form accurately and honestly to provide a smooth experience for both the student and the instructor.

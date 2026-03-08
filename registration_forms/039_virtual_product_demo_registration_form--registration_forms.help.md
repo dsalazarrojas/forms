@@ -1,6 +1,3 @@
-<thinking> 
-This form is designed to collect registration information from users for a virtual product demo. It's intended for customers or prospects who are interested in exploring a product or service. This form is likely to be used in a sales or marketing context to capture details about the registrants and schedule a demo session. The form has multiple fields for various demographics and preferences, including contact information, schedule, and demo details. This guide will cover each field to ensure the user understands what information is required and optional, and how to complete the form correctly.</thinking>
-
 # Virtual Product Demo Registration Form - Help Guide
 ## Purpose
 The Virtual Product Demo Registration Form is used to collect registration information from customers or prospects interested in exploring a product or service. This information is used to schedule a demo session and capture relevant details about the registrants.

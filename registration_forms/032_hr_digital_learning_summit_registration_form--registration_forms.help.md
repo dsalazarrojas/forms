@@ -1,5 +1,3 @@
-<thinking> This form is for the registration process of the HR Digital Learning Summit, a conference where participants can register for various workshops and pay for them. The form is required to be filled out completely and accurately to ensure that participants can receive updates on their registration status and attend the workshops they have chosen. The form is not a duplicate form, and each participant can only register once. Please review each field carefully to ensure that you are providing the correct information. </thinking>
-
 # HR Digital Learning Summit Registration Form - Help Guide
 ## Purpose
 This form is for registering participants to the HR Digital Learning Summit, a conference where participants can learn from industry experts and network with peers. 

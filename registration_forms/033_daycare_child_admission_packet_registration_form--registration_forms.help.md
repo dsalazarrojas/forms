@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Daycare Child Admission Packet Registration Form - Help Guide
 ## Purpose
 This form is used to collect information about a child's personal details, emergency contact, and medical information for our daycare facility. It is essential to fill out this form to ensure that we have accurate and up-to-date information about your child. Please provide as much information as possible to help us provide better care and services.

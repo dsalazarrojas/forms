@@ -1,7 +1,3 @@
-<thinking>
-As you create this help guide, keep in mind that the form "parental_consent_waiver_for_local_trips" is a critical document that requires careful attention from parents or guardians to ensure the safety and well-being of minors participating in local trips. This form is essential for gathering necessary information and ensuring that all parties involved are aware of and agree to the terms and conditions of the trip. It is crucial to provide clear and concise explanations for each field to avoid any confusion or misinterpretation. Before proceeding, ensure that you have reviewed the form's purpose and requirements and that it aligns with the intended use and audience. It's also a good practice to consider any potential issues that may arise and ensure the guide addresses them effectively.
-</thinking>
-
 # Parental Consent and Waiver for Local Trips - Help Guide
 ## Purpose
 The Parental Consent and Waiver for Local Trips form is a critical document that requires parents or guardians to provide necessary information and consent for their child's participation in local trips. This form is designed to ensure the child's safety and well-being during the trip.

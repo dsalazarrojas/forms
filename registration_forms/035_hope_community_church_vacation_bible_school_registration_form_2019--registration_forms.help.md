@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to register children for the Hope Community Church Vacation Bible School (VBS). The form captures the necessary information to process a child's registration. It is recommended to fill out the form accurately to ensure correct placement and processing.
 
 # hope_community_church_vacation_bible_school_registration_form_2019 - Help Guide

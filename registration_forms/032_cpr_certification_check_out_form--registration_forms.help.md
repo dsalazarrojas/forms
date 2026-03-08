@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, I'll review the form purpose and fields to ensure that the explanation is accurate and relevant. Based on the provided YAML structure, the form is for registering participants who want to obtain a CPR certification, and it seems to be designed for certification delivery, age verification, and payment processing. The form asks for participant information, certification details, and payment details. I'll aim to create a clear and concise help guide that explains each field's purpose and how to complete the form.</thinking>
-
 # CPR Certification Check Out Form - Help Guide
 ## Purpose
 The CPR Certification Check Out Form is designed for participants who have completed a CPR course and want to request their certification. This form is used to verify the participant's information, certification details, and payment processing.

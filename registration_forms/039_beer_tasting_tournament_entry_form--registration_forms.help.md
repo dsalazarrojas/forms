@@ -1,5 +1,3 @@
-<thinking>Before we begin, let's make sure that the form purpose is clear and we are not duplicating any information. This form is for participants to register for a beer tasting tournament. The goal is to gather necessary information from the participants, including contact details, eligibility and experience, tournament preferences, and waiver acceptance. Ensure that all required fields are clearly marked and easily accessible.</thinking>
-
 # Beer Tasting Tournament Entry Form - Help Guide
 ## Purpose
 The Beer Tasting Tournament Entry Form is designed for participants to register for a beer tasting tournament. This guide will help you complete the form accurately and efficiently.

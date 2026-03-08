@@ -1,7 +1,3 @@
-<thinking>
-Before creating this help guide, let's briefly discuss the Model Casting Form's purpose and relevance. The form appears to be designed for registering models and their related information, including agency details, project location, and dates. This guide will help users understand the form's structure and each field's purpose, ensuring they can complete it accurately and efficiently. It's essential to note that the form is part of a larger system, and its purpose might overlap or be related to other forms. To avoid duplication, this guide will focus on the specific requirements and fields of the Model Casting Form.
-</thinking>
-
 # Model Casting Form - Help Guide
 ## Purpose
 The Model Casting Form is designed to collect information about models and their related projects, including agencies, locations, and dates. This form is crucial for managing model casting processes and ensuring that all required details are captured accurately.

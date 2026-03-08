@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect registration information from participants for the Academic Transformation Retreat. The purpose of this form is to gather details about each participant's preferences and requirements for the retreat, including their name, contact information, institution and department, role, session preferences, accommodation needs, dietary restrictions, accessibility accommodations, topics of interest, transportation, and emergency contact information. 
-
-The form will be used to create a database of registered participants and to facilitate communication with them regarding retreat logistics and details. 
-
-This guide is intended to provide clear instructions and explanations for filling out the form accurately and efficiently. 
-
-Please ensure you only fill out this form once you have read and understood the instructions and explanations below. 
-
-If you have any doubts or questions, please contact the retreat organizers for clarification.
-</thinking>
-
 # Academic Transformation Retreat Registration Form - Help Guide
 
 ## Purpose

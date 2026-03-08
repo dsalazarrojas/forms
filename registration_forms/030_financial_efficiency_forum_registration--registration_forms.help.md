@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather registration information from users who want to participate in the "Financial Efficiency Forum." This form is designed to capture the user's name, topic interests, special requirements, email, phone number, and any additional notes they may have. The form is not intended to be a comprehensive registration process, but rather a preliminary step to get basic contact information from interested users. It is expected that the user will be contacted separately to confirm their submission and finalize their registration. This form is not intended for internal use only, and any data collected will be used to manage the user's participation in the forum.
-</thinking>
-
 # Financial Efficiency Forum Registration - Help Guide
 ## Purpose
 The Financial Efficiency Forum Registration form is a preliminary step to gather contact information from users interested in participating in the Financial Efficiency Forum. This form is not a comprehensive registration process, and users will be contacted separately to confirm their submission and finalize their registration.

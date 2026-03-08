@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to gather information from students and parents for the purpose of the school's musical audition process. It will be used to collect contact information and other details from students and their parents to facilitate the audition process. Before filling out this form, please ensure that you have gathered all the necessary information and that the student's and parent's details are accurate. The form is intended to be completed by students and parents who are interested in auditioning for a musical program or event at the school. 
-
-Note that some fields may not be required, but they are still necessary for the school to process the audition request.
-
-This guide is intended to help students and parents understand what each field is for and how to fill out the form correctly.
-</thinking>
-
 # Musical Audition Form - Help Guide
 ## Purpose
 This form is used to collect information from students and their parents to facilitate the musical audition process at the school.

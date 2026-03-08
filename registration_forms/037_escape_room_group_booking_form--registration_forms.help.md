@@ -1,11 +1,3 @@
-<thinking>... 
-
-This form is designed to collect information for group bookings at an escape room. It will be used to gather details about the group's preferences, needs, and requirements. This form should be used to provide accurate information about the group, as it will be used by staff to prepare for the booking.
-
-To ensure this form is filled out correctly, please make sure that all required fields are filled out accurately and completely.
-
-</thinking>
-
 # escape_room_group_booking_form - Help Guide
 
 ## Purpose

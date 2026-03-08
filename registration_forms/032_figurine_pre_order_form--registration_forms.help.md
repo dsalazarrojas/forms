@@ -1,7 +1,3 @@
-<thinking>
-This form is primarily intended to collect user registration information for a figurine pre-order. It captures details necessary for the customer to provide shipping and payment information. The fields are designed to be simple and straightforward, making it easy for users to understand what's required of them.
-</thinking>
-
 # Figurine Pre Order Form - Help Guide
 ## Purpose
 The Figurine Pre Order Form is designed to collect essential details from customers who want to pre-order a figurine. This form allows users to input their shipping and payment information, as well as provide any additional order notes they may have.

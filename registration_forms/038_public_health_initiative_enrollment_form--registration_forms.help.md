@@ -1,8 +1,3 @@
-<thinking>
-This form is a registration form for the Public Health Initiative, designed for individuals to enroll in various health programs. To determine if this form is relevant to the user, it checks if the user has any existing enrollment in the Public Health Initiative. 
-The form has two pages: the first page has the basic information fields (first name, last name, email, date of birth, phone, and address), and the second page has a program selection field and two additional fields for follow-up and submission confirmation.
-</thinking>
-
 # public_health_initiative_enrollment_form - Help Guide
 ## Purpose
 The Public Health Initiative Enrollment Form is a registration form for individuals to enroll in various health programs. This form is used to collect basic contact information and preferences for the selected program(s).

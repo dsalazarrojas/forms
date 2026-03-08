@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Practical Guidance Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for the "Practical Guidance" workshop. It is intended to gather attendee contact details and workshop title. The information collected will be used to communicate with the attendees and for workshop organization purposes.

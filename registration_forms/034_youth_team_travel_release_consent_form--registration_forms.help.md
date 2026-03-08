@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect information from parents or guardians to grant permission for their children to participate in youth team travel. This form will be used to obtain consent for the child's travel, ensuring that the necessary permissions are in place before the team leaves for their trip. Please note that this form must be completed for each child participating in the trip. This form will be used in conjunction with other travel documents, such as medical forms, to ensure that all necessary information is collected.
-
-When completing this form, please ensure that all required fields are filled in accurately and completely. If a field is marked as optional, it is not required but will help us better understand your situation. Please fill in all fields as instructed and take the time to read the instructions carefully.
-
-The form is divided into several sections, each with its own set of fields. Please complete each section in the order it is presented.
-
-</thinking>
-
 # Youth Team Travel Release Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from parents or guardians for their child to participate in youth team travel.

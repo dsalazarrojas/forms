@@ -1,26 +1,3 @@
-<thinking>
-This form is designed for users who have already interacted with the system before and are returning to update their information or register again. The form is meant to be a simplified version of the full registration form, with a focus on gathering basic user information. 
-The purpose of this form is to allow returning users to update their personal details and agree to terms and conditions. 
-
-The form will be used to collect the following information from the user:
-- First Name
-- Last Name
-- Email
-- Phone Number
-- Country
-- State
-- City
-- Zip Code
-- Country of Residence
-- Password 
-  (to be used internally for authentication and verification purposes)
-- Repeat Password
-  (for confirmation of password entry)
-- Agreement to terms and condition
-- Agreement status (yes or no)
-
-</thinking>
-
 # Returning User Registration - Help Guide
 ## Purpose
 This form is designed for returning users who want to update their information or register again with the system. It is a simplified version of the full registration form, focusing on basic user details.

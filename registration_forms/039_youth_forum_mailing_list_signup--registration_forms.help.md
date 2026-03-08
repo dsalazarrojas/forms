@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the Youth Forum Mailing List Signup form is filled out accurately and securely. To prevent duplicate entries, we need to verify that each user is not already registered. This form is used for new users to register and join the Youth Forum Mailing List. We will only send emails to users who fill out this form with their correct contact information. If you are already registered, please do not fill out this form again.
-</thinking>
-
 # Youth Forum Mailing List Signup - Help Guide
 ## Purpose
 This form is for new users to register and join the Youth Forum Mailing List. Please fill it out to receive emails and updates from the Youth Forum.

@@ -1,17 +1,3 @@
-<thinking>
-This form is meant to gather information from individuals interested in the Visual and Performing Arts Development program. The form is designed to capture essential details such as name, email, phone number, date, and time. The "Consent Form" page is included to obtain consent from participants to be contacted by the program administrators. The purpose of this form is to streamline the registration process and ensure that all necessary information is collected in a single step.
-
-To complete this form, follow these steps:
-
-1. Click on the link to access the form.
-2. Scroll through the form pages to select the relevant information for each page.
-3. Fill in the required fields, which are marked as "required".
-4. Select the "Public", "Private", or "Hidden" option for the "Email Type" field.
-5. Enter any additional notes in the "Notes" field.
-6. Click the "Submit" button to complete the form.
-
-</thinking>
-
 # visual_and_performing_arts_development_signup_form - Help Guide
 ## Purpose
 This form is designed for individuals interested in the Visual and Performing Arts Development program to register and provide necessary information.

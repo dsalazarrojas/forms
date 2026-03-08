@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering participants for a Data Ethics in Education Roundtable. The purpose of this form is to gather information from individuals interested in attending or participating in the roundtable event. The form captures various details about the participants, their interests, and their consent regarding the use of their data. The form is part of a larger process to facilitate a discussion and gathering of ideas on data ethics in education.
-</thinking>
-
 # Data Ethics In Education Roundtable Registration - Help Guide
 ## Purpose
 The Data Ethics in Education Roundtable Registration form is designed to gather information from individuals interested in attending or participating in the roundtable event. This form is essential for facilitating a productive discussion and gathering of ideas on data ethics in education.

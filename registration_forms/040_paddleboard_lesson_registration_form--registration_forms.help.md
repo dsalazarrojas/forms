@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals interested in registering for a paddleboard lesson. The purpose of this form is to gather necessary details such as personal information, lesson preferences, and scheduling requirements. This form will be used to create a new lesson registration in the database, which will help our staff to manage and coordinate lessons effectively.
-
-Before starting, please note that the form is divided into two parts: the "Personal Information" section and the "Lesson Details" section. The "Personal Information" section requires you to provide your name and contact details, while the "Lesson Details" section asks for information regarding the lesson type, number of students, and the number of lessons you'd like to attend.
-
-</thinking>
-
 # paddleboard_lesson_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information for registering for a paddleboard lesson.

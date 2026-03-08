@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication, ensure that the retirement counseling appointment request form is only completed once per individual. If you have already filled out this form, please do not submit another one. This form is intended for those who have not yet completed the process or need to schedule a new appointment.
-</thinking>
-
 # Retirement Counseling Appointment Request Form - Help Guide
 ## Purpose
 This form is used to request a retirement counseling appointment with our organization. Please fill out the form completely and accurately to ensure that we can provide the best possible service.

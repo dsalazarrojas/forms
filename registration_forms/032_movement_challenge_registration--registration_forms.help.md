@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for registering participants in a movement challenge. The purpose of this form is to collect relevant information about the participant, including their personal details and emergency contact information. This form is required for all participants and is used to create a comprehensive record of participant registration. To ensure accuracy and relevance, the fields provided in this form should match the actual details of the participant. It is essential to fill out each field carefully and truthfully to avoid any issues with the challenge.
-
-This form is intended for individual participants and emergency contacts. Please fill out the form completely and accurately, ensuring that all required fields are filled in. The information provided will be used for communication and in case of an emergency.
-</thinking>
-
 # Movement Challenge Registration - Help Guide
 ## Purpose
 This form is designed for registering participants in a movement challenge.

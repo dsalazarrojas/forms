@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplication, this form is intended for use by individuals who wish to become brand ambassadors for the company. This form collects information necessary for brand representation, including personal details (name, email, phone number), authorization scope and duration, responsibilities, and terms of agreement. The form is divided into five sections: -- Ambassador Information -- (name, email, phone), -- Authorization Details -- (scope and duration), -- Responsibilities and Obligations -- (primary responsibilities and content creation), -- Terms and Conditions -- (brand representation, IP, and compliance agreement), and -- Compensation and Logistics -- (compensation type and expense coverage). Please fill out all required fields and ensure you understand the terms and conditions before submitting.
-</thinking>
-
 # Brand Ambassador Authorization Form - Help Guide
 ## Purpose
 This form is used to collect information necessary for brand representation as an ambassador.

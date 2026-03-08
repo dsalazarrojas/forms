@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an organization's registration. It is designed to be completed by the organization's representative or owner. To ensure the form is completed correctly, please review the following information carefully. This form should not be completed by an unregistered organization, as it will not be processed.
-
-Before starting, please make sure you have all the necessary information ready. This form is divided into several sections, each with its own set of fields. The form requires the following fields to be filled out:
-
-* Organization name
-* Address
-* Contact person's name
-* Email address
-* Phone number
-* Background information (optional)
-* Number of employees
-* Date of creation
-* Date of last update
-
-Please note that the form is designed to be completed by the organization's representative or owner. If you are not the authorized representative, please do not complete this form.
-
-</thinking>
-
 # Organization Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about an organization's registration. It is intended for the organization's representative or owner to complete.

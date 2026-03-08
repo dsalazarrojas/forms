@@ -1,28 +1,3 @@
-<thinking>
-This form is intended to collect information from users for the diesel engine wiring course enrollment process. It's a required form to ensure all necessary details are provided for course enrollment. Each field is designed to gather specific information, and some fields have specific validation or options available to guide users through the process.
-
-Form validation checks for the following:
-- First name: required
-- Last name: not required
-- Email: required
-- Phone: required
-- Date of Birth: optional
-- Course Date: required
-- Course Type: required with options 'Yes' or 'No'
-- Program Length: optional
-- Enrollment Agreement: required
-- Course Location: required with options 'Yes' or 'No'
-- Program Start Date: optional
-- Program End Date: optional
-- Student Notes: optional
-- Instructor Notes: optional
-
-To avoid duplicate enrollment, the form will reject submissions if the user has already enrolled in the same course.
-
-This form is a critical step in the enrollment process and is intended for course participants to ensure they are properly registered and accounted for in the class.
-
-</thinking>
-
 # Diesel Engine Wiring Course Enrollment Form - Help Guide
 ## Purpose
 This form is used to enroll in the diesel engine wiring course. It is a required form to collect necessary information for course registration and to ensure duplicate enrollments are avoided.

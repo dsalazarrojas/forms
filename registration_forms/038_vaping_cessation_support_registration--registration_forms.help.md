@@ -1,16 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and completion of the "Vaping Cessation Support Registration" form. The form is designed to collect information from individuals seeking support for quitting vaping and provide them with tailored assistance. 
-
-To confirm, the form is for individuals who want to register for support to quit vaping. It is not intended for businesses, organizations, or other entities looking to collect data on a mass scale.
-
-This form is meant to be completed by one person at a time, and users are not expected to fill out the form multiple times. If you have already completed this form, please do not attempt to do so again.
-
-The form is divided into several fields, each designed to collect specific information about the user's identity, support preferences, and reasons for quitting. The form is designed to be completed in a straightforward and user-friendly manner.
-
-The following guide will walk you through each field of the form to ensure you understand its purpose and how to complete it correctly.
-
-</thinking>
-
 # Vaping Cessation Support Registration - Help Guide
 
 ## Purpose

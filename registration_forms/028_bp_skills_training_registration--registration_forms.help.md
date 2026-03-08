@@ -1,6 +1,3 @@
-<thinking> 
-Is the form purpose to register employees for training sessions and gather information about their preferences and needs? Are there any specific requirements for submitting this form, such as manager approval or certification? Are these requirements necessary to ensure that the form is filled out correctly?</thinking>
-
 # BP Skills Training Registration - Help Guide
 ## Purpose
 This form is designed to register employees for training sessions and collect information about their personal and training preferences. It is required that the form is filled out accurately and thoroughly, especially the manager approval status field.

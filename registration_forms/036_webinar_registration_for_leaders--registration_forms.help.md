@@ -1,7 +1,3 @@
-<thinking>
-This form is for users to register for a webinar titled "Webinar Registration For Leaders". It is required to be completed by all attendees to ensure that they have provided their consent to the terms and conditions, have a valid contact number, name, location, date, time, and email address. The form should not be filled out multiple times, and the purpose of this form is to gather essential information from each attendee.
-</thinking>
-
 # Webinar Registration For Leaders - Help Guide
 ## Purpose
 This guide is to help you complete the Webinar Registration For Leaders form with ease. 

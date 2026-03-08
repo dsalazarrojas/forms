@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for patrons to RSVP to an exclusive preview event, likely for a limited-time promotion or offer. The purpose of this form is to collect attendee details and their preferred action after viewing the event preview. The form is likely used by businesses or organizations to manage event attendance and send reminders to attendees. 
-The form consists of two pages with different sections for event details and attendee details. The form is not affiliated with any form platform, and its content is generated using public survey topic metadata. The form uses a CC BY 4.0 license, allowing users to use, modify, and even sell derived forms, as long as they give credit.
-The form's "Submit" field is a required select_one field with two options: "Submit and Send" and "Save for Later". This suggests that after viewing the event preview, attendees can choose to either directly submit their RSVP and receive confirmation or save their RSVP for later and potentially submit it when ready.
-</thinking>
-
 # Exclusive Preview Patron RSVP - Help Guide
 ## Purpose
 This form is designed for patrons to RSVP to an exclusive preview event, providing attendees with the opportunity to secure their spot after viewing the event preview.

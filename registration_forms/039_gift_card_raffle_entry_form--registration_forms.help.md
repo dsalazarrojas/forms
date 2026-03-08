@@ -1,14 +1,3 @@
-<thinking>
-To create a help guide for this form, we first need to understand the purpose of the form. This form is for submitting entries for a gift card raffle, which means users need to provide personal and contact information as well as details about the raffle they are participating in. We also need to check if the form is being filled out correctly to avoid duplication and ensure that the submitted entries are valid.
-
-This form is likely intended for a public or internal audience and is used to collect data for a specific purpose, probably for a gift card raffle draw or contest. We need to ensure that users understand what information is required and what each field is used for.
-
-The form appears to be quite straightforward, but some fields might be unclear without additional context. For example, the field "Time Of Birth" seems out of place, especially when there's a "Date Of Birth" field. I assume it's a typo or an error in the form design.
-
-To create a helpful guide, we'll need to break down each section of the form into clear and concise steps and explain the purpose of each field.
-
-</thinking>
-
 # Gift Card Raffle Entry Form - Help Guide
 
 ## Purpose

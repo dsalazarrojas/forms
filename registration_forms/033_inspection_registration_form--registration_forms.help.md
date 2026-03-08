@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Inspection Registration Form - Help Guide
 ## Purpose
 This form is used for registering clients' information for inspection purposes. It is essential to complete this form accurately and thoroughly to ensure that the client's details are correctly recorded and processed.

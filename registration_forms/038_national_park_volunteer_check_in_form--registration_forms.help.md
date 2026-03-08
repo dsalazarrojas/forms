@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used by volunteers who are checking in for their shifts at a national park. The form is meant to be completed by the volunteer before they start their shift. The purpose of this form is to collect information from volunteers, including their name, email, phone number, start and end times of their shift, and the name of the park they are volunteering at. This information will be used to communicate with the volunteer and ensure they are accounted for on site.
-</thinking>
-
 # National Park Volunteer Check In Form - Help Guide
 ## Purpose
 This form is used for volunteers to check in for their shifts at a national park.

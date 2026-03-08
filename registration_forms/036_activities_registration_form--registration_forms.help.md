@@ -1,13 +1,3 @@
-<thinking>
-
-The Activities Registration Form is used to gather information from parents or guardians to register their child for activities such as sports camps, art classes, music lessons, science workshops, drama clubs, and more. 
-
-When a parent or guardian submits this form, the child's details and activity preferences will be recorded for further processing and confirmation. 
-
-Please ensure that the form is filled out completely and accurately to ensure smooth processing and efficient communication.
-
-</thinking>
-
 # Activities Registration Form - Help Guide
 ## Purpose
 This form is designed for parents or guardians to register their child for activities such as sports camps, art classes, music lessons, and more. It collects essential information to ensure a smooth registration process and effective communication with the organizers.

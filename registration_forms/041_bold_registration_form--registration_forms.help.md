@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect registration information from teachers who are interested in teaching at an institution. The form is used to gather relevant details such as personal information, teaching experience, language proficiency, and teaching preferences. This form is likely to be used by the institution's administration to review and process the registration of new teachers.
-To prevent duplication, it's possible to implement a system that checks for existing registrations or unique identifiers for each teacher. This can be done using a database or a unique identifier that is generated upon submission.
-The following is the help guide for the "Bold Registration Form":
-</thinking>
-
 # Bold Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from teachers who are interested in teaching at our institution. Please provide accurate and complete information to ensure a smooth registration process.

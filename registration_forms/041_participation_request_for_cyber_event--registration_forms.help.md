@@ -1,8 +1,3 @@
-<thinking>
-This form is used for participants to submit their interest in participating in a cyber event. The form checks for internal relevance and non-duplication to prevent multiple entries from the same participant. This means that if a participant has already submitted a request for a different event, their information will not be recorded. This form is used for both participants and organizers of the event to ensure accurate and up-to-date information.
-
-</thinking>
-
 # Participation Request For Cyber Event - Help Guide
 ## Purpose
 This form is for participants to submit their interest in participating in a cyber event. It is used to gather information about the participant and the event they are interested in. The form is also used by event organizers to keep track of participants and event details.

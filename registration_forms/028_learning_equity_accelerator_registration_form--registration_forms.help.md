@@ -1,7 +1,3 @@
-<thinking>
-To avoid duplication and ensure relevance, this form should only be filled out once by users who have not previously registered. The form is intended for users seeking to register for the Learning Equity Accelerator program. It captures essential information from users to facilitate their registration process. Before starting, please note that some fields are required, denoted by a star (\*). Please fill out the form accurately and thoroughly.
-</thinking>
-
 # Learning Equity Accelerator Registration Form - Help Guide
 
 ## Purpose

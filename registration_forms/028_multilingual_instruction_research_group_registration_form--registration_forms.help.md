@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose, which is to register a Multilingual Instruction Research Group. The form should only be filled out by authorized individuals or groups, and not duplicated. If filled out by an unauthorized individual or group, the information will not be processed. This guide is intended for those who are authorized to register a research group.
-</thinking>
-
 # Multilingual Instruction Research Group Registration Form - Help Guide
 ## Purpose
 This form is used to register a Multilingual Instruction Research Group. It collects information about the research group, including its name, contact person, language, and goals. Fill out this form to ensure that your research group is registered and can participate in relevant activities and discussions.

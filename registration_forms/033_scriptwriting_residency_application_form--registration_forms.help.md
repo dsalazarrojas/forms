@@ -1,9 +1,3 @@
-<thinking>
-This scriptwriting residency application form is intended for individuals seeking a writing residency program. The form is used to gather necessary information from applicants, including their personal details, residency address, application type, and program name. The form is designed to be completed by writers and artists applying for a scriptwriting residency. Please ensure you are applying for a scriptwriting residency before completing this form. If you have already submitted an application for a scriptwriting residency, please do not submit this form again.
-
-To complete this form, please fill out the sections below.
-</thinking>
-
 # Scriptwriting Residency Application Form - Help Guide
 ## Purpose
 This form is for writers and artists applying for a scriptwriting residency. It collects your personal details, residency address, application type, and other relevant information needed for the residency program.

@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for users to register for the Women's Health Tech Forum, a meeting of professionals and stakeholders in the healthcare and technology industry. The form collects various information about the attendee, including name, contact details, session preferences, and demographic information. This form aims to gather data for registration purposes and to facilitate networking within the forum.
-
-The form is composed of several pages, each with its own set of fields. To avoid duplication, please make sure to fill in the form correctly and accurately.
-
-</thinking>
-
 # Women's Health Tech Forum Registration Form - Help Guide
 
 ## Purpose

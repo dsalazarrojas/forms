@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from potential yoga instructors applying to participate in our program. The form helps us assess their qualifications and determine their readiness to join our training program. 
-
-The form collects personal details such as name, email, and type of instructor, and also seeks information about their experience, training level, start and end dates of their last training, their teaching hours, and any other relevant certifications. This information will help us evaluate their suitability for our program.
-
-This guide will walk you through each section of the form to ensure you understand what we need from you.
-
-</thinking>
-
 # yoga_instructor_training_form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from you, the potential yoga instructor, to assess your qualifications for our training program.

@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to register participants for a fair supply exchange event. The form is intended for individuals who want to offer or seek supplies for the event. The purpose of this guide is to walk the user through the process of filling out the form, which is divided into several pages. 
-
-The form asks for basic contact information (name, event date, event time, phone number), participant information (name, role, organization, email, phone), and event details (event type, supply offered, needs met). 
-
-The form should only be filled out once, and users are encouraged to review the provided fields carefully before proceeding.
-
-</thinking>
-
 # Fair Supply Exchange Registration Form - Help Guide
 ## Purpose
 The Fair Supply Exchange Registration Form is designed for participants who want to offer or seek supplies for a fair supply exchange event. This guide will walk you through the form fields and help you complete it with ease.

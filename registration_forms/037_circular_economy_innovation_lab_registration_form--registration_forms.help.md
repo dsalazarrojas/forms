@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Circular Economy Innovation Lab Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for customers to register their interest in subscribing to a photography studio's services. The purpose of this form is to collect information necessary to facilitate the subscription process, including client details, subscription plans, and payment information. The form should only be filled out by customers who are genuinely interested in becoming subscribers, and not by users testing or trying out the form without a genuine intention to subscribe. To avoid duplicate entries, we recommend checking the "Subscription Status" field to ensure you're not already listed as a subscriber before filling out this form.
-</thinking>
-
 # Photography Studio Subscription Form - Help Guide
 ## Purpose
 The Photography Studio Subscription Form is designed to collect information from customers interested in subscribing to the studio's services. Please fill out this form to register your subscription and receive exclusive benefits.

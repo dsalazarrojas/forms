@@ -1,15 +1,3 @@
-<thinking>
-
-This form is a registration form for the Parent-Teacher Association (PTA) membership program. Its primary purpose is to collect information from parents and guardians about their children who are students in the school. The data collected will help the PTA to better understand the needs and demographics of the parent community and make informed decisions for future events and programs.
-
-The form is designed to be completed by parents and guardians to register their children for the PTA membership program. It is not intended for students to complete themselves, but rather for adults who are acting on behalf of their children. However, students will be able to register themselves if they are 18 years or older.
-
-The form is divided into two sections: parent information and student information. The parent information section collects data on the parent/guardian, such as their name, email, phone number, and address. The student information section collects data on the student, including their name, grade level, school, and birthdate.
-
-Before completing the form, please ensure you have the necessary information about the student you are registering. If you are unsure about any of the fields, please contact the PTA for assistance.
-
-</thinking>
-
 # Parent Teacher Association Membership Form - Help Guide
 ## Purpose
 This form is designed for parents and guardians to register their children for the Parent-Teacher Association membership program.

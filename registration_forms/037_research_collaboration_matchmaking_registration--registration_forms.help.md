@@ -1,7 +1,3 @@
-<thinking>
-This help guide is intended to assist end users in completing the "Research Collaboration Matchmaking Registration" form. The form is designed to help match researchers with potential collaborators based on their preferences and interests. It is expected that users will be able to provide accurate and complete information in the required fields to maximize the chances of successful matchmaking. Users should not submit the form multiple times with different information, as this can create confusion and reduce the form's effectiveness. Please fill out the form accurately and completely to get the best results.
-</thinking>
-
 # Research Collaboration Matchmaking Registration - Help Guide
 ## Purpose
 The "Research Collaboration Matchmaking Registration" form is a tool designed to help researchers find potential collaborators for their projects. By filling out this form, you can provide information about your research interests, preferences, and experiences, which will be used to match you with other researchers who share similar interests and goals.

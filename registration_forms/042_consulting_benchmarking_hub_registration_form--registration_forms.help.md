@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect registration information from organizations interested in participating in a Consulting Benchmarking Hub. The purpose of this form is to gather relevant details from the organization, which will be used to facilitate the benchmarking process. To prevent duplicate registrations, this form should not be filled out by the same organization multiple times. It's essential to ensure that each organization's information is accurate and up-to-date to avoid any confusion or miscommunication during the benchmarking process.
-
-</thinking>
-
 # Consulting Benchmarking Hub Registration Form - Help Guide
 ## Purpose
 The Consulting Benchmarking Hub Registration Form is a user-friendly form designed to collect essential information from organizations interested in participating in the benchmarking process. This form is intended to gather details about your organization, which will help facilitate a smooth and successful benchmarking experience.

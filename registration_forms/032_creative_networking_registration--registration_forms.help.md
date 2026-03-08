@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to capture basic details from individuals interested in creative networking. It is meant to be a simple and straightforward registration process. Ensure that the information provided is up-to-date and accurate.
-Before proceeding, please check if you've already submitted a registration form. If you've registered in the past, there's no need to fill out this form again.
-</thinking>
-
 # Creative Networking Registration - Help Guide
 ## Purpose
 The Creative Networking Registration form is designed to collect basic information from individuals interested in networking with our creative community. This form helps us gather essential details to facilitate meaningful connections and interactions within our network.

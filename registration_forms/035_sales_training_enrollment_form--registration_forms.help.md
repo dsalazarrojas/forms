@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Training Enrollment Form - Help Guide
 
 ## Purpose

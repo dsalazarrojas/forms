@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate submissions, please note that this form is intended for guests to register their accommodation preferences for a specific travel period. It is not meant for general inquiries or other purposes. The form's fields are designed to gather essential information to provide a budget-friendly accommodation solution. This guide will walk you through each field to help you understand what is required and what is optional.
-</thinking>
-
 # Budget Friendly Accommodation Form - Help Guide
 ## Purpose
 This form is designed to help us provide a budget-friendly accommodation solution for your travel needs.

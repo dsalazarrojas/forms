@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register an individual or organization for a specific certification program in the lash industry. The form collects relevant information about the applicant, including their user information, application type, training history, and enrollment status. This guide will walk through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-</thinking>
-
 # Lash Industry Certification Registration Form - Help Guide
 ## Purpose
 The Lash Industry Certification Registration Form is used to register an individual or organization for a certification program in the lash industry. This form helps to gather necessary information for the certification process, ensuring that applicants have a smooth and efficient experience.

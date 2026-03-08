@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to register a patient with the clinic. It is designed to collect demographic information, contact details, and insurance information. Please note that some fields are marked as "required" and must be completed before submitting the form. 
 
 </thinking>

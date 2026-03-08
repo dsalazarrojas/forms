@@ -1,7 +1,3 @@
-<thinking>
-This help guide will cover the purpose, completion instructions, and field-by-field explanations for the "health-care-workforce-inclusion-forum-registration" form.
-</thinking>
-
 # health-care-workforce-inclusion-forum-registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals who want to join the healthcare workforce inclusion forum. The purpose of this form is to ensure that all registered members have a consistent and accurate representation of their information for the forum's internal management and communication.

@@ -1,5 +1,3 @@
-<thinking>Before designing the help guide, let's break down the form's purpose and ensure it's relevant and not duplicated. The form's purpose is to collect information from employees for a well-being strategy forum, which suggests it's likely a part of an employee engagement or HR process. This form is likely used to collect demographic data (first name, last name, email, phone) and information about the employee's well-being concerns, interests, and preferences. It's also possible that this form is used to assign tools or resources to employees based on their input. The form has multiple fields that seem to be duplicates or have similar purposes, which might be a result of iterative design or updates. To minimize duplication, we can group similar fields together in the help guide and emphasize their distinct uses.</thinking>
-
 # Employee Wellbeing Strategy Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from employees for a well-being strategy forum. It aims to gather demographic data, well-being concerns, and interests to provide personalized support and resources.

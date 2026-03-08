@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to gather information from participants in the Pandemic Resilience Learning Network. This form is likely used for registration and contact information collection. Before filling out the form, please ensure that you are not duplicating existing information. 
-
-</thinking>
-
 # Pandemic Resilience Learning Network Registration Form - Help Guide
 ## Purpose
 This form is used to collect registration and contact information from participants in the Pandemic Resilience Learning Network.

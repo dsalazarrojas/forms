@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used for its intended purpose, which is to collect information about community groups for registration. Before proceeding, please review the fields and ensure you're filling out the form as a legitimate representative of your group. If you're unsure or have questions, please contact us for support.
-</thinking>
-
 # Community Group Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about community groups for registration purposes. Please provide accurate and relevant details about your group.

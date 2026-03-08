@@ -1,16 +1,3 @@
-<thinking>
-To determine the form's purpose and ensure non-duplication, let's examine the form's YAML schema.
-
-The form's title, "Retail AR Experience Testing Registration", suggests that it's designed for participants to register for testing sessions related to augmented reality (AR) experiences in retail settings. This form is likely used by retailers, researchers, or other relevant parties to sign up for testing sessions, provide their information, and consent to participate.
-
-Upon reviewing the schema, we see that it's composed of 10 fields, which can be grouped into several categories:
-
-*   Information about the participant's experience and willingness to participate (Fields 2, 4, 5, 7, 9)
-*   Personal and contact information (Fields 6, 8, 10)
-
-We'll create a user-facing help guide based on this analysis.
-</thinking>
-
 # Retail AR Experience Testing Registration - Help Guide
 ## Purpose
 The Retail AR Experience Testing Registration form is designed for participants to register for testing sessions related to augmented reality experiences in retail settings. This form gathers information about the participant's experience and willingness to participate, as well as their personal details.

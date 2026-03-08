@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to facilitate the registration process for multiple locations within a fitness chain. The form's purpose is to collect relevant information from users who wish to join or become members of the fitness chain. The form is divided into several sections, and each section is designed to collect specific information from the user. 
-
-The form does not duplicate any proprietary content from other form platforms and is an original adaptation created using public survey topic metadata as inspiration. The form's design and content are released under the Creative Commons Attribution 4.0 (CC BY 4.0) license, allowing for modification, use, and even commercialization with proper credit.
-
-This guide will walk you through the form's purpose, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Fitness Chain Multi Location Membership Form - Help Guide
 ## Purpose
 This form is designed to collect membership information from users who wish to join or become members of the fitness chain at multiple locations. 

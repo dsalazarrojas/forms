@@ -1,9 +1,3 @@
-<thinking>
-Please note that the form purpose is to collect information from users about their skincare experiences and preferences in order to better understand their needs. This form is designed to collect demographic information, skincare preferences, and product testing data. The form will help us understand how often users use skincare products and what products they are interested in testing. It will also help us identify common skin concerns among users and how they relate to different skin types.
-
-Before proceeding, please ensure that you are not duplicating your response. If you have already registered, please do not fill out this form again. Please be as accurate as possible when filling out the form, as your input will help us create a better experience for our users.
-
-</thinking>
 # Skincare Product Testing Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about their skincare experiences and preferences in order to better understand their needs.

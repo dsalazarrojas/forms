@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in leadership training programs. The form's purpose is to gather relevant details about the participant, including their contact information, role in the organization, training needs, and preferences. The form is meant to be completed by the participant themselves, and the information collected will be used to tailor the training program to their specific needs.
-
-Before proceeding, please ensure you have not already completed this form. If you have any doubts or concerns, you can contact the form administrators for clarification or assistance.
-
-The form is divided into two pages. Page 1 collects basic participant information, and Page 2 collects more specific details about the training program.
-</thinking>
-
 # Leadership-Training-Intake-Form - Help Guide
 ## Purpose
 The leadership-training-intake-form is used to collect participant information for leadership training programs. It is essential that you provide accurate and complete information to ensure that your training program is tailored to your needs.

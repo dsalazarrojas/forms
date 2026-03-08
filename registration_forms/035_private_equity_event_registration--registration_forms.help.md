@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals and companies registering for a private equity event. The form will help the event organizers to keep track of attendees' details and preferences.
-The form is part of the "Registration Forms" category, which means it's one of the forms used for registration purposes. Please ensure you are using the correct category before proceeding.
-Before completing this form, double-check that you are not already registered for this event. If you are unsure, you can check the event's registration status or contact the event organizers.
-</thinking>
-
 # Private Equity Event Registration - Help Guide
 ## Purpose
 The Private Equity Event Registration form is designed to collect information from individuals and companies interested in attending a private equity event. The form helps the event organizers to keep track of attendees' details, such as their name, company, job title, and contact information.

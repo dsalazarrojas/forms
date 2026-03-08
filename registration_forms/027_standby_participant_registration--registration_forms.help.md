@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended for end users who are registering for a standby participant position. The form is used to collect information from individuals or organizations who are interested in being part of a standby participant pool. It is designed to gather essential details for communication and coordination purposes. The form should not be used for other purposes, such as registration for events or programs.
-
-Before proceeding, please ensure you are not duplicating an existing registration. If you have already registered for a standby participant position with this organization, you should not register again.
-
-Please fill out the form carefully and accurately, as this information will be used to contact you and coordinate with you during the event.
-</thinking>
-
 # Standby Participant Registration - Help Guide
 ## Purpose
 The Standby Participant Registration form is used to collect information from individuals or organizations interested in being part of a standby participant pool. This form helps us gather essential details for communication and coordination purposes.

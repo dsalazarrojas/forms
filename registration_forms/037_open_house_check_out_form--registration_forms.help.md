@@ -1,6 +1,3 @@
-<thinking> 
-The Open House Check Out Form is designed to collect data on visitors and leads generated from open house events. This form helps track the performance of real estate agents and the effectiveness of open house events. It captures essential details such as visitor feedback, contact information, event date and time, and lead status, making it easier to analyze and improve future events.</thinking>
-
 # Open House Check Out Form - Help Guide
 
 ## Purpose

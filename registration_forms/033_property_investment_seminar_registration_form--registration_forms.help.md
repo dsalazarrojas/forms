@@ -1,7 +1,3 @@
-<thinking>
-This form is for registration to a Property Investment Seminar. The purpose of the form is to collect information from participants, such as their name, email, company, job title, seminar date, and seminar time. This guide will walk you through each field and help you complete the form accurately. Please ensure you're filling out the form correctly by following this guide to avoid any errors.
-</thinking>
-
 # Property Investment Seminar Registration Form - Help Guide
 ## Purpose
 This form is for registration to a Property Investment Seminar. It's designed to collect relevant information from participants to ensure an accurate headcount and to tailor the seminar content based on participant needs.

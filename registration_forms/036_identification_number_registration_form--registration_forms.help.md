@@ -1,12 +1,3 @@
-<thinking>
-To determine the purpose of this form, I will review the inputSchema and available information.
-The form appears to be for registering an identification number, which is a common requirement in various industries, such as security, government, or medical fields. 
-The form has three fields: "identification number", "expiration date", and "expiration time". 
-These fields are likely used to register a specific type of identification number, such as a badge, card, or certificate, and its expiration date and time. 
-The form does not explicitly state if it is for personal or business registration, but based on the fields, it seems to be for personal identification number registration. 
-There might be a scenario where this form is part of a more extensive process, such as employee or patient registration, but based on the form's fields, it seems to be a simple registration form. 
-</thinking>
-
 # Identification Number Registration Form - Help Guide
 
 ## Purpose

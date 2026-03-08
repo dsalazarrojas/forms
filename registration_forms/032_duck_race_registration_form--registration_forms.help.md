@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to participate in or observe the duck race. It captures the participant's personal details, contact information, and payment preferences. The form is intended for both participants who will be actively participating in the race (Duck Rider) and spectators who will be observing the event (Spectator). It's also open to volunteers who want to contribute to the event. This guide will help users understand the required fields and provide tips for a successful submission.
-</thinking>
-
 # Duck Race Registration Form - Help Guide
 ## Purpose
 The Duck Race Registration Form is a tool for participants to register for the duck race event. This form will collect your personal and contact details, as well as your payment preferences, to ensure a smooth and enjoyable experience for all participants.

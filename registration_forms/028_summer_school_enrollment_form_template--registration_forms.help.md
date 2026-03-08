@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to facilitate the registration process for summer school enrollment. It's intended for parents or guardians to provide necessary information about their child's enrollment in a summer school program. The form is divided into several sections, including fields for parent information, student details, course selection, and scheduling. 
-
-The goal is to ensure that parents/guardians provide accurate and complete information to complete the registration process. The form will be used internally to process and verify the information provided.
-
-When filling out this form, please ensure that you provide accurate and truthful information. If you're unsure about any of the fields, please contact the relevant authorities or contact information provided on this form.
-
-</thinking>
-
 # Summer School Enrollment Form Template - Help Guide
 ## Purpose
 This form is designed to help parents or guardians register their child for a summer school program. It collects necessary information for processing and verification purposes.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to gather information from potential applicants for a choir audition. The form asks for personal details, singing experience, and availability for rehearsals and performances. It's meant to assess the applicant's suitability for joining the choir and provide a structured process for auditioning. 
-
-Before filling out this form, please make sure you have not submitted a previous application, as duplicate applications will not be accepted. 
-
-Note: Please fill out the form accurately and thoroughly. Incomplete or false information may affect the outcome of your application. 
-
-</thinking>
-
 # Choir Audition Form - Help Guide
 ## Purpose
 This form is designed to collect information from potential applicants for a choir audition.

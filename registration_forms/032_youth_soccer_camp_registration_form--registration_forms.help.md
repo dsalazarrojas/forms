@@ -1,9 +1,3 @@
-<thinking>
-This form is used for registering athletes in a youth soccer camp. It is intended for parents or guardians to provide information about their child's participation in the camp, including their name, contact information, medical conditions, and other relevant details. 
-The form is divided into several sections, each containing different fields that require specific information. 
-Before proceeding, please note that this form is required for registration in the youth soccer camp. Please ensure that you have the necessary permissions and information before filling it out. 
-</thinking>
-
 # Youth Soccer Camp Registration Form - Help Guide
 ## Purpose
 This form is for registering your child in the youth soccer camp. It's essential to fill it out accurately and completely to ensure we have all the necessary information to provide a safe and enjoyable experience for your child.

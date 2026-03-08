@@ -1,7 +1,3 @@
-<thinking>
-This form is for vendors to RSVP to a Vendor Appreciation Party. The form is designed to collect information about the vendors' attendance, including their name, email, phone number, RSVP status, and any special requests or dietary restrictions they may have. The form is required to be completed by all vendors who want to attend the party. Each field is designed to be straightforward and easy to understand, with clear labels and explanations.
-</thinking>
-
 # Vendor Appreciation Party RSVP Form - Help Guide
 ## Purpose
 The Vendor Appreciation Party RSVP Form is used to collect information from vendors who want to attend the party. This information will help us plan the party and ensure that everyone has a great time.

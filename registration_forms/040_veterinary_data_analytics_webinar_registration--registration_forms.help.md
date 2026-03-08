@@ -1,19 +1,3 @@
-<thinking>
-The internal reasoning behind this form is as follows:
-
-This form is designed to collect registration information for a webinar on veterinary data analytics. The form has seven fields, each with a specific purpose:
-
-1.  Registration Form: This is the main entry page for the webinar registration.
-2.  Contact Information: This field is for collecting the contact details of the registrant.
-3.  Consent: This field is not clearly defined in the YAML, so we'll assume it's for collecting consent from the registrant.
-4.  Roles: This field is a multiple-select field with four options: Veterinarian, Researcher, Student, and Other. This field is likely to determine the registrant's role or affiliation with the webinar topic.
-5.  Goals: This field is for collecting any additional goals or objectives the registrant has for attending the webinar.
-6.  Other Role: This field is a text field for the registrant to provide more specific information about their role if it's not one of the four listed options.
-7.  Email: This is a field for collecting the registrant's email address.
-8.  Phone: This field is for collecting the registrant's phone number.
-
-</thinking>
-
 # veterinary_data_analytics_webinar_registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from potential attendees of a webinar on veterinary data analytics.

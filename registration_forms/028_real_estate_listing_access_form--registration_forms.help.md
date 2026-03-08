@@ -1,7 +1,3 @@
-<thinking>...
-This form is intended to collect information about real estate listings, allowing users to provide property details, buyer information, property type, property status, and listing agent. The form is not required, and users can complete it at their discretion. To avoid duplication, we'll check if a listing already exists before allowing users to proceed. This form is designed to be completed by authorized users who need to access or view real estate listings. Please ensure you have the necessary permissions and access rights before completing this form.
-</thinking>
-
 # real_estate_listing_access_form - Help Guide
 ## Purpose
 This form is used to collect information about real estate listings, enabling users to provide property details, buyer information, and other relevant data.

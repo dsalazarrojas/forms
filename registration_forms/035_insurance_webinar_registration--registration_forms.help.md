@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is a registration form for an insurance webinar. It is primarily used to collect attendee information, including name, email, phone number, insurance company, job title, location, date of birth, and time of event. The form is designed to be completed by individuals attending the webinar to provide their personal details. Before starting, please ensure you have the correct permissions to register and that you are not already registered for this event.
 
 # Insurance Webinar Registration - Help Guide

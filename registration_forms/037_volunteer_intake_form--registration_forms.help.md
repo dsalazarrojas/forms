@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from potential volunteers to help us better understand their availability, skills, and preferences. This form is designed to be completed by individuals who are interested in volunteering with our organization. By filling out this form, you will be helping us to match you with suitable volunteer opportunities that fit your needs and interests.
-
-This form should only be completed by individuals who are interested in volunteering. If you are already a registered volunteer, please do not fill out this form again. If you have any questions or concerns, please contact us at [contact email/phone number].
-
-</thinking>
-
 # Volunteer Intake Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from potential volunteers to help us better understand their availability, skills, and preferences.

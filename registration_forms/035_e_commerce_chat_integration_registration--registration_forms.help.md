@@ -1,17 +1,3 @@
-<thinking>... (Internal reasoning block for form designer and technical writer)
-... thinking>
-
-This form is designed to help business owners and e-commerce platform users register their businesses for integration with a chat feature. The form collects information about the business and its platform preferences for integration. The form has four fields in total, each with a specific purpose:
-
-1.  **business_details**: This field is meant to gather general information about the business, such as its name and description.
-2.  **platform_info**: This field is for collecting information about the e-commerce platform the business is using, such as its name and version.
-3.  **chat_feature_preferences**: This field is for listing the specific chat features the business would like to integrate with its platform.
-4.  **business_info**: This field is for providing more detailed information about the business, such as its website and contact email.
-
-Given the form's purpose and fields, users will find this guide helpful in understanding what each field is used for and how to fill it out correctly.
-
-</thinking>
-
 # E Commerce Chat Integration Registration - Help Guide
 
 ## Purpose

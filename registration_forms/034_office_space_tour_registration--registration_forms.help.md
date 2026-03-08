@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to collect information from end-users for an Office Space Tour. This form will likely be used to manage tour requests, schedule and follow up with users, and possibly store notes related to each tour. To avoid duplication of effort and ensure consistency, we should confirm that this form is being used correctly and in a way that makes sense for the organization's processes.
-</thinking>
 # Office Space Tour Registration - Help Guide
 ## Purpose
 The Office Space Tour Registration form is used to collect information for an Office Space Tour.

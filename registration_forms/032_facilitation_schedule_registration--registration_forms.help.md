@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to collect information for facilitation schedules. This form is used to gather details about workshops, participants, and facilitators. It is likely used for organizing and planning facilitation events. Before proceeding, ensure that you have a clear understanding of what information you need to provide and that you have not completed this form in the past. Please review the following steps to ensure you have the correct information before filling out the form. Please note that the required fields are marked as "required" but some fields are not marked as required, which implies that they are optional. Please fill out only the necessary fields to avoid confusion or data loss. If you need to fill out this form for a workshop that already exists, please make sure to update your previous submission instead of creating a new one. Thank you for your understanding and cooperation!...</thinking>
-
 # Facilitation Schedule Registration - Help Guide
 ## Purpose
 This form is used to collect information for facilitation schedules, including workshop details, participant information, facilitator information, and participant schedule.

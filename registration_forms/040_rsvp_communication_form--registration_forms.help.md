@@ -1,14 +1,3 @@
-<thinking> 
-This is a form for RSVP (Responding to a Social Invitation to Participate) purposes, used to gather information about attendees' status and details for an event. It is likely used for events like conferences, meetups, or parties. The form might be used by event organizers to collect RSVPs from attendees, track their attendance status, and gather additional information such as email addresses or phone numbers.
-
-Before completing this form, ensure that you have the necessary information and permissions to provide it. If you are unsure about any field, please ask the event organizer for clarification.
-
-Please note that some fields may be marked as "required", indicating that they need to be filled in order to submit the form successfully. If you are unable to provide a required field, please contact the event organizer for assistance.
-
-After ensuring the form's purpose and any necessary clarifications, we can proceed with the explanation.
-
-</thinking>
-
 # RSVP Communication Form - Help Guide
 ## Purpose
 The RSVP Communication Form is used to respond to event invitations and provide information about your attendance status.

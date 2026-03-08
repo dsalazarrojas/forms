@@ -1,7 +1,3 @@
-<thinking>
-The Student Check Out Form is designed to gather student-related information for the purpose of managing student check-outs. This form is meant to be used by authorized personnel to verify student identity and details at the time of check-out. It's not meant for general public access. To avoid duplication, please ensure that a student's information is not already registered before using this form. The purpose of this form is to maintain accurate and up-to-date records of students who have checked out items from our facilities.
-</thinking>
-
 # Student Check Out Form - Help Guide
 ## Purpose
 The Student Check Out Form is used by authorized personnel to verify student identity and details at the time of check-out.

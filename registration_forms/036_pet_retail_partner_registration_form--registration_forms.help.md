@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from pet-related retail partners for the purpose of creating a database of partners for the pet industry. This form is not intended to be used for any other purpose. Before filling out this form, please ensure that you have not already registered with us. This will save you time and ensure that your information is up-to-date.
-</thinking>
-
 # Pet Retail Partner Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from pet-related retail partners for the purpose of creating a database of partners for the pet industry.

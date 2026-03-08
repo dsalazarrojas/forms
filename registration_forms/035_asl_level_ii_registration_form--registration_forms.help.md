@@ -1,26 +1,3 @@
-<thinking>
-We have a registration form that collects information from students for an ASL Level II course. This form aims to gather essential details that will help the course administrators understand the students' needs and preferences.
-
-To prevent data duplication, we will check if the form has already been submitted by the same student before creating a new record.
-
-Before proceeding, please note that the completion of this form is required for course registration. All fields marked as "required" are mandatory and must be filled in for the form to be valid.
-
-The form collects the following information:
-
-* Full name and contact information
-* Previous ASL experience and completion of the previous course level
-* Preferred course start date
-* Class schedule preferences
-* Course format preferences
-* Accommodation needs
-* Payment method
-* Emergency contact information
-* Agreement to purchase course materials
-* Attendance commitment
-
-Please ensure that all required fields are filled accurately and truthfully. This information will be used to provide a personalized and effective learning experience for you.
-</thinking>
-
 # ASL Level II Registration Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from students registering for the ASL Level II course. Please fill in the form accurately and truthfully to ensure a smooth and effective learning experience.

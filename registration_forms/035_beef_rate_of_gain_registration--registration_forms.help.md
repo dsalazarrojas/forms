@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Beef Rate Of Gain Registration" form, ensuring that end-users understand its purpose, how to complete it, and each field's relevance.</thinking>
-
 # Beef Rate Of Gain Registration - Help Guide
 ## Purpose
 The "Beef Rate Of Gain Registration" form is used to record and report the weight gain of beef animals. This form is essential for tracking and maintaining accurate records of animal weight, feed, and management practices. By providing accurate information, this form helps ensure the quality and integrity of beef production.

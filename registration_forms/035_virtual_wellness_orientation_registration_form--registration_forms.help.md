@@ -1,15 +1,3 @@
-<thinking>
-This form is intended to gather information from users who are interested in attending a virtual wellness event. The purpose of this form is to collect participant information, event details, and team member information to facilitate a smooth and organized event experience. This form should be completed by users who are interested in attending, presenting, or leading a session at the event.
-
-To determine if the form is being used for a purpose not intended by the form creators, you should consider the following:
-
-* Is the user providing accurate information about their role in the event (attendee, presenter, or organizer)?
-* Does the user select the correct event type (wellness event, workshop, seminar, or conference)?
-* Does the user provide accurate contact information, such as a valid email or phone number?
-
-This form is not intended to be a duplicate for the same user to fill out multiple times. If you have already submitted this form, you should not submit it again.
-</thinking>
-
 # Virtual Wellness Orientation Registration Form - Help Guide
 
 ## Purpose

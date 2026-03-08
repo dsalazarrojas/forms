@@ -1,13 +1,3 @@
-<thinking>
-
-This form is for exhibitor registration. It is designed for vendors and exhibitors who want to participate in the exhibition. The purpose of this form is to collect information about the vendor or exhibitor, including their contact details, payment method, and other relevant information.
-
-To avoid duplication, please ensure that you only fill out this form once per exhibitor. 
-
-The form has multiple fields that require different types of information. Here is a detailed explanation of each field and how to complete it:
-
-</thinking>
-
 # exhibitor_registration_form - Help Guide
 ## Purpose
 The exhibitor registration form is for vendors and exhibitors who want to participate in the exhibition. It collects information about the vendor or exhibitor, including their contact details, payment method, and other relevant information.

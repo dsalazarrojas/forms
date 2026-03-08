@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from customers for a customized yoga mat order. This form will help us understand their preferences for mat length, width, color, and design, as well as their preferred payment method. We will use this information to create a unique, custom-made yoga mat tailored to their needs.
-
-To prevent duplication, we will only process one order per customer.
-
-</thinking>
-
 # Yoga Mat Customization Order Form - Help Guide
 ## Purpose
 The Yoga Mat Customization Order Form is designed to collect information from customers for a custom-made yoga mat. This form is used to gather details about their preferred mat length, width, color, and design to create a unique mat tailored to their needs.

@@ -1,5 +1,3 @@
-<thinking>As the form designer and technical writer for this form, I will first analyze the provided YAML and identify its purpose and relevance. The form is for registering athletes for a Cheer Tryout, and it appears to collect information about the athlete's personal data, cheer skills, experience, and medical release and authorization. This form is likely used for evaluating and selecting athletes for a Cheer team, and it's essential to make it easy to understand for end-users. Before proceeding, let's confirm that the form is correctly formatted and complete, and that all fields are relevant to the Cheer Tryout process.</thinking>
-
 # Cheer Tryout Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from athletes who are interested in trying out for a Cheer team. This form will help us understand the athlete's personal data, cheer skills, experience, and medical status, which will be used in the evaluation and selection process.

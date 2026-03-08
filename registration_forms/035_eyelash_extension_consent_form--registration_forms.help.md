@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used for patients to provide informed consent for eyelash extension procedures. It is an essential part of the pre-procedure process to ensure that patients understand the benefits, risks, and requirements of the treatment. It is crucial to collect patient contact information and other relevant details to facilitate communication and follow-up. This form is typically completed by patients before undergoing the procedure.
-
-</thinking>
-
 # Eyelash Extension Consent Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect data for course registration, specifically for NISE (Nebraska Initiative for Student Ecosystem) courses. Each field is essential for understanding the status and details of a course. However, to ensure that the form is filled out correctly, please make sure to check that you are filling out the correct form and that you are not duplicating your submission. Duplicating submissions can lead to errors in the database and may cause confusion for the program coordinators.
-</thinking>
-
 # nise_stim_course_registration - Help Guide
 ## Purpose
 

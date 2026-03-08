@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for students who are seeking admission to a school or educational institution. It is designed to collect necessary information from both the student and their guardian, including personal details, educational background, employment status, income sources, family details, and additional information. This form is crucial for the school to assess the eligibility and suitability of the student for admission.
-
-The form is split into sections, each representing a different aspect of the student and guardian's information. The student information section covers personal details such as student address, student phone, student email, and student digital signature. The guardian information section includes contact details like guardian address, guardian phone, and guardian email. The student employment section includes employment status and income source for both the student and guardian. There are also fields for student and guardian additional details.
-</thinking>
-
 # School Admission Intake Form - Help Guide
 
 ## Purpose

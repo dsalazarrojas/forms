@@ -1,7 +1,3 @@
-<thinking>
-This form will help individuals register for the Vape Support Network, a service that provides support for people affected by vaping. The form will be used to gather information from potential participants, including their name, email, phone number, support needs, group participation, location, and consent for contact. It's crucial that this form is completed accurately and honestly, as the information gathered will be used to tailor support services to individual needs. To ensure that the form is completed correctly, please review the fields carefully and provide as much detail as possible. Please note that some fields are optional, but all required fields must be completed before submitting the form.
-</thinking>
-
 # Vape Support Network Registration - Help Guide
 ## Purpose
 This form is used to register for the Vape Support Network, a service that provides support for people affected by vaping.

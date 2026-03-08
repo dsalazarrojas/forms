@@ -1,22 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from potential members of the Counselors Guild. This form will be used to gather essential details such as name, contact information, role, and membership preferences. The form should not be used for internal purposes only and should be accessible to the public. To avoid duplication, ensure that the user has not already been registered before submitting the form.
-
-The form is divided into several sections:
-
-- First Name: A text input field for the user to enter their first name.
-- Last Name: A text input field for the user to enter their last name.
-- Email: An email input field for the user to enter their email address.
-- Organization: A text input field for the user to enter their organization name.
-- Role: A select input field with options 'Yes' and 'No' to determine if the user has a specific role.
-- Contact Number: A text input field for the user to enter their contact number.
-- Membership Type: A select multiple input field with options 'Yes' and 'No' to determine the type of membership the user has.
-- Payment Method: A select input field with options 'Yes' and 'No' to determine if the user will be paying for membership.
-- Other Payment Method: A text input field for the user to enter any other payment methods.
-- Payment Date: A date input field for the user to select the payment date.
-
-This form should be completed for anyone who wishes to join the Counselors Guild as a member. Please ensure to enter accurate and up-to-date information.
-</thinking>
-
 # Counselors Guild Membership Form - Help Guide
 ## Purpose
 The Counselors Guild Membership Form is used to collect registration information from potential members. This form is intended to be filled out by individuals who wish to join the Counselors Guild as a member.

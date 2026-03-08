@@ -1,8 +1,3 @@
-<thinking>
-I will now create the help guide for the Camp Participant Registration Form.
-This form is designed to collect registration information from campers and their guardians. The form is split into multiple pages to ensure that the camper and guardian information, as well as session preferences and payment plans, are accurately collected. Please review the form carefully to ensure you provide all required information.
-</thinking>
-
 # Camp Participant Registration Form - Help Guide
 
 ## Purpose

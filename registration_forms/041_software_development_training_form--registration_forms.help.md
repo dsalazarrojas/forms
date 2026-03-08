@@ -1,8 +1,3 @@
-<thinking>
-This form is a general-purpose registration form for software development training programs, designed to gather information from employees to register for a training program. Before completing this form, please ensure you have not already registered for the training program, as duplicate registrations can cause confusion and may lead to incorrect resource allocation. If you are unsure about the form's purpose or have already submitted a registration, please contact the program administrators for assistance.
-
-</thinking>
-
 # Software Development Training Form - Help Guide
 ## Purpose
 The Software Development Training Form is used to register for the software development training program. This form helps the training team to collect necessary information from employees to provide accurate resource allocation and ensure a smooth training experience.

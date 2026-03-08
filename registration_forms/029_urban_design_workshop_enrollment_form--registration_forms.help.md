@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for registration and enrollment in an Urban Design Workshop. It is designed to collect basic information from workshop attendees. Before completing this form, please ensure that you have not already submitted a registration for this workshop, as duplicate submissions may result in confusion and errors. Please ensure that your registration information is accurate and up-to-date.
-</thinking>
-
 # Urban Design Workshop Enrollment Form - Help Guide
 ## Purpose
 The Urban Design Workshop Enrollment Form is used to register and enroll attendees in an Urban Design Workshop. This form collects information necessary to facilitate workshop logistics and communication.

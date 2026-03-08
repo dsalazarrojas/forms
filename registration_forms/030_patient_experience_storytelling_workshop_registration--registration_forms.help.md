@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is being used correctly and not duplicated by accident. This form is intended to register patients for a workshop on storytelling and experience sharing. It's a one-time form for patients to provide their information and preferences for the workshop.
-</thinking>
-
 # Patient Experience Storytelling Workshop Registration - Help Guide
 
 ## Purpose

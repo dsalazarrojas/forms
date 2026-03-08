@@ -1,10 +1,3 @@
-<thinking>
-This guide will help you understand the purpose and usage of the "Worker Equipment Familiarization Registration Form", and provide step-by-step instructions on completing it. 
-The form is for registering and recording the familiarity of workers with equipment in a specific facility. It is designed to collect information about the workers' experience with the equipment they use. 
-Before filling out the form, ensure that you are not submitting duplicate records for the same worker and equipment. 
-
-</thinking>
-
 # Worker Equipment Familiarization Registration Form - Help Guide
 ## Purpose
 The "Worker Equipment Familiarization Registration Form" is used to register and record the familiarity of workers with equipment in a specific facility. This form helps to track the worker's experience and certification status for equipment usage.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for reserving a team building activity, allowing users to input details about the activity they would like to reserve, including the activity itself, dates and times, participants, and contact information for the organizer. It's intended for internal use within the company or organization, and should not be completed if you're not affiliated with the team.
-</thinking>
-
 # team_building_activity_reservation_form - Help Guide
 ## Purpose
 This form is designed to collect information for team building activities reservations. Please fill out the form with the required information to reserve a team building activity.

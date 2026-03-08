@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended to support end-users in understanding and using the "Youth Sports Kit Number Form" effectively. This form is designed to collect relevant information about a youth athlete's sports kit, which may include details about the kit's number, size, location, and status. It is likely used for inventory management within a sports organization or club.
-
-To ensure that users have the most up-to-date information, it is suggested that this form should only be used to update the kit number for an existing athlete. If the kit number is not already associated with an athlete, please use the "New Athlete Kit Number Form" instead.
-
-To prevent potential errors, please make sure to review the form before submitting it for any missing information or inaccuracies.
-</thinking>
-
 # Youth Sports Kit Number Form - Help Guide
 ## Purpose
 The Youth Sports Kit Number Form is designed to collect and update information about a youth athlete's sports kit. Please use this form to provide accurate and up-to-date details about an athlete's kit number.

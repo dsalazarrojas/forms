@@ -1,7 +1,3 @@
-<thinking>
-Please note that I'll be creating a user-facing help guide based on the provided YAML fields. I'll use the form's metadata to inform my explanations, but I'll also try to keep the tone concrete, concise, and practical.
-</thinking>
-
 # Healthcare Data Security Bootcamp Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are interested in attending a Healthcare Data Security Bootcamp. The form gathers attendee details, payment information, preferences, and consent for the event. Completing this form will enable you to register for the bootcamp and receive the necessary information about the event.

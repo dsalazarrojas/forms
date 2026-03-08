@@ -1,6 +1,3 @@
-<thinking>
-To create a user-facing help guide for this "Team Manager Meeting Registration Form", we first need to identify the form's purpose, which is to collect information from team members for team manager meetings. This form likely serves as a central location for team members to submit their attendance and preferences for these meetings. Before filling out this form, team members should ensure that they only submit one registration per meeting. If a team member has already registered for this meeting, please refrain from submitting another registration, to prevent duplicate entries.</thinking>
-
 # Team Manager Meeting Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from team members for team manager meetings. It helps team members to express their interest in attending and provide their preferences for the meeting.

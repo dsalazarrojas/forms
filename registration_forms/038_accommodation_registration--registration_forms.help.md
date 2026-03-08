@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Accommodation Registration form, we must first consider the form's purpose. The form appears to be designed for registering guests for an event or accommodation, gathering essential information for their stay. This includes personal details, accommodation preferences, and travel information. The form likely aims to ensure accurate and complete registration data for efficient and comfortable accommodation services.
-
-Before proceeding, we must validate that the form's purpose and structure are consistent with the provided YAML schema. The schema seems to cover all necessary aspects for registration, including personal details, accommodation preferences, and travel information. There are fields for full name, email, phone number, event name, check-in and check-out dates, accommodation type, smoking preference, accessibility requirements, meal plan selection, special dietary requirements, arrival and departure transportation, arrival and departure times, emergency contact information, and additional requests.
-
-We must be mindful of the required and optional fields, as well as field types. Most fields are required, indicating their importance. For example, full name, email, phone number, event name, check-in date, check-out date, arrival and departure transportation, arrival and departure time, and emergency contact information are all crucial for accurate processing. On the other hand, accessibility requirements, special dietary requirements, and additional requests are optional, giving guests the flexibility to provide more details if needed.
-
-With this understanding, we can now create a user-facing help guide that effectively explains the form's purpose, how to complete it, and each field's meaning in a concise and practical manner.
-
-</thinking>
-
 # Accommodation Registration - Help Guide
 ## Purpose
 The Accommodation Registration form is designed to gather essential information from guests for their stay at the accommodation. This includes personal details, accommodation preferences, and travel information to ensure accurate and efficient services.

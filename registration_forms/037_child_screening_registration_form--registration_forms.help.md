@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Child Screening Registration Form - Help Guide
 ## Purpose
 This form is used for child screening registration, where parents or guardians can provide their contact information and their child's details for a screening appointment. The form helps us to gather essential information about the child and their needs for the screening process.

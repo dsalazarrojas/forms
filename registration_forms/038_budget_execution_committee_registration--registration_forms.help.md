@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Budget Execution Committee Registration - Help Guide
 ## Purpose
 This form is used to register new members for the Budget Execution Committee. It captures essential information about each member, including their name, contact details, roles, committee affiliation, and other relevant data.

@@ -1,11 +1,3 @@
-<thinking>
-
-We need to ensure that our patients have a straightforward and clear understanding of what this form is used for and how to fill it out correctly. The form's purpose is to gather essential information from patients for registration at the Soul Wound Clinic. This form will collect basic details such as name and contact information to facilitate communication and scheduling with the clinic.
-
-Let's review the form's structure and requirements to prevent any confusion or duplication of information. The form consists of four fields: First Name, Last Name, Email, and Phone. We will make sure to clearly explain each field's purpose and requirement status.
-
-</thinking>
-
 # Soul Wound Clinic Registration - Help Guide
 ## Purpose
 The Soul Wound Clinic Registration form is used to collect basic information from patients for registration purposes. This form is necessary to ensure that we have the correct contact details and can schedule appointments correctly.

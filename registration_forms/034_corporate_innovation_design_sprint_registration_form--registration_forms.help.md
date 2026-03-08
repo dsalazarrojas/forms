@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to register for the corporate innovation design sprint, which is a short-term, focused innovation process to generate new ideas and solutions quickly. 
-
-The form collects information about the team's registration for the event, including team details, team leader presence, team members, participant information, and personal contact details.
-
-Before proceeding, ensure you are registering the correct team and that this is not a duplicate registration. The form is designed to be completed by authorized personnel, and duplicate registrations may lead to unnecessary administrative work and potential conflicts during the event.
-</thinking>
-
 # corporate_innovation_design_sprint_registration_form - Help Guide
 ## Purpose
 The corporate innovation design sprint registration form is a tool for teams to register for the corporate innovation design sprint event. This form helps us understand team details, their interest in participating, and participant contact information.

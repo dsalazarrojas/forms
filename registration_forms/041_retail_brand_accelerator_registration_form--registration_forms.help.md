@@ -1,13 +1,3 @@
-<thinking>
-
-We'll create a user-facing help guide for this form by analyzing the provided YAML fields. 
-
-- This form is likely used for registering retail brands, gathering their details, and assigning tasks or projects to specific users or groups. 
-- The form is divided into multiple pages with different fields such as text inputs, selects, dates, times, and notes. 
-- We'll focus on the fields that are required or have specific options to provide the best explanation. 
-
-</thinking>
-
 # Retail Brand Accelerator Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information about retail brands for registration purposes. It is used to create a record of the brand details and assign tasks or projects related to the brand.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used for attendees to register and provide information about their attendance to a corporate event. The form should be completed by all attendees, including employees and guests. It is used to track attendance and provide a quick and easy way to check-in during the event. 
-
-The purpose of this form is to ensure that all attendees are accounted for and that the event organizers have accurate information about the number of attendees. This will help them in planning and managing the event more efficiently. It also helps the attendees to receive important information about the event schedule, location, and any last-minute updates.
-
-When filling out this form, it is recommended that the attendee provides the correct company name to ensure accurate tracking. The attendee name, email, and phone number should be accurate and up-to-date. The event title, date, and time should match the actual event details. The event duration is optional but helps in planning the event logistics.
-
-</thinking>
-
 # Corporate Event Check In Form - Help Guide
 ## Purpose
 The Corporate Event Check In Form is used to register and provide information about your attendance to a corporate event. This helps the event organizers to track attendance and manage the event more efficiently.

@@ -1,12 +1,3 @@
-<thinking>
-This form is meant to be a comprehensive registration form for suppliers to provide their accreditation information. It is designed to collect various details such as name, contact information, business details, and social media links. The form is divided into multiple pages to make it easier to complete. Each field is required to ensure accurate and complete information is provided. 
-
-Please note that there is no duplication of fields and all fields are properly labeled and explained below. Before proceeding, ensure you have all necessary documents and information ready to complete this form accurately. 
-
-This form will serve as a comprehensive guide for the supplier to provide accurate and complete information for their accreditation registration. 
-
-</thinking>
-
 # Supplier Accreditation Registration Form Template - Help Guide
 ## Purpose
 This form is a comprehensive registration form for suppliers to provide their accreditation information. It is designed to collect various details such as name, contact information, business details, and social media links.

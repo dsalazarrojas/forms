@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect information from users who are interested in volunteering for professional development opportunities. The form will be used by the organization to assess the qualifications and availability of potential volunteers. This form should only be filled out by individuals who are genuinely interested in volunteering and do not have any existing commitments that would prevent them from participating in the program. Before filling out this form, please ensure that you are not already registered in the system and that you are not planning to submit multiple applications. 
-</thinking>
-
 # Professional Development Volunteer Application Form - Help Guide
 ## Purpose
 The Professional Development Volunteer Application Form is designed to gather information from individuals interested in participating in the organization's professional development volunteer opportunities. This form helps the organization assess the qualifications and availability of potential volunteers to ensure a good fit for the program.

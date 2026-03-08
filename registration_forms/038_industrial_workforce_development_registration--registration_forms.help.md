@@ -1,8 +1,3 @@
-<thinking>
-  This form is intended to capture the participant's basic details, interests, availability, skills, training preferences, and up-skilling cohort in the context of industrial workforce development. The form's primary purpose is to collect information about the participant's characteristics and preferences for training and development purposes.
-  To ensure that the form serves its intended purpose without duplication, it is essential to follow the instructions accurately and complete each field as requested.
-</thinking>
-
 # industrial_workforce_development_registration - Help Guide
 ## Purpose
 The industrial workforce development registration form is designed to collect essential information from participants about their interests, skills, availability, and training preferences. This form is crucial for providing tailored training and development opportunities that cater to individual needs and goals.

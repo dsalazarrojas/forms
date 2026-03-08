@@ -1,11 +1,3 @@
-<thinking>Before generating the user-facing help guide, let's review the form's purpose and functionality. This form appears to be designed for booking chartered flights, capturing information about the passenger and flight details. The goal is to gather essential data for flight reservations.
-
-To avoid duplication of information and ensure accuracy, the form requires fields for passenger information, flight details, and reservation information. The form's sections and fields seem well-structured and logical. However, some fields might be confusing without further explanation. For instance, the "Total Number of Passengers" field might not be clear to users without knowing the context of the form. Additionally, the "Special Requests or Accommodations" field could be better explained to avoid misunderstandings.
-
-Assuming this form is part of a web or mobile application, it's essential to provide a user-friendly help guide that explains each field clearly, avoiding ambiguity and ensuring users understand the form's purpose and how to complete it correctly.
-
-Here's a suggested help guide based on the provided YAML fields:</thinking>
-
 # Chartered Flight Reservation Form - Help Guide
 
 ## Purpose

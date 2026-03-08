@@ -1,5 +1,3 @@
-<thinking>...This form is designed to capture user information for the Democracy Project, a platform aimed at promoting participative governance. The form will be used to collect user data for registration purposes. Before starting, please ensure you have not already completed this form. If you have any previous submissions, this form will not be processed. Please note that all fields are optional, but providing accurate information will help us better understand your experience and preferences.</thinking>
-
 # Democracy Project Experience Registration - Help Guide
 ## Purpose
 This form is designed to collect user information for the Democracy Project, a platform promoting participative governance. Please ensure you have not already completed this form to avoid duplicate submissions.

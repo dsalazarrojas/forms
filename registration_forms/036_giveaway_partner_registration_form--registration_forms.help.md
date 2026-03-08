@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Giveaway Partner Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from giveaway partners who want to participate in our giveaway program. The information collected will be used to verify the partner's details and ensure they are eligible to participate in our giveaways.

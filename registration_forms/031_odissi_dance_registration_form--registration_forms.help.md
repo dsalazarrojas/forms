@@ -1,17 +1,3 @@
-<thinking>
-To ensure I'm designing a user-friendly help guide for the "Odissi Dance Registration Form", I'll briefly consider the form's purpose and potential issues with duplication or non-relevance.
-
-Assuming the form is designed to collect essential information for a dance event or workshop registration, the form's purpose is likely to:
-
-* Gather personal details of the registrants
-* Identify their dance levels and workshop preferences
-* Collect payment information
-* Track workshop schedule and instructor details
-
-To confirm, I'll need more specific context about the dance event or workshop. However, based on the form's structure, I'll proceed with creating the help guide.
-
-</thinking>
-
 # Odissi Dance Registration Form - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for Medicaid providers to register their information, including their name, address, contact details, license information, and other relevant particulars. It's intended to gather data from providers who want to be included in the Medicaid program. 
-
-To avoid duplication, this form should not be submitted multiple times by the same provider, and users are advised to ensure their data is accurate before submitting.
-</thinking>
-
 # medicaid_provider_registration_form - Help Guide
 ## Purpose
 The Medicaid Provider Registration Form is designed to collect necessary information from Medicaid providers for the purpose of registering them in the program. This form is a one-time registration process and requires accurate and detailed information to ensure providers are successfully added to the Medicaid directory.

@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to gather information about new projects and their details for housing development. The form will be used to collect contact details and follow up information for each project. 
-
-To ensure consistency and accuracy, please fill out the form completely. 
-
-You are not required to fill out every field, but please note that some fields are required for submission. 
-
-Please be specific and honest in your answers, and do not provide any confidential or sensitive information.
-
-This form will be used by the housing development team for further processing and follow-up.
-</thinking>
-
 # housing_development_inquiry_form - Help Guide
 ## Purpose
 This form is used to gather information about new projects for housing development.

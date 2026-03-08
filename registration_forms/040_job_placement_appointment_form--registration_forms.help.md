@@ -1,14 +1,3 @@
-<thinking>
-To ensure that this form meets its intended purpose and to prevent duplication, the form purpose should be clearly defined in the instructions and the end user should be guided to fill out the form without missing any required fields.
-
-The form is a tool for collecting information from job seekers, including contact information, job details, preferred contact methods, schedule appointment, appointment time, agency details, and notes. The form is designed to facilitate the job placement appointment process, and it is essential to understand each field's relevance and importance in the process.
-
-The form should be filled out carefully, and the end user should be aware that some fields are required to complete the form successfully. The form is meant to provide a convenient and efficient way for job seekers to share their information with the agency, and any missing or incorrect information may lead to delays or issues in the appointment process.
-
-Before filling out the form, it is recommended to review the purpose and instructions carefully to ensure that the information provided is accurate and relevant. 
-
-</thinking>
-
 # Job Placement Appointment Form - Help Guide
 ## Purpose
 The Job Placement Appointment Form is a tool for collecting information from job seekers to facilitate the job placement appointment process. The form gathers contact information, job details, preferred contact methods, schedule appointment, appointment time, agency details, and notes, which are essential for a successful appointment.

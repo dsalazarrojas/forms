@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect user information for video streaming subscriptions. The form consists of various fields that users must fill out to create or modify a subscription. The form is likely used for subscription management, billing, and customer support purposes. Before filling out the form, please ensure you have a valid purpose for submitting this form, such as creating a new subscription or updating an existing one. Please do not use this form for other purposes or for testing as it may lead to incorrect or unintended data being submitted.
-
-</thinking>
-
 # Video Streaming Subscription Form - Help Guide
 ## Purpose
 This form is used for video streaming subscription management, allowing users to input their information and subscription details.

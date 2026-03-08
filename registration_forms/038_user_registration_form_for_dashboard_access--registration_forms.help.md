@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate registration for accessing the dashboard. To ensure relevance, we are only including fields that are necessary for this specific use case. By limiting the fields, we are reducing duplication and minimizing unnecessary information collection. For example, we are not including fields for login or password reset functionality. 
-</thinking>
-
 # User Registration Form For Dashboard Access - Help Guide
 ## Purpose
 This form collects information to create a user account for accessing the dashboard. Fill out the form with your details to get started.

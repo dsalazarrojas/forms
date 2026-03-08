@@ -1,8 +1,3 @@
-<thinking>
-The form appears to be designed for gathering information from individuals seeking financial assistance. This form likely aims to collect data about the user's employment status, income, financial history, and other relevant details. This guide will explain each section and field of the form in a concrete and concise manner.
-
-</thinking>
-
 # Financial Assistance Request Form - Help Guide
 ## Purpose
 This form is designed to collect information about individuals seeking financial assistance. It helps us understand their employment status, income, financial history, and other essential details to provide effective support.

@@ -1,7 +1,3 @@
-<thinking>
-To prevent duplicate forms and ensure accurate information, please verify that the form's purpose is to collect professional collaboration circle registration data. This form is designed for HR professionals, managers, and team leaders to register themselves or team members for a professional collaboration circle. The purpose is to provide a structured way to collect and manage member information, job details, and preferences for effective collaboration and communication within the circle.
-</thinking>
-
 # hr-professional-collaboration-circle-registration-form - Help Guide
 ## Purpose
 The hr-professional-collaboration-circle-registration-form is a tool designed to collect information from HR professionals, managers, and team leaders for a professional collaboration circle. This form helps manage member registration, job details, and preferences.

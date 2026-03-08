@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registration for an Accountability Group, where users can provide their information to join or create an Accountability Group. The purpose of this form is to gather essential details about the user's goals, preferences, and expectations from the group. This form is likely used by administrators or moderators of the group to review and organize the registrations, ensuring that new members are a good fit for the group. This form is likely not meant to be filled out multiple times, as it's primarily used for initial registration.
-</thinking>
-
 # Accountability Group Registration - Help Guide
 ## Purpose
 This form is for registration of an Accountability Group, allowing users to provide their personal details and preferences to join or create a group.

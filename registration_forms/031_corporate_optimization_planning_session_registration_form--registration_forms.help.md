@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information for a corporate optimization planning session. It's designed to gather essential details from participants, including their personal and professional information, as well as their goals and preferences for the session. This form helps us understand who's attending, what they're hoping to achieve, and how we can tailor the session to meet their needs. Please make sure to register only once for the session, and fill out this form accurately to ensure you receive relevant information and updates.
-</thinking>
-
 # Corporate Optimization Planning Session Registration Form - Help Guide
 ## Purpose
 The Corporate Optimization Planning Session Registration Form is designed to collect registration information from participants. Please take a few minutes to fill out this form to ensure you receive relevant information and updates about the session.

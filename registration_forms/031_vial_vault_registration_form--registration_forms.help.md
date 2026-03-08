@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register vials, providing essential details about them, such as their type, storage location, and related information. To prevent errors, please ensure that the form is filled out accurately and completely. If you're unsure about any field, you can always refer to this guide for clarification.
-
-</thinking>
-
 # Vial Vault Registration Form - Help Guide
 ## Purpose
 The Vial Vault Registration Form is used to register vials, providing critical information about their storage conditions and related details. This form helps to ensure accurate records and efficient inventory management.

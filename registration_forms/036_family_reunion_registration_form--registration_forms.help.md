@@ -1,6 +1,3 @@
-<thinking>
-To confirm, the form is used for registering guests for a family reunion, and the purpose is to collect information about each guest, including their contact details, number of guests, arrival and departure dates/times, and special dietary requirements. This form should cover most of the necessary information to accommodate the guests and ensure a smooth reunion experience. Please let me know if you'd like me to add any fields or modify any of the existing ones.</thinking>
-
 # Family Reunion Registration Form - Help Guide
 ## Purpose
 This form is used to register guests for a family reunion. It will help us get in touch with you and ensure a smooth experience for all attendees.

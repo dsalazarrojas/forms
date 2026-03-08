@@ -1,7 +1,3 @@
-<thinking>
-The form is used to gather information from athletes to ensure their safety and well-being during athletic meets. It is intended for parents or guardians to provide information about their child's medical conditions, allergies, and medications, as well as their permission for medical treatment and photo/video recording. The form is also used to gather information about the athlete's participation in the meet, including their school name, grade level, and events they will be participating in. By completing this form, parents or guardians can help ensure that their child's needs are met during the meet and that they are aware of any rules or restrictions that apply.
-</thinking>
-
 # Athletic Meet Permission Form - Help Guide
 ## Purpose
 The Athletic Meet Permission Form is designed to collect information from athletes and their parents or guardians to ensure their safety and well-being during athletic meets. It is a requirement for all athletes to complete this form before participating in a meet.

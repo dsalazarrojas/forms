@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed for parents/guardians to register their daughters for a Father-Daughter dance event. The purpose of this form is to collect relevant information about the participant and her guardian's consent before the event. This form was created to provide a structured way of collecting necessary information, avoiding duplication and ensuring accuracy in the registration process.
 
 # Father Daughter Dance Registration - Help Guide

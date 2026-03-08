@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect participant information for the Health and Wellness Fair event. The form will help us gather essential details about each participant, including their contact information and emergency contact, in order to provide a smooth and enjoyable experience for all attendees. We will not collect any personal or sensitive data, and the information will be used solely for the purpose of event management.
-</thinking>
-
 # Health and Wellness Fair Registration Form - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Health and Wellness Fair event.

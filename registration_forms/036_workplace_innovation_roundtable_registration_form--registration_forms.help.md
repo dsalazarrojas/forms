@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register individuals for a Workplace Innovation Roundtable, a platform for sharing and discussing innovation and best practices within the workplace. To ensure accuracy and relevance, please make sure that the registration information is accurate and up-to-date. Additionally, please note that duplicate registrations may be removed to maintain the integrity of the roundtable. If you're not sure about your registration, you can check your confirmation email or contact the relevant authorities.
-</thinking>
-
 # Workplace Innovation Roundtable Registration Form - Help Guide
 ## Purpose
 This form is designed to register individuals for the Workplace Innovation Roundtable. It collects necessary contact information and work-related details to facilitate communication and participation in the roundtable.

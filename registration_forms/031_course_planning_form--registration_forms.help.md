@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from users for course planning purposes. It is likely used by administrators or instructors to gather details about a course, including its objectives, lesson plans, resources, notes, and contact information. The form's fields are divided into several sections, each with its own unique type and requirements. To complete this form, the user must have a basic understanding of the course being planned and the necessary information to fill in the required fields.</thinking>
-
 # Course Planning Form - Help Guide
 ## Purpose
 The Course Planning Form is a tool used to collect and organize information about courses, allowing administrators or instructors to effectively plan and manage their educational programs.

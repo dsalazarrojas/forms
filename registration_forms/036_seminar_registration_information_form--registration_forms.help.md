@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from seminar participants. Before proceeding, please ensure that you are registering for a seminar and that the information you are providing is accurate and up-to-date. This form should only be filled out once per participant, as duplicate registrations will not be accepted.
-
-To check if you are eligible to register, you can review our seminar schedule on our website. 
-
-If you have already registered for a seminar, please do not fill out this form again. 
-
-Please note that filling out this form is mandatory for participating in the seminar. 
-
-</thinking>
-
 # Seminar Registration Information Form - Help Guide
 ## Purpose
 This form is used to collect participant information for seminars. It is required for seminar registration and participation.

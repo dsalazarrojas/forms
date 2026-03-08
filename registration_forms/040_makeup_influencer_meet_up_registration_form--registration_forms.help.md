@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for individuals interested in attending a meetup for makeup influencers. The form is used to register attendees and gather information about their preferences and interests. This information will be used to plan the event and ensure that attendees receive the most relevant content and networking opportunities. It's essential to fill out this form accurately to ensure a successful and enjoyable meetup experience.
-
-Before filling out this form, please check that you haven't already registered for this event. Duplicate registrations may cause confusion and make it challenging to manage attendee information.
-
-Please note that some fields are optional, but filling out all required fields will help us better understand your needs and preferences.
-</thinking>
-
 # Makeup Influencer Meet Up Registration Form - Help Guide
 ## Purpose
 The Makeup Influencer Meet Up Registration Form is designed for individuals interested in attending a meetup for makeup influencers. The form collects information about attendees' event preferences and interests to ensure a successful and enjoyable event experience.

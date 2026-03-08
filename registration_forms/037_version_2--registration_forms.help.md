@@ -1,10 +1,3 @@
-<thinking>
-
-**Internal Note:**
-This form is an AI-generated adaptation of a public survey topic, and its purpose is to collect basic demographic information from users. The form is not affiliated with or endorsed by any form platform, and its content is an original adaptation. The form's design is guided by the input schema provided, which includes fields for First Name, Last Name, and Date of Birth. The form's metadata is released under CC BY 4.0, allowing for modification, distribution, and even commercial use with proper credit.
-
-</thinking>
-
 # Version 2 - Help Guide
 ## Purpose
 This form is designed to collect basic demographic information from users, including their First Name, Last Name, and Date of Birth.

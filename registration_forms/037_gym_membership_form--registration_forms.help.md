@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for gym membership registration. The form will help the gym management team to efficiently collect and process membership applications. It's essential to fill this form accurately to ensure that your membership is correctly registered and processed. Please review the form carefully before filling it out. If you have any questions or concerns, feel free to ask the gym staff for assistance.
-</thinking>
-
 # Gym Membership Form - Help Guide
 ## Purpose
 The Gym Membership Form is a comprehensive form designed to collect essential information from applicants for gym membership registration. It is used to efficiently process membership applications and ensure that all the necessary details are collected accurately.

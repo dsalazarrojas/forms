@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register a participant for the Enterprise Change Strategy Course. The user must ensure they are registering only once per participant.
-</thinking>
-
 # Enterprise Change Strategy Course Registration - Help Guide
 ## Purpose
 This form is intended for participants to register for the Enterprise Change Strategy Course.

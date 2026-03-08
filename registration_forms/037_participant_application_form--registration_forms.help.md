@@ -1,8 +1,3 @@
-<thinking> 
-This form is likely intended for registering participants in seminars. It's likely used to gather information from potential attendees, and the fields might be used for planning and management purposes. To confirm, the form has sections for participant details, seminar specifics (type and date), contact info, and seminar capacity management. Before proceeding, ensure that you've not submitted the same application multiple times. Please complete the form with accurate and relevant information.
-
-</thinking>
-
 # Participant Application Form - Help Guide
 ## Purpose
 The Participant Application Form is used to collect information from individuals interested in attending seminars. This form helps the organizers manage participant registrations and ensure a smooth event.

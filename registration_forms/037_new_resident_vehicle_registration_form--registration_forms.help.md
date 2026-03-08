@@ -1,7 +1,3 @@
-<thinking>
-Is this form used to register new residents for a building or community? If so, does it also handle other related tasks such as tracking parking needs or submission dates? Are there any potential issues with duplicate submissions or incorrect submission information? This form seems to be designed for a building management or property management scenario, possibly for tracking vehicle information, parking needs, and other relevant details. Double-checking the form schema reveals that the form is mostly focused on vehicle registration, but also includes fields for parking needs, submission notes, and other supplementary information. There are no obvious duplicate submission fields or submission date/time fields, but the "Submission Date" field could potentially be a concern if it's not properly validated or if the field is not filled in correctly. Overall, this form appears to be for tracking vehicle registration for a property or building management scenario, and it's good to confirm the form's purpose and functionality before proceeding.
-</thinking>
-
 # New Resident Vehicle Registration Form - Help Guide
 ## Purpose
 This form is designed for residents to register their vehicles with the building management. The form collects details about the resident, their vehicle, and other relevant information to ensure accurate tracking and management of vehicle registrations.

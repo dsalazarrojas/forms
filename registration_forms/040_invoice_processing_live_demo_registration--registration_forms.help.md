@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended to gather information from participants who want to sign up for an "Invoice Processing Live Demo". The purpose of this form is to capture the necessary contact and company details to facilitate the demo. This form is likely being used to collect data for marketing, sales, or customer engagement purposes. 
-
-The form is likely being used to collect data from a specific audience, such as business owners or decision-makers, who are interested in learning about invoice processing. Therefore, it's essential to ensure that the form is completed accurately to avoid duplication of efforts and ensure that the right audience is targeted. 
-
-</thinking>
-
 # Invoice Processing Live Demo Registration - Help Guide
 
 ## Purpose

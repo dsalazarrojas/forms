@@ -1,8 +1,3 @@
-<thinking>
-This form is meant to be used for registration by educational institutions or organizations that want to partner with the Community Learning Partnership. This form will gather essential information about the registering entity, and it's crucial that the data is accurate and non-duplicative.
-To ensure the accuracy and completeness of the form, users should not register the same organization more than once. If the user is unsure about the form purpose or has registered previously, kindly verify the details with the form administrators before proceeding.
-</thinking>
-
 # Community Learning Partnership Registration - Help Guide
 ## Purpose
 This form is designed for educational institutions or organizations to register with the Community Learning Partnership. It gathers necessary information to facilitate partnerships, collaborations, and resource sharing within the partnership.

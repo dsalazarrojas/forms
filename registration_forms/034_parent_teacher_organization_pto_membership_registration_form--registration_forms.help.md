@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for parents and teachers to register their interest in joining a Parent Teacher Organization (PTO). The form should be used to collect information about the individual's personal details, PTO membership status, and reasons for joining. The form's purpose is to gather this data for internal records and to facilitate communication with the individual. Please ensure that you have not already registered or submitted this form before, as duplicate submissions may lead to unnecessary data redundancy and confusion.</thinking>
-
 # Parent Teacher Organization (PTO) Membership Registration Form - Help Guide
 ## Purpose
 The Parent Teacher Organization (PTO) Membership Registration Form is a form designed for parents and teachers to register their interest in joining the PTO. This form collects personal details, PTO membership status, and reasons for joining for the purpose of maintaining accurate internal records and facilitating communication.

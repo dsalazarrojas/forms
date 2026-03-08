@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the sports tournament license form, we first need to understand the purpose of the form. The sports tournament license form is used to collect information from participants and teams to register for a sports tournament. This form is likely used by tournament organizers to verify the identity and eligibility of participants and teams before allowing them to participate. The form is probably required for all participants and teams, hence the "required" flag is set to true for most fields.
-</thinking>
-
 # sports_tournament_license_form - Help Guide
 ## Purpose
 The sports tournament license form is used to register for a sports tournament. This form collects information from participants and teams to verify their identity and eligibility.

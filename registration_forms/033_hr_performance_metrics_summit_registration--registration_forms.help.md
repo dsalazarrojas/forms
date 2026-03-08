@@ -1,10 +1,3 @@
-<thinking>
-The HR Performance Metrics Summit Registration form is designed to collect attendee information for the HR Performance Metrics Summit. The purpose of this form is to gather necessary details from attendees, including their attendance type, special needs, email, phone number, and any additional notes. 
-
-Before proceeding, please ensure that you have not already registered for this event, and that you are completing this form for the correct event. If you have any questions or concerns, please reach out to the event organizers.
-
-</thinking>
-
 # HR Performance Metrics Summit Registration - Help Guide
 ## Purpose
 The HR Performance Metrics Summit Registration form is designed to collect attendee information for the HR Performance Metrics Summit. 

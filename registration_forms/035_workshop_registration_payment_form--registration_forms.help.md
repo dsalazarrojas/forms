@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Workshop Registration Payment Form - Help Guide
 
 ## Purpose

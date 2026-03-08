@@ -1,10 +1,3 @@
-<thinking>
-Checking the form purpose and fields...
-
-The form is used for registration for a marathon event. It collects participant information, contact information, emergency contact information, participant availability, shirt preferences, and other relevant details.
-The form has 25 fields, each with its own label, type, and options. Some fields are required, while others are optional.
-</thinking>
-
 # Marathon Registration Form - Help Guide
 ## Purpose
 This form is used to register for a marathon event. It collects participant information, contact information, emergency contact information, participant availability, shirt preferences, and other relevant details.

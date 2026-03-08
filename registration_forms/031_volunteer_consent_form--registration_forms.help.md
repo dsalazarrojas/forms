@@ -1,12 +1,3 @@
-<thinking>
-This form is designed for volunteers to provide their consent to participate in various activities or programs. The purpose of this form is to collect necessary information from volunteers, including their contact information, role selection, availability, and time preferences. 
-
-This form is not intended for internal use, such as for employees or staff members, and is meant to be used by external volunteers.
-
-We will not be providing any duplicate entries for any user. If a user has already submitted the form, they will not be able to submit it again.
-
-</thinking>
-
 # Volunteer Consent Form - Help Guide
 ## Purpose
 The Volunteer Consent Form is designed to collect information from volunteers who wish to participate in various activities or programs.

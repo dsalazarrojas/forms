@@ -1,7 +1,3 @@
-<thinking>
-The form "rental_market_reform_session_registration" is used for registering attendees to sessions in a rental market setting. This form is used for gathering attendee details, session schedule, and registration information. The purpose of this form is to streamline the registration process for attendees, ensuring accurate and consistent data collection. Before proceeding, please ensure that the form is not being used for duplicate registrations or registrations that do not meet the required criteria.
-</thinking>
-
 # rental_market_reform_session_registration - Help Guide
 ## Purpose
 The "Rental Market Reform Session Registration" form is designed to collect registration information from attendees to sessions in a rental market setting. This form is crucial for maintaining accurate attendance records and ensuring that attendees' needs are properly documented.

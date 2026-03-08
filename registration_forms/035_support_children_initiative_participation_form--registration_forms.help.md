@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to be used by end users who need to fill out the "Support Children Initiative Participation Form". The purpose of this form is to gather information from users who wish to participate in the Support Children Initiative, a program aimed at providing support to children in need. To ensure that the form is filled out correctly, please review the fields below.
-</thinking>
-
 # Support Children Initiative Participation Form - Help Guide
 
 ## Purpose

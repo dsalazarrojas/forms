@@ -1,13 +1,3 @@
-<thinking>
-This is a form to help us understand your interest in being a coach. Please fill out this form with accurate information so we can get to know you better. We will review your application and get back to you soon.
-
-Before filling out this form, please make sure you have all the required information ready. This form is for coaches who are interested in various coaching positions. We are looking for coaches who are passionate about sports and have the right skills and experience to excel in this role.
-
-The form is divided into two main sections: "Personal Information" and "Coaching Experience and Availability". Please answer all questions accurately and honestly.
-
-If you have any questions or need help, please don't hesitate to contact us.
-</thinking>
-
 # Coaching Position Expression Of Interest Form - Help Guide
 ## Purpose
 The Coaching Position Expression Of Interest Form is a form used to gather information from potential coaches who are interested in various coaching positions within our organization. This form helps us understand your qualifications, experience, and availability to help us match you with the right position.

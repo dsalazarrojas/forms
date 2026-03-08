@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to ensure that users understand the purpose and requirements of the Community League Tournament Enrollment Form. It's essential to review the form carefully before submitting it to avoid any issues or delays.
-
-The form purpose is to collect information from teams interested in enrolling in the Community League Tournament. The provided fields are designed to gather necessary details about the team, including their name, sport category, competitive division, coaching and management, team roster, jersey colors, preferred home field or court location, weekend availability, prior participation, fee acknowledgement, and date of enrollment.
-
-To avoid any confusion, it's crucial to understand the requirements and expectations associated with each field. This guide will walk you through each field, explaining its purpose and what information is expected from the user.
-
-</thinking>
-
 # Community League Tournament Enrollment Form - Help Guide
 ## Purpose
 The Community League Tournament Enrollment Form is designed to collect information from teams interested in enrolling in the Community League Tournament. This form is a mandatory step in the enrollment process, and it's essential to complete it accurately to avoid any issues or delays.

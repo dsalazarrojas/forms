@@ -1,7 +1,3 @@
-<thinking>
-This form is used for individuals or families to register for a family retreat program. The purpose of this form is to gather information about the individual or family members, such as name, contact information, and demographic details. This form is meant to be completed by the person who is registering themselves or their family members. Please note that the form can be completed multiple times for different family members, and each submission will be stored separately. It's essential to ensure that each family member has a unique submission, and no duplicate submissions will be accepted.
-</thinking>
-
 # Family Retreat Family Application - Help Guide
 ## Purpose
 The Family Retreat Family Application form is used to register for a family retreat program. It's meant to gather information about each family member, including contact details and demographic information.

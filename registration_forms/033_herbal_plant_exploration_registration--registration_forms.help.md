@@ -1,14 +1,3 @@
-<thinking>
-**Why is this form being used?**
-
-The "Herbal Plant Exploration Registration" form is used to capture relevant information from users, such as their full name, contact details, and registration status, in order to track and manage user interactions with herbal plants. This form is typically used for exploratory research projects that require user input.
-
-**Is this form already submitted?**
-
-Before filling out the form, please make sure that you have not already submitted it. If you have already submitted the form, the changes you make will not be saved. Please refresh your session or contact the administrator if you need to make changes.
-
-</thinking>
-
 # Herbal Plant Exploration Registration - Help Guide
 ## Purpose
 The "Herbal Plant Exploration Registration" form is used to register users for exploratory research projects that involve interacting with herbal plants.

@@ -1,7 +1,3 @@
-<thinking>
-This help guide will help users fill out the Women's Winter Study Registration form, ensuring they complete it accurately and efficiently.
-</thinking>
-
 # Women's Winter Study Registration - Help Guide
 ## Purpose
 This form is for users to register for a winter study session, providing essential information about their session preferences and personal details.

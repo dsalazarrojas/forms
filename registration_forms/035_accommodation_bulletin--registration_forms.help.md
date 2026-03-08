@@ -1,11 +1,3 @@
-<thinking> 
-
-This form appears to be for collecting information from guests staying at an accommodation facility. The form likely serves as a way for the accommodation provider to gather details about the guests and verify their identity. The required fields suggest that the form may be used for administrative or security purposes.
-
-Before attempting to complete this form, ensure that you understand each field's purpose and are entering accurate and valid information. The form has a mix of personal details, contact information, and travel-related questions, indicating that it's essential to be thorough and precise in your responses.
-
-</thinking>
-
 # Accommodation Bulletin - Help Guide
 
 ## Purpose

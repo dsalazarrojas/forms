@@ -1,10 +1,3 @@
-<thinking>
-This form is a digital equipment registry registration form, which is used to collect information about a piece of digital equipment. This form is likely used to track and manage digital equipment within an organization, possibly for inventory, asset management, or other purposes. To avoid duplication, end users should not register the same piece of equipment twice.
-
-The fields in this form are intended to gather essential details about the equipment, its contact information, and its status. 
-
-</thinking>
-
 # digital_equipment_registry_registration_form - Help Guide
 ## Purpose
 The digital equipment registry registration form is used to collect information about digital equipment to track and manage its details.

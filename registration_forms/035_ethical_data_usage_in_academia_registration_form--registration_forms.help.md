@@ -1,7 +1,3 @@
-<thinking>
-... internal reasoning block about purpose and non-duplication ...
-</thinking>
-
 # Ethical Data Usage In Academia Registration Form - Help Guide
 
 ## Purpose

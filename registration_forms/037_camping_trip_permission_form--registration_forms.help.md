@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for parents or guardians to register their child for a camping trip, ensuring that the necessary information is collected for the student's participation. The form is divided into sections that gather essential details about the student, including their personal and demographic information, as well as trip-related data.
-
-Before proceeding, please ensure that you have the correct permission to complete this form on behalf of the child.
-
-</thinking>
-
 # Camping Trip Permission Form - Help Guide
 ## Purpose
 This form is used by parents or guardians to register their child for a camping trip, ensuring that the necessary information is collected for the student's participation.

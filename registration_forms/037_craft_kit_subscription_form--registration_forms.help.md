@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for registering new subscribers to a craft kit subscription service. Subscribers are required to provide their first and last name, street address, city, state, zip code, email, and phone number. They will also select a craft kit and choose a subscription type. The form includes fields for start and end dates, but these are likely used for internal tracking purposes. The "notes" field is optional, used for any additional comments or information. The "assigned tool" and "assigned user" fields are also optional and not typically used by end-users. 
-
-</thinking>
-
 # craft_kit_subscription_form - Help Guide
 ## Purpose
 This form is used to register new subscribers to a craft kit subscription service. 

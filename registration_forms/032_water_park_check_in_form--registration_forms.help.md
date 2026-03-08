@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from visitors to a water park, including their name, contact information, visit details, and check-in/check-out times. This form is likely used by park staff to record and manage visitor records. To avoid duplication, the form should not be filled out by visitors who have already checked in or out. This form should be completed by a visitor or a member of their group.
-</thinking>
-
 # water_park_check_in_form - Help Guide
 ## Purpose
 This form is used for visitors to check in to a water park, providing essential information for park staff to manage their visit.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Show Display Booth Order Form - Help Guide
 ## Purpose
 

@@ -1,9 +1,3 @@
-<thinking>
-The form's internal reasoning block explains why this form was created and what its purpose is:
-This form is designed to gather information from individuals interested in participating in the Tourism Regeneration Initiative. The form is used to collect basic participant details, their project interests, and the type of contribution they are willing to make. The fields included in the form are intended to be simple and straightforward, making it easy for potential participants to understand and fill out. The form does not require any sensitive or personal information, and its purpose is purely for registration and interest expression. By completing this form, participants can express their interest in participating in the initiative and potentially receive more information or updates about the project.
-
-</thinking>
-
 # Tourism Regeneration Initiative Registration - Help Guide
 ## Purpose
 This form is designed to gather information from individuals interested in participating in the Tourism Regeneration Initiative.

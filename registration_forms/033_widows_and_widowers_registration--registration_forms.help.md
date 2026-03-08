@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for collecting information about widows and widowers who want to participate in a support program. The purpose of this form is to gather basic details about the participants, their contact preferences, contact information, support services they might need, and any additional participant notes.
-
-Before proceeding, please note that this form is intended for general use and is not affiliated with, endorsed by, or derived from any form platform. This form is an original adaptation created by an AI and is released under CC BY 4.0.
-</thinking>
-
 # widows_and_widowers_registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who are widows or widowers and want to participate in a support program. It is meant to gather contact details, preferences, and other relevant information to provide support services.

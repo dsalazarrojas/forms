@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-We need to create a user-facing help guide for this form to ensure end users understand its purpose, how to complete it, and what each field means. This form is for the "Water Use Optimization Program Registration Form" and is used to gather information from users who are interested in participating in conservation programs related to water use optimization. 
-
-</thinking>
-
 # Water Use Optimization Program Registration Form - Help Guide
 ## Purpose
 This form is intended to collect information from individuals or organizations interested in participating in the Water Use Optimization Program. The purpose of this form is to understand their interest in conservation programs and their experience with water use optimization technologies.

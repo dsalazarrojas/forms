@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for individuals to sign up for membership in the Ship Model Makers community. The form collects information about the individual, such as their name, contact details, and role within the community. It also includes fields for uploading images and providing additional details about their ship model. 
-
-To prevent duplication, the system checks for existing member records before allowing new submissions.
-
-The form is intended for both individual and organizational members, and the role field allows them to specify their type of membership.
-</thinking>
-
 # Ship Model Makers Membership Form - Help Guide
 ## Purpose
 The Ship Model Makers Membership Form is used to register new members in the Ship Model Makers community. It helps the administrators to collect essential information about new members, their ship models, and other relevant details.

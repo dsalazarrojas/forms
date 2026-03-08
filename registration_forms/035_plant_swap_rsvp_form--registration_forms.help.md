@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # plant_swap_rsvp_form - Help Guide
 ## Purpose
 The purpose of this form is to capture information from participants about a plant swap event. It is designed to gather details about plants being swapped, participant information, and RSVP details in a clear and organized manner.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Online Challenge Registration - Help Guide
 
 ## Purpose

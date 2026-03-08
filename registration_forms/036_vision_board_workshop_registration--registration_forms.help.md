@@ -1,6 +1,3 @@
-<thinking>
-To ensure the form is completed correctly and accurately, we first need to understand its purpose. The form is designed for registering participants in a Vision Board Workshop. It's crucial to check if the user has the necessary information to complete the form before starting. It's also essential to verify that the user has not previously registered for the workshop to avoid duplication. We will need to check for any existing registrations in our database before allowing the user to submit the form.</thinking>
-
 # Vision Board Workshop Registration - Help Guide
 ## Purpose
 This form is designed for participants to register for the Vision Board Workshop. It collects personal information and session preferences to prepare for the workshop.

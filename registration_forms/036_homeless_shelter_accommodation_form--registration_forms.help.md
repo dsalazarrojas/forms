@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for individuals seeking accommodation at a homeless shelter. The goal is to gather essential information about the applicant, including their registration details, contact information, and reasons for seeking shelter. This form will help the shelter staff understand the applicant's needs and provide necessary assistance.
-</thinking>
-
 # Homeless Shelter Accommodation Form - Help Guide
 ## Purpose
 

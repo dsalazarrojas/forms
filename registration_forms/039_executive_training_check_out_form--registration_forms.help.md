@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in an executive training program. It is meant to be completed by the participants themselves, and it will be used to record their contact information, payment details, and other relevant data. The form is not meant to be used for payment processing or any other financial transactions. Please ensure that the form is only used for its intended purpose and not for any other use.
-</thinking>
-
 # Executive Training Check Out Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in an executive training program.

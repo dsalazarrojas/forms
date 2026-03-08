@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Educational Program Volunteer Registration Form - Help Guide
 ## Purpose
 This form is for registering volunteers for educational programs. It collects information about the volunteer's name, contact details, volunteer position, program interest, volunteer start and end dates, and other relevant details. The form is used to track and manage volunteer registrations for educational programs.

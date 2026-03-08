@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to provide clear and concise instructions to users on how to complete the "educational_leadership_training_registration_form" form. The form is designed to collect information from users interested in participating in educational leadership training programs. The purpose of the form is to gather essential details about the user, including their basic contact information, leadership skills, availability, and preferences. This information will be used to facilitate the selection process for the training program.
-
-Before proceeding, please note that this form should only be filled out by individuals who are genuinely interested in participating in the program. Duplication of effort or submission of incomplete/inaccurate information may lead to delays or rejection in the selection process.
-
-Before starting, ensure that you have all the necessary information ready to provide accurate answers. If you are unsure about any field, please refer to this guide for clarification.
-
-</thinking>
-
 # Educational Leadership Training Registration Form - Help Guide
 ## Purpose
 The educational leadership training registration form is designed to collect information from users interested in participating in educational leadership training programs.

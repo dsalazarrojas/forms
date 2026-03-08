@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to help professionals create a profile on the networking platform. It collects various information about the user and their professional experience. The purpose of this form is to ensure that users can effectively showcase their skills, experience, and qualifications to connect with others in the industry. 
-
-Before proceeding, please note that some fields may be optional and can be filled at a later time. This form is meant to be a comprehensive guide for users to create a robust and detailed profile.
-
-</thinking>
-
 # Professional Networking Platform Registration Form - Help Guide
 ## Purpose
 The form is designed to collect information about the user and their professional experience to help them create a detailed profile on the platform.

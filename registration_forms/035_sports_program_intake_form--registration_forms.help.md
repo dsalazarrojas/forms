@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from parents or guardians of child participants in sports programs. The form includes fields for personal details such as name, contact information, and medical conditions. It also captures emergency contact information, including relationship, phone number, email, and address. The form is meant to be completed by parents or guardians, and it's essential to ensure that all required fields are filled accurately to avoid form submission issues. Please review the form carefully to understand what information is being collected and why.
-</thinking>
-
 # Sports Program Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from parents or guardians of child participants in sports programs. It helps us gather the necessary details to provide a safe and enjoyable experience for your child.

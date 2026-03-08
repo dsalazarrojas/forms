@@ -1,5 +1,3 @@
-<thinking>Before creating this help guide, let's confirm that the form purpose is to register an event and collect relevant information about the team, event details, and RSVP status. The form is likely used by team members or event organizers to provide information about upcoming events. We should avoid duplicating information or including unnecessary fields. Each field should be explained clearly and concisely, with an emphasis on required fields.</thinking>
-
 # Team Recognition Event Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about upcoming team recognition events. Please fill it out carefully to ensure accurate and complete data.

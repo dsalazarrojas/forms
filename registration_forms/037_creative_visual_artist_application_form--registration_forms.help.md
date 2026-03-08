@@ -1,7 +1,3 @@
-<thinking> 
-This form is designed for creative visual artists to apply for a specific opportunity. It is intended to gather information about the artist's background, resume, portfolio, bio statement, and contact information. To be eligible to apply, the artist must have a complete and accurate submission. Please review the form carefully before proceeding. Ensure that you have all required and optional sections filled out. Duplicate submissions will be discarded.
-
-</thinking>
 # Creative Visual Artist Application Form - Help Guide
 ## Purpose
 The Creative Visual Artist Application Form is a submission form for creative visual artists to apply for a specific opportunity. It aims to collect information about the artist's background, professional experience, and contact details.

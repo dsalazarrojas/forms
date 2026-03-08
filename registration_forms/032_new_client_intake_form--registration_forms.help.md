@@ -1,13 +1,3 @@
-<thinking>
-This form was created for the purpose of registering new clients. 
-The form is designed to be a comprehensive intake form for new clients, 
-with 25 pages of questions and fields that will gather relevant information 
-from clients in an organized and structured manner. The form will ask 
-for general information such as contact details, employment history, 
-medical history, and other relevant details that are necessary 
-for the client's care plan.
-</thinking>
-
 # New Client Intake Form - Help Guide
 ## Purpose
 This form is designed to gather information from new clients that will be used to create their care plan.

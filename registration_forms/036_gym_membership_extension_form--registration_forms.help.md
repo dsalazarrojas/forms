@@ -1,16 +1,3 @@
-<thinking>
-As a form designer and technical writer, my first task is to understand the form's purpose and internal requirements. The gym_membership_extension_form is designed to collect information from individuals or entities wishing to extend their membership at a gym. To determine the form's purpose, let's analyze the provided YAML fields:
-
-The form's main purpose is to collect personal and membership extension information for individuals or entities, likely for administrative or internal use within the gym management system.
-
-The required fields are: first_name, last_name, dob, membership_id, membership_type, renewal_option, payment_details, email, phone, extension_start_date, and extension_end_date. These fields are crucial for identifying and managing the membership extension process.
-
-The optional fields are not explicitly mentioned in the YAML.
-
-To confirm, this form is for gym membership extension, used to update membership information for individuals or entities within the gym's internal management system.
-
-</thinking>
-
 # gym_membership_extension_form - Help Guide
 ## Purpose
 The gym_membership_extension_form is used to update membership information for individuals or entities within the gym's internal management system.

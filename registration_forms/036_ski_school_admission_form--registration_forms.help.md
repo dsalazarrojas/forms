@@ -1,10 +1,3 @@
-<thinking>
-This form is used to register students for ski school programs. The form asks for personal and contact information, medical conditions, and other relevant details to ensure a smooth and safe experience for students. This guide will help you complete the form accurately and thoroughly.
-
-Before starting, please check if you have already registered your student. If you have previously registered, there's no need to fill out this form again. 
-
-</thinking>
-
 # Ski School Admission Form - Help Guide
 ## Purpose
 The Ski School Admission Form is designed to collect necessary information from students to provide a safe and enjoyable ski experience. Please fill out this form with accurate and up-to-date information.

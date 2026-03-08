@@ -1,8 +1,3 @@
-<thinking>
-We need to ensure that this form is completed correctly, and the user understands the purpose of the form before proceeding. This form is for Expo Media Partners to register for the event, providing necessary information for coverage and partnership opportunities. We need to avoid duplicate registrations and ensure that the correct information is provided. This form is a crucial part of our event planning process, and accuracy is key.
-
-</thinking>
-
 # expo-media-partner-registration-form - Help Guide
 ## Purpose
 This form is for Expo Media Partners to register for the event, providing necessary information for coverage and partnership opportunities. Please fill out this form accurately and thoroughly to ensure a successful partnership.

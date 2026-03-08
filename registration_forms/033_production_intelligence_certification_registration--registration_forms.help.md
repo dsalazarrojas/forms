@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registration purposes, likely for certification or membership programs. It's essential to ensure that each field is filled out correctly to avoid duplication of effort and ensure accurate information is collected. The form is designed to be completed by one individual at a time, and the required fields should be filled out as accurately as possible.
-</thinking>
-
 # Production Intelligence Certification Registration - Help Guide
 ## Purpose
 This form is designed for registration purposes, allowing individuals to register for a certification or membership program. It collects personal contact information, certification level, and other relevant details to facilitate the registration process.

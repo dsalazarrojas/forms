@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect the necessary information for a change of address request. Before proceeding, please ensure that you have not previously submitted a change of address request for this individual. If you have already submitted a request, it may be unnecessary to submit another. The purpose of this form is to collect accurate and up-to-date information about the individual's current and new address, as well as any supporting documentation that may be required.
-</thinking>
-
 # Change Of Address Request Form - Help Guide
 ## Purpose
 The Change of Address Request Form is used to request changes to an individual's address. This form is typically used by individuals who are moving to a new address and need to update their records with the organization.

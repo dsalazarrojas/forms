@@ -1,7 +1,3 @@
-<thinking>
-**Internal Note**: This form is designed to collect registration information for a product launch event. The goal is to gather data from attendees who want to participate in the event. Before proceeding, ensure that you have not previously submitted a registration form for the same event. The form has several fields that require information about the attendee, company, job title, contact email, product name, launch date, launch time, registration type, and event name. Please review each field carefully to ensure you provide accurate and relevant information.
-</thinking>
-
 # product_launch_registration_form - Help Guide
 ## Purpose
 The **product_launch_registration_form** is designed to collect registration information for a product launch event. This form helps the event organizers collect details from attendees who want to participate in the event.

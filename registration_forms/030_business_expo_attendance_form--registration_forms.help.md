@@ -1,5 +1,3 @@
-<thinking>Business Expo Attendance Form is used to collect information about attendees and their companies to provide them with relevant details about the expo. This form is intended for those who want to attend the expo and take advantage of its networking opportunities. It's a simple and straightforward form that asks for personal and professional information to help us understand who's attending and what they're interested in. By filling out this form, you'll be able to access expo information such as schedules, attendee lists, and more. To fill out this form, please follow the instructions below.</thinking>
-
 # Business Expo Attendance Form - Help Guide
 ## Purpose
 The Business Expo Attendance Form is used to collect information about attendees and their companies to provide them with relevant details about the expo. This form is intended for those who want to attend the expo and take advantage of its networking opportunities.

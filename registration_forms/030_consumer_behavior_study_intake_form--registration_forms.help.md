@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from consumers about their shopping habits, demographics, and preferences. The purpose of this form is to gather data for a consumer behavior study. This data will help researchers understand consumer behavior patterns, preferences, and trends. Please ensure that you are filling out this form for the purpose of participating in the study and not for any other reason.
-To avoid any issues, please note that:
-1. You must fill out the form in its entirety.
-2. You must be honest and accurate when filling out the form.
-3. You must select only one option for each question that applies to you.
-</thinking>
-
 # Consumer Behavior Study Intake Form - Help Guide
 ## Purpose
 This form is designed to collect information from consumers about their shopping habits, demographics, and preferences for a consumer behavior study.

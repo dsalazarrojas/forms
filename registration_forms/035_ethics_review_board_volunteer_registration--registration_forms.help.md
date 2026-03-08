@@ -1,13 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in volunteering for the Ethics Review Board. Before proceeding, please take a moment to review the following:
-
-*   This form is intended for individuals who are interested in volunteering for the Ethics Review Board.
-*   Please do not submit this form if you are already registered for the Ethics Review Board.
-
-After reviewing the above information, it is assumed that you have the necessary permissions and clearances to proceed with filling out this form.
-
-</thinking>
-
 # Ethics Review Board Volunteer Registration - Help Guide
 ## Purpose
 The Ethics Review Board Volunteer Registration form is used to collect information from individuals who are interested in volunteering for the Ethics Review Board.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # User Research Participant Registration Form - Help Guide
 ## Purpose
 This form is designed to register users as participants in a research study. By filling out this form, you will be able to sign up for the study and provide information about your availability and research interests.

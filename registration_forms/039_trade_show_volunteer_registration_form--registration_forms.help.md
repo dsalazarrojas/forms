@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is designed to collect information from potential volunteers for a trade show event. It is meant to help the event organizers manage volunteer registrations and shifts efficiently. This form is not intended for internal use only, but also for external stakeholders such as event staff and volunteers. The form is designed to collect relevant information for volunteer assignments and scheduling purposes.
 
 # Trade Show Volunteer Registration Form - Help Guide

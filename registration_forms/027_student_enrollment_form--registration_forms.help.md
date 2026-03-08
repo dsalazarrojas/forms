@@ -1,20 +1,3 @@
-<thinking>
-The Student Enrollment Form is a form used to collect information from students who wish to enroll in a course. This form is likely to be used by educational institutions or organizations that offer courses or training programs. To determine the relevance of this form, consider the following questions:
-
-* Does your organization offer courses or training programs that require student enrollment?
-* Are you in need of collecting student information, such as names, emails, and contact numbers?
-* Do you need to process payments or require students to confirm their enrollment status?
-
-If you answered "yes" to any of these questions, this form is likely a valuable tool to help you manage student enrollment.
-
-However, before we dive into the form's purpose and fields, let's review the provided YAML structure. The form has multiple pages, but only one page is defined with the name "student_enrollment_form" and 15 fields. This form appears to be a straightforward, single-page form with a mix of text, email, phone number, select options, and notes fields. The fields are not excessively complex or redundant, indicating that the form is intended to be a clear and concise tool for collecting student information.
-
-The fields provided seem to cover the essential information needed for student enrollment, including student name, contact details, course confirmation, and payment preferences. The "Additional Comments" field suggests that students can provide any additional information they deem relevant to their enrollment.
-
-In this guide, we will cover the purpose of the form, how to complete it, and a field-by-field explanation of each section.
-
-</thinking>
-
 # Student Enrollment Form - Help Guide
 
 ## Purpose

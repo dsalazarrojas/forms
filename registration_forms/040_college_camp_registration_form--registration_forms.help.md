@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to collect information from students who wish to register for a college camp. The form is used to gather demographic and medical information, track camper preferences and interests, and gather payment information for registration. The form should only be filled out by students who are actually registering for the camp.
-
-Before proceeding, ensure that you have already checked on the camp website and that you have a valid registration confirmation number. If you do not know your confirmation number, contact the camp staff for assistance.
-
-Please fill out the form completely and accurately to ensure a smooth registration process.</thinking>
-
 # College Camp Registration Form - Help Guide
 ## Purpose
 The College Camp Registration Form is a comprehensive form used to collect information from students registering for the college camp. This form is used to ensure that we have accurate and up-to-date information about each camper, including demographic details, medical information, and payment information.

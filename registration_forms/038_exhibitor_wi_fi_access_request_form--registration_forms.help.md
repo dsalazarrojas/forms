@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form designed for exhibitors to request access to the WiFi network at an event or exhibition. It's crucial to accurately fill out this form as it will help event staff verify your identity and grant you access to the Wi-Fi network. To avoid delays, it's advisable to fill out this form carefully and truthfully.
-</thinking>
-
 # exhibitor-wi-fi-access-request-form - Help Guide
 ## Purpose
 This form is for exhibitors to request access to the Wi-Fi network at the event or exhibition.

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for users to book a license renewal appointment. The purpose of this form is to collect information necessary for the license renewal process. To prevent duplication, users should only use this form if they have not previously submitted a license renewal request.
-</thinking>
-
 # License Renewal Appointment Booking Form - Help Guide
 ## Purpose
 This form is used to book a license renewal appointment.

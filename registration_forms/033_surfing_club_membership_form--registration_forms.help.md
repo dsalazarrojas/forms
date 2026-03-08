@@ -1,21 +1,3 @@
-<thinking>
-This form is designed to gather information from applicants for membership at the surfing club. It captures essential details such as name, contact information, and membership preferences. 
-The form has 11 fields, each with a specific purpose:
-- First Name: Collects the first name of the applicant.
-- Last Name: Collects the last name of the applicant.
-- Email: Collects the email address of the applicant.
-- Phone: Collects the phone number of the applicant.
-- Date of Birth: Collects the date of birth of the applicant.
-- Membership Type: Selects the type of membership the applicant is interested in (Member, Member - Family, Member - Student, Member - Senior).
-- Membership Duration: Selects the duration of the membership (Month, Six Months, Year, Other).
-- Membership Start Date: Collects the start date of the membership.
-- Membership End Date: Collects the end date of the membership.
-- Payment Method: Selects the payment method for the membership (Bank Transfer, PayPal, Cash).
-- Address: Collects the address of the applicant.
-
-To prevent duplicate applications, we will only process applications with a unique email address. If you've already submitted an application, please contact us before resubmitting with a new email address.
-</thinking>
-
 # Surfing Club Membership Form - Help Guide
 ## Purpose
 

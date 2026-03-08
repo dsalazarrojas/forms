@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Sports Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from students who wish to participate in sports activities. It gathers essential details about the student, including their contact information, medical history, and parental permission.

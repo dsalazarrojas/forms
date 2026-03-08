@@ -1,7 +1,3 @@
-<thinking>
-The form purpose is to register users in a whitelist, allowing them to be granted access to certain resources or systems. This form is designed for users to provide essential information about themselves, such as their name and contact details. The form's output will help the system administrators to verify user identities and manage user access effectively.
-</thinking>
-
 # Whitelist Registration Form - Help Guide
 ## Purpose
 The Whitelist Registration Form is used to register users in a whitelist, allowing them to access certain resources or systems. This form is essential for user identity verification and management.

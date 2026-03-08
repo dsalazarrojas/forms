@@ -1,10 +1,3 @@
-<thinking>
-Form purpose: This form is for registering green property certification, which is a process of verifying and certifying properties that meet certain environmental and sustainability standards. The form collects information about the property address, owner, location, type, certification status, green certification level, certification date, expiration date, sustainability certification standard, certification body, contact person, contact phone, contact email, website, and sustainability committee. This information is used to create a record of properties that have been certified and to track their certification status over time.
-
-Relevance and non-duplication check: The form is relevant to the process of green property certification, and it does not duplicate any existing forms.
-
-</thinking>
-
 # green_property_certification_registration_form - Help Guide
 ## Purpose
 The green property certification registration form is a tool used to register properties that meet certain environmental and sustainability standards.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used by individuals or groups to register for a Science Communication Workshop. The purpose of this form is to collect information from registrants, including their name, contact information, payment details, and workshop preferences. It is crucial to ensure that each registrant provides accurate and complete information to facilitate smooth registration and communication.
-</thinking>
-
 # Science Communication Workshop Registration Form - Help Guide
 ## Purpose
 The Science Communication Workshop Registration Form is designed to collect information from registrants to facilitate the registration process and ensure a smooth experience.

@@ -1,8 +1,3 @@
-<thinking>
-Internal reasoning: This form is designed to collect information about mixed doubles players. It is used to create or update entries in the mixed doubles database. 
-When filling this form, please ensure that all required fields are completed. The form has multiple pages, with each page focusing on different aspects of the player or team details.
-</thinking>
-
 # Mixed Doubles Registration Form - Help Guide
 ## Purpose
 This form is used to register mixed doubles players and teams for events. It collects information about players, such as their names, genders, ages, and ratings. The form also includes fields for event and team details, such as event names, dates, and times.

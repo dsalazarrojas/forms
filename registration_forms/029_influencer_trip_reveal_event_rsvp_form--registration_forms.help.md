@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I'll create a user-facing help guide for the "Influencer Trip Reveal Event RSVP Form" that explains its purpose, how to complete it, and each field's meaning in a clear and concise manner.</thinking>
-
 # Influencer Trip Reveal Event RSVP Form - Help Guide
 ## Purpose
 The "Influencer Trip Reveal Event RSVP Form" is designed to collect information from attendees about a specific trip event. This form helps event organizers gather necessary details, including trip name, start date, guest list, contact information, and trip details such as status, location, name, description, and images. By completing this form, you will be able to RSVP for the event and provide the required information to the event organizers.

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to collect registration information and other necessary details for an online auction. Its primary purpose is to ensure that participants are properly registered and have the necessary information to participate in the auction. This form should be filled out by participants who want to bid on an auction or provide additional information about their auction participation. 
-
-Before filling out this form, please make sure you have a unique auction ID or access code to ensure you're registering for the correct auction.
-
-To avoid duplication of effort, please do not fill out this form if you have already registered for the same auction.
-
-</thinking>
-
 # Online Auction Access Form - Help Guide
 
 ## Purpose

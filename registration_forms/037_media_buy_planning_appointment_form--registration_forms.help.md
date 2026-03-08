@@ -1,6 +1,3 @@
-<thinking> 
-The purpose of this form is to gather information for a media buy planning appointment, which involves scheduling a meeting with a client to discuss and finalize details for a media buying process. This form is meant to be completed by clients or their representatives to provide essential contact and meeting information. It's crucial to ensure that the form is filled out accurately and thoroughly to facilitate smooth communication and meeting arrangements. Before proceeding, review the form carefully to avoid duplication of efforts and unnecessary meetings. Ensure that you provide the most up-to-date and correct information for all fields, especially the email and phone numbers. This will help our team in preparing for the meeting efficiently and effectively. After filling out the form, it will be reviewed by our team to prepare for the meeting. If you have any additional questions or concerns, please reach out to us.</thinking>
-
 # Media Buy Planning Appointment Form - Help Guide
 ## Purpose
 The Media Buy Planning Appointment Form is used to schedule a meeting with a client to discuss and finalize details for a media buying process. This form helps our team gather essential contact and meeting information from clients to ensure a smooth and efficient meeting arrangement.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering players for a local chess blitz tournament. The form should be completed by players who wish to participate in the tournament. Each field is explained below to ensure that the player can fill out the form accurately and without confusion. The form has been designed to be user-friendly and straightforward, with each field clearly labeled. The following help guide will walk the player through each section of the form, explaining each field in detail.
-</thinking>
-
 # Local Chess Blitz Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed for players to register for a local chess blitz tournament. To register, players must fill out the form accurately and completely. The form requires the following information: player details and tournament settings.

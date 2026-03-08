@@ -1,9 +1,3 @@
-<thinking>
-This help guide is intended to assist Animal Control Officers (ACOs) in registering for certification training and examination. It is essential to ensure that each field is filled out correctly to avoid any delays or issues with the registration process. Please note that this form is a requirement for ACO certification and is not intended for general use. It is crucial to review each field carefully to ensure that all necessary information is provided.
-
-This guide will walk you through the registration process, highlighting each field and its corresponding explanation to make it as easy as possible for you to complete. If you have any questions or concerns, please do not hesitate to reach out to us.
-</thinking>
-
 # Animal Control Officer Certification Registration - Help Guide
 ## Purpose
 The Animal Control Officer Certification Registration form is used to collect information from ACOs who are interested in obtaining certification through our training and examination process. This form helps us assess your qualifications, work experience, and other relevant factors to ensure that you are a good fit for our program.

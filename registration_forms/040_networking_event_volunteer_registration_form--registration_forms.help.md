@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to allow volunteers to register for a networking event. Volunteers will be able to provide their contact information, choose their preferred shift, and specify their role within the event. This form will help event organizers gather necessary information for volunteer management and communication. Please ensure that this form is only filled out once per volunteer, and if you have already registered for this event, please do not submit this form again.
-
-</thinking>
-
 # Networking Event Volunteer Registration Form - Help Guide
 ## Purpose
 The Networking Event Volunteer Registration Form is used to register volunteers for a networking event. This form collects contact information, shift preferences, and role assignments for event organization and communication purposes.

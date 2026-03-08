@@ -1,11 +1,3 @@
-<thinking>
-
-The Church Event Registration Form is designed to collect information from attendees and participants for a specific event organized by the church. This form is intended to ensure accurate record-keeping, communication, and facilitation of a smooth event experience for all attendees. The form aims to gather essential details about the event, such as participant preferences, contact information, and dietary requirements, as well as payment and logistics.
-
-Before starting the registration process, please take a moment to review this form's requirements and instructions to ensure a smooth and stress-free experience for both the church staff and attendees alike.
-
-</thinking>
-
 # Church Event Registration Form - Help Guide
 ## Purpose
 The Church Event Registration Form is designed to collect information from attendees and participants for a specific event organized by the church. This form helps to ensure accurate record-keeping, facilitate communication, and provide a smooth event experience for all attendees.

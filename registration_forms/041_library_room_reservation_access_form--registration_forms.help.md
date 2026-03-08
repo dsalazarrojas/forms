@@ -1,9 +1,3 @@
-<thinking>
-
-This form was designed to collect information from library users for room reservation purposes. The goal of this form is to provide a structured way to gather user preferences and requirements for room access. To ensure accuracy, please complete the form with attention to detail, and if you are unsure about any field, refer to this guide for clarification.
-
-</thinking>
-
 # Library Room Reservation Access Form - Help Guide
 ## Purpose
 This form is designed to collect user preferences and requirements for room access at the library. It's essential to provide accurate information to ensure that your needs are met during your visit.

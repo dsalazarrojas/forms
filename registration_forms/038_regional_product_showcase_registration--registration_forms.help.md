@@ -1,8 +1,4 @@
-> <thinking>
-This form is designed to help you showcase a regional product to a wider audience. This form is typically used for products that are relevant to a specific region or geographic area. Please ensure you are registering a product that is actually part of your regional product showcase. If you're unsure, double-check your product's relevance before proceeding. If you've already submitted this form for the same product, please do not resubmit. Resubmitting the same product may cause duplicates in your records.
-</thinking>
-
-# Regional Product Showcase Registration - Help Guide
+> # Regional Product Showcase Registration - Help Guide
 ## Purpose
 The Regional Product Showcase Registration form is designed to help you showcase regional products to a wider audience. This form collects relevant details about your product, including its description, image, and other supporting materials.
 

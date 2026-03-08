@@ -1,14 +1,3 @@
-<thinking>
-To create a user-facing help guide for the given form, I will first break down the form's structure and content.
-
-The form has several pages with 25 fields, each with a unique name, label, and type. We will focus on the provided YAML structure to create the guide.
-
-We will create a help guide that follows the provided Markdown structure and includes the required sections: Purpose, How To Complete This Form, Field-by-Field Explanation, and Tips.
-
-The form is used for registration purposes, and its purpose will be explained in the next section.
-
-</thinking>
-
 # Customer Registration Form - Help Guide
 ## Purpose
 This form is used for customer registration, allowing customers to provide their details and interact with the loyalty program.

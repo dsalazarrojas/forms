@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to register a new translation session. The main goal is to collect user information, language pair preferences, and other relevant details. This form should only be filled out once per session, so please ensure you don't submit this form multiple times for the same session. 
-If you're unsure about any field, please refer to this help guide for clarification.
-</thinking>
-
 # Translation Session Registration - Help Guide
 ## Purpose
 The Translation Session Registration form is a crucial step in the translation process. It helps us understand your preferences and requirements for a successful translation session. Please fill out this form carefully to ensure we have the necessary information to provide you with an accurate and satisfactory translation experience.

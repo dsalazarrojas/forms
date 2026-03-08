@@ -1,9 +1,3 @@
-<thinking>
-This form is a registration form for students to enroll in instrument flight training. 
-It likely collects information about the students, their flight experience, instructors, and scheduling preferences.
-It is not affiliated with any form platform and is an original adaptation of public metadata.
-</thinking>
-
 # Instrument Flight Training Enrollment Form - Help Guide
 ## Purpose
 This form is designed to collect necessary information from students to enroll in instrument flight training. It helps the training program to understand the students' background, flight experience, and scheduling preferences.

@@ -1,11 +1,3 @@
-<thinking>
-
-The festival preparation checklist form is designed to collect important information from vendors, performers, and other stakeholders before a festival. This form helps in ensuring that all necessary arrangements are made to provide a smooth and successful festival experience for all participants. The form is divided into several pages, each focusing on a specific aspect of festival organization and preparation.
-
-Before filling this form, please make sure to carefully review the required information and ensure that you have all necessary details and data ready. Some fields are marked as "required," which means you will need to provide information for these fields to complete the form successfully.
-
-</thinking>
-
 # festival_preparation_checklist_form - Help Guide
 ## Purpose
 This form helps in the preparation and organization of festival events by collecting information on festival details, performer details, stage and sound checks, vendor information, and other relevant details.

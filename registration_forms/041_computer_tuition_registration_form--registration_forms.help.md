@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for computer tuition. The purpose of this form is to gather details from applicants who are interested in applying for computer tuition, including their contact information, course interests, and availability. This form is not intended to be used for any other purpose other than registration for computer tuition. Please ensure you only fill out this form for the correct purpose, and do not attempt to use it for any other reason. 
-</thinking>
-
 # Computer Tuition Registration Form - Help Guide
 ## Purpose
 

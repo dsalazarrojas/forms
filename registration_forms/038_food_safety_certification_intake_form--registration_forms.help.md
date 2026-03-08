@@ -1,9 +1,3 @@
-<thinking>
-
-To confirm the form purpose and avoid duplication, I will ensure that this guide only explains the form's intention and functionality, without including any internal logic or assumptions. This form is intended to collect information about food service providers for food safety certification. The primary goal is to gather necessary data from providers to process their certification requests.
-
-</thinking>
-
 # Food Safety Certification Intake Form - Help Guide
 ## Purpose
 This form is designed to collect essential information from food service providers for food safety certification purposes. The data collected will be used to process and verify the provider's certification.

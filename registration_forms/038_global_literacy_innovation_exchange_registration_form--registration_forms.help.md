@@ -1,9 +1,3 @@
-<thinking>
-This form is used for registering users for the Global Literacy Innovation Exchange.
-The purpose of this form is to collect information about the user, including their name, contact information, language proficiency, and event preferences.
-Before filling out this form, please make sure you have not registered before, as duplicate registrations will not be accepted.
-</thinking>
-
 # Global Literacy Innovation Exchange Registration Form - Help Guide
 ## Purpose
 The Global Literacy Innovation Exchange Registration Form is designed to gather information about users who want to participate in the Global Literacy Innovation Exchange. This form is used to collect basic contact information, language proficiency, and event preferences to ensure that users can be matched with the right opportunities.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering as an angel mentor or advisor. It is a required field for those interested in providing guidance, advice, and support to early-stage startups. By filling out this form, you will be adding your information to our platform, and we will reach out to you to follow up on your interest in joining our community.
-</thinking>
-
 # Angels Registration Form - Help Guide
 ## Purpose
 This form is designed to help you register as an angel mentor or advisor, providing guidance, advice, and support to early-stage startups.

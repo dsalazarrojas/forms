@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used for requesting a pledge of allegiance for a school, and the purpose of this form is to collect information about the school and the students who will be participating in the pledge. It is essential that the form is completed accurately and thoroughly to ensure that the necessary information is gathered for the pledge to be properly executed.
-
-To avoid duplication and ensure the form is filled out correctly, please ensure that you have not filled out this form previously and that the information you provide is accurate and up-to-date.
-
-</thinking>
-
 # pledge_of_allegiance_request_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information about the school and students participating in the pledge of allegiance.

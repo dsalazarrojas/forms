@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the "Hospitality Workforce Upskilling Registration Form" is filled out by individuals who are genuine in their intent to upskill, and not just registering for the sake of it. This form should only be filled out by those who have a real interest in taking the course. 
-</thinking>
-
 # Hospitality Workforce Upskilling Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to register for the Hospitality Workforce Upskilling program. Please fill out the form carefully and honestly to ensure that your application is processed correctly. This form is for individuals who are genuinely interested in upskilling and are not just registering out of obligation.

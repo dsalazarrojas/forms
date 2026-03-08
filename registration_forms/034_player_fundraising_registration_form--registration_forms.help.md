@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register players for a fundraising event, where individuals and couples can participate and set a fundraising goal. The form is designed to collect basic contact information, relationship status, and a specific fundraising goal. This form is only intended for players who wish to participate in fundraising activities. Please note that the form is not intended for non-player registrations or other types of data collection. 
-</thinking>
-
 # Player Fundraising Registration Form - Help Guide
 ## Purpose
 This form is for individuals and couples to sign up for a fundraising event, setting a specific goal for their fundraising efforts.

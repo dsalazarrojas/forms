@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is for employees to schedule training sessions. It's used to gather information about the employee's availability and preferences for the training session. This form is likely used internally within the organization to coordinate and plan training sessions. It's not meant for public use, so it's safe to assume that the employee filling out the form has a connection to the organization.
-
-To avoid duplication of efforts, it's worth noting that this form is probably used by the training department or HR team to gather information and create records for the training sessions.
-
-</thinking>
-
 # Employee Training Session Scheduling Form - Help Guide
 ## Purpose
 This form is used to gather information for employees to schedule their training sessions.

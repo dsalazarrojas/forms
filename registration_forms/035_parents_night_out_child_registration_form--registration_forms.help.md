@@ -1,7 +1,3 @@
-<thinking>
-This form is used for parents to register their children for a Parents Night Out event. The form is likely used by childcare centers or schools to gather information from parents about their child's details and preferences for the event. To ensure accuracy, it is essential to fill out the form correctly and thoroughly.
-</thinking>
-
 # Parents Night Out Child Registration Form - Help Guide
 ## Purpose
 The Parents Night Out Child Registration Form is designed to collect information about your child for a fun and safe experience during our Parent's Night Out event. Please fill out this form to ensure we have the necessary details to take care of your child during the event.

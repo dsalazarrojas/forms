@@ -1,10 +1,3 @@
-<thinking>
-To avoid duplication, we'll assume that this form is designed for new students applying to a charter school. This form will collect essential information about the student and their parent or guardian. The form is divided into several sections, each focusing on a different aspect of student information.
-
-This form is meant to gather the necessary details required for student admission to the charter school. It asks for student information such as name, date of birth, and grade applying for. For parents or guardians, it requests contact details like phone number, email address, and home address. Additionally, it includes questions about the student's educational background, academic performance, and special education services needed.
-
-</thinking>
-
 # Charter School Admission Form - Help Guide
 ## Purpose
 This form is designed for new students applying to a charter school. It collects essential information about the student and their parent or guardian to streamline the admission process.

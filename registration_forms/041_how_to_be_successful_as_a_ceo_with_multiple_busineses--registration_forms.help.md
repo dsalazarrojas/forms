@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to help individuals assess their current leadership skills and identify areas for improvement. The goal is to provide a personalized learning experience that focuses on reducing stress and increasing effectiveness as a CEO with multiple businesses. This form should not be completed by individuals who are not interested in improving their leadership skills or who already possess advanced leadership abilities.
-
-This form is intended to be a unique entry point for users who are interested in learning how to lead with less stress and more effectiveness. If you've already completed this form, please do not proceed further. If you're not certain about the form purpose, please reevaluate your leadership goals before continuing.
-</thinking>
-
 # How To Be Successful As A Ceo With Multiple Busineses - Help Guide
 ## Purpose
 This form is designed to help you assess your current leadership skills and identify areas for improvement as a CEO with multiple businesses.

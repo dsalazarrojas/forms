@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Free Lunch Giveaway Entry Form - Help Guide
 
 ## Purpose

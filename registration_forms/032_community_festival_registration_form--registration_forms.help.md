@@ -1,10 +1,3 @@
-<thinking>
-As a form expert and technical writer, I need to ensure that users understand the purpose and usage of this registration form for the Community Festival. This form is for registering participants to attend the festival, which offers various categories such as Music, Food, Arts, Cultural, Film, and Harvest festivals. 
-
-Before we dive into the help guide, it's essential to note that some fields have specific requirements or have specific options. Please make sure you're registering for the correct festival category and attending the correct festival days. Additionally, be honest about your participation type, dietary restrictions, and accessibility needs.
-
-</thinking>
-
 # Community Festival Registration Form - Help Guide
 ## Purpose
 The Community Festival Registration Form is designed for participants to register for the festival of their choice, providing essential information for a smooth registration process.

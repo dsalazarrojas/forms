@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Nurse Anesthetist Registration Form - Help Guide
 
 ## Purpose

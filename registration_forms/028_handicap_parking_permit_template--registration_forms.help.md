@@ -1,10 +1,3 @@
-<thinking>
-This form was generated using AI to create a handicap parking permit template. The purpose of this form is to collect information from individuals with disabilities who require parking accommodations. This form is designed to be completed by the individual themselves or by a representative on their behalf, typically for parking permit applications or other related purposes.
-
-Please note that this form is a generic template and may need to be adapted or modified according to the specific requirements and regulations of your organization or institution.
-
-</thinking>
-
 # Handicap Parking Permit Template - Help Guide
 ## Purpose
 This form is designed to collect information from individuals with disabilities who require parking accommodations. It is used to gather details about the individual's handicap type, vehicle information, and other relevant details.

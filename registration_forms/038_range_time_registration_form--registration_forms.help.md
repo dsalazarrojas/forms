@@ -1,7 +1,3 @@
-<thinking>
-The range time registration form is intended to collect information from participants to register their shooting time ranges. This form helps track and record the shooting times of participants. Before filling out this form, please ensure you are not duplicating an already existing registration. If you are unsure, double-check with the relevant authorities or contact the form owners.
-</thinking>
-
 # range_time_registration_form - Help Guide
 ## Purpose
 The purpose of this form is to collect shooting time range information from participants.

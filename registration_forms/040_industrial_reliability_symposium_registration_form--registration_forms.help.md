@@ -1,9 +1,3 @@
-<thinking>
-The Industrial Reliability Symposium Registration Form is a crucial tool for participants to sign up for the Industrial Reliability Symposium event. This form is used to collect necessary information from attendees before the event starts. The form should only be completed if you are planning to attend the Industrial Reliability Symposium.
-
-The symposium is a technical conference focused on industrial reliability, and this form will be used to gather essential details from attendees to ensure they can be properly registered and updated about the event.
-</thinking>
-
 # Industrial Reliability Symposium Registration Form - Help Guide
 ## Purpose
 The Industrial Reliability Symposium Registration Form is a registration form for attendees of the Industrial Reliability Symposium event. It collects relevant information from attendees to facilitate their registration and participation in the event.

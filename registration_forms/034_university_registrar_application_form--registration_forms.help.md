@@ -1,10 +1,3 @@
-<thinking>
-To ensure the University Registrar Application Form is completed correctly, it's essential to understand its purpose and the information it collects. This form is designed to gather essential details from students or individuals applying to the university for registration. 
-It's crucial to fill out the form accurately to avoid any confusion or miscommunication with the registrar's office.
-Please note that the form is not a duplicate or redundant process. Each field is designed to collect unique information, and skipping or misfilling fields can lead to delays or rejection of the application.
-Before proceeding, review the form carefully and ensure you have all the necessary information ready.
-</thinking>
-
 # University Registrar Application Form - Help Guide
 ## Purpose
 The University Registrar Application Form is a document used by students or individuals to provide necessary information to the university registrar's office. This form helps the registrar's office to keep track of student records and ensure smooth registration and admission processes.

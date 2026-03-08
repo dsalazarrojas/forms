@@ -1,7 +1,3 @@
-<thinking>
-This is a critical component of the application process for a user-facing form designed to gather information for the holistic program. This form is intended to collect essential details about the participant, their program of interest, and contact information. To ensure that the form is used for its intended purpose and to prevent duplicate applications, a brief internal reasoning block checks for relevance and non-duplication before allowing submission. This form is a necessary step in the application process and should only be filled out by individuals who have a genuine interest in participating in the program.
-</thinking>
-
 # Holistic Program Application Form - Help Guide
 ## Purpose
 The Holistic Program Application Form is designed to gather information from interested participants to facilitate their application process for the holistic program. This form is a critical component of the application process, and it is essential to fill it out accurately and completely.

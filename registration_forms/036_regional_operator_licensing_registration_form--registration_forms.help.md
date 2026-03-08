@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Regional Operator Licensing Registration Form - Help Guide
 ## Purpose
 The Regional Operator Licensing Registration Form is a form used to register regional operators for the purpose of obtaining a license. This form collects essential information about the operator, their contact details, and license-specific information.

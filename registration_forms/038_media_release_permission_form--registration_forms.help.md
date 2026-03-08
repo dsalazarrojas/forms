@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # media_release_permission_form - Help Guide
 ## Purpose
 The "media_release_permission_form" is a form used for obtaining permission to release media, such as images, videos, or audio recordings, for various purposes. This form is designed to ensure that the individual being photographed or recorded has given their consent for the release of their media.

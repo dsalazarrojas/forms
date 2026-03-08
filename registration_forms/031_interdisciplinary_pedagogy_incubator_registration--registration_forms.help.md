@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to collect participant information and preferences for an Interdisciplinary Pedagogy Incubator program. The purpose of this form is to register participants for the program, which likely involves collecting demographic information, interests, and preferences for the incubator's activities. The form is likely used for registration purposes only and will not be used for any other purpose. Please ensure that you are completing this form only once for each participant. If you have any existing records in the system, please do not re-register.
-</thinking>
-
 # Interdisciplinary Pedagogy Incubator Registration - Help Guide
 ## Purpose
 This form is used to register participants for the Interdisciplinary Pedagogy Incubator program.

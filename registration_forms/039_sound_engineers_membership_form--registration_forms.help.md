@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sound Engineers Membership Form - Help Guide
 
 ## Purpose

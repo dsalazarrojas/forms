@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # pantomime_attendance_registration - Help Guide
 
 ## Purpose

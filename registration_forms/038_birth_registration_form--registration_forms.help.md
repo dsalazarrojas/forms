@@ -1,7 +1,3 @@
-<thinking>
-  This form is a digital representation of the traditional birth registration form used in various countries. It's designed to collect essential information about an infant's birth, including details about the newborn, the mother, and the birth circumstances. The purpose of this form is to create an official birth record, which is a critical document used for various administrative and legal purposes. This guide will walk you through each field and what information is expected from you as you complete the form.
-</thinking>
-
 # Birth Registration Form - Help Guide
 ## Purpose
 The Birth Registration Form is a crucial document that provides official proof of a child's birth. It's a critical piece of information required for various administrative and legal purposes, such as applying for government services, accessing health care, and enrolling in school.

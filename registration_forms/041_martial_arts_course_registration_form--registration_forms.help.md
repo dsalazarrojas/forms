@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from individuals interested in a martial arts course. This form is designed to be completed by users who wish to enroll in a martial arts program, and it serves as a data collection tool to gather necessary information for course administration and logistics. By filling out this form, users can provide their personal details, emergency contact information, and other relevant data that will help the course organizers manage the program more effectively.
-
-Before proceeding, please ensure that you haven't completed this form previously. Duplicate submissions may result in confusion and potential data errors.
-</thinking>
-
 # Martial Arts Course Registration Form - Help Guide
 ## Purpose
 The Martial Arts Course Registration Form is designed to collect information from individuals interested in enrolling in a martial arts course.

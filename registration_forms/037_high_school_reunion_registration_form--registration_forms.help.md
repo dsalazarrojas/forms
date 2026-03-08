@@ -1,7 +1,3 @@
-<thinking>
-A High School Reunion Registration Form is a critical document used to collect essential information from attendees to a high school reunion. The purpose of this form is to gather basic contact information, employment status, family details, and purchase preferences for each attendee, allowing the reunion organizers to manage the event effectively.
-</thinking>
-
 # High School Reunion Registration Form - Help Guide
 ## Purpose
 The High School Reunion Registration Form is designed to collect vital data from attendees to ensure a smooth and enjoyable experience during the reunion.

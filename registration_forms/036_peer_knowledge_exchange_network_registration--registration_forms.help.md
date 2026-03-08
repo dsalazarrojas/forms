@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Peer Knowledge Exchange Network Registration - Help Guide
 ## Purpose
 The Peer Knowledge Exchange Network Registration form is used to register users for the Peer Knowledge Exchange Network. This form collects information about the user's community, role, expertise, learning goals, contact email, and contact phone. The purpose of this form is to create a profile for the user to connect with others in the network and access resources and opportunities.

@@ -1,9 +1,3 @@
-<thinking>
-
-This help guide provides step-by-step instructions and explanations for the "Fitness Club Membership Extension Form" to ensure that users complete the form accurately and efficiently. The form is used to extend or renew existing membership, providing a convenient and streamlined process for members and administrators. This guide will cover the purpose of the form, how to complete it, and a detailed explanation of each field to minimize misunderstandings and errors.
-
-</thinking>
-
 # Fitness Club Membership Extension Form - Help Guide
 ## Purpose
 The Fitness Club Membership Extension Form is designed to gather information for extending or renewing existing membership. Please complete this form to provide the necessary details for your membership extension.

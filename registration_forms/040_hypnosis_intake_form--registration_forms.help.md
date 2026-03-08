@@ -1,15 +1,3 @@
-<thinking>
-To determine the purpose and usage of the Hypnosis Intake Form, let's review the provided YAML fields. The form is divided into several pages with fields containing client information, medical history, and emergency contact details. The purpose of this form is likely to gather essential data from clients about their medical history, current health status, and emergency contact information to facilitate safe and effective hypnosis treatment.
-
-The fields are:
-
-*   Client Information: This section includes fields for client name, date of birth, phone number, and email.
-*   Medical History: This page collects information about the client's medical history, current medical conditions, and any allergies or medications they might be taking.
-*   Emergency Contact: This section is used to specify the emergency contact's name, relationship, and phone number.
-*   Medical Provider: This page collects details about the client's medical provider's name and phone number.
-*   Medical Tests: This page is used to record medical tests and their descriptions, results, and dates.
-</thinking>
-
 # Hypnosis Intake Form - Help Guide
 
 ## Purpose

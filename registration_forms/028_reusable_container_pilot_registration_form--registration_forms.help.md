@@ -1,13 +1,3 @@
-<thinking>
-
-The Reusable Container Pilot Registration Form is a comprehensive form designed to collect information about reusable containers, which are containers that can be reused multiple times. This form is intended for registration of reusable containers that need to be tracked and monitored for their usage, status, and maintenance. 
-
-The form is not intended for general public use, as some fields are meant for internal tracking and management purposes only. It's primarily used by authorized personnel within the organization.
-
-To complete this form accurately, please ensure you have all the necessary information about the reusable container in question. 
-
-</thinking>
-
 # Reusable Container Pilot Registration Form - Help Guide
 ## Purpose
 This form collects information about reusable containers for registration and tracking purposes.

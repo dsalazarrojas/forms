@@ -1,12 +1,3 @@
-<thinking>
-We will be creating a user-facing help guide for the "hackathon_attendance_form" form, which is used for registering participants for a hackathon. The form will guide end-users on its purpose, how to complete it, and what each field means.
-
-The form is designed to collect information about participants attending a hackathon, including their name, email, contact phone number, and other relevant details.
-
-To ensure relevance and non-duplication, we will be referencing the provided YAML fields in the help guide.
-
-</thinking>
-
 # hackathon_attendance_form - Help Guide
 ## Purpose
 The "hackathon_attendance_form" is a form used to register participants for a hackathon event. It collects essential information about each participant, which is helpful for event organization and communication.

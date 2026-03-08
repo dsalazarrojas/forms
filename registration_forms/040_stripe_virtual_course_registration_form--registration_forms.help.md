@@ -1,21 +1,3 @@
-<thinking>
-
-To create a user-facing help guide for the Stripe Virtual Course Registration Form, we need to determine the form's purpose and identify any potential issues or concerns that may arise from its completion. 
-
-The form's purpose is to collect information from users for the Stripe Virtual Course Registration. 
-
-However, it's crucial to verify that the form is not being duplicated and that the provided information is accurate and complete. This can be achieved by implementing validation checks on the form fields to ensure the correct information is submitted. 
-
-Upon further review, we notice that some fields might be considered redundant or unnecessary for the user's understanding. 
-
-The Stripe Plan field and associated fields (Stripe Plan Amount, Stripe Plan Price) might be considered redundant as the Stripe payment method can be chosen from the options provided, eliminating the need for users to provide additional details. 
-
-Similarly, the Customer Name, Customer Email, Customer Phone, and Customer Address fields might also be considered redundant as they are not directly related to the virtual course registration process. 
-
-With these considerations in mind, the form's main fields of focus would include the First Name, Last Name, Email, Phone, Course, Payment Method, Payment Amount, Confirm, Confirm Phone, Confirm Email, and Stripe Plan fields.
-
-</thinking>
-
 # Stripe Virtual Course Registration Form - Help Guide
 ## Purpose
 This form is designed to register users for a virtual course. It requires users to provide their first name, last name, email address, phone number, course selection, payment method, payment amount, and confirm the registration details.

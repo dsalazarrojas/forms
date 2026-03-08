@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is to register for sports safeguarding training. This form is designed to collect relevant information from individuals who want to participate in sports safeguarding training. The form is intended for anyone who needs to complete it, regardless of their role or affiliation. It is not meant to be a one-time activity, but rather a registration process for ongoing training and certification. Before proceeding, please ensure that you have not already registered for this training, as duplicate registrations may cause confusion and lead to incorrect records. Please note that the form is divided into multiple pages, each focusing on a different aspect of the registration process. Please read the entire form carefully to ensure that you provide accurate and complete information.</thinking>
-
 # Sports Safeguarding Training Registration - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who want to participate in sports safeguarding training. It is intended for anyone who needs to complete it, regardless of their role or affiliation.

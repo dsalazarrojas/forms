@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering a new user. The purpose of this form is to collect basic contact information for an individual, allowing us to keep track of their participation in the event. Please ensure that this is the correct form for your intended use and do not duplicate your registration by submitting multiple times.
-</thinking>
-
 # Stunts Tumble Registration Form - Help Guide
 ## Purpose
 The Stunts Tumble Registration Form is designed to collect basic contact information for users who wish to participate in the event. This form is used to register new users and store their data for future reference.

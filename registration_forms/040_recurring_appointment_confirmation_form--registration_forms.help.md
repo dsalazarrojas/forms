@@ -1,6 +1,3 @@
-<thinking>
-The form purpose is to confirm and set up recurring appointments with clients. It is designed for service providers to confirm client appointments that will be repeated in the future. The form captures essential information about the appointment, including the appointment date and time, client details, and recurring schedule. This form is intended for service providers who want to streamline their scheduling and improve client communication.</thinking>
-
 # Recurring Appointment Confirmation Form - Help Guide
 
 ## Purpose

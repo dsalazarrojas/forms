@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Store Layout Optimization Registration Form - Help Guide
 ## Purpose
 The Store Layout Optimization Registration Form is a tool designed to gather information from store owners or participants in store layout optimization processes. This form aims to gather relevant details about stores, which will help in optimizing their layout for better customer satisfaction and overall retail experience.

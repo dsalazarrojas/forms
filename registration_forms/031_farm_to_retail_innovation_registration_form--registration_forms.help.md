@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Farm To Retail Innovation Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for convention technical staff to register themselves for specific technical positions at a convention. The purpose of this form is to gather necessary information about the staff members' skills, experience, and availability to efficiently assign them to the right roles and shifts. The form is used to collect data on the following: full name, email address, phone number, emergency contact information, technical role, experience level, years of experience, assigned area, shift preference, available dates, technical skills, safety certification, uniform size, tools and equipment requirements, briefing and training status, venue familiarity, contact information, and additional comments.
-</thinking>
-
 # Convention Technical Staff Registration Form - Help Guide
 
 ## Purpose

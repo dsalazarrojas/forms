@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Webinar Organization Permission Form - Help Guide
 
 ## Purpose

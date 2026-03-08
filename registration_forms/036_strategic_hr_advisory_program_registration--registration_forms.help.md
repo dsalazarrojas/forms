@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # strategic-hr-advisory-program-registration - Help Guide
 ## Purpose
 The purpose of this form is to register a participant for the Strategic HR Advisory Program. Please fill out this form if you are interested in participating in the program.

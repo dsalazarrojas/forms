@@ -1,7 +1,3 @@
-<thinking>
-This form is used to help users register on the recruitment platform. It is meant to collect basic information about the user, including name, contact details, and job preferences. This is an optional form and users are not required to complete it. It is likely used for marketing or lead generation purposes, but the actual business logic behind this form is unclear.
-</thinking>
-
 # recruitment_platform_subscription_form - Help Guide
 ## Purpose
 The recruitment platform subscription form is used to collect basic information about users and job seekers who want to register on the platform.

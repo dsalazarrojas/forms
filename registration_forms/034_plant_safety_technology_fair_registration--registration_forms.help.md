@@ -1,12 +1,3 @@
-<thinking>
-This help guide will guide the end-user through the steps necessary to complete the "Plant Safety Technology Fair Registration" form. The form is designed to collect attendee information and emergency contact details for the event. The form is divided into 16 fields, each with its own specific purpose and requirements. The form can be completed online or in-person, and it is recommended to review each field carefully to ensure accurate and complete information is provided.
-
-The form is not intended to be completed by the same person multiple times. If you have already registered for the event, please do not attempt to complete this form again. If you are unsure about any field or its purpose, please reach out to the event organizers for clarification.
-
-This guide will walk you through each field, explaining its purpose and requirements. Please take the time to carefully review each field to ensure accurate and complete information.
-
-</thinking>
-
 # Plant Safety Technology Fair Registration - Help Guide
 ## Purpose
 The "Plant Safety Technology Fair Registration" form is designed to collect attendee information and emergency contact details for the event. This form is used to ensure that event organizers have accurate and up-to-date information about attendees in case of an emergency.

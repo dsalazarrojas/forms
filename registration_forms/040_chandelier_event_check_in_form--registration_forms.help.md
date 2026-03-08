@@ -1,10 +1,3 @@
-<thinking>
-To determine the purpose of this form, I analyzed the provided YAML fields and noticed that the form is intended for event check-in, likely for a conference, convention, or gathering. The form collects information about attendees, including their name, email, phone number, and other details such as event name, date, and time.
-
-Upon examining the fields, I inferred that the form is used for registration and check-in purposes, possibly to track attendee information for event management, security, and networking purposes. The form also seems to collect information on meal preferences, networking interests, and photography consent, suggesting that it is not only for administrative tasks but also for attendee convenience and experience.
-
-Considering the fields and their labels, I did not find any indication of duplication or redundancy, so I did not detect any potential issues in the form design.</thinking>
-
 # Chandelier Event Check In Form - Help Guide
 
 ## Purpose

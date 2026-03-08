@@ -1,15 +1,3 @@
-<thinking>
-The form purpose is to gather information from individuals who want to register for computer training sessions. This form helps us understand who is interested in these sessions, which courses they want to attend, and how they would like to pay for the training. This form will likely be used by training administrators to organize and plan computer training sessions.
-
-Before proceeding, please make sure that you have not filled out this form before, as this is a generated form and does not retain any data.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created by AI using public survey topic metadata as inspiration.
-
-The form is released under CC BY 4.0, which means you are free to use, modify, and even sell forms derived from it, as long as you give credit.
-
-If you have any questions or concerns, please contact form@gic.mx.
-</thinking>
-
 # Computer Training Registration Form - Help Guide
 ## Purpose
 This form is designed to help computer training administrators gather information from individuals who want to register for computer training sessions. It will be used to track who is interested in these sessions, which courses they want to attend, and how they would like to pay for the training.

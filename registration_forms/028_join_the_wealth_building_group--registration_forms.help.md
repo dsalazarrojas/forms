@@ -1,15 +1,3 @@
-<thinking>
-This form is designed for individuals or entities interested in joining "The Wealth Building Group", a hypothetical organization or community focused on financial education, investment, or entrepreneurship. The form aims to collect member details, goals, and objectives for the purpose of onboarding or integrating new members. This guide is intended to assist in completing the form accurately and efficiently. 
-
-The form has three fields to collect the following information:
-
-* Member Details (page 1): This page is for basic contact information and identification.
-* Goals and Objectives (page 1): This page asks about the member's short-term and long-term goals and objectives.
-* Consent (page 1): This page confirms the member's consent for data collection and usage.
-
-Please ensure the form is completed for the intended purpose and only by authorized personnel. Duplicate or irrelevant submissions are discouraged and may lead to unnecessary processing or confusion.
-</thinking>
-
 # Join The Wealth Building Group - Help Guide
 ## Purpose
 This form is designed to collect information from individuals or entities interested in joining "The Wealth Building Group" for onboarding or integration purposes. It helps us understand your member details, goals, and objectives to better serve our community.

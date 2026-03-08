@@ -1,23 +1,3 @@
-<thinking>
-This form is designed to collect participant information for an event. It gathers essential details such as participant name, contact information, event details, and other relevant data. This form ensures that all necessary information is collected to register participants for the event.
-
-To complete this form, please follow these steps:
-
-1.  Enter the participant's name.
-2.  Provide contact information, including email, phone, and address.
-3.  Answer "Will you attend?" to confirm your attendance.
-4.  Share information about your past experience with the events.
-5.  Disclose any medical history that should be known.
-6.  Agree to the terms and conditions.
-7.  Enter your fundraising goal.
-8.  Specify the frequency of your contribution.
-9.  Enter any participant image or video.
-10. Sign the participant signature.
-11. Confirm participant attendance.
-12. Confirm your contribution amount.
-13. Confirm the frequency of your contribution.
-</thinking>
-
 # Participation And Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect participant information for an event.

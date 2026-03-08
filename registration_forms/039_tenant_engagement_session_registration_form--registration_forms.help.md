@@ -1,7 +1,3 @@
-<thinking>
-The form is a "Tenant Engagement Session Registration Form" designed to collect information from tenants about their engagement sessions. Before proceeding, please ensure you have all necessary information ready and haven't registered for the same session previously. This form is not intended for multiple registrations for the same session.
-</thinking>
-
 # Tenant Engagement Session Registration Form - Help Guide
 ## Purpose
 This form is used to register for a tenant engagement session. It is essential to fill out this form accurately to ensure you can attend the session and receive updates about any changes or cancellations.

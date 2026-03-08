@@ -1,7 +1,3 @@
-<thinking>
-This form is used to collect information from participants regarding a machine learning training event. The form includes participant details, payment information, and course specifics. It ensures that the participant provides accurate and complete data for successful registration.
-</thinking>
-
 # Machine Learning In Production Training Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect essential information from participants regarding a machine learning training event. This includes participant details, payment information, and course specifics.

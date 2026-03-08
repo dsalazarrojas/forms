@@ -1,7 +1,3 @@
-<thinking>
-This form is used by exhibitors to register for an event. To prevent duplicate registration, we will be checking for unique booth numbers and exhibit types.
-</thinking>
-
 # Exhibitor Registration Form - Help Guide
 ## Purpose
 The Exhibitor Registration Form is used by exhibitors to provide information for their booth registration at an event. Please fill in your details to register your exhibit.

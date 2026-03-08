@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from users for a running safari event registration. It is intended for users who want to participate in the event and need to provide basic information, payment details, and other relevant data to secure their spot. To confirm, the form will not be duplicated in the database if the user has already registered for the same event.
-
-</thinking>
-
 # Registration For Running Safari - Help Guide
 ## Purpose
 This form is intended for users to register for the running safari event, providing essential information and payment details to ensure a smooth registration process.

@@ -1,9 +1,3 @@
-<thinking>...internal reasoning...
-
-This form is designed to collect information from attendees at a game day event, likely for event organizers, administrators, or staff. The form is not affiliated with or endorsed by any specific form platform, but rather an original adaptation created using public survey topic metadata. Its purpose is to ensure accurate and efficient collection of attendee information, emergency contacts, registration details, and special requests.
-
-</thinking>
-
 # Game Day Check In Form - Help Guide
 ## Purpose
 The Game Day Check In Form is designed to collect essential information from attendees at a game day event. This form helps event organizers and staff efficiently manage attendee registrations and ensure a smooth event experience.

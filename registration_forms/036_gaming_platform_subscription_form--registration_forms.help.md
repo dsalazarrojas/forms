@@ -1,12 +1,3 @@
-<thinking>
-This help guide will cover the purpose and usage of the "gaming_platform_subscription_form" form. The form's primary purpose is to collect registration information and payment details from users who wish to subscribe to a gaming platform. It is designed to be completed by individuals who are interested in subscribing to the platform, and it is not intended for internal employees or administrators.
-
-Upon reviewing the form schema, the fields are categorized into different sections: contact information, payment details, subscription information, and billing details. Each field is designed to collect specific data that will help process the user's subscription request.
-
-Before proceeding, ensure that you have reviewed all required fields and that you have the necessary information to complete the form. If you need help with any of the fields, refer to the field-by-field explanation section below.
-
-</thinking>
-
 # gaming_platform_subscription_form - Help Guide
 ## Purpose
 The gaming_platform_subscription_form is a registration form used to collect information from users who wish to subscribe to the gaming platform. This form is designed to capture relevant details such as contact information, payment methods, subscription preferences, and billing information to process the user's subscription request.

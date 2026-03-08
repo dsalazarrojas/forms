@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly and not filled out unnecessarily. This form is for registering for a Doula networking event, which means it's meant for individuals who want to attend, participate, or showcase their skills. It's essential to fill out the form accurately and completely, as the information will be used to manage event logistics and participant expectations. To avoid duplication, please check if you've already registered for this event before filling out the form.
-</thinking>
-
 # Doula Networking Event Registration - Help Guide
 ## Purpose
 The Doula Networking Event Registration form is designed for individuals who want to register for a Doula networking event. This form helps us gather essential information to manage event logistics and participant expectations.

@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect registration information from individuals interested in attending a Regional Accommodation Tech Hub event. This form will guide you through the process of filling it out correctly.
-To fill out this form, you need to complete each field accurately and thoroughly. Please ensure you have all the necessary information before proceeding.
-The form is divided into several sections, each with its own unique label and purpose. Please take the time to review each section carefully to ensure you're providing the correct information.
-</thinking>
-
 # Regional Accommodation Tech Hub Registration - Help Guide
 ## Purpose
 This form is designed to collect registration information from individuals interested in attending the Regional Accommodation Tech Hub event.

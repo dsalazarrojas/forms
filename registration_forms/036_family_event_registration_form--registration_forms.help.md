@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect event registration information for family events. It is intended for use by event hosts and coordinators to gather relevant details about an event, including its date, location, and contact information. The form does not require any fields to be filled out, making it optional for users. This guide will walk you through each field of the form and explain how to complete it.
-</thinking>
-
 # Family Event Registration Form - Help Guide
 ## Purpose
 This form is used to collect event registration information for family events, providing a convenient and structured way for event hosts to gather necessary details about their events.

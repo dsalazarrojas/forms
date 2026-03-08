@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect registration information from individuals attending the Occupational Therapy Innovation Forum. The purpose of this form is to gather basic contact information, registration goals, and payment details for participants, as well as their consent to certain terms and conditions. Please note that not all fields are required and you can leave some optional fields blank if you don't have the information or prefer not to provide it.
-
-The form will be used to create a registration record, which will help the organizers to prepare and organize the event effectively. 
-
-</thinking>
-
 # Occupational Therapy Innovation Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for the Occupational Therapy Innovation Forum.

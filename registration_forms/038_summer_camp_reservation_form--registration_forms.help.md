@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from parents or guardians to register their child or children for a summer camp program. The form requires basic contact information from the parent or guardian and additional details about the child, such as their name, address, and camp preferences. The fields are mostly optional, which means parents can skip filling out any field if they are not required for camp registration.
-
-Before filling out this form, please note that you should only register one child per form submission. If you have multiple children to register, please fill out this form once for each child, ensuring you provide separate information for each child.
-
-Also, ensure that you enter your email address correctly in the "Email" field, following the standard email format of "username@domain.tld" and using a valid domain name. If you are having trouble registering, please contact the summer camp team.
-</thinking>
-
 # Summer Camp Reservation Form - Help Guide
 ## Purpose
 The Summer Camp Reservation Form is a registration form for parents or guardians to register their child or children for a summer camp program. The form collects contact information from the parent or guardian and details about the child.

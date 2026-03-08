@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register attendees for the HR Policy Modernization Roundtable. The purpose of the form is to gather information from attendees, including their details, session preferences, and accessibility needs, to facilitate a smooth and inclusive experience for all participants. The form will help the event organizers to tailor the roundtable discussion according to the attendees' needs and preferences. 
-</thinking>
-
 # HR Policy Modernization Roundtable Registration - Help Guide
 ## Purpose
 The HR Policy Modernization Roundtable Registration form is designed to collect information from attendees to ensure a productive and inclusive discussion during the roundtable.

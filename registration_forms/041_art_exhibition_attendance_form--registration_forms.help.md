@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to gather visitor information and attendance details for art exhibitions. 
-The form is used to collect contact information, attendance preferences, and interests of the visitors. It is intended for exhibition organizers to have a better understanding of their audience and tailor their services and events according to the visitors' preferences.
-This guide is to ensure that the form is completed correctly and to make the most out of it.
-</thinking>
-
 # Art Exhibition Attendance Form - Help Guide
 
 ## Purpose

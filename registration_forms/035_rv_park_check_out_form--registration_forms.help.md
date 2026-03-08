@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about a guest's stay at an RV park, including their name, arrival and departure dates, contact information, and ratings or comments about the park. This form is likely used by park staff to record and process guest information, manage their stay, and ensure accurate billing and payment processing. The form's design appears to be intended for use at check-out time, when guests are leaving the park and need to provide final details about their stay. 
-</thinking>
-
 # rv_park_check_out_form - Help Guide
 ## Purpose
 The rv_park_check_out_form is used to collect information from guests at the time of check-out. This information helps park staff to record and process guest stays, manage guest interactions, and ensure accurate billing and payment processing.

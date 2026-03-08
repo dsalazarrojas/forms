@@ -1,7 +1,3 @@
-<thinking>
-This form is used by individuals to express their interest in participating in a fashion show. The form will be used to collect contact information and specific event details from interested participants. This guide will help end users understand the purpose and requirements of the form.
-</thinking>
-
 # Fashion Show Participation Request Form - Help Guide
 ## Purpose
 This form is a way for you to express your interest in participating in the upcoming fashion show. It will help us gather your contact information and event details so that we can keep you informed about the show's schedule, venue, and any other important information.

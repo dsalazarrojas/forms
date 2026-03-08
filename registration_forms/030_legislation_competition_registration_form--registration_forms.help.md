@@ -1,11 +1,3 @@
-<thinking>
-
-This form is intended for registration of a legislation competition event. The purpose of the form is to gather information from individuals or organizations wishing to participate in the competition. The form is used to collect basic contact information and details about the event.
-
-Before proceeding with the form, please ensure you are not duplicating a previous registration. This guide will walk you through each section of the form, helping you provide accurate and complete information.
-
-</thinking>
-
 # Legislation Competition Registration Form - Help Guide
 ## Purpose
 This form is used to register for a legislation competition event. Fill out the form with your details to participate in the competition.

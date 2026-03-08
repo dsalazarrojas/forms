@@ -1,14 +1,3 @@
-<thinking>
-This form is intended to gather information for baseball tryouts, specifically for children and young adults. The goal of this form is to collect demographic data, contact information, and medical history from the player and their parent or guardian. The fields collected include:
-- Player personal details (name, birthdate, age, gender, medical conditions, insurance provider)
-- Contact information (parent/guardian name, email, phone, relationship)
-- Tryout information (date and school affiliation)
-- Athletic experience and skills (grade level, years of experience, positions played, bats, throws)
-- Waiver and code of conduct agreements
-
-To avoid duplication, ensure you are not already registered or participating in another tryout event.
-</thinking>
-
 # Baseball Tryout Form - Help Guide
 ## Purpose
 This form is intended for baseball players to register for tryouts and gather information for the tryout process.

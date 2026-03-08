@@ -1,7 +1,3 @@
-<thinking>
-This form is used for athlete registration, and it's essential to ensure you're completing it correctly to avoid any issues. To confirm, you are 18 years or older, and you're registering for an athletic activity. Please take the time to read through each section carefully, and answer every question accurately.
-</thinking>
-
 # Athlete Waiver Form - Help Guide
 ## Purpose
 This form is used to ensure that you, as the athlete, understand and agree to the terms and conditions of participating in the activity. It includes sections for personal information, participation details, risk acknowledgment, and medical and insurance information, as well as a media release and signature section.

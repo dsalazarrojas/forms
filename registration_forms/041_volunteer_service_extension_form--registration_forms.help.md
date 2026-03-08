@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to allow users to extend their volunteer service. The purpose of the form is to provide information about the volunteer service extension, including the volunteer's status, the type of service they will be providing, and the termination date and time. Before filling out this form, ensure that you are eligible for service extension and that you have all the necessary information required. Please note that this form will not be duplicated if the user has already submitted an extension request with the same information.
-</thinking>
-
 # Volunteer Service Extension Form - Help Guide
 ## Purpose
 This form is used to provide information about the volunteer service extension, including the volunteer's status, the type of service they will be providing, and the termination date and time.

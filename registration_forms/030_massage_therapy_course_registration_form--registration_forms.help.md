@@ -1,9 +1,3 @@
-<thinking>
-
-This form is intended to collect information from users who wish to register for a massage therapy course. The form is designed to gather contact details, payment information, and course selection, which will be used for administrative and logistical purposes. Before starting the form, ensure that you are registering for the correct course and that you have not already registered for the same course. If you are unsure, please contact our team for assistance.
-
-</thinking>
-
 # Massage Therapy Course Registration Form - Help Guide
 ## Purpose
 The Massage Therapy Course Registration Form is designed to collect registration information from users interested in enrolling in a massage therapy course. This form helps us manage course enrollment and ensure that all necessary details are captured accurately.

@@ -1,15 +1,3 @@
-<thinking>
-
-The purpose of the "gold_membership_registration" form is to collect information from users that want to join a membership program and pay for membership fees. This form is likely part of a registration process for a premium or exclusive community or service, and it collects personal and financial details from users. 
-
-The form should not be confused with other forms with similar names or purposes. Before filling out this form, users should ensure they understand the membership program terms and fees. 
-
-This form has 9 fields: first name, last name, email, phone, payment method, amount to pay, terms of service, create account, and agree to terms. All fields can be filled out optionally. 
-
-Please note that some fields might seem optional, but they might still be required depending on the user's choices. For example, if the user selects "True" for "create_account", they might be asked to fill out additional fields for account creation. 
-
-</thinking>
-
 # gold_membership_registration - Help Guide
 ## Purpose
 The "gold_membership_registration" form is a registration form for joining the membership program.

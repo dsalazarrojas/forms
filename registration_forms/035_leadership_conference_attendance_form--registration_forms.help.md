@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to help users register attendance at a leadership conference. The form should not be duplicated, as each user can only register for one instance of the conference. The purpose of this form is to gather information about the user's participation in the conference, including event details and attendee demographics. Users should only complete this form once per conference instance to avoid duplicate registrations.
-
-</thinking>
-
 # Leadership Conference Attendance Form - Help Guide
 ## Purpose
 This form is used to register attendance at a leadership conference. Please fill out the form with your details and event information to help us better organize and manage conference attendance.

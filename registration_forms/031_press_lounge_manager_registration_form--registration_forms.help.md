@@ -1,7 +1,3 @@
-<thinking> 
-This form is used by press lounge managers to provide their general information, experience, and skills to facilitate a smooth and efficient press lounge experience. Before filling out this form, please ensure you have not registered previously in the system as it will not be accepted if the same information exists in the system. If unsure about any field or requirement, please consult with a manager or IT representative before proceeding. 
-</thinking> 
-
 # press_lounge_manager_registration_form - Help Guide
 ## Purpose
 The press_lounge_manager_registration_form is a registration form designed for press lounge managers to provide their details. This form helps the system to store and update the necessary information to manage the press lounge effectively. 

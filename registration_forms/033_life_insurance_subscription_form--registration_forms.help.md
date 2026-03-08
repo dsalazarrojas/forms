@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 Life Insurance Subscription Form - Help Guide
 =====================================
 

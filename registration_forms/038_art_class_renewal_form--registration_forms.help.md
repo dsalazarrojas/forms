@@ -1,23 +1,3 @@
-<thinking>
-The form "Art Class Renewal Form" is designed to gather information from students about their experience with an art class. This form is used to assess the student's progress, satisfaction, and preferences for renewal. The form is typically filled out by students who are considering taking the same class again or are looking to renew to a different class. The purpose of this form is to gather feedback and suggestions for the instructor and the art program.
-
-The form is divided into several sections, including "Student Information," "Current Class Information," "Class Satisfaction," "Progress and Growth," "Renewal Decision," "Feedback and Suggestions," and "Schedule Preference." 
-
-To complete this form, students must provide their basic information, including name, ID number, and email. They must also indicate their satisfaction with the class and their instructor, as well as provide feedback on the class's relevance to their goals.
-
-The form requires the student to indicate their progress in the class, whether they want to renew in the same class, and their preferred renewal term. They may also provide additional comments or suggestions.
-
-The form's sections and fields are designed to be clear and concise, and the required fields are marked as such. The form is intended to be easy to fill out and understand.
-
-Please note that the form is used for internal purposes and the information gathered will be kept confidential. 
-
-Please answer the following questions truthfully and completely, and feel free to add any additional comments or suggestions you may have.
-
-Please answer the following questions about your experience with the art class.
-
-Please answer the following questions about your renewal decision and preferences.
-</thinking>
-
 # Art Class Renewal Form - Help Guide
 ## Purpose
 

@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to help users RSVP and select activities for a celebration event. The form collects information on the guest's name, email, phone number, event details, RSVP response, number of guests, dietary restrictions, activity selection, and additional information. The form is divided into sections for easy navigation and completion. Users are required to provide their name and email address, which implies that these fields are crucial for contact purposes. The RSVP response field has a set of predefined options to help users quickly select their response. Users can also select multiple activities that interest them and can specify additional dietary needs or restrictions. The last field is for users to confirm their RSVP response.</thinking>
-
 # Celebration RSVP and Activity Selection - Help Guide
 ## Purpose
 This form is designed to gather information for a celebration event, including RSVP responses and activity selection.

@@ -1,13 +1,3 @@
-<thinking>
-
-**Internal reasoning check:**
-
-This form is likely a registration form for a mentorship program, where a mentee (someone who is being mentored) provides information about themselves to facilitate the mentorship experience. The form asks for general contact information (name, email, phone), specific details about the mentee's academic and career goals, and preferences for mentorship duration and frequency. This form is likely used to match mentees with suitable mentors based on their needs and interests.
-
-This form does not appear to be redundant or unnecessary. Its purpose is to gather essential information from mentees, making it a valuable tool for the mentorship program.
-
-</thinking>
-
 # mentee_registration_form - Help Guide
 ## Purpose
 This form is a registration form for mentees (those who are being mentored) to provide information about themselves for the mentorship program. It helps match mentees with suitable mentors based on their needs and interests.

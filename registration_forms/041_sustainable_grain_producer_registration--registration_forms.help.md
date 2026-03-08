@@ -1,9 +1,3 @@
-<thinking>
-This form is used to register a sustainable grain producer. The goal is to gather information about the producer, their farm location, production methods, certifications, and contact information. This form will help the administrator to keep track of the producers and their information.
-The form is designed to be completed by the sustainable grain producer themselves, or by someone on their behalf. The information gathered will be used to create a record of the producer's registration in the system.
-Before filling out this form, please make sure that you have all the necessary information required to complete it. This form is not intended to be a substitute for any other registration process.
-</thinking>
-
 # Sustainable Grain Producer Registration - Help Guide
 ## Purpose
 The Sustainable Grain Producer Registration form is used to gather information about sustainable grain producers. The form is designed to be completed by the producer themselves or on their behalf.

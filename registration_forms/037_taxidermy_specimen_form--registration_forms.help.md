@@ -1,5 +1,3 @@
-<thinking> This form is designed for taxidermists to provide information about taxidermy specimens they have created or worked on. It's meant to collect details about the specimen's characteristics, taxidermy techniques and materials used, as well as submission information. It's essential to provide accurate and thorough information to ensure proper record-keeping and research purposes. To prevent duplicate submissions, please ensure you only submit unique specimens. If you're unsure about any field, please refer to the provided options or seek guidance from a taxidermy expert. </thinking>
-
 # taxidermy_specimen_form - Help Guide
 ## Purpose
 This form is used to collect information about taxidermy specimens for record-keeping and research purposes.

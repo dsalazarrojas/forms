@@ -1,8 +1,3 @@
-<thinking>
-**Internal Reasoning Block:**
-This form is designed to collect information about yoga sessions, including participant details, session status, and other relevant information. It is intended to be used by individuals who want to register for a yoga session. The form should not be used to register for events that are not yoga sessions, or for events that are not open to registration. The fields in this form are designed to gather necessary details such as participant information, session status, and instructor confirmation. It is crucial to fill out the form correctly to avoid any confusion or errors.
-</thinking>
-
 # yoga_session_attendance_form - Help Guide
 
 ## Purpose

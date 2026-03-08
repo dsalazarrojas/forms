@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect participant information for boxing registration, including profile and contact details, training information, health and safety, and waiver and registration dates. This form ensures that all participants meet the necessary requirements and provide informed consent for participation. It is essential to complete this form accurately and thoroughly to ensure a smooth and safe boxing experience.
-</thinking>
-
 # Boxing Registration Form - Help Guide
 
 ## Purpose

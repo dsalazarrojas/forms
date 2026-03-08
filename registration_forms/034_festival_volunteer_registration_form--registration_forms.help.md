@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used for volunteers to register for a festival event. Before proceeding, please note that this form is only meant for individuals who have been invited or have a legitimate reason to participate in the festival volunteer program. If you are an event staff or have not been invited, please do not submit this form. Also, make sure to fill out all required fields accurately and honestly. 
 
 # Festival Volunteer Registration Form - Help Guide

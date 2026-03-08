@@ -1,9 +1,3 @@
-<thinking>
-**Form Purpose:**
-The purpose of this form is to collect information from ecommerce partners for training purposes. It's designed to gather relevant details from users to schedule and organize sessions effectively.
-**No duplicate forms are allowed for the same session. Please ensure that each partner fills out a new form for each new session they want to sign up for.**
-</thinking>
-
 # e_commerce_partner_training_registration_form - Help Guide
 ## Purpose
 The e_commerce_partner_training_registration_form is designed to collect information from e-commerce partners for training purposes.

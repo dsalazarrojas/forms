@@ -1,5 +1,3 @@
-<thinking>Think: The Survivor Pool Participation Form is designed for users who want to participate in a pool for a specific season. The form allows users to register their team, submit their picks, and manage their entry status. It also requires users to provide payment information to secure their entry spot. The purpose of this form is to collect essential details about each participant, including their team information, contact details, payment method, and entry status. To fill out this form correctly, you should provide accurate and complete information for each field. Please note that some fields are optional, and you can skip them if they are not relevant to your situation.</thinking>
-
 # Survivor Pool Participation Form - Help Guide
 ## Purpose
 The Survivor Pool Participation Form is designed for users who want to participate in a pool for a specific season. It collects essential details about each participant, including their team information, contact details, payment method, and entry status.

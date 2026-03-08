@@ -1,9 +1,3 @@
-<thinking>
-
-Internal reasoning: This form is intended to collect information from homebrewers participating in a homebrew tournament. The form should capture details about the competition, brewers, beers, and other relevant information. To ensure that each entry is unique and accurate, the form should not allow duplicates of any field.
-
-</thinking>
-
 # Homebrew Tournament Entry Form - Help Guide
 ## Purpose
 This form is designed to gather information about entries for a homebrew tournament. It is essential to provide accurate and unique data for each entry.

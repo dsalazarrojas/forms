@@ -1,10 +1,3 @@
-<thinking>...
-The form is for registering for a Secret Mug Exchange event. The purpose of this form is for participants to provide their personal information, event details, and preferences. The form is likely used for event organizers to collect relevant information from attendees. It should not be used for any other purpose. This help guide will walk you through the form fields and explain each one clearly. 
-
-Please note that this form has a mix of required and optional fields. Ensure that you fill in all required fields to complete the form. Optional fields are for additional information but are not necessary for the registration process.
-
-</thinking>
-
 # Secret Mug Exchange Registration - Help Guide
 ## Purpose
 The Secret Mug Exchange Registration form is designed for attendees to provide their personal information and event details. Please fill out this form accurately and thoroughly.

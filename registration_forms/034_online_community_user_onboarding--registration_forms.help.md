@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and structure of the "online_community_user_onboarding" form. The form is designed to collect information from users who are joining an online community, providing a standardized way to onboard new members and track their progress.
-</thinking>
-
 # online_community_user_onboarding - Help Guide
 ## Purpose
 The "online_community_user_onboarding" form is a tool used to collect user information and preferences when joining an online community. This form helps to ensure that new members understand the community's rules, guidelines, and expectations, and that they are properly onboarded into the community.

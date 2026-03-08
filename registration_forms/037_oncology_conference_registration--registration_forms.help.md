@@ -1,8 +1,3 @@
-<thinking>
-This form is used for registration to an oncology conference. The purpose of this form is to collect attendee information, such as name, email, and phone number, as well as session preferences and any additional comments. This form is intended for conference attendees, presenters, and staff members. Please fill out the form carefully as the information provided will be used to create attendee lists, track session attendance, and for general conference organization.
-
-</thinking>
-
 # Oncology Conference Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information for attendees, presenters, and staff members to attend the oncology conference. This includes personal details such as name and email, as well as session preferences and any additional comments.

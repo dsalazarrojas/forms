@@ -1,20 +1,3 @@
-<thinking>
-
-This form is intended to collect basic information about new employees, including their first name, last name, email, date of birth, department, job title, and manager's name. This information will be used to welcome the new employee to the company and to create a professional relationship with them.
-
-Before creating this form, it's essential to ensure that you are not duplicating effort or creating multiple forms for the same purpose. If you're creating this form for a different department or team, double-check the requirements and ensure that the form is tailored to their specific needs.
-
-To avoid confusion, we will be using the following definitions for fields:
-- **First Name**: The employee's first name.
-- **Last Name**: The employee's last name.
-- **Email**: The employee's email address.
-- **Date of Birth**: The employee's date of birth (in the format mm/dd/yyyy).
-- **Department**: The department to which the employee belongs (or 'Yes' if they belong to a specific department, or 'No' if they don't belong to any department).
-- **Job Title**: The employee's job title.
-- **Manager's Name**: The name of the employee's manager.
-
-</thinking>
-
 # Welcome Letter Form - Help Guide
 ## Purpose
 This form is designed to collect essential information about new employees, including their personal details and job-related information. The gathered data will be used to create a welcome letter for the new employee and to establish a professional relationship with them.

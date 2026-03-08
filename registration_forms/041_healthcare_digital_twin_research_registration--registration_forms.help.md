@@ -1,31 +1,3 @@
-<thinking>
-This form appears to be for registering a healthcare digital twin research project. It collects information about the project lead, research group, project description, location, start and end dates, and other relevant details. This form might be used to gather data for research purposes, such as tracking project progress, identifying trends, or creating a database for future reference. 
-
-Before completing this form, ensure you are not duplicating an existing registration. If you are unsure, consult with the responsible authority or contact the support team for guidance.
-
-This form has multiple pages with varying fields, so please follow the instructions carefully.
-
-This form is intended for research purposes, but ensure you have the necessary permissions and approvals before providing any sensitive or confidential information.
-
-The form fields have varying levels of requiredness, so make sure you complete all required fields before submitting the form.
-
-This form collects the following information:
-
-* First Name
-* Last Name
-* Email
-* Phone
-* Organization
-* Role
-* Research Group
-* Project Lead
-* Research Description
-* Location
-* Research Start Date
-* Research End Date
-
-Each field has a specific purpose and requirements. Please read the detailed explanations below to ensure you complete the form correctly.</thinking>
-
 # Healthcare Digital Twin Research Registration - Help Guide
 
 ## Purpose

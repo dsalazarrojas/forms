@@ -1,7 +1,3 @@
-<thinking>
-To ensure the form's purpose and the user's understanding, we should first check if it's an Event Insurance Partner Registration Form and not a duplicate form.
-</thinking>
-
 # Event Insurance Partner Registration Form - Help Guide
 ## Purpose
 The Event Insurance Partner Registration Form is designed to collect information from event organizers who need to register with insurance providers as partners. This form helps event organizers share their event details and partner information with the insurance providers.

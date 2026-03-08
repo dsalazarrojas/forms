@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering participants in various workshops offered by the community center. It requires personal details such as full name, email address, phone number, and date of birth, which are crucial for enrollment confirmation and workshop organization purposes. The form also asks for the selection of the workshop(s) of interest, which helps in allocating resources and ensuring that the participant is enrolled in the correct session. Additionally, some workshops have specific requirements such as dietary restrictions, which need to be filled out accordingly. Finally, the form includes a digital signature and a date of enrollment to finalize the registration process.
-</thinking>
-
 # Community Center Workshop Enrollment Form - Help Guide
 ## Purpose
 

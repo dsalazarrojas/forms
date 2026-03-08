@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect information from customers for a dance class. It's intended to be filled out by people interested in enrolling in a dance class, either for general or private lessons. It's not a required form, and the information gathered will be used by the dance class administration team to contact the customer and schedule a trial or private session.
-
-To determine if the form is filled out for a duplicate purpose (e.g. for the same student), we'll use the first name, last name, and phone number fields to identify potential duplicates. If it's a duplicate, we'll send a notification to the customer and the dance class administration team.
-
-</thinking>
-
 # Dance Class Inquiry Form - Help Guide
 ## Purpose
 This form is designed to be filled out by customers interested in enrolling in a dance class. It's meant to collect necessary information to contact the customer and schedule a trial or private session.

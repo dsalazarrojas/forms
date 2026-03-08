@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from attendees for the Smart Material Tracking Workshop. The form fields are designed to collect basic contact information, preferences, and any additional notes from the attendee. The purpose of this form is to ensure that attendees have a smooth and enjoyable experience at the workshop. Please fill out the form carefully and accurately to ensure that we have the correct information to cater to your needs.
-</thinking>
-
 # Smart Material Tracking Workshop Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees for the Smart Material Tracking Workshop.

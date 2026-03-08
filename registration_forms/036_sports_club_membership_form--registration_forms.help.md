@@ -1,12 +1,3 @@
-<thinking>
-This form is used for registration purposes of a sports club membership. It is designed to collect information about the individual who is applying or reapplying for membership. The form is used to update the membership status of a person in the sports club. The fields in this form are designed to gather relevant details about the member such as their email, name, membership type, date of birth, contact details, and membership status.
-
-To prevent duplicate entries, the system checks for existing membership records before allowing a new entry. If a duplicate entry is detected, the system will prompt the user to update the existing record instead of creating a new one.
-
-Before filling out this form, ensure that you have all the necessary information ready. The form is divided into several sections with clear instructions and explanations for each field.
-
-</thinking>
-
 # sports_club_membership_form - Help Guide
 ## Purpose
 This form is used for registration purposes of a sports club membership.

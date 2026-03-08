@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Senior On Site Hotel Manager Application Form - Help Guide
 ## Purpose
 This form is used for senior on-site hotel managers to apply for a position. The application form collects personal details, work experience, and professional information required for evaluation.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form is used to collect information from users who want to join the Product Launch Team. The purpose of this form is to gather essential details such as roles, skills, availability, and contact information to better understand the user's preferences and needs. 
 
 The form is divided into two main sections: "Roles" and "Personal Details". In the "Roles" section, users can select one or more roles they are interested in joining. In the "Personal Details" section, users can provide their skills, availability, and contact information. 

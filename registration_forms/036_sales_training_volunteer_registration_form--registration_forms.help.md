@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Sales Training Volunteer Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>This form is meant to collect information from athletes who wish to qualify for speed and endurance events. The form will collect details about the athlete's personal information, emergency contact, event categories, and other relevant information. This form should not be filled out by individuals without prior approval, as the information collected is sensitive. Before filling out this form, please ensure that you have received the necessary approval from the relevant authorities. Please note that this form is not meant for general information collection, but rather for a specific purpose. Ensure that you are filling out this form for the correct purpose and that you have the necessary permissions to do so.</thinking>
-
 # speed_and_endurance_qualifier_registration - Help Guide
 ## Purpose
 The speed and endurance qualifier registration form is used to collect information from athletes who wish to participate in speed and endurance events. This form helps to gather necessary details about the athlete, emergency contact, and event categories.

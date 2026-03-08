@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect registration information from referees for official purposes. It is essential to ensure that the information provided is accurate and up-to-date. Please note that the form fields are designed to be completed by the referee themselves, and it's their responsibility to ensure the correctness of the data.
-
-To avoid duplication of effort and ensure consistency, we recommend checking the "Referee Registration Form" in the past few months or searching for existing entries under your name or email address before starting the registration process. This will save time and reduce the likelihood of errors.
-
-Before proceeding, please ensure you have all necessary information ready, as you will be required to enter some fields. If you are unsure about any of the fields, please reach out to your designated contact person for clarification.
-
-The Referee Registration Form is a crucial document for our organization, and your cooperation in providing accurate and complete information is greatly appreciated.
-</thinking>
-
 # Referee Registration Form - Help Guide
 ## Purpose
 The Referee Registration Form is designed to collect and verify the personal and professional information of referees for official purposes. It helps us ensure that our referees have the necessary qualifications and experience to perform their duties effectively and efficiently.

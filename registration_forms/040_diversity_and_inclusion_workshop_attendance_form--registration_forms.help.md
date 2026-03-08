@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Diversity And Inclusion Workshop Attendance Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Hypnobirthing Course Enrollment Form - Help Guide
 
 ## Purpose

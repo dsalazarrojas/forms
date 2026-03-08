@@ -1,9 +1,3 @@
-<thinking>
-We need to determine the purpose of this form. Based on the provided YAML, it appears that this form is for registering an Intermediate Honors String Ensemble, which likely involves students participating in a musical performance. The form collects various details from students, parents, and teachers, including student and teacher information, performance details, and ensemble type. This form seems to be used for planning and coordinating the musical performance, possibly for a school or organization.
-Before filling out this form, make sure you are authorized to register for this event. If you are not sure, contact your music department or event organizer to confirm your eligibility.
-This form is not intended to be filled out by anyone without prior confirmation of participation.
-</thinking>
-
 # Intermediate Honors String Ensemble Registration - Help Guide
 ## Purpose
 This form is for registering students and their parents for an Intermediate Honors String Ensemble performance.

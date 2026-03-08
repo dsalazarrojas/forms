@@ -1,10 +1,3 @@
-<thinking>
-We are creating this help guide to ensure that users understand the purpose and requirements of the Cultural Festival Attendance Form. 
-This form is designed to collect information about festival attendance from users, including their personal details and event-specific information.
-The form has 5 pages, and we aim to cover each field in detail to facilitate a smooth and efficient completion process.
-This guide is a one-time creation and will be used for internal purposes only.
-</thinking>
-
 # Cultural Festival Attendance Form - Help Guide
 ## Purpose
 The Cultural Festival Attendance Form is designed to collect information about your festival attendance. This form is used to record your event details, preferences, and payment methods.

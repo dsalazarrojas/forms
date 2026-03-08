@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to register a vehicle for the Volvo Maintenance Program. It is intended for customers who want to enroll their vehicle in the program. The purpose of this form is to collect relevant information about the vehicle, the service center, and the contact person. The fields are designed to be simple and easy to fill out. However, please ensure that you have not previously registered this vehicle in the program before submitting this form. If you are unsure about any field, refer to this help guide for guidance. Please note that some fields are optional, but filling them out will help us better understand your needs and preferences.
-</thinking>
-
 # Volvo Maintenance Program Registration - Help Guide
 ## Purpose
 The Volvo Maintenance Program Registration form is designed to help customers enroll their vehicles in the program. This form is used to collect information about the vehicle, the service center, and the contact person.

@@ -1,17 +1,3 @@
-<thinking>
-
-This form is intended to collect information from individuals who wish to register as medical laboratory technicians. The purpose of this form is to gather contact and submission details for registered medical laboratory technicians. 
-
-The form has been created to collect the following information:
-1. Contact details, such as name and email or phone number for communication.
-2. Technician details, including any additional information about the technician's qualifications or experience.
-3. Additional details, which can be used to provide further information about the technician or their qualifications.
-4. Submission details, which may be used to confirm the submission of the registration application.
-
-To avoid duplication, the form is not intended for duplicate submissions or for technicians who have already been registered.
-
-</thinking>
-
 # Medical Laboratory Technician Registration - Help Guide
 ## Purpose
 This form is for individuals who wish to register as medical laboratory technicians with an organization.

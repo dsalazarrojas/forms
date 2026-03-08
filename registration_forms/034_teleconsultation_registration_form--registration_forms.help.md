@@ -1,7 +1,3 @@
-<thinking>
-The Teleconsultation Registration Form is designed to capture essential information from patients for teleconsultation sessions. The form is intended to be completed by patients before their scheduled appointments. The purpose of this form is to ensure that the necessary details are gathered for the provider to conduct the teleconsultation effectively. This form should only be filled out by a patient who has a scheduled appointment. Please make sure to fill out this form only once for each scheduled appointment.
-</thinking>
-
 # Teleconsultation Registration Form - Help Guide
 ## Purpose
 This Teleconsultation Registration Form collects essential information from patients for their scheduled appointments. It ensures that the provider has the necessary details to conduct the teleconsultation.

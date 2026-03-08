@@ -1,8 +1,3 @@
-<thinking> 
-We need to ensure that the user understands the purpose and context of this form. We are creating a registration form for reserving back numbers (jerseys) for the upcoming season. The form is intended for players, and the goal is to secure their preferred number. The form will be used to collect information about the player's preferences, including their name, team or age group, coach's name, jersey number preferences, and other relevant details. This form will help the system to assign numbers fairly and efficiently. We also want to avoid duplicates and non-relevant submissions, hence the form includes a date field for tracking and validation.
-
-</thinking>
-
 # Back Number Reservation Form - Help Guide
 ## Purpose
 

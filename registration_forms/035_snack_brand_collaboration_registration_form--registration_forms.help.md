@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from snack brands interested in collaborating with us. The collaboration request will be evaluated and responded to by our team. The form is meant to be completed by snack brand representatives, and the submitted data will be used to facilitate potential collaborations. To ensure that the collaboration request is handled effectively, please fill out the form carefully, paying attention to all the required fields. This guide will help you navigate through the form and understand what each field is meant to capture.
-</thinking>
-
 # Snack Brand Collaboration Registration Form - Help Guide
 ## Purpose
 The Snack Brand Collaboration Registration Form is designed to collect information from snack brands interested in collaborating with us. The form is used to gather essential data to evaluate and respond to collaboration requests effectively.

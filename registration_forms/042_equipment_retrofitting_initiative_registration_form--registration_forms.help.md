@@ -1,5 +1,3 @@
-<thinking>This form is used to register the retrofitting initiative for equipment. The form is designed to collect information from users about the equipment they are submitting for retrofitting. The user will be required to enter their user information, the details of the equipment, the retrofitting initiative, and other relevant information. The form also asks for contact information, submitter information, and other details about the equipment. This form is intended for internal use only and should only be completed by authorized personnel. If you are unsure about which initiative to select, please refer to the list of approved initiatives. If you are unsure about any field, please ask your supervisor for clarification.</thinking>
-
 # equipment_retrofitting_initiative_registration_form - Help Guide
 ## Purpose
 The equipment retrofitting initiative registration form is used to register the equipment submitted for retrofitting. It collects information from the user about the equipment, the retrofitting initiative, and other relevant details.

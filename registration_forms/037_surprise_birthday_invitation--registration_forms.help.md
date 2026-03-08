@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Surprise Birthday Invitation - Help Guide
 
 ## Purpose

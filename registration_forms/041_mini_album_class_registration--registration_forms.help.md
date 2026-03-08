@@ -1,7 +1,3 @@
-<thinking>
-To ensure that the user understands the purpose of the form and its relevance, let's briefly review the context in which this form is being used. This "Mini Album Class Registration" form is designed to gather information from students and instructors for the purpose of enrolling students in an album class. This form is meant to be a comprehensive guide for students to fill out their personal, course, and contact information in order to register for an album class. The user must ensure that they complete all required fields to ensure a smooth and successful enrollment process.
-</thinking>
-
 # Mini Album Class Registration - Help Guide
 ## Purpose
 The "Mini Album Class Registration" form is used to gather information from students to enroll in an album class. 

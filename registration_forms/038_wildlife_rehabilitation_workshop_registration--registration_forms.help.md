@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for individuals interested in attending a wildlife rehabilitation workshop. The form collects information from the attendees, including their details, preferences, and contact information.
-The fields in this form are designed to be completed by the attendees, providing the workshop organizers with a clear understanding of who is attending and their interests.
-</thinking>
-
 # Wildlife Rehabilitation Workshop Registration - Help Guide
 
 ## Purpose

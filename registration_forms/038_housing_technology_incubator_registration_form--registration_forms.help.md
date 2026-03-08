@@ -1,10 +1,3 @@
-<thinking>
-This guide will help you understand the purpose of the Housing Technology Incubator Registration Form and how to complete it. The form is designed to collect information from applicants who want to register their startup project with the Housing Technology Incubator. Please note that you must be a legitimate startup project to be eligible for registration. If you are already registered with us, please do not fill out this form again.
-
-The form is divided into several sections. Please read each section carefully to ensure you provide the required information. If you are unsure about any field, please contact us for clarification.
-
-</thinking>
-
 # Housing Technology Incubator Registration Form - Help Guide
 
 ## Purpose

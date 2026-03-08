@@ -1,12 +1,3 @@
-<thinking> 
-This form is designed for users to sign up for a knitting circle, which likely refers to a social group or community focused on knitting activities. The purpose of the form is to collect information from users about their preferences and schedule-related details. 
-
-The form has multiple pages, and the fields on each page can be filled out by the user to provide their relevant information. 
-
-Please ensure that you only fill out the required fields for your specific needs and circumstances, and do not duplicate or provide redundant information.
-
-You are encouraged to be honest and accurate when filling out the form, and please let us know if there are any issues with the form's layout or any questions you need help with.</thinking>
-
 # Knitting Circle Signup Form - Help Guide
 ## Purpose
 This form is for users to sign up for a knitting circle, a social group focused on knitting activities. It helps us gather information about your schedule and preferences to better organize and tailor our events to your needs.

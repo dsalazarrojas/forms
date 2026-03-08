@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect basic information about a guest, including their name, email, phone number, notes, and date of birth. This data is used to create a record for the guest in the system. The form is not intended to be used for any other purpose.
-The form can be completed by any guest who needs to be recorded in the system. To prevent duplication of records for the same guest, the system checks for existing records with matching email addresses.
-</thinking>
-
 # Guest Registration Form - Help Guide
 ## Purpose
 The Guest Registration Form is used to create a record for a guest in the system. This form collects basic information about the guest, including their name, email, phone number, notes, and date of birth.

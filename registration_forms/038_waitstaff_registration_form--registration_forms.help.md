@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from waitstaff, which are employees who work on a temporary or seasonal basis. This form is likely used in the hospitality industry, such as restaurants, bars, or cafes, to gather details about the applicants' availability, experience, and shift schedules. The form may be used by restaurant or bar managers to streamline the hiring process, ensuring they have accurate and up-to-date information about their waiting staff. The form should not be used for other purposes or for any business that is not related to food and beverage service.
-</thinking>
-
 # Waitstaff Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from waitstaff, including their applicant details, availability, and other relevant information.

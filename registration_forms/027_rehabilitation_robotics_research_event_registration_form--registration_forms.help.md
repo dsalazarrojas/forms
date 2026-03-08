@@ -1,17 +1,3 @@
-<thinking>
-
-This form is used for registering rehabilitation robotics research events. To ensure the accuracy and completeness of the data, the form will only allow one submission per event. If you have already submitted an event, please do not submit again. 
-
-This form is for registering new events. The event details will be reviewed and verified by the team before it is published on the event calendar.
-
-The form is composed of several pages, each with its own section. Here's a brief overview of the content of each page:
-
-Page 1: Registration Details (Page 1 of 2)
-
-Page 2: Event Details (Page 2 of 2)
-
-</thinking>
-
 # Rehabilitation Robotics Research Event Registration Form - Help Guide
 ## Purpose
 

@@ -1,5 +1,3 @@
-<thinking>Before creating the help guide, let's break down the form's purpose and required information. The form is for registering clients for data ethics consulting services. To ensure relevance, I'll assume that the form is intended for individuals or organizations interested in consulting on data-related ethics matters. To prevent duplication, let's clarify that users can only register once and the form will not allow multiple submissions from the same individual or organization.</thinking>
-
 # Data Ethics Consulting Registration Form - Help Guide
 ## Purpose
 The Data Ethics Consulting Registration Form is designed to gather necessary information from clients interested in our data ethics consulting services. Please fill out this form to register your interests and details.

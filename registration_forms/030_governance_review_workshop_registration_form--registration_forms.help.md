@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to register participants for the Governance Review Workshop. 
-Before proceeding, ensure you have not already registered for this workshop. 
-This form will help us ensure accurate participant details and prepare for the workshop.
-</thinking>
-
 # Governance Review Workshop Registration Form - Help Guide
 ## Purpose
 The Governance Review Workshop Registration Form is a tool for participants to provide their details to register for the Governance Review Workshop.

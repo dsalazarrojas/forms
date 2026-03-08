@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to register participants for a swimming competition. The form is for individuals or teams who want to participate in a swimming event. It is not intended for spectators or officials. To avoid duplicating a registration, please ensure that you are using a new email address for each participant. If you are unsure which event you want to register for, please contact the competition organizers for guidance.
-
-</thinking>
-
 # Swimming Competition Enrollment - Help Guide
 
 ## Purpose

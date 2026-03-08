@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for registering participants for a task. It captures information 
-such as the participant's name, email, and preferences for the task. The form 
-also requests the participant's availability and timezone for scheduling 
-purposes. This form is not intended to be completed by the same person 
-multiple times. 
-</thinking>
-
 # Task Participation Sign Up - Help Guide
 ## Purpose
 This guide will walk you through the completion of the Task Participation Sign Up form.

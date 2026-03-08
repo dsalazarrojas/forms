@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Support Program Launch Registration Form - Help Guide
 
 ## Purpose

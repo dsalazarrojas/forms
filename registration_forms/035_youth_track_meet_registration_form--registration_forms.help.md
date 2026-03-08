@@ -1,12 +1,3 @@
-<thinking>
-We are creating a help guide for the Youth Track Meet Registration Form. This form is used for registering youth athletes for various events and meet-related activities. The purpose of this form is to collect relevant information about the athlete, their school, and the event they are participating in. This form helps ensure that all necessary details are captured accurately and efficiently, making it easier for administrators to manage the event and communicate with parents.
-
-We will focus on the following areas: school info, event selections, athlete details, parent consent, contact info, school info 2, emergency contact, event selections 2, event type, event type 2, event date, event start time, event duration, event end time, school name, school name 2, school address, event name, event name 2, event details, event details 2, event location, event location 2, event notes, and event notes 2.
-
-We will cover each field in this guide, explaining what each field means and how to complete it accurately.
-
-</thinking>
-
 # Youth Track Meet Registration Form - Help Guide
 ## Purpose
 This form is used for registering youth athletes for various events and meet-related activities.

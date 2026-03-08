@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that the form is used correctly by end users, so let's go through the reasoning for this form.
-The form purpose is to register an attendee for a street food experience. This form is used to collect information about the attendee, such as their name, email, phone number, and preferences for the event. The form is not meant for general event registration, but rather for a specific street food experience, which is why the form title includes the word "Experience".
-We should also check that the form is not duplicated, meaning that the attendee is not already registered for the same event.
-</thinking>
-
 # Street Food Experience Registration - Help Guide
 ## Purpose
 This form is used to register an attendee for a street food experience. Please fill out the form with your details to complete your registration.

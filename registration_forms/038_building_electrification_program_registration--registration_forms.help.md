@@ -1,12 +1,3 @@
-<thinking>
-This is a help guide for the "Building Electrification Program Registration" form. The form is designed to gather information from property owners who are interested in undergoing a building electrification process. This process involves transitioning from fossil fuel-based heating and cooling systems to electric-based systems, which can reduce energy bills, improve indoor air quality, and decrease greenhouse gas emissions. The form will help us understand the property owners' goals, timelines, and expectations for this process.
-
-Before proceeding, please note that this form is for registration purposes only and is not a contract or commitment to any program. The information provided will be used to assess the property owner's eligibility for the program and to provide guidance on the electrification process.
-
-Please review the form carefully and provide accurate information to ensure that we can effectively assist you in your electrification journey.
-
-</thinking>
-
 # Building Electrification Program Registration - Help Guide
 ## Purpose
 The Building Electrification Program Registration form is designed to collect information from property owners interested in transitioning their buildings to electric-based heating and cooling systems. This form will help us understand your goals, timelines, and expectations for the electrification process.

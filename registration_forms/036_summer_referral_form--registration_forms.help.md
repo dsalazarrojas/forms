@@ -1,11 +1,3 @@
-<thinking>
-
-This form is a "Summer Referral Form" used to collect information from students and their parents/guardians during the summer months. The form is designed to be completed by students or their parents/guardians and is intended to capture essential details about the student's summer plans, such as their name, email address, phone number, date of birth, and summer activities. The form also includes fields to capture the referral reason and any additional information the student or parent/guardian may want to provide. The form is likely used in an educational setting, possibly as part of a summer program or activity registration process.
-
-The form is intended to be completed on a per-student basis, meaning each student (or their parent/guardian) will complete one form for themselves. The form is not meant to be a duplicate or a repeatable process, each submission is a new and unique form completion.
-
-</thinking>
-
 # Summer Referral Form - Help Guide
 ## Purpose
 The Summer Referral Form is used to collect information from students and their parents/guardians during the summer months. This form is completed on a per-student basis and is not a duplicate or repeatable process.

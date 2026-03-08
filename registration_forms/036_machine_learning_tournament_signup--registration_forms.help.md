@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users who want to participate in a Machine Learning Tournament. The purpose of this form is to gather user details, team information, and participant details for the tournament.
-To fill out this form, follow these steps:
-
-1. Enter your user information in the "User Info" section.
-2. If you are part of a team, provide your team details in the "Team Details" section.
-3. Enter any additional information about yourself as a participant in the "Participant Info" section.
-
-This form is an original creation and is not affiliated with or derived from any proprietary form platforms.
-</thinking>
-
 # Machine Learning Tournament Signup - Help Guide
 ## Purpose
 The Machine Learning Tournament Signup form is designed to collect user information for participation in a Machine Learning tournament.

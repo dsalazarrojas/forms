@@ -1,12 +1,3 @@
-<thinking>
-This form is used for participants to register for an emergency preparedness forum. It captures relevant information about the participant, their organization, and the event they are attending. 
-
-The form is divided into several sections, each of which corresponds to a different aspect of the participant's registration. The purpose of this form is to gather accurate and up-to-date information from participants so that we can provide them with the best possible experience at the forum.
-
-Before filling out this form, please note that it is not a duplicate of any existing participant registration form, and it is essential to ensure that the information provided is accurate and consistent with the participant's actual status.
-
-</thinking>
-
 # Emergency Preparedness Forum Registration Form - Help Guide
 ## Purpose
 This form is used for participants to register for an emergency preparedness forum. It captures essential information about the participant, their organization, and the event they are attending.

@@ -1,14 +1,3 @@
-<thinking>
-The Admission Form is a crucial document for prospective students to provide information about themselves and their educational background to support their application for admission to our institution. To ensure the form is filled out correctly, please take a moment to review the instructions and explanations below.
-
-Before starting the form, please note that some fields are mandatory (marked as required) and others are optional. Make sure to complete all required fields to ensure your application is processed properly.
-
-Also, please be aware that some fields might have specific formatting requirements, such as date and phone number formats.
-
-If you need help or have any questions, do not hesitate to contact us.
-
-</thinking>
-
 # Admission Form - Help Guide
 ## Purpose
 This form is designed to collect information about you, the applicant, to support your application for admission to our institution.

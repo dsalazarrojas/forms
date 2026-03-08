@@ -1,11 +1,3 @@
-<thinking>
-
-The purpose of this form is to collect information from conference attendees for an industry conference. This form is for registration purposes, and the information collected will be used to manage attendee details, such as contact information, event preferences, and payment methods. 
-
-Please ensure you are filling this form for the correct purpose. If you are a conference organizer or staff member, please use a different form for internal purposes.
-
-</thinking>
-
 # Industry Conference Registration Form - Help Guide
 
 ## Purpose

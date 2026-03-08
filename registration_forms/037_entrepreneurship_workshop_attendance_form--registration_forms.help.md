@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Entrepreneurship Workshop Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants who are interested in attending an entrepreneurship workshop. It helps us understand the needs, expectations, and demographics of the attendees. This will enable us to tailor the workshop content and experience to their needs.

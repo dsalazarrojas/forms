@@ -1,12 +1,3 @@
-<thinking>
-This form is intended to collect registration information from potential members of an association. The purpose of this form is to capture essential details required for membership registration. This form should be completed by individuals or entities seeking to join the association as a member. Please ensure that you are registering as a legitimate member of the association and not for commercial purposes. Note: This form will collect information that may be publicly displayed on the association's website or other public forums.
-
-This form is a critical component of the association's membership management process. To ensure accurate and complete registration, please follow these instructions carefully.
-
-Please ensure that you provide accurate information for each field, and if you are unsure of any field, please contact the association's administration team for clarification.
-
-</thinking>
-
 # Association Membership Registration Form - Help Guide
 ## Purpose
 The Association Membership Registration Form is a crucial step in the membership process. It collects essential information required for membership registration, ensuring accurate and complete records for the association.

@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering a patient's access to a pharmacy portal. 
-The form is designed to gather patient information and determine the access status and type of access a patient has to the portal. The fields required are patient id, patient first name, patient last name, date of birth, access request date, refills requested, refills allowed, access type and access status. The access type is a selection between 'Yes' and 'No', and access status is a selection between 'Active', 'Inactive'. This form will not be used in cases when a patient already exists in the system.
-</thinking>
 # Pharmacy Portal Access Form - Help Guide
 ## Purpose
 The Pharmacy Portal Access Form is designed to gather patient information and determine the access status and type of access a patient has to the pharmacy portal.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from vendors for the food festival. To confirm, the form does not collect any sensitive or personal data, as the fields are not required and the form is for general vendor information. It is assumed that the vendor is registering for the food festival with the intention of selling goods or services.
-</thinking>
-
 # food_festival_vendor_intake_form - Help Guide
 ## Purpose
 This form is meant to collect information from vendors for the food festival, including vendor name, contact email, and other relevant details to help with organization and communication during the festival.

@@ -1,9 +1,3 @@
-<thinking>
-This form is for registering a team for a Pickleball Doubles tournament. The form is used to capture the team's details, including the team name, members, and event date and time. The form is designed to be completed by team members or a team representative, and the information collected will be used to organize the tournament and ensure that the team has a spot at the event.
-
-Before completing the form, please check if a team with the same name has already been registered for the same event. If you're unsure or have any questions, contact the tournament organizers.
-</thinking>
-
 # PickleballDoublesTournamentRegistrationForm - Help Guide
 ## Purpose
 The Pickleball Doubles Tournament Registration Form is a form designed to collect information from teams participating in a Pickleball Doubles tournament. The form requires team members to provide their details, including name, contact information, and other relevant details.

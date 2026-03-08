@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for the Human Centered Learning Design Fellowship. It is used to collect information about individuals applying to join the program. The purpose of this form is to gather the necessary details from applicants to ensure a successful and meaningful experience. To avoid duplication, please only submit one application per person.
-</thinking>
-
 # Human Centered Learning Design Fellowship Registration Form - Help Guide
 ## Purpose
 This form is for registering individuals interested in joining the Human Centered Learning Design Fellowship. It collects information that will be used to process your application.

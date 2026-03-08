@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from venture capital investors who are interested in partnering with the company. The form will help us understand their investment preferences, type of investment, and contact information.
-To ensure the form is not duplicated, we have implemented a unique identifier for each investor, which will be generated automatically upon form submission.
-This way, we can prevent duplicate registrations and maintain an accurate record of our investor base.
-</thinking>
-
 # Venture Capital Investor Onboarding Form - Help Guide
 ## Purpose
 This form is for venture capital investors who want to partner with the company. It will help us understand your investment preferences, type of investment, and contact information.

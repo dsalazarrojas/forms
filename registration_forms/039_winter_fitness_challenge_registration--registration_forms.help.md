@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register for the Winter Fitness Challenge. The purpose of this form is to collect information from participants, which will be used to track and monitor progress throughout the challenge. This form should only be used for the Winter Fitness Challenge and not for any other purpose. Please make sure to register only once for the correct challenge.
-</thinking>
-
 # Winter Fitness Challenge Registration - Help Guide
 ## Purpose
 The Winter Fitness Challenge Registration form is used to collect information from participants to track and monitor progress throughout the challenge. Please fill out this form to register for the Winter Fitness Challenge.

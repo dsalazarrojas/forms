@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Financial Sustainability Initiative Registration - Help Guide
 ## Purpose
 The Financial Sustainability Initiative Registration form is used to register and document financial sustainability initiatives. This form is required for initiatives that aim to promote responsible financial practices, reduce environmental impact, and foster social responsibility.

@@ -1,8 +1,3 @@
-<thinking>
-To create a user-facing help guide for this form, I'll review the provided YAML fields and create a comprehensive guide that explains the form's purpose, how to complete it, and what each field means. This guide will be presented in Markdown format.
-
-</thinking>
-
 # Class Registration - Help Guide
 ## Purpose
 This form is intended for students to register for classes. It gathers student information, academic details, and course selections. Please fill out this form accurately and completely to ensure your registration is processed correctly.

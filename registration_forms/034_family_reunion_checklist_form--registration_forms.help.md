@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Family Reunion Checklist Form - Help Guide
 ## Purpose
 This form is designed to help users provide event details, family information, and other relevant activities for a family reunion. It also allows users to track RSVPs and their status.

@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to facilitate a seamless meeting experience between the organization and the vendor. It is designed to be a straightforward and efficient tool for scheduling appointments with vendors. This form should only be used for internal meetings with vendors and not for any other purpose. Please ensure that you are using this form for its intended use case to avoid unnecessary data collection.
-
-To avoid duplication of efforts, please note that this form will be used for scheduling meetings. If you need to schedule a meeting with a vendor more than once, please fill out the form for each unique meeting. 
-</thinking>
-
 # Vendor Meeting Appointment Form - Help Guide
 ## Purpose
 The Vendor Meeting Appointment Form is designed to schedule appointments with vendors for internal meetings.

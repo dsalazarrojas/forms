@@ -1,12 +1,3 @@
-<thinking>
-This form is intended for registering a project in the IT Cost Optimization Program. The program aims to help organizations optimize their IT costs by identifying and reducing waste, improving efficiency, and increasing productivity. This form will guide you through the process of providing essential details about your project, including its name, category, goal, focus area, and any relevant information about the consultant involved. 
-
-Please make sure to fill out this form accurately and completely, as it will help us better understand your project requirements and provide more focused support. 
-
-If you are unsure about any information required, please contact your project manager or our team for clarification.
-
-</thinking>
-
 # IT Cost Optimization Program Registration - Help Guide
 ## Purpose
 The purpose of this form is to register your project in the IT Cost Optimization Program, which aims to help organizations optimize their IT costs by identifying and reducing waste, improving efficiency, and increasing productivity.

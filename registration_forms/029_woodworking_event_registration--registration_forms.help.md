@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register participants for a woodworking event. It is used to collect information from participants about themselves and the event they are registering for. This information will be used to track participant registrations and communicate with them about event details. This form should only be filled out by participants, not event organizers.
-</thinking>
-
 # Woodworking Event Registration - Help Guide
 ## Purpose
 This form is used to register participants for a woodworking event. It is used to collect information from participants about themselves and the event they are registering for.

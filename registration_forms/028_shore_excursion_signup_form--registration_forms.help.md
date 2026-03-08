@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users for a shore excursion sign-up purpose. This form is intended for users to provide required information about themselves and their tour payment details. Before proceeding, please ensure this form is relevant to your organization's needs and not a duplicate form. If you are unsure, please review your organization's current forms and procedures to avoid duplication of efforts.
-</thinking>
-
 # Shore Excursion Signup Form - Help Guide
 ## Purpose
 This form is used to collect information from users for a shore excursion sign-up purpose. It is intended for users to provide required details about themselves and their tour payment.

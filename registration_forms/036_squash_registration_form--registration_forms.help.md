@@ -1,20 +1,3 @@
-<thinking>
-
-The Squash Registration Form is designed to collect participant information for squash tournaments or events. This form aims to gather essential details such as participant name, contact information, and squash-related data like skill levels and experience. The form is likely used by administrators to manage participant registrations and track their progress.
-
-It seems that the form is intended for both participants and event organizers, but further clarification on the exact use case would be beneficial to confirm.
-
-To ensure the form is used correctly, it's essential to understand the purpose and fields it contains. The form appears to be a comprehensive tool for collecting various aspects of participant data, including their name, contact information, squash experience, and other relevant details.
-
-To complete this form, follow these steps:
-
-1. **Start with the Participant Information page**, which includes the participant's name, email, phone number, date of birth, and other essential details.
-2. On the **Squash Information** page, you can specify the participant's squash experience, level, and other related details.
-3. In the **Tournament Information** section, you can indicate if the participant will be participating in a tournament and provide the event's details, such as the date and venue.
-4. Finally, you can review and confirm the participant's registration details, including their squash club and payment method.
-
-</thinking>
-
 # Squash Registration Form - Help Guide
 ## Purpose
 The Squash Registration Form is designed to collect participant information for squash tournaments or events.

@@ -1,8 +1,3 @@
-<thinking>
-This form appears to be a template for collecting online warranty registration information from customers. The purpose of this form is to gather essential details from customers to facilitate warranty processing and potential future interactions. The form likely serves as a starting point for companies to adapt to their specific needs.
-Before proceeding, ensure that this form is not duplicating an existing form used by your organization or another entity. If you're unsure, please consult your internal records to avoid creating duplicate forms.
-</thinking>
-
 # Online Warranty Registration Form Template - Help Guide
 
 ## Purpose

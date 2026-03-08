@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # photography-studio-access-form - Help Guide
 ## Purpose
 

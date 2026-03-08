@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for festival organizers and partners to RSVP for the appreciation night event. It collects information necessary for event planning and management. This form is designed to be filled out by festival partners, not attendees. Please ensure that you only submit this form once per partner, as duplicate submissions may cause confusion and affect event planning.
-
-</thinking>
-
 # Festival Partner Appreciation Night RSVP Form - Help Guide
 ## Purpose
 The Festival Partner Appreciation Night RSVP form is a tool for festival organizers to collect necessary information from partners. It helps to ensure accurate planning and management of the event.

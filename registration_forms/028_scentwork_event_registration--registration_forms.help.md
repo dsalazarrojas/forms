@@ -1,10 +1,3 @@
-<thinking>
-This form is used for participants to register for an event related to scentwork. Scentwork is a technique used in search and rescue, search operations, and tracking activities. This form will help organizers collect necessary information about the event participants, including their name and contact details. To ensure data accuracy, please ensure that the participant's email address is up-to-date. The event name, date, and time are optional fields but will help the organizers to better manage the event schedule and participant list. The participant name field is not required but is recommended for event organizers to address participants individually. 
-
-The form has 3 pages with 5 fields, each page is assumed to be completed independently. 
-
-</thinking>
-
 # Scentwork Event Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants to an event related to scentwork, such as search and rescue operations.

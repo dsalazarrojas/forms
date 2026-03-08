@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering marriage certificates, a document that proves a marriage has taken place. It is meant to be filled out by individuals who have recently gotten married and want to make their union official. To ensure that only legitimate marriage certificates are registered, this form will only be processed for couples that meet the required criteria. If a couple has not provided accurate information in the past, their submission may be denied.
-</thinking>
-
 # Marriage Certificate Registration Form - Help Guide
 ## Purpose
 This form is for registering marriage certificates for couples who have recently gotten married. Fill out this form to make your union official and receive a verified certificate.

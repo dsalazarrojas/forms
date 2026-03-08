@@ -1,8 +1,3 @@
-<thinking>
-To be honest, I was a bit puzzled by the structure of the provided YAML. It appears to be a standard JSON-like format used in form design, but I'll do my best to create a clear and concise help guide based on the fields provided.
-I'll assume that the form is used for enrolling trades and the purpose of this form is to gather information from applicants. The form seems to be quite straightforward, with most fields being optional.
-Upon reviewing the fields, I'll try to explain each field in simple terms, avoiding any unsupported business logic or assumptions.</thinking>
-
 # Trade Certification Enrollment Form - Help Guide
 ## Purpose
 This form is used to collect information from applicants for trade certification enrollment. Please use it to provide your details accurately and completely.

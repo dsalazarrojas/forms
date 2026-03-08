@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is designed for the enrollment of e-sports teams, where users will provide information about themselves, their gaming experience, and their team preferences. This form likely serves as an initial step in the team enrollment process, gathering essential details to facilitate a smooth and efficient team setup. I will not output the YAML fields as I only need to use the provided structure and labels to create the help guide...</thinking>
-
 # e_sports_team_enrollment_form - Help Guide
 ## Purpose
 The e_sports_team_enrollment_form is used for users to enroll in e-sports teams, providing essential details about themselves, their gaming experience, and team preferences to facilitate a smooth team setup.

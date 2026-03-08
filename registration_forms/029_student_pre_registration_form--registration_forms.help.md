@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to gather general information from students who are interested in registering for a program. The form is likely used to collect demographic data from students, and the information collected will be used for administrative purposes.
-
-Before filling out this form, please ensure that you are not duplicating your registration by checking if you have already registered. If you are a repeat registrant, you can skip this form.
-</thinking>
-
 # Student Pre-Registration Form - Help Guide
 ## Purpose
 The Student Pre-Registration Form is designed to collect general information from students interested in registering for a program.

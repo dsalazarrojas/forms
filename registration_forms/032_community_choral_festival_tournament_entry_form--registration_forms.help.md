@@ -1,14 +1,3 @@
-<thinking>
-This help guide is designed to assist users in filling out the Community Choral Festival Tournament Entry Form. 
-
-The form is intended for choirs to register for the Community Choral Festival Tournament. It is used to collect details about the choir, including performance information, technical needs, and logistical requirements. It also includes fields to confirm festival rules acknowledgment and entry fee payment. 
-
-The form consists of several sections, each with different fields that need to be completed to provide a thorough registration. 
-
-Before proceeding with this guide, we recommend checking that the form does not contain any duplication or errors in the provided fields. If you're ready, let's dive into the detailed explanation of each field below. 
-
-</thinking>
-
 # Community Choral Festival Tournament Entry Form - Help Guide
 ## Purpose
 The Community Choral Festival Tournament Entry Form is designed for choirs to register for the Community Choral Festival Tournament. It collects details about the choir, including performance information, technical needs, and logistical requirements.

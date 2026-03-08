@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to register for a habit formation challenge, which is designed to help users develop new habits and improve their overall well-being. The form collects personal and program information such as first and last name, email, participant type, program type, start and end dates, and time. The user needs to select the participant type and program type from a dropdown menu and provide a valid email address. The form is not intended for mass registration and is meant for individual participants. There should be no duplication of entries, so users are encouraged to fill out the form accurately and completely. The form is used for internal tracking and reporting purposes, and the information collected will be used to create a challenge schedule and track participant progress.
-</thinking>
-
 # habit_formation_challenge_registration - Help Guide
 
 ## Purpose

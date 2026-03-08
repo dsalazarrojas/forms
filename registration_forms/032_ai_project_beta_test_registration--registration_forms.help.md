@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals interested in participating in the beta testing phase of an AI project. To ensure the form is filled out correctly and not duplicate, the system will check for existing registrations of users with the same email address. The form contains personal and technical details about the beta tester, as well as information about their availability and experience. The form is divided into several sections to guide the user through the registration process. The system requires users to provide their name, email address, technical expertise, operating system, primary browser, hardware specifications, weekly availability, previous beta experience, motivation for joining, interested AI modules, preferred feedback channel, and agreement to confidentiality and NDA. This information will help the project team to evaluate and manage the beta test pool effectively.
-</thinking>
-
 # AI Project Beta Test Registration - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Public Interest Networking Event Registration - Help Guide
 ## Purpose
 

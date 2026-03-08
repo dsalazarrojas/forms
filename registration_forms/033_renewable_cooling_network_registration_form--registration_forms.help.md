@@ -1,9 +1,3 @@
-<thinking>
-This guide is intended for end-users who are completing the Renewable Cooling Network Registration Form. The form is designed to collect information from users who are interested in joining the Renewable Cooling Network. It is not required to complete the form, but filling it out can help the user gain access to the network's benefits. Please note that this form is not a contract, and completing it does not imply any legal agreements or commitments. If you are unsure about the relevance of this form to your situation, please review the provided information carefully.
-
-To ensure accurate registration, please complete all required fields. If you need to register multiple people or organizations, you can fill out this form multiple times.
-</thinking>
-
 # Renewable Cooling Network Registration Form - Help Guide
 
 ## Purpose

@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive help guide for the Corporate Account Registration Request Form, we first need to understand its purpose and requirements. This form is designed for registering corporate accounts, which likely involves collecting contact information, company details, and other relevant data from the representative of the company. The form may be used to streamline the registration process, ensuring accurate and consistent data collection.
-
-Before proceeding, we should confirm that there are no duplicate registrations for the same company or account type. This check is essential to prevent multiple accounts from being created for the same entity, which could lead to confusion and errors in the system.
-
-The following help guide is designed to walk the user through the form fields and their respective purposes, making it easier to understand and complete the form accurately.
-
-</thinking>
-
 # Corporate Account Registration Request Form - Help Guide
 ## Purpose
 The Corporate Account Registration Request Form is designed to collect information from corporate representatives for the purpose of registering their company's account with our system. This form ensures that we have accurate and up-to-date contact information, company details, and other relevant data.

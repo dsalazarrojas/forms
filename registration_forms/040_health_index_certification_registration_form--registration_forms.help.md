@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for participants to register for the Health Index Certification. The purpose of this form is to collect information from participants, including their name, contact information, and certification type. This form is designed to be completed by individuals seeking Health Index Certification. The required fields are not specified in the form, but based on the options provided, it can be assumed that the form is optional, meaning that participants can complete it at their own discretion.
-</thinking>
-
 # Health Index Certification Registration Form - Help Guide
 ## Purpose
 The Health Index Certification Registration Form is used to register for the Health Index Certification. This form is intended for participants who wish to seek certification.

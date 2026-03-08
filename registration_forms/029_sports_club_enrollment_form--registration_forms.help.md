@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The purpose of this form is to collect information about users who want to enroll in a sports club. This form is used to gather relevant details such as name, age, contact phone number, email address, sports club preference, availability, start and end dates, time, address, and any additional notes. It is essential to ensure that the form is completed accurately and thoroughly to process the enrollment request successfully.
 
 Before you begin, please make sure you have all the required information ready. If you are unsure about any field, please refer to the explanations below.

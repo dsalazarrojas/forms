@@ -1,11 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from users who wish to register with the Dar es Salaam University Statistician Association (DUSA). The form is likely used for membership registration and may also be used for other purposes such as surveys or data collection. It is essential to ensure that users understand the form's purpose and what information is being collected.
-
-To prevent duplication of efforts and ensure accurate data, the form should not be filled out unless the user has not already registered or has not provided the same information previously. It's also a good idea to review the form fields below to understand the required and optional fields.
-
-This form collects the following information: name, email, phone number, statistical data, date, time, note, select one option, select multiple options, decimal number, time, date, and note.
-</thinking>
-
 # dar_es_salaam_university_statistician_association_dusa_registration_forms - Help Guide
 ## Purpose
 The Dar es Salaam University Statistician Association (DUSA) registration form is used to collect information from users who wish to register with the association.

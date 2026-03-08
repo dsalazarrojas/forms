@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for users to input values for a monthly lunch meeting, specifically for a payment calculation. The form will help users determine whether the meeting will be held on-site or online, and then calculate the corresponding price. This form should only be completed by users who are authorized to make these decisions. Please confirm that you are an authorized user before proceeding.
-</thinking>
-
 # Monthly Lunch Meeting Paypal Calculated - Help Guide
 ## Purpose
 The purpose of this form is to help users determine the type of meeting (on-site or online) and calculate the corresponding price for the monthly lunch meeting.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Blood Donation Registration Form - Help Guide
 ## Purpose
 

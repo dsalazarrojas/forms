@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information from massage therapy clients, including personal details, medical history, and preferences. It is essential to complete this form accurately and truthfully to ensure that you receive the best possible care from our massage therapists. Please note that this form may be reviewed by medical professionals before your first appointment. If you have any concerns or questions, please don't hesitate to reach out to our team.</thinking>
-
 # Massage Therapy Client Intake Form - Help Guide
 ## Purpose
 The Massage Therapy Client Intake Form is a necessary step in the massage therapy process. It helps us understand your personal details, medical history, and preferences to tailor the massage sessions to your needs.

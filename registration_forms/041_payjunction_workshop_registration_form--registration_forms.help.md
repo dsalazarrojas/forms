@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information for a workshop registration, including the workshop name, attendee's contact details, event details, and registration preferences. This form is likely used for internal purposes within the PayJunction organization. The goal is to collect accurate and comprehensive data for event management and planning.
-Before filling out the form, please ensure that:
-* You are registering for a workshop that is not already full.
-* You have all necessary details and approvals before submitting the form.
-</thinking>
-
 # PayJunction Workshop Registration Form - Help Guide
 ## Purpose
 

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect user information for the Outdoor Recreation Expo. This form will be used to gather details about the user's interests, preferences, and contact information. It is crucial that the form is completed accurately and thoroughly to ensure that the user's needs and expectations are met by the expo organizers.
-</thinking>
-
 # Outdoor Recreation Expo Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from users about the Outdoor Recreation Expo. Please provide accurate and complete details to ensure we can tailor the expo experience to your preferences.

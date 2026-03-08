@@ -1,7 +1,3 @@
-<thinking>
-  This help guide is intended to be a reference for end-users to complete the virtual fitness consultation appointment form. The form is designed to capture essential information from the user to schedule an appointment. The guide will cover each section of the form in detail to ensure that users understand what is required and what information is needed to complete the form correctly.
-</thinking>
-
 # virtual_fitness_consultation_appointment_form - Help Guide
 ## Purpose
 The virtual fitness consultation appointment form is designed to gather information from users to schedule a virtual appointment for a fitness consultation. This form will guide you through the process of filling out the form.

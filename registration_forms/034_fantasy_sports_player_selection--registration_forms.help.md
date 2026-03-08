@@ -1,12 +1,3 @@
-<thinking>
-The goal of this form is to help users select their preferred fantasy sports teams. It's a crucial step for those participating in fantasy sports, enabling them to form teams that align with their personal preferences and goals.
-
-This form is part of a larger system for users to engage with fantasy sports. To avoid duplication, please fill out this form only if you're a new user or if you've never completed it before.
-
-The form consists of three sections: player selection, player choice, and player preference. Each section requires users to make choices that will ultimately determine their fantasy team composition.
-
-</thinking>
-
 # Fantasy Sports Player Selection - Help Guide
 ## Purpose
 The Fantasy Sports Player Selection form is designed to help users create their fantasy sports teams by selecting their preferred teams for each section of the fantasy sports league.

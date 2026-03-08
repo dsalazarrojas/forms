@@ -1,5 +1,3 @@
-<thinking>Form 029_ai_powered_marketing_training_registration_form--registration_forms is a registration form designed for the "AI Powered Marketing Training" program. Its purpose is to collect participant information, training preferences, and logistical details for the training sessions. This form is not affiliated with or derived from any form creation platform. It was created using AI and is an original adaptation. The form is released under CC BY 4.0 and can be used, modified, and sold for personal or commercial purposes, as long as credit is given.</thinking>
-
 # 029_ai_powered_marketing_training_registration_form--registration_forms - Help Guide
 ## Purpose
 The AI Powered Marketing Training registration form is a tool used to collect participant details and preferences for the training sessions. This form is designed to gather essential information for the organizers to provide a tailored experience for each participant.

@@ -1,7 +1,3 @@
-<thinking>
-We will be creating a help guide for the stem_outreach_volunteer_registration_form, which is used to collect information from potential volunteers for outreach programs.
-</thinking>
-
 # stem_outreach_volunteer_registration_form - Help Guide
 ## Purpose
 This form is used to collect information from potential volunteers for outreach programs. Please fill out the form completely and accurately to ensure that you are registered as a volunteer and can be contacted by our team for further instructions.

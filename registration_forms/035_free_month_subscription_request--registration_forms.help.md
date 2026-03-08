@@ -1,9 +1,3 @@
-<thinking>
-The form purpose is to handle free month subscription requests from users. 
-The form is designed to collect user information, subscription plan details, and other relevant data. 
-To avoid duplication, the form will check if a user has already submitted a free month subscription request. If a user has already submitted a request, they will not be able to submit another one. 
-</thinking>
-
 # free_month_subscription_request - Help Guide
 ## Purpose
 This form is for users who want to request a free month subscription. It helps us understand the user's details and subscription preferences to provide a personalized offer.

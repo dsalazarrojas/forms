@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users who will be attending an outdoor movie night event. The purpose of this form is to collect contact and demographic information from participants, including their names, contact details, and dietary restrictions. To avoid duplication, users are not required to provide duplicate information, making it easier for the event organizers to get a clear picture of who's attending.
-</thinking>
-
 # Outdoor Movie Night Registration Form - Help Guide
 ## Purpose
 This form is for registration for the Outdoor Movie Night event. Please fill out the required information to help us get to know you and cater to your needs.

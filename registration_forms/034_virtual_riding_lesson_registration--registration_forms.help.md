@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The following is a help guide for the "Virtual Riding Lesson Registration" form.
 
 # Virtual Riding Lesson Registration - Help Guide

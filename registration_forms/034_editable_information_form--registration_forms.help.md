@@ -1,12 +1,3 @@
-<thinking>
-The form "Editable Information Form" is designed to collect personal and team-related information. It is likely used for registration purposes, such as team registration or student enrollment. The form appears to be designed for both individual and team registrations, with a focus on collecting contact information for team leads and emergency contacts. This form may be part of a larger system for managing teams or students. 
-
-The form includes fields for first and last names, email addresses, emergency contact information, phone numbers, and other relevant details. Some fields are marked as required, indicating that they need to be filled out for the form to be considered complete. The language options suggest that the form is intended for a global audience, but may not have been fully translated into other languages.
-
-This form seems to be designed for a specific use case and audience, such as a school or sports team. It's possible that this form is used for a specific event or program. 
-
-</thinking>
-
 # Editable Information Form - Help Guide
 
 ## Purpose

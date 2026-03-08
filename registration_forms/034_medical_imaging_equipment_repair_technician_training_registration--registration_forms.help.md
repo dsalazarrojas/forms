@@ -1,7 +1,3 @@
-<thinking>
-This form is for registration of Medical Imaging Equipment Repair Technician Training. It allows users to enroll in the training course(s) of their choice, provide their contact information, and submit their registration. The form is split into several sections. The first section, "Course Enrollment", allows users to select one or more courses they wish to enroll in. The second section is for user contact information. The third section is a duplicate of the email field for security purposes. The fourth section is for user phone number. The fifth section is a duplicate of the phone number field for security purposes. The sixth section is for user to confirm their email. The seventh and last section is a submit and cancel button. This form is not intended to be completed by non-staff members. All fields are optional, except for the submit button which is required to be selected to submit the form.
-</thinking>
-
 # Medical Imaging Equipment Repair Technician Training Registration - Help Guide
 ## Purpose
 This form is designed to register users for the Medical Imaging Equipment Repair Technician Training. It allows users to select the courses they wish to take and provide their contact information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from teams and players for an esports tournament. It's essential to fill out this form accurately and completely to ensure that your team's registration is processed correctly. Please note that this form is a one-time submission, and you will not be able to edit or update your registration after submission. If you need to make changes, please contact the tournament organizers.
-</thinking>
-
 # Esports Tournament Registration Form - Help Guide
 ## Purpose
 This form is for teams and players to register for an esports tournament. It gathers essential information about the team and players, such as team details, contact information, and game-specific data.

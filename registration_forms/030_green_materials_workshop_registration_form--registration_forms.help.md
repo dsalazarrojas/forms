@@ -1,11 +1,3 @@
-<thinking>
-This form is intended to collect information from individuals who are interested in attending the Green Materials Workshop. The form is likely used to gather contact details (first name, last name, email, phone), workshop preferences (workshop, workshop name, date, time), and additional information (note, category, category name, assigned tool). This form might be used for internal tracking and communication purposes.
-
-Before proceeding, ensure that you have not previously filled out this form. Please review the form carefully to ensure you are filling it out correctly.
-
-The following guide is intended to help you complete this form accurately and efficiently.
-</thinking>
-
 # Green Materials Workshop Registration Form - Help Guide
 ## Purpose
 The Green Materials Workshop Registration Form is designed to collect contact information and workshop preferences from individuals interested in attending the Green Materials Workshop. This form will help the organizers to track participants' details and facilitate communication during the event.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect editable resume information from users in a simple and easy-to-use format. The fields are intended to capture personal details, work experience, education, skills, and resume uploads. Please only fill out this form if you have a legitimate need to do so. To avoid duplication, please do not fill out this form if you have already provided similar information to us before.
-</thinking>
-
 # Editable Resume Form - Help Guide
 ## Purpose
 This form is designed to collect editable resume information from users for various purposes, such as job applications, career development, or personal projects. Please review our terms and conditions to understand how this data will be used.

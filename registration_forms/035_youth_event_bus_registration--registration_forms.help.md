@@ -1,9 +1,3 @@
-<thinking>
-This form is designed for registering youth event buses, which are vehicles that transport minors to and from events or activities. The purpose of this form is to collect information about the event, riders, and guardians in order to ensure their safety and security.
-This form is intended for use by event organizers or administrators to collect information from guardians or responsible adults about the riders participating in an event.
-It is recommended that only one form should be submitted per rider.
-</thinking>
-
 # Youth Event Bus Registration - Help Guide
 ## Purpose
 This form is used to register youth event buses and collect information from guardians or responsible adults about the riders participating in an event.

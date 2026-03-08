@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # drumline_and_majorette_registration - Help Guide
 ## Purpose
 The drumline and majorette registration form is designed to collect information from students participating in the drumline and majorette program at your school. This form aims to gather necessary details to facilitate communication and organization for the program.

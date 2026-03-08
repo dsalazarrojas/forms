@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information for a newsletter. It is used for internal or external communication purposes and does not collect any sensitive or sensitive information. The form is created using AI-generated content and is an original adaptation of public survey topic metadata.
-</thinking>
-
 # newsletter_registration_form - Help Guide
 ## Purpose
 This form is used to register for a newsletter, collecting personal details such as name, contact information, and job title for internal or external communication purposes.

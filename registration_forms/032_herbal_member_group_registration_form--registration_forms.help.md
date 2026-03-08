@@ -1,7 +1,3 @@
-<thinking>
-To create a user-facing help guide for the "Herbal Member Group Registration Form", first, let's review the form's purpose and ensure it's not a duplicate task. The form is likely used to collect data from users for membership registration purposes within the Herbal group. Before proceeding, please check if a similar form already exists or if the data is redundant. If it's not, let's move forward with creating the help guide.
-</thinking>
-
 # Herbal Member Group Registration Form - Help Guide
 ## Purpose
 The "Herbal Member Group Registration Form" is a form designed to collect information from users for membership registration purposes within the Herbal group. It is essential to ensure that each field is completed accurately, as it will be used for registration processes.

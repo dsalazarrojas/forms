@@ -1,7 +1,3 @@
-<thinking>
-This is an Attendance Monitoring Form used to track and record program information, participant details, and attendance status during a program session. The form is crucial in maintaining accurate records and enabling follow-up actions as needed. It should only be used for program sessions and not for other purposes. It is assumed that the form is being used within the context of an existing system with the necessary user roles and permissions set.
-</thinking>
-
 # Attendance Monitoring Form - Help Guide
 ## Purpose
 The Attendance Monitoring Form is a tool used to track attendance and record important information about program sessions. It allows facilitators to accurately report attendance status, note important events, and record participant details.

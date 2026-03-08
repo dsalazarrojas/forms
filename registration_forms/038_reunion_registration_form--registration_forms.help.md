@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from attendees of a reunion event. The form will collect personal details such as first and last name, contact information (email and phone number), academic background (graduation year), and reunion specific details (attending and reunion year).
-The form should not be filled out by individuals who are not planning to attend the reunion or have not graduated from the institution.
-The form will automatically check for duplication of information to prevent multiple registrations for the same individual.
-</thinking>
-
 # Reunion Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from individuals planning to attend the reunion.

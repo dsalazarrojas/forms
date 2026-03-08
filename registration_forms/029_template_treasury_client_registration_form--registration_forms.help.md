@@ -1,5 +1,3 @@
-<thinking>...The purpose of this form is for users to register as a client with the Treasury, providing personal and demographic information for the Treasury to keep in their records. This form is not intended to be used for any other purpose, such as for external data sharing or public access. Ensure that only authorized users complete this form. To prevent duplicate submissions, ensure that users do not submit the same form multiple times...</thinking>
-
 # template_treasury_client_registration_form - Help Guide
 ## Purpose
 The template_treasury_client_registration_form is a registration form designed for users to provide personal and demographic information to the Treasury. This form is intended for internal use only and should not be submitted multiple times by the same user.

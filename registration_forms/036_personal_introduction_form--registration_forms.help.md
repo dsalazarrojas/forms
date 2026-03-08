@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for users to provide a personal introduction, including their name, contact information, background, interests, and other relevant details. The form is intended to be filled out by individuals who want to showcase their skills, experiences, and interests for various purposes, such as registration for a workshop, conference, or other events.
-
-Before filling out this form, ensure that you have not previously filled out this form with the same information. This form serves as a one-time registration and introduction to the specified event or platform.
-
-</thinking>
-
 # Personal Introduction Form - Help Guide
 ## Purpose
 The Personal Introduction Form is designed to collect personal and professional information from users for registration and introduction purposes. This guide will walk you through each field in the form to help you complete it accurately.

@@ -1,10 +1,3 @@
-<thinking>
-The youth sports league registration form is used to collect information from parents, athletes, and coaches to manage registrations for youth sports leagues. The form is likely used by sports organizations, schools, or community centers to gather necessary details for league administration. To check for internal relevance and duplication:
-- Ensure the form fields align with the organization's existing registration process and data collection requirements.
-- Review the form for any redundant or unnecessary fields that can be removed or condensed.
-- Verify that the form's purpose and design align with the organization's overall goals and objectives.
-</thinking>
-
 # youth_sports_league_registration_form - Help Guide
 ## Purpose
 The youth sports league registration form is designed to collect essential information from parents, athletes, and coaches to facilitate smooth administration and management of youth sports leagues. This form aims to gather general information, parent details, athlete specifics, payment data, emergency contact, athlete medical information, athlete skills, and coach information.

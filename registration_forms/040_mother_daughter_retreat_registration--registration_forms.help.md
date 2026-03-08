@@ -1,8 +1,3 @@
-<thinking>
-This help guide is intended for users who are completing the Mother Daughter Retreat Registration form. The form is designed to collect information from mothers and daughters who are interested in participating in a mother-daughter retreat. The retreat aims to provide a nurturing and empowering experience for mothers and daughters to bond and learn from each other. This form will collect demographic information, contact details, and preferences for the event. Please review the form carefully to ensure you are completing it accurately and providing all necessary information. If you have any questions or concerns, please contact us.
-
-</thinking>
-
 # Mother Daughter Retreat Registration - Help Guide
 ## Purpose
 This form is for mothers and daughters to register for a mother-daughter retreat. Please provide accurate and complete information to ensure we have all necessary details to accommodate your needs.

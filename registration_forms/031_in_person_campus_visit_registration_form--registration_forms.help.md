@@ -1,9 +1,3 @@
-<thinking>
-This form is intended for students to register for an in-person campus visit. The form's purpose is to gather information from students about their visit preferences, including date, time, and type of visit. This information will be used to schedule and coordinate the visit. 
-The form will not be duplicated for the same student, as it is designed to be a one-time registration for each student. 
-The form is not intended to be completed by anyone other than the student themselves. 
-</thinking>
-
 # In Person Campus Visit Registration Form - Help Guide
 
 ## Purpose

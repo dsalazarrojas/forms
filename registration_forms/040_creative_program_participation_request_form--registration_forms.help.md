@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Creative Program Participation Request Form - Help Guide
 ## Purpose
 This form is designed for individuals or organizations interested in participating in a creative program. It helps us understand their requirements and preferences, ensuring a smooth and tailored experience for all involved. Please note that this form is not meant for duplicate or test requests. If you've submitted a request recently, please do not resubmit. If you're unsure about the purpose of this form, kindly review the program's terms and conditions.

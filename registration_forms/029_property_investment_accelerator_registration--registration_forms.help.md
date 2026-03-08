@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This form serves as a registration form for a Property Investment Accelerator, a program that aims to facilitate property investors to connect with real estate developers, property owners, and financial institutions. The purpose of this form is to collect relevant information from potential participants to help them register for the accelerator. This will help the team to understand their investment goals, experience, and interests, ensuring a tailored experience for each participant.
 
 # Property Investment Accelerator Registration - Help Guide

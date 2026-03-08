@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # professional_certification_consent_form - Help Guide
 
 ## Purpose

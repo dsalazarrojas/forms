@@ -1,9 +1,3 @@
-<thinking>
-This is a registration form for Junior Sports Trials. Before you proceed, ensure that you haven't already filled out this form, as it may lead to unnecessary duplicate registrations. Please take a moment to review the fields below to understand what information is required. 
-- The form is designed to gather contact information and trial preferences from participants.
-- The fields will vary depending on your answers to the questions.
-</thinking>
-
 # junior-sports-trials-registration - Help Guide
 ## Purpose
 This form is designed to register participants for Junior Sports Trials, a program aimed at promoting sports activities among children. The form captures contact information and preference selections for trial events.

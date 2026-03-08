@@ -1,12 +1,3 @@
-<thinking>
-To ensure the Carrier Registration Form is accurately completed, please note that:
-- This form is intended for carriers to register with the FMCSA (Federal Motor Carrier Safety Administration) for authority to operate as a for-hire carrier.
-- The form is to be completed in its entirety, as required fields are marked.
-- Please select the correct registration type for your carrier (New Carrier, Updated Profile, or Reactivation).
-- If you are a new carrier, ensure you have all necessary information and documentation (e.g., company name, DOT number, MC number, etc.) before proceeding.
-- Ensure all fields are accurately filled, and review the form carefully before submission.
-</thinking>
-
 # Carrier Registration Form - Help Guide
 
 ## Purpose

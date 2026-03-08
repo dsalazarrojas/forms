@@ -1,9 +1,3 @@
-<thinking>
-
-The Estate Sale Early Access Registration form is intended for estate sale organizers to collect necessary details about their event in order to facilitate smooth execution. This form is usually filled out by organizers to provide essential information about the estate sale, including attendee capacity, event date and time, early access details, attendees, event location, and more. To fill out this form, the organizer will need to enter a variety of details such as the number of attendees, event date, event time, location, and attendees' names.
-
-</thinking>
-
 # Estate Sale Early Access Registration - Help Guide
 ## Purpose
 The Estate Sale Early Access Registration form is used to collect essential details about an estate sale event. It helps organizers to provide accurate and timely information about the event to attendees and other stakeholders.

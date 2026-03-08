@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to be used for users to sign up for a garden event. The form is not mandatory for registration, and users can choose to provide their details if they wish to attend the event. The form is not meant for existing event attendees to update their information. The form is designed to collect basic contact information and event details from potential attendees. It is recommended that users fill out the form only if they are interested in attending the event.
-</thinking>
-
 # Garden Event Email Signup - Help Guide
 ## Purpose
 This form is designed to collect information from potential attendees for a garden event. It is not a mandatory registration form, and users can choose to provide their details if they wish to attend the event.

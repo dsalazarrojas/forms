@@ -1,9 +1,3 @@
-<thinking>
-We need to ensure that this form is being used for its intended purpose - registering children for a preschool program - and that users are not trying to submit duplicate registrations. This form is designed to collect essential information from parents or guardians to ensure their child's registration is complete and accurate. To prevent duplicate registrations, we will check for existing registrations before processing new submissions.
-
-To complete this form, users will provide personal identifiable information, emergency contact details, and other relevant information about their child. The collected data will be stored securely and used to manage child registrations and emergency contacts within the preschool program.
-</thinking>
-
 # Preschool Registration - Help Guide
 ## Purpose
 The Preschool Registration form is designed to collect information from parents or guardians to register their child for the preschool program. This form is intended for new registrations only. If you have already submitted a registration, please do not attempt to submit another.

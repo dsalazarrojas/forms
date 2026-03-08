@@ -1,8 +1,3 @@
-<thinking>
-This is a registration form for QA (Quality Assurance) events. To prevent errors, we need to verify that the information entered is accurate and consistent. Before completing the form, please review the guidelines below to ensure you have the correct information and haven't registered for a similar event previously. The form is designed to collect relevant details for attendees, including event preferences and contact information. Please note that some fields are optional and will only be visible to authorized personnel.
-
-</thinking>
-
 # QA Event Registration Form - Help Guide
 ## Purpose
 The QA Event Registration Form is designed to gather information from attendees for QA events. This form ensures that attendees provide accurate and up-to-date information, which is essential for event organization and follow-up activities.

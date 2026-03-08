@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # ATC Client Registration - Help Guide
 
 ## Purpose

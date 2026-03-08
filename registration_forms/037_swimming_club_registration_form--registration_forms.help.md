@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed for registering participants in a swimming club. It captures essential information about each swimmer, including personal details, medical information, and emergency contact details. The form is divided into different sections, and each field has a specific purpose and requirement status. 
-
-This form is meant to be completed by swimmer participants, and it's essential to ensure that all required fields are filled out accurately to avoid any issues during the registration process.
-
-</thinking>
-
 # Swimming Club Registration Form - Help Guide
 ## Purpose
 The Swimming Club Registration Form is designed to collect information from swimmers to ensure a smooth and safe experience for all participants.

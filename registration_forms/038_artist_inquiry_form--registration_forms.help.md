@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from artists interested in exhibition opportunities with the gallery. The form is divided into six sections: Artist Information, Artistic Background, Gallery Exhibition Interest, Portfolio and Documentation, Previous Exhibitions, and Inquiry Details. The fields are designed to gather contact information, artistic experience, and exhibition preferences, as well as allow artists to showcase their work and provide any necessary documentation. This form is meant to be a comprehensive tool for artists to express their interest in exhibiting at the gallery. Before starting, please ensure you haven't filled out this form previously, as duplicate entries may cause confusion and lead to missed opportunities.
-</thinking>
-
 # Artist Inquiry Form - Help Guide
 ## Purpose
 This form is designed to help artists express their interest in showcasing their work at the gallery. By providing accurate and complete information, artists can increase their chances of getting noticed by the gallery team.

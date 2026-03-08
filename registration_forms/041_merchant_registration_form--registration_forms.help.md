@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from merchants who want to register for an event or conference. 
-The form is used to gather details about the merchant, including their name, email, phone number, and other relevant information. 
-This form is only intended for merchants who want to register for the event, and not for general inquiries or other purposes.
-
-</thinking>
-
 # Merchant Registration Form - Help Guide
 ## Purpose
 This form is designed to help merchants register for an event or conference. It gathers essential information about the merchant, including contact details and other relevant specifics.

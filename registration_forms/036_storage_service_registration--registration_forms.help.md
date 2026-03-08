@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect information for storage services registrations. The purpose of this form is to gather data on storage services, including storage types, capacities, move-in and move-out details, and contact information. Before proceeding, ensure that you have not submitted this form previously, as it is intended for one-time use. If you have already submitted this form, please do not resubmit it.
-
-</thinking>
-
 # Storage Service Registration - Help Guide
 ## Purpose
 The Storage Service Registration form is used to collect information for storage services registrations.

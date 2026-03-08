@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # retail_operations_efficiency_course_registration_form - Help Guide
 ## Purpose
 This form is designed to collect participant information for the Retail Operations Efficiency Course. It aims to gather relevant details about the participant's company, job title, and agreement to attend the course. The form is intended for participants who are interested in improving their retail operations efficiency skills.

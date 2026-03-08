@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering volunteers for professional development workshops. The purpose of this form is to gather information about potential volunteers' personal details, such as their contact information and availability, so that they can be matched with suitable workshops. This form is intended for internal use only and should not be completed if you're not a volunteer.
-</thinking>
-
 # professional development volunteer registration form - Help Guide
 ## Purpose
 This form is used to register volunteers for professional development workshops. It collects information about your personal details and availability to match you with suitable workshops.

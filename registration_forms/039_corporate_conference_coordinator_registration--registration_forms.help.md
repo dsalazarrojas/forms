@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help corporate conference coordinators register their event details and team information with the conference organizers. The form is used to gather essential information about the conference, including its title, location, start and end dates, topic, and coordinator's contact details. The goal of this form is to ensure that the conference coordinator has provided all necessary information to successfully organize and execute the event. Please make sure you're not already registered for this event or that you're not duplicating an existing registration by checking with the conference organizers.
-</thinking>
-
 # Corporate Conference Coordinator Registration - Help Guide
 ## Purpose
 This form is designed to collect essential information about a corporate conference from the conference coordinator. It helps the conference organizers to have a clear overview of the event and its requirements.

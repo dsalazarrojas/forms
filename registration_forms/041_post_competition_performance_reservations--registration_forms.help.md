@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for post-competition performance reservations. It is intended for artists who have participated in a competition and want to book their next show or event. The form is used to gather data on the performance date, artist contact information, event details, and other relevant information. Please note that this form is for post-competition purposes only, and all fields are optional. To ensure consistency, please do not submit duplicate reservations.
-</thinking>
-
 # Post Competition Performance Reservations - Help Guide
 ## Purpose
 The purpose of this form is to collect information from artists for post-competition performance reservations. This helps us keep track of upcoming events and shows.

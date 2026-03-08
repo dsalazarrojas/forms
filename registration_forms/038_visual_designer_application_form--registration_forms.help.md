@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Visual Designer Application Form - Help Guide
 ## Purpose
 The Visual Designer Application Form is designed to collect information from applicants who are interested in applying for a visual design position. This form is used to gather essential details such as username, email, portfolio, skills, experience, and other relevant information. The form is a crucial step in the application process, ensuring that the applicant has a clear understanding of their qualifications and the position they are applying for.

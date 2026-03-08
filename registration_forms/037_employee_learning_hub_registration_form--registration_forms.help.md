@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information for employee registration in the Employee Learning Hub. This information will be used to update employee records and facilitate their access to learning resources. Please ensure you have all necessary information before proceeding. This form should only be used for new employee registrations, not for updates or modifications to existing employee records.
-</thinking>
-
 # Employee Learning Hub Registration Form - Help Guide
 ## Purpose
 This form is used to register new employees in the Employee Learning Hub. It collects essential employee information, including personal details, job specifics, and manager information. Please fill out the form accurately and thoroughly to ensure correct registration.

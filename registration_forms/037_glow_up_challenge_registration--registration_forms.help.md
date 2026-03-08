@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information for the "Glow Up Challenge" registration process. The form is intended for individuals interested in participating in a fitness-related challenge. This form will only be filled out once per participant, and no information will be collected multiple times. It is recommended that users fill out the form carefully and thoroughly to ensure accurate information is collected.
-</thinking>
-
 # Glow Up Challenge Registration - Help Guide
 ## Purpose
 The Glow Up Challenge Registration form is a collection of questions designed to gather information from individuals interested in participating in the Glow Up Challenge. This form is intended to be filled out by participants to provide accurate and relevant information for the challenge organizers.

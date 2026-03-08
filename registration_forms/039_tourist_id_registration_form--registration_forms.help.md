@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for tourists to register their identity and provide information about their travel plans. The purpose of this form is to gather essential data for processing tourist-related tasks. It is essential to fill out the form accurately to ensure a smooth and efficient process. Please ensure that you are not registering multiple tourists under the same name, as this might lead to inaccuracies in the system. If you have already filled out this form, you do not need to register again.
-</thinking>
-
 # Tourist ID Registration Form - Help Guide
 
 ## Purpose

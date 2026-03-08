@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # University Tuition Payment Form - Help Guide
 
 ## Purpose

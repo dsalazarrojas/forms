@@ -1,7 +1,3 @@
-<thinking>
-The form appears to be designed for registering entries for a "Mixology Showdown" tournament, which involves mixing cocktails. The form seems to collect information from participants, including their team details, contact information, and entry specifics such as the cocktail name, recipe, and photo. The form also asks for optional details like team experience, mixology skills, and assigned tasks for the participant. It's likely that this form is used for internal management and organization of the tournament. I will create a help guide that explains each field and its purpose in a clear and concise manner.
-</thinking>
-
 # Mixology Showdown Tournament Entry Form - Help Guide
 ## Purpose
 This form is used to register entries for the Mixology Showdown tournament. It gathers information from participants to help us better manage the competition.

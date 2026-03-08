@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from participants for the Workforce Culture Lab, a research study focused on understanding the dynamics and challenges within a team or organization. 
-This form is used to gather demographic and contact information, as well as specific details about the participant's role and experience within the lab.
-Please fill out this form carefully to ensure accurate and complete information.
-</thinking>
-
 # Workforce Culture Lab Registration Form - Help Guide
 ## Purpose
 This form is used to collect demographic and contact information from participants for the Workforce Culture Lab study.

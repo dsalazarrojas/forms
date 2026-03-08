@@ -1,22 +1,3 @@
-<thinking>
-
-This form is for registering an Executive Director's attendance to a meeting. It appears to be a straightforward and general-purpose registration form, suitable for capturing the essential information about the Executive Director's presence. The form does not have any specific conditional or dependency logic, and each field is optional except for the 'title' field which is not even present in the form. This implies that the form is not meant to be used in a specific context or situation that would require conditional or dependency logic.
-
-The form captures the following information: 
-
-* Executive Director's name and job title
-* Attendance type (Executive Director, Senior Management, or Other)
-* Attendance date and time
-* Meeting type (Leadership Meeting, Retreat, or Other)
-* Special requirements
-* Other meeting details
-* Executive Director's ID
-* Company
-
-Given this information, the form seems to be designed for internal use within an organization, possibly for attendance tracking or meeting management purposes.
-
-</thinking>
-
 # prophets_directors_meeting_registration - Help Guide
 ## Purpose
 The purpose of this form is to register an Executive Director's attendance to a meeting.

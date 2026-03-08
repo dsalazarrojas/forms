@@ -1,7 +1,3 @@
-<thinking>
-This guide is intended for individuals registering their interest in participating in lawn bowls events. It will be used by organizers to collect necessary information from participants. This form is not a public-facing form and is intended for internal use by organizers and administrators. Please do not use this form for other purposes without permission from organizers. This guide will cover each field and provide explanations for users to understand the purpose of each field.
-</thinking>
-
 # Lawn Bowls Participation Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from participants for lawn bowls events. It will be used to store and manage participant data for the purpose of organizing and administering events.

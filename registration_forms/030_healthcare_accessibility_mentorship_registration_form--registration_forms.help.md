@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for registering individuals or entities for a healthcare accessibility mentorship program. It may be used to track progress or status of applicants in the program. Before using this form, please ensure that you are not duplicating an existing registration or submission. The fields and options provided suggest that the form is intended for administrators or staff to input information about applicants, including their availability, contact information, application status, and submission details.
-</thinking>
-
 # Healthcare Accessibility Mentorship Registration Form - Help Guide
 ## Purpose
 This form is used to register individuals or entities for a healthcare accessibility mentorship program.

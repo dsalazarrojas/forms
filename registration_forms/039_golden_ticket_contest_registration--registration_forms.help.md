@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for users to register themselves for the Golden Ticket Contest, which is a contest with a specific eligibility criteria. To confirm that the form is being used correctly, please check that you have a clear understanding of the form's purpose and that you are only submitting a registration once.
-
-The Golden Ticket Contest has specific rules regarding eligibility, and users must confirm their age and country to ensure they qualify. The form requires users to enter their First and Last name, Email, Phone (if provided), Country, and Zip code. Additionally, users must confirm their eligibility and agree to the terms and conditions.
-
-Please confirm that you have read and understood the form's purpose and rules before proceeding with the registration.
-</thinking>
-
 # Golden Ticket Contest Registration - Help Guide
 ## Purpose
 This form is designed for users to register themselves for the Golden Ticket Contest. The contest is open to individuals who are 18 or older and reside in the United States, Canada, or Mexico. Please confirm that you have a clear understanding of the form's purpose before proceeding.

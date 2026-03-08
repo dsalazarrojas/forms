@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about players who are trying out for a team. To ensure that each player's data is accurate and up-to-date, please review the form carefully and fill it out completely. Please do not submit duplicate forms.
-
-This form is only for players who are attempting to try out for the team. If you're not a player, please do not submit this form.
-
-Also, please note that some fields are required while others are optional, depending on the specific tryout type and other circumstances.
-</thinking>
-
 # Player Tryout Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information about players who are trying out for a team. It gathers essential details about the player, including team affiliation, player contact information, emergency contact information, and player demographics.

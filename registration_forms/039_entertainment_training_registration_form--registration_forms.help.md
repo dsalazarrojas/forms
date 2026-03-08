@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from users for Entertainment Training. This form is likely used to schedule and organize events, workshops, or courses related to entertainment, and to ensure that all necessary details are captured for the training. Before proceeding, please verify that this is indeed the correct form for your intended purpose and that you are not duplicating efforts by checking with the relevant authorities or checking the form's internal ID to ensure it matches your expected use case.</thinking>
-
 # Entertainment Training Registration Form - Help Guide
 ## Purpose
 The Entertainment Training Registration Form is designed to collect essential information from users for events, workshops, or courses related to entertainment. Please complete this form to register for such training.

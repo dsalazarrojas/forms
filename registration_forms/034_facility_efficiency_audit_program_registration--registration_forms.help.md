@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users understand the purpose and functionality of the facility_efficiency_audit_program_registration form. This form is meant to collect information from facilities about their participation in a facility efficiency audit program. The form is designed to be filled out by facility representatives and will be used to determine eligibility and gather necessary information for the program.
-
-This guide will be used to ensure that all facilities are aware of the purpose and requirements of the form, reducing errors and misunderstandings.
-
-Before starting, please review the form carefully and make sure you have all necessary information before proceeding.
-
-</thinking>
 # facility_efficiency_audit_program_registration - Help Guide
 ## Purpose
 The facility efficiency audit program is designed to help facilities improve their efficiency and effectiveness. This program provides a structured approach to identify areas of improvement and implement changes to increase productivity and reduce waste.

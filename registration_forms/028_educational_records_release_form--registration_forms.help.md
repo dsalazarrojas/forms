@@ -1,9 +1,3 @@
-<thinking>
-The Educational Records Release Form is used to obtain consent for the sharing of educational records, which can include but are not limited to academic transcripts, grades, and other relevant documents. This form is intended for individuals who have attended educational institutions and are seeking to share their records with third-party organizations or entities. It is crucial to note that this form is not a one-time use form, and it may be necessary to complete multiple instances of this form to cover different periods of study or educational institutions. 
-
-Before proceeding, please ensure that you have the necessary information and authorization to complete this form accurately. Failure to complete this form or providing false information may lead to delays or issues in processing your records.
-
-</thinking>
 # Educational Records Release Form - Help Guide
 ## Purpose
 The Educational Records Release Form is a document used to obtain consent for the sharing of educational records, such as academic transcripts and grades.

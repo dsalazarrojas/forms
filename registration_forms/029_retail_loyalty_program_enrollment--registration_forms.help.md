@@ -1,13 +1,3 @@
-<thinking>
-
-This form is used to enroll a customer into the retail loyalty program. The purpose of this form is to collect relevant customer information, such as first and last name, email, contact number, preferred contact method, store ID, loyalty program, and notes. The information collected will be used to manage customer interactions and tailor loyalty offers. 
-
-The form should only be used for customers who are not already enrolled in the program. If you are unsure, please check the customer's status in the customer database.
-
-This form is not intended for customers who are already enrolled in the program or for customers who do not have a valid store ID.
-
-</thinking>
-
 # Retail Loyal Program Enrollment - Help Guide
 
 ## Purpose

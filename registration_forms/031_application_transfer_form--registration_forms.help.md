@@ -1,10 +1,3 @@
-<thinking>
-The Application Transfer Form seems to be used for students to provide information about their current and desired academic status. This form might be used for academic transfer, where students want to change their institution or program. The fields appear to collect personal details, current academic status, and transfer preferences. The form also asks for documentation status, which suggests that the student may need to provide supporting documents for the transfer process.
-
-To avoid duplicating effort and to provide a clear guide for users, it's essential to check if the user has already completed a similar form before allowing them to access this one. The form seems to be designed for students who are interested in transferring to a new academic institution.
-
-Before starting the form, please check if you have already completed a similar form. If you're unsure, please contact your academic advisor or the relevant authority for assistance.</thinking>
-
 # Application Transfer Form - Help Guide
 ## Purpose
 The Application Transfer Form is designed for students to provide information about their current and desired academic status when transferring to a new academic institution.

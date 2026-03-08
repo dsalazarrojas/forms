@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended for end users who are registering for the Community Ladies Event. This form is used to gather information about the attendees, their participation preferences, and other important details. Please ensure that you are registering for the correct event, as this form will not allow duplicate registrations. 
-
-To complete this form, start by selecting the correct event from the options listed. Then, provide your name, email address, and phone number. Next, choose how you will be participating in the event, whether in-person or virtually. If you have any dietary restrictions or preferences, select all that apply. If you are attending with additional guests, provide their names and the number of guests you are bringing. If you have any special accommodations needed, such as accessibility access or translation services, indicate this on the form. 
-
-Each field in the form has a specific purpose, which is explained below.
-
-</thinking>
-
 # Community Ladies Event Registration - Help Guide
 ## Purpose
 This guide will walk you through the process of completing the Community Ladies Event Registration form.

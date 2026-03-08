@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals who wish to join the Disability Advocacy Network. The purpose of this form is to collect relevant details about the individual, including their accessibility needs, interests, and demographic information. This information will be used to create a database of members of the Disability Advocacy Network.
-</thinking>
-
 # Disability Advocacy Network Registration Form - Help Guide
 ## Purpose
 This form is used to register individuals who wish to join the Disability Advocacy Network. The information collected will be used to create a database of members and provide them with relevant resources and support.

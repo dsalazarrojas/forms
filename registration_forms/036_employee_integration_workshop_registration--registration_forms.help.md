@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Integration Workshop Registration - Help Guide
 ## Purpose
 The purpose of this form is to register employees for an Employee Integration Workshop, a program designed to facilitate collaboration, innovation, and growth within our organization. This workshop aims to enhance employee engagement, productivity, and overall work experience. By registering participants, we can better plan and tailor the workshop content to meet the needs of attendees.

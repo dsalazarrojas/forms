@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Trade Show Licensing Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be completed by users who wish to join the Shipping and Maritime Network. It's a membership application form that collects information from potential members, including their name, contact details, job title, role in the network, and bio. The form is meant to be user-friendly and easy to fill out, with minimal required fields and clear labels. Before proceeding, please ensure you haven't already submitted this form or are not duplicating an existing membership application. If you're unsure about any of the fields, please contact the network administrators for clarification.
-</thinking>
-
 # Shipping And Maritime Network Membership Form - Help Guide
 ## Purpose
 This form is for users who want to join the Shipping and Maritime Network. It helps us understand your background and qualifications for membership.

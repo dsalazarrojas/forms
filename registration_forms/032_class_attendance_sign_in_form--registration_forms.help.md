@@ -1,7 +1,3 @@
-<thinking>
-I will create a user-facing help guide for the "Class Attendance Sign In Form" form.
-</thinking>
-
 # Class Attendance Sign In Form - Help Guide
 
 ## Purpose

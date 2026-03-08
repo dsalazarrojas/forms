@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # qr_code_scan_registration - Help Guide
 ## Purpose
 The `qr_code_scan_registration` form is designed to collect attendee information for events. This form is meant to be used to register attendees by scanning a QR code, which will then populate the form fields with relevant information, making it easier and faster for attendees to provide accurate data. 

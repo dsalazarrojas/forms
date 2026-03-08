@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to be used by food vendors to book their participation in a food festival. This form will collect information about the user, event information, product information, contact details, vendor information, terms and conditions, and payment information. This will help the festival organizers to get all necessary details of the vendors before the festival.
-
-The form is part of a larger system used by the festival organizers. It is used to ensure that all necessary information is collected from the vendors before the festival, so that they can be properly registered and managed. This information will also be used to communicate with the vendors before and after the festival. 
-
-This form is a general-purpose form and should be filled out by all vendors who want to participate in the festival. The information collected will be kept confidential and will only be used for festival purposes.
-
-</thinking>
-
 # Food Festival Vendor Booking Form - Help Guide
 ## Purpose
 

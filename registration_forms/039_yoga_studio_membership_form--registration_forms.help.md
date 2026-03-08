@@ -1,9 +1,3 @@
-<thinking>
-
-This form is part of the "Registration Forms" category, and it's intended to guide users through a membership registration process for a yoga studio. The purpose of this form is to collect relevant information from users to create a customized membership profile. This form is likely used to create or update existing member profiles, and it's crucial to ensure that all required fields are completed accurately to avoid any issues with membership creation or updates.
-
-</thinking>
-
 # yoga_studio_membership_form - Help Guide
 ## Purpose
 This form is designed to help users register or update their membership profile in the yoga studio. It collects essential information to create a customized membership profile.

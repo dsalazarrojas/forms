@@ -1,10 +1,3 @@
-<thinking>
-This form is designed for music studio registration, allowing users to provide necessary information such as name, contact details, music preferences, and availability. The purpose of this form is to create a record of user's data for music studio management. It's essential to fill out the required fields accurately and comprehensively, so the form is not meant to be used for multiple registrations for the same user.
-
-The form is composed of several pages, each with its own set of fields. Each page is designed to collect specific information from the user. 
-
-</thinking>
-
 # Music Studio Access Form - Help Guide
 ## Purpose
 This form is used to register users in the music studio, providing necessary information for studio management.

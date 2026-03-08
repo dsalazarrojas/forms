@@ -1,7 +1,3 @@
-<thinking>
-Are we sure we're not already registered for every event? Are we double-checking that we have all the required information to fill out this form? Are we using this form for a specific event, or for general team purposes? We should only use this form if we're certain we're registering for an event with the team. Otherwise, we might be duplicating our registration efforts or missing important context.
-</thinking>
-
 # Team Social Event Registration - Help Guide
 ## Purpose
 This form is designed to collect registrations and feedback from team members for team social events.

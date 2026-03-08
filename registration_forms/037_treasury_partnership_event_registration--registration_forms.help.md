@@ -1,11 +1,3 @@
-<thinking>
-
-To prevent data duplication and ensure the form is used correctly, let's make sure the user is registering a Treasury Partnership event. This form should be used by event organizers to register their events with the Treasury Partnership organization. The form is divided into several sections, each with its own fields. 
-
-**Form fields are designed to collect relevant information from event organizers, including event details, attendee details, session choices, interests, and any additional notes or contact information.**
-
-</thinking>
-
 # Treasury Partnership Event Registration - Help Guide
 ## Purpose
 The purpose of this form is to help event organizers register their events with the Treasury Partnership organization. Please fill out this form to provide the necessary information for your event to be listed in our database.

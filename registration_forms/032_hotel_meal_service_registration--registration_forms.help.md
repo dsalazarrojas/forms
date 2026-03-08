@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## Hotel Meal Service Registration - Help Guide
 
 ## Purpose

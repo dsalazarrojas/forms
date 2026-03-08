@@ -1,5 +1,3 @@
-<thinking>...This form is designed to be used by trainee staff members to provide feedback on their training experience at the art gallery. The form is divided into sections for trainee information, training session details, and evaluation. The trainee will be asked to provide their feedback on the training content, their performance, and areas for improvement. This form will help trainers evaluate the effectiveness of the training sessions and provide valuable insights for future trainings... </thinking>
-
 # Art Gallery Assistant Training Form - Help Guide
 ## Purpose
 This form is used to gather feedback from trainee staff members on their training experience at the art gallery. It is used to evaluate the effectiveness of the training session and provide insights for future improvements.

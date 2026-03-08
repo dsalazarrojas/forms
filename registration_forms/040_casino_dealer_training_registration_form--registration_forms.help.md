@@ -1,5 +1,3 @@
-<thinking>... Internal reasoning: The Casino Dealer Training Registration Form is a crucial tool to ensure that new dealers have the necessary training to operate effectively in a casino environment. This form aims to gather essential information from potential trainees, including their registration details, personal information, employment status, experience, and training objectives. It will help identify individuals who are committed to completing the full program and have the necessary background checks. The form is used to create a comprehensive profile of each trainee and provide relevant data for the training program administration. Ensure to complete this form accurately and truthfully. Ensure to fill out each field carefully, as this data will be used to tailor the training program to suit your needs... </thinking>
-
 # Casino Dealer Training Registration Form - Help Guide
 ## Purpose
 This form is used to gather essential information from potential trainees for the Casino Dealer Training Program. It's crucial to fill it out accurately and truthfully.

@@ -1,7 +1,3 @@
-<thinking>
-The form is intended for users to register for a practice hitting session. The form is designed to collect user information, contact preferences, and session details. The purpose of this form is to ensure accurate and complete data is collected to manage the session efficiently. This form will not collect any sensitive or proprietary information. It is meant for internal use within the organization, and the data will not be shared or sold to any third party. Please ensure the form is not duplicated or used for any purpose other than the intended use. 
-</thinking>
-
 # Hitting Practice Registration - Help Guide
 ## Purpose
 The Hitting Practice Registration form is designed to collect relevant information from users to manage practice sessions effectively. Please fill out the form accurately and completely.

@@ -1,7 +1,3 @@
-<thinking>
-This form is a registration form for the Wildlife Preservation Symposium. The purpose of this form is to collect contact information and demographic data from attendees. The form is not meant to be used for sensitive or confidential information, and it is not designed to be used for any other purpose than for registration purposes only. Please ensure that you are registering with the correct information to avoid duplication or error.
-</thinking>
-
 # Wildlife Preservation Symposium Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Wildlife Preservation Symposium. Please fill it out carefully to ensure that you are correctly registered for the event.

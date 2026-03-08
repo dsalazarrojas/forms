@@ -1,5 +1,3 @@
-<thinking>... This form is a crucial part of the onboarding process for new Telecom customers. It helps us understand your needs and preferences for our services, ensuring a smoother installation experience and a more personalized support relationship. Before filling out this form, please review the fields below to understand what information is required and how it will be used. Please note that all fields marked 'required' must be filled out in order to successfully submit the form. This form consists of 4 pages, each with specific fields to gather relevant details from you. If you have any questions or doubts, please don't hesitate to ask our customer service team for assistance.</thinking>
-
 # Telecom Customer Service Onboarding Form - Help Guide
 ## Purpose
 

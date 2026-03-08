@@ -1,7 +1,3 @@
-<thinking>
-We need to create a form that captures the user's information for registration. This form will be used for the "know my style" registration process. To avoid duplicates, we'll check if the user is already registered before allowing them to submit the form.
-</thinking>
-
 # know_my_style_registration_form - Help Guide
 ## Purpose
 The "know my style" registration form is designed to collect user information for registration purposes. This form is intended for users who want to register for the "know my style" program.

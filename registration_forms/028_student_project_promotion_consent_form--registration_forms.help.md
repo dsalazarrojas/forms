@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather consent and relevant information from students for promotion purposes. The purpose of this form is to ensure that students are aware of how their project will be used for promotional activities. Please note that this form is not for student enrollment or project submission purposes.
-</thinking>
-
 # Student Project Promotion Consent Form - Help Guide
 ## Purpose
 The Student Project Promotion Consent Form is designed to gather consent and relevant information from students for promotional purposes. This form will help us ensure that students are aware of how their project will be used for promotional activities.

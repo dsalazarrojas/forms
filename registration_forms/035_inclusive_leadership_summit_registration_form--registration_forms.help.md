@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect user information for the Inclusive Leadership Summit. The form is intended for users to provide their personal details, preferred date and time for the summit, and dietary preferences. The form will help the summit organizers ensure that all attendees' needs are accommodated. Before proceeding, please review the form fields to ensure you're providing accurate information. Note that the form is not a duplicate of your existing profile data, so please fill it out even if you have a prior registration.
-
-</thinking>
-
 # Inclusive Leadership Summit Registration Form - Help Guide
 ## Purpose
 The Inclusive Leadership Summit Registration Form is designed to collect personal details and preferences from attendees for a successful and inclusive summit experience.

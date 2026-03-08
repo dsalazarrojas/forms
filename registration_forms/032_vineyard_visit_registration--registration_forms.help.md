@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect visitor information and tour preferences for a vineyard visit. The primary goal of this form is to gather essential details about each visitor, including their personal preferences, guest details, and any special requests they may have. The form is intended to be user-friendly, with multiple fields for visitors to provide their information and preferences, making it easier for them to express their needs.
-
-To avoid duplication and ensure a smooth experience, this form is designed to be completed in a specific order. Please ensure that you have reviewed the form carefully before proceeding to avoid any errors.
-
-</thinking>
-
 # Vineyard Visit Registration - Help Guide
 ## Purpose
 This form is designed to collect visitor information and tour preferences for a vineyard visit.

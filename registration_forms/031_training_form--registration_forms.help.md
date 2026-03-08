@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to collect information from staff regarding their training status and experiences. This information is essential for the organization to manage and optimize training programs. It is assumed that staff will be filling out this form voluntarily, and the data collected will be used internally for administrative purposes. The form is not intended for public use or to be shared with external parties. Please review the fields below to ensure you understand what information is being collected and how to provide it correctly.
-</thinking>
-
 # Training Form - Help Guide
 ## Purpose
 The Training Form is designed to gather information from staff about their training experiences and status. This information will help the organization to improve and optimize its training programs.

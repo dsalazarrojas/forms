@@ -1,5 +1,3 @@
-<thinking>As a form designer and technical writer, I will create a comprehensive user-facing help guide for the Corporate Open House Booking Form. This guide will break down the form's purpose, how to complete it, and each field's meaning to ensure users understand what information they need to provide and why.</thinking>
-
 # Corporate Open House Booking Form - Help Guide
 ## Purpose
 This form is designed to collect information from attendees and event hosts to facilitate the planning and execution of corporate events, such as open houses. The data collected will help the event organizers to manage event details, attendee information, and communication.

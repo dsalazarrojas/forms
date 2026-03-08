@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to facilitate the collection of information from potential event sponsors. The form will be used to gather details about an upcoming event, including its name, date, and sponsorship details. This form is designed to be completed by event organizers or coordinators to provide sponsors with a structured and standardized way to submit their sponsorship requests. This form will help ensure that all necessary information is collected consistently and accurately. The form fields should not be repeated or filled out multiple times. Please ensure that only the most up-to-date information is entered in the form. The form is designed to be completed in a few simple steps, and each field has a specific purpose.
-</thinking>
-
 # Event Merchandise Sponsorship Form - Help Guide
 ## Purpose
 The Event Merchandise Sponsorship Form is a tool used by event organizers to collect information from potential event sponsors. The form is designed to be completed by sponsors to provide event organizers with the necessary details to review and consider their sponsorship request.

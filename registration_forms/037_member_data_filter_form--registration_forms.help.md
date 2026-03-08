@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to collect member data from users for filtering and categorization purposes. The form is designed to gather essential information about members, including their personal details, data source, and other relevant attributes. This form is likely used for managing and organizing members within a community or organization.
-
-It's essential to ensure that this form is filled out correctly to avoid duplication of effort and ensure accurate member data. Before proceeding, take a moment to review the form carefully and ensure you're filling out the correct fields for the intended member data.
-
-</thinking>
-
 # Member Data Filter Form - Help Guide
 ## Purpose
 The Member Data Filter Form is a tool used to collect and filter member data for easier management and organization within a community or organization.

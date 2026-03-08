@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information about a vehicle for registration purposes. It is intended for users who wish to register a vehicle and provide details about the vehicle's characteristics. The fields in this form are meant to gather data about the vehicle's type, make, model, color, and other relevant attributes.
-
-Before proceeding, ensure that you have the necessary information about the vehicle and that the vehicle is not already registered. If you have any doubts or concerns, please contact the relevant authorities for clarification.
-
-This guide will walk you through each field in the form to help you complete it accurately and efficiently.
-</thinking>
-
 # Vehicle Registration Form - Help Guide
 ## Purpose
 The Vehicle Registration Form is designed to gather information about a vehicle for registration purposes.

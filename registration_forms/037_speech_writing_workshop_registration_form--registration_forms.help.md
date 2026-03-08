@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from users who wish to participate in a speech writing workshop. This form will serve as a central hub to obtain necessary details from potential participants, including their personal info and workshop preferences. Before filling out this form, please review the form's purpose and ensure you are filling it out with accurate and up-to-date information. Please note that filling out this form will help us better organize and plan the workshop.
-</thinking>
-
 # speech_writing_workshop_registration_form - Help Guide
 ## Purpose
 This form is a registration form for the speech writing workshop, designed to collect participant information and workshop details.

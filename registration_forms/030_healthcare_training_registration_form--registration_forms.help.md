@@ -1,23 +1,3 @@
-<thinking>
-We have a form named "healthcare-training-registration-form" which appears to be a form for registering participants in a healthcare training program. This form likely collects information about the participants, including their personal details, payment details, program enrollment status, and contact information. To confirm its purpose, we'll assume it's used for organizing and tracking participants in a training program. We'll verify this by checking the form fields which seem to support this purpose.
-
-Upon reviewing the form fields, we can identify several sections:
-
-1. Participant information, which likely contains personal details of the participant.
-2. Payment details, which contains payment information related to the participant's enrollment.
-3. Training program, which may indicate whether the participant is enrolled or not.
-4. Participant agreement, which might contain terms and conditions that the participant needs to agree on.
-5. Contact person, which could be the person responsible for handling the participant's registration.
-6. Phone number and email, which are contact details of the participant.
-7. Program date and time, which may specify the schedule of the training program.
-8. Participant type, which could categorize the participant (e.g., new or returning).
-9. Participant level, which might indicate the participant's level of expertise or experience.
-10. Participant address, which contains the participant's address.
-11. Training facility, which may specify the location of the training program.
-12. Program fee, which contains the payment amount for the program.
-
-This form appears to be a comprehensive registration form for a healthcare training program.</thinking>
-
 # healthcare-training-registration-form - Help Guide
 ## Purpose
 This form is used for registering participants in a healthcare training program. It collects various information about the participants, including their personal details, payment details, and program enrollment status.

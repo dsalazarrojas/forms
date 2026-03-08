@@ -1,15 +1,3 @@
-<thinking>
-
-To determine the purpose of this form, let's analyze the provided YAML fields. The form is called "Student Verification Form" and is part of a larger "registration_forms" category. It appears to be designed to collect information about students, possibly for verification or registration purposes.
-
-Given the numerous fields and the lack of a clear, concise label, it seems that the form might be used for a variety of student-related tasks. However, without more information about the internal logic and requirements of the form, it's difficult to pinpoint its exact purpose with certainty.
-
-Non-duplication is also a concern, as there are several fields with similar labels, such as "Verification Form" (id: 7), "Verification Form 2" (id: 15), and "Verification Form 4" (id: 17). This suggests that some fields might be redundant or even identical.
-
-Considering the form's complexity and the ambiguity surrounding its purpose, it's essential to approach the user guide with a neutral tone, focusing on providing clear instructions and explanations for each field rather than making assumptions about the form's intention.
-
-</thinking>
-
 # Student Verification Form - Help Guide
 ## Purpose
 This form is designed to collect information about students for various purposes, such as verification or registration. The form's exact purpose is not explicitly stated, so please fill out the fields accordingly.

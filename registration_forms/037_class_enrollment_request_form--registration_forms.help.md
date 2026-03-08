@@ -1,7 +1,3 @@
-<thinking> 
-  This form is for students to request enrollment in a class, whether it be for academic enrichment or personal interest. To avoid duplication of requests, please only submit one form per class.
-</thinking>
-
 # Class Enrollment Request Form - Help Guide
 ## Purpose
 The purpose of this form is to allow students to request enrollment in a class of their choice. The form captures relevant information required to process the request, including contact details, class selection, and other supporting information.

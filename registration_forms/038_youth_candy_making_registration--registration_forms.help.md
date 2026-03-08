@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Candy Making Registration - Help Guide
 ## Purpose
 This form is designed to collect information from parents or guardians for their child's registration in a youth candy making activity. Please ensure that you are registering the correct child and providing accurate contact information.

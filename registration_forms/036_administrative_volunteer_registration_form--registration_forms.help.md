@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information from individuals interested in becoming administrative volunteers at an organization. The form gathers personal details such as name, contact information, education, and availability. It also asks for specific skills and experience relevant to administrative volunteer positions. 
-
-To prevent duplication, the form should only be submitted once, and any duplicate submissions should be rejected. A background check may be required for certain roles, and the applicant will be asked for their consent. 
-
-This form is intended for individuals interested in volunteering in an administrative capacity, and the information gathered will be used to assess their eligibility and suitability for such positions. 
-</thinking>
-
 # Administrative Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals interested in becoming administrative volunteers at our organization. It gathers personal details, skills, and experience relevant to administrative volunteer positions.

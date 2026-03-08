@@ -1,9 +1,3 @@
-<thinking>
-This form is designed to collect information from restaurant owners or management staff interested in attending a restaurant management workshop. The purpose of this form is to register participants for the workshop and gather basic contact and demographic information. Before filling out this form, it's essential to review the following:
-- Ensure you are eligible to attend the workshop by selecting "Yes" to both "Is this a public workshop?" and "Would you like to participate?"
-- If you have already attended the workshop, please do not register again.
-</thinking>
-
 # Restaurant Management Workshop Registration Form - Help Guide
 ## Purpose
 This form is for restaurant owners or management staff who want to register for the workshop. It helps the organizers collect contact and preference information from interested participants and ensure a smooth registration process.

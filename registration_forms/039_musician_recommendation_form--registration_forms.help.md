@@ -1,9 +1,3 @@
-<thinking>
-The form is designed for musicians to submit their recommendations for other musicians, events, or music schools. This form will collect information about the recommended musician, including their name, contact information, and experience in the music industry. The recommended musician will also be able to select their music style and instrument. Additionally, the form will collect information about the person or entity recommending the musician, such as their contact information and the event or music school associated with the recommendation. 
-This form will be used by event organizers, talent agencies, or music schools to gather more information about musicians and their capabilities. It's intended for internal use, so the form will not be publicly visible.
-Please fill out this form carefully and thoroughly, as the information provided will be used to evaluate and potentially book the recommended musician for future events or opportunities.
-</thinking>
-
 # Musician Recommendation Form - Help Guide
 ## Purpose
 The Musician Recommendation Form is designed to collect information about musicians and their capabilities for event organizers, talent agencies, or music schools.

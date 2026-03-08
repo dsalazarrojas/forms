@@ -1,7 +1,3 @@
-<thinking>
-This form is likely for attendees to register for a conference related to livestock care. It will ask for contact information, registration type, and other details about the attendee. I will need to review the form fields to ensure there are no redundant or missing fields. This form should be used by end-users to sign up for the conference. I will make sure to clearly explain each field in the user-facing guide.
-</thinking>
-
 # Livestock Care Conference Registration Form - Help Guide
 ## Purpose
 This guide will walk you through the Livestock Care Conference Registration Form. The form is designed to collect information from attendees who want to register for the conference.

@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be designed for volunteers who wish to participate in science outreach activities, registering themselves for a specific program. The purpose of this form is likely to collect necessary information from volunteers, including their personal details, availability, and relevant skills or experience. The fields provided suggest that the form aims to gather information about the volunteer's background, interests, and qualifications, as well as their availability and preferences.
-</thinking>
-
 # Science Outreach Volunteer Registration Form - Help Guide
 ## Purpose
 This form is designed to gather information from volunteers who wish to participate in science outreach activities. It helps the organizers collect necessary details about the volunteers' background, availability, and skills.

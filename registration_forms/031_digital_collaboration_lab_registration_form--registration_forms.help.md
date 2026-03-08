@@ -1,8 +1,3 @@
-<thinking>
-This guide is intended for users who are registering for a Digital Collaboration Lab. It is used to gather information from users on their personal and professional details to facilitate the lab experience. 
-Please ensure that you only fill out this form once, as multiple registrations will not be accepted. 
-</thinking>
-
 # Digital Collaboration Lab Registration Form - Help Guide
 
 ## Purpose

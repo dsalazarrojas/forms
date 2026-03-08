@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Stargazing Experience Registration - Help Guide
 ## Purpose
 This form is designed to register participants and observers for stargazing experiences. It is used to collect information about the participants and observers, including their contact details, session preferences, and any necessary equipment or policies for the stargazing session.

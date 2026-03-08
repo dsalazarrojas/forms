@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering attendance to a customer service workshop. It captures relevant information about the workshop and the participant attending it. The form should only be filled out for each participant attending the workshop. It is likely used for workshop organizers to keep track of who is attending and their details.
-</thinking>
-
 # customer_service_workshop_attendance_form - Help Guide
 ## Purpose
 This form is used to register the attendance of customers to a workshop. It collects information about the workshop and the participant, including their details, workshop attendance status, and other relevant data.

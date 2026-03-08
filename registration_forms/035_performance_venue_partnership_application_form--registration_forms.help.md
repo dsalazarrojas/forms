@@ -1,9 +1,3 @@
-<thinking>
-This form is intended to collect information from potential collaboration partners about their performance venue partnership application. The purpose of this form is to gather essential details about the applicant's company, contact person, and performance schedule. This will help the venue management team to evaluate and process the partnership applications efficiently. Please ensure you fill out the form accurately and completely to increase your chances of being selected for a partnership.
-
-Before proceeding, please ensure that you have all necessary information and permissions to complete the form. If you have any questions or concerns, please reach out to the venue management team for clarification.
-</thinking>
-
 # performance_venue_partnership_application_form - Help Guide
 ## Purpose
 This form is designed to collect information for potential partners who wish to collaborate with the venue. It's essential to fill out the form accurately to increase your chances of being selected.

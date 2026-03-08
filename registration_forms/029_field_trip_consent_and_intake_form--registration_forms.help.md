@@ -1,8 +1,3 @@
-<thinking>
-To avoid duplication and ensure accurate completion of the "Field Trip Consent And Intake Form", it is essential to understand its purpose and scope. This form is intended to gather necessary information from students, parents/guardians, and teachers involved in field trips, ensuring their safety and well-being. It is crucial to review each field carefully and provide accurate responses to ensure accurate completion of the form. This form will be used to determine the consent of parents/guardians, student health information, and emergency contact details, which are vital for the smooth execution of field trips.
-
-The form consists of 25 fields, which can be categorized into several sections. Please review each field carefully to ensure accurate completion.</thinking>
-
 # Field Trip Consent And Intake Form - Help Guide
 ## Purpose
 The "Field Trip Consent And Intake Form" is designed to gather essential information from students, parents/guardians, and teachers for field trips, ensuring their safety and well-being. 

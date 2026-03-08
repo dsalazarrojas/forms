@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants about a digital media event, such as a conference or workshop. This form likely serves as a template for capturing event details and participant data for internal organization purposes. It's essential to understand that this form might be used for both internal and external use cases. Before proceeding, please ensure that you are filling out the correct form and that you have all necessary information ready.
-</thinking>
-
 # Digital Media Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from participants about a digital media event, such as a conference or workshop.

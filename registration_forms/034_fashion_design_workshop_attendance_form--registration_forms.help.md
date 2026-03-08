@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 ## fashion_design_workshop_attendance_form - Help Guide
 
 ## Purpose

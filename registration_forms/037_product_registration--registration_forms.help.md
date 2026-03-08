@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from customers registering their products for various purposes, such as sales, warranty, or support. The form ensures that customers provide accurate and complete information about their product and themselves, including a product title, description, and image. Customers will also be asked to provide contact information like email, phone number, and address to facilitate communication and delivery. The form is required to be completed with all fields as some fields have been marked as essential for the smooth registration process.
-
-</thinking>
-
 # Product Registration - Help Guide
 ## Purpose
 

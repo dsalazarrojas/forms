@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This guide is intended to be a clear and concise help document for the "Holiday Giveaway Information Request" form. This form is used to collect information from participants in a holiday giveaway program. 
 
 The form is designed to gather essential details about each participant, including their name, email, phone number, and relationship with the company. This data will be used to contact the participant and facilitate the giveaway process.

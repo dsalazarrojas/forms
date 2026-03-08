@@ -1,13 +1,3 @@
-<thinking>
-To design a user-facing help guide for the "Senior Citizen Appreciation Lunch RSVP Form," we need to understand the purpose and requirements of the form. This form is designed to gather information from senior citizens attending an appreciation lunch event. The main goal is to collect RSVP details, including names, contact information, and preferences for the event.
-
-Upon reviewing the form schema, it appears to be a straightforward collection of fields for personal details, event preferences, and organizational information. The form does not require any specific authentication or validation, suggesting it's designed for general public access. The fields are categorized into sections for easy understanding.
-
-The purpose of this form is to ensure that the event organizers have a clear picture of the attendees and their preferences, allowing for better planning and organization. It's essential to follow these instructions to provide accurate and complete information.
-
-After reviewing the form, I'll provide a user-facing help guide in Markdown format, following the required structure.
-</thinking>
-
 # Senior Citizen Appreciation Lunch RSVP Form - Help Guide
 
 ## Purpose

@@ -1,11 +1,3 @@
-<thinking>
-  This help guide is for the "story_time_registration" form, which is used to register for the Story Time activity.
-  The form is intended for participants to indicate their interest in attending the Story Time session.
-  It's crucial to ensure that each participant registers correctly to guarantee accurate headcount and correct group allocation.
-  Please note that this form is only accessible to authorized users.
-  Before proceeding, please ensure that you're registering correctly to avoid duplication of effort.
-</thinking>
-
 # story_time_registration - Help Guide
 ## Purpose
 The "story_time_registration" form is used to register for the Story Time activity, ensuring accurate headcount and correct group allocation.

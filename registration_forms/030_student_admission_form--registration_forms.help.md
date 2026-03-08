@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Student Admission Form - Help Guide
 ## Purpose
 This form is used for student registration and submission of information. It captures essential details about the students, including their personal information, program selection, and submission data. 

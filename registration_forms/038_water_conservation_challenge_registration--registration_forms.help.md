@@ -1,13 +1,3 @@
-<thinking>
-We need to ensure the form purpose is clear and concise, and that end-users understand the form's intent and requirements. The Water Conservation Challenge Registration form is designed to gather information from participants in a water conservation challenge, specifically their first name, last name, email, participant category, water challenge level, school name, school grade, participant details, and contact information. It is essential to check if the form is being filled out for the correct purpose and not duplicated.
-
-The form is intended to gather demographic information from participants, allowing us to analyze their responses and identify trends. We want to ensure end-users understand how to fill out the form accurately and what each field is used for.
-
-Before we start creating the help guide, let's review the provided YAML fields and determine the most critical information to present to end-users.
-
-We will create a help guide that is easy to follow and provides clear explanations for each field.
-</thinking>
-
 # Water Conservation Challenge Registration - Help Guide
 ## Purpose
 The Water Conservation Challenge Registration form is designed to gather demographic information from participants in a water conservation challenge. This information will help us analyze responses and identify trends.

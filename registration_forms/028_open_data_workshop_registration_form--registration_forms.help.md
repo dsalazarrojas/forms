@@ -1,7 +1,3 @@
-<thinking> 
-This form is meant for registration of participants for an Open Data Workshop. The purpose of this form is to collect the necessary information from potential participants to process their registration. This form is not meant for general public and is likely to be used internally. To avoid duplicating existing registrations, we may ask for additional verification information. We do not allow registration with invalid or incomplete data.
-</thinking>
-
 # Open Data Workshop Registration Form - Help Guide
 ## Purpose
 The Open Data Workshop Registration Form is a tool used to collect participant information for the Open Data Workshop. Please fill out this form carefully to ensure accurate registration.

@@ -1,7 +1,3 @@
-<thinking>
-  This form is designed for contestants to register for a contest, providing essential information about themselves and their entries. It includes fields for personal details like first name, last name, date of birth, age, and contact information, as well as fields for entry specifics, such as contest name, category, title, description, and submission deadline. Some fields are auto-calculated, while others require manual input or selection. Ensure that contestants complete all required fields accurately to ensure successful registration. This form is not intended for duplicate entries or incomplete submissions. Please review the fields carefully to understand what information is required and how to fill it out correctly.
-</thinking>
-
 # Camper Contest Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from contestants for a contest, ensuring accurate and complete registration.

@@ -1,9 +1,3 @@
-<thinking>
-**Form Purpose and Relevance Check**
-The `online_meeting_authorization_form` form is used for participants to provide their authorization and consent for online meetings. It is designed to collect relevant information about the participant, meeting details, and their consent status.
-Before filling out this form, please ensure you are authorized to participate in the online meeting. This form is not intended for internal use or to collect general feedback. Please do not fill out this form if you are not a participant.
-</thinking>
-
 # online_meeting_authorization_form - Help Guide
 ## Purpose
 The online_meeting_authorization_form is used for participants to provide their authorization and consent for online meetings.

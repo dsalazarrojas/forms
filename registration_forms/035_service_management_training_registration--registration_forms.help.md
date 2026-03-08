@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Service Management Training Registration - Help Guide
 ## Purpose
 The Service Management Training Registration form is used to collect information about participants who are interested in attending service management training sessions. This form helps to gather their preferences and details to ensure they are properly registered and receive relevant training information.

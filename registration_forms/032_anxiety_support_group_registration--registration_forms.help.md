@@ -1,12 +1,3 @@
-<thinking>
-We are checking if this form has any internal logic or context that we should be aware of while creating a help guide. This form is for the registration process of an anxiety support group. The purpose of the form is to collect information about the participant, their experiences, and their preferences for the group format. This will help the facilitators understand their needs and tailor the group experience accordingly. The fields are mostly self-explanatory, but some fields might require additional clarification. We will review the form's logic and provide a clear guide on how to fill out the form.
-
-The form will ask the participant for their personal details, such as name, email, phone number, and date of birth. They will also be asked about their anxiety experience, diagnosis, and treatment. The participant will be asked about their preferences for the group format, such as session frequency and type of group. Additionally, they will be asked about their comfort level with sharing their experiences and any accessibility needs they may have. Finally, they will be asked about their emergency contact information and how they heard about the group.
-
-Please note that some fields might be optional or dependent on other fields, we will make sure to address those specific cases in the help guide.
-
-</thinking>
-
 # Anxiety Support Group Registration - Help Guide
 ## Purpose
 The purpose of this form is to help us understand your needs and preferences for the support group. Please complete this form to provide us with necessary information about your experiences and expectations.

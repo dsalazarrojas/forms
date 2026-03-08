@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from applicants seeking to register for the NISE Stim Certification program. This form guides them through providing their details, preferred dates, and other relevant information to complete the registration process. To avoid duplication and ensure accuracy, it's essential to review the form carefully before submission. The required fields are marked with an asterisk (*) for clarity. 
-
-Please ensure you have the necessary permissions to access and submit this form.
-</thinking>
-
 # NISE Stim Certification Registration - Help Guide
 ## Purpose
 This form is designed to collect information from applicants for the NISE Stim Certification program registration process.

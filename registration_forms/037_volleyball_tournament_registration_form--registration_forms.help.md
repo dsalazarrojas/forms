@@ -1,9 +1,4 @@
-> <thinking>
-This guide provides an overview of the Volleyball Tournament Registration Form. It's designed to collect information from teams and players participating in a volleyball tournament. To ensure that your team has a smooth registration process, please carefully complete each section of this form. Before proceeding, double-check that your team is eligible to participate in the tournament as per the guidelines outlined by the tournament organizers. 
-
-</thinking>
-
-# Volleyball_Tournament_Registration_Form - Help Guide
+> # Volleyball_Tournament_Registration_Form - Help Guide
 ## Purpose
 This form is used to collect information from teams and players participating in the volleyball tournament. It will ask for details such as team name, team members, player names, email, phone numbers, and more. 
 

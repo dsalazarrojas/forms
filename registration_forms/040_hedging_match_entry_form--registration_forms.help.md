@@ -1,9 +1,3 @@
-<thinking>
-
-To create a comprehensive user-facing help guide for the Hedging Match Entry Form, we need to ensure that end-users understand the purpose of the form and how to complete it accurately. This guide will outline the form's purpose, the step-by-step instructions on how to fill out the form, and a detailed explanation of each field.
-
-</thinking>
-
 # Hedging Match Entry Form - Help Guide
 ## Purpose
 The Hedging Match Entry Form is a form used to record information about hedging matches. It is a crucial form that helps in keeping track of the details of matches, including the type of hedge, start and end dates, start and end times, match type, match timing, risk taker, team name, email, phone number, team size, hedged amount, team type, risk free, risk-free notes, hedge type, underlying asset type, entry status, status notes, created at, and updated at.

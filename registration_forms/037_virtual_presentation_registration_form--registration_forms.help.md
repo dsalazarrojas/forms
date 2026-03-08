@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Virtual Presentation Registration Form - Help Guide
 
 ## Purpose

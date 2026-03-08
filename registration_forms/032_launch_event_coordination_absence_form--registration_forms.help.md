@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended for end-users who need to coordinate and report absences for events. 
-The guide explains the purpose of the form, how to complete it, and what each field represents. 
-The form is designed to help users report their availability and reason for absence in a structured and organized manner.
-To ensure accurate data collection, please ensure that this form is not filled out for events that do not require coordination or have already been completed.
-</thinking>
-
 # Launch Event Coordination Absence Form - Help Guide
 ## Purpose
 The Launch Event Coordination Absence Form is used to report your availability and reason for absence for upcoming events. This form helps event coordinators understand who will be absent and why, ensuring that necessary arrangements can be made for a smooth event.

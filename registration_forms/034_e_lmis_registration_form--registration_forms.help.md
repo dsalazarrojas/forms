@@ -1,7 +1,3 @@
-<thinking>
-The form is intended to collect information from facilities registering with E Lmis. The form captures details such as facility ID, name, user type, facility type, user name, email, phone number, location, address, and date/time of registration. This form is required for facilities to register and be listed in the E Lmis directory. To prevent duplication, a facility can only be registered once.
-</thinking>
-
 # E Lmis Registration Form - Help Guide
 ## Purpose
 This form is used to register facilities with E Lmis. It captures essential details about the facility and its users.

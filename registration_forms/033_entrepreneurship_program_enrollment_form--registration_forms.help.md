@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 This is a help guide for the "entrepreneurship_program_enrollment_form". The form is designed to capture information from participants who are interested in enrolling in an entrepreneurship program. The purpose of this form is to gather necessary details from participants, including their category, name, email, phone number, address, and other relevant information. This form is not a requirement for all participants, but rather an optional way to provide additional context and support.
 
 ## entrepreneurship_program_enrollment_form - Help Guide

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about stage plays from participants. It likely aims to gather details about the plays, including their original name, script, and other relevant information from the team members. This form might be used by event organizers or administrators to manage stage play registrations for events like theater festivals, performances, or competitions.
-</thinking>
-
 # Stage Play Registration Form - Help Guide
 ## Purpose
 The Stage Play Registration Form is designed to collect information about stage plays from participants. This form is used by event organizers or administrators to gather details about stage plays for events like theater festivals, performances, or competitions.

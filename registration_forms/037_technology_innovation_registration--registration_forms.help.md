@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering new technologies and events with a focus on innovation. The form is divided into two main sections: "Technology Innovation Submission" and "Event Details". The "Technology Innovation Submission" section requires the user to input the basic information about the innovation, including the title, name of the innovator, email, and a description of the innovation. The "Event Details" section requires the user to input details about the event related to the innovation, including the category, event location, start and end dates and times, and tags. The form also allows the user to upload a file and add notes about the innovation. 
-</thinking>
-
 # Technology Innovation Registration - Help Guide
 ## Purpose
 This form is used for registering new technologies and events with a focus on innovation. 

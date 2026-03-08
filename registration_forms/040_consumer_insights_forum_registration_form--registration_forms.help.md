@@ -1,7 +1,3 @@
-<thinking>
-This help guide aims to ensure that end-users understand the purpose and process of filling out the Consumer Insights Forum Registration Form, reducing the likelihood of duplication and ensuring accuracy in the registration process.
-</thinking>
-
 # Consumer Insights Forum Registration Form - Help Guide
 
 ## Purpose

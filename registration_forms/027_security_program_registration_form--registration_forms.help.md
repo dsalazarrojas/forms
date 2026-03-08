@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering participants in a security program. The purpose of this form is to collect necessary information from participants, including their contact information, security experience, skills, and other relevant details. This form will help the organization understand the needs and qualifications of the participants, ensuring a smooth and successful program execution.
-</thinking>
-
 # Security Program Registration Form - Help Guide
 ## Purpose
 The Security Program Registration Form is designed to gather information from participants for the security program. This form is used to ensure that the program is well-organized and tailored to the needs of the participants.

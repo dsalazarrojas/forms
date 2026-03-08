@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to be used by dance class administrators to record student attendance and track student information for each dance class. It is meant to be a general-purpose form and can be used in various dance class settings, such as schools, community centers, or private studios. To ensure the form is relevant, we have reviewed the provided input schema and made sure it aligns with the typical requirements of a dance class check-in system. Please note that we will not be duplicating any existing forms or providing proprietary content. 
-</thinking>
-
 # Dance Class Check In Form - Help Guide
 ## Purpose
 The Dance Class Check In Form is designed to help dance class administrators record student attendance and track student information for each dance class.

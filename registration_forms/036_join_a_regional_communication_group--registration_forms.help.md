@@ -1,7 +1,3 @@
-<thinking>
-This form is used for users to join a regional communication group, which is a feature that allows users to connect with others in a specific geographic area. The purpose of this form is to gather relevant information from the user to create a profile and facilitate communication among group members. Before proceeding, ensure you have not already joined a regional communication group in the past, as this form is not designed for duplicate registrations.
-</thinking>
-
 # Join A Regional Communication Group - Help Guide
 ## Purpose
 This form is used to collect your information to create a profile for a regional communication group. By filling out this form, you will be able to connect with others in your area who share similar interests and goals.

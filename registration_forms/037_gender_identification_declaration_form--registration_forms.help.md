@@ -1,7 +1,3 @@
-<thinking>
-This form is used to capture information about the individual's gender identity and declaration, which is an important aspect of their personal data. The purpose of this form is to ensure that the individual's gender identity is accurately represented in our records. This form is not required for everyone, but it's a crucial step for individuals who identify as non-binary, transgender, or have other gender identities that are different from their assigned sex at birth. Please ensure you're filling this form for the correct purpose and with the correct intention, as it's used for internal documentation and not for external sharing. This form should not be filled out if you're already registered in our system and have previously provided this information.
-</thinking>
-
 # Gender Identification Declaration Form - Help Guide
 ## Purpose
 This form is designed to collect information about your gender identity and declaration. It's a crucial step for individuals who identify as non-binary, transgender, or have other gender identities that are different from their assigned sex at birth.

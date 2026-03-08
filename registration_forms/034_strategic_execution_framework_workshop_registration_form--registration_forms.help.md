@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals or teams interested in attending the Strategic Execution Framework Workshop. The purpose of this form is to gather necessary details to ensure a smooth and successful workshop experience. This form is intended for internal use, and the information collected will be used to manage workshop logistics and attendee communication. Please note that filling out this form does not automatically register you for the workshop. A separate confirmation step will be required after submitting this form.
-
-</thinking>
-
 # Strategic Execution Framework Workshop Registration Form - Help Guide
 ## Purpose
 This form helps us collect necessary information to make the workshop a success for all attendees.

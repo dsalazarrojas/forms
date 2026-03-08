@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from farmers for registration purposes, likely for a database or system used by agricultural organizations or authorities to track and manage farm data. It's essential to ensure that each farmer fills out the form accurately and completely to avoid duplication and ensure consistency in the data. The form collects various details about the farmer and their farm, including contact information, farm characteristics, and social media handles. To fill out the form correctly, please review the field explanations below.
-</thinking>
-
 # Daily Farmers Registration Form - Help Guide
 ## Purpose
 This form is designed to collect registration information from farmers for various agricultural purposes.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from community group leaders for the renewal of their group's membership. This form helps to ensure that the group is up-to-date and compliant with all policies and procedures. It is essential to fill out this form carefully to avoid any issues with the group's status.
-</thinking>
-
 # Community Group Renewal Form - Help Guide
 ## Purpose
 This form is used for community group leaders to provide information necessary for their group's membership renewal. It ensures that all required data is collected accurately and efficiently.

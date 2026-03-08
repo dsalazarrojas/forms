@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Community Coalition Membership Form - Help Guide
 ## Purpose
 The Community Coalition Membership Form is designed to collect information from individuals interested in joining the coalition. This form helps us understand your interests, skills, and experience relevant to the coalition, and facilitates your membership registration. By filling out this form, you will be able to express your interest in the coalition and specify your level of engagement.

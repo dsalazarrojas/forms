@@ -1,8 +1,3 @@
-<thinking>
-This form is a crucial part of the registration process for workshops. The purpose of this form is to collect relevant information from workshop instructors to display on the workshop catalog page. This information includes details such as workshop title, instructor names, duration, and location, among others. This form helps to ensure that accurate and up-to-date information is provided to workshop attendees.
-When filling out this form, please note that some fields are optional. Ensure that you fill out all required fields for the form to be submitted correctly.
-</thinking>
-
 # Workshop Instructor Registration Form - Help Guide
 ## Purpose
 This form is used to collect workshop information from instructors for display on the workshop catalog page.

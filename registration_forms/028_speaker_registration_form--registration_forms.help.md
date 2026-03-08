@@ -1,10 +1,3 @@
-<thinking>
-This guide assumes the form is for speakers to register for an event or conference. The purpose of this form is to collect essential information about each speaker. The form will help event organizers understand who is attending, their areas of expertise, availability, and other relevant details to manage the event smoothly.
-This guide is intended for end-users who will be filling out the form to provide their information. Please ensure you read through this guide to understand what each field means and how to fill it out correctly.
-Please note that this form is for registration purposes only and is not intended to be a comprehensive profile for the speaker. The provided fields are a minimum required to facilitate the event management process.
-Please ensure that you fill out the form accurately and completely, as incomplete or inaccurate information may cause issues with your event management.
-</thinking>
-
 # Speaker Registration Form - Help Guide
 ## Purpose
 The Speaker Registration Form is designed to collect essential information from speakers to manage the event efficiently. Please fill out the form to provide your details for a smooth event experience.

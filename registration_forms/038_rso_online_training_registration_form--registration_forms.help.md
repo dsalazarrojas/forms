@@ -1,11 +1,3 @@
-<thinking>
-This form is designed for participants to register for RSO (Regular Safety Observance) online training sessions. To ensure that each participant completes the form correctly and efficiently, let's review its purpose and requirements.
-
-The form's primary goal is to collect information about the participant's preferred RSO session, contact details, and departmental affiliations. It will guide you through a series of steps to fill out each field accurately and completely. Please ensure that you understand the requirements and constraints for each field before proceeding.
-
-This form is intended for individual registrations and may not be duplicated or used for other purposes.
-</thinking>
-
 # RSO Online Training Registration Form - Help Guide
 
 ## Purpose

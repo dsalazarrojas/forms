@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, my first step is to understand the form's purpose, which is to collect information from individuals interested in becoming volunteers at a community center. I will review the provided YAML schema to ensure I comprehend the form's structure, fields, and requirements.</thinking>
-
 # Community Center Volunteer Registration Form - Help Guide
 
 ## Purpose

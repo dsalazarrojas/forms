@@ -1,5 +1,3 @@
-<thinking>...The EDRA Registration form is used to collect demographic information from users. It is not required to complete and is used for informational purposes only. The form will not be used for commercial purposes unless specifically noted. This form is not meant to collect personal financial or sensitive information. By filling out this form, you are not committing to any action or service. This form may be duplicated by other sources, but each entry will be processed independently. Before you proceed, check that you haven't already completed the form to avoid creating duplicate entries...</thinking>
-
 # EDRA Registration - Help Guide
 ## Purpose
 The EDRA Registration form is used to collect demographic information from users for informational purposes only. It is not required and will not be used for commercial purposes unless specifically noted.

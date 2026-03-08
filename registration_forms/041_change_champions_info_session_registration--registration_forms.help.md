@@ -1,9 +1,3 @@
-<thinking>
-To create an effective registration form for the Change Champions Info Session, we must consider the needs of both the organization and the participants. This form will serve as a central hub for gathering information from interested individuals, ensuring that we capture the necessary details for the session and for potential future roles. It's essential to strike a balance between collecting relevant data and not overwhelming the user.
-
-Before filling out the form, participants should be aware that their input will be used to tailor the session content and facilitate their experience. They will be asked to provide personal details such as name, email, and job title. Additionally, they will be asked about their interests and skills, as well as their manager's approval status and any dietary or accessibility requirements. The form will also allow them to express their understanding of the time commitment involved and provide any questions or feedback they have. Lastly, participants can specify their preferred method for receiving reminders and sign their name as a confirmation.
-
-This guide will walk participants through each field's purpose and help them complete the form accurately and efficiently.</thinking>
 # Change Champions Info Session Registration - Help Guide
 ## Purpose
 This form is designed to gather necessary information from interested individuals to tailor the Change Champions Info Session content and facilitate their experience. The data collected will be used for session planning and participant management.

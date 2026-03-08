@@ -1,5 +1,3 @@
-<thinking>ML Tournament Registration Form is used to collect data for an ML (Machine Learning) tournament. This form is intended for teams and individuals to provide information about a tournament, including team name, location, time, and other relevant details. The form has 21 fields in total, each designed to capture a specific piece of information. To prevent errors, users must fill out the form carefully and completely. The form should not be filled out multiple times as each submission creates a new record in the database. Ensure that each field is filled out according to the instructions and the options provided.</thinking>
-
 # ML Tournament Registration Form - Help Guide
 ## Purpose
 The ML Tournament Registration Form is used to collect data for an ML (Machine Learning) tournament. This form is intended for teams and individuals to provide information about a tournament, including team name, location, time, and other relevant details.

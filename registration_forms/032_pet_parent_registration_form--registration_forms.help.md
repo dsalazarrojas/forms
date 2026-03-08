@@ -1,7 +1,3 @@
-<thinking>
-To provide guidance on how to properly fill out the "Pet Parent Registration Form", which is a collection of various pieces of information to capture details about the pet and its owner. Before proceeding, it is essential to ensure that the form is being filled out for the correct purpose and is not a duplicate submission. This form will help to gather essential data on pet parents, including owner details, pet information, vaccination history, and contact information. It will also help to track vaccination status and medical history of the pet.
-</thinking>
-
 # Pet Parent Registration Form - Help Guide
 ## Purpose
 The Pet Parent Registration Form is designed to collect essential information about a pet and its owner. This form will help us understand the pet's health, behavior, and any other important details that might be useful for its care.

@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to collect information from users for milestone celebrations such as birthdays, weddings, graduations, etc. The form is meant to be completed by the host/organizer of the event. The form will ask for general information about the event, the number of guests attending, and RSVPs, as well as contact details and any additional notes. This form will help in ensuring that the information is accurate and up-to-date, reducing errors and misunderstandings during the event planning process.
-
-The form has several fields that are marked as required, which are: RSVPs, Guests Count, Host Name, Host Email, Planner Name, Planner Email, Event Date, Event Time, Celebration Location, and Terms and Conditions. These fields are marked as required to ensure that the essential information is captured.
-
-The fields are categorized into two main sections: Guest Information and Event Details. The Guest Information section includes fields such as Guests Count, Host Name, Host Email, and Contact Information, which are related to the host and guests of the event. The Event Details section includes fields such as Event Date, Event Time, Celebration Location, and Event Type, which are related to the event itself.
-
-Before filling out this form, please make sure to read and agree to the terms and conditions.
-
-</thinking>
-
 # Milestone Celebration Registration - Help Guide
 ## Purpose
 This form is designed to collect information from hosts/organizers of milestone celebrations such as birthdays, weddings, graduations, etc.

@@ -1,8 +1,3 @@
-<thinking>
-This form was created to facilitate the verification of student enrollment status in schools. The purpose of this form is to gather relevant information from students and parents for administrative and educational purposes.
-The form is not meant to be a comprehensive document, but rather a simple and streamlined way to collect basic details about students and parents. 
-</thinking>
-
 # School Enrollment Verification Form - Help Guide
 ## Purpose
 The School Enrollment Verification Form is used to verify student enrollment status in schools. This form helps gather basic information about students and parents to facilitate administrative and educational processes.

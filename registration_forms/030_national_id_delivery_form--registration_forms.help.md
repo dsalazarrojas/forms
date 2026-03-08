@@ -1,5 +1,3 @@
-<thinking>... this form is a tool to collect national ID delivery information for a specific purpose (e.g., government services, financial transactions). It is not a duplicate of any existing form. This form is generated using only public survey metadata and is released under the Creative Commons BY 4.0 license. You are free to modify and use it for your own purposes, just remember to give credit...</thinking>
-
 # National ID Delivery Form - Help Guide
 ## Purpose
 This form is designed to collect information about national ID delivery details for efficient and secure processing. Please fill out the form accurately and thoroughly to ensure correct delivery.

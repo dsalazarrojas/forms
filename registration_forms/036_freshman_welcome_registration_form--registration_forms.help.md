@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Freshman Welcome Registration Form - Help Guide
 
 ## Purpose

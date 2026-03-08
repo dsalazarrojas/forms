@@ -1,8 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the "Tales For Tails" program, which likely involves a series of events or activities that people can participate in or support. The form is intended to gather basic contact and scheduling information from individuals who want to attend or volunteer for these events. The form likely requires users to confirm their details for accuracy and completeness.
-To avoid duplication, it is essential to review the form fields carefully before filling it out. This will ensure that you provide accurate and consistent information throughout.
-</thinking>
-
 # Tales For Tails Registration - Help Guide
 ## Purpose
 The "Tales For Tails" registration form is designed to collect personal and scheduling information from individuals who want to participate in or support the program.

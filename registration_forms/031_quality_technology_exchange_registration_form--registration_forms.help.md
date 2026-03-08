@@ -1,8 +1,3 @@
-<thinking>
-This form is for registering attendees for a quality technology exchange event. It captures essential details such as conference name, attendee information, and their role in the event. The form is designed to be completed by attendees to ensure that their participation is recorded accurately.
-To avoid duplication and ensure accurate data entry, it's essential to understand the purpose of each field and fill them out correctly. Please make sure to fill out the form thoroughly and accurately, and review it before submitting.
-Please note that some fields are optional, but filling out as much information as possible will help the organizers to provide a smooth and efficient experience for all attendees.
-</thinking>
 # quality-technology-exchange-registration-form - Help Guide
 ## Purpose
 This form is designed for registering attendees for a quality technology exchange event. The goal is to capture essential information about each attendee to ensure accurate records and provide a better experience for all participants.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from attendees and speakers for the Public Sector Innovation Forum. This form is designed to gather essential details such as name, contact information, and event-related data. The form is not meant to be exhaustive, and users can fill it out at their own pace. Before proceeding, please ensure that you have not already registered for this event, as duplicate registrations will not be accepted.
-</thinking>
-
 # Public Sector Innovation Forum Registration Form - Help Guide
 ## Purpose
 This form is used to register for the Public Sector Innovation Forum. It is recommended to fill it out carefully to avoid any inconvenience.

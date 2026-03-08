@@ -1,11 +1,3 @@
-<thinking>
-The form purpose is to collect RSVPs for the Festival Press Mixer event. This guide will walk you through the completion process step by step. 
-
-The form has multiple pages with different fields, each with a specific type and label. Some fields are required, meaning users must provide information for these fields to be able to submit the form. 
-
-Please ensure that you are only reading this guide if you are attending the event or have a legitimate reason to submit the form.
-</thinking>
-
 # Festival Press Mixer RSVP Form - Help Guide
 ## Purpose
 The Festival Press Mixer RSVP Form is used to register for the Festival Press Mixer event. This form is used to gather important details about the attendees and their RSVPs for the event.

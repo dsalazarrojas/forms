@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is for startups to register for the Startup Scalability Program. This program is intended to support startups in their growth and development. By completing this form, startups can express their interest in participating in the program and provide necessary information about their business and scalability goals. To ensure accurate registration, please complete the form carefully and only once. 
-</thinking>
-
 # Startup Scalability Program Registration Form - Help Guide
 
 ## Purpose

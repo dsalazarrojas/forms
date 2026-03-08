@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for the Intercultural Dialogue Series. The purpose of this form is to gather contact and demographic information from participants. Please note that this form is required for registration and all fields are mandatory, except for notes, which are optional.
-</thinking>
-
 # Intercultural Dialogue Series Registration Form - Help Guide
 ## Purpose
 The Intercultural Dialogue Series Registration Form is designed to collect registration information from participants in the Intercultural Dialogue Series.

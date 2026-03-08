@@ -1,11 +1,3 @@
-<thinking>
-This form is intended for individuals or entities to register or update their information related to a parish (local church community or administrative area). The primary goal is to collect relevant details for internal administration and record-keeping purposes. The form may be used for:
-* Initial parish registration (e.g., a person joining a parish community or an entity registering their association with the parish)
-* Update existing parish records (e.g., correcting or modifying previous registrations)
-* Requesting services or support from the parish administration
-This guide is intended for end-users to understand how to properly complete the Parish Registration Form, which is used to provide accurate and up-to-date information for the parish administration.
-</thinking>
-
 # Parish Registration Form - Help Guide
 ## Purpose
 The Parish Registration Form is designed to collect essential details about individuals or entities related to a parish. Completing this form accurately ensures that the parish administration has the necessary information to provide relevant services, support, or updates.

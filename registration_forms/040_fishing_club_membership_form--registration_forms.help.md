@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To avoid duplicating effort, let's first consider the following:
 
 *   The form is intended for new fishing club members to register and provide their personal and payment details.

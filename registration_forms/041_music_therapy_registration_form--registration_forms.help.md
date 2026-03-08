@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from registrants for music therapy sessions. The form will be used to gather details about the registrant, their contact information, session preferences, and other relevant details.
-
-Before proceeding, ensure that you have not already registered this information in our system, as duplicate registrations will not be accepted. This form is intended for new registrants only.
-
-Please note that the form requires some personal information, but rest assured that all data collected will be kept confidential and securely stored in our system. The form is divided into several sections, which we will cover in detail below.
-
-</thinking>
-
 # Music Therapy Registration Form - Help Guide
 ## Purpose
 The Music Therapy Registration Form is designed to collect information from registrants to facilitate the music therapy process. It's essential to fill out this form accurately and completely to ensure proper communication between you, the music therapist, and the registrant.

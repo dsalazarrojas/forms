@@ -1,11 +1,3 @@
-<thinking>
-We need to create a help guide for users to understand the purpose and usage of the "virtual_learning_inquiry_form" form. This form was created using AI and is intended to help users register their interest in virtual learning programs. It is not affiliated with any form platforms and is released under a Creative Commons license. Users can use, modify, and even sell forms derived from this original adaptation.
-
-The form is designed to collect information about the user's first name, last name, email, program of interest, contact method, preferred contact time, additional comments, assigned tool, output file, form ID, and assigned tool ID. Users can input text, email, select from options, or enter a time for certain fields.
-
-The form is meant to be a user-facing tool, so it is essential to provide clear guidance on how to complete each field and what information is required or optional. In some cases, we may need to explain the best-effort interpretation of a field label to ensure users understand its purpose.
-</thinking>
-
 # virtual_learning_inquiry_form - Help Guide
 ## Purpose
 

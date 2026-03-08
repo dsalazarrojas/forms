@@ -1,5 +1,3 @@
-<thinking>...The Community Defense Signal Group Sign Up form is a registration form designed for individuals interested in joining a Community Defense Signal Group. This form collects contact information and details from users to help the group's administrators verify their identity and tailor the group's activities to their needs. It is essential to fill out the form accurately and completely to ensure the best possible experience. Please do not submit duplicate entries as this may lead to confusion and errors in the group's operations...</thinking>
-
 # Community Defense Signal Group Sign Up - Help Guide
 ## Purpose
 The Community Defense Signal Group Sign Up form collects information from individuals interested in joining the Signal group to ensure a smooth and effective group experience.

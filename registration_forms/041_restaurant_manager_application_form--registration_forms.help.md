@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Restaurant Manager Application Form - Help Guide
 ## Purpose
 This form is designed for individuals applying for a Restaurant Manager position. It's meant to collect information about the applicant's personal details, work experience, and availability.

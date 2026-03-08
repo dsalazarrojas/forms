@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to help individuals register their items for repair and reuse. To determine if this form is relevant, we'll consider the context in which an individual might fill it out. For example, if you're a customer who needs to send in an item for repair, this form would be a good fit. If you're an organization looking to offer repair services to your customers, this form could be used to gather information from them. This form is not designed for other purposes, such as surveys or data collection.
-</thinking>
-
 # Repair And Reuse Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather information from individuals sending in items for repair and reuse. This form will help you provide the best possible service by understanding the details of the item being sent in and your preferences for repair or reuse.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering vehicle speed limiters and gathering information about their installation status. It's designed to collect data on vehicle owners, vehicle details, and limiter installation status. To ensure accurate and efficient processing, please only fill out this form if you are a legitimate vehicle owner or authorized representative. If you're unsure, please contact our support team for guidance. Please note that duplicate submissions may cause delays or confusion in our records. We'll use the information you provide to keep accurate records and communicate with you and other stakeholders regarding speed limiter-related matters.
-</thinking>
-
 # Vehicle Speed Limiter Registration - Help Guide
 
 ## Purpose

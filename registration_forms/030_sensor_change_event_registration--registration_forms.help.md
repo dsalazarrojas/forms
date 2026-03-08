@@ -1,5 +1,3 @@
-<thinking>... internal reasoning: This form is for registering sensor change events, which is likely a critical process for maintaining sensor health and accuracy. To prevent duplication, the form should be filled out only once per event. The form's purpose is to ensure accurate and efficient event registration, and its fields should be completed carefully to ensure data quality. The form's fields are designed to be simple and easy to understand, but if a user is unsure about a field, they can consult this help guide for clarification. If a user has already registered the same event, the form will likely prevent them from completing it again, but this is not guaranteed and users should double-check their previous submissions to avoid duplication... </thinking>
-
 # Sensor Change Event Registration - Help Guide
 ## Purpose
 This form is used to register sensor change events, which is an essential process for maintaining sensor health and accuracy. It ensures that all relevant information is accurately recorded in a single location, allowing for efficient monitoring and analysis.

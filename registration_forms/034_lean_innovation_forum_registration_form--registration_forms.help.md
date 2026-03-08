@@ -1,12 +1,3 @@
-<thinking>
-This help guide is designed to assist users in completing the Lean Innovation Forum Registration Form. It is crucial to ensure that users understand the form's purpose, how to fill it out, and what each field represents.
-
-The form aims to collect information from users to register them for the Lean Innovation Forum, a platform for sharing knowledge, ideas, and experiences. This form is intended to be completed by attendees, speakers, or other interested parties who wish to participate in the forum.
-
-Before proceeding, please ensure that you have not already registered for the forum and that your information is up-to-date. If you are unsure, kindly verify your previous registration or contact the organizers for assistance.
-
-</thinking>
-
 # Lean Innovation Forum Registration Form - Help Guide
 ## Purpose
 This form is designed to collect your information and preferences for the Lean Innovation Forum. Please fill out the form accurately to ensure that your registration is successful.

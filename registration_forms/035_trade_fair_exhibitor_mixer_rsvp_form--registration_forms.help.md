@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to help exhibitors and attendees register and provide information for the Trade Fair Exhibitor Mixer event. The main goal is to gather RSVP information, contact details, and any additional comments or requests from exhibitors and attendees. The form will help the event organizers to manage the RSVPs, track the headcount, and prepare for the event.
-
-Before proceeding, please ensure that this form is not a duplicate for you. If you have already submitted your RSVP, please do not fill out this form again. Please also note that some fields are mandatory and are required to be filled out to complete the form successfully.
-
-</thinking>
-
 # Trade Fair Exhibitor Mixer RSVP Form - Help Guide
 ## Purpose
 This form is designed to help exhibitors and attendees register and provide information for the Trade Fair Exhibitor Mixer event.

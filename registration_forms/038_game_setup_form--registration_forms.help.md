@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to setup game-related information for an event or session, but it seems to be a generic form with a mix of required and optional fields. There is no clear indication of what type of game is being set up or what specific information is needed. This form appears to be a collection of unrelated fields with various types (text, select_multiple, note, etc.) and a lack of clear labels, which may cause confusion. It's essential to carefully examine the form's structure and purpose to ensure it aligns with the intended use case. If this form is meant to be used for multiple types of games or events, it might be better to create separate forms for each type or add more specific labels to distinguish between them. For the sake of this example, I will assume this form is meant to be used for a general purpose game setup.
-
-</thinking>
-
 # Game Setup Form - Help Guide
 ## Purpose
 The Game Setup Form is designed to capture essential information about a game session or event. This form is intended to help users gather and organize details for a successful game session.

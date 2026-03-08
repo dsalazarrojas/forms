@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for school administrators to collect information from parents and students for volunteer purposes. It will be used to register new volunteers, including their contact information and availability, as well as gather student information for volunteering activities.
-</thinking>
-
 # School Volunteer Consent Form - Help Guide
 ## Purpose
 This form is for schools to collect volunteer information from parents and students for events or activities. It includes fields for volunteer details, student information, and contact information.

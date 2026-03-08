@@ -1,7 +1,3 @@
-<thinking>
-Dental Health Event Registration form is designed to collect general information, contact details, event specifics, and attendee data for dental health events. This form is intended for events such as conferences, seminars, or workshops related to dental health. To avoid duplication, please note that you have already registered for this event or have access to the event's internal registration system. If you're unsure, kindly double-check with the event organizers.
-</thinking>
-
 # Dental Health Event Registration - Help Guide
 ## Purpose
 The Dental Health Event Registration form is a tool for gathering information from attendees and participants of dental health events such as conferences, seminars, or workshops. This guide will walk you through the process of completing the form to ensure you provide accurate and relevant information.

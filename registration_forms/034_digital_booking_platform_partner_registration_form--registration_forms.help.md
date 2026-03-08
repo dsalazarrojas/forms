@@ -1,8 +1,3 @@
-<thinking>
-This form is used to register a new partner on the digital booking platform. The purpose of this form is to collect information about the partner, including their user information, business details, service offerings, business address, contact person, email, phone number, and any additional notes.
-The form will only be accessible to users with the correct permissions, and the information collected will be stored in the platform's database. This form will only be filled out once for each partner, and no duplicate entries will be accepted.
-</thinking>
-
 # digital_booking_platform_partner_registration_form - Help Guide
 
 ## Purpose

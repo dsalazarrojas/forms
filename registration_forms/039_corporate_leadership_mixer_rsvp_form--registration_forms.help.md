@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect RSVP information from guests who will be attending an event. This form is designed to gather essential contact details, guest information, and preferences for event attendees. Before starting, ensure you have not already registered or updated your RSVP for this event. Please review the provided information carefully to ensure accuracy and completeness.
-</thinking>
-
 # Corporate Leadership Mixer RSVP Form - Help Guide
 ## Purpose
 This form is designed for guests to RSVP to the Corporate Leadership Mixer event. Please fill out the form with your accurate and up-to-date information.

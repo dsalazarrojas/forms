@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information about pet birthdays and associated celebrations. It's a registration form to help you decide whether to celebrate or not. The form has eight fields, including a select_one question about whether to celebrate, text fields for pet names and owner email/phone, date fields for pet birthday and date of birth, and select_multiple fields for RSVP and pet birthday celebration status.
-</thinking>
-
 # Pet Birthday Celebration RSVP - Help Guide
 ## Purpose
 The Pet Birthday Celebration RSVP form is designed to help pet owners decide whether to celebrate their pet's birthday and gather relevant information.

@@ -1,7 +1,3 @@
-<thinking>
-This form is for registering family members for the Family Scavenger Hunt Activity. The form allows family members to provide their information, which is then used for activity administration and coordination. Before proceeding, please ensure you have the necessary permissions to register family members and that you are not duplicating registration efforts. This guide will walk you through the form fields and instructions for a successful registration process.
-</thinking>
-
 # Family Scavenger Hunt Activity Registration - Help Guide
 
 ## Purpose

@@ -1,9 +1,3 @@
-<thinking>...thinking>
-
-This form is designed to collect information from patients or their legal representatives for music therapy sessions. The purpose of this form is to gather essential details about the individual's contact information, medical history, and treatment goals. The form is intended to be completed by the individual or their representative, and the information collected will be used to create a personalized treatment plan. Please ensure that you provide accurate and honest information to ensure the best possible outcome for the music therapy sessions.
-
-</thinking>
-
 # Music Therapy Intake Form - Help Guide
 ## Purpose
 The Music Therapy Intake Form is used to collect essential information from patients or their legal representatives for music therapy sessions. This form helps us understand your needs and create a personalized treatment plan for your music therapy journey.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from participants in the "Smart Factory Solutions Training" program. The form asks for personal details (first and last name, email, date, and time), location, and any comments about the participant or the training. Additionally, it inquires about the participant's department and their manager's name. This form is meant to be completed by individuals who are part of the training program, and it is likely used to track participant data and facilitate communication within the organization. It is essential to ensure that each participant completes the form accurately and truthfully.
-</thinking>
-
 # Smart Factory Solutions Training Form - Help Guide
 ## Purpose
 This form is used to collect information from participants in the Smart Factory Solutions Training program.

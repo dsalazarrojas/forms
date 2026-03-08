@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to capture information for a nutrition reform consultation between a client and a consultant. The form should be completed by the client to provide their details and the consultant's details, including the consultation date and time, consultant fee, and any applicable tax. This form will help ensure that all relevant information is gathered and processed correctly. Please make sure that the form is not duplicated or submitted with incomplete information.
-</thinking>
-
 # Nutrition Reform Consultation Registration Form - Help Guide
 ## Purpose
 The Nutrition Reform Consultation Registration Form is a form used to register client and consultant information for nutrition reform consultations.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register participants for the Smart Energy System Training. This form is used to collect information from participants, including their session choices, contact details, and training session dates. Before proceeding, ensure that you are registering for the correct session choice and that you have the necessary permissions from your university to participate in the training. Please note that some fields may be marked as optional, but filling them out will help the training organizers better understand your needs and preferences.
-</thinking>
-
 # Smart Energy System Training Registration - Help Guide
 ## Purpose
 The Smart Energy System Training Registration form is designed to collect information from participants to schedule and manage training sessions. This guide will walk you through the form fields and help you complete it correctly.

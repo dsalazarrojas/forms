@@ -1,5 +1,3 @@
-<thinking>As an expert form designer and technical writer, I will create a comprehensive user-facing help guide for the "Employee Growth Forum Registration Form" based on the provided YAML fields. This guide will walk users through the purpose of the form, how to complete it, and provide field-by-field explanations to ensure a smooth and efficient experience for the users.</thinking>
-
 # Employee Growth Forum Registration Form - Help Guide
 
 ## Purpose

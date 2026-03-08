@@ -1,9 +1,3 @@
-<thinking>...
-This form is for guests to check in for a showing at a property. The form is typically used by real estate agents or brokers to track who is attending a showing and provide important contact information in case of an emergency. 
-
-This form will help you check in for a property showing in a timely and efficient manner. To complete it, follow these steps:
-</thinking>
-
 # Property Showing Check In Form - Help Guide
 ## Purpose
 This form is for guests to check in for a property showing. It's used to track who is attending a showing and provide important contact information in case of an emergency.

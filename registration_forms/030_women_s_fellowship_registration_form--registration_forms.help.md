@@ -1,7 +1,3 @@
-<thinking> 
-This form is used to register participants for a women's fellowship program. The form is meant to collect relevant information about each participant, including their name, organization, role, email, phone number, and any additional comments. This form is not meant to be used for duplicate or redundant registrations, so please ensure that you are only registering participants who have not already been registered. If you are unsure about the purpose or usage of this form, please reach out to the fellowship administrators for clarification. 
-</thinking>
-
 # Women's Fellowship Registration Form - Help Guide
 ## Purpose
 The Women's Fellowship Registration Form is used to register participants for a women's fellowship program. 

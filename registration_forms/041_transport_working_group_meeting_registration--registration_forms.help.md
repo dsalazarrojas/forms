@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to register users for the Transport Working Group Meeting, allowing them to provide their personal and contact information, as well as specify their preferences for sessions. This form is designed for end users to sign up for the meeting, ensuring they can participate in the relevant sessions they are interested in. To avoid duplication, we will check for existing user registrations before processing new submissions.
-</thinking>
-
 # Transport Working Group Meeting Registration - Help Guide
 ## Purpose
 This form is used to register users for the Transport Working Group Meeting. Please fill out the form to provide your name, contact information, and session preferences to ensure a smooth and personalized experience at the meeting.

@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed for users to register for a ski trip, gathering information about each participant. The form will collect data that is essential for planning and organizing the trip. We will verify that each user only fills out this form once, to prevent multiple registrations. If a user has already filled out this form, they will receive a message indicating that they cannot submit it again. This form was created with a specific purpose to collect ski trip registration data.
-
-</thinking>
-
 # Ski Trip Registration Form - Help Guide
 ## Purpose
 The Ski Trip Registration Form is designed to collect information about each participant for the planning and organization of the ski trip.

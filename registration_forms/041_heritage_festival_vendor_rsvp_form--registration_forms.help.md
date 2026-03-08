@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to help vendors register and confirm their participation in a heritage festival. It collects information about the vendor's details, booth requirements, confirmatory participation, and any additional details or notes. This form will help the festival organizers to efficiently manage the vendor registrations and ensure a smooth event execution.
-
-</thinking>
-
 # heritage_festival_vendor_rsvp_form - Help Guide
 
 ## Purpose

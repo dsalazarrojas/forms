@@ -1,11 +1,3 @@
-<thinking>
-This form is designed to collect information for a Kink And BDSM event registration. Before we dive into the form details, let's briefly review the form's purpose:
-
-*   The Kink And BDSM Event Registration form is used to collect essential details from participants who are interested in attending Kink And BDSM events. This form will help in streamlining the registration process, ensuring that participants have a smooth and enjoyable experience at the event.
-*   Before proceeding with filling out the form, kindly check that you're not duplicating any existing registrations for any of the following fields: kink_interests, consent, consent, payment_method, payment_currency, participant_info, participant_info_other, event_info, event_info_other, kink_info. 
-
-</thinking>
-
 # Kink And BDSM Event Registration - Help Guide
 ## Purpose
 The Kink And BDSM Event Registration form is designed to collect information from interested participants. It is crucial to fill this form out accurately to ensure you receive the relevant information and updates about the event.

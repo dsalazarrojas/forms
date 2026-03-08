@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for registering participants to fantasy sports events. The form allows users to input payment information and participant details. The purpose of this guide is to ensure that participants understand what information needs to be provided and how it should be entered into each field. This form should not be used for non-participants or non-payment purposes.
-</thinking>
-
 # fantasy_sports_registration_payment_form - Help Guide
 ## Purpose
 This form is designed for registering participants to fantasy sports events. To complete this form, follow the steps outlined below.

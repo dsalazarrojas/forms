@@ -1,7 +1,3 @@
-<thinking>
-  The purpose of this form is to collect user information for membership registration in the Recruitment Specialists Guild, a professional organization for professionals in the recruitment industry. This form aims to gather essential details about the users to process their membership application. The fields included are basic and minimal, as the primary goal is to get the necessary information required for registration.
-</thinking>
-
 # Recruitment Specialists Guild Membership Form - Help Guide
 ## Purpose
 The Recruitment Specialists Guild Membership Form is designed to collect information from individuals interested in joining the Recruitment Specialists Guild, a professional organization for recruitment industry professionals. This form will help the guild to process your membership application.

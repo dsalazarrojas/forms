@@ -1,11 +1,3 @@
-<thinking>
-
-This form is used to collect consent from participants of cultural performances, such as events, recitals, or other creative displays. It asks for personal details, performance information, and consent to use their performance in materials. The form is designed to be completed by the participants or their representatives, and its purpose is to ensure that the necessary information is collected for marketing and promotional use.
-
-It is recommended to complete this form only once per participant, to avoid duplication and ensure accurate tracking of consents.
-
-</thinking>
-
 # Cultural Performance Highlight Consent Form - Help Guide
 ## Purpose
 

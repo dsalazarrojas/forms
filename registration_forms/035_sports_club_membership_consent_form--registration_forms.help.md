@@ -1,7 +1,3 @@
-<thinking>
-The Sports Club Membership Consent Form is used to collect information from individuals seeking membership in the sports club. This form is used to gather details necessary for registration, emergency contacts, and member participation in activities. It ensures that the club has the necessary information to handle any emergencies and for official communication. The form is designed to be completed by the individual wishing to join the club, making it an "User-facing" form.
-</thinking>
-
 # Sports Club Membership Consent Form - Help Guide
 ## Purpose
 The Sports Club Membership Consent Form is a document used to collect essential information from prospective members. It helps the club to understand the individual's background, emergency contacts, and their willingness to participate in activities. This form is a mandatory requirement for all new members.

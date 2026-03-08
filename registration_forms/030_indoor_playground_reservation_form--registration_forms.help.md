@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To create a user-facing help guide for the "Indoor Playground Reservation Form", we need to ensure that users understand the form's purpose and requirements. This guide will walk users through the form's purpose, how to complete it, and what each field means to facilitate a smooth and accurate submission process.
 
 # Indoor Playground Reservation Form - Help Guide

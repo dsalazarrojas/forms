@@ -1,9 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from guests and their contacts for the Guest Relations Enhancement Training registration. This form is intended to be completed by individuals who are interested in participating in the training program. To ensure accuracy and relevance, please note that this form is not intended for use by employees or internal staff members.
-
-Before filling out this form, please ensure that you are registering yourself or a colleague from an external organization.
-</thinking>
-
 # Guest Relations Enhancement Training Registration Form - Help Guide
 ## Purpose
 The Guest Relations Enhancement Training Registration Form is designed to collect contact information and details from external guests and their colleagues who are interested in participating in the Guest Relations Enhancement Training program.

@@ -1,10 +1,3 @@
-<thinking>
-This form is intended to capture information about a group supervision session, including session details, participant information, supervision preferences, payment method, participant phone number, email, email repeat (for confirmation), and any additional notes or comments.
-The form is designed to be completed by the participant, and the fields are meant to be filled out accordingly.
-The form does not have any specific requirements or restrictions, so any participant can complete it without worrying about missing information.
-The form should not be completed by anyone who is not a participant in the supervision session.
-</thinking>
-
 # Online Group Supervision Registration - Help Guide
 ## Purpose
 This form is used to register for an online group supervision session. It captures essential information about the session and participant, ensuring a smooth and organized session for everyone involved.

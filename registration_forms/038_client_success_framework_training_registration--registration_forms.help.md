@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for individuals to register for Client Success Framework Training, a program that aims to equip attendees with the skills and knowledge needed to succeed in client success roles. The form is intended to collect information from attendees, including their personal details, training preferences, and any additional requirements or accommodations.
-
-To ensure that you are registering for the correct type of training and at the right time, please double-check that you are filling out the form correctly. If you have any doubts or questions, please feel free to contact us.
-
-The form is divided into two main sections: "Registration Details" and "Training Preferences". In the "Registration Details" section, you will find fields related to your personal information and contact details. In the "Training Preferences" section, you will find fields related to the type of training you are registering for and any additional requirements or accommodations you may need.
-
-The form is designed to be completed in approximately 5-7 minutes.
-
-</thinking>
-
 # Client Success Framework Training Registration - Help Guide
 ## Purpose
 The Client Success Framework Training Registration form is designed to gather information from attendees who want to register for the Client Success Framework Training program. This form helps us ensure that we have the correct information to provide the best possible experience for each attendee.

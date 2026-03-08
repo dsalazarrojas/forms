@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Mower Giveaway Registration - Help Guide
 ## Purpose
 This form is for users to register their entry into a mower giveaway contest. The form is designed to collect contact information and confirm that users have read and understood the rules. The form is intended for users who wish to participate in the contest and have a valid entry.

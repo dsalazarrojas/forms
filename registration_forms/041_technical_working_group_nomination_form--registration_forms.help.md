@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect nominations for the Technical Working Group, which is a committee of experts in various fields such as Automation, Data Science, Data Engineering, and Data Analytics. The form is used to gather information about the nominee's details, expertise, participation availability, and additional comments. This form is a crucial tool for the selection process of the Technical Working Group members. Please ensure that you are submitting a genuine nomination and that you are not duplicating an existing submission. Duplicate nominations will be removed.
-</thinking>
-
 # Technical Working Group Nomination Form - Help Guide
 ## Purpose
 This form is used to nominate individuals for the Technical Working Group. It helps us gather essential information about the nominee, their expertise, and participation status to ensure a fair selection process.

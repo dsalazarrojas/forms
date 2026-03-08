@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Discussion Session Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-This form is meant to register students for religious education programs. The purpose of this form is to collect demographic information from students, including their personal details, contact information, and educational preferences. Before filling out this form, please ensure that you are registering for a religious education program and that you have not already completed this form. Please note that the form may not be relevant to your current situation.
-</thinking>
-
 # Religious Education Registration Form - Help Guide
 ## Purpose
 This form is designed to register students for religious education programs.

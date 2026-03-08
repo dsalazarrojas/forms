@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # New Client Intro Form - Help Guide
 ## Purpose
 This form is designed to collect information about new clients, including their contact information, industry, company, job title, location, and other relevant details. This form will help you understand the client's needs and preferences for onboarding and communication.

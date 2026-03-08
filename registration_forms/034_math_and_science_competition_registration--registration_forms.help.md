@@ -1,7 +1,3 @@
-<thinking>
-Form purpose is to collect registration information from participants and ensure they agree to the competition terms and conditions. It is likely used for events related to math and science competitions. The form is designed to be completed by a single participant, not for multiple participants. The form has been designed for internal use only and is not intended for public exposure. 
-</thinking>
-
 # Math And Science Competition Registration - Help Guide
 
 ## Purpose

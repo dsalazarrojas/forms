@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Youth Group Registration Form - Help Guide
 ## Purpose
 This form is designed for parents or guardians to register their child for a youth group program. It collects necessary information to ensure a smooth and enjoyable experience for both the child and the parent(s)/guardian(s).

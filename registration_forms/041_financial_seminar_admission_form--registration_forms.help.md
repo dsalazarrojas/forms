@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is for attendees to provide their information and register for a financial seminar. The form is used to collect user data, session details, payment information, and additional notes. The form is required to be completed in its entirety, and the attendee must fill out all fields to be admitted to the seminar.
-
-To ensure that the attendee data is accurate, it is recommended that the attendee review their information carefully before submitting the form. If an attendee notices any errors or discrepancies, they should inform the form administrator immediately.
-
-This form has multiple pages, but the attendee only needs to fill out the required fields on each page. The attendee can leave the optional fields blank if they are not applicable.
-
-</thinking>
-
 # Financial Seminar Admission Form - Help Guide
 ## Purpose
 The Financial Seminar Admission Form is designed to collect information from attendees to facilitate a smooth and organized experience during the seminar. Please follow this guide to help you complete the form accurately and efficiently.

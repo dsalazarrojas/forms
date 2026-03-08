@@ -1,14 +1,3 @@
-<thinking>
-This form is designed to help individuals enroll in the wildlife volunteer program. It collects information about the user's volunteer experience, interests, availability, conservation goals, commitment level, volunteer frequency, start and end dates of their volunteer service, current volunteer status, contact details (email and phone), and any additional comments or notes. This form will be used to track and verify the volunteer's information for the program administrators.
-
-Please ensure you are filling out this form correctly to ensure your enrollment is complete and accurate. If you have already enrolled in this program, please do not fill out this form again. Your previous enrollment information will be used to update your status and any new information will be appended.
-
-Before you start, please note that some fields have specific options that will help you fill out the form accurately. 
-
-This form has multiple pages. Please fill out one page at a time and make sure to submit each page before moving to the next one.
-</thinking>
-
-
 # wildlife_volunteer_program_enrollment_form - Help Guide
 ## Purpose
 The wildlife volunteer program is designed to engage individuals in conservation efforts. This form is used to register and track volunteer information.

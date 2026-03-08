@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to collect information for the renewal of a membership in the Performance Arts Club. This form is used to gather details about the membership renewal process, including membership type, payment method, and contact information. Before proceeding, please ensure that you have the necessary details and approvals required for the renewal process. Additionally, this form should not be used for new membership applications, which have a separate form for that purpose.
-
-The information collected in this form will be used to update the membership status and payment records for the Performance Arts Club.
-
-Please review the fields carefully and ensure that you have filled in all relevant information to ensure that your membership renewal is processed correctly.
-
-</thinking>
-
 # performance_arts_club_renewal_form - Help Guide
 ## Purpose
 The performance arts club membership renewal form is used to update the membership status and payment records for the Performance Arts Club.

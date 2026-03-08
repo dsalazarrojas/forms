@@ -1,12 +1,3 @@
-<thinking>
-We will create a user-facing help guide for the "Product Registration For Tracking" form. This form is designed to collect information about a product's registration for tracking purposes. It is essential to fill out the form accurately and completely to ensure that the product can be tracked correctly. Please review the form carefully before submitting it to avoid any duplication or errors.
-
-This form is used for registering products for tracking, and it is crucial to understand the purpose and requirements of each field to fill it out correctly.
-
-To ensure that you can track the product correctly, please complete the form with the required information. If you're unsure about any field, please refer to this help guide for clarification.
-
-</thinking>
-
 # Product Registration For Tracking - Help Guide
 ## Purpose
 The "Product Registration For Tracking" form is designed to collect information about a product's registration for tracking purposes. This form helps to ensure that the product can be tracked correctly, and any errors or duplication can be avoided.

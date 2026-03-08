@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect registration information for riders and their horses participating in a rodeo event. It is intended for both riders and horse owners to submit their details, including personal contact information, event specifics, and horse information. The form ensures that all necessary fields are filled in for registration, and some fields are optional. The form is divided into multiple pages, each with its own set of fields. The form does not duplicate any fields, and all provided fields are relevant to the context.
-</thinking>
-
 # Rodeo Event Entry Form - Help Guide
 ## Purpose
 This form is designed to collect registration information for riders and their horses participating in a rodeo event.

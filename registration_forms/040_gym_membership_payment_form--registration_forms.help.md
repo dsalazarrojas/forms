@@ -1,9 +1,3 @@
-<thinking>
-
-The Gym Membership Payment Form is designed to collect payment information from gym members. This form is used to determine the type of membership, payment method, payment schedule, and any other relevant details for processing payments related to gym membership fees. It's essential to review this form carefully to avoid duplication and ensure accurate completion.
-
-</thinking>
-
 # Gym Membership Payment Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # customer_onboarding_checklist_form - Help Guide
 ## Purpose
 The customer onboarding checklist form is used to gather information about a customer for onboarding purposes. This form is designed to collect essential details such as first and last name, email, phone number, company, date, time, and notes. Completing this form will help you onboard new customers efficiently and ensure a smooth onboarding process.

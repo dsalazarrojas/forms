@@ -1,7 +1,3 @@
-<thinking>**Form Validation Check**
-
-Before we dive into the help guide, let's ensure this form is correctly filled out and relevant to the provided YAML. This form is likely for a fundraising gala, collecting data on individuals who are participating or registering for an event. Each field should provide necessary information to accurately track and manage attendees and donations. Please review the form carefully to avoid duplication and ensure all fields are relevant to the event.</thinking>
-
 # Fundraising Gala Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals registering for or participating in the fundraising gala. It includes details such as name, contact information, event details, and donation information.

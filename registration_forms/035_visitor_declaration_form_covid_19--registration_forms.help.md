@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form, "visitor_declaration_form_covid_19", is to collect information from visitors to an establishment, likely for contact tracing and potential contact management purposes during the COVID-19 pandemic. The form is likely used by institutions, businesses, or organizations to track visitors and identify potential cases of COVID-19. This form helps the staff of these institutions to identify potential contacts and take necessary precautions to prevent the spread of the disease. The form is designed to collect basic information such as name, contact details, and visit history of visitors. It also includes fields to record any symptoms or contact with infected individuals the visitor may have had. The employee section of the form is meant to record the information of the employee interacting with the visitor. The form is designed to be completed by both the visitor and the employee in charge of interacting with them. To avoid duplication or irrelevant data, it's essential that the form is completed accurately and only by authorized personnel.
-</thinking>
-
 # visitor_declaration_form_covid_19 - Help Guide
 ## Purpose
 This form is designed to collect information from visitors for contact tracing and potential contact management purposes during the COVID-19 pandemic.

@@ -1,18 +1,3 @@
-<thinking>
-This form is intended for the registration of nurses as members of the Nurses Welfare organization. This form captures various details about the member, including their contact information, membership status, work experience, and medical details. The form is designed to be completed by the nurses themselves or by the organization staff. Please note that this form is not intended for general public use, as the information collected is sensitive in nature and only accessible to authorized personnel within the organization.
-
-To complete this form, follow these steps:
-
-1. Ensure you have the necessary permissions and authority to access and complete the form.
-2. Provide accurate and detailed information about yourself, including your name, contact information, and medical details.
-3. Select the appropriate options for your membership status, work experience, and medical specialty.
-4. Provide information about your work experience, professional membership, and work history.
-5. Select the appropriate membership category and group.
-6. Confirm your membership status and work details.
-7. Upload your profile picture (if required).
-8. Review your information carefully before submitting the form.
-
-</thinking>
 # Nurses Welfare Member's Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect registration information from nurses who wish to become members of the Nurses Welfare organization.

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from participants who want to exhibit their artwork in a Heroic Legacy Exhibition. The form is used to gather details about the participant, their artwork, and their contact information. This form is only required for participants who wish to exhibit their artwork and will be used to create a record of their submission. Please note that this form is not intended for general public submission, and only authorized individuals should be submitting their work. 
-</thinking>
-
 # Heroic Legacy Exhibition Registration - Help Guide
 ## Purpose
 This guide will walk you through how to complete the Heroic Legacy Exhibition Registration form to ensure a smooth and successful submission process.

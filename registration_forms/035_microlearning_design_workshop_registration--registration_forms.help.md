@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 To ensure that this form is used correctly and efficiently, please note that this form was created for registration purposes, specifically for the Microlearning Design Workshop. This form should only be filled out by individuals who are interested in attending the workshop and have not registered previously. 
 
 </thinking>

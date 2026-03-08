@@ -1,9 +1,3 @@
-<thinking>
-
-The purpose of this form is to register employees for reskilling programs, allowing them to choose from various programs, enter their details, and provide additional information. This form is essential for employees who want to reskill and upskill themselves for new roles or industries. To ensure accurate completion, the form should not be submitted multiple times by the same employee.
-
-</thinking>
-
 # Retail Workforce Reskilling Registration Form - Help Guide
 ## Purpose
 This form is for retail employees who want to register for reskilling programs to enhance their skills and adapt to new roles or industries.

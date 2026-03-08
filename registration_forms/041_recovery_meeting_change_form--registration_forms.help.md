@@ -1,7 +1,3 @@
-<thinking>
-The form is designed to capture meeting-related changes from users, which can be used to track and manage such changes in an organization. To ensure data consistency and accuracy, it's essential to complete this form carefully, avoiding duplicates.
-</thinking>
-
 # Recovery Meeting Change Form - Help Guide
 ## Purpose
 The Recovery Meeting Change Form is a tool used to report changes to meetings. This form helps users track and manage changes to meeting-related data, ensuring the accuracy and consistency of records.

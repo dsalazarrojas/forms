@@ -1,9 +1,3 @@
-<thinking>
-This form is used for vendors to register their information and samples for retail purposes. The form is meant to be completed by vendors who want to offer their products or samples to a retail store. The purpose of this form is to gather necessary details about the vendor and their offering. It's likely used to streamline the process for vendors, making it easier to get their products on the shelves of the retail store.
-
-When filling out this form, the vendor should ensure that all required fields are completed, and the form should not be resubmitted if previously completed. This form is intended to be completed only once for each vendor.
-</thinking>
-
 # Retail Sampling Vendor Registration Form - Help Guide
 
 ## Purpose

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # seminar_rsvp - Help Guide
 ## Purpose
 This form is designed for attendees to RSVP (Respond to a Seminar) by indicating their presence, providing their contact information, and selecting their preferred attendance options. It collects essential details for seminar organization and communication.

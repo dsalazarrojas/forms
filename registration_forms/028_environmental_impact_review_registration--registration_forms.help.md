@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information about an environmental impact review process. This form captures the essential details about a project, its associated agencies, and the review schedule. To ensure the form is completed accurately, it will be helpful to review the fields and their explanations below.
-</thinking>
-
 # Environmental Impact Review Registration - Help Guide
 
 ## Purpose

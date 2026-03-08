@@ -1,6 +1,3 @@
-<thinking>
-Please note that this form is intended to gather information necessary for the child's care and safety while in childcare. This form should be completed by a parent or guardian and is meant to be used by childcare providers to assess the child's health needs. It's essential to complete this form accurately and thoroughly to ensure the child receives the best care possible. Please ensure you are completing this form for the correct child and not duplicating efforts. </thinking>
-
 # Childcare Health Intake Form - Help Guide
 
 ## Purpose

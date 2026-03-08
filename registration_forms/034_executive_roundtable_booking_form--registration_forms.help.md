@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Executive Roundtable Booking Form - Help Guide
 ## Purpose
 This form is used to book an executive roundtable event, allowing participants to register for and provide details about their attendance. The form should only be filled out if the participant has received an email invitation to the event. If you have not received an email invitation, please do not fill out this form.

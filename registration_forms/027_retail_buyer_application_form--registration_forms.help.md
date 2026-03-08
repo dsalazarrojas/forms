@@ -1,12 +1,3 @@
-<thinking>
-This form is a Retail Buyer Application Form used to collect information from potential buyers about their store details, payment terms, and account type. 
-
-When filling out this form, ensure that you're providing accurate and up-to-date information about your store. This information will be used to verify your identity and assess your creditworthiness. 
-
-Before submitting the form, please check that you're not duplicating an existing account.
-
-</thinking>
-
 # Retail Buyer Application Form - Help Guide
 ## Purpose
 The Retail Buyer Application Form is used to collect information from potential buyers about their store details, payment terms, and account type. This information will be used to verify your identity and assess your creditworthiness.

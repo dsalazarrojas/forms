@@ -1,31 +1,3 @@
-<thinking>
-To determine the purpose and relevance of this form, I will analyze the given YAML fields.
-
-The form is for "healthcare professionals" registration, and it appears to collect demographic information, such as name, contact details, and other relevant details for healthcare providers. This form will help in organizing and categorizing healthcare professionals for future reference or collaboration within the healthcare system.
-
-To confirm, let's consider the fields:
-
-*   **First Name**: A field for the individual's given name.
-*   **Last Name**: A field for the individual's surname.
-*   **Email**: A field for the individual's email address.
-*   **Phone Number**: A field for the individual's contact number.
-*   **Date of Birth**: A field for the individual's birthdate.
-*   **Provider Type**: A field to select the type of healthcare provider (Primary Care, Specialist, etc.).
-*   **Healthcare Facility**: A field to select the type of healthcare facility where the provider works.
-*   **Medical Board Certifications**: A field to select the individual's board certification status.
-*   **Onboarding Process**: A field to select the process type for the provider's onboarding.
-*   **Emergency Contact**: A field for the individual's emergency contact information.
-*   **Address**: A field for the individual's address.
-*   **City**: A field for the individual's city.
-*   **State**: A field for the individual's state.
-*   **Zip**: A field for the individual's zip code.
-*   **Country**: A field for the individual's country.
-*   **Onboarding Date**: A field for the date of the individual's onboarding process.
-
-Upon reviewing the form fields, it appears to be a comprehensive registration form for healthcare professionals.
-
-</thinking>
-
 # Healthcare Professional Registration Form - Help Guide
 
 ## Purpose

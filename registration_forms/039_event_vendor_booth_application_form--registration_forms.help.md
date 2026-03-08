@@ -1,7 +1,3 @@
-<thinking>
-This form is likely to be used by event organizers to collect information from potential vendors about their booths at an event. It is essential that this form is filled out correctly to ensure that all necessary details are captured accurately, so we should be cautious to avoid duplication and ensure that the form's purpose is well understood by the user filling it out.
-</thinking>
-
 # event_vendor_booth_application_form - Help Guide
 ## Purpose
 This form is used to collect information from potential vendors about their booths at an event.

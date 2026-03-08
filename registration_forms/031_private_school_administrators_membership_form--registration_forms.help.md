@@ -1,17 +1,3 @@
-<thinking>
-This form is used to register private school administrators for membership in a community. The purpose of this form is to collect information from school administrators to facilitate communication and provide relevant services to their institutions. This form is only accessible to approved users, and data collected will be used to personalize the experience of private school administrators.
-
-To complete this form, please follow these steps:
-
-1. Enter your name and contact information (First Name, Last Name, Email, Phone).
-2. Select your role within the school (School Administrator, Director, Teacher, Other).
-3. Provide your school's details (School Name, School Address, School City, School State, School Zip, School Country).
-4. Choose your membership interests (Academic Development, Professional Development, Networking, Leadership).
-5. Add any additional comments about your school or membership interests.
-6. Confirm that your information is accurate.
-
-</thinking>
-
 # Private School Administrators Membership Form - Help Guide
 ## Purpose
 The "Private School Administrators Membership Form" is used to collect information from private school administrators to facilitate communication and provide relevant services to their institutions.

@@ -1,17 +1,3 @@
-<thinking>
-To ensure the relevance and non-duplication of this form, let's first analyze the provided YAML fields:
-
-* The form has 13 fields, which can be divided into two main sections: Participant Information and Team Information.
-* The Participant Information section contains fields for contact information, match details, and payment status.
-* The Team Information section includes fields for team name, team manager name, and event date/time.
-* Payment options are limited to two options, suggesting a simple payment process.
-
-Given the form's structure and field names, it is likely used for registration and payment processing for a girls' football match event. This form might be used by teams or individuals to provide their information and payment status for the event.
-
-To avoid duplication, the form should be filled out by each team or individual only once, and the information provided should be accurate and up-to-date to ensure smooth processing.
-
-</thinking>
-
 # girls-football-match-registration-form - Help Guide
 ## Purpose
 This form is designed for teams or individuals to register and provide information for a girls' football match event. It collects contact, team, and payment details to facilitate efficient processing and communication during the event.

@@ -1,8 +1,3 @@
-<thinking>
-**This form is used for tracking attendance at events/meetings. The purpose of this form is to gather necessary information for a successful event. To ensure that the form is completed correctly, review the form purpose, required fields, and each field's label to understand what to input. This will help avoid any duplication or misplacement of information and ensure that the form is filled out accurately.**
-
-</thinking>
-
 # Attendance Tracker Requisition Form - Help Guide
 
 ## Purpose

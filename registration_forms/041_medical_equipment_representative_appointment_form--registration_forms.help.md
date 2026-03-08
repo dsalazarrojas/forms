@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from users about their medical equipment representative appointment. It is crucial to understand the purpose of this form is to collect data for internal use, and any information collected will be used to schedule meetings and allocate resources accordingly. Please ensure that you are filling this form for the right purpose and not for any other reason.
-</thinking>
-
 # Medical Equipment Representative Appointment Form - Help Guide
 ## Purpose
 The purpose of this form is to provide medical equipment representatives with information about your appointment, allowing us to prepare and allocate resources accordingly. This includes your contact information, meeting details, and medical equipment requirements.

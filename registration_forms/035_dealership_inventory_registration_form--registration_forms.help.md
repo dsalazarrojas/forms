@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a dealership's inventory, including the vehicle's make, model, year, price, trim, color, transmission, mileage, and any notes. The form is intended to be completed by dealership staff or inventory managers to register new vehicles or update existing ones in the system. This form should not be used for external parties, such as customers or third-party vendors, as it contains sensitive information about the dealership's inventory.
-</thinking>
-
 # dealership_inventory_registration_form - Help Guide
 ## Purpose
 This form is designed to collect information about a dealership's inventory, including vehicle details, status, and notes.

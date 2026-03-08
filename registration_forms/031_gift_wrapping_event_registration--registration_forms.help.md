@@ -1,12 +1,3 @@
-<thinking>
-The purpose of this form is to gather information from participants who wish to register for a gift wrapping event. This event registration form captures essential details about each participant, including their name, email address, and phone number. The form will help us manage participant information efficiently and effectively.
-
-To ensure data accuracy and completeness, it is essential to fill out this form carefully and truthfully. We will verify the information provided, and any duplication or inaccuracies may lead to rejection of the participant registration.
-
-Before proceeding, ensure that you are registering for the correct event and that all necessary details are provided. If you have any doubts or concerns, please contact the event organizers for clarification.
-
-</thinking>
-
 # Gift Wrapping Event Registration - Help Guide
 
 ## Purpose

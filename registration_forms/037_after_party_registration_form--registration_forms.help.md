@@ -1,4 +1,3 @@
-<thinking>...</thinking>
 # After Party Registration Form - Help Guide
 ## Purpose
 This form is designed for guests to register for an after-party event. It collects information about their guest details, preferences, and requirements to provide a tailored experience. Please note that this form is intended for guests who are already registered for the original event.

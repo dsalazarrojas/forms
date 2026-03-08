@@ -1,7 +1,3 @@
-<thinking>
-This form is intended for volunteers to apply for marketing campaigns, and it collects information about the campaign details, contact information, skills, and availability. The form has multiple pages and fields to gather comprehensive data from applicants. Before filling out the form, please ensure that you have reviewed the campaign information carefully and that your availability matches the campaign schedule. Additionally, please be accurate when selecting your skills and availability, as this information will be used to assess your suitability for the role. 
-</thinking>
-
 # Marketing Campaign Volunteer Application Form - Help Guide
 
 ## Purpose

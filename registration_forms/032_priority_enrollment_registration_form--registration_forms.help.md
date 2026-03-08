@@ -1,7 +1,3 @@
-<thinking>
-This form appears to be a registration form for priority enrollment, possibly for a program or initiative. It's used to collect information from applicants to determine their priority status. The form likely doesn't require any supporting documents for submission. I assume the purpose of the form is to gather details from applicants and their priority status to further process their enrollment applications. Please let me know if this assumption is correct and if there's any further information that can be provided to ensure the accuracy of this help guide.
-</thinking>
-
 # Priority Enrollment Registration Form - Help Guide
 ## Purpose
 The Priority Enrollment Registration Form is used to collect information from applicants for a priority enrollment program or initiative. This form aims to gather details from applicants and their priority status to further process their enrollment applications.

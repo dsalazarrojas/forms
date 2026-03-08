@@ -1,7 +1,3 @@
-<thinking>
-To confirm, the form is for registration of vendors at a marathon expo. The purpose of this form is to collect general and contact information from vendors, as well as payment details. This form is not affiliated with any specific form platforms and is an original adaptation. The form will be used to collect data for the marathon expo.
-</thinking>
-
 # marathon_expo_vendor_registration_form - Help Guide
 ## Purpose
 The marathon expo vendor registration form is designed to collect information from vendors who will be participating in the marathon expo. This form will be used to gather general and contact details, as well as payment information.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Online Event Registration - Help Guide
 ## Purpose
 This form is used to register and collect information for online events. The form is designed to gather essential details about the event, including its name, date, and time. This data will be used to manage event registrations and facilitate communication with attendees.

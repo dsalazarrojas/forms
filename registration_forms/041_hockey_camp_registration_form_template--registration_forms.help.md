@@ -1,5 +1,3 @@
-<thinking>This form is designed to collect information about participants and coaches for a hockey camp registration process. The form is intended to be completed by parents or guardians of children participating in the camp, as well as coaches who will be leading the camp activities. The purpose of this form is to ensure that all necessary contact and scheduling information is collected to provide a smooth and enjoyable experience for all participants.</thinking>
-
 # Hockey Camp Registration Form Template - Help Guide
 ## Purpose
 This form is used to collect information about participants and coaches for the hockey camp registration process. It helps us get to know you and your participant(s) better, ensuring that we can provide the best experience for everyone involved.

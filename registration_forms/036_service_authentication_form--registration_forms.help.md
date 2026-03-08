@@ -1,11 +1,3 @@
-<thinking>
-This form serves as a service authentication mechanism for businesses to register themselves and their services. The form collects basic information such as business name, owner name, email, phone, address, service type, service level, business email, service description, user ID, and user level.
-
-To prevent duplication, a check is performed to ensure that the business and user are not already registered. If a business or user is found to exist in the database, the form will display an error message and not allow the submission of the form.
-
-The purpose of this form is to provide a streamlined process for businesses to authenticate themselves and their services, allowing them to access specific features and functionality within the system.
-</thinking>
-
 # Service Authentication Form - Help Guide
 ## Purpose
 The Service Authentication Form is designed to collect registration information from businesses and their services, ensuring that each business and user is uniquely identified in the system.

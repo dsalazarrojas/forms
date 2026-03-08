@@ -1,13 +1,3 @@
-<thinking>
-
-The form purpose is likely to collect information from individuals or organizations planning a religious ceremony, such as a wedding or a baptism, to help with the organization and coordination of the event. The form is likely used by event organizers or administrators to gather relevant details about the ceremony, including the date, time, and location, as well as contact information for the person or team responsible for the ceremony.
-
-The form may also be used to collect additional information about the ceremony, such as any special requests or requirements.
-
-To complete this form, follow the steps below.
-
-</thinking>
-
 # Religious Ceremony Registration Form - Help Guide
 ## Purpose
 This form is used to collect information for the organization and coordination of a religious ceremony. You can use this form to register and provide details about your ceremony, such as date, time, location, and contact information.

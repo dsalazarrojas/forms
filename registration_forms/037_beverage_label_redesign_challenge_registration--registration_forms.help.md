@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Beverage Label Redesign Challenge Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from participants in the Beverage Label Redesign Challenge. This challenge aims to encourage designers to rethink and reimagine the labeling of various beverage categories, and this form helps us understand your background, experience, and design concept.

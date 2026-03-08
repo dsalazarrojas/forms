@@ -1,11 +1,3 @@
-<thinking>
-The purpose of the Public Event Coordinator Registration Form is to collect information about upcoming events that will be coordinated by the public. This form is designed to capture essential details about the event, including its type, title, date, time, location, and contact information, as well as the event's status and any additional notes or comments. It's essential that this form is completed accurately and thoroughly, as it will help the event coordinators and administrators understand the event's requirements and make necessary arrangements.
-
-To ensure consistency and accuracy, please note that this form will only be processed if the event type is set to "Yes". If the event type is set to "No", the form will not be considered valid. If a field is marked as required, please ensure that it's filled in correctly to avoid errors.
-
-Please review each field carefully and ensure that you've completed it accurately before submitting the form.
-</thinking>
-
 # Public Event Coordinator Registration Form - Help Guide
 
 ## Purpose

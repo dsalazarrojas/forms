@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the form's purpose is clear and that users understand what information they need to provide. The "Transfer Of Pet Ownership Template" form is a document used to transfer ownership of a pet from one person to another. It's essential to fill out the form accurately and thoroughly to avoid any potential issues during the transfer process. To avoid duplication, users should only fill out this form if they are the actual owner of the pet or have the necessary authorization to transfer ownership.
-</thinking>
-
 # Transfer Of Pet Ownership Template - Help Guide
 ## Purpose
 The "Transfer Of Pet Ownership Template" form is a document used to transfer ownership of a pet from one person to another.

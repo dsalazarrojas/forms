@@ -1,7 +1,3 @@
-<thinking>
-To begin with, the Data Literacy For Teachers Registration Form is designed to collect registration information from teachers who want to participate in various programs and receive follow-up information. This form is not affiliated with any specific form platform and is an original adaptation created by AI. The form's primary purpose is to gather essential details from teachers, which will help them get registered for the programs of their interest and stay updated about the programs. This form should only be filled out once, as duplicate submissions are not allowed.
-</thinking>
-
 # Data Literacy For Teachers Registration Form - Help Guide
 ## Purpose
 The Data Literacy For Teachers Registration Form is designed to collect registration information from teachers who want to participate in various programs and receive follow-up information.

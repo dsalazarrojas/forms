@@ -1,20 +1,3 @@
-<thinking>
-
-This form is for registering users for the Dodgeball tournament. It is used to collect information about the user, including their name, email, date of participation, team members, time of participation, note, phone number, team member count, age, and address. This form is intended for individuals who want to join the dodgeball tournament and participate in the fun. 
-
-This form should only be filled out by users who are interested in participating in the dodgeball tournament. Please ensure that you have read and understood the form instructions before filling it out. 
-
-Please note that the form is divided into the following sections: 
-
-* User information 
-* Participation information 
-* Team information 
-* Additional details 
-
-The form will not be complete without filling out all required fields. 
-
-</thinking>
-
 # Dodgeball Registration Form - Help Guide
 ## Purpose
 The Dodgeball Registration Form is for registering users for the Dodgeball tournament. It is used to collect information about the user, including their name, email, date of participation, team members, time of participation, note, phone number, team member count, age, and address.

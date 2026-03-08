@@ -1,7 +1,3 @@
-<thinking>
-To avoid potential issues with duplicate or irrelevant submissions, this form will help us understand your interest in our tax services. We want to ensure that you're providing accurate and up-to-date information about your needs and preferences. Please be as detailed as possible when filling out this form. We'll review your submission carefully and follow up with you to confirm your interest and answer any questions.
-</thinking>
-
 # Tax Client Interest Registration - Help Guide
 ## Purpose
 This form is used for tax clients to express their interest in our tax planning and preparation services.

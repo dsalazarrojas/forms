@@ -1,8 +1,3 @@
-<thinking>
-This form is intended for users to submit their information for the Retail Predictive Sales Forum, a platform where participants can share their experiences, ask questions, and engage in discussions related to retail sales. The form is designed to gather essential details from participants, including their name, job title, and role, to facilitate meaningful interactions and connections within the community.
-
-</thinking>
-
 # Retail Predictive Sales Forum Registration Form - Help Guide
 ## Purpose
 

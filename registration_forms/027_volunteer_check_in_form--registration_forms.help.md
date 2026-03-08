@@ -1,13 +1,3 @@
-<thinking>
-The purpose of this form is to allow volunteers to check in for events, providing essential information for event management. This form is likely used in events where volunteers may be working at different times and locations, and it's necessary to track their check-in status to ensure accurate volunteer management. It's possible that this form will be used in conjunction with other forms, such as event registration or volunteer scheduling, to gather more comprehensive information about volunteers.
-
-To determine the relevance and non-duplication of this form, consider the following:
-* The form is focused on collecting specific information about volunteers, such as their names, contact information, and check-in status.
-* The form does not appear to contain any sensitive or personally identifiable information, suggesting that it's not for personal identification or verification purposes.
-* The form does not overlap with other forms in terms of fields, but it's possible that it might be used in conjunction with other forms for more comprehensive volunteer management.
-
-</thinking>
-
 # Volunteer Check In Form - Help Guide
 
 ## Purpose

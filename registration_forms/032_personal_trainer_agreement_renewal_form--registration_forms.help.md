@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Personal Trainer Agreement Renewal Form - Help Guide
 
 ## Purpose

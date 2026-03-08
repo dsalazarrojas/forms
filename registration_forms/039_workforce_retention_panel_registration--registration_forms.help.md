@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is for participants to register for a workforce retention panel. The form will collect information about their participation, areas of expertise, and consent for the panel's activities. The fields in this form are designed to be completed by HR leaders and participants who want to be part of the retention panel. The form is not affiliated with any specific form platforms, and the provided metadata is adapted from public surveys in the category "registration_forms" and industry "hr" (not specified, assuming it stands for "human resources"). This form is an original creation and does not use any proprietary content from other form platforms. It is released under the Creative Commons Attribution 4.0 license, allowing users to use, modify, and even commercialize it, as long as they give credit to the original creator.</thinking>
-
 # Workforce Retention Panel Registration - Help Guide
 ## Purpose
 The Workforce Retention Panel Registration form is designed to collect information from HR leaders and participants for the workforce retention panel. This form aims to gather data on their areas of expertise and consent for the panel's activities.

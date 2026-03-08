@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Field Trip Transportation Authorization Form - Help Guide
 ## Purpose
 The Field Trip Transportation Authorization Form is used to authorize the transportation of students to and from school field trips. This form provides essential information about the trip, including student and vehicle details, to ensure a safe and successful journey.

@@ -1,13 +1,3 @@
-<thinking>
-
-This help guide is intended to assist users in filling out the Toastmasters Membership Form. Before proceeding, ensure you have a genuine reason for filling out the form and that you are not duplicating an existing membership.
-
-The form serves as a means of registration for Toastmasters members or potential members, collecting essential details to track and manage club membership effectively.
-
-This guide will walk you through each field on the form to ensure you complete it accurately and correctly.
-
-</thinking>
-
 # Toastmasters Membership Form - Help Guide
 ## Purpose
 The Toastmasters Membership Form is a comprehensive registration tool designed to gather essential information from members and potential members. It is used by Toastmasters club administrators to track and manage club membership effectively.

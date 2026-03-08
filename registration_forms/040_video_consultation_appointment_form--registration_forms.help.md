@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # video_consultation_appointment_form - Help Guide
 ## Purpose
 

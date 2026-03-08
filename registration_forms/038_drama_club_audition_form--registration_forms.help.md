@@ -1,15 +1,3 @@
-<thinking>... This form is designed to be completed by actors, dancers, singers, and musicians who wish to join the Drama Club. It serves as a general registration form where users can input their personal details for auditioning. This form will likely be used to manage the club's members and their roles within it.
-
-The form is designed to be completed by various individuals, hence the option for "Submitted By" and "Submission Date". The multiple notes fields might be used for any miscellaneous information that might be required.
-
-The purpose of this form is to gather data about the individuals interested in joining the club, their preferred roles, and submission information. It's essential to fill out all the required fields to ensure accurate information is captured.
-
-Before completing this form, please review the provided fields and their explanations to ensure accuracy in filling it out.
-
-After reviewing the fields, ensure that all required fields are filled out and the form is submitted correctly.
-
-</thinking>
-
 # drama_club_audition_form - Help Guide
 
 ## Purpose

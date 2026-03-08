@@ -1,6 +1,3 @@
-<thinking>
-This form is intended for registering attendance at an event, likely for internal or external events within an organization. The purpose of this form is to collect relevant information about the event, including details about the event itself, contact information of the attendees, and notes or comments. This form should not be used for events that are not open houses, tours, or meetings. Please ensure that you are filling out this form for one of these event types, as other types of events may have different forms. Also, please avoid duplicating your form submissions, as this will only cause unnecessary data duplication and potential inconsistencies in the records.</thinking>
-
 # Open House Attendance Form - Help Guide
 
 ## Purpose

@@ -1,13 +1,3 @@
-<thinking>
-
-This form is a demo registration form for an e-commerce cloud fulfillment service. It is used to collect information from customers who are interested in exploring the demo version of the service. The form is divided into six pages, each asking for specific information to cater to the customer's needs. The form is designed to be easy to navigate and complete, with clear labels and concise questions. 
-
-The form's purpose is to gather details about the customer's interest in the demo, including contact information, demo requests, personal details, demo type and location, demo assignment and category, and form output and submission. 
-
-This form is meant to be a one-time registration form and is not a repetitive or complex form that requires frequent or multiple submissions. The fields within the form are designed to be simple and easy to understand, making it accessible to a wide range of users. 
-
-Please review this explanation and confirm that the form purpose and content is suitable for your requirements before proceeding with the guide. If you have any changes or updates, please let me know and I'll be happy to assist you in modifying the guide.</thinking>
-
 # e-commerce cloud fulfillment demo registration form - Help Guide
 ## Purpose
 The e-commerce cloud fulfillment demo registration form is designed to collect information from customers who are interested in exploring the demo version of the e-commerce cloud fulfillment service.

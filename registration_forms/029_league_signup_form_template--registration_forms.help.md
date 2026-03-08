@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to gather information for creating a league sign-up form. The purpose of this form is to collect details from users interested in joining a league, which can be used for various purposes such as sports leagues, game tournaments, or online communities. 
-This form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using AI. It is released under CC BY 4.0 and you are free to use, modify, and even sell forms derived from it, just give credit.
-</thinking>
-
 # League Signup Form Template - Help Guide
 
 ## Purpose

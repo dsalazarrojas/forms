@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals or organizations who wish to register in the Donor Network. This form captures essential details such as their name, contact information, role, and bio details. The form's goal is to ensure accurate and comprehensive data for networking and communication purposes within the donor community.
-</thinking>
-
 # Donor Network Registration Form - Help Guide
 
 ## Purpose

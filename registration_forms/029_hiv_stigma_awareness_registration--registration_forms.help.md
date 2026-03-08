@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to collect information from event organizers and attendees for HIV stigma awareness events. This form will be used to determine the needs and preferences of attendees, as well as to gather contact information for follow-up. The form's purpose is not to be a comprehensive registration form, but rather to collect specific information relevant to HIV stigma awareness events. Please ensure that you are registering for the correct type of event and that you have the necessary information before proceeding. If you are unsure, please contact the event organizers for clarification. This form will not be used for duplicate registrations, so please do not register for the same event multiple times.
-</thinking>
-
 # HIV Stigma Awareness Registration - Help Guide
 ## Purpose
 The purpose of this form is to collect information from event organizers and attendees for HIV stigma awareness events. This information will be used to determine the needs and preferences of attendees, as well as to gather contact information for follow-up.

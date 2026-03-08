@@ -1,6 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from potential volunteers interested in joining the Wildlife Rescue Community. The form asks for personal details such as name, contact information, and availability for volunteering, as well as specific information about their volunteer schedule and skills. The form also includes an emergency contact section to ensure that the organization can contact someone in case of an emergency. The form checks for duplication of entries, ensuring that only new registrations are accepted.</thinking>
-
 # Wildlife Rescue Community Registration - Help Guide
 ## Purpose
 The Wildlife Rescue Community Registration form is designed to collect information from potential volunteers to help the organization manage its volunteer schedule and ensure that all volunteers are properly registered and accounted for.

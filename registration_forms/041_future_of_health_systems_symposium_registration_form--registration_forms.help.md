@@ -1,9 +1,3 @@
-<thinking>
-
-This form is designed to collect information from individuals who wish to register for the Future Of Health Systems Symposium. The purpose of this form is to gather necessary details from attendees, such as their name, affiliation, role, department, and other relevant information. This information will be used to manage the symposium registration process and ensure that all attendees have the necessary credentials to participate. This form is only to be filled out by individuals who are registering for the symposium, and not for any other purpose.
-
-</thinking>
-
 # Future Of Health Systems Symposium Registration Form - Help Guide
 ## Purpose
 The Future Of Health Systems Symposium Registration Form is designed to collect information from individuals who wish to register for the symposium. This information will be used to manage the symposium registration process and ensure that all attendees have the necessary credentials to participate.

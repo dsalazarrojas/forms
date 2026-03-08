@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to gather information from users who want to participate in a network. The form is required for all participants, and it will be used to store their contact information and other relevant details. The form has two required fields: First Name, Last Name, State, and Zip. The other fields are optional and can be filled in by the user if they wish.
-</thinking>
-
 # Network Participation Form - Help Guide
 ## Purpose
 This form is designed to collect demographic and contact information from network participants. It is required for all participants, and the information will be used to store and manage participant data.

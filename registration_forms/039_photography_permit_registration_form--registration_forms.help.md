@@ -1,14 +1,3 @@
-<thinking>
-The form "photography_permit_registration_form" is used to register a photography event with the purpose of obtaining a permit. The form captures photographer information, event details, and contact information. The form is designed for both photographers and event organizers to register their events in a standardized and secure way.
-
-Before filling out the form, ensure that you are providing accurate and complete information as required fields are marked with an asterisk (\*). This form should only be used for events that require a permit, and if you're unsure, please consult with our office for further guidance.
-
-This form is part of our efforts to standardize and track photography events. Duplicate or incomplete submissions will be subject to review and verification by our team.
-
-To ensure accurate and efficient processing, please follow the instructions below.
-
-</thinking>
-
 # photography_permit_registration_form - Help Guide
 ## Purpose
 This form is used to register photography events with the purpose of obtaining a permit.

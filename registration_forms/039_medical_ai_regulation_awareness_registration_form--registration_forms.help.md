@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Medical AI Regulation Awareness Registration Form - Help Guide
 
 ## Purpose

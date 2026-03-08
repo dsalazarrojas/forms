@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering users for various events at Sandy Bay, a fictional location. It's essential to ensure you complete this form accurately to ensure you receive the right information and have the correct permissions to access the event. Please ensure that you only submit this form once, as duplicate submissions will not be processed.
-</thinking>
-
 # Sandy Bay Registration Form - Help Guide
 
 ## Purpose

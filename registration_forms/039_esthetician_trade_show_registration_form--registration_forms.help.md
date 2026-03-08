@@ -1,10 +1,3 @@
-<thinking>
-This form is used for registering attendees, exhibitors, or vendors for an esthetician trade show. 
-This form should only be used for registering for attendees, exhibitors, or vendors. If you are trying to register as a customer, please use the "customer registration form".
-The form requires the attendee's name (first and last), email, phone number, booth choice, payment method (credit card, cash, or PayPal), attendee type (attendee, exhibitor, or vendor), and special requests or comments. 
-The form allows the attendee to specify multiple payment methods if needed. 
-</thinking>
-
 # esthetician_trade_show_registration_form - Help Guide
 ## Purpose
 This form is used for registering attendees, exhibitors, or vendors for an esthetician trade show. It captures necessary information for registration.

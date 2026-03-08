@@ -1,13 +1,3 @@
-<thinking>
-
-This form is intended for internal leadership registration, which means it is designed for employees or leadership team members within an organization to register themselves for various internal sessions, meetings, or events. 
-
-The form may be used to collect user details, session preferences, logistics information, and any additional notes from the registrant. This form is likely used by organizations to streamline internal registration processes, enhance attendee management, and improve event organization. 
-
-To the best of my knowledge, this form does not contain any fields that would cause duplicate registrations or conflict. However, if there are any doubts or concerns regarding the form's purpose or any specific field, kindly reach out to the contact address: form@gic.mx
-
-</thinking>
-
 # Internal Leadership Forum Registration - Help Guide
 ## Purpose
 This form is designed for internal leadership registration, allowing employees or leadership team members to sign up for various sessions, meetings, or events within the organization.

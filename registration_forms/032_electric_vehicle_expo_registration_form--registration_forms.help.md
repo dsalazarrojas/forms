@@ -1,8 +1,3 @@
-<thinking>
-This form is likely intended to capture information from attendees, exhibitors, or visitors for the Electric Vehicle Expo. The goal is to gather essential details to manage the event smoothly. Before proceeding, check if you have already registered and ensure that you're not duplicating your registration.
-
-</thinking>
-
 # Electric Vehicle Expo Registration Form - Help Guide
 ## Purpose
 This form collects information for attendees, exhibitors, or visitors of the Electric Vehicle Expo. Please fill it out carefully to ensure accurate data and a smooth event experience.

@@ -1,5 +1,3 @@
-<thinking>Forms are essential to collect user information, and in this case, the "Sustainability In Leasing Seminar Registration Form" is designed to gather data for a specific purpose. Before proceeding, please ensure that this form is the correct one for your needs and that you're not duplicating efforts. If you've already registered for this seminar, you won't need to fill out this form again. Please take a moment to review the form carefully and let's get started!</thinking>
-
 # Sustainability In Leasing Seminar Registration Form - Help Guide
 ## Purpose
 The Sustainability In Leasing Seminar Registration Form is designed to collect information from participants who are interested in attending the Sustainability In Leasing Seminar. This form helps us to get a headcount, understand your interests, and make necessary arrangements for the seminar.

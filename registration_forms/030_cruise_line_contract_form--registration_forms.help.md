@@ -1,6 +1,3 @@
-<thinking>
-To be clear and concrete, this form is a crucial part of the process for travelers and travel agencies to finalize a cruise line contract. This form will be used to gather essential information for both the traveler and the travel agency involved in the contract. It is expected that travelers and agencies will fill out the required fields carefully to ensure that all necessary details are accurate and complete. This form will guide you through each step of the process, and any missing or incorrect information may delay or prevent the contract from being finalized.</thinking>
-
 # cruise_line_contract_form - Help Guide
 ## Purpose
 The cruise line contract form is a critical document used to solidify agreements between travelers and travel agencies for cruise line contracts. It captures all necessary details, including passenger information, payment options, contract terms, and travel specifics.

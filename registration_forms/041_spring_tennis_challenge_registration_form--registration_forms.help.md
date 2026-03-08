@@ -1,7 +1,3 @@
-<thinking>
-We are creating a help guide for the "Spring Tennis Challenge Registration Form" which is used for user registration, specifically for the Spring Tennis Challenge. The form likely aims to collect information for participants in the challenge. To avoid duplication, users should only fill out the form once. The guide will cover the form's purpose, how to complete it, and provide detailed explanations for each field.
-</thinking>
-
 # Spring Tennis Challenge Registration Form - Help Guide
 ## Purpose
 The Spring Tennis Challenge Registration Form is used to register participants for the Spring Tennis Challenge. It is essential to provide accurate and complete information to ensure correct registration and to avoid duplication.

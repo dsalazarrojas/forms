@@ -1,7 +1,3 @@
-<thinking> 
-This is a form for registering for online courses, likely for medical professionals or individuals requiring specialized training. It's designed for people to input their information for the course they wish to take. There are no obvious red flags regarding duplication or inconsistency in the form design. The form seems to be well-structured and easy to understand.
-</thinking>
-
 # Ekg Online Training Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from individuals who wish to register for online courses. It will help us keep track of your details and course preferences.

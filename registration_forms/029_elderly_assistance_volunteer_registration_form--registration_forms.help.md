@@ -1,7 +1,3 @@
-<thinking>
-This form is intended to register volunteers who wish to assist the elderly population. Volunteers may be required to provide their name, contact information, availability, and other details such as whether they can provide elderly assistance, their volunteer role, and the name of the organization they are affiliated with, if applicable. This form does not appear to be part of a larger application process, but rather a simple registration form for those interested in volunteering their time to assist the elderly. Before proceeding, please ensure this form is not already completed by you or someone with the same name. If you are unsure, please contact your local organization or administrator for clarification.
-</thinking>
-
 # Elderly Assistance Volunteer Registration Form - Help Guide
 ## Purpose
 This form is intended for volunteers who wish to assist the elderly population.

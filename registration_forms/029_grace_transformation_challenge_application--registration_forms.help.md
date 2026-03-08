@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for individuals to register for the Grace Transformation Challenge, a fitness program aimed at achieving personal fitness goals. Before starting the challenge, participants are required to provide accurate and honest information about themselves and their emergency contact. This form will help us understand their goals, motivations, and contact information. Please ensure that you are not already registered for the challenge, as duplicate submissions will not be accepted.
-</thinking>
-
 # grace_transformation_challenge_application - Help Guide
 ## Purpose
 The grace_transformation_challenge_application form is designed to collect information from individuals who want to participate in the Grace Transformation Challenge. This form helps us understand your personal goals, motivations, and contact information.

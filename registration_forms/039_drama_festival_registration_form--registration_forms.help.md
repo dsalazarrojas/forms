@@ -1,15 +1,3 @@
-<thinking>
-
-To create a form for registering drama festivals, we want to ensure that the form captures all the necessary information from users to properly process their submission. The main goals of this form are to:
-- Collect user's name, contact information (including email, contact phone number), and group details (if applicable).
-- Capture information regarding production details, such as performance time, group size, and production name.
-- Record the submission details, like submission date, submitted user agent, browser, and IP address.
-- Allow the user to select the submission status of their production (active or inactive).
-
-The form has multiple pages with different types of input fields, which will be explained below.
-
-</thinking>
-
 # drama_festival_registration_form - Help Guide
 ## Purpose
 This form is designed for users to register their drama festival submissions. Please follow these steps to complete the form properly.

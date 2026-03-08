@@ -1,9 +1,3 @@
-<thinking>
-The form is likely a registration form for a zoo volunteer program. It asks for contact information, volunteer type preferences, commitment duration, and submission confirmation details. This information will be used to register volunteers for the zoo's programs and activities.
-This form seems to have been designed to collect data from a wide range of potential volunteers, including those who might be interested in volunteering but haven't made a final decision yet (as indicated by the "Application Notes" field). The "Submission Confirmation" fields are likely for internal or administrative purposes, to track or confirm the submission of the application.
-The fields included in the form seem to suggest that the zoo volunteers will be expected to commit for a certain duration (as indicated by the "Volunteer Commitment Duration" field) and frequency (as indicated by "Volunteer Commitment Frequency"). This form might be used for both new and existing volunteers.
-The options for "Volunteer Type" and "Volunteer Commitment Frequency" are likely to be used for categorizing or scheduling purposes, respectively.
-</thinking>
 # Zoo Volunteer Program Enrollment Form - Help Guide
 ## Purpose
 This form is used to register for the zoo's volunteer program. Please fill out the form completely to help us get to know you better and ensure you receive the right information and opportunities about our programs.

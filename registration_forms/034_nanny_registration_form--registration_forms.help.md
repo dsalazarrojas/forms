@@ -1,11 +1,3 @@
-<thinking>
-This help guide is intended for users who will be filling out the nanny registration form. The form is designed to gather information from potential nannies about their qualifications, availability, and experience. The form includes fields for first name, last name, email, phone number, experience, available days, available time, availability dates, emergency contact information, language proficiency, and references.
-
-Before filling out the form, please ensure that you have all the necessary documents to upload, such as identification, certifications, or other relevant materials. It is also a good idea to review each field carefully to ensure you have filled out all the required information accurately.
-
-To ensure the integrity of the information, please do not fill out this form multiple times. Each submission is a new registration and should be filled out separately for each new application.
-</thinking>
-
 # nanny_registration_form - Help Guide
 ## Purpose
 The nanny registration form is designed to collect information from potential nannies about their qualifications, experience, and availability. This information will be used to determine suitability for nanny positions.

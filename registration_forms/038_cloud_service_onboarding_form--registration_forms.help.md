@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Cloud Service Onboarding Form - Help Guide
 ## Purpose
 This form is designed to gather information from customers about their company and service requirements for onboarding with our cloud services. Please complete this form accurately to ensure a smooth onboarding process.

@@ -1,8 +1,3 @@
-<thinking>
-This form is intended to collect information from users enrolling in the Counseling Skills Workshop. It is designed to be filled out by participants who wish to register for the workshop. This form will be used to track workshop enrollments and provide necessary information for the participant and the workshop administrators. It's recommended that participants fill out the form accurately and thoroughly to ensure that their enrollment is processed correctly. Before filling out this form, please ensure that you have all necessary information ready. 
-
-</thinking>
-
 # Counseling Skills Workshop Enrollment Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users enrolling in the Counseling Skills Workshop.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to gather information from attendees and presenters for the Animal Ethics Discussion Panel. It will help us understand their interests, needs, and preferences to ensure a smooth and productive discussion. To avoid duplication of registration, please do not register multiple times or under different email addresses.
-</thinking>
-
 # Animal Ethics Discussion Panel Registration - Help Guide
 ## Purpose
 This guide will walk you through the process of registering for the Animal Ethics Discussion Panel. The form is split into several sections that will help us understand your background, interests, and needs.

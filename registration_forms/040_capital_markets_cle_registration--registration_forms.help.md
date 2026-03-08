@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Capital Markets CLE Registration - Help Guide
 ## Purpose
 This form is designed to facilitate registration for the Capital Markets Continuing Legal Education (CLE) program. By completing this form, you will be able to select sessions of interest and provide necessary information for registration, including your contact details and CLE credit requirements.

@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from users registering as gym members. This form is part of the overall membership management system, used to create new member records. It's intended to be filled out by individuals who want to sign up as members, either personally or on behalf of another person. The information collected will be used to manage and update member records internally.
-
-To fill out this form, start by providing your first and last name as required fields. You will then need to enter a valid email address associated with your membership. A phone number is also mandatory. You need to select your birth date and indicate your member status, which can be Active, Inactive, or Suspended. Additionally, you will be required to select your membership length, which can be Month, 3 Months, 6 Months, or 12 Months. Finally, you will need to provide a start date, end date, and gym name, which are also required fields.
-
-</thinking>
-
 # gym_member_information_form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from users registering as gym members.

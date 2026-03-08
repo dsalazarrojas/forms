@@ -1,9 +1,3 @@
-<thinking>
-
-This form is used to extend an existing personal training contract between a client and a trainer. The form is used to update or modify the contract terms, payment details, and other relevant information. It is intended for use by clients and trainers to agree or disagree to the extension of their current contract. The form should only be completed once a new contract extension has been agreed upon and the parties have signed the updated terms.
-
-</thinking>
-
 # Personal Trainer Contract Extension Form - Help Guide
 ## Purpose
 The Personal Trainer Contract Extension Form is used to update or modify the terms of an existing contract between a client and a trainer. This form allows clients and trainers to agree or disagree to the extension of their current contract.

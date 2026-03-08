@@ -1,21 +1,3 @@
-<thinking>
-This form is intended to help potential sellers enroll in an online marketplace. The form collects information necessary for a seller to be listed on the platform. To confirm that this form is relevant to your needs, please review the following:
-* Does your organization sell products or services online?
-* Are you a seller looking to list on multiple marketplaces?
-* Are you an individual looking to sell a single product or a small business looking to scale?
-
-Please note that this form is not affiliated with, endorsed by, or derived from any existing form platform. It is an original adaptation using AI-generated metadata from public survey topics.
-
-This form is designed to collect information for sellers to be listed on an online marketplace. To confirm that this form is relevant to your needs, please review the following:
-
-* Are you a new seller looking to get started on the platform?
-* Are you an existing seller looking to update your seller information?
-* Are you looking to list multiple products or services on the platform?
-
-If you are unsure about any of the above, please review the form carefully to ensure it meets your needs.
-
-</thinking>
-
 # Online Marketplace Enrollment Form - Help Guide
 ## Purpose
 This form is designed to help potential sellers enroll in an online marketplace, providing the necessary information to be listed on the platform.

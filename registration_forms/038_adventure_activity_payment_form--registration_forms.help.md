@@ -1,7 +1,3 @@
-<thinking>
-The form's purpose is to collect payment details for an adventure activity, ensuring a smooth and secure transaction process for both the client and the business. It is essential to fill out this form accurately and honestly to avoid any issues with the payment processing. Before proceeding, please ensure that you have the necessary information and authorization to complete the form correctly. If you have already submitted payment details for this activity, please do not re-submit them as this form is meant for new payment requests only.
-</thinking>
-
 # Adventure Activity Payment Form - Help Guide
 ## Purpose
 The Adventure Activity Payment Form is designed to collect essential payment information for an adventure activity, allowing participants to securely provide their payment details.

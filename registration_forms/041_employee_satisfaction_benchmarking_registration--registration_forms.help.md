@@ -1,11 +1,3 @@
-<thinking>
-
-The form purpose is to collect information from employees to gauge their overall satisfaction with their organization's policies, procedures, and overall work environment. This data will help the organization to identify areas of improvement and make informed decisions to enhance the work experience of its employees.
-
-Before proceeding, ensure that you have not already completed this form. If you have previously registered, you will not need to repeat the process.
-
-</thinking>
-
 # Employee Satisfaction Benchmarking Registration - Help Guide
 ## Purpose
 This form is designed to collect feedback from employees to measure their satisfaction with their organization's policies, procedures, and work environment.

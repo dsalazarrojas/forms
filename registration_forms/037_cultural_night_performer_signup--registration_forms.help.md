@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from cultural night performers who wish to showcase their talents on a specific night. The form will help to gather relevant details about the performers, such as their contact information and performance details.
-</thinking>
-
 # Cultural Night Performer Signup - Help Guide
 ## Purpose
 This form is intended for cultural night performers to sign up and provide information about their performances and contact details.

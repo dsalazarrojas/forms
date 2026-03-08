@@ -1,9 +1,3 @@
-<thinking>
-
-This form is for customers interested in registering their products for co-development with a partner. The form is a three-page form designed to collect information necessary to understand the customer's requirements and needs for the product co-development process. It aims to gather details about the product, the collaboration desired, and the submission process. This form is part of the product company's process to identify potential collaborations and opportunities. By filling out this form, customers will be able to get in touch with the partner to discuss their product development project further.
-
-</thinking>
-
 # Product Co Development Registration Form - Help Guide
 ## Purpose
 This form is designed to register your product for co-development with our partner. Please use this form to provide us with information about your product and your collaboration expectations.

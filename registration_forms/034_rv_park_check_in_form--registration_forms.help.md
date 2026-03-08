@@ -1,5 +1,3 @@
-<thinking>...This form is designed to collect information from guests arriving at a park. The form will help us better prepare for their stay. Please fill out the form accurately and completely. Ensure that all fields are filled before submitting. This form will only be used for guests arriving on the specified dates and times. The information collected will be used to manage guest arrivals efficiently...</thinking>
-
 # Guest Arrival Form - Help Guide
 ## Purpose
 This form is used to collect information from guests arriving at a park for their stay. Please fill out the form accurately and completely to help us prepare for their visit.

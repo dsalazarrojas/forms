@@ -1,7 +1,3 @@
-<thinking>
-This guide helps users understand the purpose and usage of the Esthetician Client Intake Form, a form used to collect information from clients before their appointment. The form is intended to be filled out by clients, and the information collected will help the esthetician tailor their services to the client's specific needs. This form should not be filled out by anyone other than the intended client. 
-</thinking>
-
 # Esthetician Client Intake Form - Help Guide
 ## Purpose
 The Esthetician Client Intake Form is a form used to collect information from clients before their appointment. This form helps the esthetician understand the client's medical history, allergies, skincare concerns, and other relevant information to provide the best possible services.

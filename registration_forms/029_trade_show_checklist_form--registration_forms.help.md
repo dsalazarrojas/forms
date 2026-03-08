@@ -1,12 +1,3 @@
-<thinking>
-This help guide is intended to assist users in completing the "trade_show_checklist_form" form in a user-friendly manner. The form is a comprehensive checklist designed to gather information regarding trade shows. It is likely to be used for event organizers, participants, or organizers' staff members to assess and document the experience and success of trade shows. To ensure relevance and non-duplication, this guide will explain each field in the context of the form's objective.
-
-The form's primary purpose is to collect data on various aspects of trade shows, including booth design, construction, installation, marketing materials, staff management, customer experience, and overall evaluation. This form is crucial for trade show organizers to gather feedback and insights to improve future events.
-
-Before proceeding, please note that some fields are required, marked as true in the form's schema. These are essential fields that must be completed to ensure the form's accuracy and usefulness.
-
-</thinking>
-
 # trade_show_checklist_form - Help Guide
 ## Purpose
 The trade show checklist form is designed to gather comprehensive information about trade shows, enabling organizers to evaluate their events and make improvements.

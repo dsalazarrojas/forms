@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect demographic information from users registering for a social innovation in learning cohort. The form is intended to be filled out by individuals interested in participating in the cohort, and the data collected will be used to tailor the experience to the needs of the participants. To ensure accurate data and avoid duplication, users are encouraged to review and confirm their information before submitting the form. This form is divided into multiple pages, each with its own set of fields. Please review each page carefully to ensure you have filled out all required fields before proceeding.
-</thinking>
-
 # Social Innovation In Learning Cohort Registration Form - Help Guide
 ## Purpose
 This form is designed to collect demographic information from users registering for a social innovation in learning cohort. The data collected will be used to tailor the experience to the needs of the participants.

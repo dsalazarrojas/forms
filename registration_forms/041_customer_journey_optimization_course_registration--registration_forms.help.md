@@ -1,15 +1,3 @@
-<thinking>
-This form is designed to collect registration information from users who want to participate in the Customer Journey Optimization Course. The form is used to gather details about the user, their learning goals, and session preferences to provide a tailored experience.
-
-The form is likely to be used by customers (or learners) who want to optimize their customer journey, which is a crucial aspect of business growth and improvement. 
-
-This form will help us to understand the needs and preferences of our customers, so we can adjust our course content and delivery accordingly. 
-
-Please ensure that you're not duplicating your registration for this course as it may cause confusion and lead to a different experience than what you're expecting.
-
-Please ensure that you're registering for the correct purpose, whether it's for personal or business improvement.
-</thinking>
-
 # Customer Journey Optimization Course Registration - Help Guide
 ## Purpose
 This form is designed to register you for the Customer Journey Optimization Course, a learning experience tailored to help you improve your customer journey.

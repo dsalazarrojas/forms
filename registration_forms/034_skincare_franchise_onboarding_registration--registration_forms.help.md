@@ -1,13 +1,3 @@
-<thinking>
-This form is designed for franchisees to provide their onboarding information for their skincare business. The form is a comprehensive onboarding registration process that collects various details about the franchisee's business and individual information. To determine if you should complete this form, ask yourself:
-
-* Are you a franchisee looking to onboard your skincare business with our platform?
-* Have you been asked to complete this form by our platform team or your manager?
-* If so, please confirm that you have the necessary permissions and approvals to complete this form on behalf of your business.
-
-If you have answered yes to the above questions, this guide will help you navigate the onboarding process efficiently.
-</thinking>
-
 # Skincare Franchise Onboarding Registration - Help Guide
 ## Purpose
 This form collects information about your skincare business and individual details to facilitate onboarding on our platform. Please complete all required fields to ensure a successful registration process.

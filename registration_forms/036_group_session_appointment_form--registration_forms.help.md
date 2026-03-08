@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information about a participant attending a group session appointment. The purpose of this form is to gather essential details from the participant, which will help in organizing and managing the appointment efficiently. Before completing this form, please ensure that you have not already submitted it. Duplicate submissions might lead to confusion and errors in the participant's record.
-</thinking>
-
 # Group Session Appointment Form - Help Guide
 ## Purpose
 The Group Session Appointment Form is used to collect participant information for a group session appointment.

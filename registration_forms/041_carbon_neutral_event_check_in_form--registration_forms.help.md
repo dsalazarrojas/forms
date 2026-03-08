@@ -1,10 +1,3 @@
-<thinking>
-To create a help guide that's clear and concise, I'll assume that the form is used for registering attendees to an event, especially one with a focus on sustainability. The form likely aims to collect relevant information about the attendees, their transportation methods, accommodation preferences, and sustainability commitments. The form might already have duplicate registrations, so it's essential to include a note about not duplicating entries. 
-
-Before proceeding, please note that this form is for attendees who are interested in the event's focus on carbon neutrality and sustainability. If you've already registered or attended a similar event, please do not register again, as it will not be possible to make changes to your previous registration.
-
-</thinking>
-
 # Carbon Neutral Event Check In Form - Help Guide
 ## Purpose
 This form is designed to collect information about attendees for a carbon-neutral event. It's used to track attendee demographics, transportation methods, accommodation preferences, and sustainability commitments. 

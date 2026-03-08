@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Finance Professionals Membership Form - Help Guide
 
 ## Purpose

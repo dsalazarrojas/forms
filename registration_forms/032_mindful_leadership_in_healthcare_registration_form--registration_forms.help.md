@@ -1,7 +1,3 @@
-<thinking>
-This form is designed for registering participants for a Mindful Leadership In Healthcare workshop. It is intended to collect essential information from users, including their user details, contact information, emergency contacts, and workshop registration details. The form is divided into several sections, each focusing on a specific aspect of the registration process. The form is required to be completed in its entirety before submission.
-</thinking>
-
 # Mindful Leadership In Healthcare Registration Form - Help Guide
 ## Purpose
 The Mindful Leadership In Healthcare Registration Form is designed to collect information from participants registering for a Mindful Leadership In Healthcare workshop. This form is a crucial step in the registration process, ensuring that we have accurate and complete information about the participants.

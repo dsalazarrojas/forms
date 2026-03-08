@@ -1,11 +1,3 @@
-<thinking>
-This form is for users to register their smart appliances for integration with our platform. The form should only be completed once per user and is a one-time registration process. If a user has already registered, they will not be able to submit the form again.
-
-This form collects general user information and email/phone number for contact purposes. The fields are not strictly required, but it's best to provide them for a smooth registration process. 
-
-Please note that this form is only intended for users registering their own smart appliances, not for other users.
-</thinking>
-
 # Smart Appliance Integration Registration Form - Help Guide
 ## Purpose
 This form is used to register your smart appliances for integration with our platform. Please fill out this form to create your account and enable our services.

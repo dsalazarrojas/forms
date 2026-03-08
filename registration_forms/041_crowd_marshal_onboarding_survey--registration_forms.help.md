@@ -1,12 +1,3 @@
-<thinking>
-This guide is intended to be used as an internal tool for end-users to understand the process and requirements for completing the "Crowd Marshal Onboarding Survey" form. This form is designed to gather essential information from new users for onboarding purposes.
-
-Before proceeding, please ensure that you are completing this form for the correct event type. If you are unsure, please verify the event type with your team lead or manager. This form should only be completed once per user, so please do not duplicate any entries.
-
-Please note that the fields in this form are crucial for accurate onboarding and communication. Make sure to provide the most accurate and up-to-date information. If you are unsure about any field, please consult the relevant documentation or reach out to your team lead for clarification.
-
-</thinking>
-
 # Crowd Marshal Onboarding Survey - Help Guide
 ## Purpose
 The Crowd Marshal Onboarding Survey is a crucial step in the onboarding process for new users. It helps gather essential information to ensure a smooth and successful onboarding experience.

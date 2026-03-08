@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Gym Membership Waiver Form - Help Guide
 ## Purpose
 This guide will help you understand the purpose and requirements of the Gym Membership Waiver Form. The form is used to collect information about your membership details, emergency contacts, and payment information. It's essential to complete this form accurately and truthfully to ensure your membership is properly registered and managed.

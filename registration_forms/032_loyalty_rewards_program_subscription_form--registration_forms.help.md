@@ -1,10 +1,3 @@
-<thinking>
-This form is designed to collect information from customers who are interested in joining a loyalty rewards program. The purpose of this form is to gather necessary details to create a subscription and manage the customer's account.
-This form collects data from customers about their personal and business information, preferences, and program participation details. To ensure that each customer's data is up-to-date and accurate, we kindly request that you fill out the form with the most relevant and truthful information.
-Please note that this form does not collect sensitive or financial information. We respect customer data privacy and will never share or misuse your data.
-If you are filling out the form for your business or organization, please ensure that all the fields are completed with accurate and up-to-date information, and that the form is filled out for each relevant customer.
-</thinking>
-
 # Loyalty Rewards Program Subscription Form - Help Guide
 ## Purpose
 This form is designed to collect information from customers who are interested in joining a loyalty rewards program.

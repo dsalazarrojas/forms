@@ -1,7 +1,3 @@
-<thinking>
-The Youth Finance Support Registration form is designed to gather information from users who are seeking financial support. This form is intended to help users register their interest in obtaining financial assistance for various purposes such as financial support, education, or employment. By filling out this form, users can provide their basic details, financial goals, and relevant documents, if any. This information will be reviewed and used for follow-up actions, as per the user's preference. 
-</thinking>
-
 # Youth Finance Support Registration - Help Guide
 ## Purpose
 This form is for users who are seeking financial support for themselves or their dependents. It helps to gather essential details about the user, their financial goals, and relevant documents, if any.

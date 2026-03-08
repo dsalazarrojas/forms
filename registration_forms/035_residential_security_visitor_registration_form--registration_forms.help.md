@@ -1,11 +1,3 @@
-<thinking>
-
-This form is designed to collect information from visitors to a residential area, including security personnel and residents. The form is used to ensure that visitors are properly registered and their presence is recorded. It is intended to be filled out by visitors upon arrival, and the information collected will be used by security personnel to verify the visitor's identity and manage access to the area.
-
-Before filling out this form, please note that this system checks for duplicate visits. If you have previously visited this location, please do not fill out this form again. If you are unsure about your status or have any concerns, please contact the security personnel on duty.
-
-</thinking>
-
 # Residential Security Visitor Registration Form - Help Guide
 ## Purpose
 This form is used to register visitors arriving at the residential area, ensuring their identity and presence are recorded for security and administrative purposes.

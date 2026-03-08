@@ -1,10 +1,3 @@
-<thinking>
-The purpose of this form is to obtain consent from participants and mentors to record academic mentorship sessions. This form ensures that participants and mentors are aware of how their session will be recorded, what will be done with the recording, and how long it will be stored. This helps maintain transparency and trust in the mentorship program and ensures that all parties involved are on the same page. It's also a legal requirement in many jurisdictions, and this form serves as a record of consent.
-
-To complete this form, start by filling out your name as the participant or mentor, then select the date of the scheduled session. Next, indicate your consent to record the session and choose how you want the recording to be used (e.g., for review, for training, or for research). If you wish to restrict access to the recording, specify who will have access to it. Finally, sign your name to confirm your consent, and date the consent.
-
-</thinking>
-
 # Academic Mentorship Session Recording Consent Form - Help Guide
 ## Purpose
 This form is used to obtain consent from participants and mentors for recording academic mentorship sessions.

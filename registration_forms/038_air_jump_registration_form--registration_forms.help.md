@@ -1,13 +1,3 @@
-<thinking>
-This form is intended to collect registration details for individuals participating in an air jumping activity. It is designed to gather essential information, including jumper details, jump session details, and waiver acceptance.
-The form is divided into two sections: Jumper Details and Jump Session. Jumper Details includes fields for the jumper's name, age, weight, and emergency contact information. The Jump Session section includes fields for the date and time of the jump, as well as medical conditions that may impact jumping participation.
-The form's primary goal is to ensure that jumpers are properly registered and that they understand the risks and requirements associated with air jumping.
-To confirm that this form is relevant, consider the following: 
-* The form is only intended for jumpers who are physically able to participate in the activity.
-* This form is not intended to gather information about jumpers who are under the age of 13.
-* Jumpers are expected to arrive at least 30 minutes prior to their scheduled jump time.
-</thinking>
-
 # Air Jump Registration Form - Help Guide
 
 ## Purpose

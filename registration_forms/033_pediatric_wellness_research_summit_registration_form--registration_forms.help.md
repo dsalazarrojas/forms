@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Pediatric Wellness Research Summit Registration Form - Help Guide
 ## Purpose
 This form is for registering participants in the Pediatric Wellness Research Summit. The purpose of this form is to collect information about the attendees, their research interests, and their preferences for the summit.

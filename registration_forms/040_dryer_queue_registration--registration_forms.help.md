@@ -1,7 +1,3 @@
-<thinking>
-This form is used for registering dryers for a queue, allowing users to provide personal details and scheduling information. It is recommended that users only fill out this form if they have a dryer that needs to be placed in the queue. If you have already registered your dryer in the past, please make sure to check the existing registration before filling out this form to avoid duplication.
-</thinking>
-
 # Dryer Queue Registration - Help Guide
 ## Purpose
 This form is used to register a dryer for a queue, providing details for personal and scheduling information.

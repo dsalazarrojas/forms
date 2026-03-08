@@ -1,26 +1,3 @@
-<thinking>
-The purpose of the gaming convention panel slot booking form is to collect information about panel slots for a gaming convention. This form is likely used to schedule and organize panel slots, which are time slots dedicated to specific events or activities during the convention. Each field in this form should be completed according to the specific requirements and restrictions of the gaming convention, taking into account factors such as event duration, capacity limits, and panel status.
-
-To ensure the form's accuracy and relevance, we should consider the following:
-- The user_name field likely corresponds to the name of the user scheduling or managing the panel slot.
-- The email_address field is probably used for contact purposes.
-- The event_id field is a unique identifier for the event.
-- The start_time and end_time fields define the time frame for the panel slot.
-- The room_name field is used to select the room for the panel.
-- The panel_description field provides a description of the panel.
-- The event_type field specifies the type of event (e.g., workshop, panel discussion, etc.).
-- The start_date and end_date fields define the date range for the panel slot.
-- The event_start_time and event_end_time fields define the start and end time of the panel slot.
-- The event_duration field specifies the duration of the panel slot.
-- The event_status field indicates the status of the event (Active or Inactive).
-- The event_tags field specifies tags or categories for the event.
-- The event_capacity field sets a limit on the number of attendees.
-- The room_capacity field sets a limit on the number of people that can attend in the room.
-- The user_tags field specifies tags or categories for the user.
-
-
-</thinking>
-
 # gaming_convention_panel_slot_booking_form - Help Guide
 ## Purpose
 This guide explains the purpose and usage of the gaming convention panel slot booking form.

@@ -1,8 +1,3 @@
-<thinking>
-We will use this form to collect information from attendees for the BUSTNBURN BBQ event. This will help us ensure accurate registration and provide personalized experiences for each attendee. 
-We need to confirm that each attendee has provided accurate and complete information, so please make sure to fill in all required fields. You can select from the provided options for each field, and some fields also allow you to type in your own text. Please note that some fields are required, indicated by "true" in the required field, and others are optional. If you have any questions or concerns, don't hesitate to reach out to us.
-</thinking>
-
 # BUSTNBURN BBQ Registration Form - Help Guide
 
 ## Purpose

@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to gather registration information from users for a learning science roundtable workshop. This form will likely be used by organizers to collect contact and workshop details from participants. To ensure accuracy, please review the form carefully and make sure you are not duplicating an existing registration.
-</thinking>
-
 # learning_science_roundtable_registration_form - Help Guide
 ## Purpose
 This form is designed to collect registration information from users for a learning science roundtable workshop. It will be used by organizers to gather contact and workshop details from participants.

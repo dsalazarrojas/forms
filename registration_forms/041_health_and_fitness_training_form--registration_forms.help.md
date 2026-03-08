@@ -1,10 +1,3 @@
-<thinking>
-This help guide is intended to support users in understanding the purpose and completion process of the "Health And Fitness Training Form". The form's purpose is to gather information from potential clients to provide personalized health and fitness training programs tailored to their specific needs and goals. 
-
-The form is used to gather information about the client's training experience, available days, preferred contact method, emergency contact information, and other relevant details.
-
-The completion process involves filling in the form with the required and optional fields, providing accurate and complete information to ensure the training program meets the client's needs. It's essential to review each field's purpose and instructions carefully to ensure a successful and effective submission. If you're unsure about any field, please refer to this help guide for clarification.</thinking>
-
 # Health And Fitness Training Form - Help Guide
 ## Purpose
 This form is designed to gather information about you to create a personalized health and fitness training program tailored to your specific needs and goals. 

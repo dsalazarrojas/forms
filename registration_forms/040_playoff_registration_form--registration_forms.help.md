@@ -1,7 +1,3 @@
-<thinking>
-This form was designed to collect information from players and teams participating in a playoff. The purpose of this form is to gather essential details about the player and their team for registration and administrative purposes. The form collects information on player details, team details, and submission details. This form is meant to be used by players and teams to provide accurate and up-to-date information, ensuring a smooth and efficient registration process.
-</thinking>
-
 # Playoff Registration Form - Help Guide
 ## Purpose
 This form is used to collect information from players and teams participating in a playoff. The goal is to gather essential details about the player and their team for registration and administrative purposes.

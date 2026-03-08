@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Finance Department Analysis Registration Form - Help Guide
 ## Purpose
 This form is designed for the registration of finance department analysis data. It is intended for internal use by the finance department to collect and analyze information about different departments.

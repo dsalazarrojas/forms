@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Employee Branding Workshop Registration Form - Help Guide
 ## Purpose
 This form is used for employees to register for the Employee Branding Workshop. The purpose of this workshop is to help employees develop their personal brand and improve their professional presence. By filling out this form, employees can reserve a spot in the workshop and provide necessary information for their registration.

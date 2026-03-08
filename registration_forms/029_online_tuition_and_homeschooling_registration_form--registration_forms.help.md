@@ -1,13 +1,3 @@
-<thinking>
-
-This form is designed to collect information from students or parents for online tuition and homeschooling purposes. The form is used to gather demographic information, contact details, educational background, and course-specific information such as course name, duration, and price.
-
-Before starting, please ensure you have not filled out this form before, as it is a registration form and your information will be stored for future reference. If you are a returning user, it is recommended that you review and update your information as necessary to reflect any changes.
-
-To ensure the accuracy of your submitted data, please double-check all fields carefully before submitting the form.
-
-</thinking>
-
 # Online Tuition And Homeschooling Registration Form - Help Guide
 ## Purpose
 This form is designed for students or parents to register for online tuition and homeschooling services.

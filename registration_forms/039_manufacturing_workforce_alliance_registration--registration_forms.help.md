@@ -1,11 +1,3 @@
-<thinking>
-This guide is intended to help users complete the "manufacturing_workforce_alliance_registration" form, which is used for registering partners and affiliates in a manufacturing workforce alliance. This form is meant to gather information about each partner, including their contact and company details, interests, and sign-up status. The form is designed to be completed by individuals representing the partner organizations.
-
-Before proceeding, please ensure that you are authorized to complete this form on behalf of your organization. 
-
-Also, note that this form is not affiliated with, endorsed by, or derived from any form platform, and is an original adaptation created using public survey topic metadata.
-</thinking>
-
 # manufacturing_workforce_alliance_registration - Help Guide
 ## Purpose
 This form is used for registering partners and affiliates in a manufacturing workforce alliance. It collects information about each partner, including contact details, company information, interests, and sign-up status.

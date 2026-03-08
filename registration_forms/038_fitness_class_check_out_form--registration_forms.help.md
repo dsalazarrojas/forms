@@ -1,7 +1,3 @@
-<thinking>
-The "Fitness Class Check Out Form" is a user-facing form used to collect information from customers when they wish to check out from a fitness class. This form is used to gather details about the class the customer attended, the method of payment, and the amount and date of payment. It is an optional form and users do not have to fill it out if they do not wish to make a payment for the class they attended. This form is part of the overall process of managing customer payments and attendance for the fitness classes.
-</thinking>
-
 # Fitness Class Check Out Form - Help Guide
 ## Purpose
 The Fitness Class Check Out Form is used to collect information from customers when they wish to check out from a fitness class, allowing them to provide details about the class they attended, their payment method, and payment amount and date.

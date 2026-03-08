@@ -1,6 +1,3 @@
-<thinking>
-This form is designed to allow individuals to register for a Guest Analytics Certification Program. The purpose of this form is to collect participant details, motivations for joining the program, and their consent to participate. The form will also ask for contact information and certification program preferences. To ensure the correct completion of this form, it is suggested to review the form fields carefully, and make sure to provide accurate and relevant information. 
-</thinking>
 # Guest Analytics Certification Registration - Help Guide
 ## Purpose
 This form is used to register for the Guest Analytics Certification Program. Please complete this form to provide your details and show interest in joining the program.

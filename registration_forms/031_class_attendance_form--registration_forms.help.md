@@ -1,7 +1,3 @@
-<thinking>
-To start, let's confirm that the purpose of this form is to register student attendance for a class or course. The form should only be filled out for classes that have students who need to be counted. We should also note that the form is not intended to handle large-scale or multiple classes at once. We want to limit the number of fields for each type of student to 5. We should also be mindful of the format for entering dates in the "Date of Class" field.
-</thinking>
-
 # Class Attendance Form - Help Guide
 ## Purpose
 This form is used to register student attendance for a class or course.

@@ -1,5 +1,3 @@
-<thinking>Form purpose: The purpose of this form is to collect information about festival participants, including their contact details, date of birth, and other relevant information. This form is designed to ensure that participants' records are correctly updated in our database. It is recommended that users only fill out this form if they are participating in the festival. This form will not be used for any other purpose. Before filling out this form, please ensure that you have not filled it out previously. If you are filling out this form for someone else, please make sure they are aware that their information is being collected.</thinking>
-
 # festival participation records release form - Help Guide
 ## Purpose
 The festival participation records release form is designed to collect information about festival participants for the purpose of keeping accurate participant records.

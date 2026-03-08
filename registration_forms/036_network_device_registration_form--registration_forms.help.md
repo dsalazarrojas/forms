@@ -1,10 +1,3 @@
-<thinking>
-This form is used for registering network devices within the organization. It is not meant to be filled out by users for personal network device registration, but rather for administrative purposes. The form is used to track and organize network devices, their details, and the users they are associated with. It is intended to be filled out by authorized personnel only. Please note that this form does not register devices in real-time, but rather provides a way to document and track device registration for administrative purposes. 
-
-Please review the fields carefully to ensure that you are providing accurate information for your registered device. If you have any questions or concerns, feel free to reach out to your supervisor or helpdesk.
-
-</thinking>
-
 # Network Device Registration Form - Help Guide
 ## Purpose
 The Network Device Registration Form is used for administrative purposes to track and document network devices, their details, and the users associated with them.

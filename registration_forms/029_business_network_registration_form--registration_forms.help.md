@@ -1,9 +1,3 @@
-<thinking>
-This form is used for registration in a business network. The purpose of this form is to gather information about the registrant, including their contact details, business information, and networking preferences. This form is intended to be filled out by business owners or representatives who wish to join the network. To complete this form, the user must select the correct options for each field, ensuring that all required fields are filled out. Note that some fields are optional and can be left blank. Before proceeding, please review the terms and conditions and indicate agreement. 
-
-After filling out the form, a review will be conducted to ensure that the information provided is accurate and complete. If any required fields are missing, the registration will not be processed.
-</thinking>
-
 # Business Network Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to collect information from business owners or representatives who wish to join the business network.

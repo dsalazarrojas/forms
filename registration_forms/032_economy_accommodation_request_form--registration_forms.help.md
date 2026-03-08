@@ -1,9 +1,3 @@
-<thinking>
-This form is for requesting economy accommodation, which is a type of lodging that offers a more budget-friendly option for individuals or groups. The purpose of this form is to gather information from users about their accommodation preferences, such as check-in dates, special requests, accommodation type, and number of guests. To ensure that users provide accurate information, the form is designed to be easy to navigate and understand. Before completing the form, please make sure you are not already registered in our system or have not submitted a similar request recently.
-
-Also, please note that all fields marked as 'required' are mandatory and must be completed for the form submission to be successful.
-</thinking>
-
 # Economy Accommodation Request Form - Help Guide
 ## Purpose
 The Economy Accommodation Request Form is designed to help users request accommodation for a specific period. This form gathers information about check-in dates, special requests, accommodation type, and number of guests to provide users with the most suitable accommodation options.

@@ -1,9 +1,3 @@
-<thinking>
-The Registration Filter Form is a tool used to filter and categorize registered participants based on their demographic and registration information. This form allows administrators to apply filters to narrow down the participant list according to various criteria such as registration method, event status, and participant status. The goal is to quickly identify and extract relevant participant data for analysis, reporting, or other administrative purposes.
-
-To ensure accuracy, it's essential to complete this form correctly, as incorrect or incomplete data can lead to incorrect results. This guide will walk you through the form's purpose, how to complete it, and what each field represents.
-
-</thinking>
 # Registration Filter Form - Help Guide
 ## Purpose
 The Registration Filter Form is a tool used to filter and categorize registered participants based on their demographic and registration information.

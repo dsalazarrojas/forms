@@ -1,14 +1,4 @@
-## <thinking>
-This guide is for internal use only. The purpose of this form is to gather information about team recognition events. Before proceeding, please ensure that this is a one-time event and not a recurring one. Also, please ensure that you're not submitting duplicate requests.
-
-Please fill out this form if you have a team recognition event that you'd like to have acknowledged and celebrated. 
-
-Please note that all fields are optional unless marked as "required" in the form.
-
-This form is designed for internal use only, please refrain from sharing it with external parties.
-</thinking>
-
-# Team Recognition Event Request Form - Help Guide
+## # Team Recognition Event Request Form - Help Guide
 
 ## Purpose
 

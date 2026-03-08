@@ -1,8 +1,3 @@
-<thinking>
-  The AI-generated "Group Face Painting Registration" form is intended to collect user information and event details for face painting events. This form is designed to gather essential data from users to facilitate a smooth and efficient event management process. 
-  Before using this form, please ensure that it's the correct form for your use case and that you've reviewed the available fields to understand their purpose. If you've previously submitted a registration for this form, please do not resubmit as it might be unnecessary and cause duplication of effort. 
-</thinking>
-
 # Group Face Painting Registration - Help Guide
 ## Purpose
 The "Group Face Painting Registration" form is designed to collect user and event information for face painting events. This form is meant for individuals or groups interested in booking face painting services.

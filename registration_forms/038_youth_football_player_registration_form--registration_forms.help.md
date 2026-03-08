@@ -1,12 +1,3 @@
-<thinking>
-This form is a comprehensive registration form for youth football players, designed to collect essential information from both the player and their parent/guardian. The form is divided into several sections, each addressing a crucial aspect of the player's registration. 
-
-The form's purpose is to ensure that all necessary details are gathered accurately and thoroughly, facilitating smooth and efficient processing. It's crucial to fill out the form completely and accurately to avoid any potential issues during the registration process.
-
-Before proceeding, ensure that the player's data has not been previously registered, to prevent duplication. 
-
-</thinking>
-
 # Youth Football Player Registration Form - Help Guide
 ## Purpose
 This form is designed to collect information from youth football players for registration purposes.

@@ -1,7 +1,3 @@
-<thinking>
-We need to ensure that the help guide is clear and concise for end-users who want to filter sports events by date. The form purpose is to gather information about sports events, which is crucial for planning and management. Before proceeding, ensure that the form is not used for non-relevant purposes and that the user is aware of the required fields. This form is used to filter sports events by date. Please make sure you have the necessary permissions to view and use this form.
-</thinking>
-
 # sports_events_date_filter - Help Guide
 ## Purpose
 The sports_events_date_filter form is designed to collect information about sports events, allowing users to filter these events by date for planning and management purposes.

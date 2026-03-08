@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect registration information from participants for a Virtual Team Building Activity. This form will be used to store and process participant data, so it's essential to ensure that the information submitted is accurate and complete. Please note that this form is not designed for public display, so you should not submit personal or sensitive information that you wouldn't share in person. Before filling out this form, please ensure you are registering yourself or someone else for the correct team and activity. If you're unsure about your registration or have any questions, contact the activity organizers. To avoid errors, review the form carefully before submission.
-</thinking>
-
 # Virtual Team Building Activity Registration - Help Guide
 ## Purpose
 This form collects registration information for participants in Virtual Team Building Activities.

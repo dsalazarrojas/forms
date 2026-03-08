@@ -1,10 +1,4 @@
-> <thinking>
-This form is used to register financial risk modeling sessions. To ensure that the form is used correctly, please note that this form is used to register sessions, not to provide information about existing sessions. If you are looking for information about an existing session, please contact the session administrator directly.
-The form is used to gather information about the session, such as its start date, duration, and maximum number of participants. The form also allows you to select the type of training you will be attending.
-To avoid duplication of sessions, we check for existing sessions before creating a new one.
-</thinking>
-
-# Financial Risk Modeling Session Registration Form - Help Guide
+> # Financial Risk Modeling Session Registration Form - Help Guide
 ## Purpose
 This form is used to register a new financial risk modeling session.
 

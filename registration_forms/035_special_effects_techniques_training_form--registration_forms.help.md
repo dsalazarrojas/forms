@@ -1,12 +1,3 @@
-<thinking>
-This form is designed to collect information from users for the Special Effects Techniques Training Form. It is intended for users who are interested in attending a workshop or training session. The purpose of this form is to gather data on the training session, including the title, date and time, workshop location, and topics to be covered. This form is meant for registration purposes only, and is not intended for other purposes such as payment or login credentials.
-
-This form will guide users through a series of pages, with each page containing one or more fields that require completion. The form is divided into several sections, including Registration Form, Training Session, Workshop Duration, Date and Time, Start Time, End Time, Training Facility, Workshop Location, Training Instructor, Workshop Topics, Additional Notes, and Registration Email.
-
-Each field is clearly labeled and explained, and users are expected to fill out the required fields. Some fields are optional, but are still relevant to the training session.
-
-</thinking>
-
 # Special Effects Techniques Training Form - Help Guide
 ## Purpose
 This form is for registration and information collection for a Special Effects Techniques Training Form. It is designed to gather data on the training session.

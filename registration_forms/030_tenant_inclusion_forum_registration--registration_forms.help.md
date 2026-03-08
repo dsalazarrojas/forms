@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Tenant Inclusion Forum Registration - Help Guide
 
 ## Purpose

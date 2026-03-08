@@ -1,12 +1,3 @@
-<thinking>
-To create a comprehensive and user-friendly help guide for the "Competition Registration Form", we need to ensure that the end-users understand the purpose of the form and how to complete it accurately.
-
-The form is designed to collect crucial information from competition participants, which includes their personal details, registration information, and specific preferences. 
-
-This information is essential for the event organizers to prepare for the competition, provide necessary accommodations, and create a seamless experience for the participants. By filling out the form accurately and thoroughly, participants contribute to the smooth execution of the competition.
-
-</thinking>
-
 # Competition Registration Form - Help Guide
 ## Purpose
 The purpose of this form is to gather essential information from competition participants to ensure a smooth and enjoyable experience during the event. Please fill out the form accurately and thoroughly to enable the organizers to provide the best possible experience.

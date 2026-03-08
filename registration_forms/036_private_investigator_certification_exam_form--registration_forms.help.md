@@ -1,7 +1,3 @@
-<thinking>
-This form is used to register and certify private investigators for their certification exams. The form will be used to collect information from candidates about their certification level, exam date, exam time, exam location, contact person, phone number, email, and any supporting documents. This information will be used to schedule and conduct the certification exams and keep track of the candidates' progress. The form should only be completed by candidates who are eligible for the certification program and have not already submitted the information. 
-</thinking>
-
 # private_investigator_certification_exam_form - Help Guide
 ## Purpose
 This form is used to register and certify private investigators for their certification exams.

@@ -1,24 +1,3 @@
-<thinking>
-To create a user-facing help guide for the Open Peer Review Platform Registration form, we first need to understand the purpose of the form and the fields it contains. Based on the provided YAML, the form appears to be for registering a new peer review platform, likely for research or academic purposes. 
-
-The form is composed of several fields, including:
-
-- A text field for the registration form name (page 1)
-- An email field for the user's email (page 2)
-- A text field for the reviewer name (page 3)
-- A text field for the institution (page 4)
-- A text field for the job title (page 5)
-- A select field for the research area (page 6)
-- A select field for the role (page 7)
-- Text fields for the submitters name and contact number (pages 8 and 9)
-- An email field for the submitter's email (page 10)
-
-The form does not specify the fields as required, but it is likely that all the fields are necessary for a complete registration. The "Registration Form Name" field seems to be a meta-field, likely used for internal identification and management.
-
-Before proceeding, it is worth noting that the form does not contain any fields to confirm the user's identity or authenticate their access rights. This may be an oversight and should be addressed in a real-world implementation.
-
-</thinking>
-
 # Open Peer Review Platform Registration - Help Guide
 ## Purpose
 This guide is intended to assist users in completing the Open Peer Review Platform Registration form.

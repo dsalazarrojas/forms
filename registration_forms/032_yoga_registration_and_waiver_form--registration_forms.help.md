@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Yoga Registration And Waiver Form - Help Guide
 ## Purpose
 This form is used to collect registration information and emergency contact details for participants in a yoga class or program. It's essential to fill out the form accurately and completely to ensure that we can best respond to any medical emergencies or other situations that may arise during the program.

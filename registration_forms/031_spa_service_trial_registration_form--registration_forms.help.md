@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # Spa Service Trial Registration Form - Help Guide
 
 ## Purpose

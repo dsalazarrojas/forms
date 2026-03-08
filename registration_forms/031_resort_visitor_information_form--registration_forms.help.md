@@ -1,8 +1,3 @@
-<thinking>
-This form is designed to collect visitor information at a resort, likely for visitor management and communication purposes. The form likely aims to gather details about visitors, such as their personal details, purpose of visit, and special requirements, to ensure smooth and personalized service during their stay. Before proceeding, ensure that you have not completed this form previously. Please take a moment to review the form carefully and ensure you are providing accurate and relevant information.
-
-</thinking>
-
 # Resort Visitor Information Form - Help Guide
 ## Purpose
 This form is used to collect visitor information for visitor management and communication purposes at the resort.

@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 # lean_six_sigma_certification_exam_form - Help Guide
 
 ## Purpose

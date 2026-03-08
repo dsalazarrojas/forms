@@ -1,7 +1,3 @@
-<thinking>
-The purpose of this form is to collect information from individuals registering for a theater festival. The form is likely used for event registration, and the data collected will be used to organize and manage the event.
-</thinking>
-
 # theater_festival_form_braintree - Help Guide
 ## Purpose
 The theater festival form is designed to collect registration information from attendees, volunteers, and organizers of the event. Please fill out this form accurately to ensure smooth event management.

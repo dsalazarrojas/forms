@@ -1,15 +1,3 @@
-<thinking>
-
-This form is designed for attendees to register for an educational seminar. To determine whether you should fill out this form, please consider the following:
-- Are you an attendee of the seminar?
-- Do you need to provide any additional information for the seminar organizers?
-
-If you answer "yes" to either question, then this form is for you.
-
-Please note that this form is not affiliated with, endorsed by, or derived from any form platform. It is an original adaptation created using public survey topic metadata.
-
-</thinking>
-
 # Educational Seminar Attendance Form - Help Guide
 ## Purpose
 This form is designed to collect attendance information and additional details from attendees of an educational seminar.

@@ -1,7 +1,3 @@
-<thinking>
-This form is designed to collect information from sponsors for displaying products on a platform. The purpose of this form is to gather relevant details about the product and the sponsor, including product name, description, and image, as well as sponsor contact information and submission status. This form will help the platform's administrators to review and display the products correctly.
-</thinking>
-
 # Sponsor Product Display Registration Form - Help Guide
 ## Purpose
 The Sponsor Product Display Registration Form is used to collect information from sponsors for displaying their products on the platform. This form is necessary for the platform to gather details about the products and sponsors, which will be used to make informed decisions about product display.

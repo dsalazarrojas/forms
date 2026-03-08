@@ -1,5 +1,3 @@
-<thinking>...</thinking>
-
 The "Virtual Concert Registration Form" is designed to collect information from users who want to attend or participate in a virtual concert. The form is intended for organizers and administrators to gather relevant details about attendees, including their names, contact information, ticket purchase preferences, and payment methods. This form is not meant for general public use and is primarily used for internal registration purposes.
 
 # virtual_concert_registration_form - Help Guide

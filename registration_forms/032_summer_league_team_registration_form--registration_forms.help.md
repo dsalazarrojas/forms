@@ -1,10 +1,3 @@
-<thinking>
-We're designing a form for team registration, which is a crucial part of organizing team activities, such as sports leagues. This form is likely used by teams to provide information about themselves so that league administrators can understand their details and manage the teams accordingly. It's a simple form that captures essential team information.
-
-To ensure that teams don't duplicate their registrations, this form should be filled out only once per team.
-
-</thinking>
-
 # Summer League Team Registration Form - Help Guide
 ## Purpose
 This form is used by teams to register themselves in the Summer League. It collects essential team information to help league administrators manage teams effectively.

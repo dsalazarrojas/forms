@@ -1,8 +1,3 @@
-<thinking>
-This form is used for checking in attendees at virtual events. It helps to track attendee information, status, and other relevant details. The form can be completed by attendees to confirm their attendance and provide any additional information required by the event organizers.
-Before starting the form, make sure you are not duplicating an existing record for your event. You can check the event's registration form in the database or ask the event organizer if there is already a record for you.
-</thinking>
-
 # Virtual Event Check In - Help Guide
 ## Purpose
 This form is used for checking in attendees at virtual events, allowing you to track your attendance and provide additional information as required.
